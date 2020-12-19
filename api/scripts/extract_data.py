@@ -4,7 +4,9 @@ import pickle
 
 from tqdm import tqdm
 
-from src import DATA_CLINICAL_CASES_FOLDER, DATA_CLINICAL_CASES_DB
+from src import DATA_CLINICAL_CASES_FOLDER, DATA_CLINICAL_CASES_DB, SECTION_MAPPING_FILE_TO_NAME, \
+    SECTION_MAPPING_TO_SKIP, SECTION_LIST
+from src.engine import text_decoder
 from src.helper import log
 
 
@@ -21,13 +23,50 @@ def _validate(input_data_folder, output_pickle_file):
     log.info('Parameters validated!')
 
 
+def __extract_item(file_content):
+    item_dict = dict()
+    mapped_section = str()
+    for file_line in file_content:
+        line_clean = text_decoder.remove_accents(file_line).replace(':', '').strip().lower()  # Clean possible header
+        if line_clean:
+            # Header use case
+            if line_clean in SECTION_MAPPING_FILE_TO_NAME.keys():
+                mapped_section, to_be_appended = SECTION_MAPPING_FILE_TO_NAME[line_clean]
+                if mapped_section not in item_dict:
+                    item_dict[mapped_section] = list()
+                if to_be_appended:
+                    pre_character = '\n' if item_dict[mapped_section] else ''
+                    item_to_be_appended = f'{pre_character}{file_line.strip()}'
+                    if not item_to_be_appended.endswith(':'):
+                        item_to_be_appended += ':'
+                    item_dict[mapped_section].append(item_to_be_appended)
+            else:
+                # Content use case (given a previous header)
+                if mapped_section and line_clean not in SECTION_MAPPING_TO_SKIP:
+                    if mapped_section not in item_dict:
+                        item_dict[mapped_section] = list()
+                    item_dict[mapped_section].append(file_line.strip())
+    # Join all results with end lines
+    return {k: '\n'.join(v) for k, v in item_dict.items()}
+
+
 def _extract(input_data_folder):
     db_dict = dict()
-    txt_file_list = [i for i in os.listdir(input_data_folder) if os.path.splitext(i)[-1] == '.txt']
-    for txt_file_name in tqdm(txt_file_list, total=len(txt_file_list)):
-        txt_file_path = os.path.join(input_data_folder, txt_file_name)
+    file_list = sorted([i for i in os.listdir(input_data_folder) if os.path.splitext(i)[-1] == '.txt'])
+    for file_name in tqdm(file_list, total=len(file_list)):
+        file_id = int(os.path.splitext(file_name)[0].split('_')[-1])  # Extract case identifier from file name
+        file_path = os.path.join(input_data_folder, file_name)
+        with open(file_path, 'r') as f:
+            file_content = f.read().split('\n')  # Get content split by lines
+        item_dict = __extract_item(file_content)
+        if item_dict:
+            db_dict[file_id] = item_dict  # Only save it if it could be split by section
 
-    log.info(f'Clinical cases extracted: [{len(db_dict)}]')
+    log.info(f'Clinical cases extracted: [{len(db_dict)} - {round((len(db_dict) / len(file_list)) * 100.0, 2)}%]')
+    for section_name in SECTION_LIST:
+        s_dict = [d[section_name] for d in db_dict.values() if section_name in d]
+        log.info(f'> {section_name}: [{len(s_dict)} - {round((len(s_dict) / len(db_dict)) * 100.0, 2)}%]')
+
     return db_dict
 
 
