@@ -1,0 +1,46 @@
+Anamnesis
+Mujer de 74 años, hipertensa y sin otros antecedentes médicos de interés que presenta, con inicio súbito, un cuadro clínico consistente en alteraciones conductuales depresivas, astenia creciente e insomnio pertinaz. Tras descartar etiología orgánica mediante exploraciones complementarias de urgencia, se inicia tratamiento psiquiátrico con benzodiacepinas y antidepresivos, sin que la paciente muestre mejoría. Progresivamente la paciente comienza a asociar alucinaciones visuales y auditivas con ideación delirante. Tras 20 días de evolución catastrófica, la paciente presenta desorientación franca, agitación psicomotriz florida y vómitos, por lo que se decide su ingreso hospitalario en Neurología para descartar definitivamente organicidad de la sintomatología.
+
+Hasta el inicio del cuadro descrito, el único tratamiento habitual de la paciente era irbesartán. Independiente para las AVD, toda su vida había sido ama de casa. No presentaba antecedentes familiares oncológicos.
+
+Exploración física
+A su ingreso hospitalario, la paciente se encuentra estable hemodinámicamente y apirética.
+Normocoloreada y normohidratada. Eupneica. No se evidencian alteraciones en la auscultación cardíaca y pulmonar y su abdomen era anodino. Extremidades sin alteraciones. Presenta agitación psicomotriz incipiente con escasa colaboración. Se muestra desorientada en las tres esferas, aunque no se objetivan alteraciones formales del lenguaje. Pupilas isocóricas y reactivas. Pares craneales normales. Moviliza espontáneamente las cuatro extremidades, con reflejo cutáneo-plantar flexor.
+Sensibilidad no valorable. No se evidenció meningismo.
+
+Pruebas complementarias
+» Bioquímica sanguínea, sedimiento urinario y hemograma (4/4/2014) sin alteraciones. Destaca ascenso de la PCR con valor máximo de 122,4 mg/l el 29/4/2014.
+» Entre los marcadores tumorales (15/4/2014) destaca discreta elevación de la enolasa neuronal específica (27 ng/ml). Resto, incluyendo pro-grp (36,3 pg/ml), con valores normales.
+» Proteinograma (29/4/2014) sin alteraciones. Estudio de autoinmunidad negativo (ANA por IFI negativo a 1/80). Anticuerpos antitiroideos y antineuronales (Yo, Hu y Ri) negativos.
+» RM de cabeza (11/4/2014): marcada atrofia cerebral con discreta afectación cerebelosa. Presencia de pequeños focos de alteración de intensidad de señal que sugieren pequeñas lesiones hipóxico-isquémicas crónicas. Sin otros hallazgos significativos. La prueba se repitió el 13/5/2014, sin hallarse otras alteraciones.
+» El electroencefalograma (4/4/2014) mostró signos de sufrimiento cerebral difusos, más acusado en el hemisferio derecho.
+» Estudio del LCR (4/4/2004) de aspecto transparente. Destacan hematíes (184 células/mm3) y leucocitos (4 células/mm3; glucorraquia (57 mg/dl) y proteinorraquia (34 mg/dl) normales. Microbiología (tinciones de Ziehl-Neelsen, BAAR y Gram) negativa. PCR negativa para herpes.
+» Segunda punción lumbar para estudio de autoinmunidad en el LCR realizada el 16/4/2014: presencia de anticuerpos anti-NMDA confirmados el 14/5/2014. De nuevo no se objetivaron alteraciones citobioquímicas.
+» TC toracoabdominopélvica (28/4/2014): masa formada por conglomerados nodulares, que se dispone alrededor de la vena porta principal y se extiende posterior a la cabeza pancreática. Destaca por ser hipovascular y con realce periférico de forma nodular. Este hallazgo, así como su disposición envolviendo los vasos y la ausencia de obstrucción de la vía biliar, sugirió posible linfoma. Sin embargo, no se objetivaron adenopatías retroperitoneales ni mesentéricas significativas, así como tampoco metástasis en otros órganos. A nivel torácico se constató un pequeño derrame pleural bilateral, sin observarse adenopatías supradiafragmáticas.
+» Se completa el estudio de TC con una RM de abdomen y pelvis (29/4/2014), confirmándose una masa sólida pancreática sin signos de infiltración local ni vascular, planteando el diagnóstico diferencial entre adenocarcinoma y linfoma.
+» El 6/5/2014 se realizó la primera PAAF transabdominal pancreática, siendo negativa para adenocarcinoma, resultando compatible con proceso linfoproliferativo, aunque no fue válida para filiar el infiltrado linfoide. Se solicitó una nueva PAAF.
+» El 14/5/2014 se realiza la segunda PAAF, que volvió a mostrar un infiltrado linfoide, sin poder descartar su origen inflamatorio. Se decide solicitar una biopsia tipo tru-cut.
+» El 28/5/2014 se realiza la tercera punción transabdominal, esta vez tipo tru-cut, cuyo resultado el 3/6/2014 es de restos hemáticos no significativos.
+» Finalmente, el 17/6/2014 se consigue realizar varías biopsias mediante ultrasonografía endoscópica lineal, cuyo resultado citológico el 24/6/2014 fue compatible con carcinoma indiferenciado de células pequeñas, de aspecto neuroendocrino.
+
+Diagnóstico
+Carcinoma microcítico de páncreas; enfermedad limitada. Encefalitis autoinmune paraneoplásica por anticuerpos anti-NMDA.
+
+Tratamiento
+Ante la sospecha de encefalopatía autoinmune tras los hallazgos en la TC, se pautó inmunoglobulina polivalente a razón de 0,4 g/kg para un peso estimado de 80 kg. Posteriormente se pautó una megadosis de corticoides. Ante la pobre respuesta neurológica, se decide inmunoterapia de segunda línea, administrándose la primera dosis de rituximab (1 g) el 10/5/2014, recibiendo una segunda dosis a las 2 semanas.
+
+Tras el diagnóstico anatomopatológico, se decide pautar quimioterapia con finalidad paliativa. Inicia el primer ciclo del esquema carboplatino (AUC 4) y etopósido al 75% de la dosis estandar el 25/6/2014.
+Completa seis ciclos sin retrasos, hasta octubre de 2014.
+
+Se decidió administrar radioterapia de consolidación en enero de 2015 sobre lecho pancreático y áreas ganglionares adyacentes hasta alcanzar una dosis de 50,9 Gy.
+
+Tras progresión tumoral en febrero de 2015, inicia el 9/2/2015 una segunda línea de quimioterapia con irinotecán bisemanal en monoterapia, cuya dosis estandar es reducida al 75%, de nuevo por su estado funcional. La paciente ha completado hasta la fecha ocho ciclos.
+
+La paciente no ha precisado tratamiento concomitante de soporte que sea reseñable. Molestias abdominales controladas con analgesia de primer escalón (paracetamol y metamizol).
+
+Evolución
+Durante su ingreso hospitalario, desde finales de marzo de 2014, la paciente continuó con progresivo deterioro neurocognitivo que llegó a requerir, entre otros, tratamiento anticomicial y medidas invasivas de soporte nutricionales.
+
+El tratamiento empírico para la encefalitis consiguió, tras rituximab, la estabilización neurológica como mejor respuesta. La mejoría neurocognitiva se produjo, contra todo pronóstico, y de manera instantánea, días después de la administración del primer ciclo de quimioterapia. Finalmente, la paciente es dada de alta a su domicilio tras una larga y tortuosa estancia hospitalaria, presentando clínica remanente de bradipsiquia y astenia G2, pero siendo independiente para las ABVD. Tras dos ciclos de quimioterapia, la TC de evaluación mostró enfermedad estable. Sin embargo, tras cuatro ciclos, se evidencia una respuesta radiológica parcial que se consolidó en la TC de evaluación tras finalizar la primera línea de quimioterapia. Hay que remarcar la ausencia de toxicidades significativas, a excepción de astenia G1-2 presente a lo largo de toda la enfermedad.
+
+Dado el aceptable estado general de la paciente, que de nuevo se encontró oligoasintomática y sin comorbilidades, con franca mejoría clínica y neurocognitiva, se decidió administrar radioterapia local de consolidación. Se observó, con un intervalo libre de progresión de un mes aproximadamente tras finalizar la RT, primera progresión tumoral. Se planteó una segunda línea de quimioterapia, presentando de nuevo mejoría clínica progresiva. Asimismo, se objetivó de nuevo respuesta parcial en la TC de abril de 2015, tras cuatro ciclos de irinotecán bisemanal. Dada la elevada quimiosensibiidad del tumor y la ausencia de toxicidades significativas, se prosigue en la actualidad con la quimioterapia de segunda línea.

@@ -1,0 +1,25 @@
+Anamnesis
+Paciente de 59 años exfumador de 20 cigarrillos-día y exbebedor de 2 cervezas/día desde hace diez. VIH con carga viral indetectable con el tratamiento antirretroviral. Entre sus antecedentes familiares destacan 2 hermanas y 2 primas diagnosticadas de cáncer de mama antes de los 50 años.
+Independiente para las actividades de la vida diaria y con una vida activa. ECOG 0.
+Consultó en Atención Primaria por una lesión en la cavidad oral de dos semanas de evolución que había crecido rápidamente, haciéndose cada vez más molesta y ocasionalmente sangrante. No recordaba traumatismo o mordedura en esa zona. No hay síndrome constitucional. No sufre molestias a nivel gastrointestinal y sus deposiciones son normales.
+
+Exploración física
+Normocoloreado. Normohidratado. Se apreciaba una lesión excrecente de 2,5 cm de aspecto inflamatorio y ulcerado, adherida al último molar superior. Resultaba dolorosa cuando se tocaba con el depresor. No tenía otras lesiones orales. Auscultación cardiopulmonar y exploración abdominal normales. Peso 67 kg. Talla 169 cm.
+
+Pruebas complementarias
+Analítica de sangre con anemia ferropénica como único hallazgo.
+El diagnóstico anatomopatológico de la biopsia de la lesión de la boca fue de adenocarcinoma con un perfil compatible con metástasis de origen gastrointestinal o células de Meckel según el estudio inmunohistoquímico, con citoqueratina 20 positiva y citoqueratina 7 negativa.
+Se solicitó entonces una PET TC-FDG18 de cuerpo, observándose un depósito focal en región alveolar del segundo cuadrante maxilar izquierdo con extensión gingival, una intensa captación a nivel del cuerpo y antro gástricos con engrosamiento de 20 mm de la mucosa y dos nódulos de 20 mm también hipercaptantes en la glándula adrenal izquierda. Mediante endoscopia digestiva alta se accedió al estómago para la toma de biopsias, siendo estas informadas como adenocarcinoma gástrico difuso con células en anillo de sello. Las pruebas de funcionalidad adrenal fueron negativas, asumiéndose como lesiones metastásicas.
+Los marcadores tumorales fueron curiosamente normales.
+Se realizó también estudio genético dados los antecedentes familiares para BRCA-1 y 2, que fue negativo.
+
+Diagnóstico
+Adenocarcinoma gástrico difuso con células en anillo de sello estadio IV (metástasis en cavidad oral y sospecha de adrenal).
+
+Tratamiento
+Inició quimioterapia según el esquema cisplatino-5-FU. Obtuvimos posteriormente el resultado del estudio HER-2, que fue negativo. Se ofreció además asesoramiento nutricional por parte del servicio de Endocrinología, y tratamiento con hierro oral por anemia ferropénica.
+
+Evolución
+Tras tres ciclos de quimioterapia reevaluamos la enfermedad de nuevo con PET-TC, con hallazgos de posible respuesta parcial sin llegar a cumplir criterios RECIST. Presentaba estabilidad tumoral a nivel gástrico y tendencia a la disminución de las lesiones en la cavidad oral (de 3 a 2 cm) y adrenales.
+Por alta toxicidad hematológica, fundamentalmente trombopenia, a pesar de la reducción de dosis, hubo que retrasar el tratamiento en varias ocasiones. El paciente se encontraba asintomático, manteniendo el peso y buen estado general. Finalmente, tras revisar ausencia de interacciones con su tratamiento antirretroviral, se decide cambiar al esquema XELOX con reducción de dosis al 20 % por mielotoxicidad previa.
+La lesión en la cavidad oral había disminuido hasta hacerse prácticamente indetectable en la exploración. Sin embargo, el paciente presentaba cada vez mayor astenia y molestias digestivas, retrasándose el segundo ciclo de la nueva quimioterapia por mala tolerancia. Tras tres ciclos, se realizó TC de reevaluación donde se objetivó estabilidad tumoral a nivel de la masa gástrica, y ascitis en espacios perihepático, periesplénico, gotieras, interasas y pelvis. No se observaban implantes macroscópicos.

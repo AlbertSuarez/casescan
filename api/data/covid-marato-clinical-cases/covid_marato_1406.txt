@@ -1,0 +1,45 @@
+Anamnesis
+Mujer de 51 años de edad, sin alergias medicamentosas conocidas. Fumadora de 20 paquetes-año. Artritis reumatoidea (AR) seropositiva (anticuerpos cíclicos citrulinados, anti-CCP+) diagnosticada en agosto de 2010, a raíz de poliartralgias y rigidez matutina de dos meses de evolución, de predominio en muñecas. En seguimiento por Reumatología, ha requerido tratamiento inmunosupresor con corticoides, metotrexato y, finalmente, con rituximab por refractariedad de los síntomas. Tras tres ciclos de 1 g de rituximab endovenoso (EV) cada seis meses, se consiguió una remisión clínica de la AR en abril de 2012. En junio de 2012 requirió artrocentesis terapéutica por artritis de rodilla derecha. Como antecedentes familiares refiere cardiopatía isquémica precoz en dos familiares en primer grado. 
+
+Diagnosticada el 12/7/2010 con un melanoma de extensión superficial, en fase de crecimiento radial, con índice de Breslow de 1,57 mm, nivel de Clark IV, sin evidencia de ulceración, regresión ni satelitosis, 1 mitosis/mm2 y un infiltrado inflamatorio de tipo linfocitario, localizado en el segundo dedo del pie izquierdo. El 29/7/2010 se procedió a la amputación de la falange distal del dedo y a una biopsia selectiva de ganglio centinela (BSGC). El estudio anatomopatológico descartó la presencia de neoplasia en la cirugía de ampliación; la BSGC de dos ganglios inguinales mostró micrometástasis de 0,15 mm y tres focos de micrometástasis de 0,3 mm, respectivamente. El 20/8/2010 se practicó una linfadenectomía inguinal sin evidencia de metástasis en ninguno de los siete ganglios extirpados. El diagnóstico final fue de melanoma de extensión superficial, pT2aN2a, estadio IIIA de la AJCC (American Joint Commission on Cancer). La paciente no realizó tratamiento adyuvante y siguió controles clínico-radiológicos.
+
+Tras un seguimiento sin evidencia de enfermedad de dos años, se objetivan múltiples lesiones cutáneas en tránsito tipo nevus azul en EII; con biopsia que confirma metástasis cutánea de melanoma, y estudio de extensión negativo para enfermedad a distancia. Se realizó tratamiento locorregional combinado con imiquimod tópico (una aplicación diaria) e interleucina-2 intralesional (9 MUI semanal) por 4 administraciones (19/10/12-24/1/13) que se suspendió a los tres meses por aparición de lesiones cutáneas nuevas afectando exclusivamente a la EII. El 18/4/13 se procedió a una perfusión hipertérmica con melfalán (100 mg EV, 41 ºC) y TNF (Tumor Necrosis Factor, 2 mg EV) de la EII.
+
+Dos meses más tarde se objetiva la aparición de nuevas metástasis cutáneas y un aumento del tamaño de las prexistentes en EII. El análisis mutacional demuestra que el tumor alberga la mutación BRAF V600E y se considera a la paciente candidata a tratamiento sistémico dentro de ensayo clínico (GO28141) para recibir vemurafenib (960 mg/día) + cobimetinib (60 mg/día) o placebo, vía oral que inició el 26/9/2013.
+
+Como toxicidades presentó desprendimiento seroso de retina macular bilateral grado 1, paniculitis neutrofílica grado 3, rash pápulo-macular grado 3, relacionadas con la medicación de estudio que requirió interrupción del tratamiento en dos ocasiones y dos reducciones de dosis de vemurafenib.
+Además, presentó un infarto agudo de miocardio anterior, Killip I (16/10/2013), que se orientó como una complicación intercurrente, posiblemente no relacionada con el tratamiento, dada la presencia de una placa de ateroma en la arteria descendente anterior en la coronariografía. Sin embargo, se optó por suspender el tratamiento con cobimetinib/placebo por seguridad. La mejor respuesta obtenida fue de enfermedad estable a los seis meses del inicio del tratamiento que se mantuvo hasta el 5/9/2014 cuando se evidenció la progresión de su melanoma por aparición de metástasis hepáticas después de un año de tratamiento con terapia anti-BRAF.
+
+Las opciones de tratamiento en ese momento eran limitadas. Se comenta ampliamente con la paciente la falta de experiencia en el tratamiento de pacientes con antecedentes de enfermedades autoinmunes con inmunomoduladores de las proteínas de control, la posibilidad de aparición de complicaciones inmuno-relacionadas y de la posible exacerbación de su AR de base, a pesar de que la paciente había estado durante >1 año sin requerir tratamiento corticoideo ni inmunosupresor, que la paciente acepta.
+
+El 3/10/2014 inicia tratamiento sistémico de 2.ª línea con ipilimumab (3 mg/kg cada tres semanas).
+
+El 25/10/2014 tras recibir dos dosis de Ipilimumab, la paciente acude a Urgencias por diarreas grado 3 (8-10 deposiciones/día), sin productos patológicos ni fiebre asociada y con dolor cólico abdominal leve grado 1. Negaba fiebre termometrada en domicilio.
+
+Exploración física
+Hipotensa (69/36 mmHg). Taquicárdica (97 x’). Afebril (36,4 ºC). Oligoanuria durante su estancia en Urgencias (diuresis 20 ml/h).
+
+Deshidratación mucocutánea.
+
+Abdomen levemente distendido, con dolor a la palpación de forma difusa. Peristaltismo aumentado. Múltiples lesiones cutáneas (>20), pigmentadas, en región pretibial y muslo junto con linfedema en EII. Resto de examen por aparatos sin hallazgos.
+
+Pruebas complementarias
+» En la analítica sanguínea realizada, se objetivó elevación de proteína C reactiva (30 mg/dL) y anemia leve (hemoglobina 11 g/dl). La radiografía de abdomen mostró una leve dilatación de las asas colónicas, sin niveles hidroaéreos. Coprocultivo: negativo. loxina Clostridium difficile: negativo.
+
+Diagnóstico
+Colitis grado 4 inmuno-mediada relacionada con ipilimumab.
+
+Shock hipovolémico secundario a pérdidas gastrointestinales.
+
+Tratamiento
+Se inició tratamiento para colitis inmuno-mediada con metilprednisolona a 1 mg/kg/día (50 mg/d), cobertura antibiótica empírica con piperacilina-tazobactam, hidratación EV y soporte vasoactivo con noradrenalina dada la inestabilidad hemodinámica, nutrición parenteral total (NPT) e ingreso en Unidad de Cuidados Intensivos (27/10/2014-30/10/2014).
+
+Evolución
+A las 48 horas, se realizó fibrocolonoscopia (FCS), que evidenció mucosa eritematosa y friable, acompañada de ulceraciones bien delimitadas y con diferente profundidad y tamaño de predominio, a nivel de todo el colonn a excepción de recto. La biopsia de la mucosa fue compatible con colitis aguda severa y descartó infección por citomegalovirus (CMV).
+A pesar del tratamiento con corticoides EV a dosis altas, la paciente persistió con diarrea grado 3 durante cinco días. Una vez descartados procesos infecciosos intercurrentes (C.difficile, CMV, coprocultivos negativos) e infecciones susceptibles de reactivación con tratamiento inmunosupresor (VHC, VIH, tuberculosis mediante Quantiferón), se administró infliximab (dosis única 5 mg/kg EV) el 6/11/2014. En los siete días siguientes, la paciente presentó mejoría en la consistencia de las deposiciones con adecuada tolerancia a la progresión de la dieta oral, pudiendo suspender la NPT y siendo posible el descenso progresivo de prednisona. La paciente fue dada de alta con corticoides orales para seguimiento ambulatorio.
+
+Durante la hospitalización se realizaron las pruebas de valoración de respuesta correspondientes a la semana 12 del tratamiento, según las recomendaciones para el tratamiento con ipilimumab. Se evidenció una respuesta radiológica completa a nivel hepático y clínica de las metástasis cutáneas. La biopsia de algunas de las lesiones pigmentadas cutáneas mostró regresión completa del melanoma y numerosos melanófagos en toda la dermis.
+
+El 27/11/2014, tres semanas más tarde, la paciente reingresa por diarrea grado 3. 
+
+La toxina para C.difficile resultó positiva, por lo que se inició tratamiento con vancomicina 250 mg/6 h VO. Ante la persistencia de las diarreas a pesar de antibioterapia, se repitió el estudio de la toxina, que fue negativo, y se realizó una segunda FCS, que mostró afectación difusa de todo marco cólico sugestivo de colitis. La biopsia de mucosa colónica fue compatible con colitis crónica moderadamente activa con abundantes células de tipo linfocito T (CD3 y CD8 positivas), todo ello sugestivo de colitis por ipilimumab. Ante la reactivación de la colitis inmuno-mediada grado 3, córtico-refractaria, se administra una segunda dosis de infliximab (19/12/2014) con mejoría clínica a las 72 horas. La paciente fue dada de alta a los 15 días con resolución progresiva de los síntomas de colitis inmuno-mediada y descenso gradual de los corticoides hasta la suspensión. Actualmente, se encuentra en respuesta completa en seguimiento clínico-radiológico. La AR no ha presentado síntomas ni signos de reactivación ni ha precisado tratamiento específico.

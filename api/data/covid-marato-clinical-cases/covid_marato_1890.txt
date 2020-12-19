@@ -1,0 +1,36 @@
+Anamnesis
+Se trata de una mujer de 39 años sin ningún antecedente personal o familiar de interés, que consultó por aumento de volumen e inflamación a nivel de la mama izquierda. La ecografía, así como la RM de mama sugerían la existencia de un cáncer de mama bilateral y las biopsias de las lesiones confirmaron estos hallazgos. En la mama izquierda se identificó un carcinoma ductal infiltrante, grado 2-3 con focos de diferenciación mucinosa, que expresaba receptores hormonales (receptores de estrógenos 60 % y de progesterona 15 %) y que sobrexpresaba HER-2 en la inmunohistoquímica (+++), con un índice de proliferación alto (mayor al 30 %). Además, la citología de la punción axilar ipsilateral también fue positiva para malignidad.
+En la mama derecha, por el contrario, la anatomía patológica fue de carcinoma lobulillar invasivo de alto grado, con positividad para receptores hormonales (receptores de estrógenos 10 % y progesterona 60 %) y HER-2 no amplificado por FISH.
+En el estudio de extensión, tanto la gammagrafía ósea como la TC toracoabdominopélvica, mostraron la presencia de metástasis óseas en numerosas localizaciones.
+Comenzó tratamiento con docetaxel (75 mg/m2 vía intravenosa cada 3 semanas), trastuzumab (8 mg/kg en el primer ciclo seguido de 8 mg/kg, vía intravenosa cada 3 semanas), pertuzumab (840 mg en el primer ciclo seguido de 420 mg, vía intravenosa cada 3 semanas) y ácido zoledrónico (4 mg vía intravenosa cada 6 semanas), obteniendo respuesta parcial tras seis ciclos. En este momento, se suspendió el docetaxel por neurotoxicidad grado 2, y la paciente continuó mantenimiento con doble terapia anti-HER-2, el ácido zoledrónico y tamoxifeno (20 mg al día vía oral). En marzo de 2017, tras un intervalo libre de progresión de 61 meses, se objetivó progresión de la enfermedad, por lo que se propuso inicio de tratamiento con trastuzumab-emtansina (3,6 mg/kg cada 21 días). Tras el segundo ciclo, la paciente acudió a Urgencias por dolor abdominal, náuseas y vómitos.
+
+Exploración física
+» Estado general regular. Facies álgica.
+» Bien nutrida y bien hidratada. Bien perfundida.
+» La auscultación cardiopulmonar es normal
+» La exploración abdominal denota dolor en la fosa iliaca derecha, con signo de Blomberg positivo.
+
+Pruebas complementarias
+En la analítica realizada en Urgencias, únicamente destaca leucocitosis con neutrofilia y elevación de reactantes de fase aguda.
+El diagnóstico diferencial que se plantea es el de un abdomen agudo focalizado en la fosa iliaca derecha. Las opciones diagnósticas posibles eran salpingitis aguda, embarazo ectópico, apendicitis aguda, tiflitis, obstrucción intestinal, entre otros.
+El embarazo ectópico era poco probable dado que la paciente estaba en amenorrea desde el inicio de la quimioterapia, pero aun así se realizó determinación de beta-HCG en sangre y ésta fue negativa.
+Dado que no se encontraba neutropénica, la tiflitis igualmente era improbable. Y en cuanto a la obstrucción intestinal, quedó descartada tras comprobar que la radiografía simple de abdomen era normal.
+Finalmente, se realiza ecografía abdominal que confirma la presencia de una apendicitis aguda, con leve cantidad de líquido libre abdominal.
+
+Diagnóstico
+» Apendicitis aguda.
+» Carcinoma ductal infiltrante receptores hormonales positivos, HER-2 positivo de mama izquierda.
+» Carcinoma lobulillar infiltrante receptores hormonales positivos, HER-2 negativo de mama derecha.
+» Metástasis óseas difusas mixtas.
+
+Tratamiento
+La paciente fue intervenida mediante cirugía abierta, realizándose una apendicectomía. No se produjeron complicaciones en el postoperatorio inmediato.
+En el estudio anatomopatológico de la pieza quirúrgica, además de los datos de inflamación aguda flemonosa, se identificó la presencia de infiltración por un carcinoma invasivo, con un perfil inmunohistoquímico compatible con origen mamario por la positividad de los receptores hormonales, así como de la tinción GATA3.
+La tinción para E-cadherina fue negativa, así como el status de HER-2 (por inmunohistoquímica), lo que orientaba a un carcinoma de tipo lobulillar, concordante con el que la paciente presentaba en la mama derecha.
+Todo esto indicaba que, además de una apendicitis aguda, se trataba de una metástasis de su neoplasia de mama, en concreto del carcinoma de tipo lobulillar.
+
+Evolución
+La recuperación postoperatoria fue rápida y satisfactoria, siendo dada de alta y llevada a su domicilio a los pocos días de la cirugía.
+Desde la consulta de Oncología Médica, solicitamos TC toracoabdominopélvica para valorar la posible progresión de la enfermedad a otros niveles como pudiera ser a nivel peritoneal, aunque no se objetivaron implantes durante la cirugía. La TC descartó la presencia de enfermedad a otros niveles, persistiendo únicamente las lesiones conocidas en ambas mamas y a nivel óseo.
+Se reinicia, entonces, el tratamiento con trastuzumab-emtansina vía intravenosa a dosis plenas (3,6 mg/kg cada 21 días) con una excelente tolerancia al mismo.
+Actualmente, tras un año de tratamiento, la paciente continua en enfermedad estable, habiendo sido la última reevaluación medida mediante TC toracoabdominopélvica en abril de 2018.

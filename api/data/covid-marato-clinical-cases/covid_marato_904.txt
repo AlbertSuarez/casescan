@@ -1,0 +1,29 @@
+Anamnesis
+Mujer de 42 años sin antecedentes de interés que consulta en enero de 2018 por tos irritativa de tres meses de evolución sin otra clínica asociada.
+
+Exploración física
+» Consciente y orientada en las tres esferas. Muy buen estado general, bien hidratada y perfundida.
+» PA 120/66 mm Hg, FC 80 lpm, saturación O2 del 97 % basal, eupneica, afebril.
+» ACP: tonos rítmicos, sin soplos. Hipofonesis bibasal.
+» ABD: RHA normoactivos, blando, no doloroso, sin masas ni visceromegalias. No hay IP.
+» MMII: sin edema ni signos de TVP.
+» Mama derecha empastada y palpación de adenopatías axilares bilaterales, no dolorosas.
+
+Pruebas complementarias
+Se realiza TC de tórax que muestra múltiples adenopatías axilares bilaterales, retropectorales derechas, mediastínicas, subcarinales, hiliares bilaterales y supraclaviculares. Se objetivó derrame pleural bilateral y nódulos pulmonares aislados, en segmento posterior del LSD, el mayor de 3,5 mm, uno puntiforme en segmento anterior del mismo lóbulo, en LID de 2 mm y de 3,4 mm en LSI y marcado engrosamiento cutáneo de la mama derecha.
+Ante estos hallazgos, se solicita mamografía y ecografía mamaria que muestra una mama derecha con marcado engrosamiento cutáneo y aumento difuso de la densidad, con múltiples áreas de especulación en cuadrantes externos y microcalcificaciones asociadas, además de adenopatías axilares bilaterales con engrosamiento difuso de la cortical y pérdida del hilio graso, radiológicamente sospechosas.
+BIRADS 5.
+El 08/05/18 se realiza BAG de mama y adenopatía derecha, con resultado de carcinoma infiltrante grado 2 de Nottingham por puntuación de 6 (3 + 2 + 1) y componente de carcinoma in situ de patrón sólido, grado intermedio, sin comedonecrosis. Infiltración de tejido fibroadiposo por carcinoma sin identificar ganglio linfático residual. Receptores de estrógenos 100 % de las células tumorales, receptores de progesterona 100 % de las células tumorales, CK19 positivo, Ki67 12 %, HER2 negativo, e-cadherina positivo.
+El 25/05/2018 se realiza una PET para completar estudio, que informa de captación patológica mamaria derecha, adenopatías supraclaviculares, axilares bilaterales, hiliares, mediastínicas y mamaria interna sugestivas de malignidad; engrosamiento septal en base pulmonar izquierda con aumento difuso de la captación, ovarios aumentados con captación patológica, adenopatías retroperitoneales y metástasis óseas múltiples.
+Se somete a broncoscopia con EBUS que confirma afectación ganglionar mediastínica por carcinoma compatible con metástasis de origen mamario.
+
+Diagnóstico
+Carcinoma infiltrante mamario de tipo no específico estadio IV, luminal A.
+
+Tratamiento
+Con diagnóstico de carcinoma infiltrante mamario de tipo no específico estadio IV, luminal A, el 14 de junio de 2018 inicia tratamiento con goserelina 3,6 mg/28 días, letrozol 2,5 mg/día y ribociclib 600 mg/día durante 21 días cada 28 días.
+
+Evolución
+Tras tres meses de tratamiento con excelente tolerancia, se realiza una PET que evidencia respuesta completa metabólica, que se mantiene a los seis meses.
+Ante los deseos de la paciente de suspender bloqueo hormonal, se somete a ooforectomía bilateral el día 4/01/2019, con anatomía patológica que muestra carcinoma concordante con metástasis de origen mamario que infiltra extensamente ambos ovarios en más del 80 % del volumen, alcanzando y perforando la cápsula ovárica y extendiéndose al tejido intersticial del ligamento tubo-ovárico, con invasión linfovascular pero no infiltración perineural.
+La última PET-TC de mayo de 2019 no tuvo captaciones patológicas.

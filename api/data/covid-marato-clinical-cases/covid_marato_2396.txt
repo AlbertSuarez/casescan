@@ -1,0 +1,35 @@
+Anamnesis
+Mujer de 56 años sin alergias medicamentosas conocidas. Entre los antecedentes personales destaca hipoacusia desde la infancia secundaria a meningitis y una úlcera gástrica (H. Pylori positivo).
+Apendicectomizada. Sin tratamiento habitual e independiente para actividades de la vida diaria. Entre los antecedentes oncológicos familiares, su padre falleció a los 70 años por un adenocarcinoma gástrico.
+Acude al Servicio de Urgencias por edema de 15 días de evolución en extremidades inferiores que ha empeorado progresivamente hasta alcanzar raíz de miembros. Se acompaña de disnea de moderados esfuerzos, sin dolor torácico. No sufre síndrome constitucional ni fiebre.
+
+Exploración física
+» Consciente, orientada, colaboradora. Eupneica en reposo.
+» Cabeza y cuello: no ingurgitación yugular. Carótidas isopulsátiles.
+» Tórax: Ritmo regular. Murmullo vesicular disminuido en ambas bases.
+» Mama izquierda: tumoración en cuadrante superoexterno, retracción de pezón que supura.
+» Tumefacción en extremidad superior desde raíz de miembro.
+» Abdomen: blando, depresible. No doloroso durante la palpación. Ruidos presentes.
+» Extremidades inferiores: edema organizado sin signos de trombosis venosa profunda.
+
+Pruebas complementarias
+Analítica: sin alteraciones, excepto: albúmina 1,4 y proteinuria en orina.
+Con estos resultados y dado el cuadro clínico de la paciente, ingresa para estudio en el Servicio de Medicina Interna, donde se solicitan marcadores tumorales (Ca 15,3: 89 y CEA 5,4) y las siguientes pruebas complementarias de imagen:
+» Radiografía de tórax: derrame pleural bilateral.
+» TC de tórax-abdomen: metástasis pulmonares y hepáticas múltiples. Metástasis óseas.
+» Mamografía y ecografía mamaria: asimetría de densidad extensa con múltiples microcalcificaciones heterogéneas pleomórficas en cuadrante superoexterno de la mama izquierda con engrosamiento y retracción cutánea. Adenopatías axilares izquierdas y derechas con extensión extracapsular.
+Con estos resultados se decide:
+» Punción-aspiración aguja fina adenopatía izquierda/adenopatía derecha: compatible con carcinoma.
+» Biopsia aguja gruesa: carcinoma ductal infiltrante, grado II. Estudio inmunohistoquímico:
+» Receptores estrógenos negativo, receptores progesterona negativos, MIB-1 del 30%, HER-2: +++.
+» Biopsia renal: glomerulonefritis membranosa. Estadio I. Ópticamente glomérulos con cambios mínimos. Inmunofluorescencia: depósitos de inmunofluorescencia para IgG y C3. Anticuerpo C4d (intensamente sensible en glomerulopatías membranosas) positivo a nivel de membranas capilares glomerulares con depósitos granulares. IgA, IgM, C1q, C4c, kappa y lambda negativos.
+
+Diagnóstico
+» Carcinoma ductal infiltrante de mama E IV por afectación ganglionar axilar, hepática, pulmonar y ósea.
+» Glomerulonefritis membranosa paraneoplásica.
+
+Tratamiento
+La paciente inicia tratamiento con docetaxel + trastuzumab + pertuzumab a dosis habituales cada 21 días.
+
+Evolución
+Recibe cuatro ciclos con buena tolerancia y mejoría radiológica y clínica (disminución del derrame pleural en radiografía de tórax y de edema en miembros inferiores). Tras 8 ciclos, la paciente presenta una respuesta parcial en la evaluación radiológica (disminución del número y tamaño de lesiones pulmonares y hepáticas con desaparición del derrame pleural) y mejoría analítica (albúmina de 3,1, sin proteinuria en orina). La albúmina se normaliza (3,6) al igual que los marcadores tumorales en el 12º ciclo y se decide programar a la paciente para cirugía del tumor primario. Se realiza mastectomía con vaciamiento axilar, con respuesta histológica en la Anatomía Patológica. Continúa tratamiento con doble anti-HER-2 con respuesta parcial mantenida durante 6 meses y marcadores tumorales normales (CEA 2,5 y Ca 15,3: 9,3). En la última reevaluación, se objetiva disminución de los nódulos pulmonares y no se identifican lesiones hepáticas, por lo que en la actualidad mantiene el mismo tratamiento.

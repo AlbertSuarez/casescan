@@ -1,0 +1,54 @@
+Anamnesis
+69 años.
+ANTECEDENTES PERSONALES:
+ Sin AMC.
+ Tóxicos: exfumador desde hace 1 año. Dosis acumulada: 53 paquetes-año.
+ Laborales: textil.
+ PATOLÓGICOS:
+ EPOC.
+ SAHS.
+ Tumor vesical (PTA G2) que requirió RTU en 2009. Nueva RTU por recidiva en 2010. Última cistoscopia de 2014: normal. Controles en CCEE de Urología.
+ENFERMEDAD ACTUAL:
+ Consulta en marzo de 2016 en 3 ocasiones, por síndrome tóxico con pérdida de unos 8 kg de peso acompañado de disfagia alta, hipo incoercible y marcha atáxica.
+ Se ingresa en M. Interna para estudio el día 11/03/16.
+
+Exploración física
+» NRL: sin nistagmos, PPCC conservados. Sin dismetrías. Hipoestesia en el dorso del pie derecho y zona medial mano derecha. RCP tendencia a la extensión. Romberg negativo. Marcha atáxica.
+» Resto normal
+
+Pruebas complementarias
+Analítica 18/03/16: Normal.
+M. tumorales 18/03/16: Enolasa: 47. RNM cráneo 16/03/16: Normal. LCR 23/03/16:
+» Citología: negativa.
+» Cultivo: negativo.
+» Anticuerpos onconeuronales: presencia de anticuerpos onconeuronales positiva para CV2.
+Confirmado por immunoblot.
+TC toracoabdominal 18/03/16: normal.
+PET-TC 22/03/16: sin evidencia de enfermedad tumoral metabólicamente activa.
+
+Diagnóstico
+Síndrome paraneoplásico neurológico por anticuerpos onconeuronales CV-2, sin hallar enfermedad neoplásica tras estudio exhaustivo.
+
+Tratamiento
+ Se inicia corticoterapia el día 29/03/2016 a dosis de 1 mg/kg + administración de inmunoglobulinas iv (0,4 mg/kg/día x 5 días).
+ Postratamiento inicial: el paciente presenta franca mejoría de la clínica de hipo, tolera dieta sin crisis de broncoaspiración, pero persiste inestabilidad de la marcha, siendo dado de alta el 13/04/17.
+ CCEE de M. Interna, dado que el paciente continúa con ataxia. se decide dar bolus de rituximab, que realiza el día 10/05/16.
+
+Evolución
+Octubre 2016:
+» Enolasa 11/10/16: 41,5. Resto analítica: normal.
+» TC toracoabdominal 14/10/2016: masa en mediastino superior de 50 mm de diámetro mayor.
+Fracturas osteoporóticas de D9 y D12.
+PET/TC 16/11/16 comparada con el estudio previo (30/03/16) muestra nueva aparición de una masa hipermetabólica de 55 x 47mm en el mediastino anterosuperior izquierdo, de carácter tumoral.
+Videotoracoscopia 04/01/2016:
+» Carcinoma de células pequeñas, compatible con primario pulmonar.
+» Inmunofenotipo: CAM5.2+, sinaptofisina+, CD20-, CD3-, queratina 7-, queratina 20-, TTF1+.
+Se deriva a CCEE de Oncología. Primera visita el día 23/01/2017:
+» S/ Paciente refiere astenia grado II. Disnea a moderados esfuerzos. Marcha normal. No disfagia. No hipo.
+OD:
+» Carcinoma microcítico de pulmón en paciente con PS: 2 TxN2M0. Estadio IIIB candidato a inicio de QT de primera línea según esquema carboplatino-VP16, y posterior valoración de RDT según respuesta.
+SD paraneoplásico neurológico por anticuerpos onconeuronales CV2.
+El paciente inicia tratamiento el día 15/02/17. Ha completado hasta la fecha 4 ciclos de carbo-VP16.
+TC de valoración de respuesta 15/05/17: control de masa mediastínica con marcada disminución de medidas respecto del estudio previo, actualmente de 22 x 10 mm (antes 69 mm).
+Se valora como enfermedad estable, por lo que se deciden realizar 2 ciclos más de QT. Y posteriormente valorar RDT de consolidación.
+Actualmente, a nivel clínico el paciente presenta marcha normal, no disfagia, ni hipo. Presenta dolor lumbar secundario a fracturas osteoporóticas.

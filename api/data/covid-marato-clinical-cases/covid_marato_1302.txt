@@ -1,0 +1,25 @@
+Anamnesis
+Mujer de 81 años, con antecedentes de HTA e hipercolesterolemi en tratamiento con hidroclorotiazida y simvastatina, hipertiroidismo y bocio multinodular autónomo tratado con I131 en 2001, carcinoma renal de células claras grado I de Fuhrmann tratado mediante nefrectomía radical izquierda en 2002 y lesión ocupante de espacio de 2 cm en el pancreas en seguimiento desde 2010, con dos PAAF no concluyentes, que se había mantenido estable en todos los controles practicados.
+En agosto de 2011 consulta por disnea de reposo, odinofagia, estridor y tos seca de predominio nocturno de un mes de evolución con empeoramiento franco en la última semana.
+
+Examen físico
+Saturación de oxígeno basal 93 %, taquipnea y estridor laríngeo. Bocio palpable, no doloroso, irregular, destacando nódulo de 3 cm de mayor consistencia en el istmo, desplazable con la deglución, sin adenopatías laterocervicales ni supraclaviculares palpables. Sibilancias generalizadas en la auscultación pulmonar. Performance Status 1.
+
+Pruebas complementarias
+Analítica: normal.
+Gasometría arterial basal: insuficiencia respiratoria parcial.
+Radiografía de tórax: engrosamiento de bandas paratraqueales.
+Nasofibroscopia: sin hallazgos.
+Broncoscopia rígida: biopsia de lesión endotraqueal pediculada en pared anterior a 2 cm de las cuerdas vocales y coagulación con argón. El estudio inmunohistoquímico concluye que se trata de una proliferación epitelial de inmunofenotipo compatible con origen renal (TTF1, cromogranina y HMB45 negativos, CK AE1-AE3, EMA, vimentina y CD10 positivos).
+Ecografía tiroidea: aumento global de la glándula, de predominio en el istmo, con múltiples nódulos de naturaleza sólida, compatible con bocio multinodular.
+PAAF del istmo: positiva para carcinoma compatible con metástasis de origen renal. 
+TC body: gran bocio complejo, heterogéneo, que comprime la vía aérea e infiltra la pared anterior de la tráquea. Lesión hipervascular de 3 cm en unión del cuerpo y cola pancreáticos.
+
+Diagnóstico
+Insuficiencia respiratoria aguda secundaria a metástasis endotraqueal en el seno de un carcinoma renal de células claras estadio IV (metástasis tiroidea y nódulo pancreático de etiología no filiada de probable origen metastásico).
+
+Tratamiento
+Con tratamiento local seriado sobre la lesión endotraqueal se mantiene clínicamente estable hasta que, en julio de 2012, progresa a nivel respiratorio. Se inicia tratamiento con pazopanib oral a dosis plenas, reduciéndose por astenia intensa a 600 mg/día, con buena tolerancia.
+
+Evolución
+En TC de reevaluación posteriores, se observa una progresiva disminución del tamaño tiroideo, con menor impronta sobre la luz traqueal, y de la lesión pancreática, con necrosis interna, lo que sugiere buena respuesta al tratamiento antiangiogénico.

@@ -1,0 +1,33 @@
+Anamnesis
+Presentamos el caso de una paciente de 62 años que acude por vez primera a nuestra institución tras intervenirse en otro centro de un adenocarcinoma de colon localmente avanzado. La paciente no presentaba otros antecedentes médico-quirúrgicos de interés ni refería hábitos tóxicos. Consultó inicialmente por cuadro de pérdida ponderal de peso y alteraciones en el hábito deposicional, lo cual motivó el estudio diagnóstico.
+Tras descartarse en TC de extensión enfermedad a distancia, la paciente se interviene el 3 de noviembre del 2015 mediante una hemicolectomía derecha ampliada (intraoperatoriamente se evidencia un tumor en ángulo hepático de colon con afectación de la serosa y con mesocolon retraído fijo a la serosa de la cuarta porción duodenal sin observarse infiltración; se objetivan, además, adenopatías macroscópicas posiblemente afectas).
+El resultado de anatomía patológica tras revisión del tumor en nuestro centro describe: adenocarcinoma de colon con células en anillo de sello, grado histológico III, que invade grasa pericólica y subserosa; infiltración de 19 de 25 ganglios aislados, infiltración linfovascular y perineural.
+Se trata, por lo tanto, de un adenocarcinoma de colon localmente avanzado pT3pN2bM0, estadio IIIC. Ante el alto riesgo de recaída, se determina estatus mutacional, evidenciándose la mutación BRAF V600E, y estudio de expresión de proteínas reparadoras del ADN, estando expresadas los 4 genes de la vía reparadora (MLHI, MSH2, MSH6 y PMS2).
+Se propone tratamiento adyuvante según esquema XELOX, que la paciente completa sin toxicidades relevantes recibiendo un total de 8 ciclos entre noviembre del 2015 y mayo del 2016.
+EPISODIO ACTUAL:
+Tras un intervalo libre de enfermedad de 14 meses, la paciente consulta en enero del 2017 por un cuadro de disnea progresiva y tos seca sin asociarse fiebre o signos de insuficiencia cardiaca; no refería otra sintomatología por aparatos o sistemas. En radiografía de tórax: áreas de consolidación y nódulos pulmonares.
+
+Exploración física
+La paciente se encontraba estable hemodinámicamente, SatO2 88 %, 24 respiraciones por minuto. Durante la auscultación destacaban algunos sibilantes espiratorios aislados en ambos hemitórax. El resto de auscultación cardiopulmonar, exploración abdominal y de miembros inferiores resultaba normal.
+
+Pruebas complementarias
+Ante el cuadro de insuficiencia respiratoria y resultados de radiografía de tórax, la paciente ingresa para estudio y tratamiento. Se realizan las siguientes exploraciones:
+» Analítica: destaca LDH 556 UI/ml, leucocitos 12,48 x 10^9/l, eosinófilos 4,88 x 10^9/l, CEA 4,5. Función hepática, renal y resto de hemograma normales. Hemostasia normal.
+» TC de extensión: aparición de adenopatías mediastínicas paratraqueales superiores derechas, subcarinales e hiliares bilaterales, de hasta 20 mm. En el parénquima pulmonar, se observa engrosamiento peribroncovascular, con áreas de consolidación parenquimatosa, engrosamiento de cisuras y septos, sugestivo de diseminación broncovascular y linfática metastásica. El resto de la exploración normal.
+Dada la escasa frecuencia de la diseminación linfática única de un adenocarcinoma de colon y la hipereosinofilia asociada, se completa estudio para diagnóstico diferencial de hipereosinofilias y patología pulmonar con las siguientes pruebas:
+» Fibrobroncoscopia + EBUS: se observa estenosis concéntrica del B4 del lóbulo medio derecho. No se observan lesiones endobronquiales. Se toman muestras mediante broncoaspirado selectivo y lavado broncoalveolar además de toma de biopsia de septos interbronquiales y adenopatía subcarinal.
+» Broncoaspirado selectivo (BAS) y lavado broncoalveolar (LBA): cultivo bacteriológico, incluido Legionella spp. y bacilos ácido-alcohol resistentes (BAAR), micológico y PCR de virus respiratorios negativos salvo PCR de coronavirus positiva. En la citología, se evidencia una eosinofilia confirmada con presencia de 60 % de eosinófilos.
+» Estudio parasitológico en heces: antígenos de Giardia duodenales, Entamoeba histolytica y Cryptosporidium spp. negativos.
+» Serología: IgG positivas anti-Micoplasma pneumoniae y Chlamydophila pneumoniae. IgM negativas.
+» Anatomía Patológica: se evidencia en tejido de biopsia de adenopatía subcarinal y de septo interbronquial, infiltración por células compatibles con adenocarcinoma de origen intestinal.
+
+Diagnóstico
+Progresión pulmonar de adenocarcinoma de colon BRAF mutado con presencia de hipereosinofilia en sangre periférica y linfangitis carcinomatosa.
+
+Tratamiento
+Durante el ingreso hospitalario se inicia tratamiento antibiótico con levofloxacino empírico y corticoterapia a dosis de prednisona de 1 mg/kg con mejoría parcial de la clínica, presenta una evolución favorable y es dado de alta a consultas externas para inicio de tratamiento de primera línea según esquema FOLFIRI-bevacizumab.
+La paciente recibe el primer ciclo de FOLFIRI-bevacizumab el 20/02/17, siendo necesario el inicio del tratamiento de forma urgente por empeoramiento clínico e insuficiencia respiratoria aguda con necesidad oxigenoterapia a altos flujos (15 litros por minuto).
+
+Evolución
+La paciente presentó una muy buena respuesta al tratamiento, tanto clínica como objetivamente en las pruebas complementarias. Se evidenció en TC de evaluación de respuesta disminución del tamaño de las adenopatías mediastínicas y mejoría del patrón de linfangitis carcinomatosa. Clínicamente, fue posible la retirada completa de corticoides y la disminución de la necesidad de oxígeno, siendo posible altar a la paciente tras un ciclo de tratamiento con oxigenoterapia domiciliaria a 2 litros por minuto.
+Tras 4 meses del inicio de la quimioterapia, la paciente persiste con respuesta parcial mantenida de la enfermedad, y con una calidad de vida aceptable que le permite disfrutar de su familia.

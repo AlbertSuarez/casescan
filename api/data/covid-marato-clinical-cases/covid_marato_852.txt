@@ -1,0 +1,38 @@
+Anamnesis
+Mujer de 53 años que consulta en abril de 2013 por autopalpación de adenopatía inguinal izquierda de 4-6 meses de evolución.
+
+Como antecedentes personales destaca seguimiento en Ginecología por un nódulo en la mama derecha extirpado en 2008, sin datos de malignidad y control posterior con mamografías negativas (la última en marzo de 2011).
+
+Exploración física
+A la exploración física se palpan adenopatía supraclavicular izquierda, adenopatía axilar izquierda y conglomerado inguinal izquierdo. Mamas sin nódulos palpables. Resto sin hallazgos patológicos.
+
+Pruebas complementarias
+» Su médico de Atención Primaria solicita una TC toracoabdominopélvica, que objetiva múltiples lesiones líticas óseas y adenopatías de predominio en el hemicuerpo izquierdo, sin evidenciar tumor primario.
+» Se procede a su ingreso para completar el estudio. La gammagrafía ósea confirma la afectación metastásica ósea axial y apendicular.
+» Se solicitan mamografía y RM mamaria, que no muestran alteraciones.
+» El 23 de abril de 2013 se realiza biopsia con aguja gruesa de adenopatía inguinal izquierda, con resultado de anatomía patológica definitivo: pequeños fragmentos de tejido de aspecto fibroso masivamente infiltrados por regueros de células neoplásicas constituidos por células de núcleo redondeado con nucléolo prominente y citoplasma amplio y bien definido, que no forma glándulas ni muestra diferenciación escamoide. En el estudio IHQ realizado se observa expresión intensa de CAM 5-2, AE1, AE3 y GCDFP-15. LC, CK 20, RE, RP, cadherina E y S-100 negativas. No se reconoce tejido linfoide. Orienta hacia carcinoma indiferenciado de origen mamario.
+
+Diagnóstico
+Se remite a consultas de Oncología y se decide completar el estudio IHQ, con TTF 1 y CK5 que resultan negativas. Se solita Her-2 (++ [FISH no amplifica]).
+
+Se estima que se trata de un carcinoma mamario triple negativo estadio IV de inicio.
+
+Tratamiento
+Se plantea tratamiento secuencial con antraciclinas y taxanos. Primer ciclo de antraciclinas el 27/5/2013, con respuesta parcial del 50% de enfermedad ósea y ganglionar tras cuatro ciclos. Dadas la buena respuesta y la tolerancia se decide continuar con antraciclinas liposomales.
+
+En la TC de octubre 2013 se describe la práctica desaparición de las adenopatías axilares y retroperitoneales, la disminución de la adenopatía inguinal izquierda a 1 cm (previamente medía 2,3 cm) y lesiones óseas sin cambios.
+
+El 5/11/2013 inicia paclitaxel en esquema semanal, con enfermedad metastásica ósea estable tras tres ciclos. Completa hasta cuatro ciclos y se mantiene desde febrero de 2014 con denosumab (por reacción al ácido zoledrónico).
+
+Evolución
+En la TC del 12/5/2014 se describe la aparición de un nódulo hipercaptante de 1 cm en la mama izquierda y una masa ovárica izquierda de 6 cm de nueva aparición con líquido peritoneal, continuando las lesiones óseas en respuesta parcial.
+
+Se decide solicitar una ecografía mamaria y valoración por Ginecología. El 20/6/2014 se realiza laparotomía exploradora. Se visualiza una masa ovárica izquierda de 6 cm multinodular y dura. Se realiza anexectomía bilateral, con resultado AP de carcinoma metastásico de origen mamario en ambos anejos y en la trompa de Falopio izquierda.
+
+Se realizan también una RM mamaria y una biopsia guiada por ecografía del nódulo, con resultado positivo para carcinoma de mama triple negativo.
+
+Inicia tratamiento en segunda línea con carboplatino-gemcitabina el 9/7/2014, recibiendo tres ciclos. Presenta deterioro progresivo de la función renal, por lo que en septiembre se solicita una ecografía renal que objetiva dilatación de ambos sistemas excretores. Se completa el estudio con una TC que confirma dicho hallazgo secundario a progresión de la enfermedad pélvica. Se solicita valoración por Urología para la colocación de doble J, que no resulta posible, por lo que se procede a la colocación de nefrostomía percutánea izquierda.
+
+Ante la progresión, se decide iniciar tratamiento con eribulina, que inicia el 28/10/2014, con buena tolerancia. En febrero de 2015 aparece una lesión en el párpado inferior izquierdo que se valora en Dermatología y se biopsia en abril de 2015, con resultado de metástasis de carcinoma mamario.
+
+Actualmente, ante la no evidencia de progresión a otros niveles, mantiene tratamiento con eribulina (diez ciclos hasta momento actual), con buena tolerancia clínica y estado general mantenido.

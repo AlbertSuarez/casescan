@@ -1,0 +1,25 @@
+Anamnesis
+Se trata de una paciente de 68 años, con antecedentes de estenosis mitral reumática moderada, dilatación moderada de la aurícula izquierda, función sistólica conservada, y fibrilación auricular paroxística, en tratamiento con dabigatrán.
+Consulta en abril de 2014 por miodesopsias en ojo derecho de meses de evolución.
+Tras exploración oftalmológica y resonancia magnética ocular, se diagnostica de un melanoma coroideo cT2aN0M0 (estadio IIA). El estudio de extensión con PET-TC fue negativo para lesiones a distancia.
+Recibe tratamiento con braquiterapia hasta 72,4Gy y prosigue seguimiento.
+
+Exploración física
+La paciente no presenta alteraciones destacables en la exploración durante el seguimiento, ni en la visita de marzo donde se objetiva la recaída metastásica.
+
+Pruebas complementarias
+Estando asintomática con ECOG 0, en TC toracoabdominopélvica (TAP) en marzo 2018 se objetiva la aparición de nódulos pulmonares subcentimétricos, lesión de partes blandas en mediastino en topografía preaórtica y retroesternal de 1 cm, lesión suprarrenal izquierda de 1,2 cm, y múltiples lesiones hepáticas todos ellos sugestivos de metástasis.
+
+Diagnóstico
+La biopsia hepática realizada el 29/03/2018 confirma el diagnóstico de metástasis por melanoma maligno, sin mutación de BRAF.
+
+Tratamiento
+La paciente presenta buen estado general, sin signos de insuficiencia cardiaca, ECOG 0. Comienza tratamiento de primera línea con ipilimumab con dosis trisemanal de 3 mg/kg intravenoso en mayo 2018.
+
+Evolución
+En el día +21 del 2º ciclo, presenta aumento de AST (215 UI/l) y ALT (209 UI/l), con bilirrubina normal, sin repercusión sintomática, realizándose ecografía abdominal urgente, identificándose únicamente las lesiones hepáticas conocidas, sin cambios.
+La serología hepática es negativa. Con el diagnóstico de hepatitis inmunorrelacionada grado 2, se interrumpe la administración de ipilimumab, con corrección analítica a los 3 días y normalización a los 9 días. Se pauta el 3er ciclo de ipilimumab, y en el día +21, estando la paciente asintomática, con ECOG 0 presenta en analítica AST: 587 UI/l y ALT: 595 UI/l, (hepatitis inmunorrelacionada de grado 3) por lo que se suspende definitivamente el tratamiento con ipilimumab y se pauta metilprednisolona 2 mg/kg intravenoso diario, corrigiéndose los niveles de transaminasas en los primeros días y manteniendo posteriormente corticoterapia oral en pauta descendente durante 4 semanas. Se pauta cotrimoxazol profiláctico.
+En TC-TAP de agosto 2018 presenta desaparición de la lesión retroesternal, disminución de tamaño de las lesiones hepáticas, así como de metástasis suprarrenal izquierda y sin cambios a nivel pulmonar.
+En tratamiento con prednisona 10 mg/día, ingresa en octubre 2018 en Cardiología por presentar fibrilación auricular sintomática, clínica de insuficiencia cardíaca: disnea a leves esfuerzos, ortopnea, manteniendo estabilidad hemodinámica, con péptido natriurético: 858 pg/ml. En el ingreso, se realizan TC-TAP y ecocardiograma, objetivando derrame pleural bilateral y engrosamiento intersticial en relación a insuficiencia cardíaca, derrame pericárdico moderado-grave. El resto de valoración toracoabdominopélvica se muestra sin cambios respecto a estudio previo. Por ecocardiografía, destaca descenso de fracción de eyección del ventrículo izquierdo (FEVI), con FEVI estimada por método de Simpson del 50 % en el ingreso, siendo la FEVI estimada del 64 % en Ecocardiografía realizada en enero 2018, sin cambios en la morfología estructural de la válvula mitral ni de los gradientes y tampoco de las presiones del flujo a su través.
+Se inicia tratamiento con digoxina, bisoprolol, furosemida y espironolactona. Ante persistencia de la clínica, y tras valoración por Oncología Médica, y sospecha de cardiotoxicidad por ipilimumab, se ajusta tratamiento de insuficiencia cardiaca, se pauta corticoides a dosis altas (metilprednisolona intravenoso 40 mg cada 12 horas), con mejoría clínica y reducción de BNP posterior (200 pg/ml) tras varias semanas. Se continúa tratamiento corticoide a dosis decrecientes hasta completar 6 semanas de tratamiento. En TC-TAP de control de enero 2019 no se visualiza derrame pleural, el derrame pericárdico es menor, disminuye la metástasis adrenal izquierda, no se observan lesiones metastásicas hepáticas, los nódulos pulmonares no presentan cambios.
+Actualmente, la paciente continúa seguimiento, manteniendo ECOG 1, y con enfermedad estable persistente en última valoración por TC TAP en mayo 2019 tras la respuesta inicial.

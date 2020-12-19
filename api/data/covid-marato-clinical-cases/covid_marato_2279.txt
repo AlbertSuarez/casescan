@@ -1,0 +1,18 @@
+Anamnesis
+Paciente de 38 años sin alergias medicamentosas conocidas y que como antecedentes personales destaca una inducción mediamentosa con testorenoa exógena para canvio de sexo, de mujer a hombre, pendiente de histerectomia junto con salpingo-ooforectoía y realizada una mastectomia bilateral en 2008, consulta en el Hospital por notarse bultoma en mama izquierda. Niega traumatismos previos, no fiebre, no dolor ni otra clínica.
+
+Exploración física
+Paciente con ECOG 0, consciente y orientado; Se objetiva un nódulo duro, móvil, de unos 10mm de diámetro, en cuadrante superoexterno de la región mamaria izquierda. No se palpan adenopatias axilares. Cicatrices de mastectomía previa en buen estado, sin signos de infección. Resto de exploración física sin alteraciones.
+
+Pruebas complementarias
+Se procede a extracción de una analítica sanguínea con marcadores tumorales, que se encuentra dentro de los parámetros de la normalidad. Se realiza una mamografia, que resulta patológica por lo que se realiza una ecografia de la mama, que evidencia un nódulo hipoecogénico irregular de 9mm en cuadrante superoexterno de la región mamaria izquierda, BIRADS 5. No se visualizan ganglios axilares.
+Dados los hallazgos, se realiza biopsia de la lesión.
+
+Diagnóstico
+Se realiza biopsia de la lesión, siendo positiva para carcinoma ductal infiltrante de mama grado I, pendiente determinación de progesterona y estrógeno, Ki67 y HER2.
+
+Tratamiento
+Con el resultado previamente citado en la anatomia patológica de la lesión, se realiza tumorectomía + ganglio centinela. La pieza quirúrgica confirma que se trata de un carcinoma ductal infiltrante grado I, siendo un pT1b (10mm) N0(sn) Mx RE 100% RP 70% Ki 67 18% HER2 -, con invasión perineural, sin evidenciarse infiltración limfática ni de vasos sanguíneos, y con márgenes quirúrgicos libres a más de 5mm.
+
+Evolución
+Se trata de un paciente con diagnóstico de Carcinoma ductal infiltrante de mama izquierda pT1b N0(sn) RE 100% RP 70% Ki 67 18% HER 2-, con antecedente de mastectomia bilateral hace 8 años por cambio de sexo, de mujer a hombre y, actualmente en curso de testosterona exógena. Como tratamiento adyuvante a la cirugía, se inició tamoxifeno y se indicó radioterapia, estando actualmente en curso.

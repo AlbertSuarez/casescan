@@ -1,0 +1,18 @@
+Anamnesis
+Presentamos el caso de un varón de 79 años, médico jubilado, con antecedentes de HTA, intervenido de hernia inguinal derecha en 2008 y prótesis de rodilla izquierda en 2011. Recibe tratamiento con amlodipino 5 mg e irbesartan 150 mg.
+Es diagnosticado en 2009 a raíz de PSA de 14 ng/ml, de un adenocarcinoma de próstata Gleason 5 + 4, enfermedad localizada. Recibe tratamiento con radioterapia local seguido de doble bloqueo androgénico durante 3 años con leuprorelina y bicalutamida. Continúa revisiones hasta junio de 2018, momento en que inicia cuadro de alteración del ritmo deposicional, objetivándose una recidiva locorregional con infiltración rectal y afectación ganglionar. La biopsia prostática confirma un carcinoma neuroendocrino de célula pequeña en el 100 %, por lo que se inicia cisplatino-etopósido del que recibe 4 ciclos hasta octubre de 2018. Presentó neuropatía periférica grado 3 que obligó a suspender el tratamiento continuando entonces en revisiones. En enero de 2019, presenta clínica larvada de desorientación temporoespacial, pérdida de memoria reciente, así como episodios paroxísticos y autolimitados de temblor mandibular por lo que se decide ingreso para estudio.
+
+Exploración física
+Índice de Karnofsky de 70. Desorientación temporal con una marcada alteración de la memoria inmediata que recupera con pistas. Se objetivan 5 episodios de clonías hemifaciales izquierdas de 10 segundos de duración, con sensación de angustia y llanto no provocado.
+
+Pruebas complementarias
+Hemograma, bioquímica y coagulación sin alteraciones. Se amplía con ácido fólico, B12, marcadores tumorales, serologías de varicela, hepatitis B, hepatitis C y QuantiFERON que resultan normales. Se realiza TC craneal donde se observa isquemia de pequeño vaso. En la resonancia magnética (RM) cerebral destaca una hiperseñal en ambos lóbulos temporales, a nivel corticosubcortical insular derecho y amígdala temporal izquierda, compatible con encefalitis autoinmune. Se realiza vídeo-electroencefalografía (V-EEG) sin objetivarse actividad epileptiforme. Se completa estudio con IgA y estudio inmunológico tiroideo básico siendo negativo. Posteriormente, se determinan Ac antineuronales en sangre, con resultado positivo para anti-HU.
+
+Diagnóstico
+Por tanto, nos encontramos ante un paciente con el diagnóstico de encefalitis límbica autoinmune por Ac anti-HU, que presenta una recaída locorregional y ganglionar por un carcinoma neuroendocrino indiferenciado de próstata.
+
+Tratamiento
+Recibe tratamiento anticomicial con levetiracetam con mejoría de las clonías faciales. Una vez conocida la etiología autoinmune, se inicia tratamiento inmunosupresor con bolos endovenosos de metilprednisolona 1 g/24 horas durante 5 días.
+
+Evolución
+Respuesta favorable inicial al tratamiento sin objetivarse nuevos episodios de clonías faciales, aunque persisten fallos de memoria. Tras finalizar corticoterapia, presenta tres crisis tónico-clónicas generalizadas sin recuperación, precisando intubación orotraqueal e ingreso en Unidad de Cuidados Intensivos. Se administra levetiracetam, midazolam y diazepam con buena evolución pudiendo ser extubado. Se inicia entonces nuevo tratamiento inmunosupresor con rituximab asociado a ciclofosfamida oral a dosis metronómicas, presentando mejoría clínica con desaparición de la labilidad emocional, y sin nuevos episodios convulsivos.

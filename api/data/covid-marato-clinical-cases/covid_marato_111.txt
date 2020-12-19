@@ -1,0 +1,25 @@
+Anamnesis
+Se presenta el caso de un varón de 47 años en la actualidad, natural de Alicante, trabajador en la construcción, casado y con dos hijos, con buen apoyo socio-familiar.
+El paciente consultó en su médico de Atención Primaria en octubre de 2008 (cuando tenía 36 años de edad), por presentar tos con expectoración hemoptoica ocasional de 4 días de evolución asociado a febrícula sin otra clínica adicional.
+
+Exploración física
+Durante la exploración, el paciente presentaba buen estado general, con ligera hipofonesis a nivel de lóbulo superior del pulmón derecho (LSD), siendo el resto de la exploración normal.
+
+Pruebas complementarias
+Se solicitó desde su médico de Atención Primaria una radiografía de tórax que objetivó una masa a nivel de lóbulo superior derecho, completándose el estudio con TC toracoabdominopélvica que confirmaba la presencia de una masa de 3,5 cm a nivel de lóbulo superior derecho sugestivo de neoplasia pulmonar, además de nódulo milimétrico subpleural sin hallazgos a otros niveles.
+Se realizó además PET-TC en la que la masa captaba con un SUV máximo de 16,7, y resonancia magnética cerebral descartó la presencia de metástasis a este nivel.
+Diagnóstico
+Tras realización de biopsia con aguja gruesa (BAG) a nivel de lesión en lóbulo superior derecho, fue diagnosticado de adenocarcinoma de pulmón cT2cN1M0.
+
+Tratamiento
+Se intervino mediante lobectomía superior derecha y linfadenectomía hilio-mediastínica en diciembre de 2008. Posteriormente, recibió 4 ciclos de quimioterapia adyuvante con cisplatino-vinorelbina que finalizó en abril de 2009.
+Continuó controles en consultas externas de Oncología, objetivándose, en noviembre en 2011, recaída pulmonar y metástasis cerebral única a nivel parietal izquierdo de 5 mm, por lo que recibió radioterapia holocraneal paliativa desde el 28/11/2011 hasta el 13/12/2011, sin presentar toxicidad aguda.
+De forma paralela, se solicitó determinación de mutación en EGFR, que resultó negativa, por lo que se inició quimioterapia de primera línea con cisplatino-pemetrexed en diciembre de 2011. Recibió cuatro ciclos con respuesta parcial menor a nivel torácico y estabilidad de la lesión cerebral. Dada la persistencia de la lesión única a nivel cerebral, se administró tratamiento con radioterapia esteroatáxica (SBRT), y se inició pemetrexed de mantenimiento, siendo suspendido tras séptimo ciclo por nefritis intersticial secundaria al fármaco.
+En julio de 2013, se objetivó crecimiento de la lesión parietal izquierda en la resonancia magnética (RM) cerebral, siendo intervenido mediante craneotomía, con resultado histopatológico compatible con gliosis y necrosis.
+En septiembre de 2013, se objetivó nueva progresión a nivel pleural y ganglionar diafragmática e hiliar derecha. Se solicitó la mutación de ALK, siendo ésta positiva (noviembre 2013). Inició crizotinib a 200 mg/24 horas (ajustada por bradicardia), con respuesta parcial.
+Tres años más tarde, presentó nueva progresión de la enfermedad a nivel cerebral, con aparición de tres nuevas lesiones, decidiéndose tratamiento con SBRT que recibió entre el 02/03/2016 y el 14/03/2016 con una dosis total de 30 Gy.
+En la RM cerebral tras SBRT se objetivó aparición de nuevas lesiones milimétricas supratentoriales. Se decidió continuar con controles trimestrales (ya que había recibido previamente radioterapia holocraneal, dos SBRT y una cirugía a nivel cerebral).
+En noviembre de 2017, la enfermedad progresó nuevamente a nivel pulmonar y cerebral. Inició tratamiento con alectinib a 600 mg cada 12 horas con reducción de las lesiones cerebrales y pulmonares.
+
+Evolución
+En controles posteriores, el paciente presentó buena evolución, encontrándose en el momento actual asintomático, independiente total para las actividades de la vida diaria, y desarrollando una vida completamente normal.

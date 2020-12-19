@@ -1,0 +1,26 @@
+Anamnesis
+El paciente acude a Urgencias por exacerbación de su dolor abdominal habitual, localizado en epigastrio e irradiado a ambos hipocondrios, sordo y de fuerte intensidad, de 8 sobre 10, que no cede con analgesia de primer escalón, sin otros síntomas asociados.
+
+Exploración física
+A su llegada a Urgencias, destaca una tensión arterial de 200/110 mm Hg. A nivel abdominal, presenta dolor a la palpación en hemiabdomen derecho, sin signos de irritación peritoneal. Resto de exploración, incluida la neurológica, anodina.
+
+Pruebas complementarias
+En Urgencias se objetiva un empeoramiento de su patrón habitual de colestasis (bilirrubina de 1,67, FA 406, GGT 739), aumento de las enzimas de citólisis (GOT 766, GPT 694) y aumento de troponinas 0,7 y coagulopatía (INR 1,37 y fibrinógeno de 244).
+Dada la alteración analítica y el dolor abdominal, se realiza una TC de abdomen donde se observan infartos renales bilaterales y trombosis de una rama de la arteria hepática, con áreas subsecuentes isquémicas.
+Debido a la presencia de coagulopatía e infartos viscerales, se inicia anticoagulación con heparina de bajo peso molecular (HBPM). Asimismo, dada la alteración del perfil hepático, se solicita estudio de virus hepatotropos (VHB, VHC, CMV y VEB) que resulta ser negativo.
+El paciente ingresa en planta de Oncología Médica para estudio.
+
+Diagnóstico
+Endocarditis marántica (EM) con afectación embólica sistémica (esplénica, hepática, renal y del sistema nervioso central), manifestada por dolor abdominal, episodio de amnesia global transitoria, y alteración del nivel de conciencia de forma paroxística en paciente con carcinoma ductal infiltrante de páncreas mucosecretor de alto grado estadio IV por afectación hepática.
+
+Tratamiento
+HPBM para la EM.
+
+Evolución
+Se realiza ecoendoscopia con toma de biopsia para filiación del proceso tumoral, que resulta ser un carcinoma ductal infiltrante de páncreas mucosecretor de alto grado estadio IV por afectación hepática.
+Durante el ingreso, el paciente presenta un episodio de mareo, sudoración y sensación de pérdida de fuerza de la mano izquierda, con elevación de y con ECG normal. Se solicita una valoración cardiológica urgente que incluye una realización de ecocardiograma transtorácico (ETT) en la que se objetiva una imagen dudosa de vegetación en la válvula aórtica y una insuficiencia aórtica moderada. Se decide ampliar el estudio con ecocardiograma transesofágico (ETE). Finalmente, el ETE muestra una imagen compatible con endocarditis.
+Tras este hallazgo, se toman cultivos microbiológicos y se inicia antibioterapia empírica con vancomicina, ampicilina y gentamicina. Los hemocultivos resultaron estériles y el paciente continuó sin presentar fiebre. Se realizan ETT y ETE de control, donde persiste una masa adherida en la cara ventricular del velo coronario derecho que impresionaba de haber aumentado de tamaño. Se amplió el estudio de microorganismos causantes de endocarditis con hemocultivos negativos: serología de fiebre
+Q. Brucella y Chlamydia pneumoniae; y PCR de Bartonella, Borrelia, Coxiella y Rickettsia. Todos ellos resultaron negativos.
+Dada la asociación entre episodios de alteración del nivel de conciencia paroxísticos (que solían coincidir con momentos en los que se suspendía la HBPM puntualmente) e imagen de endocarditis, se solicita TC craneal, resultando ésta normal.
+En ese momento, se tuvo en consideración un episodio de amnesia global transitoria que había tenido lugar 4 meses atrás y que, a priori, no se había relacionado con la enfermedad tumoral, puesto que dicho síntoma precedió a la clínica constitucional. Visto en perspectiva, no podía descartarse que dicho suceso tuviera relación con el cuadro de EM actual, por lo que se pidió una resonancia magnética craneal donde se observaron infartos supra e infratentoriales de perfil lacunar y distinto tiempo de evolución, que sugerían origen tromboembólico cardiaco.
+Lamentablemente, el perfil hepático del paciente comenzó a empeorar de forma progresiva. Esto, asociado a un marcado empeoramiento clínico, hizo que el paciente no fuera candidato a tratamiento con quimioterapia y que se optara por control sintomático exclusivo.

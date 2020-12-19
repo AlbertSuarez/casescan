@@ -1,0 +1,23 @@
+Anamnesis
+Presentamos a un varón de 36 años, sin alergias medicamentosas conocidas. Exfumador de 5 paquetes/año. En 1999, fue diagnosticado, tras autopalpación, de una masa indolora testicular de la capa granulosa localizada, interviniéndose mediante orquiectomía izquierda y linfadenectomía retroperitoneal. No recibió tratamiento quimioterápico adyuvante.
+En octubre de 2011, tras una paresia aguda en el miembro superior izquierdo, se diagnostica de metástasis frontoparietal derecha. En la tomografía computarizada (TC) toracoabdominal se evidencian nódulos pulmonares múltiples, que se biopsian y son compatible con metástasis de neoplasia poco diferenciada de tumor de la capa granulosa. Ante estos hallazgos, recibe radioterapia holocraneal 30 Gy (3 Gy/fracción) y tres ciclos de cisplatino 100 mg/m2 d1 y etopósido 100 mg/m2 d1-3 con ingreso en UCI por sepsis grave secundaria a neutropenia febril, continuando hasta completar 6 ciclos con monoquimioterapia basada en platino.
+Tras el 5.º ciclo de cisplatino, el paciente comienza con tos seca persistente y aumento del tamaño mamario, por lo que se deriva a nuestro centro para estudio.
+
+Examen físico
+ECOG 1. Afebril. Ginecomastia bilateral. No presenta adenopatías periféricas palpables. ACR con tonos rítmicos a buena frecuencia. Disminución del murmullo vesicular en la base derecha. Abdomen y miembros inferiores sin alteraciones relevantes. Exploración neurológica con funciones superiores conservadas, sin déficits motores ni sensitivos. No presenta dismetrías.
+
+Pruebas complementarias
+Laboratorio: normal, salvo hemoglobina 90 g/l, con volumen corpuscular normal.
+Ecocardiografía: fracción de eyección del ventrículo izquierdo: 55,6 %.
+TC de cráneo y de tórax y abdomen: afectación cerebral sin cambios. Aumento del tamaño y número de las masas pulmonares en el lóbulo inferior derecho 60 mm, lóbulo medio derecho 30 mm y lóbulo superior izquierdo 18 mm.
+Aumento del tamaño de las adenopatías: subcarinal 42 mm y pretraqueales derechas 25 mm. Aparición de derrame pleural derecho.
+Revisión de la anatomía patológica pulmonar: tumor de la granulosa. Inmunohistoquímica (IHQ) +: inhibina, vimentina y calretinina. IHQ-: EMA, sinaptofisina y marcadores linfoides. Pérdida de expresión de PTEN.
+
+Diagnóstico
+Progresión pulmonar y adenopática de un tumor testicular de la capa de la granulosa.
+
+Tratamiento
+Recibe paclitaxel 80 mg/m2 semanal asociado a inhibidor PI3K oral continuo cada 28 días.
+
+Evolución
+El paciente ha recibido 9 ciclos, con excelente calidad de vida y resolviéndose la ginecomastia. Ha requerido descenso de dosis por rash cutáneo de grado 3 relacionado con terapia PI3K y neurotoxicidad de grado 3 secundaria a paclitaxel. Respuesta parcial mantenida desde el 2.º ciclo hasta día de hoy.

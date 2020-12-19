@@ -1,0 +1,29 @@
+Anamnesis
+Varón de 63 años que acude a nuestro servicio para valoración de tratamiento adyuvante tras ser intervenido de neoplasia de mama.
+Como antecedentes personales, debemos destacar su historia familiar con un padre con cáncer de próstata a los 60 años.
+No presenta alergias medicamentosas conocida ni hábitos tóxicos, tan sólo HTA con buen control higiénico-dietético.
+Como historia oncológica previa, nuestro paciente fue diagnosticado en 1984 (a los 30 años) de carcinoma ductal infiltrante (CDI) de mama izquierda, tratado mediante mastectomía radical y vaciamiento axilar izquierdo (T2N0M0), receptores hormonales y status HER-2 desconocido. Sin tratamiento adyuvante posterior, de alta en 1989 tras 5 años de seguimiento sin evidencia de recaída.
+
+Exploración física
+» Buen estado general, ECOG 0. Eupneico en reposo.
+» Cicatriz de mastectomía bilateral, sin evidencia de letálides ni nódulos cicatriciales. Sin adenopatías laterocervicales, supraclaviculares ni axilares.
+» Resto de la exploración anodina.
+
+Pruebas complementarias
+En diciembre de 2013, nota nódulo retroareolar en mama derecha, consultando con su médico de Atención Primaria. Dados los antecedentes, le solicitan una mamografía de forma preferente dando comienzo el proceso diagnóstico:
+» Mamografía derecha (enero 2014): aumento del patrón glandular.
+» Ecografía mama derecha (enero 2014): nódulo sólido retroareolar de 1 cm. No se visualizan adenopatías axilares. Se realiza BAG.
+» Anatomía Patológica: carcinoma invasor. Receptores estrógenos 98 %, progesterona >1 %, Ki67 18 %, Hercep-test histocore (1+): sobreexpresión negativa.
+
+Diagnóstico
+Carcinoma de mama bilateral metacrónico.
+
+Tratamiento
+En febrero de 2014, se interviene mediante mastectomía simple más técnica selectiva de ganglio centinela, con el siguiente resultado anatomopatológico: carcinoma ductal infiltrante de 1,5 cm, grado histológico 3 (2 + 3 + 3) sin invasión linfovascular. Bordes quirúrgicos libres de tumor. Afectación de piel y pezón. Ganglio linfático centinela derecho sin evidencia de metástasis (pT4N0 (0/1) M0, estadio IIIb). Se propone tratamiento adyuvante con quimioterapia esquema adriamicina-ciclofosfamida (123/1.236 mg) por un total de 4 ciclos con buena tolerancia que finaliza en mayo de 2014. Posteriormente, comienza tratamiento con tamoxifeno, y recibe radioterapia adyuvante sobre pared costal (50 Gy) con boost integrado en cicatriz (60 Gy).
+
+Evolución
+En septiembre de 2015, es valorado en la Unidad de Cáncer Familiar, resultando portador de la mutación patogénica en BRCA 2 (c.8174_8185delGGTATGCTGTTAinsTT / p.Trp2725Phefs), por tanto presenta un síndrome de cáncer de mama y ovario hereditarios.
+Continúa tratamiento con tamoxifeno, y seguimiento en consulta periódico semestral, sin mostrar signos de recidiva locorregional.
+En octubre de 2016, se detecta una elevación del PSA de 5,84 ng/ml (determinación previa normal). Se deriva a consultas de Urología, donde le realizan un nuevo control con los siguientes resultados: PSA 6,67 ng/ml-PSA libre 0,89ng/ml-cociente PSA libre/PSA: 13,34. Le realizan una biopsia en cuya anatomía patológica resulta compatible con adenocarcinoma de próstata Gleason 8 (faltan las pruebas de imagen de la próstata).
+Se realiza prostatectomía radical + linfadenectomía bilateral en enero de 2017.
+Anatomía Patológica: adenocarcinoma acinar Gleason 9 con infiltración bilateral, con extensión extraprostática multifocal a nivel del lóbulo prostático izquierdo. Bordes de resección libres. Ausencia de invasión de vesículas seminales. Linfadenectomía derecha (3/10 ganglios con afectación metastásica) e izquierda (0/6).

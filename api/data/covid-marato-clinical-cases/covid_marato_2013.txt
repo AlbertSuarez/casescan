@@ -1,0 +1,33 @@
+Anamnesis
+Varón de 48 años que acude en agosto de 2012 tras la realización de amputación en hallux derecho a la primera valoración por Oncología Médica.
+Antecedentes: no alérgicos. Patológicos: diabético hace 3 años sin tratamiento. HTA en tratamiento. Enolismo crónico.
+Trastorno afectivo bipolar. Quirúrgicos: apendicectomizado.
+Enfermedad actual: desde hace 2 años presentaba una lesión hiperpigmentada en el hallux del pie derecho, que ocasionalmente sangraba.
+
+Examen físico
+Muñón de hallux derecho en buen estado, presencia de adenopatías inguinales derechas. Resto de exploración sin alteraciones.
+
+Pruebas complementarias
+- Biopsia cutánea: melanoma ulcerado.
+- AP de resección de melanoma: melanoma lentiginoso acral en fase de crecimiento vertical, ulcerado. Clark IV. Breslow 6,8 mm, sin infiltración linfovascular.
+- TC de tórax-abdomen-pelvis: sin signos concluyentes de extensión tóraco-abdómino-pélvica de melanoma.
+Micronódulos en el lóbulo superior derecho a valorar en controles sucesivos.
+- Se realiza linfadenectomía inguinal electiva en octubre de 2012.
+- AP: metástasis de melanoma en 4 de los 13 ganglios aislados.
+
+Diagnóstico
+Melanoma lentiginoso acral en fase de crecimiento vertical ulcerado Clarck IV Breslow6,8 mm pT4b N2a M0 estadio IIIB.
+
+Tratamiento
+En enero de 2013 inicia tratamiento adyuvante con interferón a altas dosis según el esquema Kirkwood, este se basa en el estudio ECOG 1684: interferón alfa-2b 20 millones de unidades i.v. x 20 días, seguido de 10 millones de unidades s.c. 3 veces a la semana durante 48 semanas. El paciente tuvo buena tolerancia a la fase de inducción y a la fase de mantenimiento.
+En agosto de 2013 se detecta un nódulo subcutáneo de 1,5 cm en la zona de la cicatriz del hallux derecho y también una lesión en la cara interna de la pierna derecha de 0,5 cm. Se considera recidiva intratratamiento, por lo que se interviene, realizándose exéresis local y ampliación de márgenes.
+AP: melanoma de 2,4 x 0,7 x 0,8 cm con afectación del margen de resección.
+Se decide enviar a Oncología Radioterápica por margen afecto.
+
+Evolución
+De septiembre a octubre de 2013 recibe tratamiento radioterápico "adyuvante": PTV en la lesión guiada por cicatriz en el pie derecho más 3 cm de margen, fraccionamiento 2,5 Gy en 24 fracciones hasta adminsitrar una dosis total de 60 Gy.
+En noviembre de 2013 presenta progresión cutánea con 4 lesiones hipercrómicas localizadas en el muslo derecho. No hay datos de afectación tóraco-abdominal a distancia.
+Entre tanto, se realiza determinación del estado mutacional de B-RAF, el cual es nativo.
+A la progresión cutánea se propone tratamiento con DTIC (1.000 mg/m2 cada 21 días), administrando un primer ciclo en diciembre de 2013. En enero de 2014 acude a consulta con un cuadro de ictericia mucocutánea y coluria. Se detecta bilirrubina total de 7,7 mg/dl, bilirrubina directa de 5,9 mg/dl. ALT 2.022 UI/l, AST 840 UI/l. Se realizan una ecografía hepatobiliar, con resultado normal, y serología de virus de hepatitis, con resultado de perfil de hepatitis B aguda. Se remite al Servicio de Aparato Digestivo, quienes realizan tratamiento conservador, observándose en semanas posteriores un descenso marcado en los valores de bilirrubina, ALT y AST hasta la completa normalidad.
+Entre tanto, presenta crecimiento de numerosas lesiones subcutáneas distribuidas en la cara anterior e interna del muslo derecho sin datos de afectación a distancia en la TC. Se considera metástasis en tránsito de melanoma, por lo que en marzo de 2014 inicia la administración de interleucina-2 intralesional. Se aplica 1 ml en cada una de las lesiones subcutáneas, cubriendo un total de 20 lesiones por cada ciclo administrado cada 14 días, sin presentar efectos secundarios sistémicos, salvo dolor EVA 3 en los puntos de instilación, que mejoraba con el paracetamol. Con este tratamiento completa 5 ciclos hasta el mayo de 2014, presentando desaparición de la mayoría de las lesiones, persistiendo algunas de localización central.
+El 30 de mayo de 2014 acude con una TC de reevaluación, objetivándose progresión inguinal izquierda y una adenopatía en la cadena iliaca externa derecha de 3,3 x 2,3 cm compatible con progresión. Se ha propuesto una nueva línea de tratamiento con ipilimumab, pendiente de iniciar.

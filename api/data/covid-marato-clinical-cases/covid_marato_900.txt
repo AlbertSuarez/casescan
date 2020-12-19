@@ -1,0 +1,44 @@
+Anamnesis
+Paciente varón de 33 años que, como antecedente personal importante, presenta un síndrome de Gorlin.
+En seguimiento por Dermatología por múltiples carcinomas basocelulares, hasta el año 2015, se decidió mantener un tratamiento con fototerapia.
+Además, ha requerido múltiples intervenciones quirúrgicas; llevándose a cabo la resección de múltiples carcinomas basocelulares no subsidiarios de tratamiento con fototerapia. En el año 2011, se resecaron 5 queratoquistes y se ha realizado la exodoncia de 3 piezas dentales (47, 36 y 24).
+Por otro lado, se han resecado múltiples quistes desmoides, en la espalda, a nivel del cervical derecho, a nivel del braquial derecho y en la mano ipsilateral.
+Comienza su seguimiento en Oncología Médica, en febrero de 2016, dado imposibilidad de continuar tratando los carcinomas basocelulares mediante fototerapia.
+Tras una primera valoración, se inicia tratamiento con itraconazol en marzo del 2016, que el paciente mantiene con una muy buena tolerancia inicial, y con respuesta clínica, hasta abril de 2017, donde se objetiva progresión a nivel de la cara, antebrazos y manos.
+Se decide iniciar tratamiento con vismodegib a dosis de 150 mg/día, completando 8 ciclos, el último el día 30/11/2017, con una respuesta muy importante tanto a nivel clínico como en últimas pruebas de imagen.
+El paciente consulta el día 28/12/2017 por dolor brusco de dos días de evolución simétrico, con predominio en la musculatura proximal. En el interrogatorio el paciente refiere que, desde septiembre, presenta calambres y dolores musculares atípicos que no puede tipificar claramente.
+Además, refiere que, en estas 48 horas, se acompaña de coluria.
+
+Exploración física
+Consciente, orientado y colaborador. Se encuentra muy ansioso. Eupneico en reposo, saturando al 98% sin necesidad de aporte de oxígeno suplementario.
+En la inspección, destacan cicatrices de cirugías previas, tanto a nivel facial, como en tronco y en miembros inferiores; además de lesiones compatibles con lesiones basocelulares, en manos y cara.
+Desde el punto de vista cardiorrespiratorio, no presenta ninguna alteración; mostrando un corazón rítmico sin ruidos sobreañadidos, y a nivel pulmonar buen murmullo vesicular.
+En cuanto a la exploración neurológica; el paciente presenta pupilas isocóricas normorreactivas sin limitación en la mirada horizontal, ni alteración de pares craneales.
+En el balance muscular de miembros inferiores, destaca flexión de cadera 1/5, extensión de rodillas 1/5 con adecuada flexión de dedos.
+A nivel sensitivo, hay que considerar una hipoalgesia y alodinia en ambos miembros inferiores de forma simétrica, desde raíz de muslos (L1) hasta cara posterior de tobillos (S1). Sensibilidad profunda conservada.
+Exploración de reflejos: destaca clonus aquíleo bilateral, rápidamente agotable. Reflejo de Hoffman negativo.
+En la exploración específica de raíces sacras, el paciente refiere hiperalgesia en la exploración en decúbito supino, que no se normaliza en la exploración en decúbito lateral.
+Además, se realiza tacto rectal con tono de esfínter normal.
+
+Pruebas complementarias
+En la analítica destaca una evolución de la creatina fosfoquinasa (CPK) inicialmente de 889 mU/ml pasando posteriormente a 337mU/ml, sin otras alteraciones en cuanto a iones, perfil renal ni perfil hepático. Hemograma normal.
+En cuanto a las pruebas de imagen realizadas
+Resonancia magnética de columna lumbosacra, en la que no se observan datos de compresión medular, ni sobre el cono medular ni sobre el saco tecal, ni otros hallazgos.
+Dado que no se aprecian lesiones a nivel de columna lumbosacra, y ya que se el paciente presenta afectación muscular se decide realizar electroneurograma (ENG)-electromiograma (EMG), sobre los nervios mediano y cubital, y sobre los miembros inferiores, demostrándose la ausencia de afectación axonal ni alteraciones desmielinizantes, con respuestas normales. Además, en los potenciales de la Unidad Motora, se objetiva ondas F simétricas con valores dentro de la normalidad. En cuanto al estudio de la musculatura en miembros inferiores, no muestra datos patológicos.
+Resonancia magnética de ambos miembros inferiores, en la que se confirma la existencia de una fascitis inespecífica, que se visualiza como un edema en la fascia y que circunda las fascias superficiales de la musculatura extensora y de los compartimentos posteriores de los muslos, así como también en torno a la fascia de las pantorrillas tanto de los compartimentos anteriores como los posteriores. Este edema se extiende por todas las fascias intermusculares, de prácticamente todos los compartimentos de ambas piernas, con distribución simétrica. Destaca que, en la cara lateral de ambos vastos externos, se acompaña de datos de celulitis en la grasa del tejido celular subcutáneo suprayacente. Se muestra la hipercaptación en todas las series con administración de contraste.
+Ante estos hallazgos en la resonancia magnética de miembros inferiores, se decide la realización de una biopsia del músculo cuádriceps derecho, observándose al microscopio un tejido sin fibrosis, en el que se identifica una población de fibras atróficas, más pequeñas de morfología angulada que se distribuyen de forma homogénea por todos los fascículos, correspondiendo a fibras tipo II. No se identifica ni necrosis, ni infiltrados inflamatorios, ni atrofia parafascicular, ni fibras tipo ragged red (fibras rojas rasgadas); además se completó con estudio inmunohistoquímico confirmando una estructura interna de las fibras normal, con patrón miofibrilar regular.
+Se concluyéndose, por tanto, a partir del informe de Anatomía Patológica, que se aprecia una discreta atrofia de las fibras tipo II, con presencia de fibras regenerativas. En el mismo destaca que no se observan infiltrados inflamatorios, necrosis, ni otros signos de miopatía inflamatoria o necrotizante.
+
+Diagnóstico
+Por lo tanto, tras aunar la clínica del paciente, junto con las pruebas de imagen realizadas y la biopsia, se establece el diagnóstico de polifascitis secundaria a vismodegib.
+
+Tratamiento
+El tratamiento se ha basado, en primer lugar, en retirar vismodegib, ya que en un principio parece haber sido el factor causante del cuadro inflamatorio, además de iniciar tratamiento antiinflamatorio, inicialmente esteroideo a dosis de 1 mg/kg/ día y AINE, durante 10 días, y posteriormente en pauta descendente.
+Dado que la clínica más limitante para el paciente, inicialmente era el dolor, se requirió, durante las primeras 48 horas, la administración de perfusión de morfina (50 mg en 500 ml de suero a velocidad de 15 ml/h), que se pudo retirar progresivamente, pero además se requirió el uso de tratamiento coadyuvante con pregabalina 75 mg/12 horas.
+Finalmente, el paciente se mantuvo como tratamiento tras resolución de la fase aguda, ibuprofeno 600 mg/8 horas y parche transdérmico de fentanilo 75 mcg/72 horas.
+Por otro lado, y como pilar fundamental, dado la importante pérdida funcional, se inició tratamiento rehabilitador progresivo, con el objetivo de recuperar la clase funcional, pérdida en el contexto del cuadro clínico.
+
+Evolución
+El paciente se encuentra actualmente con reducción de la dosis de AINE, y del parche de fentanilo, dado que el dolor ha cedido progresivamente.
+Desde el punto de vista funcional, se encuentra deambulando con ayuda de muletas, todavía no ha recuperado completamente la fuerza y se encuentra en tratamiento rehabilitador.
+Desde el punto de vista de su enfermedad de Gorlin, no se ha vuelto a reiniciar el tratamiento con vismodegib; lo que ha llevado a una progresión tanto en el número como tamaño de sus carcinomas basocelulares, pendiente de evolución y de valorar nuevas opciones de tratamiento.

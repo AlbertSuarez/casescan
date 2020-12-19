@@ -1,0 +1,37 @@
+Anamnesis
+Varón de 51 años de edad, exfumador, con antecedentes patológicos de diabetes mellitus insulinodependiente, dislipemia, asma bronquial y bronquiectasias en tratamiento broncodilatador.
+Diagnosticado en mayo de 2006, incidentalmente tras la realización de una TC torácica, de una tumoración en cola de páncreas de 5,5 cm. Tras biopsia guiada por ecoendoscopia se diagnostica de un adenocarcinoma mal diferenciado. En el estudio de extensión se observa además un nódulo hepático sugestivo de metástasis.
+En junio de 2006 es intervenido, mediante espleno-pancreatectomía corporocaudal pancreática vía laparoscópica más resección del nódulo hepático, resultando la anatomía patológica compatible con carcinoma neuroendocrino multinodular extenso, de 10 cm, en cuerpo y cola de páncreas, con extensión al margen quirúrgico, 0/2 ganglios afectos, confirmándose la diseminación hepática.
+Se decide seguir controles y la TC abdominal de control a los cinco meses de la cirugía informa de múltiples lesiones hipervasculares hepáticas compatibles con metástasis, confirmadas mediante RM hepática. Se valora como progresión rápida (< 6 meses de la cirugía) y se decide iniciar tratamiento de quimioterapia según esquema estreptozotocina 400 mg/m2 más doxorrubicina 50 mg/m2. La valoración de respuesta tras seis ciclos, es de estabilidad (septiembre 2007). En diciembre 2008 presenta nueva progresión hepática e inicia una segunda línea de quimioterapia, esquema estreptozotocina 500 mg/m2 más 5-fluorouracilo 500 mg/m2. Tras cinco ciclos de tratamiento, se alcanza respuesta parcial (mayo de 2009), momento en que se diagnostica de trombosis arterial de extremidad inferior derecha y arteriopatía obliterante que requiere de tratamiento con heparina de bajo peso molecular a dosis plenas y antiagregante, suspendiéndose el tratamiento quimioterápico. El paciente mantiene estabilidad de la enfermedad hasta junio de 2010, en que presenta nueva progresión hepática, iniciando tratamiento con sunitinib a dosis de 37,5 mg al día.
+Desde el diagnóstico inicial, en las analíticas seriadas de control se aprecia tendencia a la hipercalcemia a pesar de que el paciente permanece asintomático.
+En noviembre de 2011 se observa calcemia de 3,07 mmol/L, motivo por el cual se solicita una gammagrafía que descarta afectación ósea. El paciente es remitido al Servicio de Endocrinología, realizándose estudio analítico completo y gammagrafía paratiroidea, que resulta todo ello negativo. Se diagnostica de hipercalcemia paraneoplásica, recomendando hidratación e inicio de diuréticos de asa.
+La TC de revaloración de enero de 2012 pone en evidencia un aumento de tamaño de las lesiones hepáticas, por lo que se suspende sunitinib y se solicita everolimus por uso compasivo. Estando pendiente
+De su aprobación, en febrero de 2012 ingresa por deterioro del estado general en contexto de hipercalcemia severa (de hasta 5,65 mmol/L), con alteración del nivel de consciencia, que precisa de ingreso, sueroterapia intensa, tratamiento deplectivo y bifosfonatos, con correcta respuesta. Al alta, se decide iniciar everolimus a dosis de 10 mg al día.
+
+Enfermedad actual
+En marzo de 2012, estando en tratamiento con everolimus, el paciente consulta por un cuadro de una semana de evolución. Explica también tos y movilización de secreciones bronquiales, que no consigue expectorar, sin disnea asociada ni desaturación. Se decide ingreso para estudio y tratamiento.
+A su ingreso ante la sospecha de infección vs toxicidad pulmonar secundaria a everolimus, se suspende el fármaco y se inicia tratamiento corticoideo a dosis de 1 mg/kg/día endovenoso, broncodilatadores y antibiótico endovenoso de amplio espectro.
+Se realiza TC torácica que informa de aparición de áreas de densidad vidrio deslustrado sugestivas de toxicidad pulmonar farmacológica, así como enfermedad difusa bronquial y bronquiolar bilateral sugestiva de afectación inflamatoria infecciosa. Ante esto, se solicita broncoscopia, observando en el cultivo bacteriológico del lavado broncoalveolar colonias de Pseudomonas aueruginosa. Se inicia tratamiento antibiótico endovenoso del que cumple diez días, además de iniciar pauta descendente corticoidea, con buena evolución.
+Durante el ingreso, el paciente también presenta hipercalcemia con cifras máximas de 3,41 mmol/L, sin repercusión sobre el nivel de consciencia, que requiere de sueroterapia endovenosa, tratamiento con diuréticos de asa y nueva dosis de bifosfonatos, con posterior normalización de las cifras de calcio.
+
+Exploración física
+Hemodinámicamente estable, afebril, eupneico al aire (saturación 96%). Consciente y orientado en las tres esferas. Palidez mucocutánea. Deshidratación mucosa moderada. Mucositis grado I de predominio en comisuras bucales. Auscultación cardiorrespiratoria: tonos cardíacos rítmicos, sin soplos audibles.
+Murmullo vesicular conservado, con crepitantes secos bibasales. Abdomen: peristaltismo presente, hepatomegalia tumoral de 4 traveses, sin dolor a la palpación.
+Puño-percusión renal bilateral negativa. Extremidades inferiores: sin edemas ni signos de trombosis venosa profunda. No se observan lesiones cutáneas.
+
+Exploraciones complementarias
+• Analítica: sodio 140 mmol/L; potasio 3,96 mmol/L; calcio 3,22 mmol/L; urea 5,2 mmol/L; creatinina 84 mmol/L; AST (GOT) 28 U/L; ALT (GPT) 16 U/L; GGT 520 U/L; proteína C reactiva 172,2 mg/L; hemoglobina 99 g/dL; VCM 94,0 fL; plaquetas 506 x 10E9/L; leucocitos 13,80 x 10E9/L neutrófilos 11,49 x 10E9/L.
+• Radiografía de tórax: infiltrados parenquimatosos intersticiales bilaterales.
+• Frotis nasal y faríngeo: detección para virus de gripe A y B negativos.
+• Antígenos en orina Legionella y pneumococo: negativos.
+• Cultivo de esputo (2): gram y cultivos negativos.
+• TC torácica: enfermedad difusa bronquial y bronquiolar bilateral sugestiva de afectación inflamatoria infecciosa inespecífica. Aparición de áreas de densidad vidrio deslustrado de predominio en los lóbulos superiores que incluyen en el diagnóstico diferencial de toxicidad pulmonar farmacológica.
+• Broncoscopia: bronquitis inespecífica. Moderada cantidad de secreciones mucosas espesas.
+• Microbiología broncoscopia: no se observan formas compatibles con Pneumocystis jirovecii. Cultivo viral negativo. Cultivo bacteriano positivo para Pseudomonas aeruginosa multisensible.
+
+Diagnóstico
+Tumor neuroendocrino de páncreas diseminado hepático en curso de everolimus. Hipercalcemia paraneoplásica.
+Sobreinfección de bronquiectasias por Pseudomonas aeruginosa. Patrón radiológico compatible con toxicidad pulmonar por everolimus. Mucositis grado 1 secundaria a toxicidad por everolimus.
+
+Tratamiento y evolución
+Dado que se trataba de una toxicidad pulmonar leve, al alta hospitalaria se reinició everolimus a dosis plenas. En los controles ambulatorios posteriores ha permanecido asintomático desde el punto de vista respiratorio. En la TC de revaloración en marzo se aprecia estabilidad de la enfermedad a nivel hepático.

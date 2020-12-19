@@ -1,0 +1,43 @@
+Anamnesis
+Mujer de 49 años de edad, natural de Bulgaria, sin antecedentes patológicos conocidos. Antecedentes ginecoobstétricos: menarquia a los 13 años y G4A2P2. No hábitos tóxicos.
+
+En mayo de 2008 es diagnosticada de un carcinoma infiltrante de cérvix en Bulgaria, tratado con conización cervical. En julio de 2008 se le realiza una citología cervicovaginal y una biopsia, que fue positiva nuevamente para carcinoma epidermoide de cérvix. La paciente era portadora del VPH; fue intervenida quirúrgicamente, realizándose una histerectomía radical más linfadenectomía tipo Wertheim-Meig (Ib1N1M0-IIIB) y posterior radioterapia externa con QT semanal basada en cisplatino y braquiterapia.
+
+La paciente estuvo en revisiones normales hasta diciembre de 2011 cuando, ya en España, se palpa una tumoración de 4 cm en el cuadrante inferoexterno de la mama izquierda. Se le realiza una mamografía, en la cual se aprecia una opacidad de bordes espiculados con microcalcificaciones. BIRADS 5 (lesión de 2,6 cm en el CIE de la mama izquierda). Se le realiza una BAG de la lesión, siendo positiva para carcinoma ductal infiltrante de mama (IHQ: RE y RP negativos, Her-2 +++, Ki-67 +75%). También se le practicó una PAAF axilar, la cual fue positiva para carcinoma ductal infiltrante de mama.
+
+Se realizó estudio de extensión con radiografía de tórax, ecografía abdominal y gammagafía ósea, que resultaron normales, por lo que la paciente es estadificada como cT2N1M0, estadio IIB. Es remitida para tratamiento con terapia sistémica primaria (quimioterapia neoadyuvante). Recibió desde enero de 2012 tratamiento según esquema 5-fluorouracilo-epirrubicina-ciclofosfamida (FEC) por cuatro ciclos seguido de paclitaxel semanal durante 12 semanas asociado a trastuzumab, realizándose en agosto de 2012 tumorectomía ampliada de la mama izquierda acompañada de linfadenectomía. En la anatomía patológica se evidenció una respuesta patológica completa tanto a nivel de la mama como de la axila.
+
+La paciente finaliza el tratamiento con trastuzumab en mayo de 2013 y posteriormente inicia revisiones normales, la última en marzo de 2014.
+
+En noviembre de 2014 acudió a Urgencias con sintomatología compatible con hipertensión endocraneal, realizándose una TC craneal urgente en la cual se objetivó una lesión temporobasal derecha con importante edema, desviación de la línea media a la izquierda y alteración lítica en el hueso temporal. Posteriormente, se realizó una RM cerebral, en la cual se apreció una lesión metastásica ósea única con gran masa de partes blandas asociada en el hueso esfenoides derecho que se introduce en la fosa craneal media.
+
+Ante el compromiso clínico producido por la lesión se deriva a la paciente al servicio de Neurocirugía, donde se la interviene quirúrgicamente realizándose una exéresis total de la lesión junto a implante dural y del hueso afectado subyacente. Tras la intervención, la paciente es dada de alta del Servicio de Neurocirugía, quedando pendiente del resultado de la anatomía patológica. Sin embargo, pocos días después, aún en enero de 2015, la paciente acude a Urgencias por presentar de forma brusca una parálisis del III par craneal (PC) acompañado de cervicodorsalgia.
+
+Exploración física
+Regular estado general. ECOG 2. Bien hidratada. Palidez de piel y mucosas. Eupneica en reposo.
+Estable hemodinámicamente. Cabeza y cuello: varias lesiones cutáneas en el cuero cabelludo, región preauricular y región cervical. Auscultación cardiopulmonar: normal. Abdomen: sin hallazgos relevantes.
+Exploración neurológica: consciente y orientada. Ptosis palpebral derecha con ojo en abducción e imposibilidad para la aducción compatibles con parálisis del III par craneal derecho. Escasa respuesta pupilar derecha. Diplopia binocular. Resto de la exploración neurológica sin alteraciones.
+
+Pruebas complementarias
+» Analítica: se objetiva anemia normocítica normocrómica (Hb 11,4 g/dl) con resto de las series normales.
+» TC cerebral con contraste: engrosamiento y captación multinodular que afecta a la región frontal derecha y parasagital adyacente a la hoz, temporal y tentorio derecho en relación con carcinomatosis meníngea.
+» RM cerebral: hipercaptación meníngea que sugiere la presencia de carcinomatosis meníngea.
+Múltiples lesiones óseas a nivel de la calota craneal, así como a nivel de la vértebra C2, con masa de partes blandas asociada.
+» RM neuroeje: metástasis vertebrales múltiples a nivel cervical, dorsal y lumbar, sin compromiso del canal medular.
+» TC abdominal: en el cual se objetivaron múltiples metástasis hepáticas y adenopatías metastásicas retroperitoneales.
+» Marcadores tumorales: CEA: 16.85, CA 15.3: 19.37 (0-38 UI/ml).
+Ante los hallazgos radiológicos descritos y la situación clínica de la paciente, con deterioro neurológico evidente y progresivo, y dados los antecedentes de cáncer de mama Her-2 positivo, y pendientes del resultado definitivo de la anatomía patológica previa, se decide iniciar tratamiento con capecitabina + lapatinib.
+Sin embargo, durante su estancia hospitalaria, y tras haber comenzado el tratamiento, se reciben los resultados de la anatomía patológica de la intervención de neurocirugía: adenocarcinoma metastásico con hallazgos inmunohistoquímicos sugestivos de origen colónico.
+En paralelo, se decide realizar una biopsia cutánea de las lesiones que presentaba la paciente a nivel del cuero cabelludo, región preauricular y región cervical, cuyo resultado fue de metástasis de adenocarcinoma, que confirman el probable origen intestinal (RH negativos, Her-2 negativo, Ki-67 +70%, CEA +, CK 20+).
+Ante estos hallazgos, y a pesar de la ausencia de sintomatología digestiva, se decide solicitar colonoscopia.
+» Colonoscopia: se apreció una lesión excrecente y ulcerada en el ángulo hepático sugerente de neoplasia colónica avanzada no estenosante.
+» Anatomía patológica: hallazgos compatibles con adenocarcinoma de colon (CEA+, CK-20+).
+
+Diagnóstico
+Adenocarcinoma de colon de novo con afectación metastásica hepática, ósea, cutánea, meníngea y retroperitoneal en una paciente con antecedentes de carcinoma de cérvix y de mama.
+
+Tratamiento
+Dados los hallazgos, se decide cambiar tratamiento sistémico, iniciándose esquema con irinotecán, capecitabina y bevacizumab (el estudio de mutaciones en Ras mostró presencia de mutación tanto en K-RAS como en N-RAS).
+
+Evolución
+Tras cuatro ciclos de tratamiento, se realiza la reevaluación, apreciándose importante respuesta parcial radiológica de todas las lesiones respecto al estudio previo, incluyendo disminución de las captaciones meníngeas. Neurológicamente, la paciente presenta respuesta clínica muy significativa y se encuentra asintomática.

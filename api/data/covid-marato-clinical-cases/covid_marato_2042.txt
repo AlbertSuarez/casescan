@@ -1,0 +1,22 @@
+Anamnesis
+Varón de 70 años con antecedentes de fumador de 2 paquetes/año; ingesta enólica de 40 g etanol/día; adenoma prostático en el año 1995; esclerosis válvula aórtica (ETT 2012: FEVI 55%). Septoplastia en el año 1989 y cirugía de cataratas bilateral en el 2008.
+Diagnosticado de una neoplasia de recto en el mes de mayo de 2011 mediante TC corporal, RM pélvica, ecoendoscopia y endoscopia.La biopsia demostró la existencia de un adenocarcinoma de recto de grado 1. La estadificación fue de cT3N0M0. Se propuso tratamiento de inducción con radioterapia (50 Gy) concomitante con capecitabina a dosis de 825 mg/m2 cada 12 horas en régimen diario, que recibió entre agosto y septiembre de 2011 con excelente tolerancia. En noviembre de 2011 se realizó una resección anterior baja laparoscópica asistida por da Vinci, con resultado histológico de adenocarcinoma G3 ypT3ypN1(1/17)R0, con permeación vascular y perineural, grado de regresión 4, estadio IIIb de la AJCC. Posteriormente, en enero de 2012 se inició quimioterapia adyuvante con el esquema XELOX. Recibió 3 ciclos, retirándose el oxaliplatino por trombopenia de grado 3. Completó dos ciclos más con capecitabina, suspendiéndose ante la progresión de citopenias (anemia, neutropenia y trombopenia), las cuales se mantienen a pesar de dicha suspensión.
+
+Examen físico
+P: 71,6 kg. T: 170 cm. ECOG 1. Palidez moderada de piel y mucosas. Petequias en cara, tronco y extremidades.
+Escaso sangrado gingival. No presenta hematomas. Resto, normal.
+
+Pruebas complementarias
+Analítica: Hg Leu 800 (seg 3 %); Hb 8,5 g/dl; plq.: 7.000. Bioq.: normal. Coag.: normal. Serología viral (VIH, VHB, VHC) negativa. Toxoplasma, CMV, VEB. VHS, VVZ: IgG+, IgM-.
+Biopsia MO: aplasia medular severa con rasgos displásicos. IFT: ausencia de proliferación clonal. Cariotipo: 46, XY.
+
+Diagnóstico
+Adenocarcinoma de recto G3 ypT3 ypN1 (1/17) R0, estadio IIIB de la AJCC (noviembre de 2011).
+Aplasia medular severa con rasgos displásicos, secundaria a tratamiento (junio de 2012).
+
+Tratamiento
+Soporte transfusional con hematíes y plaquetas, con pobre respuesta. Valorado por Hematología, al poseer donante familiar histocompatible idéntico (hermana), isogrupo (0+) y CMV+, se desestima tratamiento inmunosupresor, realizándose transplante alogénico de médula ósea (TAMO) en sepiembre de 2012, con ciclofosfamida/fludarabina/ATG de condicionamiento y profilaxis de EICH con ciclosporina y micofenolato.
+Evolución
+Como complicación postrasplante, presentó bacteriemia por Enterobacter cloacae complex BLEE, colecistitis aguda, EICH agudo de grado 1, cistitis hemorrágica por virus JC/BK, todas ellas superadas por completo, logrando un quimerismo 100 % del donante en enero de 2013. 
+Ha precisado colocación de prótesis metálica a nivel rectal por estenosis de la anastomosis.
+En la actualidad se mantiene libre de enfermedad, con hematimetría normal, manteniendo controles por los servicios de Oncología y Hematología.

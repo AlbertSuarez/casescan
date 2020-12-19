@@ -1,0 +1,29 @@
+Anamnesis
+Paciente mujer de 64 años con antecedentes de diabetes mellitus no insulinodependiente, hipertensión arterial y dislipemia en tratamiento.
+Historia oncológica
+En el año 1992 es diagnosticada de un melanoma con índice de Breslow 2,4 mm, no ulcerado, subescapular izquierdo. Es catalogado como pT3aN0M0, por lo que se le realiza cirugía de ampliación + linfadenectomía axilar. En febrero de 2012, al acudir a una revisión, se descubre una lesión nodular subcutánea en la región lumbar de menos de 1 cm de diámetro máximo. La paciente no cuenta otra clínica asociada.
+
+Exploración física
+Paciente con muy buen aspecto general, normocoloreada y normohidratada. Eupneica en reposo.
+Consciente y orientada en las tres esferas. Pares craneales conservados. No signos de focalidad neurológica. Auscultación cardíaca: rítmica sin roces ni soplos. Auscultación pulmonar: murmullo vesicular conservado. Abdomen anodino. Observamos cicatriz por exéresis de lesión maligna en la región subescapular, de unos 8 cm de diámetro máximo. Asimismo, destaca una lesión sobreelevada en la región lumbar, subcutánea, de consistencia sólida y algo menos de 1 cm de diámetro.
+
+Pruebas complementarias
+» Tras biopsia de la misma, se califica como metástasis subcutánea de melanoma.
+» Se realiza una TC de extensión, que muestra múltiples metástasis (en la vesícula biliar, implantes peritoneales, ganglios retroperitoneales y nódulos subcutáneos).
+» El estudio mutacional pone de manifiesto la alteración V600E del gen BRAF.
+
+Diagnóstico
+Se trata, por tanto, de una recaída del melanoma diagnosticado en el año 1992, metastásico, y con la mutación V600E del gen BRAF.
+
+Tratamiento
+Tras el diagnóstico, al tratarse de un melanoma metastásico con la mutación comentada, se decide iniciar tratamiento con vemurafenib 960 mg vía oral. Como comentamos a continuación, la toxicidad del fármaco ha requerido la disminución de la dosis en dos ocasiones (agosto y octubre de 2013) y finalmente su retirada en enero de 2014.
+
+Evolución
+En junio de 2012 se reevalúa al paciente, observando una respuesta completa de su nódulo peritoneal subdiafragmático y parcial de las metástasis vesicular, cutánea y ganglionar. Se decide continuar con el tratamiento.
+La situación de la enfermedad ha sido reevaluada con frecuencia, encontrando una remisión completa mantenida desde julio de 2013 hasta mayo de 2015. Hablamos, por tanto, de una supervivencia libre de progresión desde su recaída en febrero de 2012 de 37 meses.
+En este lapso de tiempo se han descrito varios efectos asociados a la toxicidad del fármaco, y que han requerido una disminución de la dosis (en agosto de 2013 a 720 mg, y en noviembre del mismo año a 480 mg), incluso su retirada en enero de 2014.
+» En octubre de 2013 se realiza la exéresis de una lesión en el paladar blando (hiperqueratosis) y en el borde libre lingual (leucoplasia sin displasia).
+» En diciembre de 2012 aparece una lesión en el escote (queratosis liquenoide benigna), que también se extrae.
+» En agosto de 2013 la paciente consulta por una uveítis G2 parcialmente limitante en sus ABVD, por lo que se decide la reducción de la dosis (nivel -1, pasando a 720 mg BID).
+» En octubre mantiene la remisión completa, pero a final de este mes reaparece la uveítis G2, pausando nuevamente el tratamiento hasta su resolución. Un mes más tarde del episodio, se reintroduce el fármaco (nivel -2, con reducción a 480 mg BID).
+- Pero tras el tercer episodio de uveítis en enero de 2014, se suspende el tratamiento definitivamente.

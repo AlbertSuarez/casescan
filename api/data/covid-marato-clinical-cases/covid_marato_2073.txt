@@ -1,0 +1,30 @@
+Anamnesis
+Se trata de un paciente varón de 51 años con antecedentes personales de diabetes mellitus (DM) tipo 2 en tratamiento con antidiabéticos orales, hipercolesterolemia en tratamiento con antilipemiantes.
+Su historia oncológica comienza en febrero de 2018 con crecimiento progresivo a nivel perianal que inicialmente se atribuye a hemorroide, acude finalmente a cirugía general en julio de 2018, donde se objetiva una lesión ulcerada a nivel perianal.
+Se interviene realizándose resección el día 31 de julio de 2018 con hallazgos anatomopatológicos de melanoma de tipo nodular, con crecimiento vertical, Breslow 15 mm, índice de Clark IV, 14 mitosis/mm2, ulceración positiva, pigmentación leve, no presenta invasión vascular ni linfática, respuesta linfocitaria leve, no satelitosis, base de resección afecta.
+Se completa el estudio de extensión con una RM de pelvis que objetiva una adenopatía a nivel de región inguinal derecha y con un PET-TC que confirma captación patológica en dicha adenopatía con un SUV de 7,1.
+Comentado en Comité de Tumores Cutáneos, se decide biopsia de ganglio centinela y ampliación de márgenes.
+Se amplía estudio el día 20 de septiembre de 2018 de ganglio centinela, y se amplían también márgenes de resección respetando musculatura esfinteriana. La Anatomía Patológica confirma ganglio centinela infiltrado por metástasis por melanoma sin signos de ruptura capsular, y los márgenes ampliados se consideraron afectación de margen cutáneo.
+El día 11 de diciembre de 2018 se realiza TC toracoabdominopélvica que descarta afectación a distancia.
+El día 21 de noviembre de 2018 se realiza linfadenectomía inguinal derecha e izquierda. La linfadenectomía inguinal derecha e izquierda se aíslan 1 y 4 ganglios respectivamente, todos libres de enfermedad, y los márgenes resecados, están libres de infiltración tumoral.
+Valorado en consulta de Oncología como paciente de 51 años afecto de melanoma de mucosa anal estadio IIIC (T4bN0M0) resecado, candidato a recibir tratamiento adyuvante con nivolumab bisemanal 3 mg/kg que comienza el día 15 de enero de 2019. Mantiene calidad de vida, ECOG 0-1 y no presenta ninguna toxicidad destacable salvo elevación de transaminasas grado 1.
+Por el riesgo de recaída, se realiza TC toracoabdominopélvica entre sexto y séptimo ciclo informado sin evidencia de enfermedad oncológica.
+
+Exploración física
+En la exploración física, presenta ambas zonas parotídeas induradas, mal definidas, no dolorosas durante la palpación y sin alteración cutánea sin signos inflamatorios ni afectación del nervio facial, y coincidiendo con dicha clínica comienza con sequedad bucal.
+Entre el diagnóstico diferencial de masa parotídea, se plantea: litiasis, quiste linfoepitelial, síndrome de Sjögren, sialoadenitis o linfadenopatía regional por una infección, inflamación o patología maligna.
+
+Pruebas complementarias
+Se solicitan pruebas complementarias entre las que se incluyen ecografía y analítica:
+Ecografía de glándulas parótidas: ambas glándulas de tamaño simétrico, con leve alteración difusa de su ecoestructura, sin identificar imágenes nodulares en su interior. En estudio Doppler color, no se observa significativo aumento de su vascularización. Dichos hallazgos podrían estar en relación con proceso inflamatorio crónico.
+» Analítica: destacan los siguientes valores: amilasa 99 UI/l (valores normales: 28-100), anticuerpos nucleares: negativo, Ac anti Ena SSA negativo, Ac anti Ena SSB negativo. Resto incluidos hemograma, perfil hepático y renal, ionograma, hormonas tiroideas y cortisol sin alteraciones.
+
+Diagnóstico
+Entre el diagnóstico diferencial de masa parotídea en paciente en tratamiento con nivolumab, se plantea: litiasis, quiste linfoepitelial, síndrome de Sjögren, sialoadenitis o linfadenopatía regional por una infección, inflamación o patología maligna.
+
+Tratamiento
+Se decide suspender nivolumab, ya que la sospecha es que se trate de toxicidad secundaria, y se cita al paciente a la semana para reevaluación.
+
+Evolución
+El paciente presenta mejoría del volumen parotídeo con la suspensión de fármaco, pero refiere xerostomía, por lo que se decide instaurar corticoterapia a dosis de 1 mg/kg y pilocarpina 5 mg 1 cada 8 horas como tratamiento sintomático, con normalización progresiva del volumen parotídeo en valoraciones posteriores, y persistencia de xerostomía muy incapacitante para el paciente.
+Tras varias valoraciones, y de acuerdo con el paciente, se decide finalmente, suspensión de forma definitiva de tratamiento adyuvante con nivolumab.

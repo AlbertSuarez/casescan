@@ -1,0 +1,22 @@
+Anamnesis
+Paciente sin antecedentes personales de interés y sin historia tumoral familiar referida.
+En junio 2010, con 58 años, es sometida a una tumorectomía izquiera + BSGC por un Ca papilar infiltrante T2N0M0, RE +++, RPg +++, HER-2 -, Ki67: 15 %. Recibe CMF x 6 ciclos, radioterapia complementaria y hormonoterapia con letrozol 2,5 mg/día que inicia en diciembre de 2010.
+Durante el tratamiento con QT, la paciente presenta elevación de Ca 15,3 acompañado de dolor en HD por lo que se solicita TC-TAP que evidencia lesión suprarrenal derecha sospechosa de lesión quística versus tumor primario, quedando pendiente de resección de la masa tras finalización de QT.
+Finalmente, se realiza adrenalectomía derecha el 27 de mayo de 2011 con resultado anatomopatológico positivo para metástasis de ADC de mama hormonosensible (RE ++). Ante la no evidencia de enfermedad a distancia, se decide mantener tratamiento hormonal con letrozol dado que la lesión ya existía antes de iniciar dicho tratamiento.
+La paciente realiza revisiones normales hasta junio de 2017, cuando se identifica en TC-TAP de seguimiento a nivel de la glándula suprarrenal izquierda lesión de 3,2 x 2,7 cm con crecimiento respecto a la imagen previa (informada de naturaleza quística en pruebas complementarias anteriores).
+
+Exploración física
+Abdomen: blando, depresible, no doloroso. RHA: presentes normales. No tiene masas ni megalias.
+
+Pruebas complementarias
+Se completa estudio de extensión con PET-TC en agosto de 2017 con captación en suprarrenal izquierda que no impresiona de malignidad, aunque confirman el aumento de tamaño.
+Se solicita entonces RM pélvica para mejor caracterización de la lesión, que objetiva realce en estudio dinámico del nódulo de la suprarrenal izquierda tras la administración de contraste compatible con metástasis, y la paciente entra en lista de espera quirúrgica para su resección en septiembre de 2017.
+
+Diagnóstico
+Metástasis tardía en glándula adrenal izquierda.
+
+Tratamiento
+El 27 de noviembre de 2017 se realiza adrenalectomía total izquierda con resultado AP de metástasis de ADC compatible con primario mamario (CK7 + focal; CK20 -; CDX2 -; GATA3 +), estudio inmunohistoquímico: mib1 + < 10 %; RE +++ 90 %; RP ++ 5 %; HER-2 2+.
+
+Evolución
+Dada la positividad hormonal, la ausencia de lesiones a otros niveles y la progresión durante letrozol, se decide cambio de línea hormonal a exemestano que la paciente mantiene en la actualidad sin evidencia de enfermedad a distancia.

@@ -1,0 +1,23 @@
+Anamnesis
+Los tumores cardíacos primarios son extremadamente raros, con una incidencia en autopsias inferior al 0,1 % (1). Solo el 15 % de ellos son malignos.
+En el caso de angiosarcomas cardíacos metastásicos, la supervivencia global con tratamiento de quimioterapia se encuentra en torno a 8 meses.
+Presentamos el caso de un angiosarcoma cardíaco estadio IV, con buena tolerancia y respuesta al tratamiento, y con una supervivencia superior a la media.
+Se trata de un varón de 34 años, sin antecedentes de interés, que desde hace un año presenta ocasionalmente palpitaciones precordiales. En el último mes son prácticamente diarias. Desde hace tres meses presenta disnea progresiva hasta ser de clase II de la New York Heart Association (NYHA).
+
+Examen físico
+Presenta Performance Status 1 y en la auscultación cardíaca un roce pericárdico.
+
+Pruebas complementarias
+Tomografía computarizada (TC) toracoabdominopélvica: masa en la aurícula derecha de 52 mm de diámetro que contacta con pared lateral. Múltiples lesiones líticas en la medular de cuerpos vertebrales.
+Anatomía patológica: angiosarcoma de grado III.
+
+Diagnóstico
+Angiosarcoma de la aurícula derecha, estadio IV por metástasis óseas vertebrales.
+
+Tratamiento
+Debido al riesgo de complicaciones vitales secundarias al tumor cardíaco (embolización, obstrucción o rotura), y la necesidad de un diagnóstico anatomopatológico, se acepta la resección quirúrgica del tumor primario. El tumor abarca toda la pared de la auricula derecha y parte del septo auriculoventricular, por lo que no puede ser resecado en su totalidad.
+Se inicia paclitaxel semanal 80 mg/m2 intravenoso. Durante un período de 11 meses, recibe 11 ciclos. Tras el 3.º, 6.º y 9.º ciclo, es evaluado por TC como enfermedad estable. Como toxicidades presentó astenia de grado 1, neuropatía de grado 1, alopecia de grado 2, onicólisis de grado 1 y edema de grado 2 en miembros inferiores.
+
+Evolución
+Un mes después del último ciclo, presenta un dolor abdominal intenso y súbito. En la TC se observa abundante hemoperitoneo con múltiples metástasis hepáticas, con probable rotura de una de ellas a nivel subcapsular. Se realiza una arteriografía urgente con embolización a nivel de la arteria hepática derecha con buenos resultados, pero con múltiples puntos de sangrado, por lo que se decide no realizar más embolizaciones.
+Dos meses después de la progresión hepática, el paciente presenta un Performance Status 3, astenia intensa, dolor abdominal, náuseas, vómitos y edema de miembros inferiores, por lo que se decidió no administrar más tratamiento oncológico activo y control exclusivo de síntomas.

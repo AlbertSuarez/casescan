@@ -1,0 +1,28 @@
+Anamnesis
+Varón de 31 años, sin hábitos tóxicos ni antecedentes personales ni familiares de interés, que comienza con dolor y aumento de tamaño de testículo derecho.
+
+Exploración física
+ECOG 0. Durante la exploración inicial, presenta aumento de tamaño del testículo derecho, se palpa nódulo pétreo, adherido a planos profundos, no doloroso en la palpación, sin adenopatías inguinales o a otro nivel. No se palpa masa retroperitoneal.
+No hay otros hallazgos de interés.
+
+Pruebas complementarias
+En la tomografía computarizada (TC) de seguimiento realizado en mayo del 2013, se observan restos tumorales retroperitoneales en el lecho quirúrgico, en la región paraaórtica posterior, interaortocava con infiltración del músculo psoas iliaco derecho, extendiéndose de forma superior al hilio renal derecho hasta la bifurcación iliaca, precava con pérdida del plano de clivaje con la tercera porción del duodeno y en región aortomesentérica.
+Analíticamente, presenta una elevación de la alfafetoproteína (AFP), alcanzando un valor de 2.800 mcg/l sin elevación de la gonadotropina coriónica humana (BHCG).
+
+Diagnóstico
+Inicialmente el paciente es diagnosticado de seminoma anaplásico de tipo carcinoma embrionario, T2N2M0S1, estadio IIB.
+En el diagnóstico de la recaída, en el 2013, se evidencia un teratoma histológicamente maduro con un foco de carcinoma embrionario que ocupa aproximadamente un 2 % de la masa.
+
+Tratamiento
+En marzo de 2008 se realiza orquiectomía derecha, asociada posteriormente a 3 ciclos de BEP (cisplatino 20 mg/m2 día 1-5 + etopósido 100 mg/m2 días 1-3 + bleomicina 30 mg día 1), y 2 ciclos de EP.
+En el 2013, el paciente cambia de centro para continuar con el seguimiento. Se realiza una nueva TC de control, donde se observa la presencia de una masa retroperitoneal con elevación de AFP a 2.800 mcg/l. Inicia en este momento tratamiento con esquema TIP (paclitaxel 250 mg/m2, cisplatino 25 mg/m2 + ifosfamida 1,5 g). Dada la persistencia de la masa retroperitoneal, se decide realizar cirugía sin poder reseccionar enteramente la masa retroperitoneal. La Anatomía Patológica es compatible con teratoma maduro, y un foco de carcinoma embrionario del 2 %.
+Se mantiene seguimiento hasta el 2016, donde se observa aparición de lesiones mediastínicas inespecíficas. Se presenta el caso en comité de genitourinario, decidiéndose mantener el seguimiento. Los marcadores tumorales son normales en este momento (AFP: 3,6 mcg/l, BHCG < 0,1 UI/l.
+En control posterior de marzo de 2016, se observa una pequeña lesión hipodensa en mediastino posterior entre el esófago, la ácigos y la aorta, a la altura de carina traqueal, de unos 8 mm, que no era visible en el previo. La lesión más caudal que corresponde a la lesión descrita en la TC previa se ha reducido muy levemente, no resultando significativa la modificación. La afectación ganglionar retroperitoneal y hacia la cadena iliaca primitiva y externa izquierda no muestra cambios significativos.
+En mayo de 2017, al observarse nueva progresión de la masa mediastínica, asociándose una adenopatía necrótica en la bifurcación aórtica de 16 mm de eje corto, se decide realizar una cirugía de dicha masa.
+
+Evolución
+En junio de 2017, se realiza en primera instancia toracotomía posterolateral con resección del complejo adenopático tumoral de mediastino posterior. Posteriormente, se realiza linfadenectomía paraaórtica:
+En muestras de mediastino posterior se obtiene un material compatible con metástasis mediastínica por teratoma maduro con áreas de adenocarcinoma de tipo intestinal (30 %) con una inmunohistoquímica positiva para CK AE1-AE3/CK 20/CK 19/CDX 2/TTF-1 y negativa para CF30/PLAP/glipican 3/alfafetoproteína/ CK 7.
+Los marcadores tumorales son normales en este momento, con AFP: 3,1 mcg/l, BHCG < 0,1 y antígeno carcinoembriónico (CEA): 10 mcg/l.
+Se presenta el caso en comité multidisciplinar y, tras realizar una revisión bibliográfica, dada la diferenciación de adenocarcinoma intestinal, se decide proponer tratamiento con FOLFOX6 (oxaliplatino 85 mg/m2 + 5-FU 400 mg/m2 en bolo + 5-FU 2.400 mg/m2 en infusión continua) u observación. Se explica al paciente la rareza del caso, la ausencia de estudios prospectivos que guíen el tratamiento y posibles efectos adversos del tratamiento quimioterápico. Finalmente, el paciente decide iniciar el tratamiento adyuvante.
+En septiembre de 2017, inicia tratamiento con esquema FOLFOX, con intención de completar un máximo de 12 ciclos. Presenta como principal toxicidad neurotoxicidad grado 1, astenia grado 1 y elevación de transaminasas grado 2. Se decide la suspensión del tratamiento tras 9 ciclos, e inicia revisiones con las que continua en la actualidad.

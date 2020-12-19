@@ -1,0 +1,41 @@
+Anamnesis
+Mujer de 69 años, con hipertensión y dislipemia en tratamiento. Intervenida en febrero de 2012 de una neoplasia multifocal mama izquierda (MI), cirugía conservadora y ganglio centinela.Fue un carcinoma papilar invasivo 15 mm + carcinoma intraductal (CDIS) 8 mm de bajo grado (g) + carcinoma ductal infiltrante (CDI) grado 1 12 mm en UCS. Inmunohistoquímica (IHQ): receptores estrógenos (RE) 2+ 95%, receptores de progesterona (RP) 1+ 5%, HER2 1+. No invasión vasculolinfática (IVL), márgenes -, KI 67 no reportado. pN0 sn (0/1).
+Se valoró como un cáncer de mama estadio I. Recibió anastrozol adyuvante y radioterapia locorregional. Con un intervalo libre de enfermedad(ILE) de 2,8 años, en revisión de octubre del 2012, estando asintomática, se palpa adenopatia (ADP) supraclavicular contralateral derecha (SCLD) de 1cm.
+
+Exploración física
+Buen estado general, auscultación, abdomen y extremidades sin alteracions relevantes. Local: cicatriz mama I correcta, en la fosa SCLD ADP de 4 cm móvil. Nódulo tiroideo derecho (NTD) que se desplaza con la deglución.
+
+Pruebas complementarias
+» Ecografía supraclavicular: dos pequeñas imágenes de 7 y 9 mm.
+» Biopsia con aguja gruesa (BAG) (17/11/2014): metástasis (M1) de carcinoma de mama, mamoglobina +, GCDFP-15 +, CK 7-, CK 10+, RE 3+ 95% RP 3+ 20%, HER2 1+.
+» Analítica: Ca 15.3 negativo; hemograma y bioquímica correctas.
+» Gammagrafía ósea (2/12/2014): no M1.
+» Mamografía + ecografía bilateral (15/12/2014): normal.
+» TC toracoabdominal (22/12/2014): adenopatías axilares derechas significativas.
+» RM de mama (15/12/2014): mama derecha (MD) con tenue realce inespecífico en UCE.
+Adenopatía axilar derecha, ganglios supraclaviculares y retropectorales D. Mama izquierda (MI) con nódulo espiculado de 13,8 mm BIRADS IVc. No biopsiable por estar en planos profundos.
+» Segunda ecografía (19/12/2014): no se identifica la lesión descrita por la RM, imposibilidad de biopsia por RM. Ganglios axilares y SPCLD.
+» TC de cuello (22/12/2014): múltiples ganglios bilaterales linfáticos reactivos laterocervicales. Nódulo en lóbulo tiroideo derecho (LTD) de 12 mm.
+» TC-PET (7/1/2015): ADP hipermetabólica (SUVmáx 6.2), intratiroidal en LTI. ADP hipermetabólica axilar D de 10 mm (SUVmáx) de 5,3. ADP retropectorales sin captación significativa, pero sospechosas de malignidad. ADP prevascular dudosa. Foco hipermetabólico en segmento IVA hepático (SUVmáx 5.5) inespecífico.
+» Al no ver lesión en MI, se realiza una tumorectomía de la MI (4/2/2015). La anatomía patológica (AP) muestra un ganglio linfático intramamario de 0,4 cm, sin malignidad.
+
+Diagnóstico
+Con un ILE 2,8 se valoran inicialmente dos opciones diagnósticas:
+1. Tumor oculto en MD (cT0N3M1 con afectación retropectoral, citología axilar positiva + ADP SCLD +).
+Se plantea tratamiento con quimioterapia (QT) neoadyuvante y rescate quirúrgico posteriormente +/- RDT SPCL.
+2. Nódulo tiroideo LTI SUV 6 (pendiente PAAF). Probable carcinoma papilar tiroidal (CPT) vs. M1 mama.
+Se completó el estudio:
+» Ecografía de cuello (13/1/2015): LTI: zona pseudonodular localizada superficial y en tercio medio isoecoica con microcalcificaciones de 11 mm (SUV 6 por PET). LTD: nódulos quísticos benignos. ADP laterocervicales (ganglios reactivos por TC) y ADP SPCL D (+ por BAG y no captación por PET).
+» PAAF del tiroides: + para atipia.
+» PAAF de las ADP laterocervicales (29/1/2015): M1 ganglionar por carcinoma de origen mamario (CKAE1/AE3+, mamoglobina+, GCDFP-15 + TTF-1 i tiroglobulina-).
+» IHQ ADP SCLD: HER2 1+ RE 3+ 95% RP 3+ 20%.
+» Analítica (9/2/2015): hormonas tiroideas normales. AC antitiroglobulina 5,83.
+» RM 23.4.15: esteatosis hepática, no M1.
+
+Tratamiento
+Tras ser valorada por Endocrinología se remite acirugía para tiroidectomía total y vaciamiento ganglionar cervical central (VC) niveles VI+ VII. AP: hiperplasia nodular bilateral conmetaplasia de células de Hürthle; VC-.
+
+Inició QT:1.er ciclo de AC (doxorrubicina 45 mg/m2, ciclofosfamida 450 mg/m2, al 75% de la dosis total) el 17/2/2015. 4.o ciclo el 21/4/2015. Consigue enfermedad estable a nivel de ADP supraclavicular (la que se palpaba).
+
+Evolución
+La paciente presenta ECOG 0, buena recuperación postoperatoria con ronquera residual. Pendiente de TC toracoabdominal, cuello y RM mamaria de valoración de respuesta. Dada estabilidad clínica de la ADP SPCL D, se realizó un 5.º ciclo de QT el 19/5/2015.

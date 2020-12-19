@@ -1,0 +1,39 @@
+Anamnesis
+Mujer de 74 años, sin alergias farmacológicas conocidas, cocinera de profesión. No fumadora ni hábitos tóxicos.
+Antecedentes médicos: HTA (hipertensión arterial), ACV (accidente cerebrovascular) sin secuelas en 1999, TCE (traumatismo craneoencefálico) cerrado sin secuelas posteriores en 2006.
+Antecedentes quirúrgicos: apendicectomía y amigdalectomia.
+Tratamiento habitual: Omeprazol, telmisartán e hidroclorotiazida, trifusal y lorazepam.
+
+La paciente consultó por un cuadro de 6 días de evolución de fiebre (hasta 40 ºC), tos y expectoración blanquecina, sin mejoría a pesar de tratamiento antibiótico y sin otra clínica asociada. Se decidió SU ingreso hospitalario para estudio.
+
+Exploración física
+Paciente consciente, orientada, Glasgow 15. ECOG 0. Eupneica en reposo, con buen estado general.
+Normocoloreada y normohidratada. En la auscultación pulmonar resaltaban roncus dispersos, sobre todo bibasales, sin otros ruidos sobreañadidos. La auscultación cardíaca era normofrecuente y regular.
+Abdomen anodino. EEII (extremidades inferiores): sin edemas ni signos de trombosis venosa profunda.
+
+Pruebas complementarias
+» Radiografía de tórax (febrero 2011): aumento de densidad basal derecho.
+» Gasometría arterial (febrero 2011): pH 7,42, pO2 60, pCO2 44, Sat O2 92% basal (cifras compatibles con insuficiencia respiratoria parcial).
+» Estudio funcional respiratorio (febrero 2011): FEV1/FVC 75,7%, FVC 90%, FEV1 96%. DLCO 100% (dentro de la normalidad).
+» Marcadores tumorales (febrero 2011): CA 19,9: 192 U/ml, CA 15,3: 32 U/ml.
+» Fibrobroncoscopia (febrero 2011): orificios dilatados en la pirámide basal derecha. Sin otros hallazgos. Citología negativa para malignidad.
+» TC torácica (febrero 2011): pseudomasa de 5 cm de diámetro en el LID en contacto con la pleura visceral con broncograma aéreo parcial en su interior. Nódulo pulmonar periférico en el mismo lóbulo.
+No adenopatías patológicas.
+» Estudio de extensión con PET-TC (febrero 2011): masa en el LID de 4,8 cm de diámetro con SUV máx de 3,4.
+Ante la elevada sospecha de malignidad de la masa pulmonar, se realizó una biopsia intraoperatoria confirmando la compatibilidad con adenocarcinoma, por lo que en junio de 2011 se llevó a cabo una cirugía reglada, practicándose una lobectomía inferior derecha con linfadenectomía de 4R, 7, 9R y 10R.
+Estudio de anatomía patológica: adenocarcinoma infiltrante bien diferenciado (G1) multifocal con foco de mayor tamaño de 2,5 cm que se asocia a extensas áreas de adenocarcinoma in situ, de tipo muccinoso. Adenopatías sin evidencia de neoplasia.
+
+Diagnóstico
+Adenocarcinoma de pulmón LID pT3 N0 M0, estadio IIB, según la 7ª edición de TNM de clasificación de tumores malignos del IASLC (International Association for the Study of Lung Cancer).
+
+Tratamiento
+Se inició tratamiento quimioterápico adyuvante según esquema: cisplatino a 60 mg/m2 día 1 con vinorelbina 60 mg/m2 días 1 y 8 de cada ciclo, cada 21 días por tres ciclos. Toxicidad digestiva con náuseas, vómitos y diarrea grado 3.
+
+Evolución
+Continuó en controles cada 3 meses por protocolo. En abril de 2013 se diagnosticó de progresión con múltiples lesiones pulmonares bilaterales mediante TC. Se estudió el estado de mutación EGFR, que resultó negativo, y la translocación ALK, fue negativa también.
+
+Inició la primera línea de quimioterapia paliativa dentro del ensayo clínico GO27821, fase II aleatorizado y estratificado según la expresión de MET, recibiendo el esquema de tratamiento con carboplatino AUC = 5, paclitaxel 175 mg/m2, bevacizumab 15 mg/kg y onartuzumab (inhibidor de MET) frente a placebo cada 21 días, recibiendo cuatro ciclos, con enfermedad estable en la reevaluación mediante TC, seguidos de nueve ciclos de mantenimiento dentro del ensayo con onartuzumab y bevacizumab cada 21 días, hasta febrero del 2014, que se objetiva en la TC progresión pulmonar según criterios RECIST 1.1 por aparición de nuevos nódulos pulmonares. La supervivencia libre de progresión total fue de 11 meses.
+Se amplió el estudio molecular realizándose la determinación de KRAS de la muestra quirúrgica existente, que resultó mutado. Por ello, inició una segunda línea de tratamiento paliativo dentro del ensayo clínico fase III SELECT-1. Se administró docetaxel 75 mg/m2 día 1 y selumetinib 75 mg v.o. cada 12 horas, cada 21 días. Debido a toxicidad consistente en mucositis G2, diarrea G3 y astenia G3, se suspendió el selumetinib desde el segundo ciclo y continuó docetaxel a 55 mg/m2 otros cuatro ciclos más hasta septiembre de 2014, cuando se objetivó progresión pulmonar por aumento de tamaño de los nódulos pulmonares.
+Se inició una tercera línea de quimioterapia con erlotinib 150 mg v.o. cada 24 horas, con reducción de dosis a 100 mg al día, por aparición de rash G2, hasta diciembre de 2014, cuando presentó una nueva progresión pulmonar.
+Nuevamente se estudió el perfil molecular de la muestra de su tumor inicial, detectándose la sobreexpresión de Her-2 con una intensidad de expresión moderada por inmunohistoquímica. Inició por tanto una cuarta línea de tratamiento quimioterápico paliativo dentro del ensayo clínico fase II HER2 lung, con TDM1 3,6 mg/m2 i.v. día 1 cada 21 días.
+Actualmente ha recibido siete ciclos y continúa en tratamiento, manteniéndose con enfermedad estable en las pruebas de imagen de control, con muy buena tolerancia, sin toxicidad y excelente calidad de vida.

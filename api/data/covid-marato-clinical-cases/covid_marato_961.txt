@@ -1,0 +1,30 @@
+Anamnesis
+Varón de 62 años, sin alergias medicamentosas conocidas, con antecedentes médicos de hipertensión arterial. En tratamiento habitual con amlodipino, valsartán e hidroclorotiazida 10/160/12,5 mg cada 24 horas. Sin antecedentes familiares oncológicos. Diagnosticado en el año 2010 de adenocarcinoma renal de células claras de 4 x 5 cm, tras estudio por hematuria indolora.
+Se realizó nefrectomía laparoscópica derecha en septiembre de 2010. Los resultados anatomopatológicos de la pieza quirúrgica fueron los siguientes: adenocarcinoma de células claras, infiltrando fascia de gerota (pT3NxMx). Arquitectura predominante de tipo alveolar. No embolización tumoral de vasos hiliares. Suprarrenal de morfología normal. Furhman: 2. Durante el seguimiento se detectó en la TC toracoabdominal realizada en abril de 2013 un nódulo de 25 mm captante en el lecho tumoral y un nódulo parietal posterior derecho perihepático.
+
+Se realizó una PET-TC de confirmación: nódulo neoplásico sobre la zona de suturas de nefrectomía derecha. No se detectaron otras lesiones con características metabólicas de malignidad. Se comentó el caso en comité de tumores urológicos y se decidió tratamiento quirúrgico. El 21 de junio se realizó exéresis parcial de la masa que afectaba a la vena cava inferior por debajo de la vena renal.
+
+En la PET-TC de julio de 2013 se observó progresión de ambas lesiones, recaída local y metástasis perihepática con probable infiltración del músculo psoas. Por este motivo se decide iniciar tratamiento antiangiogénico de primera línea de enfermedad metastásica en agosto de 2013. Índice pronóstico de Motzer y Heng: buen pronóstico. Comenzando tratamiento con pazopanib 800 mg/24 h. Con este tratamiento se consiguió estabilidad tanto clínica como radiológica, según criterios RECIST de la enfermedad oncológica durante 20 meses, presentando toxicidad en forma de diarrea grado 1, anorexia grado 1 y astenia grado 1 persistentes, aunque el paciente mantuvo en todo momento ECOG 0.
+El informe radiológico de la última TC toracoabdominal realizada en enero de 2015 era de progresión RECIST, pero valorando las imágenes se observó un aumento del tamaño de las lesiones diana con mayor necrosis, sin aparición de nuevas lesiones. Por criterios MASS y CHOI no se consideró progresión.
+El 2/3/2015 el paciente presentó un episodio de mareo y astenia, objetivándose anemia grado 2 (hemoglobina 9,3 g/dl), sin evidencias de sangrado. Inició tratamiento con eritropoyetina subcutánea y hierro oral.
+El 19/3/2015 acude a Urgencias por rectorragia con coágulos de 4 días de evolución, con inestabilidad hemodinámica, sin dolor abdominal, náuseas ni vómitos. No fiebre termometrada.
+
+Exploración física
+Paciente consciente y orientado. Colaborador. Eupneico en reposo. Palidez cutánea. Afectación del estado general. Auscultación cardíaca: tonos rítmicos a 110 latidos por minuto. Auscultación pulmonar: normoventilación, sin ruidos patológicos sobreañadidos. Abdomen: blando, depresible, doloroso a la palpación de forma difusa sin signos de irritación peritoneal (Blumberg y Murphy negativos), peristaltismo conservado. Extremidades inferiores: no edemas ni signos de trombosis venosa profunda.
+
+Pruebas complementarias
+» Hemograma: hemoglobina (Hb) 4,2 g/dl, hematocrito 13,6%, VCM 85, leucocitos 12.300/mm3 (neutrófilos 10.400 mil/mm3), plaquetas 521.000/mm3.
+» Bioquímica: sin alteraciones significativas.
+» Gasometría venosa: pH 7,38, HCO3 18,7 mmol/l, lactato 1,5 mmol/l, resto normal. Diagnóstico
+» Hipernefroma estadio IV.
+» Hemorragia digestiva aguda con repercusión hemodinámica secundaria a lesión tumoral endoluminal en el colon ascendente.
+
+Tratamiento
+A su llegada se transfunden tres concentrados de hematíes y se administra fluidoterapia endovenosa, consiguiendo la estabilización hemodinámica del paciente.
+Se realiza una nueva transfusión de dos concentrados de hematíes y embolización arterial, por el Servicio de Radiología Intervencionista, con técnica de Seldinger, procediendo a puncionar la arteria femoral derecha selectivizando la mesentérica superior y con superselección de la arteria ileocólica, utilizando en el procedimiento micropartículas y coils.
+
+Evolución
+Tras la embolización arterial el paciente permanece estable, sin evidencia de nuevos episodios de sangrado activo. En ese momento se decide solicitar una colonoscopia para filiar si es posible la lesión. La colonoscopia se realiza el 26/3/2015, objetivando áreas extensas de mucosa no visibles por preparación defectuosa secundaria a la presencia de restos hemáticos recientes, motivo por el cual es considerada una exploración aparentemente normal.
+El 27/3/2015 comienza de nuevo con deposiciones melénicas y rectorragia, requiriendo varias transfusiones sanguíneas. Se comenta el caso con el Servicio de Cirugía General, considerándolo irresecable.
+El 1/4/2015 se realiza una segunda embolización, llevándose a cabo un estudio supraselectivo de la arteria mesentérica superior selectivizando la rama que irriga la porción cecal y el colon ascendente, procediendoa embolización con coils con respuesta satisfactoria tras control angiográfico final.
+Finalmente, el 4/4/2015, tras constatar de nuevo el fracaso frente al control de la hemorragia digestiva, ya que el paciente continúa presentando deposiciones melénicas en gran cuantía y ante la situación clínica irreversible debido a la ausencia de alternativas terapéuticas, se decide sedación hasta su posterior fallecimiento.

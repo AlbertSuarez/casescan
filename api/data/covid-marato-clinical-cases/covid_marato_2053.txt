@@ -1,0 +1,34 @@
+Anamnesis
+Se trata de un varón de 19 años sin alergias medicamentosas conocidas y sin antecedentes patológicos ni quirúrgicos de interés.
+Consulta en el servicio de Urgencias por cuadro de diarrea y vómitos tras transgresión dietética. A la exploración física se detecta como único hallazgo relevante un soplo a la auscultación abdominal. En la auscultación cardíaca se aprecia soplo sistólico panfocal. Se remite desde Urgencias a consultas de Cardiología.
+Acude a consultas de Cardiología donde se le realiza ecocardiografía transtorácica, que muestra una masa en ventrículo derecho que protruye hacia tracto de salida de ventrículo derecho y produce una estenosis pulmonar severa. Se deriva a Hospitalización para estudio de masa cardíaca.
+El paciente, que se encuentra asintomático, ingresa en planta de Cardiología de nuestro hospital.
+
+Exploración física
+A la exploración física se detecta como único hallazgo relevante un soplo a la auscultación abdominal.
+En la auscultación cardíaca se aprecia soplo sistólico panfocal IV/VI de mayor intensidad en foco pulmonar. Resto de exploración sin hallazgos relevantes.
+
+Pruebas complementarias
+En las exploraciones complementarias destaca:
+- ECG: RS a 85lpm. PR normal, QRS 110ms, BICRDHH eje 120º, T neg en aVL.
+- Analítica completa sin hallazgos destacables.
+- No elevación de enzimas cardíacas.
+- Radiografía simple de tórax: silueta cardíaca normal. No ensanchamiento mediastínico ni infiltrados parenquimatosos.
+- Ecocardiografía transtorácica : Masa obstructiva de 7 x 3 cm a nivel del tracto de salida de ventrículo derecho. Ligera dilatación de VD con función sistólica normal.
+- Marcadores tumorales: b2 microglobulina, CEA, Ca 19.9, CYFRA, Enolasa, Ca 125, bHCG dentro de límites normales.
+- RMN torácica y TC torácico: Neoplasia intraventricular derecha que ocupa tracto de salida de VD y se extiende a arteria pulmonar con obstrucción dinámica. La masa infiltra pared anterior de tracto de salida de VD y conforma una pequeña masa en mediastino anterior derecho. Metástasis pulmonares. Valorar sarcoma cardiaco metastásico como primera opción.
+
+Diagnóstico
+Se diagnostica de tumor cardíaco de estirpe mesenquimal como primera opción diagnóstica.
+Es intervenido mediante esternotomía media y cirugía extracorpórea, realizándose resección circular a los bordes de la masa. Infiltra en pequeña medida el tabique interventricular. La resección resulta aparentemente completa y la muestra es envíada para estudio al servicio de Anatomía Patológica.
+El paciente presenta muy buena evolución postoperatoria.
+El informe de anantomía patológica revela finalmente inmunohistoquímica compatible con angiosarcoma epiteloide calcificado.
+Es valorado por el servicio de Oncología y se completa estudio de extensión con PET-TC y TAC de tórax de alta resolución, que confirman patrón miliar metastásico pulmonar.
+
+Tratamiento
+Con el diagnóstico de angiosarcoma cardíaco estadio IV (metástasis pulmonares), se propone tratamiento sistémico con quimioterapia, según esquema Paclitaxel 80mg/m2 x 3 semanas, cada 28 días.
+
+Evolución
+Hasta la actualidad ha recibido 7 dosis con excelente tolerancia.
+En la reevaluación tras 3 ciclos, presentaba enfermedad pulmonar estable.
+Continúa asintomático y ha retomado sus clases en la universidad y sus actividades de ocio.

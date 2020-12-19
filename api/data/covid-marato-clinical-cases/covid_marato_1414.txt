@@ -1,0 +1,28 @@
+Anamnesis
+» Varón de 50 años, ECOG 0, no fumador ni bebedor, amigdalectomizado en la infancia, sin otros antecedentes de interés.
+» Consulta en junio de 2012 por aparición de tumoración nasal izquierda de 1 mes de evolución, realizándose exploración por otorrinolaringología (ORL) y biopsia.
+
+Exploración física
+» Exploración ORL: se palpa tumoración blanda a nivel bilateral de pirámide nasal, dolorosa en la palpación.
+» Fibroscopio: lesión blanquecina de apariencia escamosa medial al cornete medio proveniente de zona septal media. Se toman biopsias.
+
+Pruebas complementarias
+Se realiza tomografía computarizada (TC) de senos paranasales y resonancia magnética (RM) nasofacial (25-6-12) con hallazgo de masa de partes blandas en dorso nasal con destrucción de huesos propios.
+
+Diagnóstico
+En el estudio de anatomía patológica (AP) se diagnostica de carcinoma indiferenciado nasosinusal. IHQ: CKAE1/AE3 +, EMA +, CK7 -, CK20 -, CDX2 -, CEA -, neurofilamentos -, sinaptofisina -, cromogranina -, S100 -, enolasa -, CD45 -, Ebers - y TTF1 con tinción débil y heterogénea.
+
+Tratamiento
+En agosto de 2012 se realiza escisión amplia de la lesión con estudio de AP de diagnóstico de carcinoma indiferenciado nasosinusal con infiltración de etmoides derecho.
+Posteriormente recibe tratamiento quimiorradioterápico con intención radical mediante IMRT, administrando 66 Gy con 6 ciclos de cisplatino semanal 40 mg/m2 de manera concomitante.
+Evolución y 1ª recidiva (intervalo libre de enfermedad [ILE] de 25 meses): finalizado el tratamiento, inicia seguimiento sin evidencia de recidiva hasta diciembre de 2014 cuando aparece en RM lesión sugestiva de recidiva en cavum. Con tomografía por emisión de positrones (PET-TC), se confirma la sospecha, evidenciando además adenopatías retrofaríngeas bilaterales. Se repite biopsia con AP de carcinoma indiferenciado, muy probable carcinoma neuroendocrino de célula pequeña. Patrón de CK en gota y EMA, y positividad aislada para sinaptofisina y cromogranina. Revisado el caso, ante el nuevo estudio histológico, se decide, por recidiva locorregional, iniciar tratamiento quimioterápico con carboplatino AUC-5 y etopósido 100 mg/m2 día. Recibe 4 ciclos.
+Tras 3 ciclos, se realiza PET-TC de reevaluación, objetivando una respuesta completa metabólica a nivel nasal-cavum y persistencia de adenopatías laterocervicales bilaterales que no permiten descartar malignidad. Durante la exploración ORL, se evidencia desaparición de la lesión de la zona posterior del septum.
+Debido a la buena respuesta al tratamiento y, tras valorar el caso en comité multidisciplinar, se decide realizar cirugía endoscópica nasosinusal y vaciamiento cervical bilateral que se realiza en mayo de 2015. El estudio histológico de la pieza quirúrgica muestra respuesta patológica completa y vaciamiento cervical bilateral sin evidencia de infiltración neoplásica.
+Se comenta de nuevo el caso en comité de tumores, decidiendo realizar irradiación de las adenopatías cervicales, administrándose 62 Gy sobre adenopatías patológicas y 51.46 Gy sobre el resto de adenopatías de drenaje cervicosupraclaviculares bilaterales.
+Evolución y 2ª recidiva (ILE 9 meses): revisiones sin evidencia de enfermedad hasta que acude a
+Urgencias el 5/4/16 por diplopía e hipoacusia leve, objetivando en la exploración física paresia de VI par craneal izquierdo. Se realiza exploración ORL que observa una lesión redondeada granulomatosa en zona posterior y central próxima a cavum. Se solicita RM de cráneo con hallazgo de tumoración en fosa nasal posterosuperior, con extensión al seno esfenoidal, que invade la silla turca y el segmento intracanalicular del nervio óptico, con ocupación completa de seno frontal, etmoides anterior y posterior, senos maxilares y esfenoidales.
+Ante la recidiva de carcinoma neuroendocrino nasal y considerando la excelente respuesta previa, se decide retratar con carboplatino-etopósido. Desde el primer ciclo, presenta mejoría de la hipoacusia y de la diplopía, interpretado como beneficio clínico que se confirma en la primera reevaluación con RM, con respuesta parcial significativa tras el tercer ciclo, con resolución completa de la diplopía tras el 5º. Recibe un total de 6 ciclos hasta septiembre de 2016 con muy buena tolerancia.
+
+Evolución
+En diciembre de 2016, consulta por parestesias en área dependiente de los pares craneales V y VII y dolor retroocular izquierdo por lo que se solicita RM y PET-TC que evidencian progresión radiológica con afectación de celdas etmoidales, senos esfenoidales, silla turca y apófisis pterigoides izquierda.
+Se decide iniciar tratamiento de segunda línea con ciclofosfamida 1.000 mg/m2 + adriamicina 50 mg/m2 + vincristina 2 mg (CAV). A pesar de obtener un beneficio clínico con desaparición del dolor, tras 3 ciclos se objetiva importante progresión radiológica locorregional, por lo que comienza nueva línea con paclitaxel semanal a 90 mg/m2 días 1, 8 y 15 en ciclos cada 28 días con excelente respuesta clínica, manteniendo una situación funcional excelente. En abril de 2017, tras dos meses de tratamiento, se realiza una primera reevaluación con RM que muestra importante respuesta radiológica, habiendo disminuido significativamente la afectación tumoral.

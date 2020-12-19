@@ -1,0 +1,45 @@
+Anamnesis
+Hombre de 75 años, sin alergias medicamentosas conocidas, exfumador desde hace 7 años con dosis total acumulada de 50 paquetes-año, sin otros hábitos tóxicos.
+Antecedentes medicoquirúrgicos
+» Hipotiroidismo subclínico en contexto de cirugía y radioterapia en zona cervical, diagnosticado en setiembre de 2015. En tratamiento substitutivo y seguimiento por Endocrinología.
+» Derrame de vítreo posterior del ojo izquierdo diagnosticado en 2011 a raíz de control rutinario oftalmológico, realizó tratamiento con láser en 2011.
+Situación socio-funcional
+Jubilado, trabajaba como constructor. Vive con su esposa en piso sin barreras arquitectónicas. Barthel 100 puntos.
+Medicación habitual
+Lorazepam 0,5 mg por la noche si precisa. Paracetamol 1 g cada 8 horas si precisa para dolor. Levotiroxina 100 mcg cada 24 horas de lunes a viernes 125 mcg cada 24 h sábado y domingo.
+Historia oncológica
+Diagnosticado en noviembre de 2011 de carcinoma escamoso de alto grado en cuerda vocal izquierda a raíz de disfonía de dos meses de evolución. Se observó lesión en cuerda vocal izquierda (CVI) con afectación de la comisura anterior y extensión a la cuerda vocal derecha (CVD), realizándose cordectomía láser en centro externo. En ese momento, cT1bN0M0; pT1N0M0.
+» Primera recidiva, local:
+- En diciembre de 2012 acude a Urgencias por disfonía, mostrándose parálisis de la CVI e hipomovilidad de la CVD, realizándose traqueostomía urgente. Presentado en comité, se decide la realización de microlaringoscopia intraoperatoria con biopsias peroperatorias, siendo positivas para malignidad, por lo que se realiza en 11 de enero de 2013 una laringectomía total. El informe de Anatomía Patológica destaca la presencia de carcinoma escamoso moderadamente diferenciado, infiltrante de 3,5 cm en el eje máximo, con invasión del seno piriforme, glotis y extensión subglótica, así como cartílago del tiroides y extensión a partes blandas pretraqueales. Presenta infiltración perineural y vascular y el margen traqueal está libre. Con ello, presenta una recidiva local y se estadía como rpT4NxM0.
+- Tratamiento: realiza radioterapia adyuvante del 21/2/2013 al 6/5/2013, con una dosis total de 66 gray (Gy) en lecho quirúrgico y 50 Gy a cadenas ganglionares, mediante técnica de radioterapia de intensidad modulada (IMRT).
+» Segunda recidiva, ganglionar:
+- En enero de 2014, en TC de cuello de control se objetiva una lesión mal delimitada en nivel IV ganglionar derecho, realizándose una PAAF en dicha lesión que resulta positiva para celularidad maligna. En marzo de 2014 en dicho contexto se realiza vaciamiento cervical radical derecho, con positividad en 4 de 6 ganglios, invasión extracapsular en 2 ganglios e invasión perineural.
+- Tratamiento: realiza quimiorradioterapia concomitante con cisplatino (CDDP) 40 mg/m2 semanal y una dosis total de 66 Gy mediante IMRT, del 12/5/2014 al 23/6/2014, bien tolerado.
+» Tercera recidiva, no resecable.
+- En marzo de 2015, a raíz de supuración del área peritraqueostomía, se observa una zona ulcerada en dicha localización, con tomografía computarizada (TC) que muestra presencia de recidiva tumoral peritraqueostomía izquierda, con infiltración del músculo esternocleidomastoideo y contracto con lóbulo tiroideo izquierdo y tráquea. El estudio de extensión con tomografía por emisión de positrones (PET-TC) resulta negativo. Se realiza biopsia que muestra la presencia de carcinoma pobremente diferenciado.
+- Tratamiento: del 7/4/2015 al 13/7/2015 realiza 5 ciclos de carboplatino-fluorouracilo (5-FU)-cetuximab, presentando como mejor respuesta enfermedad estable tras 3 ciclos.
+Enfermedad actual
+El paciente acude a consultas externas de Oncología Médica en julio de 2015, observándose en la TC de control la presencia de recidiva en la zona de la paratraqueostomía. El paciente se presenta en el momento asintomático, niega dolor o supuración peritraqueostomía.
+A fin de realizar el precribado para el estudio HAWK (NCT02207530 durvalumab en pacientes PD-L1 positivo), se realizó biopsia de la recidiva locorregional.
+
+Exploración física
+» ECOG 0. Peso 72 kg.
+» Cavidad oral: sin hallazgos patológicos.
+» Cuello: lesión en zona peritraqueostomía, sin signos de infección local. No se palpan adenopatías en cuello ni en zona supraclavicular.
+» Exploración física pulmonar: murmullo vesicular conservado, sin ruidos sobreañadidos.
+» Exploración cardiovascular: tonos cardiacos rítmicos, sin soplos añadidos.
+» Abdomen: blando, sin signos de irritación peritoneal.
+» Exploración neurológica: sin signos de focalidad neurológica aguda.
+
+Pruebas complementarias
+Biopsia recidiva locorregional (24/7/2015): mediante la determinación inmunohistoquímica con el test cualitativo VENTANA PD-L1 (SP263, un anticuerpo monoclonal de ratón contra PD-L1), se demostró la negatividad para PDL-1 (captación < 25 % en la muestra procesada). Negatividad así mismo para p16, determinada mediante inmunohistoquímica.
+
+Diagnóstico
+El paciente se diagnostica de recidiva locorregional no resecable de su enfermedad, PD-L1 negativo.
+
+Tratamiento
+Dada la negatividad para PD-L1, se propone al paciente entrar en el ensayo clínico D419300003 (CONDOR). El 27 de agosto de 2015, el paciente firma el consentimiento informado para entrar en el estudio, siendo aleatorizado a recibir durvalumab 20 mg/kg + tremelimumab 1 mg/kg cada 4 semanas durante 4 ciclos, y posteriormente durvalumab 10 mg/kg cada 2 semanas por 12 meses. Finalizó en tratamiento en setiembre de 2016.
+
+Evolución
+El paciente presenta beneficio clínico rápido en forma de control sintomático local, alcanzando la respuesta parcial radiológica (según criterios RECIST) en marzo de 2016. El paciente se ha mantenido en respuesta parcial hasta el final de tratamiento, en setiembre de 2016. Tras ello, ha presentado un mantenimiento de la respuesta parcial hasta el último control en enero de 2018, donde se objetiva progresión de la enfermedad en forma de adenopatías mediastínicas, reiniciando entonces tratamiento dentro del mismo ensayo clínico.
+No presentó en ningún momento toxicidad inmunomediada.

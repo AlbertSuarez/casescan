@@ -1,0 +1,21 @@
+Anamnesis
+Se trata de una paciente de 68 años con antecedentes personales de hipertensión arterial y dislipemia bien controladas con medicación. Destaca como único antecedente familiar oncológico, el diagnóstico de cáncer de mama de su hermana.
+La situación basal de la paciente es buena, siendo independiente para todas las actividades de la vida diaria. No realiza ningún tratamiento domiciliario.
+Centrándonos en la historia oncológica de la paciente, se diagnosticó un carcinoma lobulillar infiltrante de mama izquierda en 2014 que, tras cirugía mediante segmentectomía y linfadenectomía axilar, se cataloga por Anatomía Patológica como estadio pT2pN2M0 (IIIA) con estudio inmunohistoquímico (IHQ) con resultado de receptores de estrógenos y progesterona positivos y HER2 negativo. Tras el diagnóstico, recibió tratamiento con esquema fluorouracilo, epirrubicina y ciclofosfamida (FEC) durante cuatro ciclos con posterior administración de paclitaxel semanal y radioterapia complementaria sobre lecho tumoral. Tras finalizar el tratamiento adyuvante, la paciente comenzó tratamiento con letrozol (marzo de 2015), continuando con revisiones semestrales sin evidencia de recaída de la enfermedad.
+En noviembre de 2018, la paciente ingresa en su hospital de referencia por cuadro de dolor abdominal y clínica compatible con cuadros suboclusivos, siendo diagnosticada de ileítis inespecífica tras pruebas de imagen y Anatomía Patológica de biopsia colónica tomada por colonoscopia. Inició tratamiento con mesalazina y prednisona sin clara mejoría de la clínica, por lo que finalmente se retiró. En febrero de 2019, comienza con clínica de cuadro suboclusivo con dolor y distensión abdominal junto a estreñimiento pertinaz y vómitos incoercibles, ingresando de nuevo en su hospital de referencia.
+
+Exploración física
+Durante la exploración física destaca el buen estado general de la paciente con abdomen globuloso, con leves molestias a la palpación difusa, como único hallazgo de interés.
+
+Pruebas complementarias
+Se realiza una TC de abdomen donde se evidencia una extensa carcinomatosis peritoneal difusa con infiltración de asas intestinales con estenosis en íleon preterminal con dilatación retrógrada y una lesión quística anexial izquierda de 6 cm de diámetro máximo, destacando en analítica un CA 15.3 92,6 U/ml como único hallazgo.
+Tras su traslado a nuestro centro, se planteó un diagnóstico diferencial entre los posibles orígenes de la carcinomatosis, destacando principalmente carcinoma primario colorrectal, ovárico o mamario. Por ello, se realizó una colonoscopia donde se objetivaron implantes de aspecto neoplásico en sigma con fijación de las asas por dicho motivo, tomándose muestras para estudio. A la espera de resultados de Anatomía Patológica, se realizó ecografía vaginal para la visualización de la formación anexial izquierda, con evidencia de características de bajo riesgo de malignidad de larga evolución, siendo poco probable como origen de la carcinomatosis peritoneal.
+
+Diagnóstico
+Se diagnosticó en las biopsias colónicas de infiltración por carcinoma poco diferenciado con IHQ con mamoglobina positiva y receptores de estrógenos y progesterona, así como HER2 negativos, compatible con recaída de la enfermedad a nivel peritoneal, con trasformación histológica. Estamos, por tanto, ante una paciente con cáncer de mama estadio IV con metástasis a nivel peritoneal.
+
+Tratamiento
+Se realizó ileostomía en íleon preterminal para manejo sintomático y se inició quimioterapia con paclitaxel semanal.
+
+Evolución
+Actualmente, la paciente refiere buen estado general, pudiendo realizar actividades diarias sin incidencias y sin clínica asociada al proceso.

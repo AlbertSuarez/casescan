@@ -1,0 +1,35 @@
+Anamnesis
+Varón de 19 años, con antecedentes médicos de miocardiopatía no compactada, déficit del factor VII de la coagulación y cefalea desde la infancia. Acude al servicio de Urgencias en Mayo de 2015 por cuadro de cefalea holocraneal acompañada de sono-fotofobia y dos episodios de síncope sin episodios de crisis comiciales ni relajación de esfínteres.
+Dada la sintomatología se decide ingreso en el Servicio de neurología para continuar estudio.
+
+Exploración física
+Paciente consciente, orientado, normocoloreado y normohidratado, afebril, eupneico en reposo.
+Auscultación cardiaca: Ruidos cardiacos rítmicos sin soplos.
+Auscultación pulmonar: Normoventilación, sin ruidos patológicos.
+Abdomen: Blando, depresible, no doloroso a la palpación, no masas ni megalias. Peristaltismo presente, no signo de irritación peritoneal.
+Exploración neurológica: Pares craneales conservados, no alteraciones de la marcha ni del habla. No dismetría ni diadococinesia. Romberg negativo. No alteraciones de la fuerza ni de la sensibilidad.
+
+Pruebas complementarias
+- Analítica sanguínea general: Sin alteraciones de interés.
+- Tomografía Axial Computarizada (TAC) cerebral: Se objetivan dos lesiones focales intraparenquimatosas a caracterizar mediante Resonancia Magnética Nuclear (RMN).
+- Punción lumbar y análisis del LCR: Normal
+- Electroencefalograma: Trazado patológico por enlentecimiento de la actividad cerebral de forma generalizada.
+- RMN cerebral: Aumento del tamaño de la glándula pineal, con proceso expansivo a nivel de la misma, moderadamente hiperintenso con respecto a sustancia gris, que tras administración de contraste paramagnético presenta captación intensa y homogénea del mismo. Existe afectación ependimaria intraventricular, con lesión ocupante de espacio con afectación intra y extra ventricular en el lado derecho en porción de ventrículo lateral ipsilateral, con intensidad de señal homogénea y áreas de sangrado, que podría estar en relación con diseminación tumoral. Estos hallazgos podrían estar en relación con proceso tumoral pineal primario (germinoma, pinealoblastoma...) o con ependimoma.
+- RMN raquis vertebral: Sin alteraciones.
+- Ecografía testicular: Normal.
+- Marcardores tumorales incluyendo alfafetoproteina (AFP) y Hormona Gonadotropina Coriónica (B-HCG): En rango de la normalidad.
+
+Diagnóstico
+Dados los resultados obtenidos en las pruebas complementarias, el 2/7/2015 se practica abordaje neuroendoscópico para realización de biopsia ventricular.
+El resultado anatomopatológico fue compatible con GERMINOMA PINEAL, con un índice proliferativo elevado (Ki 67 85%).
+
+Tratamiento
+Tras comentar el caso en comité de tumores del sistema nervioso se decide realización de tratamiento quimio-radioterápico secuencial.
+El paciente inició el 21/7/2015 primer ciclo de tratamiento quimioterápico con esquema Cisplatino 20 mg/m2 + Etopósido 100 mg/m2 días 1-5.
+Se administran tres ciclos, con buena tolerancia, y se realiza RMN cerebral de control el 20/8/2015 en la que no se detecta captación de contraste sobre región pineal ni sobre resto de parénquima cerebral. Se observa asimetría ventricular derecha en relación con trayecto de biopsia, sin evidencia de hemorragia ni otras complicaciones.
+Tras objetivarse respuesta completa del proceso tumoral se decide administrar el 4º ciclo de tratamiento quimioterápico el 23/9/2015 y se deriva al servicio de oncología radioterápica para continuar tratamiento secuencial.
+Dada la buena respuesta obtenida tras la administración del tratamiento quimioterápico se inicia tratamiento radioterápico administrando sobre ventrículos y lecho tumoral primario 30,4 Gy entre el 6/10/2015 y el 4/11/2015, apareciendo como única toxicidad naúseas, que ceden con administración de tratamiento antiemético.
+
+Evolución
+Actualmente el paciente continúa en respuesta completa, con resolución de la sintomatología que motivó su ingreso y muy buena calidad de vida de forma ambulatoria.
+Se encuentra en seguimiento mediante la realización de RMN cerebrales de forma seriada, cada 6 meses, por parte de los servicios de Oncología Médica y Radioterápica.

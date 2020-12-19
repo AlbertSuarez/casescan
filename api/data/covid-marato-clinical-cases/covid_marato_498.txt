@@ -1,0 +1,36 @@
+Anamnesis
+Varón de 44 años, con antecedentes de obesidad mórbida, de profesión camionero, que acude a Urgencias en repetidas ocasiones por un episodio de dorsalgia difusa. Indica molestias de 4 meses de evolución, de carácter progresivo, que no ceden a analgesia de primer escalón. Refiere empeoramiento de su estado general, no tolerando el decúbito.
+No astenia, no pérdida de apetito. No fiebre termometrada. No náuseas, no vómitos, no otra sintomatología de interés.
+En la última visita a Urgencias, refiere inestabilidad a la marcha asociada a dolor transfixiante interescapular.
+Se le solicita una angio-TC de tórax, en la que se observó: aneurisma de aorta torácica de inicio distal a la salida de la subclavia izquierda de 4 x 5,5 x 4,3 cm que fue valorada por el Servicio Vascular, que no encontró signos de complicación.
+Acude de nuevo a Urgencias 7 días después aquejando pérdida de fuerza y parestesias en ambos miembros inferiores, más acusado en el izquierdo, llegando a realizarse una TC de cráneo, que fue normal. Debido a la persistencia de la sintomatología, se ingresó para estudio en el Servicio de Medicina Interna, solicitando una RM dorsolumbar.
+Rehistoriando al paciente, refería retracción del pezón izquierdo desde hace 2 años, motivo por el que consultó en varias ocasiones a su médico de cabecera, y al que no se le dio valor patológico dada la obesidad que presentaba, recomendando medidas higiénico-dietéticas para su control.
+
+Examen físico
+Exploración neurológica: PINLA, MOEC, no alteración de pares craneales. Parestesias en el abdomen y en ambos miembros inferiores. Nivel medular sensitivo a nivel epigástrico. Pérdida de fuerza 4/5 en el miembro inferior derecho y 2/5 en el miembro inferior izquierdo.
+Auscultación cardiaca: rítmico, sin soplos.
+Auscultación respiratoria: hipofonesis generalizada sin ruidos patológicos sobreañadidos.
+Abdomen: blando, globuloso, depresible, no semiología ascítica, ruidos hidroaéreos conservados, no signos de irritación peritoneal.
+Retracción marcada del pezón izquierdo. No secreción por el pezón. No telorragia ni signos inflamatorios. Palpación de un nódulo retroareolar, pétreo, de unos 4 cm de diámetro.
+No se palpan adenopatías de significado patológico en ninguna estación linfática.
+
+Pruebas complementarias
+- Angio-TC de tórax: se revisan las imágenes, observándose un nódulo retroareolar mamario izquierdo de 4 cm de diámetro y una adenopatía axilar izquierda de 2,5 cm. El nódulo se observaba varios cortes por debajo del límite caudal del aneurisma.
+- RM dorsolumbar: fractura patológica en D5, masa de partes blandas e invasión del canal medular y foco con pérdida de señal en D4-D8-D11 y cuerpo de esternón compatibles con metástasis óseas múltiples.
+- Mamografía de la mama izquierda: nódulo espiculado de características malignas. BIRADS 4.
+- Gammagrafía ósea: en las imágenes obtenidas se observa la existencia de hipercaptación ósea en D4-D5, D8, manubrio y cuerpo esternal, localizadas en lesiones ya descritas y conocidas anteriormente, asociadas a metástasis óseas y aplastamiento vertebral en el caso de D4-D5. Se observa además un foco de captación en el 6º arco costal derecho posterior y en el 2º arco costal izquierdo posterior.
+- Biopsia de mama: carcinoma infiltrante en la mama izquierda con receptores RE+++, RP+++, HER2/neu negativo. KI 67 30%.
+- Analítica: hemograma y coagulación sin alteraciones significativas. En la bioquímica destacaba fosfatasa alcalina en 120 UI/l, sin alteración en los niveles de transaminasas.
+- Marcadores tumorales: normales.
+
+Diagnóstico
+Compresión medular a nivel de D5 por metástasis de cáncer de mama.
+
+Tratamiento
+Recibe dosis única de radioterapia (8 Gy) en el segmento de la columna de D3 a D7.
+Se inicia quimioterapia en esquema AC (adriamicina, ciclofosfamida).
+
+Evolución
+El paciente recibe 6 ciclos de AC en pauta quincenal. Buena tolerancia inicial, si bien existe progresión de la clínica neurológica hasta la paraplejia completa.
+El paciente decidió no continuar con el tratamiento al no observar mejoría de la clínica neurológica.
+Al mes de la interrupción del tratamiento, los familiares comunican el exitus del paciente en su domicilio.

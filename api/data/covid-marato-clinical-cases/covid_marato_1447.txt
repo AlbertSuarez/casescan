@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 77 años sin antecedentes personales de interés que inicia estudio en septiembre de 2014 en el Servicio de Urología a raíz de elevación de PSA 9ng/ml asintomática en un control analítico de su empresa.
+
+Exploración física
+Se realiza tacto rectal, identificándose una masa prostática dura e irregular. Se lleva a cabo una biopsia transrectal que confirma la sospecha diagnóstica de adenocarcinoma de próstata Gleason 9.
+Pruebas complementarias
+Se completa el estudio de extensión con una TC toracoabdominopélvica que informa de aumento del tamaño prostático, con márgenes mal definidos. Existen además ganglios de tamaño significativo en cadenas obturatrices e iliacas internas, sin detectarse enfermedad ósea.
+
+Diagnóstico
+El paciente es diagnóstico de adenocarcinoma de próstata estadio IVa.
+
+Tratamiento
+Se inicia tratamiento con bloqueo androgénico simple (leuprorelina semestral).
+
+Evolución
+En diciembre de 2014, en una TC body de reevaluación a los seis meses se describe aumento de las adenopatías retroperitoneales, así como aumento del tamaño prostático que llega a improntar e infiltrar la vejiga.
+Por entonces, el paciente se encuentra sintomático, con tenesmo rectal y disuria. Se añade tratamiento con bicalutamida a dosis de 50 mg/día e inicia acetato de leuprorelina trimestral (11,25 mg). Asimismo, recibe en enero de 2015 tratamiento con radioterapia externa con intención paliativa mediante fotones generados por acelerador lineal, sobre PTV que incluye tumor prostático con margen de seguridad adecuado, y mediante técnica isocéntrica, con un fraccionamiento diario de 250 cGy x 5 días a la semana, siendo la dosis total de 3.750 cGy que mejora la sintomatología del paciente. En controles analíticos posteriores: PSA = 2,96 ng/ml (valores normales inferiores a 4 ng/ml) y testosterona 23,1 ng/100 ml (247,5-674,1).
+Continúa el seguimiento hasta marzo de 2015, momento en el que presenta progresión local tumoral, con aumento del tamaño de la glándula prostática con atenuación heterogénea y de las adenopatías retroperitoneales. Se completa estudio de extensión con gammagrafía ósea en la que no se describen lesiones óseas sugerentes de depósitos secundarios. En controles analíticos, se observa un aumento de las cifras de PSA de 0,5 ng/ml a 2.189 ng/ml con niveles de testosterona suprimidos.
+Con diagnóstico de CPRC metastásico, con tiempo de respuesta al tratamiento hormonal menor a 7 meses, el paciente inicia una línea de quimioterapia con docetaxel mg/m2 + prednisona mg/12 h cada tres semanas en julio de 2015, presentando como toxicidades: astenia G1, onicodistrofia G1 y neuropatía G3. Recibe un total de 8 ciclos, último en diciembre de 2015 con enfermedad estable como mejor respuesta y disminución de las cifras de PSA, con un nadir de 1.505 ng/ml.
+En febrero de 2016, presenta aumento de PSA a 6,5 ng/ml y en la TC de reevaluación se observa nueva progresión de las adenopatías retroperitoneales. Ante progresión tumoral, en los primeros tres meses del fin del docetaxel, inicia segunda línea de tratamiento con cabazitaxel 25 mg/m2 y prednisona 5 mg cada 12 horas cada 21 días.
+En la TC de mayo de 2016, tras haber recibido cuatro ciclos de cabazitaxel se observa progresión adenopática retroperitoneal y respuesta de la masa prostática primaria. Ante la respuesta paradójica al tratamiento administrado, bajos niveles de PSA y rápida progresión tumoral retroperitoneal, se decide llevar a cabo biopsia de una adenopatía ganglionar retroperitoneal cuyo resultado anatomopatológico resulta ser carcinoma sólido pobremente diferenciado compatible con origen prostático (positivad focal para PSA y FAP) con diferenciación neuroendocrina (cromogranina y sinaptofisina positivos).
+Se decide conjuntamente con el paciente iniciar en junio de 2016 nuevo tratamiento dentro de un ensayo clínico fase I de combinación de quimioterapia con carboplatino, docetaxel y anti-PD1. Con este nuevo tratamiento, el paciente presenta respuesta parcial mantenida hasta abril de 2017, con aparición de una nueva lesión esternal.
+Dado que el paciente presenta dos poblaciones tumorales diferentes, se decide llevar a cabo una tercera biopsia de la lesión ósea que se informa como proliferación neoplásica de alto grado pobremente diferenciada, perfil inmunohistoquímico (queratinas de amplio espectro, racemasa y PSA positivo y queratina de alto peso molecular negativo) compatible con posible origen prostático, sin marcadores de diferenciación neuroendocrina. El paciente sale del estudio por progresión de la enfermedad.
+Dado la ausencia de diferenciación neuroendocrina, se propone retratamiento con docetaxel 75 mg/m2, prednisona 5 mg cada 12 horas y denosumab 120 mg que mantiene hasta la actualidad con enfermedad estable.

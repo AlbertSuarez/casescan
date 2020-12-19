@@ -1,0 +1,29 @@
+Anamnesis
+Mujer de 44 años, sin factores de riesgo cardiovascular, con antecedente de tuberculosis a los 22 años, tratada óptimamente con cavitación pulmonar residual en el lóbulo inferior izquierdo y engrosamiento pleural secundario, sin datos de reactivación. Exfumadora desde los 39 años. Antecedentes ginecológicos: Menarquia 12 años. G3P3V3, último parto en diciembre 2009 (a la edad de 40 años). Sin antecedentes familiares de interés.
+
+En febrero de 2010 a los 2 meses del período de lactancia consultó por nódulo en mama izquierda, el cual se venía notando desde su último embarazo. No presentaba dolor ni secreción anormal por pezón.
+
+Exploración física
+Masa de consistencia dura en mama izquierda de 10 x 6 cm y al menos una adenopatía axilar fija, de consistencia dura; resto de la exploración, anodina.
+
+Pruebas complementarias
+» Mamografía, ecografía y RM de mama: lesión sospechosa de malignidad en CSE de mama izquierda de 6,7 x 2,9 cm (cT3), con, al menos, 6 adenopatías axilares (cN1).
+» BAG del nódulo mamario compatible con carcinoma ductal infiltrante de mama izquierda grado III, receptores de estrógenos 100%; receptores de progesterona 100%. Ki-67 20%. Her2 negativo.
+» PAAF ganglio axilar izquierdo: positiva para carcinoma.
+
+Diagnóstico
+Mujer premenopáusica con carcinoma ductal infiltrante de mama izquierda grado III, receptores de estrógenos 100%; receptores de progesterona 100%. Ki-67 20%. Her2 negativo, cT3N1M0, estadio IIIA.
+
+Tratamiento
+Al tratarse de un carcinoma localmente avanzado, se decidió tratamiento con quimioterapia neodayuvante esquema AC x 4 seguido de docetaxel. Como incidencias ingresó en el día +2 del segundo ciclo para biopsia de la cavitación pulmonar con hallazgo de abundantes polimorfonucleares, pero sin hallazgos microbiológicos a destacar y, a pesar de esta cavitación, la paciente permaneció asintomática desde el punto de vista pulmonar durante todo el tratamiento.
+
+Tras fin de neoaduyuvancia, presenta respuesta parcial mamaria y aparente completa axilar; en septiembre de 2010 se realiza mastectomía izquierda y linfadenectomía axilar ipsilateral. La anatomía patológica de la pieza quirúrgica es compatible con carcinoma ductal infiltrante grado III y pT3ypN2M0 con similar perfil inmunohistoquímico al de la BAG inicial. Recibe tratamiento adyuvante con radioterapia (dosis total 40,5 Gy) y hormonoterapia con tamoxifeno 20 mg día. La cavitación pulmonar es persistente y nunca se sobreinfecta a pesar del tratamiento recibido. La paciente continúa tamoxifeno y pasa a revisiones semestrales dentro del límite de normalidad, acudiendo a su última revisión en mayo de 2014.
+
+Evolución
+En junio de 2014 consulta por ptosis palpebral y cervicalgia intensa de 2 semanas de evolución, a la exploración física destaca leve limitación de la mirada vertical en OD, resto de exploración anodina. Se decide ingreso para ampliar estudio.
+
+En TC cerebral se objetivan lesiones oseas esfenoidales bilaterales con compromiso de partes blandas asociados y en TC de tórax-abdomen-pelvis se ven lesiones hipodensas a nivel hepático, micronódulos pulmonares y lesiones óseas líticas diseminadas destacando afectación iliaca derecha e isquiática izquierda El CEA y CA 15.3 son normales. Ante estos hallazgos se interpreta que la paciente cursa con una recaída hepática, pulmonar dudosa y ósea extensa del cáncer de mama, aunque es llamativa la no elevación de marcadores tumorales. Se decide iniciar 1.ª línea de quimioterapia con esquema paclitaxel + bevacizumab y se realiza biopsia de partes blandas iliaca derecha. Se envía a radioterapia antiálgica de lesiones óseas esfenoidales y cervicales con buen control de dolor.
+
+El resultado de la biopsia de partes blandas ilíaca derecha es compatible con mieloma múltiple cadenas ligeras kappa, la analítica destaca elevación de β-2 microglobulina, proteinuria de 8 g/24 horas y proteína de Bence-Jones positiva.
+
+No obstante, persisten dudas sobre la afectación hepática, por lo que se realiza biopsia de LOE hepática, la cual es compatible con infiltración hepática por plasmocitoma/mieloma. En el aspirado de médula ósea se evidencia un 3% de células plasmáticas y la PET-TC evidencia lesiones tumorales en todo el esqueleto óseo (SUVmáx 13,1), hepáticas bilobares (SUVmáx 9,8), cola de páncreas (SUVmáx 7,3). Se concluye que la paciente tiene una afectación extensa por mieloma múltiple y el cáncer de mama no ha recaído, por lo que se suspende tel amoxifeno y se inicia en agosto de 2014 tratamiento por parte de Hematología con esquema VCD (bortezomib, ciclofosfamida y dexametasona), tras 6 ciclos la paciente presenta respuesta completa de todas las lesiones descritas en la PET-TC.

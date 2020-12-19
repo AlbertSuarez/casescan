@@ -1,0 +1,26 @@
+Anamnesis
+Se trata de una mujer de 69 años sin hábitos tóxicos, con antecedentes de hipertensión arterial e hipercolesterolemia, natural de Barcelona. En abril de 2014 presentó episodio de hemorragia digestiva alta
+
+Exploración física
+Al diagnóstico la paciente a la exploración física, presentaba ECOG PS 1
+Sin hallazgos destacables al examen físico.
+
+Pruebas complementarias
+Al diagnóstico en abril 2014, se realizó estudio endoscópico que mostraba la presencia de lesión ulcerada a nivel de cuerpo gástrico con biopsia positiva para adenocarcinoma de tipo intestinal.
+El herceptest resultó ser negativo.
+Se realizó una TC de abdomen, donde se objetivaban adenopatías periregionales, hemangiomas hepáticos y una imagen hepática en segmento VI de 14 mm, inespecífica, por lo que se recomendó estudio dirigido mediante RMN. En la RMN, se objetivaba captación de contraste en anillo en fase tardía, por lo que se concluye como probable metástasis hepática única.
+
+Diagnóstico
+Se valoró como paciente mujer de 69 años con buen estado general afecta de adenocarcinoma de cuerpo gástrico de tipo intestinal Her-2-neu negativo estadio IV por la presencia de metástasis hepática única candidata a tratamiento de quimioterapia de primera línea.
+
+Tratamiento
+El día 30/06/2014 inició tratamiento según esquema cisplatino 80mg/m2 - capecitabina 1500mg dosis totales cada 12 horas durante 14 días en ciclos de 21 días.
+
+Evolución
+Posterior al primer ciclo precisó ingreso hospitalario por toxicidad digestiva grado III, insuficiencia renal grado I y toxicidad hematológica grado I. Tras recuperación clínica se decidió continuar 2º ciclo del mismo tratamiento con reducción de dosis de un 20%.
+En la TC de abdomen de octubre de 2014 posterior a 4 ciclos se objetivaba una disminución de la lesión hipodensa del segmento VI hepático que alcanzaba un diámetro máximo de 9mm. El engrosamiento focal en la curvatura menor gástrica de 22mm no mostraba cambios valorables respecto al estudio basal. Se decidió continuar con dicho tratamiento efectuándose una segunda reducción de dosis de un 20% por astenia, naúseas y toxicidad hematológica grado 2. El paciente completó un total de 6 ciclos. En la TC de abdomen posterior (enero 2015) no se objetivaba enfermedad medible por lo que se decidió en el comité multidisciplinar plantear cirugía de la tumoración primaria.
+El día 02/02/2015 se realizó gastrectomía total laparoscópica más linfadenectomía. La biopsia perioperatoria de la lesión hepática mostraba la presencia de cambios esteoatósicos sin evidencia de células malignas. Tampoco se objetivaron signos de carcinomatosis peritoneal y el lavado peritoneal fue negativo para células malignas. El resultado anatomopatológico resulto ser compatible con adenocarcinoma mal diferenciado (4 cm) de tipo intestinal que infiltra todas las capas de la pared y subserosa (ypT3) distancia a la serosa <1mm). Se observaban signos de invasión vascular pero de invasión perineural. Márgenes de resección sin evidencia de neoplasia. Se aislaron 21 ganglios linfáticos de la curvatura menor y 7 de la curvatura mayor sin evidencia de neoplasia (pN0).
+Se decidió seguir controles hasta que en abril de 2015 en la TC de abdomen se detectó un crecimiento de la lesión del segmento VI hepático de 26 mm sugestiva de metástasis. El estudio mediante PET-TC mostraba la presencia de nódulo hipodenso e hipermetabólico (SUVmàx: 11.01) de 3 cm de diámetro máximo.
+Se valoró como progresión hepática a 3 meses de cirugía y a 5 meses de haber finalizado la primera línea de quimioterapia por lo que inició tratamiento de segunda línea según esquema ramucirumab 8 mg/kg días 1 y 15, más paclitaxel 80 mg/m² días 1, 8, y 15 en ciclos de 28 días. Inició dicho tratamiento el 17/06/15 completando un total de 7 ciclos con buena tolerancia, presentando tan solo neuropatía y astenia grado I.
+En la TC de valoración de respuesta posterior al tercer ciclo presentaba una respuesta parcial con reducción del tamaño de la lesión hepática que pasó a medir 17 mm. Esta respuesta se mantuvo a posterior al 7º ciclo por lo que tras valorar el caso en el comité de tumores hepáticos se decidió realizar metastasectomía hepática el 22/02/2016. El resultado anatomopatológico fue de extensas áreas de necrosis y un pequeño foco de 0.4cm de tumor viable compatible con metástasis de carcinoma mal diferenciado de origen gástrico conocido, con márgenes libres.
+Posteriormente la paciente ha seguido controles en nuestro centro sin evidencia de recidiva (última TC efectuada el día 29/03/16).

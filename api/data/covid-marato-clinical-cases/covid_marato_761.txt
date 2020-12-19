@@ -1,0 +1,33 @@
+Anamnesis
+Nos encontramos ante una mujer de 57 años de edad con antecedentes personales de HTA, glaucoma crónico y síndrome ansioso depresivo. Es exfumadora desde hace 6 meses, con un consumo total acumulado de 9 años/paquete. No presenta hábito enólico.
+
+Historia ginecológica: menarquia a los 13 años, primer embarazo a los 23 años, fórmula obstétrica G5 A1 P4. Lactancia materna durante 10 meses a cada hijo. Utilización de anticonceptivos orales durante 8 años. Antecedentes quirúrgicos: amigdalectomía en la infancia y herniorrafia umbilical en 2008.
+
+Tratamiento habitual: benzodiacepinas a demanda, suplementos orales de hierro y olmesartán. Antecedentes familiares: padre con carcinoma cutáneo de histología desconocida.
+
+La paciente ingresa a cargo del Servicio de Cirugía General en octubre de 2014 para intervención de una hernia inguinal irreductible, presenciando como hallazgo casual durante la cirugía una gran masa intraabdominal acompañada de líquido ascítico de aspecto mucoide, del cual se recoge una muestra, en la que no se evidencian células malignas. Ante dichos hallazgos se decide ampliar el estudio diagnóstico.
+
+En la anamnesis dirigida la paciente refiere un cuadro de un año de evolución consistente en sensación de distensión abdominal con pesadez, que desde hacía 2 meses se acompañaba de dolor en el hemiabdomen inferior y vómitos postingesta.
+
+Tras completar el estudio de extensión mediante TC toracoabdominopélvica y resonancia pélvica con imágenes sugerentes de teratoma quístico, la paciente es intervenida nuevamente en noviembre de 2014. Durante la intervención se realiza en un primer momento aspiración de líquido libre para citología y anexectomía izquierda. El estudio anatomopatológico intraoperatorio es informado como teratoma quístico maduro con zona indurada de 8 x 3 cm sugestiva de neoplasia. Ante dichos hallazgos, se completa la intervención quirúrgica con histerectomía, salpingooforectomía bilateral, omentectomía y apendicectomía. Se toman biopsias peritoneales de correderas parietocólicas derecha e izquierda. No se realiza linfadenectomía pélvica por imposibilidad técnica, dado el alto índice de masa corporal.
+
+Exploración física
+IK 90. Cicatriz de laparotomía media con buen aspecto, sin signos infecciosos en el momento actual.
+Resto de la exploración rigurosamente normal.
+
+Pruebas complementarias
+» Análisis sanguíneo (3/11/14): CA 19.9 84 Ul/ml y CA 125 59 U/ml. Resto de bioquímica, hemograma y coagulación sin alteraciones.
+» TC tórax-abdomen-pelvis (3/11/14): en el tórax destaca la presencia de una atelectasia laminar subsegmentaria en ambas bases, así como espondilosis dorsal sin singos sugestivos de malignidad. No se identifican nódulos pulmonares, derrame pleural ni pericárdico, ni ganglios de aspecto patológico. En el abdomen apreciamos una masa de 17,5 cm x 16,5 cm x 19 cm, en los diámetros anteroposterior, transverso y craneocaudal, respectivamente. Consta de morfología redondeada y componente mayoritariamente quístico, junto con grasa bien delimitada y calcificaciones laminares que parece depender del ovario izquierdo. Se observa estriación de la grasa mesentérica anterior, que podría justificarse por el antecedente quirúrgico, sin poder descartar una diseminación peritoneal. No se aprecian ganglios de aspecto patológico ni afectación visceral a otro nivel.
+» RM pelvis (4/11/2014): definen una masa del tamaño descrito anteriormente, que depende del ovario izquierdo, de componente mayoritariamente quístico, con una pequeña porción de contenido graso y un nódulo ovalado bien definido hiperintenso en T1 que realza tras la administración de contraste paramagnético, todo ello sugestivo de teratoma quístico maduro. El resto del estudio es similar a la TC.
+» Anatomía patológica (AP) de líquido peritoneal libre (11/12/15): positivo para células malignas.
+» AP del anejo izquierdo (11/12/15): carcinoma escamoso pobremente diferenciado originado en el quiste dermoide ovárico que infiltra toda la pared del quiste 1 mm de la superficie serosa. Dos ganglios linfáticos reactivos de epiplón.
+» AP del útero, anejo derecho, epiplón y apéndice cecal (11/12/15): sin hallazgos sugerentes de malignidad.
+
+Diagnóstico
+Nos encontramos, por tanto, ante un carcinoma escamoso pobremente diferenciado sobre un quiste dermoide ovárico, estadio IC de la FIGO.
+
+Tratamiento
+Tras revisar la evidencia científica disponible, dada la infrecuencia del caso, se decide ofrecer a la paciente tratamiento adyuvante con carboplatino-paclitaxel.
+
+Evolución
+Se administran un total de seis ciclos de carboplatino-paclitaxel entre enero y mayo de 2015. La tolerancia al tratamiento ha sido buena, presentando como principales toxicidades astenia, alopecia, diarrea y neurotoxicidad G1. Actualmente se encuentra asintomática, con un excelente estado general y ha iniciado programa de revisiones periódicas.

@@ -1,0 +1,37 @@
+Anamnesis
+Varón de 63 años de edad sin alergias medicamentosas conocidas. No antecedentes médicos de interés. Fumador de 4 paquetes de tabaco durante 50 años (IPA 200 paq./año). Bebedor moderado. No toma medicación de forma habitual.
+Acude a Urgencias por cuadro de odinofagia de 3 meses de evolución. Se realiza nasofibrolaringoscopia donde se aprecia una lesión excrecente desde el límite inferior derecho de rinofaringe hasta orofaringe, obstrucción completa de fosa nasal, lesión tumoral en paladar blando. Se toma biopsia. Anatomía patológica: carcinoma escamoso no queratinizante.
+
+Examen físico
+ECOG 1. Caquexia. Normohidratado y normocoloreado. Eupneico en reposo. En orofaringe, se observa una masa en paladar blando con desviación de úvula. No se palpan adenopatías cervicales. Auscultación cardiaca: tonos rítmicos, sin soplos audibles. Auscultación pulmonar: hipoventilación global. Abdomen: blando, depresible, no doloroso a la palpación, sin masas ni megalias. Peristaltismo conservado. No se observan signos de irritación peritoneal. Hernia inguinal derecha no complicada. EEII: sin edemas y sin signos de TVP.
+
+Pruebas complementarias
+Al diagnóstico:
+- TC cervical (8/10/2012): hallazgos sugestivos de neoplasia centrada en orofaringe que se extiende a nasofaringe, con adenopatías patológicas en nivel IIa derecho y IIb izquierdo, y una adenopatía de aspecto dudoso a nivel IIb derecho.
+- TC toracoabdominal (29/10/2012): en el parénquima pulmonar se observan múltiples lesiones nodulares de varios milímetros de diámetro de preferente localización basal, en ambos campos, y con predominio periférico compatibles con diseminación hematógena metastásica. Lesiones de aspecto cicatricial a nivel apical del lóbulo superior izquierdo con pequeñas imágenes de bullas. Imagen quística hepática con calcificaciones en su interior compatible con quiste. Vía biliar y vesícula normales. Retroperitoneo, páncreas suprarrenales y grandes vasos normales. Riñones normales. Asas de delgado de morfología normal. Cadenas vasculares iliacas normales. Vejiga distendida de contornos nítidos. Notable hernia escrotal derecha.
+- Anatomía patológica: carcinoma escamoso no queratinizante.
+En sucesivos controles:
+- TC cervicotoracoabdominal (15/1/2013): no apreciamos imágenes que sugiera tumoración laríngea. Atrapamiento aéreo de forma generalizada. Quiste hidatídico hepático de 30 mm.
+- TC cervicotoracoabdominal (8/4/2013): no se aprecian imágenes sugestivas de enfermedad secundaria.
+- TC cervicotoracoabdominal (28/6/2013): sin lesiones de enfermedad secundaria. Quiste hidatídico hepático. Hernia inguinal derecha.
+- TC cervicotoracoabdominal (10/9/2013): sin alteraciones significativas a nivel de la luz rinofaríngea ni orofaríngea.
+Moderada asimetría de repliegues ariepiglóticos, así como discreta asimetría de la luz laríngea, sin claras imágenes de masa que se realzan de manera atípica por el contraste. Ambas glándulas parótidas y glándulas submaxilares sin hallazgos significativos. Adenopatías laterocervicales bilaterales, un diámetro máximo en torno a 1 cm la mayor de ellas localizada en el lado derecho. Resto de la exploración sin hallazgos significativos.
+- PET-TC (7/11/2013): persistencia de enfermedad en la pared lateral de la orofaringe y de la región amigdalar del lado derecho (SUV máx. 6,7). Incremento de captación en paladar blando y úvula que plantea diagnóstico diferencial con captación fisiológica y resto tumoral (SUV máx 7,9). Persistencia de enfermedad ganglionar en los niveles IIA derecho (SUV máx 5,5) y IIB izquierdo (SUV máx. 2.1).
+- TC cervicotoracoabdominal (4/2/2014): hallazgos similares a control previo.
+- TC cervicotoracoabdominal (18/3/2014): pequeño quiste de retención en seno maxilar izquierdo. Glándulas parótidas, submaxilares y glándula tiroides dentro de la normalidad. Vía aérea sin estenosis reseñables. Espacios grasos parafaríngeos conservados. No se aprecian adenopatías laterocervicales ni mediastínicas que, por su tamaño, presenten suficiente entidad patológica. Tractos fibrosos cicatriciales apicales izquierdos, sin cambios significativos respecto a estudio previo.
+
+Diagnóstico
+Carcinoma escamoso de orofaringe (cT3cN2cM1) estadio IVc.
+
+Tratamiento
+En noviembre de 2012 comienza tratamiento de quimioterapia con el esquema EXTREME: cetuximab 250 mg/m2 + carboplatino (AUC-5) + 5-fluorouracilo 1.000 mg/m2 por 4 días, durante 6 ciclos cada 21 días y cetuximab semanal hasta febrero de 2013.
+Tras este tratamiento, el paciente recibe cetuximab semanal hasta junio de 2013.
+Por su buena evolución, se decide administración de radioterapia radical sobre la región tumoral y cervical bilateral de 66 Gy fraccionado en 220 cGy desde noviembre de 2013 hasta enero de 2014.
+
+Evolución
+En enero de 2013, durante el 4.º ciclo de tratamiento, se realiza control mediante TC donde se aprecia una respuesta completa, con desaparición de las lesiones pulmonares metastásicas.
+Se realiza nuevo control mediante TC en abril de 2013 (al mes de terminar el tratamiento), donde se mantiene respuesta completa de las lesiones. En controles sucesivos mediante TC, realizados en los meses de junio y septiembre de 2013, se mantiene en respuesta completa; sin embargo, en la visión por fibrolaringoscopia persiste la lesión en paladar blando y en la región amigdalar derecha, motivo por el cual se realiza nueva toma de biopsia, con resultado anatomopatológico negativo para malignidad.
+Se comenta el caso en el Comité de Tumores de ORL y se decide solicitar PET-TC por dicha lesión, que se realiza el 7/11/2013, objetivándose: persistencia de enfermedad en pared lateral de orofaringe y región amigdalar del lado derecho (SUV máx. 6,7). Incremento de captación en paladar blando y úvula que plantea diagnóstico diferencial con captación fisiológica y resto tumoral (SUV máx. 7,9). Persistencia de enfermedad ganglionar en los niveles IIA derecho (SUV máx. 5,5) y IIB izquiedo (SUV máx. 2,1).
+Debido a la buena respuesta al tratamiento de quimioterapia recibido, con la desaparición de las lesiones pulmonares metastásicas, y habiendo tan solo enfermedad residual a nivel cervical, se decide administración de tratamiento radical con radioterapia, que se administra desde noviembre de 2013 hasta enero de 2014.
+Tras el tratamiento radical, se realizan diversos controles mediante TC en marzo y abril de 2014 donde se aprecia una respuesta completa radiológica, así como desaparición de la lesión a la visualización mediante fibrolaringoscopia.
+En el momento actual se encuentra en seguimiento en consultas externas de Oncología Médica y Otorrinolaringología con respuesta completa clínica y radiológica.

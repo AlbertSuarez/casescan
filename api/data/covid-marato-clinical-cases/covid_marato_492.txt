@@ -1,0 +1,32 @@
+Anamnesis
+Varón de 46 años, sin antecedentes médicos de interés, que comienza con un cuadro clínico de 8 meses de evolución de episodios de fiebre y dolor abdominal inespecífico que duran entre 2-3 días y se autolimitan.
+
+Exploración física
+En la exploración física no hay hallazgos destacables.
+Pruebas complementarias
+» Comienza el proceso diagnóstico, con datos analíticos, microbiológicos, serológicos y de inmunidad dentro de la normalidad a excepción de la velocidad de sedimentación globular (VSG) entre 80 y 90 mm/h.
+» Endoscopias digestivas (alta y baja) sin hallazgos relevantes.
+» En la TC de tórax y abdomen se aprecian múltiples lesiones ocupantes de espacio (LOE) hipointensas en el hígado, que se biopsian. En la anatomía patológica se obtienen células compatibles con metástasis de tumor neuroendocrino.
+» Se solicita gammagrafía con octeótrido, que confirma la presencia de un hígado metastásico por tumor que expresa receptores de somatostatina. Comienza tratamiento con somatulina intramuscular (IM) mensual.
+» Durante el proceso diagnóstico se objetivan hipoglucemias clínicas y analíticas. En las pruebas de ayuno y en la arteriografía de páncreas y tras infusión de calcio, se confirma hiperinsulinismo endógeno.
+» En la ecoendoscopia se aprecia una LOE en el cuerpo pancreático, de la que se toma biopsia, obteniéndose histología compatible con carcinoma neuroendocrino bien diferenciado, con estudio inmunohistoquímico positivo para NSE, cromogranina A, sinaptofisina, CD56, CD57, negativa para CK7 y CK20. Índice proliferativo Ki-67 3%.
+
+Diagnóstico
+Insulinoma maligno estadio IV (metástasis óseas, hepáticas).
+
+Tratamiento
+Se procede a quimioembolización hepática en cuatro ocasiones, sin respuesta tumoral citorreductora.
+Se realiza una laparotomía exploradora con pancreatectomía corporocaudal + esplenectomía + linfadenectomía.
+Se desestima trasplante hepático por presencia de metástasis óseas en PET-DOPA.
+Con diagnóstico de insulinoma pancreático maligno con metástasis hepáticas y óseas, se deriva al Servicio de Oncología Médica y se inicia tratamiento quimioterápico con esquema 5-fluorouracilo y estreptozocina, con beneficio clínico y control de las hipoglucemias. Recibe un total de 14 ciclos.
+
+Evolución
+Tras un intervalo libre de progresión (ILP) de 5 meses, se cambia el tratamiento a sunitinib por progresión ósea y toxicidad renal del tratamiento. Se produce una respuesta parcial hepática y completa ósea. Buena tolerancia al tratamiento sin toxicidad grado 2.
+
+Después de un ILP de 17 meses, presenta de nuevo hipoglucemias de repetición no controlables de forma ambulatoria y se objetiva progresión radiológica hepática y ósea. Inicia tratamiento con diazóxido 300 mg/24 h para el control de la glucemia, y everolimús, con estabilización clínica, pero tras ILP de 4 meses precisa nuevamente ingreso hospitalario por hipoglucemias graves mantenidas, y nueva progresión hepática radiológica.
+
+Se cambia de línea de quimioterapia a capecitabina-temodal, con beneficio clínico y buen control de las glucemias, pero tras 7 meses de tratamiento se objetiva una nueva progresión hepática radiológica. Se suspende así el tratamiento con estos fármacos y se realiza una nueva quimioembolización hepática en cuatro tiempos. Presenta como complicación un episodio febril sin foco y sin documentación microbiológica al 7º día tras la quimioembolización, que precisa ingreso. Durante el mismo, el paciente presenta hiperglucemias que requieren insulinoterapia.
+
+Se reintroduce tratamiento con everolimús y se mantiene con enfermedad estable y con hipoglucemias bien controladas con diazóxido y dexametasona, con un intervalo libre de progresión de 5 meses, hasta la actualidad.
+
+En este momento, el paciente se encuentra ingresado en nuestro centro hospitalario por hipoglucemias muy graves y de difícil manejo, refractarias a esteroides a altas dosis y diazóxido, con requerimientos muy elevados de glucosa (400 g diarios incluidos en nutrición parenteral), precisando rescates con solución hipertónica de glucosa al 50% de manera continua. Se inicia durante el ingreso una nueva línea de quimioterapia con carboplatino-etopósido, con toxicidad hematológica grado 4 y un episodio de fiebre neutropénica, sin respuesta clínica tras la primera dosis que no ha permitido la disminución de los requerimientos de glucosa. El paciente presenta ECOG 4 por un fallo hepático progresivo (alteración de las enzimas hepáticas, elevación del amonio en sangre y anasarca), por lo que finalmente se están adoptando medidas terapéuticas enfocadas al control sintomático.

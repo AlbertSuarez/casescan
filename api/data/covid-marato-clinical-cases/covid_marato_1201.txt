@@ -1,0 +1,41 @@
+Anamnesis
+
+Antecedentes personales
+Mujer de 45 años, sin alergias medicamentosas conocidas, sana, sin antecedentes patológicos personales ni familiares de interés. No toma ningún tratamiento habitualmente.
+Sin embarazos previos (nulípara). Menarquia a los 12 años, con fórmula menstrual 6/28 días.
+
+Historia actual
+En marzo de 2009, empieza a notar cambios en mama izquierda, con edema, piel de naranja, retracción de pezón y dolor, motivo por el que consulta con Cirugía General.
+Tras completar estudio con mamografía y ecografía mamaria que describen lesiones compatibles con malignidad, se procede a biopsia con aguja gruesa (BAG), siendo el resultado diagnóstico de carcinoma ductal infiltrante de mama, luminal A (receptores estrógenos 90 %, receptores progesterona 70 %, Ki67 10 %, HER-2 negativo), estadio IIIB (pT4bN+Mx).
+
+Exploración física
+» Buen estado general, performance status (PS) 0, consciente, orientada y colaboradora.
+» Exploración neurológica sin alteraciones.
+» Auscultación cardiopulmonar normal. Abdomen sin alteraciones significativas. Sin edemas en miembros inferiores ni signos de trombosis.
+» Exploración mamaria: mamas asimétricas, con lesión nodular en mama izquierda difícil de delimitar, que prácticamente afecta a ambos cuadrantes superiores, indurada, edema y retracción de la piel. Adenopatía en axila izquierda de 2 cm aproximadamente. Mama derecha sin alteraciones. No se palpan adenopatías cervicales ni supraclaviculares. Peso: 69,5 kg, talla 173 cm.
+
+Pruebas complementarias
+» Ecografía mamaria y axilar bilateral (1/3/2009): en cuadrante supero-externo de mama izquierda se observa área de mayor densidad radiológica, espiculada, que llega a medir hasta 6 cm, sugestiva de malignidad. Retracción de piel y engrosamiento de la piel. Varias adenopatías de pequeño tamaño, de aspecto neoplásico.
+» Informe de biopsia al diagnóstico (5/3/2009): carcinoma ductal infiltrante, grado I de la clasificación de Nottingham, receptores de estrógenos 90 %, receptores progesterona 70 %, Ki 67 10 %, HER-2 negativo, citoqueratina 19 positivo.
+» TC tórax-abdomen-pelvis de 1ª recaída (6/8/2014): lesión osteolítica en a nivel de pedículo y hemicuerpo de L5 y otra lesión de características similares en hemicuerpo de D9, ambas sugestivas de metástasis. No se observan lesiones sospechosas en hígado, pulmones, ni en otros órganos visualizados. No hay adenopatías sospechosas.
+» TC de tórax-abdomen-pelvis (29/8/2017): hígado de contorno lobulado, con múltiples retracciones parenquimatosas, compatibles con cirrosis, lesiones hepáticas hipodensas compatibles con metástasis en respuesta en comparación con estudios previos. Ascitis de nueva aparición a nivel perihepático, periesplénico y pelvis, en probable relación con hallazgo de cirrosis. Estabilidad de lesiones óseas metastásicas.
+
+Diagnóstico
+Carcinoma ductal infiltrante de mama luminal a (receptores estrógenos 90 %, receptores progesterona 70%, KI67 10 %, HER-2 negativo).
+
+Tratamiento
+Se comenta caso en comité de tumores, donde se propone tratamiento neoadyuvante, y tras valoración en consultas de Oncología Médica, se inicia quimioterapia sistémica mediante esquema FEC (5-Fluorouracilo 500 mg/m2 + epirrubicina 100 mg/m2 + ciclofosfamida 500 mg/m2 intravenosos cada 28 días) por cuatro ciclos, seguido de paclitaxel semanal por 12 ciclos (80 mg/m2 intravenoso) que la paciente acepta, presentado aceptable tolerancia, con mucositis grado 1 en los 3-4 primeros días postratamiento y nauseas grado 1, sin necesidad de retrasos de tratamiento.
+Tras completar aproximadamente 6 meses de tratamiento, el 11 de noviembre de 2009 se interviene mediante mastectomía radical con linfadenectomía axilar, sin complicaciones postoperatorias, presentando respuesta parcial postneoadyuvancia (ypT1bN0M0-estadio I). Posteriormente recibe tratamiento adyuvante con tamoxifeno 20 mg/ día durante 5 años, además de radioterapia. La paciente presentó buena tolerancia, sin referir efectos adversos.
+
+Evolución
+La paciente empieza sus revisiones en las consultas de Oncología Médica, con pruebas complementarias normales, hasta agosto de 2014. Tras sufrir caída accidental, se realiza TC de tórax y abdomen en el que se describe lesión osteolítica en pedículo y hemicuerpo izquierdo de L5 y D9, sugestivos de metástasis, que posteriormente se confirma con resonancia magnética de columna y gammagrafía ósea, que describe además focos de captación patológicos a nivel de varios arcos costales y pelvis.
+Al no presentar enfermedad a otros niveles, se asume recaída de cáncer de mama hormonosensible, y se decide cambiar tratamiento a exemestano 25 mg cada 24 horas oral y añadir ácido zoledrónico 4 mg intravenoso cada 28 días.
+Al año, en junio de 2015, presenta nueva progresión de la enfermedad, esta vez a nivel hepático y pulmonar, con persistencia de lesiones óseas, por lo que se suspende exemestano y se inicia tratamiento de segunda línea con capecitabina 1.250 mg/m2 cada 12 horas (días 1-14 cada 21 días), presentando como toxicidad mucositis grado 1 y síndrome mano-pie.
+Tras 3 ciclos de capecitabina, la paciente decide solicitar una segunda opinión y seguir tratamiento en centro privado, donde, a pesar de no presentar progresión de la enfermedad, se inicia tratamiento con paclitaxel (80 mg/m2 días 1-8-15) + bevacizumab (10 mg/kg días 1-15) cada 28 días. Completa 7 ciclos sin toxicidad destacable (neuropatía palmo-plantar grado 1), con respuesta parcial importante por TC y respuesta metabólica casi completa por PET-TC, con persistencia de enfermedad a nivel de sacro pero desaparición de las lesiones hepáticas y pulmonares.
+Tras la respuesta parcial alta por PET-TC, en febrero de 2016, se decide seguir tratamiento con everolimus 10 mg/24 h oral asociado a letrozol 2,5 mg/24 h oral, continuo, como tratamiento de "mantenimiento", que la paciente tolera francamente mal, con cefalea, hipertensión de difícil control, mucositis grado 3 y mareos, lo que lleva a la suspensión de dicho tratamiento.
+En mayo empieza tratamiento con fulvestrant 500 mg intramuscular mensual que mantiene hasta agosto de 2016, presentando en TC de reevaluación nueva progresión hepática y ósea.
+Dado que la paciente había presentado previamente buena respuesta a paclitaxel + bevacizumab se decide retratar a la paciente con el mismo esquema, por lo que de agosto 2016 hasta abril de 2017 completa 8 ciclos.
+Al presentar lenta progresión en TC de reevaluación se decide cambiar de línea a doxorrubicina liposomal pegilada 40 mg/m2 intravenosa cada 28 días, presentando como principal toxicidad nauseas grado 1 y mucositis grado 1.
+En septiembre de 2017, la paciente empieza con aumento de perímetro abdominal, con semiología de ascitis, por lo que se realiza paracentesis diagnóstica, observando líquido claro que al análisis bioquímico presentaba características de trasudado. Además, en analítica general presenta elevación de bilirrubina total (1,45 mg/dl, con límite superior en 1,2 mg/dl) y de transaminasas (glutamato-oxalacetato transaminasa 76 U/l, glutamato piruvato transaminasa 41 U/l, gama-glutamil transferasa 227 U/l, fosfatasa alcalina 385 U/l).
+Se solicita ecografía abdominal (y posteriormente se confirman hallazgos con TC), que describe hígado de contornos lobulados, con ecoestructura heterogénea compatible con cirrosis hepáticas, no descrito en imágenes previas (comparado con TC del año anterior), sin describir lesiones hepáticas de nueva aparición presentando las conocidas aspecto fibrosado.
+Se deriva a la paciente a consultas de Aparato Digestivo para descartar origen de cirrosis, pero la presenta deterioro rápidamente progresivo y acaba por fallecer el 30 de septiembre de 2017 a consecuencia de fallo hepático.

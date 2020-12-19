@@ -1,0 +1,28 @@
+Anamnesis
+Mujer de 62 años sin reacciones medicamentosas conocidas, ex fumadora y con antecedentes de hipertensión arterial esencial en tratamiento con IECAS.
+Presenta una historia oncológica que inicia en otro centro:
+» Carcinoide rectal intervenido en 1998 en seguimiento con colonoscopias.
+» Carcinoma renal de células claras E.II (pT2, G1) intervenido en 2003 mediante nefrectomía radical izquierda en seguimiento desde entonces.
+» Melanoma maligno de extensión superficial nivel II de Clark e índice Breslow 0’ 25 en miembro inferior derecho intervenido en 2008.
+En febrero de 2010, ante un nódulo tiroideo sospechoso de tumor, se realiza hemitiroidectomía derecha, con resultado anatomopatológico compatible con metástasis por carcinoma de células claras. En la TC de control se objetiva además aumento del tamaño de la lesión suprarrenal conocida previamente que compromete su riñón, por lo que en mayo de 2010 se realiza tumorectomía renal contralateral con margen de seguridad y suprarrenalectomía derecha con resultado positivo para carcinoma de células claras. Ante carcinoma renal de células claras bilateral con metástasis suprarrenal y tiroidea resecadas sin evidencia de enfermedad, se decide seguimiento.
+En noviembre de 2010 presenta recaída de enfermedad a nivel hepático, pancreático y la aparición de nódulo tiroideo; con biopsias positivas para carcinoma renal de células claras, por lo que se decide iniciar tratamiento de primera línea para enfermedad metastásica con sunitinib a dosis de 50 mg/día esquema 4/2.
+Tras primer ciclo de tratamiento, la paciente solicita segunda opinión en nuestro centro, continuando tratamiento con nosotros.
+
+Exploración física
+Buen estado general, PS 0, nódulo tiroideo palpable sin adenopatías cervicales. Resto de exploración sin hallazgos patológicos.
+
+Pruebas complementarias
+Se realiza una TC toraco-abdomino-pélvica donde se objetiva a nivel pancreático la presencia de varias formaciones hipercaptantes nodulares, localizadas en cola, cuerpo e istmo que, dados los antecedentes del paciente, plantean el diagnóstico diferencial entre una lesión primaria sincrónica pancreática o bien lesiones secundarias en relación con su neoplasia ya tratada, sin otros hallazgos destacados.
+Se completa estudio con IRM hepática, identificándose en páncreas al menos 6 lesiones nodulares (algunas ya descritas en el TC), diseminadas por toda la glándula, que captan contraste de forma intensa en la fase arterial, persistiendo la hipercaptación de forma más tenue en el resto de fases, alguna de ellas con necrosis central (captación anular). Además, en el parénquima hepático se observa un nódulo sólido de 11 mm en segmento 2 del LHI que presenta un comportamiento similar a las lesiones pancreáticas.
+En la ecografía de tiroides se objetiva nódulo sólido de 11 x 14 mm con PAAF acelular. Analítica dentro de la normalidad sin alteraciones de función tiroidea, destaca cLDH 434 mg/dl.
+
+Diagnóstico
+Recaída metastásica de carcinoma renal de células claras de buen pronóstico según criterios MSKCC.
+
+Tratamiento
+Se mantiene tratamiento con sunitinib 50 mg diarios vía oral de forma continuada durante cuatro semanas y dos de descanso, requiriendo reducción de dosis a 37,5 mg/día a los dos ciclos por toxicidad (eritrodisplasia palmo-plantar G2, HTA mal controlada con IECAS y astenia G2).
+
+Evolución
+Tras tres ciclos completos de tratamiento, la paciente presenta respuesta completa radiológica de todas las lesiones salvo del nódulo tiroideo, decidiéndose continuar tratamiento a dosis reducida por mala tolerancia. Tras 10 ciclos de tratamiento, la paciente continúa en respuesta mantenida, por lo que se decide completar tiroidectomía con resultado anatomopatológico compatible con metástasis por carcinoma de células claras. El control radiológico postcirugía es negativo para tumor, ante E.IV sin evidencia de enfermedad (NED) se decide parar tratamiento hasta ver la progresión de enfermedad clínica o radiológica.
+Tras intervalo libre de progresión de 18 meses, la paciente presenta recaída radiológica con la aparición de 4 lesiones en el polo inferior del riñón derecho, una lesión en segmento 4 hepático sugestivo de implante tumoral y 2 lesiones en cola de páncreas. La paciente se encuentra asintomática con buen estado general y realiza vida activa; ante la respuesta obtenida inicialmente con sunitinib se decide reiniciar tratamiento a dosis 50 mg diarios esquema 4/2; tras primer ciclo, la paciente presenta hipertensión arterial de difícil control y se decide mantener dosis reducida a 37,5 mg con buena tolerancia.
+La paciente se reevalúa como enfermedad estable tras 4 ciclos de tratamiento y como respuesta parcial tras 8 ciclos, con persistencia de una lesión milimétrica en hígado y otra lesión milimétrica en páncreas, por lo que se propone tratamiento local con SBRT y discontinuar tratamiento hasta progresión de enfermedad. Se realiza SBRT de las lesiones residuales, sin complicaciones y con muy buena tolerancia. Desde entonces, la paciente se encuentra en seguimiento, asintomática, con intervalo libre de tratamiento de 24 meses sin progresión de enfermedad.

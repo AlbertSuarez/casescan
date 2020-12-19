@@ -1,0 +1,36 @@
+Anamnesis
+Mujer de 61 años, sin alergias medicamentosas conocidas, con antecedentes personales de hipertensión arterial en tratamiento con IECA, fumadora de 50 paquetes-año y obesidad.
+Historia oncológica:
+En junio de 2013 acudió al Servicio de Urgencias con un cuadro de dolor torácico opresivo, objetivándose en la analítica elevación de D-dímeros de 3.580 ng/ml (valores normales < 500 ng/ml). Se descartó la presencia de tromboembolismo pulmonar con una TC de tórax urgente, evidenciándose un nódulo en el LSD de 12 mm. Dada de alta con diagnóstico de dolor torácico atípico, se inició el estudio del nódulo pulmonar solitario de forma ambulante. De manera paralela, se solicitó una RM de columna para el estudio del cuadro de un mes de evolución de dorsalgia, objetivándose metástasis en el cuerpo vertebral de D7 sin compromiso medular. Se completó el estudio con una PET-TC que demostró captación del nódulo del LSD, en múltiples adenopatías mediastínicas (las mayores paraesofágicas de 3 cm) y en estructuras óseas (clavícula derecha, D7, parrilla costal y pelvis bilateral) y se realizó una punción con aguja fina (PAAF) guiada por ecografía de una adenopatía mediastínica, siendo el resultado compatible con carcinoma de célula pequeña.
+Estando pendiente de los resultados anatomopatológicos de la PAAF, acude de nuevo al Servicio de Urgencias por bajo nivel de consciencia en las últimas horas, con cefalea holocraneal de intensidad progresiva y vómitos de una semana de evolución.
+
+Examen físico
+TA 230/110 mmHg. Afebril. Índice de Karnofsky (IK) 60%.
+Exploración neurológica: consciente, bradipsíquica, orientada en persona y lugar, desorientada en tiempo. Comprende, nomina y obedece órdenes simples. Pupilas isocóricas, normorreactivas. Pares craneales normales.
+Fuerza y sensibilidad conservadas en las cuatro extremidades.
+Resto de la exploración sin hallazgos significativos.
+
+Pruebas complementarias
+- Analítica: leucocitos 12.800/mm3 (neutrófilos 82%) con resto del hemograma y coagulación normales. Glucosa 150 mg/dl, creatinina 0,8 mg/dl, Na 148mEq/l, K 2 mEq/l.
+- Gasometría arterial: pH 7,50 pO2 73 mmHg, pCO2 49 mmHg, HCO3 34,9 mEq/l, exceso de bases 12,8, ácido láctico 2,2 mg/dl.
+- TC craneal con contraste (urgencias): no se observan signos de sangrado. No hay desviación de la línea media ni otros efectos de masa.
+- RM cerebral: aumento difuso de la intensidad de señal en secuencias potenciadas en T2 en la sustancia blanca de los lóbulos occipitales, parietales y región frontal superior, con difusión facilitada en la secuencia potenciada en difusión, sin evidencia de áreas de realce en las secuencias poscontraste, siendo los hallazgos sugerentes de encefalopatía posterior reversible.
+- Pruebas funcionales de endocrinología: ACTH 163 pg/ml (normal 20-80), cortisol basal 254 mcg/dl (normal 6-23), cromogranina 21 ng/ml (normal < 50 ng/ml), cortisol libre urinario 400 mcg/24 h (normal 10-100).
+
+Diagnóstico
+Encefalopatía posterior reversible secundaria a emergencia hipertensiva en una paciente con síndrome Cushing-like secundario a carcinoma microcítico de pulmón diseminado secretor de ACTH.
+
+Tratamiento
+Tratamiento inicial: a su llegada a Urgencias, la paciente presentó crisis tónico-clónicas de segundos de duración que cedieron tras la administración de diazepam intravenoso.
+Se realizó una TC craneal, que descartó hemorragia o isquemia aguda y fue valorada por el Servicio de Neurología, siendo compatible la clínica neurológica con un cuadro de encefalopatía posterior reversible.
+Ante las alteraciones iónicas y el mal control tensional con cifras de TAS > 200 mmHg, a pesar de perfusión de urapidilo intravenoso, se decide su ingreso en la Unidad de Cuidados Intensivos (UCI).
+
+Evolución
+Durante su estancia en la UCI se inició tratamiento con urapidilo intravenoso, bolos de labetalol, doxazosina y losartán, con discreta mejoría de las cifras tensionales (TAS > 170 mmHg) y buena evolución de la clínica neurológica. Se realizó una RM cerebral compatible con encefalopatía posterior reversible y, dadas las alteraciones hidroelectrolíticas con tendencia a la hipernatremia e hiperpotasemia severa, se solicitó valoración por Endocrinología.
+Las pruebas funcionales endocrinas demostraron un hipercortisolismo secundario.
+Tras los resultados anatomopatológicos y de las pruebas funcionales, la paciente es diagnosticada de síndrome Cushing-like paraneoplásico. Valorado el caso por el Servicio de Oncología Médica y Endocrinología de forma conjunta, se decide iniciar tratamiento quimioterápico.
+En la unidad de hospitalización de Oncología Médica se administra el primer ciclo de quimioterapia (carboplatino AUC 6 día 1 y etopósido 120 mg/m2 días 1-3) asociado a hidrocortisona 10 mg cada 12 horas vía oral y fludrocortisona 0,05 mg cada 24 horas vía oral para evitar una posible insuficiencia suprarrenal secundaria al tratamiento quimioterápico.
+A los 3 días tras la finalización del primer ciclo, la paciente presenta bajo nivel de consciencia, hipotensión que no responde a fluidoterapia y tendencia a la hiperpotasemia y acidosis metabólica compatible con insuficiencia suprarrenal aguda. Se inicia perfusión de hidrocortisona 100 mg cada 24 horas, con buena evolución clínica y analítica, por lo que se inicia pauta descendente de esteroides, logrando buen control tensional e iónico con una dosis de hidrocortisona de 40 mg al día.
+La paciente evolucionó de forma favorable y fue dada de alta. Durante el seguimiento en consultas externas de Endocrinología se disminuyó la dosis de hidrocortisona a 30 mg cada 24 horas salvo los días de tratamiento quimioterápico, que se aumentó a 60 mg cada 24 horas, no precisando ingresos posteriores.
+Se realiza una TC de reevaluación al completar 3 ciclos, con respuesta parcial mantenida en febrero de 2014 tras finalizar la primera línea.
+Actualmente, la paciente ha iniciado una segunda línea con topotecán 1,5 mg/m2 (días 1-5) cada 21 días tras la progresión adenopática locorregional y ósea. En la última analítica presentaba ACTH 23 ng/dl (normal 20-80) y cortisol libre urinario 126 mcg/24 horas (normal 10-100).

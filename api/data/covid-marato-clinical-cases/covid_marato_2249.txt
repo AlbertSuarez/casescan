@@ -1,0 +1,28 @@
+Anamnesis
+Paciente de 37 años de edad sin antecedentes patológicos ni quirúrgicos de interés.
+En diciembre de 2012 consultó al Servicio de Urgencias por un cuadro de cefalea aguda e hipostesia del hemicuerpo izquierdo de 15 días de evolución refractario a tratamiento. Exploración neurológica sin focalidad; fondo de ojo: papiledema unilateral. Se solicitaron una TC del SNC, que objetiva una LOE frontal derecha con afectación aparente del cuerpo calloso, y una RM del SNC, que muestra un extenso proceso expansivo intraparenquimatoso frontal derecho que infiltra la rodilla del cuerpo calloso, mal delimitada y sin componente necrótico. Tras la administración de contraste se apreciaban diferentes realces parcheados en la lesión, pero sin definirse una cápsula con aumento del flujo sanguíneo en la lesión, características compatibles con linfoma o astrocitoma anaplásico.
+El 3 de enero de 2013 se efectúa biopsia intraoperatoria, con diagnóstico histológico de astrocitoma anaplásico GIII.
+Se valora en Tumor Board Neuroncología descartando tratamiento quirúrgico dada la infiltración del cuerpo calloso. El paciente fue tributario de tratamiento con RDT y QT secuencial: 54 Gy (2 Gy/fr) desde el 19/3/2013 al 3/5/2013. Durante el tratamiento radioterapéutico el paciente requirió dexametasona 1 mg c/8 h, reduciéndose de manera progresiva a 1 mg c/24 h a la finalización del tratamiento.
+El 30/5/2013 inicia temozolamida (150 mg/m2 x 5 días c/28 días) y descenso de manera progresiva de corticoides hasta su eliminación. Se pautan ciclos 2, 3 y 4 a la misma dosis (150 mg/m2) por presentar neutropenia G3 tras el primer ciclo.
+En septiembre de 2013, posteriormente a la administración del cuarto ciclo, el paciente presentó un cuadro de dolor abdominal agudo de 48 horas de evolución, acompañándose de deposición diarreica con sangre abundante. Ante la sospecha de abdomen agudo, se solicita valoración por Cirugía y TC abdominal urgente.
+
+Examen físico
+Paciente con estado general conservado. Abdomen distendido, doloroso a la palpación en el hemiabdomen izquierdo, peristaltismo preservado y sin signos de irritación peritoneal. No semiología de ascitis. Resto de la exploración anodina.
+
+Pruebas complementarias
+- Analítica: leucocitosis con neutrofilia sin linfopenia (leucocitos 14.000, neutrófilos 10.900, linfocitos 1.100). Función renal y hepática dentro de la normalidad. PCR 8.
+- Radiografía de abdomen y tórax sin signos de neumoperitoneo.
+- TC abdominal: muestra un proceso inflamatorio/infeccioso del colon descendente y transverso, sin identificarse colecciones intraabdominales ni neumoperitoneo.
+- Coprocultivo negativo.
+- Colonoscopia: colitis izquierda sugestiva de proceso isquémico. Biopsia: tejido de granulación y presencia en el estudio inmunohistoquímico de células aisladas positivas para citomegalovirus.
+
+Diagnóstico
+Colitis por citomegalovirus (CMV).
+
+Tratamiento
+Durante el ingreso, y dado el diagnóstico sugerido en primera instancia de la colonoscopia, se orientó el caso como colitis isquémica, iniciándose tratamiento sintomático con reposo digestivo y sueroterapia hasta la mejoría clínica; evolucionó de forma satisfactoria, tolerando la vía oral y con ritmo deposicional reestablecido sin productos patológicos.
+
+Evolución
+A las 3 semanas del alta el paciente persiste asintomático. Fue cuando se recibió el resultado definitivo de la biopsia: positivo para CMV. Se reorientó el caso como colitis por CMV. Tras consultar con el Servicio de Enfermedades Infecciosas, se acordó no iniciar tratamiento con valganciclovir ante la ausencia de signos de infección activa. Se reinició tratamiento con temozolomida con buena tolerancia hasta completar los 6 ciclos planeados, finalizando el 14 de noviembre de 2013.
+Al mes del ingreso se realizó una colonoscopia de control, con resolución del cuadro.
+Actualmente sigue controles bimensuales. La última RM del SNC muestra estabilidad de su enfermedad oncológica.

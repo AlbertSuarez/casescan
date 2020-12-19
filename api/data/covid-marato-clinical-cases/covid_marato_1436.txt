@@ -1,0 +1,27 @@
+Anamnesis
+Paciente mujer de 29 años de edad sin alergias conocidas y sin antecedentes personales de interés.
+Antecedentes gineco-obstétricos: premenopáusica con menarquia a los 14 años, no embarazos.
+Antecedentes familiares: abuela materna fallecida de cáncer de mama (CM) y prima paterna de melanoma.
+
+La paciente es diagnosticada en agosto 2009 de un carcinoma ductal infiltrante (CDI) de mama izquierda de 2,4 x 1,5 cm, se realizó tumorectomía con biopsia de ganglio centinela (BGC), que fue negativa para células malignas. No se evidenció enfermedad tumoral a distancia, por lo que el diagnóstico final fue de CDI de mama izquierda subtipo luminal A por sus características inmunohistoquímicas (receptores de estrógeno y progesterona positivos al 100%, Ki-6710% y Her2 negativo), un estadio IIA (pT2N0M0). La paciente recibió tratamiento quimioterápico (QT) adyuvante con esquema CAF (ciclofosfamida 500 mg/m2, adriamicina 50 mg/m2 y 5-fluorouracilo 500 mg/m2) por 6 ciclos, con buena tolerancia y que finalizó en febrero de 2010; solo presentó un retraso de una semana por una neutropenia grado 2. Posteriormente recibió tratamiento con radioterapia por tratarse de una cirugía conservadora. Además, se realizó bloqueo hormonal con un análogo LHRH (goserelina) y tamoxifeno durante 2 años (desde marzo de 2010 a marzo de 2012), continuando con tamoxifeno hasta completar 5 años. En marzo de 2015, estando todavía en tratamiento hormonal, acude a una revisión refiriendo la aparición de una adenopatía (ADP) en la región supraclavicular derecha.
+
+Exploración física
+Buen estado general. ECOG 0. Estable hemodinámicamente.
+Cabeza y cuello: se palpa una adenopatía supraclavicular derecha de 0,5 cm de consistencia blanda y rodadera.
+Resto de la exploración física sin alteraciones.
+
+Pruebas complementarias
+» Punción con aguja fina (PAAF) de ADP supraclavicular derecha: metástasis de CDI de mama con receptores hormonales positivos.
+» Analítica: CEA 10,23 ng/ml (valores normales 0-4,7 ng/ml).
+» Resonancia magnética (RM) de mama, tomografía computarizada tóraco-abdomino-pélvica (TC-TAP) y gammagrafía ósea: sin alteraciones.
+» La paciente acude a consulta para conocer los resultados de las pruebas y a la exploración física ya se no se palpa la ADP supraclavicular, por lo que se solicita una tomografía de positrones de cuerpo entero con fluordesoxiglucosa-F18 (PET-TC) para confirmar la presencia de enfermedad a distancia y descartar un resultado falso positivo. En la PET-TC solo se objetiva la aparición de una captación patológica con SUVmáx: 4,8, compatible con metástasis en apófisis espinosa de la vértebra cervical C4. Debido a dicho hallazgo, se solicita una RM cervical para una mejor caracterización de la lesión, con resultado de lesión ósea de 28 x 25 x 15 mm en la apófisis espinosa de C4 con masa de partes blandas asociada que contacta con la musculatura paravertebral adyacente y que no causa compromiso medular.
+» Ante esta situación, se solicita la realización de una biopsia ósea al Servicio de Traumatología, y en abril de 2015 se realiza una exéresis completa de la tumoración localizada en el arco posterior de C4 con descompresión y laminectomía de C3-C4 e instrumentación posterior en C3-C6. El resultado anatomopatológico de la lesión ósea fue de metástasis de CDI de mama con receptores hormonales positivos y Her2 negativo.
+
+Diagnóstico
+Mujer de 35 años con recidiva oligometastásica de CDI de mama, subtipo luminal A, durante el tratamiento adyuvante.
+
+Tratamiento
+Se comenta el caso en sesión clínica de oncología y se decide administrar tratamiento QT con paclitaxel 80 mg/m2 semanal durante 12 semanas seguido de hormonoterapia.
+
+Evolución
+La paciente no presentó ninguna complicación postquirúrgica, por lo que a las 4 semanas de la cirugía inició el tratamiento QT con paclitaxel semanal. Actualmente ha recibido 4 ciclos, con muy buena tolerancia.

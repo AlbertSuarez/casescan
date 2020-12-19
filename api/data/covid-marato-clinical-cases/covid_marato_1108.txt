@@ -1,0 +1,30 @@
+Anamnesis
+Mujer de 60 años, exfumadora desde hace dos de 4 paquetes-año. Como antecedentes personales de interés, fue intervenida de hernia discal L5-S1 en 1981 y de histerectomía por mioma uterino en 2005. Presentó fractura vertebral de L3 secundaria a traumatismo en 2011, tratada de forma conservadora. Como antecedentes ginecológicos, una gestación y un parto vaginal. No precisa de tratamiento crónico.
+Presenta antecedentes familiares de cáncer de mama (su madre, hermana y abuela materna fallecieron por dicha causa) y de cáncer de colon (su padre y tía paterna, también fallecieron).
+Comienza en noviembre de 2016 con clínica de dolor lumbar irradiado a glúteo derecho. El dolor va aumentando progresivamente, hasta acompañarse de pérdida de fuerza en miembro inferior izquierdo, por lo que, en marzo de 2017, acude a Urgencias e ingresa a cargo de Medicina Interna para completar estudio.
+
+Exploración física
+ECOG-1, aunque en los días previos al ingreso el dolor y la impotencia funcional le limitan su actividad diaria. Presenta buen estado general. La exploración neurológica revela una pérdida de fuerza de 3/5 a la flexión plantar izquierda y 1/5 a la flexión dorsal izquierda, además de una hipoestesia en cara lateral de la pierna izquierda. No sufre alteración de esfínteres. El resto de la exploración no revela hallazgos patológicos.
+
+Pruebas complementarias
+Se realiza tomografía computarizada (TC) de columna lumbosacra que objetiva una masa sólida infiltrativa en el cuerpo vertebral de L5 con extensión a S1, condicionando estenosis foraminal bilateral, así como grave estenosis del canal central con afectación de raíces descendentes de la cola de caballo.
+Se completa el estudio con una TC de tórax, abdomen y pelvis, que revela una masa renal izquierda de 9 x 6,3 cm de diámetro axial con invasión de la fascia de Gerota, pero sin afectación de adenopatías locorregionales. Analíticamente, no presenta hallazgos patológicos.
+
+Diagnóstico
+Es intervenida a finales de marzo de 2017, realizando nefrectomía izquierda con resultado anatomopatológico de carcinoma renal de células claras grado nuclear 3 de Furhman, con dudosa infiltración de sinus renal pero sin invasión linfovascular ni afectación de márgenes quirúrgicos. Por tanto, se estadifica el tumor como estadio IV, pT3aN0M1 (ósea vertebral L5-S1).
+
+Tratamiento
+Ante la evidencia de compromiso neurológico con síndrome de compresión medular, se decide iniciar tratamiento con radioterapia sobre columna lumbar, recibiendo una dosis total de 30 grays (Gy), en 10 fracciones de 3 Gy cada una. Tras dicho tratamiento, la paciente presenta mejoría del dolor lumbar y de la debilidad motora y sensitiva izquierdas.
+Durante el ingreso (una semana antes de la intervención quirúrgica), presenta fiebre, con hallazgo microbiológico en hemocultivos de Staphylococcus aureus meticilina-sensible, de probable foco cutáneo en flebitis de vía periférica y tratada con oxacilina. Se completó el estudio con ecocardiografía transtorácica, que descartó la existencia de endocarditis.
+En abril de 2017 inicia tratamiento con sunitinib 50 mg/día.
+
+Evolución
+A la semana del inicio del tratamiento con sunitinib, acude a consulta por reagudización del dolor lumbar, que presenta una nueva característica con respecto al que presentó al diagnóstico, ya que en este caso se irradiaba a miembro inferior derecho, precisando de inicio de tratamiento con analgesia de tercer escalón vía transdérmica.
+Analíticamente, destacaba la existencia de aumento de los reactantes de fase aguda (proteína C reactiva [PCR] de 8 mg/dl, leucocitosis de 12.000/ul con desviación izquierda, anemia con hemoglobina [Hb] de 7,5 g/dl, velocidad de sedimentación globular (VSG] de 90 mm/h), una hipoalbuminemia de 2,6 g/dl e hipertransaminasemia grado 2.
+Además, desde la intervención quirúrgica, la paciente refiere presentar picos febriles de 38ºC cada 4-5 días, sin clínica digestiva, respiratoria o miccional.
+Se decide suspender el tratamiento con sunitinib y realizar un ingreso hospitalario a cargo de Oncología Médica para estudio. Ante la aparición de fiebre, se solicitan hemocultivos, con el hallazgo microbiológico de Staphylococcus aureus meticilina-sensible, por lo que se inicia tratamiento con oxacilina.
+Se realiza resonancia magnética (RM) de columna dorsolumbar, que objetiva la masa vertebral en L5 ya conocida, de menor tamaño que en estudios previos. Además, se constata la existencia de espondilodiscitis en L3-L4, L4-L5 y L5-S1 con abscesos que se extienden a ambos psoas (aunque de predominio izquierdo) y a musculatura paravertebral bilateral.
+Con dichos hallazgos, se realiza drenaje radiológico del absceso de mayor tamaño en psoas izquierdo, obteniendo en el cultivo del mismo un Staphylococcus aureus meticilina-sensible, por lo que se añaden al tratamiento antibiótico rifampicina y levofloxacino, quedando la paciente afebril y cumplimentando 4 semanas de tratamiento intravenoso. El análisis anatomopatológico en un principio resulta negativo, pero posteriormente se repite y se constata la existencia de células neoplásicas en muestra de hueso.
+Se repite la ecocardiografía transtorácica, que resulta normal y, tras cumplir dos semanas de tratamiento antibiótico intravenoso, se solicitan hemocultivos de control, que resultan negativos.
+Progresivamente la paciente va presentando mejoría clínica del dolor lumbar y de la fuerza de miembros inferiores; además de una mejoría analítica, con disminución de los reactantes de fase aguda (PCR de 1 mg/dl, ausencia de leucocitosis, Hb de 10 g/dl, VSG de 30 mm/h) y desaparición de la hipoalbuminemia.
+Dada la mejoría clínica, se decide consolidar el tratamiento antibiótico vía oral con la asociación de una quinolona y la rifampicina durante 2 meses, así como reiniciar el tratamiento sistémico con sunitinib, repitiendo la RM de columna dorsolumbar a las 4 semanas de haber finalizado el tratamiento antibiótico, pendiente de realizar actualmente.

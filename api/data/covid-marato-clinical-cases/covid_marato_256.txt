@@ -1,0 +1,23 @@
+Anamnesis
+Paciente de 55 años, exfumador de 40 paquetes/año, sin otros antecedentes de interés, que inicia en marzo de 2004 clínica de dolor a nivel lumbo-sacro.
+
+Examen físico
+El paciente presenta un buen estado general con ECOG 1, condicionado por dolor basal y picos de dolor irruptivo con EVA de hasta 7/10.
+
+Pruebas complementarias
+Se completa el estudio con una resonancia magnética, en la que se objetiva una tumoración de 6 x 5 cm a nivel sacro.
+Tras el estudio de extensión negativo, se comenta con el Servicio de Traumatología.
+
+Diagnóstico
+Se realiza resección completa de la lesión (sacrectomía) con anatomía patológica (AP) de cordoma con bordes libres.
+
+Tratamiento
+Se decide seguimiento y, debido a la incontinencia secundaria, se realiza colostomía de descarga. El paciente entonces permanece asintomático.
+En junio de 2007, tras rectorragia, se realiza una colonoscopia que evidencia tumoración vegetante, dura y ulcerada que impide el paso del endoscopio a 35 cm del margen anal con biopsia que confirma malignidad. Se realiza hemicolectomía izquierda con colostomía de colon transverso en el hipocondrio derecho el 7/7/2007 y la AP fue de adenocarcinoma pT3N0(0/23)L0V0P0G2 EIIA sin factores de riesgo (CEA dentro de la normalidad), por lo que se decidió su seguimiento.
+
+Evolución
+En control por nódulos pulmonares milimétricos desde septiembre de 2009; en agosto de 2010 se evidencia en la TC de control aumento de dos de las lesiones en el lóbulo inferior izquierdo. Se solicita CEA dentro de la normalidad y se realiza una PET/TC, donde los nódulos pulmonares bilaterales carecen de repercusión metabólica.
+Con la sospecha inicial de metástasis pulmonares de adenocarcinoma de colon, se comenta en Comité de Tórax y el 18/11/2010 se realiza, por parte de Cirugía Torácica, la resección de los segmentos 6, 7 y 9 (4 lesiones pulmonares, 2 de ellas en el segmento 7). La anatomía patológica informa de metástasis por cordoma en todas las muestras remitidas, con bordes libres. Tras la cirugía presenta hemotórax, que requiere la colocación de tubo endotorácico.
+Dada la estabilidad de las dos lesiones del pulmón derecho (4 y 5 mm), el postoperatorio tórpido y el lento crecimiento del cordoma, se decide seguimiento y control radiológico e intervención en caso de progresión de las lesiones.
+En diciembre de 2012 se objetiva en la TC y en la PET/TC de control recidiva en el hueso iliaco derecho sin cambios en las lesiones pulmonares. El 8 de abril se procede a la exéresis, que incluye el sacro y partes blandas de 11 x 11 x 8 cm y cuña cutánea de 8 x 3 x 5 cm con AP de recidiva de cordoma con afectación ósea y de partes blandas. El estudio inmunohistoquímico muestra positividad frente a EMA, CKA1 A3 y débil y focal CEAp, siendo negativo frente a RCC, S-100, vimentina, CD57, sinaptofisina, apoyando el diagnóstico emitido. Ante la duda de afectación de los bordes, se trata con radioterapia adyuvante sobre el lecho tumoral y margen a dosis de 200 cGy/sesión, 5 veces por semana, con dosis total de 66 Gy (finalizando el 24/7/2012) y sin toxicidad destacable.
+Desde entonces está en seguimiento. En la última visita, en mayo de 2014, el paciente estaba asintomático y en la TC de control se evidenciaban nódulos pulmonares derechos sin cambios y resto del estudio negativo. Actualmente, el paciente refiere un intervalo libre de enfermedad de 6 años y 10 meses desde el diagnóstico del cáncer de colon y un intervalo libre de progresión de 10 meses de cordoma recidivado.

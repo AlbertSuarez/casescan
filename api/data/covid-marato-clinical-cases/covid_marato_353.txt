@@ -1,0 +1,46 @@
+Anamnesis
+Mujer de 62 años, jubilada.
+
+Antecedentes personales
+» Sin alergias medicamentosas, hipertensión arterial, miocardiopatía dilatada con fracción de eyección disminuida.
+» AGO. Menarquia: 13 años. Menopausia: 35 años por quimioterapia. 2E-0A-2P.
+» Portadora de una mutación (deleción del exón 1 y 2) del gen BRCA-1.
+
+Tratamiento habitual
+Inhibidor de bomba de protones, ARA-2, un betabloqueante y AAS.
+
+Antecedentes familiares
+Una tía paterna y una prima paterna presentaron un carcinoma de mama, con 45 y 35 años, respectivamente.
+
+Historia oncológica
+En 1988 es diagnosticada de un carcinoma de mama izquierda (T2a N0 M0, estadio IIA), tratado con mastectomía, radioterapia y quimioterapia adyuvante (esquema CMF: mitoxantrona, ciclofosfamida y 5-FU).
+Presenta un segundo tumor en 1995, siendo un carcinoma ductal infiltrante de mama derecha (contralateral) (pT1c pN0 [0/10] M0 G3, receptores hormonales negativos), tratada con cirugía conservadora, radioterapia y 6 ciclos de quimioterapia (esquema CMF).
+En 2012 presenta una tercera neoplasia; por TC se objetiva ascitis e implantes en relación a carcinomatosis peritoneal. Mediante biopsia de masa anexial derecha se describe un tumor maligno compatible con origen ovárico. La citología peritoneal fue negativa.
+Con el diagnóstico de un carcinoma de ovario estadio IIIA, ECOG 2, inicia tratamiento con carboplatino en monoterapia (AUC-5) por mal estado funcional durante 4 ciclos, de junio a agosto de 2012, alcanzando respuesta parcial. Posteriormente, ante mejoría clínica, se inicia doblete con carboplatino + paclitaxel 175 mg/m2, esquema trisemanal estándar durante 3 ciclos más, hasta octubre de 2012.
+En noviembre de 2012 se le practica una histerectomía, doble anexectomía y omentectomía. La Anatomía Patológica (AP) definitiva mostró un carcinosarcoma (tumor mülleriano mixto maligno) de ovario derecho ypT3c FIGO IIIC.
+Recibió 3 ciclos más de carboplatino-paclitaxel adyuvante hasta enero de 2013.
+Fue dada de alta del servicio de Oncología médica el 15/5/2015 por encontrarse sin evidencia de enfermedad, quedando en seguimiento por Ginecología.
+
+Exploración física
+» ECOG 1. Consciente y orientada en las tres esferas. Bien hidratada y perfundida. Palidez de piel y mucosas. Permanece eupneica en reposo.
+» Cabeza y cuello: no se palpan adenopatías laterocervicales ni supraclaviculares. Sin rigidez de nuca ni otros signos meníngeos. Ligera ingurgitación yugular.
+» Tórax. Auscultación cardiaca: rítmica, taquicárdica, con soplo sistólico ++/++++ panfocal, de predominio aórtico. Auscultación pulmonar: disminución global del murmullo vesicular, con hipoventilación en base izquierda.
+» Abdomen: globuloso, distendido. Depresible, sin dolor a la palpación ni signos de irritación peritoneal. Ruidos hidroaéreos escasos. Pulsos femorales permeables y simétricos.
+» Extremidades inferiores: sin edemas. No hay datos de trombosis venosa profunda. Pulsos periféricos presentes y simétricos.
+
+Pruebas complementarias
+» Biopsia de útero, trompas y ovarios de noviembre de 2012: carcinosarcoma (tumor mülleriano mixto maligno) de ovario derecho que invade el hilio. Trompa no infiltrada. Implantes tumorales múltiples en epiplón, peritoneo de fondo de saco de Douglas, fosa iliaca izquierda y mesoapéndice.
+» TC noviembre de 2015: nódulos omentales de nueva aparición en ambos flancos, con engrosamiento de fascias y lengüetas en pelvis, en relación con progresión de la carcinomatosis peritoneal.
+
+Diagnóstico
+6 meses tras el alta de Oncología Médica (noviembre de 2015), la paciente presenta elevación de marcador tumoral de ovario, Ca 125. La TC objetiva progresión de la carcinomatosis peritoneal (intervalo libre de enfermedad [ILE] de 23 meses).
+
+Tratamiento
+Dado el ILE de 23 meses y la escasa toxicidad, se decide retratar con el mismo esquema de carboplatino + paclitaxel. Recibe 6 ciclos desde diciembre de 2015 hasta abril de 2016, con respuesta parcial.
+Por toxicidad acumulada y respuesta alcanzada, se decide parar el tratamiento con quimioterapia, pendiente de evolución.
+En noviembre de 2016, presenta progresión peritoneal (ILP de 8 meses), planteándose segunda línea para enfermedad sistémica con carboplatino AUC-5-Caelyx 30 mg/m2, que recibe de enero a septiembre de 2017. Presenta respuesta parcial tras 9 ciclos, persistiendo un implante peritoneal de 12 mm.
+Es en este momento, bajo indicación según ficha técnica, se inicia mantenimiento con iPARP. Inicia tratamiento con olaparib 50 mg 8-0-8 desde octubre/2017.
+
+Evolución
+Tras 3 ciclos se procedió a reevaluar a la paciente, presentando respuesta parcial nuevamente con descenso del implante conocido de 12 a 5 mm. Hasta la fecha, ha recibido 8 ciclos con adecuada tolerancia, destacando astenia G1 que no condiciona la calidad de vida (recordemos que el ILP previo alcanzado fue de 8 meses). En última TC de control (abril/2018) tras 8 ciclos de tratamiento con olaparib, no se objetiva ningún implante peritoneal.
+Ante los buenos resultados, se procedió a la revisión de la biopsia antigua, que confirmó un tumor mülleriano mixto o carcinosarcoma.

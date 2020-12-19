@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 66 años, con antecedentes de HTA, dislipemia y fumador activo con un IPA 60. Consulta por primera vez en el Servicio de Urgencias en septiembre 2018 por presentar molestias retroesternales inespecíficas de varios días de evolución, sin otra clínica acompañante.
+
+Exploración física
+Durante la exploración, se encuentra hemodinámicamente estable y afebril. Eastern Cooperative Oncology Group (ECOG) 0. No se palpan adenopatías cervicales ni supraclaviculares; abdomen blando y depresible, ligeramente doloroso en hipogastrio con hepatomegalia de 2 traveses de dedo, ruidos hidroaéreos normales y sin signos de irritación peritoneal. El resto de la exploración física no presentaba alteraciones significativas.
+
+Pruebas complementarias
+Se solicitó hemograma, bioquímica y coagulación dentro de límites normales. Estudio radiológico con radiografía de tórax donde se objetiva masa mediastínica derecha.
+Se realiza tomografía computarizada (TC) torácica donde se describe una masa mediastínica paracardiaca derecha de bordes lobulados y calcificaciones intralesionales, de aproximadamente 5,6 cm de diámetro máximo y un nódulo subpleural de 5 mm en lóbulo inferior derecho de aspecto inespecífico.
+Se decide ingreso a cargo del servicio de Medicina Interna para completar estudio, realizándose TC abdominopélvica donde se describe hepatomegalia homogénea sin lesiones focales y esplenomegalia de 19 x 14 x 9 x 7,8 cm de diámetro anteroposterior, craneocaudal y transverso respectivamente con área hipodensa en polo superior en relación con infarto esplénico. Se objetivan ganglios mesentéricos y retroperitoneales de tamaño subcentimétrico (el mayor de 7 mm).
+El paciente es comentado en comité de tumores torácicos decidiéndose escisión de la lesión mediastínica. El 15/10/2018 se programa la intervención quirúrgica realizando exéresis completa de la lesión siendo la Anatomía Patológica compatible con timoma de fenotipo e inmunofenotipo tipo B2 con bordes quirúrgicos libres, sin infiltración capsular. Inmunofenotipo: citoqueratina A11/AE3+; CK19+ (focal); CK7+ focal; p63+, CD56+ (focal), CD3+, CD5+ (fundamentalmente células linfoides); ALC+; CD30+ focal; CD1a+(focal); TdT (linfocitos inmaduros)+; Ki67 alto (mayor del 50 %).
+Posteriormente a la cirugía, y basándose en los hallazgos descritos en la TC (hepatoesplenomegalia) se realiza PET/TC, objetivándose incremento difuso del metabolismo glucídico en región torácica superior derecha con SUVmax 6,05 de probable naturaleza postquirúrgica, esplenomegalia de 18,50 cm de diámetro anteroposterior, captación homogénea en parénquima hepático sin focos hipermetabólicos significativos. Se describe aumento difuso de la captación de FDG en prácticamente toda la médula ósea estudiada que impresiona de naturaleza secundaria/reactiva.
+Con estos hallazgos, el paciente es derivado a Hematología para estudio demostrándose mediante citomorfología, citometría de flujo y citoquímica la existencia de una leucemia mielomonocítica crónica (LMMC) tipo mielodisplásica (según la FAB) y tipo LMMC-1 según la OMS. La médula ósea fue muy sugestiva del trastorno dada la existencia de megacariocitos hipoploides, sideroblastos en anillo e hipercelularidad.
+
+Diagnóstico
+» Timoma tipo B2 R0 (estadio IIA) según clasificación de Masaoka.
+» Leucemia mielomonocítica crónica (LMMC).
+
+Tratamiento
+Dado que se trata de un timoma estadio IIA (resección completa del tumor, márgenes quirúrgicos libres y subtipo histológico B2) no cumple criterios de radioterapia adyuvante, por lo que se realizará desde el punto de vista oncológico seguimiento con controles periódicos.
+Con respecto al tratamiento de la leucemia mielomonocítica crónica, se decidió comenzar tratamiento citorreductor con hidroxicarbamida 2 g al día.
+
+Evolución
+Actualmente el paciente se encuentra asintomático y en seguimiento en consulta externa del servicio de Oncología Médica y Hematología.

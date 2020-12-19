@@ -1,0 +1,37 @@
+Anamnesis
+Paciente que nota aumento de volumen dolorosa a la palpación en la región anterior del tórax de aproximadamente un mes de evolución.
+
+Exploración física
+En la exploración física destaca bultoma en región dorsal, adyacente al pliegue axilar posteroinferior.
+Resto de la exploración anodina.
+Con esta clínica se solicitan las siguientes pruebas de imágenes complementarias.
+
+Pruebas complementarias
+» Radiografía de tórax y de la parrilla costal derecha: lesión calcificada en el tercer arco costal anterior derecho que sugiere un probable encondroma, siendo una segunda posibilidad un islote óseo.
+En cualquier caso, sin relación con la masa de partes blandas.
+» Ecografía de partes blandas: masa de ecoestructura heterogénea, con áreas hipoecoicas que alternan con otras áreas hiperecoicas, bien delimitada por una cápsula aparente y que muestra alguna estructura vascular aislada. Dimensiones: 6 cm de profundidad por unos 9 cm de extensión transversal y está situada por debajo del tejido celular subcutáneo y superior a la ecoestructura muscular.
+Posibilidad diagnóstica: tumoración de partes blandas de naturaleza mixta probablemente mesenquimal.
+» TC toracoabdominopélvica: masa sólida de 6 cm, superficial al músculo deltoides derecho, compatible con tumor mesenquimal. Nódulos pulmonares de 3 mm, en la língula1, el LII3 y el segmento posterior del LSD1. No hay adenopatías mediastínicas, axilares, hiliares ni supraclaviculares. Abdomen normal. No hay lesiones óseas agresivas.
+» Biopsia (25/5/2012): neoformación mesenquimal constituida por células de núcleo fusiforme o alargado, dispuestas en matriz eosinófila fibrilar. La celularidad es moderada con pleomorfismo nuclear.
+Foco de necrosis tumoral. IHQ: negatividad para actina, desmina, proteína S-100, HMB 45, CD 68 y enolasa neuronal específica. Positividad para vimentina y CD10. Diagnóstico: tumor mesenquimal maligno sugestivo de origen neural (necrosis, S-100 negativo y CD10+).
+» PET/TC: lesión de localización subcutánea en la pared torácica lateral derecha adyacente a la musculatura redonda que mide 4,7 x 2,7 x 7 cm con SUVmáx 9,1, atribuible a lesión tumoral viable. Sin evidencia de enfermedad en otras localizaciones.
+» Ecocardiografía: FEVI > 60%.
+
+Diagnóstico
+Tumor mesenquimal maligno sugestivo de origen neural (necrosis, S-100 negativo y CD10+).
+
+Tratamiento
+Diagnosticado en mayo de 2012 de tumor mesenquimal de pared torácica. Se realiza en junio de 2012 resección en bloque de partes blandas (piel, TCS y planos musculares hasta la parrilla costal, que se deja intacta). Ampliación de márgenes quirúrgicos (3-4 cm).
+Anatomía patológica de la pieza quirúrgica: tumor cavitado, hemorrágico, con margen amarillento de 4 cm de diámetro. Márgenes muy amplios, el más cercano a 1 cm. Macroscópicamente se trata de un tumor fusocelular con zonas muy colagenizadas y extensas áreas de necrosis. Núcleos pleomórficos con abundantísimas mitosis. Márgenes libres. Diagnóstico: histiocitoma fibroso maligno (sarcoma pleomórfico de alto grado).
+Tras los resultados anatomopatológicos que confirman el diagnóstico de sarcoma pleomórfico de alto grado con márgenes libres se programa reconstrucción de la pared torácica con cirugía plástica.
+En agosto de 2012 se realiza una TC toracoabdominal de reevaluación donde se aprecian lesiones pulmonares nodulares milimétricas entre 0,3 a 0,9 mm compatibles con siembra hematógena pulmonar.
+Abdomen normal. En este momento es valorado por Cirugía Torácica dentro del Comité Multidisciplinar de Tumores que desestima metastasectomía. Por este motivo es remitido a consultas de Oncología.
+En septiembre de 2012 inicia primera línea de quimioterapia con doxorrubicina 75 mg/m2 (DT: 150 mg).
+Recibe tres ciclos, con buena tolerancia, hasta noviembre de 2012, cuando se evidencia crecimiento iconográfico de los nódulos pulmonares conocidos (9 mm a 18 mm) en la TC de reevaluación.
+En noviembre de 2012 inicia segunda línea con ifosfamida 2.000 mg/m2 d+1 a +3 (DT: 4.000 mg d 1-3).
+Recibe dos ciclos hasta diciembre de 2012. Como toxicidad destaca fiebre no neutropénica de foco respiratorio.
+En enero de 2014 se objetiva progresión pulmonar, por lo que inicia una tercera línea con docetaxel 100 mg/m2 d+1 (DT: 200 mg) + gemcitabina 900 mg/m2 d+1 y +8 (DT: 1.800 mg). Recibe seis ciclos entre enero a junio de 2013. Como toxicidad presenta infiltrados pulmonares con imágenes en vidrio deslustrado en la TC sugerentes de toxicidad pulmonar probablemente secundaria a docetaxel; por este motivo de redujo la dosis un 20% a partir del cuarto ciclo. Se realiza una TC de reevaluación en junio de 2013 que informa de enfermedad estable, por lo que se decide seguimiento.
+Tras un intervalo libre de progresión de 3 meses presenta progresión pulmonar, por lo que inicia una cuarta línea con pazopanib 800 mg/día, que recibe entre septiembre de 2013 y enero de 2014. En diciembre de 2013 se realiza una TC toracoabdominal de reevaluación que informa de aparición de áreas de cavitación en varios de los nódulos pulmonares bilaterales en relación con metástasis de masa de partes blandas (Imágenes 1 y 2). Algunos de estos nódulos tienen una localización periférica subpleural y son la causa de neumotórax bilateral. En relación con el resto de los nódulos, se mantienen estables.
+
+Evolución
+Dada la estabilidad de la enfermedad, se decide continuar pazopanib. En enero de 2014 ingresa por segundo neumotórax en relación con las metástasis pulmonares, resuelto mediante drenaje torácico. El paciente continúa con pazopanib hasta mayo de 2014, que se suspende por múltiples complicaciones e ingresos por neumotórax bilaterales de repetición (Imágenes 3 y 4), precisando incluso fijación pleural por parte del Servicio de Cirugía Torácica. Se inicia quinta línea con trabectidina, completando tres ciclos hasta junio de 2014, con empeoramiento clínico y radiológico. En este momento, su performance status es 3, con dificultad respiratoria grave, por lo que se decide cuidado y seguimiento por la Unidad de Cuidados Paliativos, falleciendo en julio de 2014.

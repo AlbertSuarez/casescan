@@ -1,0 +1,38 @@
+Anamnesis
+Paciente de 24 años con antecedentes personales de: membrana subaórtica intervenida con 6 años, con presencia de insuficiencia aórtica moderada y estenosis aórtica por rodete leve, sin repercusión sobre función ventricular, en revisiones anuales. No toma tratamiento habitual, sin alergias medicamentosas conocidas. Reacción a contraste yodado.
+Inicia estudio en otro centro por disfonía, hemoptisis y dolor de hombro izquierdo asociado. Se realiza exploración ORL que es normal, y se deriva a Neumología.
+En tomografía computarizada (TC) de tórax se aprecia gran masa de 13,9 x 10,4 x 12,5 cm y en la analítica destaca alfa fetoproteína (AFP) 15.963.
+Se realiza broncoscopia y punción aspiración con aguja fina (PAAF) de la masa mediastínica, obteniendo material insuficiente para el diagnóstico.
+Con alta sospecha de tumor germinal, ingresa en nuestro hospital para completar estudio e iniciar el tratamiento.
+
+Exploración física
+» ECOG 0.
+» TA 126/69 mm Hg, FC 75 lpm.
+» Eupneico en reposo. Sin ingurgitación yugular, ni edema facial ni en esclavina.
+» Auscultación cardiorrespiratoria: tonos rítmicos, sin soplos audibles. Murmullo vesicular conservado, no hay roncus ni crepitantes.
+» Abdomen: blando y depresible, no es doloroso durante la palpación, no hay masas ni megalias.
+» Exploración testicular: normal, sin masas.
+» Sin adenopatías inguinales.
+
+Pruebas complementarias
+» Tomografía computarizada (TC) corporal, noviembre 2015 (en el diagnóstico): tórax: voluminosa masa pulmonar heterogénea, de 139 x 104 x 125 mm aproximadamente a nivel apical anterior en LSI que se extiende hacia el mediastino y desplaza la arteria pulmonar principal con afinamiento de la rama izquierda, asociada a atelectasia de la língula en relación a proceso neoproliferativo con signos de necrosis. Micronódulo de 3 mm en segmento anterior del LSD. Adenomegalias de 24 y 16 mm hiliares izquierdas. Cavum y abdomen sin hallazgos patológicos.
+» Ecografía de escroto y testículos (27/11/2015): ambos testículos de tamaño y ecogenicidad normales, sin apreciarse lesiones ocupantes de espacio. Microlitiasis testicular limitada. No se aprecian lesiones ocupantes de espacio en su interior. Epidídimo derecho y cordón espermático normales.
+» TC de reevaluación tras tratamiento. BEP X 4 (28/03/2016). Sin contraste IV por alergia. En comparación con el estudio previo de diciembre de 2015, se observa una gran reducción de tamaño de la masa mediastínica, siendo los hallazgos son compatibles con respuesta parcial al tratamiento.
+» TC DE control tras cirugía de masas residuales (30/05/2016). Sin contraste IV por alergia. Describe la persistencia de un acúmulo de tejido blando en el lecho quirúrgico que no produce efecto masa, compatible con fibrosis, sin poder descartar la existencia de pequeños focos de tejido tumoral viable. Elevación del hemidiafragma izquierdo, probablemente secundaria a parálisis frénica.
+» TC sucesivos durante el seguimiento: persiste el tejido de densidad de partes blandas en el mediastino anterior, sin cambios que sugieran recidiva.
+
+Diagnóstico
+Diagnóstico de Anatomo Patológica (AP)
+» Biopsia excisional mediastino: tumor de células germinales, tipo tumor del saco vitelino (seno endodérmico), variante glandular.
+» Resección en bloque de masa residual en mediastino anterior, postratamiento quimioterápico: cambios necróticos del 80 %, con tejido tumoral vital (20 %) correspondiente al tumor del saco vitelino (Yolk sac tumor) tipo glandular con cambio mesenquimal inducido (músculo liso típico). No se observa transformación sarcomatosa. Ausencia de infiltración linfovascular ni perineural. Ausencia de infiltración neoplasia en adenopatías locorregionales aisladas. Márgenes quirúrgicos libres, estando el más próximo a 2 mm.
+
+Tratamiento
+» Desde diciembre de 2015 a febrero de 2016, realiza tratamiento quimioterápico con esquema BEP (bleomicina, etopósido y cisplatino), 4 ciclos, presentando como toxicidad destacable emesis G2. Alcanzando respuesta parcial (RP) por imagen y negativización de AFP.
+» En abril de 2016: cirugía de masas residuales. Se realiza resección en bloque de masa mediastínica.
+» Tras la cirugía, realiza tratamiento adyuvante con quimioterapia según esquema TIP (paclitaxel, ifosfamida, cisplatino) 2 ciclos, que finaliza en mayo de 2016, obteniéndose respuesta completa con negativización de marcadores, pero persistiendo en pruebas de imagen tejido blando en el lecho quirúrgico, que se mantiene estable.
+» En octubre de 2016, con AFP de 110, se decide tratamiento quimioterápico según esquema vinblastina-ifosfamida-cisplatino (VeIP) 4 ciclos, con reducción del 20 % a partir del 3º por toxicidad hematológica (neutropenia febril G3, anemia G2). y posteriormente quimioterapia altas dosis con trasplante autólogo de médula ósea, 2 ciclos (en tándem). Se realiza acondicionamiento con carboplatino 700 mg/m2 x 3 días y etopósido 375 mg/m2 x 3 días y posterior infusión de precursores hematopoyéticos.
+
+Evolución
+Es diagnosticado de tumor germinal no seminoma (TGNS) extragonadal. Con AFP de y BHCG normal en el diagnóstico. Tras tratamiento con BEP x 4 ciclos alcanza RP con negativización de AFP, que rápidamente comienza a elevarse hasta 240, a pesar de lo cual, individualizando el caso y considerando la cirugía como mejor opción curativa para el paciente, se decide realizar cirugía de masas residuales, quedando en pieza quirúrgica un 20 % de tejido tumoral vital, con negativización de AFP. Valorando el caso en Sesión Clínica, se consulta con Grupo de tumores germinales (GG), y se decide realizar TIP adyuvante y no realizar radioterapia (RT) adyuvante.
+Se realiza control estrecho de AFP que comienza a elevarse, sin cambios en TC, que muestra persistencia de un acúmulo de tejido blando en el lecho quirúrgico, compatible con fibrosis, sin cambios. En este contexto, se decide tratamiento con esquema VeIPx 4 que inicia en octubre de 2016, realizando a partir de ciclo 2 reducción de 25 % de la dosis por neutropenia febril. Posteriormente, realiza quimioterapia en altas dosis con trasplante autólogo de médula ósea durante 2 ciclos. Que finaliza en abril de 2017.
+Actualmente está en revisiones y se mantiene libre de enfermedad, asintomático con buena calidad de vida.

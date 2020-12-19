@@ -1,0 +1,31 @@
+Anamnesis
+» Varón de 60 años, electricista y latinoamericano.
+» Como antecedentes personales: era exfumador de 3 cigarros-día durante 5 años, esteatosis hepática y síndrome de apnea obstructiva del sueño. Como tratamiento habitual tomaba omeprazol 20 mg/día.
+» Como antecedentes oncológicos familiares presentaba: padre con linfoma a los 66 años, hermana con cáncer de mama a los 62 años y abuela paterna con cáncer gástrico a los 84 años.
+» Consulta en junio de 2017 en Atención Primaria por dolor en hemiabdomen superior, más intenso en epigastrio, intermitente desde hacía 3 semanas. Asociaba pérdida de 5 kg de peso en los últimos 3 meses. No presentaba astenia ni anorexia y, en analítica solicitada se objetivó un patrón colestásico. El paciente fue derivado al hospital y se completó el estudio.
+
+Exploración física
+El paciente presenta una exploración física normal, sin hallazgos. El abdomen era blando, no doloroso durante la palpación y no se palpaban masas ni visceromegalias.
+
+Pruebas complementarias
+Ante dicha clínica se realiza una analítica de sangre: hemograma normal, bioquímica con función renal normal, iones en rango, elevación de bilirrubina y transaminasas (bilirrubina total 5,4 mg/dl, AST 186 UI/l, ALT 387 UI/l, GGT 19 UI/l) y LDH normal. Presentaba marcadores tumorales normales: CEA: 4,9 ng/ml (0,0-3,0) y CA 19-9 10 U/ml (0,0-40,0).
+Ante elevación de bilirrubina y transaminasas se realiza una ecografía abdominal en la que se observa una lesión en cabeza pancreática de 35 x 34 mm, con dilatación del hepatocolédoco y vías biliares intrahepáticas, distensión de vesícula biliar y dilatación del conducto de Wirsung.
+Se completa estudio con TC toracoabdominopélvica el día 11/07/2017 en la que se observan múltiples ganglios hiliomediastínicos de aspecto reactivo (el de mayor tamaño a nivel paratraqueal izquierdo de 13 x 19 mm), sin otros hallazgos relevantes en tórax. En abdomen se objetivaba dilatación de la vía biliar intrahepática, distensión de la vesícula biliar y del colédoco, con cambio de calibre abrupto a nivel de cabeza de páncreas. Conducto pancreático ectásico con interrupción a nivel de cabeza y proceso uncinado. En cabeza de páncreas presentaba efecto de masa nodular, sin clara lesión medible ni individualizable, que contactaba con la vena porta principal distal a nivel de unión con vena mesentérica superior de menos de 90°. Sospechoso de proceso neoformativo pancreático primario.
+Para obtención de material para estudio anatomopatológico se realiza una ecoendoscopia alta donde se observa una lesión hipoecogénica de 33 mm y de límites mal definidos, a nivel de cabeza de páncreas, que contacta con la zona de la confluencia espleno-portal sin claros datos de infiltración. No hay invasión de vasos arteriales. Sin adenopatías de aspecto patológico. Se realiza punción aspiración (PAAF) de la lesión en páncreas.
+En la Anatomía Patológica de la PAAF se observan células epiteliales de hábito ductal con núcleos agrandados de contorno irregular, hipercromáticos y pleomórficos. Estas células aparecen sueltas y en grupos trabeculares y pseudopapilares ramificados con disposición periférica alineada, pérdida de la polaridad nuclear, parcial tendencia a la tridimensionalidad y/o diferenciación de luces secundarias. Se identifican mitosis. Se concluye que la PAAF es positiva para células tumorales malignas: adenocarcinoma. Los hallazgos se encuadran en la categoría VI ("positivo/maligno") del sistema de consenso propuesto por la Sociedad Papanicolaou de Citopatología para lesiones pancreatobiliares (Springer 2015).
+
+Diagnóstico
+Adenocarcinoma de páncreas estadio uT2 N0 cM0 resecable.
+
+Tratamiento
+Ante el diagnóstico de adenocarcinoma de páncreas estadio uT2 N0 cM0 resecable, el 19/07/2017 se realiza duodenopancreatectomía cefálica con montaje tipo Child.
+
+Evolución
+En la pieza quirúrgica de la duodenopancreatectomía cefálica se identifica el conducto hepático común dilatado. El páncreas presenta una consistencia aumentada fibrosa y coloración blanquecina de 3 x 2 x 1 cm, que está en contacto con el borde quirúrgico posterior de la pieza.
+Microscópicamente, se objetiva una pancreatitis periductal y lobulillar, de predominio inflamatorio linfoplasmocitario, con esclerosis y venulitis (con necrosis fibrinoide y obliteración) con abundante componente de células plasmáticas IgG4 (hasta 73/CGA). No se observa neoplasia. Se observan cambios reactivos (agregados histiocitarios epitelioides) en ganglios linfáticos: 10 peribiliares y peripancreáticos y 15 perigástricos. Páncreas ectópico.
+En los ductos con mayor afectación inflamatoria, se observa atipia de carácter reparativo. El cuadro morfológico es compatible con pancreatitis autoinmune de tipo 1 de patrón segmentario/focal.
+Ante el diagnóstico de pancreatitis periductal y lobulillar, con componente de células plasmáticas IgG4 se solicita cuantificación de IgG4 en sangre: 216,0 mg/dl (4,0-86,0).
+Se realiza PET donde se observan hallazgos en glándulas salivares, ganglio submaxilar izquierdo y adenopatías hiliomediastínicas que pueden ser secundarios a la enfermedad relacionada con el IgG4.
+Se inicia tratamiento corticoide (prednisona 40 mg/día).
+En la PET de reevaluación se objetiva resolución de la captación de la glándula submaxilar izquierda y de la adenopatía submandibular y disminución de la intensidad de captación y tamaño de las múltiples adenopatías mediastínicas e hiliares bilaterales.
+El paciente continúa tratamiento con corticoides en pauta descendente y está pendiente nueva reevaluación.

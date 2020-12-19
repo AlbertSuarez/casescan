@@ -1,0 +1,20 @@
+Anamnesis
+Varón de 40 años, diagnosticado de síndrome de Von Hippel Lindau en la adolescencia, confirmándose mutación c. 194 C > T (pSer65Leu) en heterocigosis en el exón 1 del gen VHL, confirmándose la misma que en su padre y sus 2 hermanos. Antecedentes familiares: padre y hermano fallecidos a causa de este síndrome a los 53 y 28 años, respectivamente. Antecedentes personales: ha desarrollado varios tumores relacionados con el síndrome, como hemangioblastomas, cáncer renal, tumor neuroendocrino de páncreas no funcionante, angiomiolipomas renales y tumores en ambos epidídimos. Asimismo, también ha presentado otras lesiones benignas como quistes renales y pancreáticos. Dada la presencia de múltiples hemangioblastomas cerebelosos y en el bulbo raquídeo desde 2003, se ha decidido resecar los de mayor tamaño en 3 intervenciones, 2 mediante radiocirugía. El resto de las lesiones cerebelosas y cérvico-dorsales se han mantenido estables en controles progresivos desde 2008. También ha sido intervenido de los adenomas bilaterales en epidídimo y en febrero de 2012 se le practica una nefrectomía izquierda por un adenocarcinoma de células claras. En agosto de ese mismo año ingresa por neumotórax espontáneo y al realizar un escáner se describen hallazgos patológicos.
+
+Examen físico
+Hemiparesia e hipoestesia izquierdas 2/5 residuales tras intervenciones de hemangioblastomas. El resto de la exploración resulta anodina.
+
+Pruebas complementarias
+TC abdominopélvica de agosto de 2012: masa de 3 cm en la cabeza de páncreas, lesiones renales derechas compatibles con angiomiolipomas y un cáncer renal derecho.
+Bioquímica, hemograma, coagulación: dentro de rangos normales.
+Marcadores: CA19.9, CEA y cromogranina A dentro de rangos normales.
+Radiografía de tórax: neumotórax resuelto.
+
+Diagnóstico
+Se biopsia la masa pancreática con diagnóstico de un tumor neuroendocrino de páncreas (TNEP) bien diferenciado G1 (Ki67 2 %) no funcionante; la presencia de adenopatías periportales y retroperitoneales lo hace irresecable. El octreoscán confirma una captación patológica pancreática y ganglionar y los niveles de cromogranina en suero e índices en orina eran normales.
+
+Tratamiento
+Ante estos hallazgos se decide iniciar tratamiento del TNEP y del cáncer renal con sunitinib 37,5 mg al día. La tolerancia al tratamiento fue buena, presentando como efectos secundarios mucositis, diarrea y neutropenia de grado I.
+
+Evolución
+Tras 3 meses, se realiza un escáner de reevaluación que muestra respuesta parcial, según criterios RECIST, tanto a nivel pancreático como renal. Actualmente, lleva 6 meses con sunitinib, manteniendo un índice Karnofsky del 80% con una vida laboral activa y sin clínica secundaria a los 2 tumores.

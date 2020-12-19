@@ -1,0 +1,32 @@
+Anamnesis
+Nuestro caso es un varón de 70 años de edad, sin antecedentes familiares de interés, exfumador con índice-paquete año acumulado (IPA) de 125 que presenta importante comorbilidad pulmonar (enfermedad pulmonar obstructiva crónica grave [EPOC] fenotipo enfisematoso con bullas en seguimiento por neumología en tratamiento con inhaladores de bromuro de tiotropio e indacaterol) y cardiovascular (hipertensión arterial, hipercolesterolemia bien controladas con tratamiento médico [carvedilol 25 mg, amlodipino/valsartán 10 mg/160 mg y atorvastatina 10 mg], así como cardiopatía hipertensiva y aneurisma de aorta en seguimiento). Asocia también una hepatopatía crónica estable de etiología incierta, esófago de Barret y un síndrome linfoproliferativo crónico T variedad linfocitos granulares grandes en seguimiento por hematología sin tratamiento.
+Durante el seguimiento por neumología el paciente es diagnosticado de adenocarcinoma de pulmón infiltrante tipo papilar puro de 1 cm con bordes libres (pT1a), intervenido mediante segmentectomía atípica en lóbulo superior derecho en mayo de 2014.
+Está en continuo seguimiento en neumología, objetivándose crecimiento progresivo de lesión quística bullosa en lóbulo inferior izquierdo (LII), sin claros datos claros de malignidad por tomografía computarizada (TC) ni caracterizable metabólicamente por tomografía por emisión de positrones (PET) que llega a medir 8 cm de diámetro máximo. En septiembre de 2017, refiere síndrome constitucional con pérdida de 6 kg de peso en los últimos 6 meses, por lo que ingresa en Neumología para completar estudio.
+
+Exploración física
+» Septiembre 2017: ECOG: 1. Buen estado general.
+» Hipofonesis generalizada. Resto de la exploración física completa normal.
+
+Pruebas complementarias
+Se repite TC que identifica consolidaciones parcheadas en lóbulo inferior derecho de aspecto inflamatorio de nueva aparición, así como la lesión quística aérea en segmento apical del LII de paredes discretamente irregulares que no se había modificado significativamente respecto a estudio previo. En abdomen se objetivan 2 imágenes nodulares inespecíficas en ligamento gastroesplénico (15 mm) y en pelvis (7 mm).
+Se amplía estudio con PET que demuestra:
+Varías lesiones sospechosas en partes blandas: en la nuca (3,1 x 1,7 cm, SUVmax 5,5, entre el recto posterior de la cabeza y el semiespinoso del lado derecho), en pared torácica posterior derecha (1,9 cm; SUVmax 5,4, junto a 4º arco costal) y en glúteo izquierdo (9 mm, no caracterizable metabólicamente por su pequeño tamaño).
+» Una lesión nodular de 1,3cm en grasa pericárdica anterior con SUVmax 3, sospechosa de malignidad.
+» Una captación patológica en lesión de partes blandas pararrenal izquierda (1,4 cm; SUVmax 4,7), sospechosa.
+» Las lesiones en ligamento gastroesplénico (1,5 cm) y mesosigma (7 mm) muestran muy leve captación, pero en el contexto no permiten descartar malignidad.
+» Lesión intramedular en fémur izquierdo con captación patológica sospechosa de malignidad, así como una captación focal en cuerpo de T2 sospechosa.
+» La consolidación basal en el LID presenta leve incremento de la captación e impresiona de origen inflamatorio.
+» La lesión quística en LII ha aumentado de tamaño (7,8 x 4 cm) con pared muy fina en la que ha aparecido algún engrosamiento nodular de pequeño tamaño (5 mm) por lo que no es caracterizable metabólicamente.
+Ante estos hallazgos se decide realizar biopsia con aguja gruesa de lesión de tejidos blandos suboccipital con hallazgo de un tumor de células fusiformes que presenta intenso componente inflamatorio histiocitario, con estudio inmunohistoquímico positivo para citoqueratinas, EMA y vimentina, TTF1 y p40 negativo, con diagnóstico anatomopatológico definitivo de tumor fusocelular con inmunofenotipo compatible con carcinoma sarcomatoide (sin que pueda descartarse metástasis de un carcinoma pulmonar). Se realiza estudio mutacional de EGFR y traslocación de ALK y ROS-1 siendo negativos.
+
+Diagnóstico
+Carcinoma sarcomatoide de origen pulmonar cTx cNx pM1c (estadio IVB-TNM 8ª ed. con afectación múltiple en tejidos blandos y ósea), EGFR no mutado, ALK y ROS-1 no translocados.
+
+Tratamiento
+El paciente es remitido a consultas de Oncología Médica para valoración de tratamiento sistémico, iniciándose tratamiento con carboplatino AUC-5: paclitaxel 175 mg/m2 cada 21 días en noviembre 2017.
+
+Evolución
+Tras 4 ciclos de quimioterapia hasta febrero 2018, con buena tolerancia, pero con progresión radiológica a nivel óseo (aparición de lesiones óseas osteoblásticas con incremente patológico de la captación en iliaco posterior derecho y vertebra S1) y respuesta parcial en el resto de localizaciones.
+Dado que el paciente se encuentra asintomático, se decide suspender la quimioterapia y solicitar PET de control en 3 meses (mayo 2018), donde se objetiva progresión a nivel óseo (esternón, iliaco derecho y ala sacra izquierda), pericárdico, renal izquierdo y en lesiones de partes blandas ya conocidas. El paciente refiere en este momento dolor en zona sacra no limitante, por lo que se decide inicio de tratamiento con nivolumab dosis fijas 240 mg cada 2 semanas con mejoría progresiva del dolor sacro. Se solicita PD-L1 que es positivo al 90 %.
+Reevaluado con PET tras 7 ciclos en agosto 2018, presenta llamativa respuesta con disminución significativa del tamaño y metabolismo de las lesiones conocidas de partes blandas (nuca, pared torácica, nódulo grasa pericárdica, nódulo retroperitoneal), disminución del metabolismo de las lesiones óseas conocidas y sin evidencia de tejido tumoral viable con afinidad por la 18F-FDG en otras localizaciones.
+Hasta la fecha (con última consulta el 21 de mayo de 2019), ha recibido 26 ciclos de nivolumab con excelente tolerancia y respuesta mantenida. Como complicaciones derivadas del tratamiento inmunoterápico únicamente ha presentado hipotiroidismo subclínico (TSH 19 IU/ml (0,35-5,0) con T4 y T3 libres dentro de rango normal) tras 17 ciclos y rash cutáneo G2 con prurito G2 tras 24 ciclos que preciso tratamiento corto con corticoterapia oral a dosis bajas.

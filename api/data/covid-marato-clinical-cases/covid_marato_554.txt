@@ -1,0 +1,32 @@
+Anamnesis
+Paciente de 64 años con antecedentes personales a destacar de tabaquismo de 30 cigarrillos-día durante 20 años, hipertrigliceridemia sin otros factores de riesgo cardiovascular. No antecedentes familiares de interés.
+Acude a consulta de Otorrinolaringología por dificultad para el habla en mayo de 2016 tras apreciarse gran tumoración oral de 1 mes de evolución.
+Por este motivo se realiza biopsia orofaríngea compatible con carcinoma epidermoide de orofaringe (p16 negativo), por lo que se amplía estudio de extensión con PET-TC (hasta nivel hepático), siendo un tumor en fosa amigdalar izquierda estadio cT4a (infiltración de la musculatura extrínseca de la lengua y paladar blando) N2b (niveles IIa, III izquierdos y IIa derecho) M0.
+Se presenta en Comité de Tumores y se decide tratamiento de quimioterapia-radioterapia radical.
+Sin embargo, a la espera de iniciar tratamiento, acude a Urgencias el 16 de julio de 2016 por cuadro de inestabilidad (no es capaz de ponerse de pie), náuseas y dificultad para el habla de 6 horas de evolución. Refiere que desde hace un mes presenta de forma episódica sacudidas involuntarias de la pierna izquierda, empeorando en la última semana, en la que pierde el equilibrio al caminar, así como torpeza en miembro inferior izquierdo. No tiene episodio de fiebre, tampoco dolor torácico ni cortejo vegetativo asociado. Sin otra sintomatología.
+
+Exploración física
+ Normotenso, afebril.
+ Cuello: a destacar soplo carotideo derecho, con masa cervical izquierda mal definida y dolorosa en la palpación.
+ Cavidad oral: gran tumoración que ocupa paladar blando y amígdala izquierda sin signos de sangrado.
+ Exploración neurológica: disartria, leve dismetría bilateral, sin ataxia, marcha dubitativa pero sin aumento en base de sustentación.
+
+Pruebas complementarias
+Durante su estancia en Urgencias se realiza analítica en la que destaca leve deterioro de función renal (creatinina 1,53 mg/dl), iones (sodio, potasio) y hemograma en rango. Electrocardiograma con ritmo sinusal a 70 lpm.
+Se decide realizar TC cerebral en la que se objetiva hiperdensidad a nivel de la bifurcación de arteria basilar, que podría corresponderse con artefactos por endurecimiento del haz sin poder descartar completamente trombo intramural. No se observa sangrado intracraneal agudo. Ateromatosis de arterias carótidas en su porción intracavernosa.
+Con este resultado, se solicita valoración por Neurología, que desestima código ictus por el tiempo de evolución y la fluctuación de los síntomas. Se realiza ecocardiograma transtorácico el día 18 de julio, en el que no existe alteración de función ventricular ni patrón de llenado, así como Doppler de troncos supraaórticos que muestra prominentes adenopatías patológicas a nivel II-III izquierdo, sin alteraciones en arterias vertebrales.
+
+Diagnóstico
+ Sospecha inicial de ictus vertebro-basilar. Detectada hiperdensidad en a. basilar en TC-cráneo-basal: artefacto vs. trombo intraluminal, no confirmado en angio-RM.
+ Cuadro de deterioro general con inestabilidad de la marcha de curso subagudo en contexto de hipercalcemia tumoral.
+ Enfermedad cerebrovascular crónica de pequeño vaso en paciente exfumador con dislipemia.
+ Carcinoma epidermoide de orofaringe estadio c T4 N2b M0 pendiente de inicio de tratamiento con quimioterapia-radioterapia radical.
+
+Tratamiento
+Ante la sospecha diagnostica de ictus en territorio vertebrobasilar en paciente con antecedente de tabaquismo y arterioesclerosis, se decide antiagregación con ácido acetilsalicílico 300 mg + atorvastatina 80 mg diarios (se decide no anticoagular por estabilidad neurológica y alto riesgo de sangrado tumoral) y completar estudio neurológico.
+
+Evolución
+El 19 de julio presenta empeoramiento neurológico, con más lentitud a la respuesta y empeoramiento del estado general. Se decide ampliar estudio analítico y destaca hipercalcemia severa de 14 mg/dl (previamente no extraida en Urgencias), fosfato 2,4 mg/dl, PTHi like, se decide administrar 1 dosis de ácido zoledrónico.
+Tras ello, presenta mejoría clínica, con analítica el día 21 de julio con mejoría de calcemia (11,7 mg/dl), normalizándose el día 24 de julio con 9,5 mg/dl. Por tanto, aunque la clínica parece más sugestiva de hipercalcemia, dado que existen dudas respecto a la imagen del TC cerebral (artefacto/trombo en arteria basilar), se decide completar estudio con angiografía cerebral con resonancia magnética el día 27 de julio: aisladas lesiones isquémicas de pequeño vaso y sustancia blanca supratentorial, sin hallazgos radiológicos que sugieran lesión isquémica aguda ni hallazgos patológicos en el estudio angiográfico.
+Inicia QTRT en agosto de 2016 con cisplatino 100 mg trisemanal + RT 70 Gy sobre volumen tumoral y adenopatías, con buena tolerancia durante 7 semanas.
+Sin embargo, a los 3 meses presenta dificultad para la marcha, por lo que se realiza RM columna que muestra lesión ósea con componente de partes blandas en región trocantérea y cuello femoral izquierdo que sugiere metástasis ósea como primera posibilidad. Se realiza biopsia, siendo compatible con metástasis de carcinoma epidermoide. No se realizó reevaluación a nivel cervical, pero en exploración de Otorrinolaringología no presentaba lesión visible a la exploración. Se realiza TC tórax-abdomen que muestra afectación metastásica pulmonar y ósea a nivel de L3 y fémur, por lo que se inicia QT paliativa (paclitaxel + cetuximab +ácido zoledrónico) y RT antiálgica. Hasta la actualidad, ha cumplido 3 ciclos de QT con respuesta parcial a nivel pulmonar y mejoría clínica al deambular.

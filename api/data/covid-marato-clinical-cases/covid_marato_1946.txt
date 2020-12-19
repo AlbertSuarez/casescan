@@ -1,0 +1,22 @@
+Anamnesis
+Varón de 39 años de edad. Sin enfermedades crónicas conocidas. Traumatismo craneoencefálico a los 16 años con fisura parietal. En 1999, resección de masa cerebral con diagnóstico de hemangiopericitoma meníngeo; posteriormente recibe radioterapia adyuvante. 12 años después de la cirugía acude a Urgencias por importante dolor torácico en hemitórax izquierdo que imposibilita la movilización y empeora con los movimientos respiratorios.
+
+Examen físico
+Karnofsky 60 %. Consciente, orientado, colaborador. Leve ataxia y bradipsiquia. No hay clara focalidad neurológica.
+MiniMental Test 27/30. Dolor en hemitórax izquierdo que empeora con los movimientos y la respiración profunda.
+
+Pruebas complementarias
+TC toracoabdominal: nódulo de 3 cm en el lóbulo inferior derecho que presenta una intensa captación de contraste y de 0,9 cm en segmento lingular inferior. No se observan adenopatías mediastínicas. 2 lesiones líticas metastásicas en arcos posteriores de 5.ª y 6.ª costillas izquierdas. En lóbulo hepático izquierdo, masa de 17 cm y otras 2 lesiones en segmentos V y VI del lóbulo hepático derecho compatibles con metástasis. La lesión de mayor tamaño condiciona una marcada compresión y desplazamiento del estómago. Signos de hipertensión portal izquierda secundaria a trombosis de la vena esplénica.
+TC craneal: cambios postquirúrgicos sin que se identifiquen lesiones que sugieran recidiva tumoral local ni metástasis cerebrales.
+
+Diagnóstico
+Punción-aspiración transpulmonar de nódulo en el lóbulo inferior derecho: tumor densamente celular constituido por células fusiformes alrededor de vasos sanguíneos comprimidos y dilatados.
+Inmunohistoquímica: CD31+ endotelial, CD34+ y CD99+, actina y desmina negativas, con Ki67 < 10 %. Todo esto confirma metástasis de hemangiopericitoma.
+
+Tratamiento
+Tras estudios de extensión y confirmación por biopsia de recurrencia pulmonar, hepática y ósea extensas de un hemangiopericitoma, se inicia tratamiento con temozolomida 150 mg/m2 días 1-7 y días 15-21 y bevacizumab 5 mg/kg días 8 y 22, cada 28 días, esquema publicado por Park et al. en 2008 (1), asociado a ácido zoledrónico y oxicodona/naloxona.
+
+Evolución
+A los 3 meses, tras progresión hepática, inicia 2.ª línea con pazopanib 800 mg/día, precisando reducción a 400 mg/día por toxicidad digestiva.
+A los 6 meses nueva progresión a nivel hepático, por lo que se inicia 3.ª línea con doxorrubicina 60 mg/m2 cada 3 semanas con buena tolerancia.
+Actualmente, tras 4 meses en tratamiento se encuentra con enfermedad estable, sin dolor y un estado general Karnofsky 70 %.

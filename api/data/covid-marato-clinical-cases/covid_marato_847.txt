@@ -1,0 +1,23 @@
+Anamnesis
+Varón de 76 años diagnosticado en agosto de 2013 de adenocarcinoma de pulmón EGFR no mutado, T3N2M0, estadio IIIA. Inicia tratamiento quimioterápico con carboplatino/pemetrexed. Después de la primera dosis ingresa por un cuadro de 8 semanas de evolución de fiebre de predomino matutino y vespertino, astenia, hiporexia y mialgias, síntomas ya presentes al diagnóstico oncológico. Ha recibido tratamiento antibiótico empírico para IVRB, sin desaparición de la fiebre ni mejoría de los síntomas. No disnea, dolor torácico o molestias urinarias. En la revisión por sistemas solo refiere tos escasa y expectoración ocasional. No ha viajado a zonas de riesgo de enfermedades tropicales, no refiere contacto con animales excepto un perro vacunado que hay en su casa y gallinas que él mismo cuida.
+
+Examen físico
+ECOG 1. Normotenso. FC 78 lpm, FR 18 rpm, temperatura 37,9 ºC.
+Hidratado, boca sin lesiones. No masas cervicales. AC con soplo sistólico grado I en el foco mitral y el ápex. AP sin crepitantes ni roncus. Abdomen no doloroso, sin masas. Piel sin lesiones.
+No focalidad neurológica ni signos meníngeos.
+
+Pruebas complementarias
+- Radiografía de tórax: masa pulmonar en el LSD. No consolidaciones.
+- Ecografía abdominal: sin hallazgos ecográficos significativos.
+- ETT: válvula aórtica trivalva, dependiente del velo no coronariano, se visualiza una imagen móvil de 6 x 3 mm, apertura normal.
+- ETE: válvula aórtica trivalva sin afectación estructural significativa de base que presenta una masa dependiente del velo coronariano izquierdo sin repercusión en la funcionalidad valvular.
+
+Diagnóstico
+Ante el compromiso endocárdico se debe hacer diagnóstico diferencial entre endocarditis bacteriana (EB) y endocarditis trombótica no bacteriana (ETNB). Se suspendió la antibioterapia empírica y a las 48 horas se inicia la toma de HC seriados durante 3 días, que fueron negativos. Serologías para bacterias atípicas: Ac totales anti-Legionella pneumophila, Ac IgG fase II anti-Coxiella burnetii, Ac IgM anti-Chlamydia pneumoniae, Ac IgM anti-Bartonella henselae, Ac IgG anti-Brucella spp., Ac IgM anti-Brucella spp.: negativos.
+
+Tratamiento
+El paciente recibió tratamiento con naproxeno 500 mg cada 12 horas, con desaparición de la fiebre, anticoagulación con HBPM y se procedió a aplicar la segunda dosis de carboplatino/Pemetrexed. No se reinició la antibioterapia.
+
+Evolución
+El paciente fue dado de alta y continuó tratamiento quimioterápico, con buena tolerancia. Tras seis ciclos se realiza una PET-TC, que objetiva respuesta metabólica parcial. Es derivado al Hospital Puerta de Hierro, donde se realizan una lobectomía superior derecha y una segmentectomía por adenocarcinoma pulmonar de 8,8 cm con infiltración de la pleura, obteniéndose márgenes quirúrgicos libres, sin afectación de ganglios linfáticos. pT3N0.
+En ecocardiogramas de control posteriores al tratamiento adyuvante y quirúrgico se observa desaparición de la lesión vegetante de la válvula aórtica.

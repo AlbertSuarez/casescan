@@ -1,0 +1,55 @@
+Anamnesis
+Varón de 64 años, casado y prejubilado por depresión; alérgico a Diclofenaco y sin hábitos tóxicos conocidos. Sin antecedentes familiares de interés y como antecedentes patológicos destacan hipertensión, dislipemia, trastorno depresivo mayor diagnosticado en 2011que ha precisó varios ingresos en la Unidad de Psiquiatría y un deterioro cognitivo leve-moderado.Su tratamiento farmacológico habitual consistía en Omeprazol 40mg al desayuno, Paroxetina 20mg desayuno y cena, Mianserina 30mg en la cena, Losartán 50mg desayuno, 100mg cena, Gemfibrozilo900mg cena y Tamsulosina 0.4mg desayuno.
+
+****HISTORIA ONCOLÓGICA:
+En abril de 2009 el paciente es intervenido mediante nefrectomía izquierda laparoscópica, con diagnóstico de Carcinoma (ca.) renal de células claras, estadio pT1b G2.
+- Posteriormente inicia controles hasta enero de 2015, momento en que se diagnostica una recaída a distancia (masa prevertebral D9-D10 con afectación ósea) con PAAF positiva para carcinoma renal.
+Intervalo libre de enfermedad: 5,9 años. Por dicho motivo, se indica Pazopanib presentando toxicidad no aceptable en forma de hepatotoxicidad y mucositis g.2
+- En febrero de 2015 recibe Radioterapia (RT) 30 Gy sobre D9-L3 ante clínica neurológica y nueva lesión en L2 con masa de partes blandas.
+- En mayo de 2015 se decide cambio a Sunitinib que realiza durante 3 meses con toxicidad digestiva (dolor abdominal generalizado tipo cólico con náuseas ocasionales y estreñimiento) y desajuste psiquiátrico (importante nervosismo que necesita ajuste de tratamiento). Se realiza Gammagrafía ósea (GGO) objetivándose nueva progresión. Debido a la toxicidad digestiva mal tolerada y desajuste de su enfermedad psiquiátrica, se decide interrumpir el tratamiento antiangiogénico y realizar seguimiento estrecho.
+- El TAC de diciembre de 2015 muestra nueva progresión de enfermedad con aparición de adenopatías mediastínicas y metástasis pulmonares, así como nuevas lesiones óseas; por lo que se inicia 2ª línea con Everolimus que interrumpe a los 7 días por dolor abdominal, vómitos, diarrea y malestar general que mejoran tras el cese.
+- Finalmente, en Enero2016 se decide terminar definitivamente el tratamiento oncoespecífico por mala tolerancia y adherencia; se inician controles por el equipo de Cuidados Paliativos. Se administra nuevamente RT paliativa antiálgica, dosis de 8Gy sobre D5-D9.
+
+Síntomas y signos de la enfermedad actual:
+El único síntoma que presenta nuestro paciente es dolor dorsal mal controlado de origen tumoral; del que hacemos a continuación una descripción detallada.
+- Localización: Dorsalgia baja (D9) de características punzantes, irradiada a pared torácica izquierda con distribución metamérica. Más tarde, presenta lumbalgia con extensión radicular L2-L3 acompañado de debilidad y parestesias en ambos MMII.
+- Duración: Dolor continuo, iniciado a primera hora de la mañana (EVA 3-4/10), en aumento progresivo de intensidad (EVA 8-9/10) a última hora del día.
+- Factores condicionantes: Mejora con decúbito y descanso, empeora con cambios posturales y sobreesfuerzo físico.
+- Intensidad:
+» Peor dolor en las últimos 2 días: EVA 8-9/10
+» Menor dolor en las últimos 2 días: EVA 3-4/10
+» Dolor promedio en los últimos 2 días: EVA 6/10
+- Número de crisis/día: 3-4 episodios/día de dolor intenso e inicio brusco, coincidiendo con los cambios posturales.
+- Tipo de dolor y pronóstico: Según la Edmonton ClassificationSystemforCancerPain (ECS-CP) es un dolor mixto neuropático y nociceptivo con dolor incidental presente, distrés psicológico y deterioro cognitivo leve-moderado (NIPAC: Ne, Ic, Pp, Ao, Ci); estas características le definen como dolor de difícil control.
+- Etiología: Tumoral por metástasis ósea con masa de partes blandas de Carcinoma renal.
+-Interferencia con la actividad general: Limitación para la marcha y disminución del apetito, interferencia en su calidad de vida y empeoramiento del estado de ánimo. EVA 8/10.
+- Interferencia con el descanso nocturno: Dificulta la conciliación del sueño e interrumpe el descanso nocturno en múltiples ocasiones. EVA 7/10.
+
+EXPLORACIONES FÍSICA
+ECOG 2. Consciente, orientado y colaborador. No déficit motor ni sensitivo. Limitación de la marcha por dolor lumbar bilateral con parestesias en ambos miembros inferiores. Resto de la exploración sin hallazgos significativos.
+
+PRUEBAS COMPLEMENTARIAS:
+- TAC Abdómino-Pélvico de la primera recaída (Enero 2015):
+Se objetivan cambios secundarios a nefrectomía izquierda sin alteraciones en el lecho quirúrgico. No adenopatías retroperitoneales ni pélvicas, pero se observa una masa de tejidos blandos a nivel paravertebral a D10.
+- TAC Tóraco-Abdominal en la progresión (Noviembre 2015):
+Evidencia de adenopatías hiliares derechas que han aumentado de tamaño. Asimismo se confirma la existencia de metástasis óseas ya conocidas, la mayoría de las cuales han aumentado de tamaño o son de nueva aparición
+-TAC de columna dorsal (actual): Nuestro paciente presenta una progresión de la afectación metastásica ósea en múltiples niveles, con invasión del canal raquídeo y compresión medular, mayor a la altura de D5 y D6.
+
+DIAGNOSTICOS:
+- Dorsolumbalgia por afectación ósea metastásica múltiple que produce compromiso neurológico y precisa analgesia opioide en dosis creciente.
+-Recaída a distancia con ILE 5.9 años de Ca. renal de células claras operado sin posibilidad de tratamiento oncoespecífico con antiangiogénicos por mala tolerancia y poca adherencia.
+
+TRATAMIENTO:
+Tapentadol 100 cada 12horas, Metadona 15-10-15mg
+
+EVOLUCIÓN:
+- Antes de conocer al paciente, se habían empleado analgésicos del primer escalón de la escalera analgésica de la OMS (Paracetamol, Ibuprofeno y Metamizol) insuficientes para el control de la clínica dolorosa.
+- En Urgencias se prescribe tratamiento con Tramadol con mala tolerancia.
+- Cuando acude a Oncología en Enero 2015, se inicia analgesia del tercer escalón con Tapentadol, titulando dosis de forma progresiva y añadiendo Gabapentina y Prednisona como coadyuvantes.
+- A mediados de Febrero 2015 finalizada la RT, se consigue buen control del dolor con Tapentadol 250mg cada12h, sin precisar rescates y siendo posible reducir la dosis de fármacos coadyuvantes.
+- Durante el transcurso del tratamiento con antiangiogénicos mejoró el dolor, permitiendo disminuir la dosis de Tapentadol hasta 100mg cada 12h y suspender la Gabapentina y el corticoide.
+
+- Más adelante, cuando el paciente sólo recibía tratamiento de soporte y coincidiendo con la progresión de la enfermedad (aumento del dolor y necesidad de más de 4 de rescates al día de fentanilo sublingual 200mcg), fue necesario ajustar la dosis de Tapentadol hasta 300mg cada 12horas.
+- En Febrero 2016 se decide ingreso hospitalario para rotación de opioide a Metadona por falta de control con la escalada de dosis de Tapentadol; presenta buena respuesta inicial y alta a domicilio con dosis 10-5-10mg. Sin embargo, refiere aumento del dolor a pesar del aumento de la Metadona (15-10-10mg), por lo que se decide reanudar el Tapentadol combinado 100mg cada 12h.
+- Reingresa por clínica neurológica compatible con compresión medular y dolor incoercible: se administran corticoides a dosis altas (Dexametasona 8mg cada 8horas) y se solicita TAC columna vertebral urgente que confirma la sospecha inicial de compresión medular a dos niveles; se descarta la laminectomía descompresiva y se solicita nueva RT sobre D5-D9 que produce inicio de mejoría de la movilidad en extremidades inferiores.
+- En la actualidad el paciente se ha trasladado a centro de larga estancia para neurorrehabilitación y recibe tratamiento con Tapentadol 100mg cada 12 horas y Metadona 15-10-15mg, con buen control del dolor EVA: 1/10, sin presentar parestesias ni precisar rescates.

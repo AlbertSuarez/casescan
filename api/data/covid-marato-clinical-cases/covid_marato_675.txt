@@ -1,0 +1,19 @@
+Anamnesis
+Es estudiada en el servicio de Urología, en mayo de 2011, tras clínica de hematuria macroscópica de dos meses de evolución. Se realiza resección transuretral (RTU) con diagnóstico anatomopatológico de carcinoma urotelial de patrón sólido, grado 3, que infiltra músculo (pT2). En estudio de extensión no existe afectación sistémica. Tras valorar el caso clínico en comité de tumores nefrourológicos, se decide tratamiento con quimioterapia (QT) neoadyuvante, con esquema M-VAC quincenal dosis densas.
+Recibe 4 ciclos, y se realiza intervención quirúrgica en noviembre 2011, exenteración pélvica anterior y ureteroileostomía cutánea tipo Bricker. El estudio anatomopatológico es de carcinoma urotelial in situ, pTisN0M0. En noviembre 2013, tras dos años de la intervención presenta recidiva ganglionar inguinal bilateral, confirmado con biopsia, y se realiza con esquema cisplatino-gemcitabina quincenal, recibiendo 4 ciclos, TC tras 3º, con enfermedad estable, por lo que se procede a la irradiación de áreas "inguino-iliacas" bilaterales. En agosto de 2015, consulta por tumefacción progresiva de raíz de cara posterior de muslo izquierdo.
+
+Exploración física
+Estado general conservado (ECOG 0), normohidratada, normoperfundida, normocoloreada. Eupneica en reposo. Consciente y orientada. CyC: sin adenopatías superficiales palpables. ACP: rítmico sin soplos, con murmullo vesicular conservado sin ruidos sobreañadidos. Abdomen: blando, y depresible, no doloroso a la palpación, sin masas ni megalias, con peristaltismo conservado. Sin adenopatías inguinales superficiales palpables. MMII: empastamiento de la cara posterior de muslo y pierna izquierdos, con aumento de perímetro del muslo izquierdo. Sin edemas ni signos de TVP. Pulsos pedios presentes y simétricos.
+
+Pruebas complementarias
+Ecografía Doppler de MIIZQ (agosto/15): sin se evidencian hallazgos ecográficos de trombosis venosa profunda (TVP) aguda en los territorios explorados del miembro inferior izquierdo. Se observa edema del tejido celular subcutáneo del muslo izquierdo, especialmente en su región posterior.
+RM muslo (septiembre/15): pierna izquierda, aumentada de tamaño y con edema subcutáneo, marcada afectación de toda la musculatura posterior, especialmente de los aductores, y también del sartorio que están aumentados de señal y de tamaño, presentando una captación de contraste, especialmente marcada en la musculatura aductora. Hallazgos en relación con infiltración tumoral difusa.
+
+Diagnóstico
+Metástasis muscular de carcinoma urotelial de vejiga.
+
+Tratamiento
+Tras la clínica presentada por la paciente, tras descartar TVP, se realiza biopsia quirúrgica, con diagnóstico histológico de metástasis de carcinoma urotelial de alto grado. Tras intervalo libre de progresión 16 meses, edad joven, buen estado funcional y el intervalo libre de platino de 18 meses, se decide tratamiento con el esquema paclitaxel-carboplatino-gemcitabina (en lugar de cisplatino por ototoxicidad previa), con un total de 5 ciclos, con respuesta parcial mayor en RM tras el 4º ciclo. Se suspende carboplatino por anemia y trombopenia grado 3 tras 5 ciclos, continuando QT con gemcitabina-paclitaxel, recibiendo un total de 12 ciclos, siendo el último ciclo en julio 2016, con TC toracoabdominopélvica enfermedad sistémica, estable a nivel de adenopatías inguinales, y en RM muslo izquierdo respuesta parcial mayor.
+
+Evolución
+Se decide, conjuntamente con la paciente, descanso de tratamiento con QT, y seguimiento estrecho con revisiones clínico-radiológicas, siendo la última en octubre 2016, con RM de muslo y TC sistémica con enfermedad estable, y la paciente clínicamente asintomática.

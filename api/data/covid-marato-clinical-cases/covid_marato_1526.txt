@@ -1,0 +1,38 @@
+Anamnesis
+Mujer de 46 años, que consulta por aparición de masa en axila izquierda de seis meses de evolución sin otra clínica acompañante.
+Como antecedente médico, presenta melanoma de extensión superficial en región escapular izquierda estadio I-A [pT1b (Breslow 0,5 mm; Clark III; ausencia de ulceración y mitosis en 0,19 mm2) cN0 cM0 R0] intervenido en Febrero de 2009 con posterior ampliación de márgenes en Marzo de 2009 sin signos de malignidad. Libre de enfermedad tumoral desde entonces.
+Adicionalmente, la paciente estaba en seguimiento por parte de Cirugía por nódulos en mama izquierda, habiéndose realizado mamografía y ecografía en diciembre de 2013 con hallazgos sugestivos de fibroadenomas.
+En el momento de la consulta la paciente no tomaba ningún fármaco de forma habitual.
+
+Exploración física
+Buen estado general, PS-ECOG 0. Se palpa adenopatía axilar izquierda no dolorosa. No presenta otras adenopatías en la axila contralateral ni supraclaviculares. Leve aumento difuso de ganglios en la región inguinal bilateral que no impresionan de patológicos.
+No existen otros hallazgos destacables a la exploración.
+
+Pruebas complementarias
+» Se realiza una ecografía axilar que muestra en la región axilar izquierda una adenopatía de unos 17 mm marcadamente hipoecoica con pérdida de la arquitectura normal, altamente sospechosa de neopásica, realizándose una punción-aspiración con aguja fina (PAAF) que resulta positiva para células malignas.
+» Ante dicho hallazgo, se lleva a cabo biopsia con extirpación de dos ganglios linfoides, objetivándose en uno de ellos infiltración por melanoma. La determinación de BRAF resulta positiva para la mutación V600E.
+» Analíticamente destaca proteína s-100b: 0.050 ng/mL, siendo el resto de valores anodinos.
+» Se realiza estudio de extensión mediante TC-PET que descarta signos sugestivos de recidiva local y/o ganglionar, si bien muestra nódulos pulmonares bilaterales, uno de ellos sólido y levemente hipermetabólico (SUV 1,7 g/ml) en segmento anterior del LSD, siendo el resto de baja densidad y no hipermetabólicos. La RMN cerebral realizada paralelamente descarta áreas de captación patológica.
+» Dados los hallazgos, se comenta el caso en Comité de Tumores Torácicos, decidiéndose confirmación histológica del nódulo en LSD, por lo que se solicita PAAF guiada por TC que obtiene material insuficiente para el análisis.
+» Ante dicho resultado, de nuevo en Comité de Tumores, se decide realización de biopsia quirúrgica, realizándose resección de dos nódulos en pulmón derecho (uno en el lóbulo superior y otro en el lóbulo inferior) que resultan ambos compatibles con metástasis de melanoma. El Comité consideró la enfermedad pulmonar irresecable por tratarse de afectación múltiple y bilateral.
+
+Diagnóstico
+Se trata, pues, de una paciente de 46 años con melanoma avanzado por metástasis pulmonares con mutación BRAF V600E.
+
+Tratamiento
+Se solicita valoración por otro centro para inclusión en ensayo clínico, pero la paciente no es incluible en ninguno de los que hay disponibles en ese momento.
+Se propone, entonces, tratamiento de primera línea con dabrafenib + trametinib.
+
+Evolución
+A mediados de enero de 2015, la paciente inicia dabrafenib a dosis de 150 mg/12 h, iniciando una semana después trametinib 2 mg/24 h.
+
+En la visita del día +28 del primer ciclo (día +23 de trametinib), la paciente refiere aparición de nódulos en MMII de unos 10 días de evolución sin otra clínica acompañante. A la exploración, presenta lesiones eritematosas a modo de placas palpables subcutáneas de 1-2 cm en piernas y algo menos palpables en los muslos, levemente dolorosas, no pruriginosas. Asocia ligero edema en los tobillos.
+
+Se remite a la paciente a Dermatología, que realiza biopsia cutánea ante sospecha de vasculitis, confirmándose paniculitis de patrón lobulillar con necrosis filenoide capilar (vasculitis neutrofílica).
+
+Se solicita entonces valoración por parte de Medicina Interna, que completa el estudio realizando radiografía de tórax, sedimento urinario y estudio de autoinmunidad. Ante normalidad en dichas exploraciones, se diagnostica a la paciente de vasculitis leucocitoclástica con afectación cutánea exclusiva en miembros inferiores.
+
+De acuerdo con las recomendaciones tanto del laboratorio fabricante de trametinib como de los Servicios de Dermatología y Medicina Interna, se descarta inicio de corticoide sistémico por contraindicación con el tratamiento actual de su melanoma y se pauta corticoide tópico y reposo, manteniendo vigilancia clínica estrecha y continuando dabrafenib y trametinib a la misma dosis.
+
+En las semanas posteriores, la paciente presenta mejoría clínica de las lesiones en miembros inferiores hasta la total resolución de las mismas.
+En lo referido a su enfermedad oncológica, en mayo de 2015 se realiza nuevo TC-PET que muestra respuesta metabólica completa tras tercer ciclo de la combinación de dabrafenib con trametinib.

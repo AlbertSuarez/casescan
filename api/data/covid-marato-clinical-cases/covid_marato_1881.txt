@@ -1,0 +1,31 @@
+Anamnesis
+Se presenta el caso de un varón de 74 años que vive en domicilio con su mujer, autónomo para las actividades básicas de la vida diaria y cognitivamente correcto. Sin antecedentes familiares de interés. Sin alergias medicamentosas conocidas. Como antecedentes personales destaca hipertensión arterial en tratamiento con amlodipino.
+
+Historia oncológica
+En julio de 2009 se diagnostica de una neoplasia de próstata a raíz de una elevación enzimática del antígeno prostático específico (PSA) 8 ng/ml (valores normales ajustados por la edad de 0 a 6,5 ng/ml) y fosfatasa alcalina de 98 U/l (valores normales 30-120 U/l) sin otra sintomatología asociada. En la exploración física: performance status 1 y tacto rectal T2c (lóbulo derecho aumentado de consistencia homogéneamente y se palpa nódulo indurado en lóbulo izquierdo). Se realiza una biopsia transrectal que informa de un adenocarcinoma Gleason 7 (4 + 3) en 3 de 5 cilindros de lóbulo derecho y adenocarcinoma Gleason 7 (4 + 3) en 5 de 5 cilindros de lóbulo izquierdo y el estudio local mediante RM confirma una neoplasia de próstata de alto riesgo T3bN0 con estudio de extensión negativo.
+Se indica tratamiento con radioterapia y hormonoterapia durante tres años. Radioterapia 3D normofraccionada en sesiones de 2Gy que finalizó en diciembre de 2009, se irradiaron 46 Gy en cadenas ganglionares, 70 Gy en vesiculares seminales y 76 Gy en próstata. Concomitantemente, empezó hormonoterapia con buena tolerancia y un PSA nadir < 0,01 ng/ml.
+En febrero de 2017, a los ocho años del diagnóstico, presenta criterios de progresión bioquímica con
+PSA de 2,87 ng/ml, que se confirma en dos determinaciones posteriores. Se objetiva una recidiva local confirmada con RM prostática y mediante biopsia que informa de un adenocarcinoma Gleason 8 (4 + 4) en 4 de 5 cilindros de lóbulo derecho y adenocarcinoma Gleason 8 (4 + 4) en 5 de 5 cilindros de lóbulo izquierdo.
+Con el diagnóstico de recidiva local en paciente irradiado, se solicita PET-TC para descartar enfermedad a distancia que informa de un foco hipermetabólico medio-basal en el lóbulo izquierdo (SUVmax 5) y de menor intensidad en el tercio medio del lóbulo derecho (SUVmax 2,7) sin observarse enfermedad a distancia. Realiza tratamiento de rescate con braquiterapia de alta tasa con dos implantes y una dosis total de 32 Gy.
+A los 19 meses de fin de tratamiento, en noviembre de 2018, presenta elevación de PSA a 13 ng/ml. El paciente permanece asintomático, sin dolores óseos ni otra sintomatología acompañante.
+El estudio de extensión confirma metástasis óseas y ganglionares. Se inicia tratamiento hormonal con análogos de LHRH. A los tres meses, presenta respuesta por PSA 7 ng/ml y testosterona dentro de la normalidad.
+
+Enfermedad actual
+A los cinco meses del inicio del tratamiento hormonal, el paciente consulta en varias ocasiones en el Servicio de Urgencias por dolor hemicraneal derecho lancinante en región cervical irradiado a órbita, sin otra sintomatología neurológica, tratado con analgésicos.
+En la última visita en abril de 2019 refirió persistencia de la cefalea y una limitación en la movilidad lingual.
+
+Exploración física
+En la exploración física destacaba una protrusión lingual con desviación a la derecha y signos de hemiatrofia sugestivos de parálisis unilateral del nervio hipogloso. El resto de la exploración neurológica y sistémica no mostraba hallazgos relevantes.
+
+Pruebas complementarias
+Como pruebas complementarias, se realiza TC de troncos supraaórticos para descartar disección de arteria carótida interna, informa de posible parálisis del nervio hipogloso derecho. La TC craneal informa de lesión invasiva en la base del hueso occipital derecho compatible con metástasis. Analítica sanguínea PSA 12 ng/ml y niveles de testosterona 0 ng/dl.
+Se realiza gammagrafía ósea con criterios de progresión radiológica por aparición de tres nuevas lesiones óseas. La TC abdominal confirma estabilidad de la enfermedad ganglionar.
+
+Diagnóstico
+En resumen, se trata de un paciente afecto de cáncer prostático resistente a castración metastásico (CPRCm) con progresión ósea sintomática.
+
+Tratamiento
+Se decide tratamiento sobre la lesión con radioterapia paliativa 30 Gy, distribuidos en 10 fracciones de 3 Gy, e inicia quimioterapia con docetaxel.
+
+Evolución
+Actualmente, después del tratamiento con radioterapia se ha resuelto la cefalea que el paciente presentaba. Sigue en tratamiento activo con docetaxel, tercer ciclo el 30 de mayo 2019.

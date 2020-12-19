@@ -1,0 +1,36 @@
+ANAMNESIS
+Paciente de 56 años con antecedente de EPOC y fumador de 36,9 paquetes/ año. Consulta en abril 2017 por presentar dolor torácico izquierdo de características pleuríticas de 2 semanas de evolución, acompañado de aumento de su disnea basal, que pasa de moderados a mínimos esfuerzos, asociado a tos no productiva, sin fiebre y sin clínica sugestiva de insuficiencia cardiaca.
+
+EXPLORACIÓN FÍSICA
+A la exploración el paciente se encuentra eupneico en reposo con SpO2 99% (FiO2 0.21).
+En la auscultación pulmonar destaca disminución de murmullo vesicular en 1/3 medio de hemitórax izquierdo. Resto de la exploración física es normal.
+
+PRUEBAS COMPLEMENTARIAS
+- Radiografía tórax: signos de hiperinsuflación y pérdida de volumen sugestivo de atelectasia de la língula.
+- ECG: ritmo sinusal a 80 lpm. No signos de isquemia aguda.
+- Hemograma: leucocitos 10.400, Neutrófilos 61.2%, Hemoglobina 13.7, Hematocrito 39.6, Plaquetas 603.000
+- Función renal y hepática normal
+- Fibrobroncospia: Bronquio superior lingular con lesión exofítica necrosada.
+- TC TAP: Masa hiliar izquierda de 61 x 45 mm asociada a atelectasia de língula. Nódulo de 30 mm en cisura menor, nódulo contralateral en LM de 9mm. No lesiones metastásicas a distancia.
+- PET-TC: Mazacote adenopático subaórtico (SUV máximo 12.2). Masa parahiliar izquierda (SUV máximo 15.6). Nódulo pulmonar contralateral sobre cisura menor (SUV máximo 1.3).
+
+
+ANATOMÍA PATOLÓGICA
+Carcinoma indiferenciado ampliamente necrosado. EGFR, ALK, ROS-1 negativos. PD-L1 (TPS < 1%)
+
+JUICIO DIAGNÓSTICO
+Carcinoma indiferenciado de pulmón, Estadio IV (T2bN2M1a), EGFR, ALK, ROS1 Y PDL1 negativos
+
+TRATAMIENTO
+Se planifica tratamiento dentro del ensayo clínico PIPSEN con CDDP/VNR iniciando el 09/06/2017.
+
+EVOLUCIÓN
+Durante el transcurso del tratamiento presenta como efecto adverso dos episodios de neutropenia afebril G-II y III por lo que es necesaria la reducción de dosis al 75%, completando 6 ciclos el 03/10/17.
+La TAC de reevaluación tras 6 ciclos presenta una respuesta parcial mayor (del 63% por RECIST
+1.1) con importante reducción de tamaño de la masa hiliar y en cisura menor izquierda, así como de la afectación mediastínica. Nódulo en LM estable (9mm).
+
+Se aleatoriza para mantenimiento dentro de ensayo, iniciando el 09/11/17 Olaparib 300 mg/ 12 horas /día.
+El 14/02/18 presenta un TEP incidental por lo que se inicia anticoagulación con Hibor 7500MU al día durante 6 meses. Paciente mantiene estabilidad radiológica, buen estado general, PS0 y sin toxicidades relacionadas al tratamiento.
+En Julio 2018 presenta una progresión de enfermedad con aumento de la masa hiliar y los nódulos pulmonares conocidos, por lo que se inicia una segunda línea de tratamiento con Atezolizumab.
+En la primera evaluación tras 3 ciclos se evidencia un aumento del tamaño de las lesiones pulmonares con incremento de la carga tumoral de 48% por RECIST1.1. El paciente permanece asintomático y sin toxicidades relacionadas, por lo que se plantea el diagnóstico diferencial entre una pseudoprogresión versus una progresión verdadera.
+Se decide continuar tratamiento con nueva reevaluación tras 5 ciclos presentando una reducción de la carga tumoral de 27% por lo que se confirma el diagnóstico de pseudoprogresión y continúa tratamiento con Atezolizumab, actualmente ha recibido 9 ciclos, manteniendo criterios radiológicos de enfermedad estable y sigue controles en consultas de oncología médica.

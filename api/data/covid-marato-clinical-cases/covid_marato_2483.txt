@@ -1,0 +1,34 @@
+Anamnesis
+Varón de 67 años, que presenta como antecedentes personales hipertensión arterial, dislipemia y artrodesis vertebral D4-L2, sin alergias medicamentosas conocidas. No tiene antecedentes familiares oncológicos de interés. Exfumador con un IPA de 30 paquetes-año y bebedor de 1-2 UBE al día. En tratamiento activo con abiraterona (1 g cada 24 horas).
+
+Historia oncológica
+Diagnosticado en noviembre de 2013 de adenocarcinoma (ADC) de intestino delgado localizado en duodeno de tipo entérico. Intervenido quirúrgicamente mediante resección de duodeno y yeyuno (resección R0). La Anatomía Patológica mostró una pérdida subtotal de expresión de MLH1, siendo estadificado como pT3pN2cM0. Se decidió tratamiento adyuvante con esquema XELOX por 8 ciclos y revisiones posteriores. En octubre de 2016, se diagnostica al paciente de un ADC de próstata (Gleason 4 + 5) con metástasis óseas múltiples en esqueleto axial (pT3cN1cM1), iniciando tratamiento con bloqueo androgénico completo y de forma secuencial tratamiento con docetaxel trisemanal por seis ciclos que finaliza en mayo de 2017. Desde ese momento, en seguimiento en consulta hasta que en enero de 2018 presenta progresión de la enfermedad a nivel óseo, por lo que se decide inicio de tratamiento con Radium-223, recibiendo seis sesiones de tratamiento que finalizan en julio de 2018 con buena respuesta clínica del dolor y reducción del número de lesiones óseas en la gammagrafía ósea. En marzo de 2019, ante nueva progresión de la enfermedad a nivel óseo con aumento de los niveles de PSA, se inicia tratamiento con abiraterona, que mantenía en la actualidad.
+
+Anamnesis
+El paciente acudió a Urgencias por cuadro de hematoma de importante tamaño en región parotídea y cervical izquierda, asociado a edema perilesional sin asociar traumatismo aparente, así como múltiples hematomas de más pequeño tamaño en ambos codos y tobillos. No tiene otros síntomas asociados.
+
+Exploración física
+» General: ECOG 3. Consciente. Orientado. Sin signos de deshidratación. Estable hemodinámicamente. Afebril. Eupneico. Hematoma en regiones parotídea y cervical izquierda de importante tamaño.
+» Tórax: murmullo vesicular conservado en todos los campos con ritmo cardiaco regular sin soplos ni extrasístoles.
+» Abdomen: blando. Depresible. No es doloroso en la palpación. Sin signos de irritación peritoneal.
+» Sin masas, ni adenomegalias ni organomegalias palpables.
+» Extremidades inferiores: sin signos de trombosis venosa profunda ni edemas bilaterales.
+» Hematomas en ambas extremidades inferiores.
+
+Pruebas complementarias
+» Analítica de sangre (hemograma, bioquímica y coagulación): destacaba tiempo de tromboplastina activada de 101,6 segundos, con INR de 1,08, tiempo de protrombina 89 % y fibrinógeno 563 mg/dl. El hemograma y la bioquímica no revelaban datos fuera de los rangos de normalidad.
+» Factores de coagulación: factor VIII 1,54%, factor von Willebrand Antigénico > 200 %, factor von Willebrand actividad > 151 %, factor IX 109,00 % y factor XI: 91,00 %.
+
+Diagnóstico
+Hemofilia A adquirida paraneoplásica secundaria a cáncer de próstata metastásico resistente a castración.
+
+Tratamiento
+» Corticoesteroides a dosis de 1 mg/kg (prednisona 60 mg).
+» Ciclofosfamida a dosis de 100 mg cada 24 horas.
+» Factor VII recombinante a dosis de 5 mg cada 4 horas.
+» Docetaxel a dosis total de 57 mg semanal.
+
+Evolución
+Se realizó ingreso del paciente en la planta de Oncología Médica, con sospecha de existencia de hemofilia A adquirida (HAA) secundaria a patología de base (ADC de próstata) o a tratamiento con abiraterona. Este diagnóstico se apoyaba en la inexistencia de trombopenia ni signos de infiltración de médula ósea, así como los signos de recidiva bioquímica y clínica de la tumoración prostática.
+Se inició tratamiento con corticoides a dosis de 1 mg/kg (prednisona 60 mg) y ciclofosfamida (100 mg cada 24 horas). Se solicitó valoración por el servicio de Hematología, que realizó determinación de niveles de inhibidor de factor VIII, el cual se encontraba presente en la analítica del paciente en forma elevada, catalogando el cuadro clínico de origen paraneoplásico y confirmando el diagnóstico de HAA. Posteriormente, el paciente presentó cuadro de dolor en la articulación humero-radial, solicitándose ecografía donde se observaba una hemorragia articular. Consecuente a lo anterior, se inició tratamiento con factor VII recombinante (NovoSeven®) a dosis de 5 mg cada 4 horas.
+Los días posteriores el paciente presentó mejoría del estado general con evolución favorable de los hematomas de ingreso y sin aparición de nuevos. Sin embargo, los niveles de factor inhibidor y de factor VIII se hallaban estables sin mostrar elevación, por lo que se decidió en sesión clínica conjunta con el servicio de hematología retirada del bloqueo hormonal con abiraterona, y administración de nueva línea de quimioterapia con docetaxel semanal, tras previa retirada de ciclofosfamida. Tras el segundo ciclo de quimioterapia, se observó descenso de los niveles de factor inhibidor (< 0,6 UB) y elevación del factor VIII hasta valores del 46 %, por lo que se retiró el tratamiento corticoide. El paciente permaneció ingresado durante dos semanas más, durante las cuales se administraron dos ciclos más de quimioterapia. Tras la buena evolución clínica, se decidió alta con seguimiento posterior en consulta de Oncología Médica y Hematología.

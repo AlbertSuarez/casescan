@@ -1,0 +1,28 @@
+Anamnesis
+Mujer de 79 años de edad sin alergias. Refiere hipertensión arterial y diabetes mellitus tipo 2, hepatopatía crónica con hipertensión portal (Child B) de etiología indeterminada en seguimiento por Hepatología.
+Carcinoma de mama izquierda intervenida hace 17 años tratada con cirugía (mastectomía + linfadenectomía izquierda), quimioterapia y radioterapia (en otro centro y sin disponibilidad de informes médicos).
+Aparición de lesión nodular, de color rosado en codo izquierdo de mes y medio de evolución con rápido crecimiento.
+
+Exploración física
+Al examen físico presenta una lesión tumoral firme y mal delimitada de 6 cm de diámetro que se adhiere a los planos profundos; no se palpan adenopatías regionales.
+Se realiza una punción aspiración con aguja fina de la lesión con resultado de carcinoma de células de Merkel e inmunohistoquímica: sinaptofisina+, CK20+, AE1/AE3+, S.100–, AIC–.
+
+Pruebas complementarias
+• TC toracoabdominopélvica: descarta la presencia de metástasis a distancia, describiendo signos de hepatopatía crónica, esplenomegalia y várices esofágicas en el contexto de patología de base.
+• RM de codo: masa mal delimitada polilobulada de 6 x 5 x 4 cm localizada en tejido celular subcutáneo de la cara interna del codo izquierdo que engloba la vena basílica. Debido al intenso edema existente, no se puede descartar infiltración del músculo pronador y braquial anterior, además de los nervios mediano, cubital y arteria braquial.
+• PET: captación única a nivel de la lesión en el codo izquierdo.
+
+Tratamiento
+Se realiza exéresis marginal del tumor primario incluyendo un segmento de la vena basílica, así como extirpación de cuatro lesiones metastásicas cutáneas situadas en el tercio distal del antebrazo.
+Anatomía patológica: carcinoma de células de Merkel con imágenes de invasión vascular que alcanza focalmente el borde quirúrgico de resección.
+Se solicita valoración por Oncología Radioterápica para valorar tratamiento local.
+
+Evolución
+Tras 20 días del postoperatorio, se objetiva recidiva cutánea, en proximidad del codo, con existencia de lesión subcutánea firme con letálides en dorso del antebrazo izquierdo. Asimismo, la paciente presenta inestabilidad para la marcha por lo que es valorada por el Servicio de Neurología y se realiza RM cerebral y medular, objetivando encefalopatía de pequeño vaso a la que se le atribuye la sintomatología neurológica.
+Recibe tratamiento de radioterapia y se administran 50 Gy en todo el lecho quirúrgico de las resecciones más 5 cm de margen superior e inferior, cubriendo todas las nuevas lesiones. Posteriormente, se planificaba administrar 16 Gy más en lecho de las primeras lesiones y en nuevas lesiones no resecadas, pero no es posible debido a una dermitis húmeda, por lo que solo se llega a 58 Gy. Clínicamente las lesiones regresaron en un 100%, pero tras diez días de finalizar el tratamiento aparecen nuevas lesiones en el codo en la región no radiada que son resecadas por Dermatología; dos semanas después, aparecen nuevas lesiones en el antebrazo izquierdo (llama la atención que son retrógradas debido a la presencia de linfadenectomía previa ipsilateral) que son resecadas de nuevo por Dermatología dejando bordes libres.
+Es valorada por Oncología Médica para valorar tratamiento quimioterápico adyuvante el cual se desestima por no tener indicación.
+Tras dos meses de finalizar el tratamiento local con radioterapia, aparece una nueva lesión en la espalda de características similares a las lesiones en codo, que es resecada y presenta histopatología compatible con metástasis de carcinoma de células de Merkel.
+Es valorada de nuevo por parte de Oncología Médica, realizando un nuevo estudio de extensión con ecografía abdominal y radiografía de tórax que no evidencian presencia de metástasis. Se desestima de nuevo la posibilidad de tratamiento quimioterápico adyuvante y se plantea valorar posibilidad de tratamiento de radioterapia sobre lesión en espalda que no llega a recibir.
+Ingresa en el Servicio de Digestivo (cuatro semanas después de valoración oncológica) por cuadro de descompensación edemo-ascítica y encefalopatía hepática. Durante dicho ingreso se documenta al examen físico un nódulo mamario palpable supraareolar en mama derecha. Se realizan a su vez pruebas complementarias.
+En la ecografía de lesión mamaria se observa una lesión altamente sospechosa de malignidad en intercuadrantes superiores de mama derecha. BIRADS 5 de 2,1 x 1,5 cm, realizando BAG con control ecográfico de la lesión descrita con histología compatible con metástasis de carcinoma de Merkel. Inmunohistoquímica: sinaptofisina+, CK20+, CK7–, CK19–.
+Asimismo, se realiza de nuevo una ecografía abdominal que detecta signos de hipertensión portal asociada a trombosis con ascitis cuantiosa (se toma muestra para citología con resultado negativo). Se realiza además una TC toracoabdominopélvica que confirma la presencia de carcinomatosis peritoneal, implantes pleurales, metástasis hepáticas, metástasis en suprarrenal izquierda y adenopatías patológicas en mediastino y retroperitoneo. No es posible confirmación histológica pero se asume secundario a progresión metastásica visceral del carcinoma de células de Merkel. La paciente presenta deterioro clínico importante con insuficiencia hepática progresiva a pesar de tratamiento médico, síndrome hepatorrenal y fallo multiorgánico siendo éxitus tras 15 días de ingreso hospitalario y tras 9,3 meses del diagnóstico inicial.

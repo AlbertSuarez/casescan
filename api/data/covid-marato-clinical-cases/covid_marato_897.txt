@@ -1,0 +1,32 @@
+Anamnesis
+Mujer de 48 años, premenopáusica, con antecedente personal de dislipidemia bajo tratamiento con estatinas, sin antecedentes oncológicos familiares. Diagnosticada en agosto de 2008 de un carcinoma ductal infiltrante (CDI) de mama derecha, grado 3, estadio IIIC (T2N3M0), receptores de estrógeno (RE) y progesterona (RP) negativos. HER2 +++ por inmunohistoquímica (IHQ) y Ki67 de 40%.
+Realizó tratamiento neoadyuvante con doxorrubicina (60 mg/m2) más ciclofosfamida (600 mg/m2) cada 21 días, seguido de 4 ciclos de docetaxel (100 mg/m2) más trastuzumab (8 mg/kg primera dosis y 6 mg/kg siguientes dosis) cada 21 días dentro de ensayo clínico.
+Tras completar la neoadyuvancia se evidenció respuesta parcial del tumor primario y respuesta completa a nivel adenopático axilar y supraclavicular, por lo que cuatro semanas despues fue sometida a mastectomía radical derecha y linfadenectomia axilar.El estudio anatomopatológico de la pieza quirurgica fue compatible con CDI de 1,2 mm (pT1cpN0), sin cambios en los factores pronósticos con respecto al estudio diagnostico.
+Estando en curso del tratamiento con trastuzumab adyuvante, cinco meses después de la cirugía la paciente presenta cuadro de cefalea holocraneal que no se controlaba con analgesia convencional, sin otros síntomas asociados.
+
+Exploración física
+ECOG 0. Tórax simétrico, expandible, corazón rítmico, no soplos. Cicatriz de mastectomía derecha sin signos de recidiva. Mama izquierda no se palpan tumoraciones.No se palpan adenopatías axilares ni supraclaviculares.Exploración abdominal y extremidades sin hallazgos relevantes.Exploración neurológica:conciente, orientada en tiempo, espacio y persona, movimientos oculares externos normales, pares craneales normales. No dismetría. Fuerza muscular y sensibilidad conservada en cuatro extremidades.Marcha normal.
+
+Pruebas complementarias
+» Resonancia magnética (RM) cerebral:se identifican 2 lesiones cerebrales compatibles con metástasis (una parietal izquierda y otra cerebelar izquierda).
+» PET-TC: se describe las dos lesiones cerebrales ya identificadas en la RM cerebral, sin objetivarse lesiones extracraneales sugestivas recidiva tumoral.
+
+Diagnóstico
+Se valoró como recidiva cerebral en curso de tratamiento adyuvante con trastuzumab de carcinoma ductal infiltrante de mama derecha, grado 3, RE y RP negativos, HER2 positivo (+++ por IHQ) y Ki-67 de 40%.
+
+Tratamiento
+En base a los resultados obtenidos con Lapatinib en monoterapia y en combinación con Capecitabina en pacientes con cancer de mama HER2 positivo con metastasis cerebrales previamente tratadas con radioterapia, se decidió realizar radioterapia holocraneal (30 Gy, 10 fracciones de 3Gy) e iniciar tratamiento con Lapatinib (1250 mg/día) asociado a Capecitabina (2,000 mg/m2, días 1-14 c/21 días).
+La paciente completó 7 ciclos de tratamiento sistémico, teniéndose que suspender por toxicidad gastrointestinal g3.
+Tras 2 meses de haber realizado la radioterapia holocraneal una RMN cerebral mostró respuesta parcial de las dos metástasis.
+Con el fin de consolidar la respuesta obtenida con la radioterapia holocraneal, se realizó radiocirugía de las dos metastasis cerebrales (20 Gy en ambas lesiones).
+Cuatro meses después de la radiocirugía, la RMN cerebral control mostró cambios sugestivos de respuesta completa en ambas lesiones.
+La paciente inició controles clínicos y radiológicos.
+
+Evolución
+Un año después de la radiocirugía, se objetivaron signos de progresión en la lesión residual cerebelar izquierda.
+
+Teniendo en cuenta que la paciente se mantenía asintomática y que el intervalo libre de progresión habla sido de un año, se decidió realizar resección quirúrgica de la lesión. El estudio histopatológico de la lesión resecada fue compatible con radionecrosis. En base a este resultado, la paciente continuó controles.
+
+Siete meses después de la resección quirúrgica, la paciente presenta crisis comiciales, se realizó una RM cerebral que mostró cambios sugestivos de progresión en la lesión parietal izquierda, residual a la radiocirugía.Dado el antecedente de radionecrosis de la lesión cerebelar izquierda, se decidió conducta expectante y realizar controles radiológicos estrechos de esta lesión
+
+Tras 4 años de seguimiento, la paciente se mantiene sin evidencia de progresión radiológica en las RM cerebrales sucesivas que se han realizado.A pesar de no presentar progresión cerebral ni sistémica, la paciente ha desarrollado deterioro cognitivo importante, asociado a una alteración de la marcha e incontinencia de esfínteres, siendo actualmente dependiente para la mayoría de las actividades básicas de la vida diaria, síntomas que limitan su calidad de vida.

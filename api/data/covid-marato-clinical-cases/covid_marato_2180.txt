@@ -1,0 +1,31 @@
+Anamnesis
+Varón de 47 años de edad, fumador (20 paquetes-año), con antecedentes de tuberculosis pulmonar hace 20 años, tratada, sin otros datos de interés; en mayo de 2016 en consulta de Atención Primaria por tos con expectoración hemoptoica. Niega dolor pleurítico. No tiene cuadro constitucional. Durante el estudio diagnóstico, aparece lesión en cavidad oral, excrecente, dolorosa y friable que se biopsia.
+
+Exploración física
+» Buen estado general. Sin signos de distrés respiratorio.
+» Cavidad oral: lesión excrecente, en trígono retromolar izquierdo, de consistencia elástica y friable, vascularizada, y firme al tacto.
+» Aparato cardiorrespiratorio: ruidos cardiacos rítmicos, sin soplos. Murmullo vesicular disminuido en hemitórax superior izquierdo, algunas sibilancias.
+» El resto de exploración era normal.
+
+Pruebas complementarias
+» Radiografía de tórax: atelectasia del lóbulo superior izquierdo.
+» Fibrobroncoscopia: infiltración mucosa de bronquio subsegmentario apical de lóbulo superior izquierdo.
+» TC: extensa área de condensación con neumonitis periférica que afecta al segmento apicoposterior del lóbulo superior izquierdo, con masa parahiliar asociando adenopatías prevasculares, en ventana aortopulmonar e hiliares izquierdas.
+» PET-TC: captación hipermetabólica en territorios ganglionares paraaórticos (SUVmax 4,6 y 3,7) y subaórticos (SUVmax 2,3). Masa pulmonar parahiliar izquierda hipermetabólica (SUVmax 5,49) y neumonitis perilesional ametabólica. Afectación metastásica múltiple ósea.
+
+Anatomía patológica:
+» Biopsia: mucosa bronquial infiltrada por adenocarcinoma de pulmón. Inmunohistoquímica: CK7 +. TTF1 +. EGFR y ROS-1 negativos, ALK positivo por FISH (2p23). PD-L1 < 1 %.
+» Biopsia de lesión de cavidad oral: metástasis por adenocarcinoma de origen pulmonar.
+
+Diagnóstico
+Adenocarcinoma de pulmón E-IVB ALK positivo.
+
+Tratamiento
+Tras el diagnóstico, en julio de 2016, inicia tratamiento de primera línea con crizotinib 250 mg cada 12 horas.
+
+Evolución
+Inicialmente, presenta mejoría del dolor óseo y reducción de la lesión en trígono retromolar. Se asocia zoledronato para prevención de eventos óseos.
+En estudio de reevaluación tras 4 ciclos, en PET- TC se objetiva respuesta parcial, con reducción de tamaño y metabolismo de la masa parahiliar izquierda, adenopatías y lesiones óseas.
+En diciembre de 2016, refiere dolor mal controlado a nivel lumbosacro, solicitándose resonancia lumbosacra, donde se objetiva progresión de enfermedad ósea múltiple, con lesión en hemisacro izquierdo que invade e infiltra el canal espinal sacro, afectando las raíces nerviosas S2 y S3, recibiendo tratamiento local con radioterapia paliativa, 20 Gy en 5 sesiones. Dada la progresión, se solicita uso compasivo de Brigatinib.
+En febrero de 2017, inicia tratamiento de segunda línea con brigatinib a dosis de 180 mg al día. En primera valoración de respuesta tras 3 ciclos de tratamiento (mayo de 2017), se observa respuesta parcial a nivel pulmonar y óseo; sin embargo, aparecen lesiones hepáticas dudosas, y, clínicamente, presenta aumento de la lesión en cavidad oral y deterioro funcional.
+Para filiar las lesiones hepáticas, se solicita resonancia magnética, que informa de metástasis, y ante la sospecha de resistencia a Brigatinib, se realiza biopsia hepática para estudio y análisis Next Generation Sequencing (NGS), donde se detecta presencia de 3 mutaciones de resistencia: G1202R con resistencia a crizotinib, brigatinib, alectinib, y ceritinib; F1174V con resistencia a crizotinib y ceritinib; y F1174C con resistencia a crizotinib y ceritinib; mientras que presentaba sensibilidad a lorlatinib a pesar de la expresión de dichas mutaciones. Ante los resultados de NGS, se solicitó uso expandido de lorlatinib, que finalmente es aceptado y, en julio de 2017, inicia tratamiento a dosis de 100 mg una vez al día, con buena tolerancia, mejoría clínica del dolor y del estado funcional, pero, en septiembre del mismo año, ingresa en Oncología por sepsis grave de foco respiratorio, refractaria a tratamiento médico, siendo exitus.

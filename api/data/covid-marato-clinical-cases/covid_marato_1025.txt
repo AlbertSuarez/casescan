@@ -1,0 +1,29 @@
+Anamnesis
+Se trata de un hombre de 32 años afecto de anemia de Fanconi asociada a trombocitopenia, polidactilia e hipoplasia del pulgar derecho al debut en 1993, recién cumplidos los 8 años.
+En junio de 2009, se añadió un síndrome mielodisplásico (citogenética +1q y +12p), candidato a aloTPH de su hermana HLA idéntica que se infundió el 12/11/10 previo acondicionamiento con fludarabina, ciclofosfamida y globulina antitimocítica. Como consecuencia, presentaba una enfermedad del injerto contra el huésped crónica (EICHc) a nivel ocular muy leve.
+En enero de 2016 fue diagnosticado de un carcinoma escamoso infiltrante de mucosa yugal izquierda, virus del papiloma humano positivo, tratado mediante resección local y vaciamiento cervical (pT4N2b) seguido de radioterapia complementaria (dosis total 50Gy, inicio 6/4/16 - fin 10/5/16), sin presentar toxicidades. Último control en noviembre de 2016, sin evidencia de enfermedad.
+El paciente no presentaba alergias, hábitos tóxicos ni otros antecedentes médico-quirúrgicos de interés, seguía tratamiento con ciclosporina para el EICHc, trimetoprima-sulfametoxazol y ácido folínico semanal.
+Debuta en enero de 2017, cuando acude al Servicio de Urgencias por un cuadro de tumefacción cervical, plétora facial y disnea progresiva de una semana de evolución, asociada a fiebre de 38,5 ºC. A su llegada, taquicárdico y taquipneico, con una saturación de oxígeno de 92 % con mascarilla al 28 % a 6 lpm. La radiografía de tórax mostraba una opacidad que ocupaba la práctica totalidad del hemitórax derecho, no presente en la última TC torácica realizada en junio de 2016.
+
+Exploración física
+Durante la exploración física destacaba hipofonesis a nivel del campo pulmonar derecho, asociado a un soplo tubárico ipsilateral. También se palpaba una tumoración de unos 3 cm indurada y dolorosa a nivel subacromial izquierdo.
+
+Pruebas complementarias
+Se realizó una TC torácica urgente que mostraba una tumoración de 80 mm en lóbulo superior derecho con obstrucción del bronquio ipsilateral, extensa infiltración mediastínica y de la vena cava superior con trombosis de la vena innominada; además, derrame pleural derecho en cantidad moderada.
+La broncoscopia objetivaba una masa endobronquial que ocupaba toda la luz del bronquio principal derecho. La anatomía patológica fue positiva para un carcinoma escamoso infiltrante queratinizante. No se identificó la mutación de EGFR ni la translocación de ALK; en cambio, sí una alta expresión de PD-L1 (60 %). Las cepas de bajo y alto riesgo del virus del papiloma humano no fueron identificadas.
+La PET-TC confirmó que se trataba de un proceso diseminado, con afectación adenopática hiliar derecha y subcarinal, de la glándula suprarrenal derecha y con lesiones líticas en acromion izquierdo y quinta costilla derecha. No mostraba signos de recidiva de la neoplasia de mucosa yugal, y el patrón de diseminación apuntaba a favor de un primario pulmonar.
+En relación al proceso febril, probablemente justificado por un cuadro de neumonitis obstructiva, se realizaron cultivos de sangre periféricos y sedimento de orina, sin aislarse ningún germen.
+
+Diagnóstico
+Se orientó el caso como un carcinoma escamoso de pulmón, T4N2M1b - estadio IV. EGFR no mutado, ALK no traslocado. Secundario a éste, presentaba un síndrome de vena cava superior y una probable neumonitis obstructiva distal al bronquio principal derecho, condicionando todo ello a insuficiencia respiratoria aguda.
+
+Tratamiento
+Se inició tratamiento con corticoides endovenosos a altas dosis y antibioterapia con amoxicilina-ácido clavulánico.
+El día 12/1/16 se realizó una angioplastia con balón y colocación de 2 stents a nivel de vena cava superior, sin incidencias. Se inició bemiparina 5.000 UI/día dada la trombosis de la vena innominada citada anteriormente.
+Conjuntamente con Hematología y revisada la bibliografía, se consideró al paciente candidato a quimioterapia de primera línea esquema carboplatino AUC 3 y gemcitabina ajustada a la función hepática. Se administró el primer día del primer ciclo el 17/1/17.
+Cuanto al manejo de la inmunosupresión para el EICHc, se decidió suspender la ciclosporina para evitar posibles interacciones con los citostáticos y así reducir la tasa de posibles efectos adversos.
+
+Evolución
+Presentó una correcta evolución tras las medidas terapéuticas anteriormente descritas, permitiendo reducir de forma progresiva el aporte de oxigenoterapia hasta su retirada.
+Como toxicidades a la quimioterapia, presentó emesis grado 2 controlada con metoclopramida y granisetrón; además, trombopenia grado 1.
+El paciente fue dado de alta tras 13 días de ser ingresado, para continuar el tratamiento ambulatoriamente. Reingresó a finales de febrero de 2017 por disnea de mínimos esfuerzos con signos radiológicos compatibles con progresión de la enfermedad. El paciente evolucionó de manera tórpida, por lo que se decidió priorizar el control de síntomas. Fue finalmente exitus el día 24/2/17.

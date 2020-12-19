@@ -1,0 +1,35 @@
+Anamnesis
+Mujer de 39 años sin antecedentes patológicos personales de interés. En enero de 2007 es estudiada en el Servicio de Ginecología por un cuadro de abdominalgia inespecífica con aumento progresivo del perímetro abdominal de varios meses de evolución.
+Antecedentes ginecológicos: menarquía a los 18 años. G2A0P2. Premenopáusica.
+Antecedentes familiares oncológicos: hermana diagnosticada de cáncer de mama con 34 años. Estudiada previamente por la Unidad de Consejo Genético, sin hallarse mutación en los genes BRCA1 ni BRCA2 mediante heterodúplex y secuenciación. Tío paterno diagnosticado de cáncer de cabeza y cuello. Abuelo paterno diagnosticado de neoplasia de páncreas. Abuela materna diagnosticada de neoplasia de colon. Aproximadamente 2 años después del debut de nuestra paciente, una tercera hermana fue diagnosticada de un carcinosarcoma de ovario bilateral estadio IIIC a la edad de 46 años.
+
+Examen físico
+Destacaba un abdomen doloroso a la palpación de manera generalizada. Masa en el hipogastrio de aproximadamente 8 cm. Semiología de ascitis. El resto de la exploración no mostró hallazgos de interés.
+
+Pruebas complementarias
+- Hemograma y bioquímica completa: normales.
+- Marcadores tumorales: CA 125 775 UI/ml, Ca 15.3 132 UI/ml.
+- Ecografía y TC abdominal: tumoración pélvica de 13 x 14 x 15 cm de diámetro compatible con neoplasia anexial.
+Múltiples implantes peritoneales y en la superficie hepática. Abundante líquido libre.
+- TC tórax: sin alteraciones en la pleura ni en el parénquima pulmonar.
+TRATAMIENTO QUIRÚRGICO:
+En febrero de 2007 se realiza histerectomía, doble anexectomía y omentectomía mediante laparotomía supra e infraumbilical. A pesar del esfuerzo quirúrgico persiste un residuo tumoral mayor de 2 cm en la zona parametrial derecha.
+
+Diagnóstico
+DIAGNÓSTICO HISTOLÓGICO
+Cistoadenocarcinoma papilar seroso bilateral de ovario grado III con afectación del útero y el epiplón. Citología de líquido ascítico positivo para células malignas.
+Estadio IIIC.
+ESTUDIO GENÉTICO
+Al tratarse de un caso de cáncer de ovario en una paciente menor de 45 años con antecedentes familiares sugerentes de cáncer hereditario se realiza el estudio de las mutaciones BRCA1 y BRCA2, y al resultar negativo, al igual que en su hermana con diagnóstico de cáncer de mama, mediante heterodúplex y secuenciación se opta por el estudio de grandes reordenamientos por MLPA, detectándose una deleción que afecta a los exones 2 al 12 del gen BRCA1. Se confirmó dicho resultado mediante Q-PCR.
+
+Tratamiento
+TRATAMIENTO SISTÉMICO
+En marzo de 2007 inició tratamiento con quimioterapia según el esquema paclitaxel 175 mg/m2 + carboplatino AUC 6 cada 21 días, recibiendo un total de 6 ciclos con respuesta parcial mayor radiológica y normalización de los marcadores tumorales.
+Continuó tratamiento con cisplatino 50 mg/m2 + gemcitabina 2.000 mg/m2 (días 1 y 14 cada 28 días) con buena tolerancia, salvo toxicidad hematológica y un ingreso hospitalario por neumotórax iatrogénico tras colocación de reservorio intravenoso. Tras el tercer ciclo de quimioterapia, en noviembre de 2007, la paciente presenta respuesta completa radiológica y bioquímica, continuando seguimiento estricto con revisiones periódicas.
+En enero de 2009, tras un intervalo libre de enfermedad (ILE) de 14 meses, se observa, mediante TC, la reaparición de carcinomatosis peritoneal con implantes perihepáticos y elevación de CA125. Considerando el ILE prolongado en respuesta completa, se administra de nuevo tratamiento con cisplatino 50 mg/m2 y gemcitabina con las mismas dosis y esquema previos, con nueva respuesta completa radiológica y normalización de marcadores tras 4 ciclos.
+Continúa el seguimiento en nuestra consulta hasta marzo de 2010, cuando tras un ILE de 10 meses, se detecta un nuevo aumento de los marcadores y progresión de los nódulos peritoneales y perihepáticos. Inicia nuevo tratamiento basado en platino según esquema carboplatino AUC 5 + doxorrubicina liposomal pegilada 30 mg/m2 cada 21 días. Tras 4 ciclos obtiene respuesta clínica completa, pero a expensas de una importante toxicidad hematológica, especialmente sobre la serie blanca y las plaquetas. Por lo que en respuesta completa se mantiene de nuevo la actitud expectante con revisiones periódicas desde junio de 2010.
+A los 8 meses de finalizar dicho tratamiento, se observa de nuevo progresión radiológica de la enfermedad peritoneal en las mismas localizaciones afectadas anteriormente. Asimismo, presentaba elevación de CA125 (86 UI/ml).
+Considerando las líneas de tratamiento previas y la toxicidad hematológica significativa, se decide comenzar tratamiento con quimioterapia metronómica con ciclofosfamida 50 mg vía oral c/24 h combinada con bevacizumab 10 mg/kg i.v. cada 14 días.
+
+Evolución
+La paciente inició el tratamiento en febrero de 2011, obteniéndose una respuesta clínica completa por imagen y normalización de marcadores tras los dos primeros meses de tratamiento, que mantiene hasta la actualidad. Tanto la respuesta completa radiológica como la normalización de CA 125 se mantienen en la actualidad (junio de 2014). La paciente continúa tratamiento con ambos fármacos con excelente tolerancia, presentando tras 40 meses de tratamiento como únicas toxicidades HTA controlada mediante medicación antihipertensiva (monoterapia con enalapril) y trombopenia grado I mantenida sin repercusiones.

@@ -1,0 +1,28 @@
+Anamnesis
+Mujer de 40 años sin antecedentes medicoquirúrgicos de interés y exfumadora de 4,5 paquetes-año. Consulta en marzo de 2012 por un cuadro de 7 meses de evolución de dolor abdominal en hipocondrio derecho. En el último mes refiere náuseas, hiporexia y hematoquecia.
+Como antecedentes familiares refiere padre con cáncer de próstata a los 60 años y abuela paterna con cáncer de colon a los 83 años.
+
+Exploración física
+Buen estado general (ECOG 0). Presenta palidez cutánea sin signos de deshidratación. En la exploración abdominal destaca una hepatomegalia dolorosa de 4 cm por debajo del reborde costal. El resto de la exploración fue sin hallazgos patológicos.
+
+Pruebas complementarias
+» Hemograma: Hb = 10,5 g/dl, resto normal.
+» Bioquímica: destaca un aumento de las cifras de GOT = 54 U/l, FA = 171 U/l y GGT= 105 U/l.
+» Marcadores tumorales: CEA 1.526,4. CA 19,9 8.645.
+» Tomografía computarizada (TC) toracoabdominopélvica: destaca hepatomegalia con 6 LOE en parénquima sugestivas de metástasis, la mayor localizada en segmento VI y VII de 113 x 70 mm de diámetro.
+» Colonoscopia: a 30 cm se observa tumoración vegetante, dura y friable que estenosa la luz, impidiendo paso endoscopio, se toma biopsia. El resto de la exploración fue normal.
+» Anatomía Patológica (AP): adenocarcinoma bien diferenciado KRAS nativo.
+» Gastroscopia: dentro de la normalidad.
+
+Diagnóstico
+Adenocarcinoma de colon E-IV (metástasis hepáticas), KRAS nativo.
+
+Tratamiento
+Se decide tratamiento dentro del ensayo clínico PLANET, y la paciente es aleatorizada a la rama de folfiri/panitumumab.
+
+Evolución
+La paciente presenta respuesta parcial (RP) mantenida tras 4, 8 y 12 ciclos. Se presenta el caso en comité multidisciplinar, decidiéndose cirugía de las metástasis hepáticas. El 5/11/2012 se realiza resección limitada de las metástasis en segmentos 2, 2-3, 3 y 4b con ligadura portal derecha y el 11/12/2012 se realiza hepatectomía derecha con resección de la metástasis en segmento 4ª, con confirmación histológica de metástasis de adenocarcinoma, una de las lesiones con margen afecto. Posteriormente, completa 3 meses con FOLFIRI.
+En abril de 2013 se realiza sigmoidectomía laparoscópica con resultado AP de adenocarcinoma G1 pT3 N0 (12 adenopatías analizadas). En julio de 2013 se objetiva progresión de enfermedad a nivel hepático en PET/TC realizada tras presentar elevación de CEA. Se decide iniciar una 2ª línea de tratamiento con esquema FOLFOX/bevacizumab. Tras 6 ciclos presenta RP. Se presenta de nuevo en comité multidisciplinar decidiéndose administrar radiocirugía estereotáctica (SBRT) hepática. Recibe una dosis total de 45 Gy en 7 sesiones (3 sesiones por semana). Posteriormente inicia seguimiento.
+En abril de 2014 presenta una nueva progresión hepática irresecable, con una cifra de CEA = 296 ng/ml. Se decide reiniciar FOLFIRI/panitumumab (esquema que recibió en 1ª línea de tratamiento con respuesta al tratamiento). Tras 6 ciclos, presenta respuesta completa mantenida tras 12 ciclos por lo que en septiembre de 2014 se detuvo el tratamiento con QT.
+En enero de 2015, presenta nueva progresión de la enfermedad a nivel hepático y adenopatías retroperitoneales en PET/TC. Reinicia FOLFIRI/panitumumab, presentando tras 12 ciclos respuesta completa (RC) metabólica, por lo que se decide suspender tratamiento en junio 2015. En septiembre del mismo año presenta nueva progresión a nivel pulmonar y hepático, con imagen paraanexial hipermetabólica, con CEA 318, por lo que se reinicia FOLFIRI/panitumumab. Tras 6 ciclos con FOLFIRI/panitumumab presenta de nuevo RC metabólica. Tras 12 ciclos persiste RC hepática y pulmonar con normalización de CEA, persistiendo captación paraanexial derecha, por lo que se decide suspender la QT. En mayo de 2016 se realiza doble anexectomía + histerectomía vía laparoscópica, con resultado anatomopatológico de metástasis por adenocarcinoma intestinal con afectación ovárica bilateral con KRAS y NRAS exones 2,3 y 4 nativos, BRAF nativo, sin inestabilidad de microsatélites (MSI). En junio de 2016 en PET/TC presenta recidiva pulmonar, hepática, ganglionar interaortocava y en hilio hepático, con CEA > 1.000. Reinicia FOLFIRI/panitumumab de nuevo obteniendo una RP tras 6 ciclos y tras 12 ciclos una RC pulmonar y ganglionar con persistencia de 2 lesiones hepáticas, por lo que se decide en comité SBRT hepática. Sin embargo, en PET/TC solicitada durante la planificación de SBRT, se objetiva aumento de actividad metabólica de nódulos pulmonares conocidos y afectación ganglionar supra e infradiafragmática de nueva aparición, por lo que no se realiza dicha técnica y se inicia QT con FOLFOX/bevacizumab. Presenta RP mantenida tras 12 ciclos, suspendiéndose oxaliplatino por neurotoxicidad a partir del ciclo 11. Tras 18 ciclos, mantiene respuesta pulmonar y ganglionar y presenta progresión hepática, por lo que se decide en comité realizar SBRT hepática (dosis total de 45 Gy).
+En febrero de 2018 presenta progresión hepática, pulmonar y paraaórtica. Inicia tratamiento con TAS102. Tras 1 mes de tratamiento se objetiva empeoramiento franco de la función hepática secundario a progresión hepática. Se solicita RAS en sangre periférica siendo el resultado nativo por, lo que se decide, dada la rápida progresión, modificar el esquema de tratamiento a irinotecan/cetuximab. Actualmente ha recibido 2 ciclos de tratamiento con buena tolerancia (salvo rash cutáneo grado 1) con disminución de las cifras de transaminasas, GGT y FA.

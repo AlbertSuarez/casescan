@@ -1,0 +1,21 @@
+Anamnesis
+Varón de 63 años, fumador, que ingresa para estudio en febrero de 2011 ante la presencia de una masa inguinal izquierda, tos escasamente productiva, astenia y pérdida ponderal de 8 kg de un mes de evolución.
+
+Examen físico
+Destacaba la presencia de adenopatías duras y adheridas en la región laterocervical izquierda, supraclavicular izquierda e inguinal izquierda de hasta 1,5 cm de tamaño. Resto sin hallazgos de interés.
+
+Pruebas complementarias
+Se completa estudio con analítica sanguínea, donde destaca Hb 9,9 g/dl y VSG 120 mm, con serologías de VHC, VHB y VIH negativas. En la radiografía de tórax se aprecia engrosamiento hiliar bilateral junto con nódulo pulmonar en el lóbulo superior izquierdo. La tomografía computarizada (TC) confirma la presencia de adenopatías patológicas en mediastino y retroperitoneo, así como de una masa espiculada en el lóbulo superior izquierdo.
+Se realiza biopsia de la adenopatía cervical que confirma diagnóstico de linfoma B difuso de célula grande, así como punción aspirativa transtorácica de masa pulmonar, que es positiva para carcinoma epidermoide moderadamente diferenciado.
+
+Diagnóstico
+Linfoma no Hodgkin B difuso de célula grande estadio III B IPI 3.
+Carcinoma de pulmón no microcítico subtipo epidermoide estadio IIIA.
+
+Tratamiento
+Recibe tratamiento con esquema R-CHOP x 6 ciclos entre febrero y junio de 2011. En la PET-TC de reevaluación se objetiva respuesta completa de todas las lesiones ganglionares, excepto las de localización hiliar izquierda, así como progresión por aumento de tamaño de la tumoración pulmonar, que se estadifica como EIIIA (cT3cN1M0).
+Entre julio y agosto de 2011 recibe quimioterapia neoadyuvante con esquema CDDP 80 mg/m2 iv + vinorelbina oral 60 mg/m2 x 3 ciclos, seguido de lobectomía superior izquierda y linfadenectomía que confirma la afectación ganglionar en 1/14 ganglios aislados.
+
+Evolución
+En abril de 2012, tras 8 meses de intervalo libre de enfermedad, se detecta una masa de partes blandas en la parrilla costal izquierda, con biopsia positiva para carcinoma epidermoide. Tras descartarse resecabilidad por cirugía torácica, el paciente recibe tratamiento con esquema carboplatino AUC2-paclitaxel 80 mg/m2 iv semanal concomitante con radioterapia torácica, con respuesta completa radiológica.
+En seguimiento libre de progresión hasta febrero de 2013, cuando presenta crisis comicial, confirmándose en la resonancia magnética (RM) cerebral la presencia de metástasis cerebral única en el lóbulo temporal izquierdo, con resto de estudio de extensión negativo. Se remite a Neurocirugía para resección de la tumoración, con diagnóstico histológico de metástasis de carcinoma epidermoide. El paciente completa tratamiento con radioterapia holocraneal paliativa e inicia seguimiento que mantiene hasta la actualidad.

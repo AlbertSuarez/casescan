@@ -1,0 +1,24 @@
+Anamnesis
+Clínica exclusivamente neurológica de afasia mixta, cuyo diagnóstico por imagen presenta una masa primaria supratentorial de estirpe muy rara y altamente agresiva.
+Varón de 42 años sin alergias ni enfermedades relevantes. Refiere enolismo sin otros antecedentes. En las últimas 24 h su familia objetiva trastorno de la conducta sin emisión del lenguaje, acompañado de cefalea holocraneal. Acuden a Urgencias donde se realiza tomografía computarizada (TC) craneal, objetivándose proceso expansivo intracraneal, por lo que se deriva al Servicio de Neuroncología.
+
+Examen físico
+Afebril. Solo destaca anormalidad neurológica: Glasgow 14/15. Funciones intelectuales superiores preservadas. Afasia mixta. Pares craneales conservados con nistagmo horizontal. No presenta alteración sensitiva ni motriz. ROT presentes con aumento del área. Reflejo cutáneo-plantar indiferente bilateral. Romberg negativo. Sin signos meníngeos.
+
+Pruebas complementarias
+Analítica: serología VIH, toxoplasmosis, CMV, VHS 1, 2 y 6, VZ, EB, sífilis, Brucella y rubéola, negativos. Hematimetría, hemostasia y perfiles bioquímicos, normales.
+Líquido cefaloraquídeo (LCR): citología y bioquímica normal. Cultivos negativos. PCR micobacterias y herpes negativo.
+No visualización de bandas oligoclonales.
+Tomografía computarizada (TC) craneal: lesión tumoral frontal bilateral y ganglios basales izquierdos que se extienden hacia zona temporal izquierda con distribución vascular. Probable linfoma vs. glioma.
+Resonancia magnética (RM) craneal: atrofia difusa. Lesión córtico-subcorticales basal y parasagital frontal bilateral y temporal posterior izquierda, con aspecto de seudoinfarto con zonas de captación de disposición perivascular. Primera posibilidad diagnóstica: linfoma cerebral primario perivascular.
+Anatomía patológica (AP) de biopsia estereotáxica: proliferación de células granulares de aspecto neoplásico (Ki-67 5 %). Extensamente positiva para CD68 y lisozima. Se encuentra positividad focal anómala para proteína ácida fibrilar glial (GFAP). Se presentan dudas histológicas, por lo que se completa estudio con IDH1 positivo. Primera posibilidad diagnóstica: astrocitoma granular de grado II. Estudio genético: pérdida del cromosoma 1p/19q.
+
+Diagnóstico
+Astrocitoma granular de grado II de localización frontotemporal izquierda.
+
+Tratamiento
+Debido a la localización y a la extensión tumoral, se desestima cirugía. Se administra radioterapia (60 Gy en 30 fracciones) concomitante con temozolomida 75 mg/m2 al día.
+
+Evolución
+En el curso del tratamiento, el paciente comienza con crisis convulsivas y agnosia táctil, realizándose TC craneal de revaluación en la que se objetiva extensión de la masa al lóbulo parietal izquierdo, considerándose progresión de la enfermedad. Se realiza nueva biopsia estereotáxica, visulizándose astrocitos poco diferenciados con proliferación microvascular y necrosis, con foco de glioblastoma multiforme.
+El paciente es éxitus al mes del iniciar el tratamiento.

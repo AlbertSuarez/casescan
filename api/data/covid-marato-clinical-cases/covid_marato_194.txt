@@ -1,0 +1,28 @@
+Anamnesis
+Varón de 68 años con los antecedentes de interés de diabetes mellitus y dislipemia. Nunca fumador.
+Acude en enero de 2014 a un centro privado por un cuadro de 20-25 días de cefalea y olvidos frecuentes. Allí se le realiza, entre otras pruebas, una RM cerebral, donde se evidencia una voluminosa lesión quística frontal izquierda con ligero efecto de masa sobre estructuras intracraneales, sugestiva de depósito secundario.
+
+Examen físico
+Paciente estable.
+Consciente y orientado en las tres esferas. Pares craneales conservados. Ligera inestabilidad que condiciona el uso de silla de ruedas. Fuerza y sensibilidad conservadas y simétricas. No dismetría ni disdiadococinesia.
+Resto de la exploración sin interés.
+
+Pruebas complementarias
+En este contexto acude a nuestro centro para completar estudios. Se realiza una tomografía computarizada de cuerpo entero, donde se describen una lesión nodular exofítica en el polo inferior del riñón derecho (caracterizada por ecografía como quiste simple) y una esclerosis de C7 (valorada por resonancia magnética y concordante con origen degenerativo).
+
+Diagnóstico
+Intervenido el 21 de febrero por Neurocirugía para biopsia de la lesión frontal, con el diagnóstico anatomopatológico de adenocarcinoma. Fragmentos de tejido cerebral infiltrados por adenocarcinoma, con hallazgos morfológicos e inmunohistoquímicos concordantes con metástasis de origen pulmonar.
+El perfil inmunohistoquímico de las células neoplásicas es: CKAE1-AE3 positivo difuso e intenso, GFAP negativo, EMA negativo, CK7 negativo, CK20 negativo, CDX2 negativo, PSA negativo, TTF1 positivo difuso e intenso, concordante con metástasis de adenocarcinoma.
+EGFR: no mutado
+ALK: no traslocado.
+Juicio diagnóstico inicial: metástasis cerebral de origen desconocido.
+Se realiza una PET para completar la estadificación, pues a pesar de ser una lesión sugestiva de origen pulmonar, no se evidencian lesiones en el pulmón en la TC. En la PET no se describen tampoco captaciones a nivel pulmonar ni mediastínico. Se describen sin embargo hallazgos en la próstata y una adenopatía iliaca externa izquierda sospechosos de malignidad desde el punto de vista metabólico.
+Interconsultado el Servicio de Urología, se lleva a cabo biopsia de la próstata con el resultado, en 5 de los 9 cilindros obtenidos, de adenocarcinoma acinar Gleason 8. En el panel inmunohistoquímico desarrollado para caracterizar dicha neoplasia prostática destaca, entre otros, una tinción fuertemente positiva para PSA. El PSA sérico era de 6,5 ng/ml.
+
+Tratamiento
+El paciente fue remitido a consulta de Radioterapia a finales de marzo de 2014, donde ha completado tratamiento sobre el lecho tumoral cerebral, en total 40 Gy.
+Cuando acude a nuestra consulta se decide, de acuerdo con el Servicio de Radioterapia, tratamiento del cáncer de próstata con radioterapia radical, realizando previamente un bloqueo androgénico completo como terapia neoadyuvante.
+
+Evolución
+Actualmente está pendiente de iniciar tratamiento neoadyuvante de bloqueo androgénico.
+Tras la RT sobre la lesión cerebral se encuentra completamente asintomático. La clínica neurológica de inestabilidad ha mejorado por completo.

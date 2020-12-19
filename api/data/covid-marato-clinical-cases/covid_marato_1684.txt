@@ -1,0 +1,22 @@
+Anamnesis
+Mujer nuligesta de 64 años de edad, sin antecedentes de interés, que en 11/2007 consulta a Ginecología por molestias abdominales difusas en hipogastrio, sin otras síntomas asociados.
+
+Examen físico
+Regular estado general. ECOG 1. Abdomen poco distendido, doloroso a la palpación profunda en hipogastrio con semiología ascítica no a tensión y sin signos de irritación peritoneal.
+
+Pruebas complementarias
+Analítica: destaca elevación de Ca19-9 y CEA.
+Ecografía ginecológica: ovario derecho de 113 x 89 x 52 mm, con áreas dishomogéneas y formación de neovasos, compatible con neoplasia de ovario derecho.
+Mamografía bilateral: hallazgos benignos B-2.
+Citología cérvico-vaginal y líquido ascítico: negativas.
+
+Diagnóstico
+Se realiza laparotomía exploradora visualizándose tumoración anexial derecha de 11 cm que se extirpa y analiza. Se realiza histerectomía total con anexectomía bilateral.
+AP intraoperatoria: metástasis de adenocarcinoma con células en anillo de sello que infiltra masivamente ambos ovarios (tumor de Krukenberg), parametrios, linfáticos y mesorrecto. Endometrio atrófico. Cérvix sin alteraciones.
+Se revisa tubo digestivo, encontrándose masa infiltrante en curvadura menor de 8 cm de diámetro, que afecta a drenaje linfático sin infiltrar retroperitoneo. Implante peritoneal en mesorrecto. La AP definitiva confirma los hallazgos intraoperatorios de un tumor de Krukenberg. HER-2 negativo, lo que lleva al diagnóstico de adenocarcinoma gástrico estadio IV (tumor de Krukenberg).
+
+Tratamiento
+En estudio de extensión se objetiva afectación ósea e inicia 1.ª línea de quimioterapia con docetaxel + capecitabina + cisplatino y bifosfonatos. Tras 6 ciclos, se suspenden cisplatino y docetaxel por toxicidad hematológica y neurológica de grados 3-4, manteniendo capecitabina y bifosfonatos hasta completar 16 ciclos. En ese momento, la paciente presenta eritrodisestesia palmo-plantar de grado 3 tóxica, con enfermedad estable según criterios RECIST, por lo que se decide iniciar seguimiento estrecho. 2 años después refiere dolor en MII secundario a progresión ósea, recibiendo radioterapia antiálgica sobre lesión osteolítica en fémur proximal izquierdo a dosis total de 30 Gy. Al finalizarla, se confirma progresión pulmonar, iniciando segunda línea con esquema EOX, recibe 2 ciclos con mala tolerancia, por lo que se suspende y se decide tratamiento de soporte exclusivo.
+
+Evolución
+Bajo un enfoque multidisciplinar desde el diagnóstico se ha logrado un tiempo libre de progresión de 2 años. Finalmente, la paciente requiere ingreso hospitalario por disnea asociada a linfangitis carcinomatosa, no controlándose con tratamiento sintomático, falleciendo 4 años después del diagnóstico.

@@ -1,0 +1,29 @@
+Anamnesis
+Varón de 64 años, con antecedentes de neumotórax espontáneo a los 40 años, exfumador desde entonces. Sin alergias medicamentosas conocidas.
+Fue diagnosticado en noviembre de 2011 de un melanoma nodular maligno en LA región pectoral derecha. Se realizó exéresis completa y linfadenectomía axilar derecha. Tras realizar el estudio de extensión, se estadificó como: pT4b pN2a cM0 (Estadio III) y recibió tratamiento adyuvante con interferón alfa-2b a altas dosis durante un año.
+En julio de 2013, la tomografía computarizada(TC) de seguimiento detectó nódulos pulmonares y una lesión nodular dependiente de la pared de la vesícula biliar, compatibles con metástasis. Se solicitó estudio molecular en la pieza de anatomía patológica, detectándose mutación V600E de BRAF. Inició tratamiento con vemurafenib a dosis de 960 mg c/12 horas. Durante el primer mes de tratamiento presentó fotosensibilidadgrado IIy astenia grado III, por lo que se suspendió temporalmente el fármaco y se reintrodujo a dosis de 720 mg c/12 horas.Posteriormente fue necesario disminuir nuevamente la dosis hasta el 50% debido a hiperbilirrubinemia grado III.
+
+Después de 9 meses con respuesta parcial mantenida con vemurafenib, en abril de 2014 presentó progresión a nivel de la metástasis intravesicular. Se consideró al paciente candidato para tratamiento con ipilimumab y recibió los cuatro ciclos previstos a dosis de 3 mg/kg c/21 días, sin desarrollar toxicidad aguda. La TC de reevaluación objetivó respuesta parcial a nivel pulmonar y respuesta completa de la lesión intravesicular.
+Un mes después de la última dosis de ipilimumab el paciente acudió a urgencias porpresentar un cuadro clínico de 4 días de evolución consistente en cefalea frontal, de leve intensidad (EVA 4). Refería además astenia intensa y nÁuseas desde hacía aproximadamente 2 semanas.
+
+Exploración física
+ECOG 1. Hemodinámicamente estable. En el examen físico general y neurológico completo no se encontró focalidad a ningún nivel.
+
+Pruebas complementarias
+De forma urgente se realizó:
+» TC cerebral con contraste: sin hallazgos patológicos.
+» Hemograma y bioquímica sanguínea incluyendo ionograma, función renal y pruebas de función hepática, que fueron normales.
+Fue dado de alta con analgesia de primer escalón como tratamiento. Inicialmente la clínica mejoró, pero una semana después acudió a control ambulatorio refiriendo persistencia de cefalea de iguales características. En la analítica rutinaria destacó únicamente hipotiroidismo secundario de nueva aparición. Se decidió completar EL estudio con:
+» Resonancia magnética (RM) cerebral-selar con gadolinio: No se objetivaron captaciones patológicas. Hipófisis de tamaño, morfología y situación normalES.
+» Pruebas de función hormonal hipofisiaria.
+
+Diagnóstico
+Panhipopituitarismo secundario a hipofisitis autoinmune (HA) por ipilimumab.
+
+Tratamiento
+En coordinación con el servicio de endocrinología se pautó tratamiento inmediato con prednisona a dosis inicial de 1 mg/kg/día. Tras sustituir adecuadamente el eje corticotropo, se pautó levotiroxina 50 mcg/día.
+
+Evolución
+Se realizó una anamnesis más dirigida, en la que el paciente refirió además disfunción eréctil de 2 meses de evolución y aumento subjetivo de la diuresis diaria. La presencia de panhipopituitarismo se confirmó por la evidencia bioquímica de hipogonadismo hipogonadotropo, insuficiencia suprarrenal e hipotiroidismo secundarios.La monitorización de la diuresis y osmolaridad sanguínea y urinaria descartaron una diabetes insípida central (DIC).
+Después de una semana de iniciada la corticoterapia el paciente presentó mejoría clínica significativa de la astenia y desaparición de la cefalea. Se realizó una pauta descendente de corticoides durante un mes y se pautó dosis sustitutiva de los ejes afectados (hidrocortisona 30 mg/día, levotiroxina 25 mcg/día y testosterona trimestral).
+Ocho meses después, en febrero de 2015, a pesar de la respuesta inicialmente obtenida con ipilimumab, se objetivó nuevamente progresión metastásica y el paciente falleció como consecuencia de un hemoneumoperitoneo secundario a perforación de la metástasis en la vesícula biliar.

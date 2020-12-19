@@ -1,0 +1,26 @@
+Anamnesis
+Paciente mujer de 50 años que acudió al Servicio de Urgencias por un cuadro de 3 semanas de duración de cefalea holocraneal de predominio frontal que no respetaba el descanso nocturno, vértigos, náuseas y vómitos que no cedían con tratamiento farmacológico. Su esposo refería asimismo encontrarla más somnolienta de lo normal. Seis meses antes tuvo un cuadro vertiginoso que se catalogó de periférico y que cedió adecuadamente con tietilperazina oral.
+Entre sus antecedentes personales destaca hipertensión arterial y hemocromatosis. Intervenida de herniorrafía inguinal derecha y de ligadura de trompas. No tiene hábitos tóxicos ni alergias medicamentosas conocidas. Entre sus antecedentes familiares destaca diabetes mellitus tipo 2 en madre y padre.
+
+Exploración física
+Buen estado general. Normohidratada y normoperfundida. Eupneica en reposo. Consciente, orientada y colaboradora.
+Auscultación cardiorrespiratoria: tonos rítmicos sin soplos auscultables. Murmullo vesicular conservado.
+Abdomen blando y depresible. No es doloroso. Sin masas ni megalias. Sin signos de defensa ni peritonismo. Ruidos hidroaéreos conservados y normales.
+Miembros inferiores sin edemas y pulsos conservados.
+Exploración neurológica: pupilas isocóricas y normorreactivas a luz y acomodación. Movimientos oculares extrínsecos conservados. Pares craneales conservados, excepto cierta posible parálisis facial izquierda. Sin pérdidas de fuerza y sensibilidad en ninguno de los cuatro miembros. Reflejos osteotendinosos simétricos y normales. Sin dismetrías ni disdiadococinesia. Romberg negativo.
+
+Pruebas complementarias
+Se realizó por ello una TC urgente que informó de la existencia de una lesión compatible con tumor de origen gliomatoso en área temporal derecha con efecto masa sobre la línea media. Se derivó por ello esa misma tarde de forma urgente al Hospital para valoración por Neurocirugía. Fue ingresada y se completó el estudio con RM.
+
+Diagnóstico
+La paciente fue intervenida el día 18/10/2011 con craneotomía derecha y resección R2 de la tumoración guiada por 5-aminolevulinato. Se implantaron 8 obleas de carmustina en el lecho quirúrgico. La Anatomía Patológica de la pieza quirúrgica fue informada como: glioblastoma multiforme (grado IV de la WHO) con un Ki67 del 10 %, p53 negativo, PGFA +++, S100 ++ y vimentina +.
+
+Tratamiento
+Tras ello fue derivada al Servicio de Oncología, comenzándose tratamiento adyuvante RT-QT siguiendo el régimen Stupp que comenzó el día 11 de noviembre de 2011. El día de Navidad de ese mismo año acudió a Urgencias por un cuadro convulsivo consistente en crisis tónico-clónicas y alucinaciones. Se realizó una TC donde se objetivó cierto sangrado de los restos tumorales sin efecto masa y burbujas de gas en el lecho quirúrgico. Se intensificó la corticoterapia y se pautó levetiracetam y haloperidol. Tras ello, se realizó una RM que objetivó aumento de tamaño de los restos tumorales siendo compatible con progresión tumoral a 9 días de finalizar la RT. A pesar de ello, se decidió continuar la adyuvancia con TMZ en monoterapia. Una vez finalizada la adyuvancia con TMZ se realizó un control por RM, que en mayo de 2012, evidenció un mayor edema circundante a los restos tumorales y fue nuevamente informada como progresión tumoral.
+La paciente continuó en seguimiento estrecho, dado que a pesar de que las RM fueron informadas como progresión tumoral, existían dudas de la misma. En noviembre de 2012, se realizó una nueva RM de control en la que se objetivó una progresión manifiesta, ya que los restos de tumorales presentaban efecto masa asociado sobre las estructuras ventriculares vecinas. Se decidió por ello iniciar tratamiento con bevacizumab a 7,5 mg/kg cada 4 semanas a principios de 2013.
+
+Evolución
+En abril de ese mismo año se realizó una RM de control que objetivó regresión parcial de la enfermedad respecto a los estudios previos. Las pruebas de imagen de control realizadas en los meses siguientes informaban como respuesta parcial y estabilización de la enfermedad hasta que en una RM realizada en marzo de 2016 se concluyó tras la realización de estudios espectroscópicos que el resto tumoral que parecía observarse en la región periatrial derecha correspondía con lesión no tumoral. Se trató por tanto de una respuesta completa mantenida durante varios años. En octubre de 2016 se decidió suspender bevacizumab.
+En esta época, el estado general de la paciente era muy bueno, presentando un ECOG 0 y haciendo una vida completamente normal. Durante los casi 4 años de tratamiento con bevacizumab, la paciente no presentó ningún efecto secundario relacionado con el mismo como hipertensión o proteinuria. En 2016, ante la incredulidad del caso y de los resultados se realizó una PET-colina que informaba como ausencia de actividad tumoral en la región sospechosa.
+Sin embargo, en febrero de 2017, la paciente comenzó con dolor en la mama derecha. En julio de ese mismo año se descubrió en un estudio mamográfico lo que resultó ser un carcinoma ductal infiltrante multicéntrico positivo para receptores estrogénicos y HER-2 negativo. Se realizó mastectomía derecha sin complicaciones y se pautó tamoxifeno adyuvante por 5 años.
+En la actualidad, la paciente presenta un estado general muy bueno y continúa en respuesta completa mantenida de su glioblastoma multiforme.

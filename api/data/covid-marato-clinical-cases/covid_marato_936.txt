@@ -1,0 +1,29 @@
+Anamnesis
+Paciente de 44 años sin antecedentes patológicos ni familiares de interés. Fumador desde los 22 años (índice de paquetes/año: 10).
+Inicia estudio en junio de 2015 a raíz de episodios de hematuria recidivante con eliminación de coágulos, importante dolor en región pélvica y fosa iliaca derecha y síndrome constitucional con pérdida de 10 kg de peso en los últimos 6 meses. Se realiza ecografía de aparato urinario en la que se objetiva hidronefrosis bilateral.
+En la cistoscopia se objetiva ocupación de cara anterior, cara lateral izquierda y trígono vesical por una lesión de aspecto sólido e infiltrante (7 x 6 cm), que no permite visualizar los meatos. Se toman biopsias y se lleva a cabo resección de la lesión en profundidad mediante resección transuretral (RTU), sin lograr resección completa.
+Se solicita estudio de extensión y es derivado a las consultas de Oncología Médica para valoración.
+
+Exploración física
+»Regular estado general. Bien hidratado y perfundido. Palidez mucocutánea. Caquexia tumoral.
+»Cavidad oral: mucosa oral con sequedad importante. Sin lesiones destacables.
+»Auscultación cardiopulmonar: latido cardiaco rítmico, sin soplos audibles. Murmullo vesicular conservado, sin ruidos sobreañadidos.
+»Abdomen: ruidos hidroaéreos conservados, de características normales. Blando, depresible, no doloroso durante la palpación. No hay masas ni organomegalias, ni datos de peritonismo.
+»Extremidades inferiores sin datos de trombosis venosa profunda. Sin edemas.
+»Piel: dos lesiones cutáneas en tronco (1 x 1,5 cm y 1 x 1 cm) y una lesión en flanco izquierdo (1 x 1 cm), de consistencia pétrea y aspecto eritematoso. No son dolorosas en la palpación.
+
+Pruebas complementarias
+»Analítica: Cr 0,9.
+»Tomografía computarizada (TC) toracoabdominopélvica que confirma engrosamiento vesical y describe la presencia de múltiples adenopatías pélvicas y retroperitoneales.
+
+Diagnóstico
+El resultado anatomopatológico de la RTU es compatible con carcinoma urotelial de alto grado (pT2G3) que infiltra toda la capa muscular y muestra focos de invasión vascular.
+
+Tratamiento
+Ante diagnóstico de carcinoma urotelial de vejiga de alto grado estadio IV se propone participación dentro de ensayo clínico, donde el paciente recibe una combinación de fármacos dirigidos contra PD-L1 y CTLA-4.
+
+Evolución
+Tras los dos primeros ciclos de tratamiento, el paciente presenta franco deterioro de su situación basal (ECOG performance status 2) y caquexia extrema. Durante la exploración física destaca importante progresión de las lesiones cutáneas. Debido a progresión radiológica y clínica, se decide iniciar segunda línea con carboplatino AUC 4,5 + gemcitabina 1.000 mg/m2 d1,8/21.
+Tras la administración de la primera dosis de tratamiento, el paciente acude a la consulta refiriendo aumento del perímetro de miembro inferior izquierdo (MII), asociado a eritema, aumento de la temperatura local, dolor y dificultad para la deambulación. La ecografía Doppler confirma la sospecha clínica de trombosis venosa profunda aguda en vena iliaca externa y femoral común izquierda. Ante este hallazgo, se inicia anticoagulación a dosis terapéuticas con tinzaparina 10.000 UI sc/24 h (ajustado a peso del paciente).
+Al terminar el primer ciclo, el paciente refiere mejoría clínica con disminución de los nódulos subcutáneos. Tras 3 ciclos de quimioterapia, la TC de reevaluación muestra respuesta parcial (RP) según criterios Response Evaluation Criteria In Solid Tumors (RECIST) 1.1. Además, en la exploración física se constata importante mejoría de las lesiones cutáneas, persistiendo únicamente hiperpigmentación residual en todas las zonas afectadas previamente.
+Actualmente, tras 6 ciclos de tratamiento, el paciente presenta resolución completa de las lesiones cutáneas, respuesta parcial mayor de las adenopatías y franca mejoría de su situación clínica, realizando vida activa.

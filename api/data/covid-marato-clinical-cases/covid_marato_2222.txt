@@ -1,0 +1,23 @@
+Antecedentes Personales: Varón de 36 años . Buena salud habitual. No alergias medicamentosas. No tratamiento habitual. Fumador de 10 paquetes/año. Bebedor leve. Casado y comercial de material electrónico.
+
+Anamnesis: En noviembre de 2014 comienza con fiebre de 38º, no tos, no expectoración, por lo que acude al S. de Urgencias, se le practica Rx de tórax que pone de manifiesto masa en lóbulo superior derecho (LSD) de pulmón.
+
+Exploración física
+ECOG 0. Anodina.
+
+Pruebas complementarias
+Analítica General (15-12-16): CEA 23.1, CA 19.9 199, HIV negativo. TC (Tomografia computarizada) Tórax-abdomen-pélvis (15-12-14): Masa en LSD de 49 mm. Adenopatías mediastínicas paratraqueales derechas, hiliar ipsilateral y subcarinal (10mm). Quistes simples hepáticos segmentos V, VI, VII. Broncoscopia (16-12-14): Normal. Broncoaspirado y cepillado: Negativo BAG de masa de LSD guiada por TC (22-12-14): Adenocarcinoma de pulmón. EGFR nativo, ALK traslocado por IHQ y FISH. PET TC (Tomografia por emisión de positrones) (29-12-14): Masa en LSD de 3.4x4.6x3.3 cm con SUV 16.32. Adenopatía mediastínica derecha alta 8 mm. SUV 5.15 Adenopatía prevascular 7 mm. SUV 3.05.
+Adenopatía paratraqueal derecha alta 8 mm SUV 4.86, adenopatía paratraqueal derecha baja 10 mm SUV 8.01, adenopatía hilar derecha SUV 5.34. En segmentos IV-V hepáticos imágenes hiperactivas con SUV 3.06 y 3.09.
+Ecografia abdominal (02-01-15): Quistes simples hepáticos en segmentos 5 y 6.
+Resonancia Magnetica hepática (07-01-15): Quistes hepáticos segmentos V, VI, VII, VIII.
+Ecobroncoscopia (12-01-15): adenopatía menor de 1 cm en niveles 2R con punción negativa, adenopatía 4R positiva para adenocarcinoma.
+TC craneal (29-01-15): Normal.
+
+Diagnóstico
+El 26-01-15 es remitido a nuestro servicio,con diagnóstico de Adenocarcinoma de pulmón LSD, T2a-N2-(hiliares y mediastínicas ipsilaterales), M0 Estadio III-A. EGFR Nativo, ALK traslocado.
+
+Tratamiento
+Iniciamos tratamiento con CRIZOTINIB 250 mg cada 12 horas de forma contínua.
+
+Evolución
+Tras 1 mes de tratamiento se realiza TC de re-evaluación (04-03-15) reducción de la masa de LSD en rango de respuesta parcial, respuesta completa de adenopatías paratraqueales derechas y respuesta parcial de adenopatía hiliar derecha y subcarinal. Presenta como efectos secundarios alteraciones visuales en forma de aura de predominio vespertino. Tras 2.5 meses de tto. con CRIZOTINIB se realiza PET TC (13-04-15): se objetiva respuesta completa metabólica de adenopatías mediastínicas e hiliares con respuesta parcial del tumor. Ante esta respuesta se remite al paciente a S. de Cirugía Torácica de Salamanca para valoración quirúrgica previa realización de mediastinoscopia. El 28-04-15 se realiza mediastinoscopia de niveles 4L, 4R y 7: Negativa. El 19-05-15 se realiza lobectomia de LSD y linfadenectomia de 4R y 7 por videotoracoscopia: ypT1a (15 mm)- pN0-M0. Se administra radioterapia complemetaria (Inicio 25-08-15// Fin 30-09-15) DT 54 Gy en 27 fracciones. Efectos secundarios: hemoptisis, odinofagia y dermitis G-1. El 23-02-16 se realiza TC TAP: sin evidencia de enfermedad.

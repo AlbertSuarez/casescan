@@ -1,0 +1,26 @@
+Anamnesis
+Mujer de 55 años que presenta como antecedentes personales relevantes hábito tabáquico. Trabajó en una agencia de seguros. No refiere antecedentes familiares de interés. Como único tratamiento habitual toma lorazepam 1 mg a demanda.
+En marzo de 2015 acude a la consulta de Dermatología por una lesión en costado izquierdo de más de 10 años de evolución, que progresivamente en los últimos meses aumenta de tamaño, cambia de color y sangra. Se realiza exéresis, siendo la anatomía patológica (AP) compatible con melanoma maligno grado III de Clark, 2,7 mm de Breslow, 2,8 mm de ulceración, 11 mit/mm2 y satelitosis. La ampliación de márgenes fue negativa pero la biopsia del ganglio centinela resultó positiva, por lo que se realizó linfadenectomía en mayo de 2015, objetivándose linfangitis reactiva en los 19 ganglios aislados.
+
+Exploración física
+La paciente presentaba ECOG 0. Durante la exploración física, destaca una lesión en costado izquierdo, de coloración negruzca y sangrante al tacto.
+
+Pruebas complementarias
+En el estudio de extensión realizado mediante TC toracoabdominopélvica no se demuestra enfermedad a distancia.
+
+Diagnóstico
+Con el diagnóstico de melanoma maligno en costado izquierdo pT3b pN3 cM0, estadio IIIC de la AJCC 7ª edición, acude a la consulta de Oncología Médica en junio de 2015.
+
+Tratamiento
+Se propone tratamiento adyuvante con interferón (IFN) a altas dosis, que recibe desde junio hasta agosto de 2015.
+
+Evolución
+Precisó reducción de dosis por toxicidad hepática grado 3 y náuseas grado 2. Se suspende el tratamiento a petición de la paciente por mala tolerancia psicológica e inicia seguimiento por parte de Oncología y Dermatología.
+En octubre de 2015, se evidencia en la exploración física una adenopatía axilar izquierda, confirmando su origen metastásico de melanoma por ecografía con punción. Se completa estudio de extensión con PET-TC, objetivándose recidiva de la enfermedad a nivel ganglionar axilar izquierdo y una lesión de partes blandas en costado izquierdo.
+A finales de noviembre de 2015, se lleva a cabo re-linfadenectomía axilar izquierda y resección del nódulo en costado izquierdo. En este momento, se solicita mutación BRAF, la cual es positiva para V600E.
+En enero de 2016 presenta de nuevo recidiva axilar izquierda, evidenciándose en este momento también nódulos subcutáneos en hemitórax izquierdo y metástasis óseas (7º arco costal, D11, 12, L3 e iliaca derecha).
+En dicho momento, la paciente presentaba un ECOG 0 y se encontraba asintomática, por lo que se decide tratamiento con la combinación de un inhibidor BRAF y un inhibidor MEK. El S100 basal era de 0,108 (rango normalidad: 0,005-0,105) y la LDH normal (rango normalidad 135-250). Se inicia tratamiento con dabrafenib 150 mg cada 12 horas en febrero 2016. Se añade trametinib 2 mg cada 24 horas en marzo de 2016.
+En las pruebas de reevaluación tras 3 meses de tratamiento, se objetiva respuesta parcial de la enfermedad tanto ganglionar como ósea, y normalización del S100, persistiendo LDH normal. Como efectos adversos destacables presentó pirexia, paniculitis, cefalea y náuseas. Tras un cuadro de emesis acompañado de diarrea grado 2 y pirexia complicada con cuadro infeccioso de vías altas, con empeoramiento del estado general, se decide suspender el tratamiento en julio de 2016. La PET-TC de agosto de 2016 demuestra respuesta completa, por lo que inicia seguimiento.
+Desde septiembre de 2016 se objetivan varias recidivas nodulares subcutáneas que se tratan quirúrgicamente, hasta que en noviembre de 2016 en la TC presenta un nódulo craneal en cápsula interna, metástasis pulmonares, hepáticas múltiples, líticas óseas y aumento de los nodulillos subcutáneos en región pectoral superior izquierda, tejido mamario, y región axilar izquierda. El marcador S100 se eleva de nuevo (S-100: 0,903), así como la LDH (308).
+Dado que la paciente mantiene ECOG 1, en diciembre de 2016 se decide reiniciar tratamiento con doble inhibición, en este caso con la combinación de cobimetinib-vemurafenib, por el diferente perfil de toxicidad y la buena respuesta previa a inhibidores. A las 3 semanas presenta rash grado 3 y diarrea grado 1, lo que obliga a suspender el tratamiento durante 21 días, e instaurar tratamiento esteroideo y antibiótico. En enero de 2017, se reinicia la doble inhibición con dosis reducidas según ficha técnica.
+En marzo de 2017 se objetiva respuesta parcial clínica y radiológica a todos los niveles. Persiste con ECOG 1 y, como efectos adversos, rash grado 1 y artralgias grado 1. Actualmente, a fecha de junio de 2017, continúa con el tratamiento, y mantiene la respuesta tanto clínica como radiológica en última TC realizada en mayo 2017. El S100 persiste ligeramente elevado (0,165) mientras que la LDH ha disminuido progresivamente (266).

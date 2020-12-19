@@ -1,0 +1,22 @@
+Anamnesis
+Mujer de 48 años, sin alergias medicamentosas conocidas, que en 2005 consultó por induración en mama derecha de 1 mes de evolución junto a mastodinia. Como antecedentes: menarquia a los 11 años, fórmula menstrual habitual 5/28, perimenopáusica, paridad G4-P3-A1, primer embarazo a los 22 años, tratamiento contraceptivo con etinilestradiol durante 5 años, mastopatía fibroquística con exéresis de quiste mamario benigno en 2000; y como antecedentes familiares destacaba el fallecimiento de su madre por cáncer de mama a los 52 años.
+
+Examen físico
+Mamas: induración ovalada de 20 mm en cuadrante superior externo en la mama derecha, mal delimitada, dura, elástica, fija a glándula y con discreta atrofia del tejido celular subcutáneo. No se observaba retracción del pezón ni telorrea ni alteraciones de la piel suprayacente. No se palpaban adenopatías axilares.
+
+Pruebas complementarias
+Ecografía de mama: nódulo sólido de 9 x 5 mm en cuadrante súpero-externo de mama derecha. BI-RADS 4. Valorar exéresis vs. BAG del nódulo.
+Biopsia con aguja gruesa (BAG): hallazgos compatibles con carcinoma infiltrante.
+
+Diagnóstico
+Tumorectomía ampliada con biopsia selectiva del ganglio centinela y vaciamiento axilar al resultar esta positiva. Con resultado anatomopatológico de carcinoma ductal infiltrante (CDI) de 1 cm con bordes tumorales infiltrantes, reacción estromal desmoplásica, SCARF D3-P2-M2; y una metástasis ganglionar subcapsular en el ganglio centinela de los 13 aislados. Inmunohistoquímicamente (IHQ), receptores de estrógeno (+++); de progesterona (++); HER2 negativo.
+
+Tratamiento
+Ante CDI de mama pT1a pN1 (1+/13), estadio IIA hormonosensible, recibe quimioterapia (QT) adyuvante dentro de ensayo clinico con 4 ciclos de epirrubicina-ciclofosfamida, seguido de 4 ciclos de docetaxel; a continuación radioterapia (RT) y tamoxifeno, hasta abril de 2009 cuando se cambió a exemestano.
+
+Evolución
+En junio de 2011, asintomatica, CA15.3 a 116.6. PET-TC: adenopatías retroperitoneales, múltiples nódulos pulmonares bilaterales. Se realizó fibrobroncoscopia: infiltración por carcinoma. IHQ leve positividad para receptores estrogénicos (+), receptores para progesterona (-), y Ki67 del 20 %. Por ello inicia tratamiento para enfermedad metastásica con doxorrubicina liposomal pegilada y paclitaxel dentro de estudio. Tras 6 ciclos, remisión parcial y descenso en la fracción de eyección del ventrículo izquierdo (FEVI) 35 %, suspendiéndose antraciclinas, siguiendo paclitaxel monoterapia.
+En febrero de 2012, progresión hepática. Ca15.3 de 63. Neuropatía de grado 2 y disnea de moderados esfuerzos con FEVI 30 %, inicia vinorelbina oral. Tras 2.º ciclo ingresó en sala de Oncología Médica por neutropenia febril.
+En mayo de 2012, se objetiva nueva progresión con carcinomatosis peritoneal. Biopsia hepática: infiltración por carcinoma de mama triple negativo, por lo que inicia carboplatino + gemcitabina.
+En octubre de 2012, tras 6 ciclos, nueva progresión de la enfermedad, por lo que inicia eribulina. En mayo de 2013, tras 6 ciclos, tiene enfermedad estable por criterios RECIST, aunque con tendencia a la progresión pues existe líquido libre perihepático, no medible. Sigue tratamiento.
+Actualmente lleva 8 ciclos y ha ingresado por tromboembolismo pulmonar (TEP) bilateral con edema agudo de pulmón y shock cardiogénico, precisando fármacos vasoactivos.

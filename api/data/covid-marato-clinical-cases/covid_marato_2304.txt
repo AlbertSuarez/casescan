@@ -1,0 +1,30 @@
+Anamnesis
+Mujer con 68 años de edad diabética, obesa e hipertensa, con antecedentes personales de carcinoma epidermoide in situ de cérvix en el año 1996 intervenida quirúrgicamente y tratada con radioterapia (RT). Posteriormente, presentó obstrucción intestinal secundaria a enteritis rádica precisando hemicolectomía derecha con múltiples complicaciones secundarias (dehiscencia de anastomosis postquirúrgica, con ileostomía de rescate; en segundo tiempo se reconstruyó mediante anastomosis yeyunocólica y eventroplastia). Además, presentaba anemia leve normocítica en probable relación a patología de trastornos crónico.
+En el año 2016, refiere lesión localizada en el vértice craneal, de crecimiento rápido en los últimos 6 meses que ha sangrado de forma abundante con la fricción. Según la paciente, creía que tenía una lesión previa en esa misma zona (no sabía especificar si nevus).
+
+Exploración física
+Tumoración multilobulada en vértex de 4,5 cm, de consistencia firme en base y blanda en lóbulo más grande con costra hemorrágica en su base derecha. En el dermatoscopio no se apreció patrón melanocítico. Se palpan adenopatías retro e infraauriculares y occipitales de consistencia firme.
+
+Pruebas complementarias
+TC cervicotoracoabdominopélvica con CIV (agosto de 2015): a nivel cervical, se visualizaron adenopatías que captaron realce en niveles IIb bilaterales, en región posterior de ambas parótidas y retroauriculares derechas, todas ellas de más de 1 cm de diámetro. En el tórax, destacó la presencia de varios nódulos bilaterales de predominio izquierdo, compatibles con metástasis sin observarse adenopatías. A nivel de esqueleto, también había múltiples lesiones compatibles con metástasis algunas de ellas con masa de partes blandas asociadas (a nivel del 2º arco costal izquierdo, 5º arco costal y 6º arco costal derecho, hueso iliaco izquierdo y cuerpo vertebral D11).
+Anatomía Patológica: melanoma que mide 1 cm de profundidad (ocupa todo el espesor de la muestra). Estudio de mutación V600E: negativo.
+TC craneal (marzo de 2017): no se evidenciaban signos de sangrado intracraneal, con atenuación homogénea de la sustancia blanca y adecuada diferenciación corticosubcortical. No había lesiones ocupantes de espacio ni captación patológica meníngeas ni parenquimatosas.
+PET-TC (marzo de 2018): estudio realizado desde vértex hasta tercio superior de los miembros inferiores. No se apreciaban lesiones con claro incremento de actividad metabólica que sugieran enfermedad tumoral activa; únicamente se evidenció leve incremento del metabolismo en arco posterior de 5ª costilla derecha (SUVmax 1,6 vs. 1,3 contralateral), en correspondencia con TC localizadora con lesión mixta de muy dudosa significación para enfermedad tumoral activa. Conclusión: estudio sin clara evidencia de enfermedad macroscópica maligna desde el punto de vista metabólico.
+
+Diagnóstico
+Melanoma estadio IV mutación V600E negativa.
+
+Tratamiento
+Se le realizó biopsia e indicó curas locales de la lesión; derivándose al Servicio de Oncología, donde comienza en marzo de ese año con nivolumab (3 mg/kg cada dos semanas, pesaba 92 kg). Se le han administrado 47 ciclos de nivolumab.
+
+Evolución
+La paciente, tras el primer ciclo de inmunoterapia presentó disminución leve del tamaño de la lesión, que continúo mejorando hasta junio de 2016 (tras 6 ciclos de tratamiento) donde se objetivó respuesta completa a nivel local, por lo que se solicitó body-TC de reevaluación.
+Durante este tiempo, mantenía niveles de hemoglobina en torno a 8-8,5 mg/dl, por lo que se amplió con estudio de perfil de anemia, encontrándose ferropenia, para lo cual se pautó hierro y EPO (epoetina alfa). Además, presentó durante este tiempo mucositis oral y vaginal tras la toma de amoxicilina clavulánico por una infección faríngea y diarrea grado I que apareció a los 3 días del 10 ciclo (siendo dudosa la relación con el tratamiento).
+En la 1ª body-TC de reevaluación tras 10 ciclos de nivolumab (septiembre de 2016), se objetivó la desaparición de lesiones nodulares hipercaptantes en cuero cabelludo, así como disminución de adenopatías hipercaptantes periparotídeas. En cuanto a las lesiones óseas se observan varias lesiones blásticas, algunas de ellas con masa de partes blandas.
+La mujer se mantuvo clínicamente estable, sin pérdida de peso con ciertas complicaciones leves tras algunos ciclos:
+» Tras el ciclo 18, refirió sensación de escozor y ligera descamación en lesiones cutáneas milimétricas que no habían modificado el tamaño respecto a las previas y aparición de astenia grado I, a pesar de lo cual se continuó con el ciclo pautado, sin otra toxicidad relacionada con el tratamiento.
+» Tras el ciclo 27, empezó a comentar anorexia grado 1 por lo que se añadió al tratamiento suplementos nutricionales continuando con la inmunoterapia.
+» Tras el ciclo 30, nos indicó la aparición de diarrea grado I y prurito en cuero cabelludo, que se mantuvieron alrededor de un mes con resolución posterior.
+» A partir del ciclo 36, reaparecieron toxicidades leves como toxicidad cutánea y diarrea grado I; comenzando con alteraciones del ciclo sueño-vigilia.
+» No se han objetivado alteraciones analíticas hepáticas, manteniendo anemia en tratamiento con EPO con los máximos niveles evidenciados de 12,7 mg/dl, implicando una resolución de la misma a partir de ciclo 39.
+En lo referente a las TC de reevaluación (torac-abdominopélvica y craneal), se realizaron tres: la primera de ellas en marzo de 2017 (tras haber recibido 27 ciclos), la segunda en julio de 2017 (tras haber recibido 30 ciclos) y la tercera en octubre de 2017 (tras 38 ciclos) con enfermedad estable radiológicamente, sin evidencia de enfermedad a nivel cerebral. El tratamiento se finaliza tras dos años en marzo de 2018, y se realiza PET-TC detallada previamente, sin evidencia de enfermedad macroscópica maligna desde el punto de vista metabólico.

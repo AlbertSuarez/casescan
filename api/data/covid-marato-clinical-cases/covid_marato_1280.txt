@@ -1,0 +1,32 @@
+Anamnesis
+Paciente varón de 64 años con los siguientes antecedentes personales: bebedor de 100 g de etanol al día, HTA, diabetes sin tratamiento, dislipidemia, obesidad mórbida, depresión de varios meses de evolución, hiperuricemia con varios ataques de gota, cuperosis, síndrome del túnel carpiano, artrosis cervical y apnea del sueño en tratamiento con CPAP.
+Sus antecedentes familiares son los siguientes: madre con cáncer de mama a los 80 años. Dos tíos maternos cáncer de colón a los 57 y 73 años y tío materno con cáncer cerebral a los 40 y algún años. Primo materno cáncer gástrico y primo materno cáncer de colón. Tía materna con cáncer de pulmón.
+Como medicación habitual, el paciente toma trandolapril, verapamilo e hidroclorotiazida para su hipertensión arterial, omeprazol, AAS, estatina, sertralina alopurinol.
+En mayo de 2013, comienza con disfagia progresiva, picazón, pirosis, reflujo y un episodio aislado de hematemesis. Tras empeoramiento de la clínica y refractariedad al tratamiento farmacológico, su médico de Atención Primaria lo derivó a endoscopia, confirmándose la presencia de una tumoración por lo que fue derivado al Servicio de Cirugía, quienes completaron estudios cerrándose el diagnóstico de irresecabilidad por afectación ganglionar distancia. Se comentó el caso con el Servicio de Oncología Médica y se derivó para tratamiento con quimioterapia.
+
+Exploración física
+Exploración física sin hallazgos relevantes.
+
+Pruebas complementarias
+» Endoscopia: mucosa esofágica sin lesiones hasta tercio distal objetivando a 28 cm lesión tumoral con bordes irregulares friable que estenosa la luz de tubo esofágico que se extiende hasta línea Z a 38 cm, que se biopsia. Fácil sangrado al roce y la biopsia. Impresión diafragmática a 41 cm (límite para hernia de hiato).
+» TC: metástasis pulmonares, ganglionares mediastínicas y subcutáneas.
+» Anatomía patológica: inmunohistoquímica para sobreexpresión de HER-2 superior al 47 % (3+).
+
+Diagnóstico
+Adenocarcinoma de la unión gastroesofágica.
+
+Tratamiento
+Con el resultado de la Anatomía Patológica se establece el diagnóstico de adenocarcinoma de la unión gastroesofágica tipo intestinal de Laurent estadio IV Erb-2 +++, ya que la IHC mostraba una expresión proteica igual o mayor al 47 %. Presenta metástasis pulmonares desde julio/2013 con aparición posterior de metástasis ganglionares mediastínicas y subcutáneas.
+El paciente entra en el ensayo clínico FUPOCAN-HERXO.
+1ª Línea quimioterapia: capecitabina, oxaliplatino y trastuzumab entre el 09/08/2013 y el 25/08/2014.
+18 ciclos. Toxicidades: náuseas, disgeusia, anemia, astenia y neuropatía grado I. En TC del 09/09/2014 se aprecia progresión en el tumor primario.
+2ª Línea quimioterapia: inicia nueva línea con TDM1 dentro de ensayo clínico GASTBY entre el 03/10/2014 y el 29/05/2015. Toxicidades: anemia grado 1, trombopenia grado 1 y náuseas. Se suspendió por progresión objetivada en TC con fecha del 24/04/2015.
+3ª Línea quimioterapia: trastuzumab desde el 11/8/2015 y se asoció paclitaxel 17/02/2016 hasta 22/06/2016. Toxicidades: mucositis grado 1, cutánea grado 1 desencadenada probablemente por la exposición solar. Se suspendió por progresión objetivada en TC del día 04/02/2016 en la que se informa de progresión del tumor primario en tercio distal de esófago, de las adenopatías a nivel supraclavicular izquierda y pulmonar bilateral.
+4ª Línea quimioterapia: irinotecán y trastuzumab entre el 13/07/2016 y el 01/02/2017. Toxicidades: anemia ferropénica grado I, neutropenia y emesis grado II. Se aprecia progresión en TC del 02/02/2017, tanto de las metástasis pulmonares como de la tumoración primaria.
+Se incluye al paciente en el ensayo clínico TO-TAS y se inicia tratamiento con TAS 102 el 28/02/2017. Presentó como toxicidades astenia y náuseas grados II.
+En la TC del 28/04/2017 se aprecia progresión tumoral, con crecimiento de la masa tumoral del esófago distal. Mayor invasión del mediastino adyacente, sobre todo a la derecha del tumor con condensación del parénquima pulmonar adyacente, en el lóbulo medio, probablemente por infiltración directa.
+Las metástasis pulmonares también han crecido así como las adenopatías del hilio izquierdo y mediastínicas, incrementado en tamaño.
+Último ciclo de TAS102 el 18 de mayo de 2017.
+
+Evolución
+La afectación tumoral ha ido progresando a las diferentes líneas de tratamiento.

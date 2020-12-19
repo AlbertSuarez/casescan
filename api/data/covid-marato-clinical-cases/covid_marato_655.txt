@@ -1,0 +1,36 @@
+Anamnesis
+Alérgico a la penicilina
+- Ex-fumador desde febrero de 2014 (fumador de 30 cigarrillos/día). No hábito enólico.
+- Hipertrigliceridemia. No HTA, no DM.
+- No patología cardiaca, respiratoria ni digestiva.
+- Intervenciónes quirúrgicas: criptorquidia (orquidopexia a los 15 años).
+Masa testicular indolora en el teste izquierdo cuyo estudio concluye en orquiectomía por vía inguinal en junio de 2011. El diagnóstico es de tumor de células germinales seminomatoso (TCGS) estadio IIc sin elevación de marcadores.
+Tras la cirugía el paciente recibió 3 ciclos de BEP (bleomicina, etopósido y cisplatino), obteniendo una respuesta completa. Posteriormente, el paciente pasó a revisiones periódicas cada 3 meses con tomografías computarizadas semestrales sin hallazgos y con ausencia de síntomas.
+El día 8/1/2014 (2 años y medio después del diagnóstico inicial) acude a Urgencias de su hospital de referencia por parestesias en los miembros inferiores junto con paraparesia, estreñimiento y pérdida de control de esfínteres.
+Se realiza una resonancia magnética urgente de columna, que constata una lesión de extensión intra-extradural a nivel D6 con severo compromiso medular.
+
+Examen físico
+ECOG 1. Buen estado general.
+Peso: 71,6 kg. Talla: 1,78 metros. Consciente y orientado. Glasgow score 15/15.
+Auscultación cardiopulmonar sin hallazgos significativos.
+Abdomen sin hallazgos relevantes. Hipo-anestesia con nivel sensitivo D6 izquierdo y D8 derecho. Paraparesia con fuerza 4/5 bilateral en todos los grupos musculares. Reflejos osteotendinosos exaltados. Reflejo cutáneo-plantar extensor bilateral
+
+Pruebas complementarias
+- 20/2/2014: alfafetoproteína 2,5 nag/ml [1-20]. Gonadotropina coriónica beta 0,1 UI/l [0-5].
+- 17/1/2014: resonancia magnética de columna dorsal: lesión intradural-extradural extramedular a nivel D6 con severo compromiso medular (alto grado de compresión medular, desplazada a la derecha, crecimiento por agujero de conjunción D6-D7 izquierdo).
+
+Diagnóstico
+Tumor intra-extradural extramedular D6-D7 en paciente con historia de tumor de células germinales seminomatoso testicular intervenido en 2011.
+
+Tratamiento
+El paciente es trasladado a nuestro centro donde se procede a cirugía urgente mediante incisión medial centrada en D6 y laminectomía. Se objetivó una lesión epidural con compromiso medular que se introducía por el foramen D6-D7 izquierdo. Tras la resección de la porción extradural se introduce el ecógrafo, apreciándose componente intradural que comprime de forma severa la médula procediéndose también a la resección de la porción intradural quedando médula libre.
+Anatomía patológica: región dorsal extramedular metástasis de seminoma. Estudio inmunohistoquímico: CD117 y PLAP: expresión en células neoplásicas.
+
+Evolución
+Tras una recuperación inicial satisfactoria, días después de la cirugia el paciente inicia un cuadro de cierta dificultad en la elaboración del lenguaje con bradipsiquia que inicialmente se atribuye al tratamiento médico prescrito.
+La clínica progresa a disartria, diplopía con la visión inferior e inestabilidad marcada. Destaca disminución de fuerza en el miembro superior derecho con amiotrofia asociada 3+/5. Balance motor en los miembros inferiores 5/5. Leve dismetría derecha en la prueba índice-nariz. Dificultad para la marcha y la bipedestación con aumento de la base de sustentación. Romberg positivo. Control adecuado de esfínteres.
+Se realiza una resonancia magnética donde se objetivan tres lesiones ocupantes del espacio (LOE) de probable naturaleza metastásica con componente hemático en la región pineal, cerebelo con extensión al IV ventrículo y a nivel epidural paracentral derecha C4-C5 y dorsal.
+El paciente comenzó tratamiento con quimioterapia de rescate según esquema TIP durante 4 ciclos del 26/2/2014-30/4/2014 sin incidencias y buena tolerancia.
+Tras el primer ciclo mejoría clínica muy notable con resolución parcial de déficits neurológicos previamente referidos.
+En la resonancia magnética de reevaluación se objetiva respuesta parcial con reducción significativa del tamaño de la lesión cerebelosa y desaparición casi completa de las lesiones pineal y cervical, apreciando restos milimétricos a estos niveles. Sin cambios a nivel de la lesión dorsal intervenida. El paciente ha sido derivado a Oncología Radioterápica para considerar irradiación complementaria sobre el sistema nervioso central.
+Última revisión en oncología 21/5/2014: sin toxicidades relevantes tras quimioterapia y con persistencia de cierta diplopía con la mirada inferior. Actualmente camina con ayuda del andador y su estado funcional se estima como ECOG 1, estando pendiente de iniciar tratamiento de rehabilitación en su centro de referencia.

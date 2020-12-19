@@ -1,0 +1,25 @@
+Anamnesis
+Paciente de 57 años sin antecedentes personales ni familiares de interés. Menarquia 13 años y menopausia a los 45 años.
+Detección de nódulo mamario derecho de 1,5 cm en programa de detección precoz en septiembre 2012 por lo que se completa estudio con ecografía, resonancia magnética (RM) y biopsia de aguja gruesa (BAG) mamaria.
+
+Exploración física
+ECOG 0. Peso: 60 kg. Talla: 157 cm. Nódulo mamario derecho de 2 cm en unión de cuadrantes externos (CCEE). Adenopatía axilar derecha móvil de 1 cm. Resto de exploración negativa.
+
+Pruebas complementarias
+ Analítica sin alteraciones. Marcadores tumorales dentro del rango de la normalidad.
+ Mamografía y ecografía mamaria (septiembre 2012): nódulo hipoecoico de márgenes microlobulados de 15 mm en unión de CCEE. Ganglios axilares bilaterales de aspecto benigno.
+ RM mamaria bilateral (octubre 2012): nódulo mamario en cuadrante medio externo de 2 cm de diámetro mayor que presenta curvas tipo III de aspecto maligno. Adenopatía sospechosa en cadena ganglionar axilar derecha de 11 mm.
+ Resultado anatomopatológico: carcinoma infiltrante de subtipo no especial (SNE)de mama con patrón inmunohistoquímico (IHQ): receptor estrógenos (RE) negativo, receptor progesterona (RP) negativo, ki67 < 10 %, HER-2 2+ (IHQ) no amplificado por técnicas de hibridación in situ (SISH).
+
+Diagnóstico
+Se interviene en diciembre de 2012 mediante mastectomía derecha y vaciamiento axilar con resultado histológico: Carcinoma infiltrante (SNE) de mama de 2,5 cm (pT2) con presencia de invasión vascular. Macrometástasis y micrometástasis de carcinoma de mama en los dos ganglios centinela (pN1a).
+Nueve ganglios linfáticos sin evidencia de infiltración neoplásica (0/9). Estadio IIB.
+
+Tratamiento
+Valorada por Oncología Médica en enero de 2013 y tras descartar afectación a distancia en estudio de extensión con radiografía de tórax y ecografía abdomen, se programa tratamiento adyuvante según esquema FEC x 4 ciclos + paclitaxel 100 mg/m2 semanal x 8 ciclos que recibe entre enero y junio 2013 sin toxicidades relevantes. Inicia posteriormente revisiones periódicas sin evidencia de recidiva tumoral.
+
+Evolución
+En mayo de 2016, adelanta la cita por episodios de lapsus de memoria y pérdida progresiva de fuerza en miembros superiores de 1 mes de evolución acompañada de astenia y pérdida de peso. Se realiza RM de cráneo con contraste que demuestra una lesión ocupante de espacio intraaxial con afectación lepto y paquimeníngea de vecindad en situación temporo-occipital derecha de 43 x 27 x 46 mm con extensa necrosis y edema circundante sin desviación de línea media, que obliga a descartar como principal opción la de metástasis. En ese momento, presentaba una exploración física normal, incluyendo ambas mamas y axilas, y se completó el estudio de extensión con tomografía computarizada (TC) de tórax-abdomen y gammagrafía ósea que descartaron otras lesiones. Se plantea en Comité exéresis de lesión cerebral única que se realiza el 27/07/16 mediante craneotomía occipital derecha con resección macroscópicamente completa y resultado anatomo-patológico: metástasis de carcinoma infiltrante SNE de mama; IHQ: RE y RP negativos, HER-2 3+ (IHQ) con ki67 80-90 %. Se realizó RM cráneo poscirugía sin evidencia de enfermedad residual. Recibe posteriormente tratamiento radioterápico holocraneal con dosis total de 30 Gy en 10 sesiones con buena tolerancia (fin septiembre 2016).
+Ante clínica de prosopagnosia visual atribuida inicialmente a secuelas posquirúrgicas, se solicita RM de control en septiembre 2016 que objetiva absceso cerebral en lecho quirúrgico de 51 x 43 x 36 mm que precisa reintervención quirúrgica y tratamiento antibiótico dirigido con aislamiento de Propionibacterium acnes.
+Valorada por Oncología Médica en octubre 2016 tras resolución del proceso infeccioso y desaparición de la agnosia visual, se plantea tratamiento de primera línea con trastuzumab iv. Tras 3 ciclos, se solicita estudio de reevaluación objetivándose en TC tórax de diciembre 2016: adenopatías axilares derechas profundas y un nódulo mamario derecho que se confirma en ecografía, identificándose una lesión de 12 mm de diámetro máximo a nivel de la unión de cuadrantes externos con características ecográficas de malignidad. Se realiza biopsia mamaria con resultado histológico de carcinoma infiltrante SNE. IHQ: RE, RP negativos, ki67 20-30 %, HER-2 2+ (IHQ) con amplificación mediante SISH (mismo patrón que la metástasis cerebral resecada).
+Dada la progresión a nivel mamario derecho y axilar durante el tratamiento con trastuzumab, y clínica por aparición de síntomas secundarios a plexopatía braquial derecha, se decide inicio de tratamiento según esquema TAXOL semanal 80 mg/m2 + trastuzumab + pertuzumab iv que ha comenzado en febrero 2017 con buena tolerancia y beneficio clínico de la plexopatía, pendiente actualmente de reevaluación tras 3er ciclo.

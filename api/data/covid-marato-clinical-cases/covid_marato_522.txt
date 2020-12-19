@@ -1,0 +1,46 @@
+Anamnesis
+Mujer de 45 años de edad con historia familiar de síndrome de Lynch (hermano portador de la mutación "c.329del" en el gen MSH2) con antecedente de diagnóstico en 2002 de adenocarcinoma de colon derecho pT3N1M0 tratado mediante hemicolectomía derecha y quimioterapia adyuvante, que realizaba revisiones en otro centro.
+
+En abril de 2014 es intervenida mediante histerectomía con conservación de anejos por mioma sintomático, presentando a su vez dolor a nivel del miembro inferior izquierdo (MII) que tras ecografía Doppler es diagnosticada de tromboflebitis superficial.
+
+Tras la cirugía, la paciente continúa con molestias a nivel del MII, así como dolor abdominal inespecífico, realizándose ecografía abdominal, donde se objetiva a nivel retroperitoneal, a la derecha de la aorta abdominal y en el lado interno del riñón derecho, una masa sólida isoecogénica, bien delimitada y aparentemente no vascularizada de 5,75 x 4,49 cm.
+
+Exploración física
+Sin hallazgos relevantes. Tumefacción de MII con hiperemia y enrojecimiento a nivel distal.
+
+Pruebas complementarias
+» Se completa el estudio con TC abdominal 29/4/14: lesión sólida intraperitoneal anterior a la bifurcación aórtica de 5,2 x 4,5 cm, sin poder descartar que se trate de un implante secundario.
+Trombosis ilíaca común izquierda con extensión a la vena ilíaca interna de ese lado.
+Valorada en Cirugía Vascular inicialmente por sospecha de hematoma encapsulado postquirúrgico, se solicita estudio con marcadores tumorales:
+» Analítica abril 2014: Ca 125: 226,7 U/ml, Ca 15.3: 76,9 U/ml.
+» Analítica mayo 2014: Ca 125: 436,3 U/m, Ca 15.4: 117,8 U/ml.
+
+Finalmente, se decide la realización de exéresis de la masa retroperitoneal/peritoneal para obtener diagnóstico histológico el día 10 de junio de 2014, posterior a la realización de RM el 28 de mayo de 2014:
+» RM de abdomen (28/5/2014): en la exploración actual, la lesión muestra unos diámetros de 54 x 44 x 79 mm, con ligero crecimiento craneocaudal con respecto a la TC previa.
+» Anatomía patológica de biopsia de tumoración retroperitoneal derecha. Ganglio linfático: metástasis de adenocarcinoma con diferención mucinosa. Inmunohistoquímica: células positivas para CK (AE1/AE3), CK7, CA125 y focalmente para CK20. WT1 y CDX2 son negativas. Estos hallazgos sugieren descartar un origen ginecológico del tumor primario.
+
+Diagnóstico
+Carcinoma epitelial maligno indiferenciado con componente mucinoso y áreas de necrosis con afectación ganglionar laterocervical izquierda, retroperitoneal y mesentérica con inmunohistoquímica que sugiere posible origen ginecológico.
+
+Tratamiento
+Es valorada por primera vez en Oncología Médica de nuestro centro a petición de la paciente con los hallazgos previamente mencionados en julio de 2014, detectándose una adenopatía a nivel laterocervical izquierdo, por lo que se completa el estudio de extensión mediante PAAF de la adenopatía, nuevo TC body y PET-TC.
+» PET-TC (2/8/2014): adenopatías y conglomerados laterocervicales izquierdos en el espacio posterior al esternocleidomastoideo y supraclaviculares con capatacion patológica de fluorodesoxiglucosa (FDG); adenopatías retroperitoneales con captación patológica de FDG, todas ellas sugerentes de malignidad; nódulos con captación patológica de FDG a nivel mesentérico, con cambios postquirúrgicos de histerectomía presentes.
+» PAAF adenopatía laterocervical izquierda: citología positiva para malignidad. Metástasis de adenocarcinoma. Inmunohistoquímica: CK (AE1/AE3): positividad citoplasmática de intensidad variable.
+CK7: positividad citoplasmática intensa. CK20, CDX2, CD10, TTF-1, napsina A, estrógenos, progesterona, Ag. Melan-a y CK de alto peso molecular: negativos.
+» Revisión de bloques de anatomía patológica: cinco bloques de parafina para revisión del caso, procedentes de biopsia de tumoración retroperitoneal derecha: Panel inmunohistoquímico con los siguientes resultados: positividad: CK7; CEA positividad focal. Negatividad: CK20, CDX2, WT-1, estrógenos y progesterona. 
+
+Conclusión: tumoración epitelial maligna indiferenciada con componente mucinoso y áreas de necrosis sugerente de posible origen ginecológico.
+Con el diagnóstico de carcinoma epitelial maligno indiferenciado con componente mucinoso y áreas de necrosis con afectación ganglionar laterocervical izquierda, retroperitoneal y mesentérica con inmunohistoquímica que sugiere posible origen ginecológico, se plantea primera línea de tratamiento con quimioterapia paliativa en agosto de 2014 con esquema: carboplatino-paclitaxel, pero la paciente en ese momento no acepta, abandonando el seguimiento.
+
+En diciembre de 2014, tras 4 meses sin seguimiento, acude a Urgencias por presentar dolor e inflamación a nivel del MSI, realizándose ecografía Doppler venosa, siendo diagnosticada de trombosis subclavia y axilar izquierda secundaria a compresión por las múltiples adenopatías que presenta a esos niveles, a pesar de que ya se encontraba previamente anticoagulada con enoxaparina a dosis de 1 mg/kg de peso cada 12 horas (40 mg cada 12 horas, para un peso de 42 kg de la paciente). Ante la recurrencia, se solicita determinación de valores de anti F. Xa; sin embargo, la paciente nos informa que prefiere realizar dicho estudio en otro centro, continuando con la misma pauta de heparina.
+
+Posteriormente, retoma su seguimiento en nuestro servicio para el tratamiento de su enfermedad oncológica, se canaliza reservorio tipo port-a-cath a nivel de la subclavia derecha y se programa para inicio del primer ciclo del esquema de quimioterapia carboplatino-paclitaxel, el día 17 de diciembre de 2014.
+
+Evolución
+Como intercurrencias al tratamiento y a la evolución de la enfermedad de nuestra paciente, a los pocos días de la infusión de su primer ciclo de quimioterapia, requirió ingreso en nuestra Unidad Coronaria por cuadro de miopericarditis idiopática, siendo dada de alta posteriormente sin mayores incidencias. Sin embargo, antes de que se administrara la siguiente dosis de quimioterapia y a los pocos días de dicho alta, la paciente acude a Urgencias por presentar cuadro de accidente isquémico transitorio (AIT) con focalidad consistente en disartria y afectación del VII par craneal izquierdo, realizándose una TC cerebral así como una angio-TC cerebral, donde no se visualizan hallazgos, yéndose de alta a las 24 horas sin clínica neurológica y con cita pendiente para Neurología, con antiagregación asociada con AAS 100 mg.
+
+A los 15 días, tras la administración del segundo ciclo de quimioterapia, la paciente vuelve a consultar en Urgencias, esta vez siendo diagnosticada de trombosis venosa a nivel de la subclavia derecha, por lo que, a pesar de que ya se encuentra en estudio por parte de Hematología de otro centro, aún sin datos sobre el mismo, se aumenta la dosis de enoxaparina a 60 mg cada 12 horas y se decide derivar a consultas de Hematología para estudio en nuestro centro, donde no acude. En ese momento, además, la paciente muestra dudas sobre la nueva pauta de anticoagulación. Nuevamente la paciente había presentado un cuadro de deterioro del estado general inespecífico, por el que acudió a Urgencias de otro centro. En la auscultación cardíaca se detectó un soplo no conocido, por lo que se realizó un ecocardiograma transtorácico urgente, observando vegetaciones a nivel de la válvula mitral y encontrándose la paciente afebril. Fue diagnosticada de endocarditis marántica, intensificando la anticoagulación con perfusión de heparina sódica y siendo dada de alta a los pocos días, con buen estado general, sin llegar a saber la modificación del tratamiento anticoagulante tras dicho ingreso, dado que la paciente no nos aportó ningún informe en este momento.
+
+A los 3 días de este último ingreso hospitalario la paciente acude a Urgencias por hemiparesia izquierda y bajo nivel de consciencia. En el estudio radiológico realizado se visualizó trombosis a nivel de la arteria cerebral media derecha, con gran edema perilesional asociado (ictus maligno), falleciendo a los 3 días de dicho evento.
+
+En conclusión, desde que la paciente comienza el estudio (previo al diagnóstico de malignidad) hasta el desenlace final, fue diagnosticada de múltiples eventos tromboembólicos o relacionados con complicaciones de los mismos. Inicialmente, con el estudio diagnóstico ya se encontró tromboflebitis a nivel superficial en el MII, así como trombosis a nivel de la vena ilíaca común izquierda. A pesar de la anticoagulación, presentó un nuevo evento tromboembólico a nivel de la subclavia izquierda; asimismo, durante el tratamiento citotóxico presentó AIT, trombosis a nivel de la subclavia derecha, endocarditis marántica sobre la válvula mitral y, por último, ictus maligno. Cabe destacar en nuestro caso que, dados el rechazo y la múltiple variación de especialistas constante, no se pudo hacer un correcto seguimiento de la patología de la paciente, no llegando a optimizar todo lo que se hubiera podido si hubiera presentado una mayor adhesión.

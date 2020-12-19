@@ -1,0 +1,26 @@
+Anamnesis
+Mujer de 48 años no fumadora, asmática e hipertensa que consulta por un dolor en la región lumbar irradiado a la cadera derecha de 6 meses de evolución, con mala respuesta al tratamiento analgésico y por síndrome general de 2 meses de evolución. Se realizan los estudios oportunos y se diagnostica un adenocarcinoma de pulmón con atelectasia obstructiva del lóbulo superior derecho secundaria y estadio IV por afectación pulmonar, ósea y cerebral. El fenotipo molecular detecta la mutación del gen EGFR en el exón 21 (tipo L858R). Tras la administración de radioterapia holocraneal (10 fr, 300 cGy/fr), se inicia en julio de 2014 gefitinib 250 mg al día.
+
+Seis semanas después acude al Servicio de Urgencias por incremento de disnea, tos y escasa expectoración blanquecina. No refiere fiebre.
+
+Exploración física
+La paciente presenta un ECOG-PS de 1. En la auscultación pulmonar destacan crepitantes de despegamiento teleinspiratorios en la base derecha con disminución del murmullo vesicular del hemitórax izquierdo.
+
+Pruebas complementarias
+» En las pruebas de laboratorio destaca insuficiencia respiratoria no hipercápnica y leucocitosis leve (12.800 leucocitos/μL) con neutrofilia.
+» En la radiografía de tórax se evidencia resolución de la atelectasia obstructiva del LSD con aparición de patrón intersticial en el resto del hemitórax derecho.
+» Se completó el estudio con una TC de tórax, donde se confirma la resolución de la atelectasia obstructiva y una disminución generalizada de la afectación metastásica pulmonar multinodular bilateral y con remodelación ósea esclerótica de múltiples lesiones líticas. Sin embargo, a pesar de la mejoría radiológica del tumor, se observa el desarrollo de una enfermedad pulmonar difusa (especialmente basal derecha), caracterizada por un aumento difuso de la radiodensidad pulmonar en vidrio delustrado, con engrosamiento del intersticio septal, sugestivo de enfermedad intersticial difusa de probable origen tóxico.
+» Estudios microbiológiocs: cultivos de esputo, hemocultivos y serologías de Legionella pneumophila y Streptococco pneumoniae negativos.
+
+Diagnóstico
+Enfermedad pulmonar intersticial secundaria a gefitinib.
+
+Tratamiento
+Ante la sospecha clínica de neumonitis tóxica por gefitinib se suspende la administración del mismo y se inicia corticoterapia con metilprednisolona 60 mg/día y tratamiento antibiótico empírico con levofloxacino.
+
+Evolución
+Durante dicho ingreso se completó la evaluación de la respuesta con TC cerebral, con respuesta completa radiológica. La paciente presenta mejoría clínica y tras el alta se solicita una nueva TC de tórax 2 semanas tras la anterior. En dicha TC se observa disminución de las lesiones asociadas a toxicidad medicamentosa (persistiendo radiodensidad en vidrio deslustrado) y un crecimiento prácticamente generalizado de los nódulos pulmonares y del derrame pleural. En este momento se decide iniciar tratamiento con cisplatino y permetrexed al 75% de dosis. Como toxicidad presenta emesis retardada grado 1.
+
+En la TC de evaluación tras el tercer ciclo se observa progresión, por lo que se decide el inicio de tercera línea con carboplatino, paclitaxel y bevacizumab. Tras el inicio del tratamiento mantiene ECOG-PS 2, con mejoría sintomática de la disnea. Presenta como toxicidades astenia, neutropenia afebril grado III, alopecia y neuropatía periférica, que obligan a la reducción de dosis de un 30%.
+
+Tras el sexto ciclo se realiza una TC que objetiva respuesta parcial con resolución de la neumonitis, por lo que se pasa a bevacizumab de mantenimiento, con buena tolerancia.

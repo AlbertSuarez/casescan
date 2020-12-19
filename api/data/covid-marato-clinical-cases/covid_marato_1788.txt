@@ -1,0 +1,29 @@
+Anamnesis
+Mujer de 55 años sin hábitos tóxicos, con antecedentes familiares de madre fallecida a los 58 años de probable cáncer gástrico (neoplasia metastásica, no se sabe el primario), hermana fallecida con 49 años por cáncer metastásico de primario no filiado (adenocarcinoma de primario no filiado) y hermano con 56 años diagnosticado de cáncer de colon.
+La paciente se encontraba asintomática.
+
+Exploración física
+Se evidenciaba un nódulo de aproximadamente 15 mm mal delimitado de consistencia media, localizado en el cuadrante superoexterno periareolar de la mama izquierda. La exploración axilar izquierda era normal.
+
+Pruebas complementarias
+Se realiza mamografía en programa de cribado (13-07-2015) que evidencia calcificaciones sospechosas por lo que se remite al Servicio de Patología Mamaria para completar estudios.
+Desde ese momento se realizan numerosas pruebas diagnósticas:
+» Mamografía + ecografía mamaria + ecografía axilar (05-08-2015) donde se evidencian microcalcificaciones altamente sospechosas de malignidad a nivel retroareolar izquierda.
+» Biopsia con aguja gruesa (15-08-2015): compatible con carcinoma ductal infiltrante poco-moderadamente diferenciado y de alto grado citológico en la muestra remitida con receptor de estrógenos negativo, receptor de progestágenos débilmente positivo (25-30 % de las células neoplásicas), P53 débilmente positivo, HER-2 positivo (+++), Ki-67 positivo en el 30 % de las células y citoqueratina 19 positiva.
+» Resonancia magnética (RM) mamaria (28-08-2015): siendo compatible la mama izquierda con BIRADS RM 6 con probable multicentricidad y mama derecha BIRADS RM 1.
+» » Ecografía de abdomen completo (5-09-2015): hígado de ecoestructura inhomogénea con incremento difuso de ecogenicidad en posible relación con esteatosis/hepatopatía, detectando nódulo hipoecoico (11 mm) localizado en segmento IV-A, inespecífico, que pudiera estar en relación con hemangioma, no siendo descartable metástasis dada la patología de base de la paciente.
+» RM de hígado (11-09-2015): hígado con varios quistes simples. LOE de 17 mm en segmento IV compatible con metástasis.
+» BAG hepática (10-11-2015): metástasis hepática de carcinoma ductal infiltrante.
+» Gammagrafía ósea (03-11-2015): no se evidencia lesiones metastásicas con reacción osteoblástica. Sospecha de captación en esternón.
+
+Diagnóstico
+Carcinoma ductal infiltrante poco-moderadamente diferenciado de mama izquierda con invasión linfovascular pT2 pN1a (3/21) M1 (hepática única, posible esternal sospechosa en gammagrafía y dudosa D12) RE negativo, RP débilmente positivo (25-30 % de las células neoplásicas), P53 débilmente positivo, HER-2 positivo (+++), Ki-67 positivo en el 30 % de las células, citoqueratina 19 positiva.
+
+Tratamiento
+Con fecha 24-09-2015 se realiza mastectomía total simple de mama izquierda + biopsia selectiva de ganglio centinela (3 centinelas, con macrometástasis en 2º y 3º con CCT: 234.000 copias, VPN 76,82 %), por lo que se completa con linfadenectomía axilar izquierda.
+Se inicia en noviembre de 2015 una primera línea de tratamiento para enfermedad avanzada con docetaxel + trastuzumab + pertuzumab por 6 ciclos (1º: 25-11-2015/6º: 10-03-2016) presentando respuesta parcial hepática y estabilidad de enfermedad a nivel óseo.
+Se decide continuación de tratamiento con pertuzumab + trastuzumab + TAXOL por tres ciclos con desaparición de la captación esternal gammagráfica (junio 16), decidiéndose tratamiento de mantenimiento con doble bloqueo + letrozol, iniciándose en junio 16 y recibiendo el 40º ciclo en mayo de 2018 con una respuesta completa mantenida hasta dicha fecha.
+En mayo del 2018, presenta mareo y cefalea, asociando pérdida de fuerza en extremidad superior derecha por lo que se realiza una resonancia magnética cerebral, observándose una progresión a nivel de SNC única a nivel frontal izquierda por lo que se decide radioterapia esteroatáxica fraccionada con una dosis total de 30 Greys entre mayo y junio del 2018 con posterior craniectomía y extirpación de metástasis frontal el 21-06-2018.
+
+Evolución
+Una vez resuelta la progresión a nivel del sistema nervioso central, se decide continuación de tratamiento con doble bloqueo y letrozol habiendo recibido hasta la fecha 54º ciclos, manteniendo la respuesta completa tanto a nivel sistémico como a nivel de sistema nervioso central.

@@ -1,0 +1,38 @@
+Anamnesis
+Se trata de una mujer caucásica de 39 años de edad con estatus socio-económico medio-alto y de profesión abogada. Fuma un paquete diario, no toma medicación de forma habitual y hasta el momento no ha presentado reacciones alérgicas a fármacos.
+
+Antecedentes familiares
+En la rama paterna encontramos que su abuelo y su padre fallecieron a causa de tumores de colon, produciéndose el exitus del padre a la edad de 45 años.
+
+Antecedentes personales
+Ha sido estudiada por Ginecología por un cuadro de hipermenorrea anemizante, detectándose un engrosamiento endometrial del que se tomó biopsia con resultado de cáncer de endometrio, por lo que fue intervenida en septiembre del 2009 a la edad de 36 años, mediante histerectomía, doble anexectomía, linfadenectomía pélvica bilateral y citología de lavado peritoneal, con estadiaje final de cáncer de endometrio E-IB, por lo que no precisó tratamiento adyuvante.
+En noviembre de 2011, a la edad de 37 años, la paciente comienza con clínica de rectorragia y, dado el antecedente paterno de cáncer de colon a edad temprana, se deriva a digestivo para realización de colonoscopia, en la que se observan varios pólipos adenomatosos que se extirpan. En la colonoscopia de seguimiento a los dos años, en marzo de 2013, se observa lesión polipoide ulcerada de 22 x 65 cm que se biopsia, con resultado anatomo-patológico de adenoma tubular de intestino grueso con displasia moderada-severa, por lo que en abril de 2013 es intervenida mediante hemicolectomía derecha, con resultado anatomopatológico final de carcinoma de células de anillo de sello que infiltra la capa muscular propia sin sobrepasarla, y presencia de metástasis en dos de las doce adenopatías aisladas, lo que corresponde a pT2pN1b (2/12) y a un estadio IIIA.
+Tras la cirugía, es derivada a Oncología para valoración de tratamiento adyuvante, iniciándose tratamiento con esquema FOLFOX, 5-fluoro-uracilo (5-FU) 400 mg/m² en bolo, infusión durante 48 h de 5-FU a dosis de 2.400 mg/m² y oxaliplatino 85 mg/m² día 1 cada 14 días por 12 ciclos, durante 6 meses.
+Se consulta además con la Unidad de Consejo Genético que realiza estudio inmunohistoquímico en la pieza tumoral con el hallazgo de déficit de expresión de MLH1 y PSM2 asociado a inestabilidad de microsatélites, motivo por el que se solicita estudio germinal, en el que se aprecia mutación en la posición 1.420 del exón 13 del gen MLH1 en heterocigosis, descrita como patogénica y compatible con diagnóstico de síndrome de Lynch.
+Tras finalizar la quimioterapia, la paciente comienza revisiones periódicas sin mostrar alteraciones desde noviembre 2013 a enero 2017.
+
+Enfermedad actual
+En abril del 2017, la paciente acude a Urgencias por cuadro consistente en vómitos, dolor abdominal localizado en hipocondrio derecho e ictericia cutáneo-mucosa con coluria y acolia.
+En Urgencias, tras realización de analítica general en la que se observa alteración de las cifras de bilirrubina, se decide ingreso a cargo de Medicina Interna para ampliar estudio.
+
+Exploración física
+Paciente con aceptable estado general, en la exploración destaca coloración ictérica cutáneo mucosa y dolor a la palpación de hipocondrio derecho sin signos de peritonismo ni defensa.
+
+Pruebas complementarias
+En Urgencias se realiza analítica general que muestra alteración del perfil hepático con cifras de bilirrubina total de 6,08 mg/dl (0,2-1,2 mg/dl), 3,35 mg/dl (0-0,25 mg/dl) de bilirrubina directa, aumento de transaminasas GOT 100 (0-37 U/l) y GPT 236 (0-41 U/l), con hemograma normal y ecografía abdominal en la que se aprecia dilatación de vías biliares intra y extrahepáticas sin visualizar colédoco distal ni la región pancreática.
+Durante el ingreso en Medicina Interna, se realiza colangiorresonancia en la que se observa rarefacción de la encrucijada duodeno-pancreática de aproximadamente 32 x 28 mm, valorando como primera opción proceso neoplásico a dicho nivel.
+Se amplía el estudio con colangiopancreatografía retrógrada para colocación de prótesis de drenaje de la vía biliar y toma de biopsia, visualizándose en la colangiografía marcada dilatación de la vía biliar intrahepática con estenosis casi completa del hepático medio sugestiva de tumor de Klastkin. Antes esta estenosis, se procede a esfinterotomía con colocación de prótesis y toma citología con resultado anatomo-patológico negativo para neoplasia.
+Se decide realizar embolización portal-hepática y posterior cirugía en julio de 2017 mediante hepatectomía parcial derecha y duodenopancreatectomía cefálica.
+
+Diagnóstico
+Colangiocarcinoma extrahepático moderadamente diferenciado de 13,4 mm de espesor, sin evidencia de afectación ganglionar, por tanto un pT3N0, estadio IIB, en paciente con síndrome de Lynch.
+
+Tratamiento
+Remitida de nuevo en septiembre de 2017 a Oncología. Se decide pautar tratamiento adyuvante con 8 ciclos de capecitabina a dosis de 1.250 mg/m² cada 12 horas día 1 a 14 cada 21, según los resultados comunicados en ASCO 2017 del estudio BILCAP.
+Debido a la toxicidad relacionada con el síndrome de eritrodisestesia palmo-plantar grado 3 (fisuras cutáneas, edemas e hiperqueratosis asociadas a dolor, que limitan la actividad funcional), se decide disminuir la dosis al 80 % desde el cuarto ciclo.
+
+Evolución
+Inicia nuevamente revisiones y, en julio de 2018, hallamos un ascenso del marcador CA19,9 a 80 U/ml (0-37 U/ml) y aparición en la TC de lesiones nodulares en epiplón mayor e imagen nodular hiperdensa de 36 x 23 mm en el techo vesical, compatibles con implantes peritoneales, por lo que se decide presentar el caso en el comité de cirugía y se programa para laparotomía exploradora con toma de biopsia, que se realiza en agosto de 2018 y se obtiene un diagnóstico anatomo-patológico de infiltración por adenocarcinoma de probable origen hepatobiliar (inmunohistoquímica positiva para queratina 19, CEA y CA 19,9).
+Con este nuevo diagnóstico de recaída peritoneal de colangiocarcinoma, comenzamos en septiembre de 2018 la primera línea de quimioterapia paliativa con cisplatino a dosis de 25 mg/m² y gemcitabina a 100 mg/m² día 1 y 8 cada 21, con aceptable tolerancia del tratamiento.
+En diciembre de 2018, la paciente presenta progresión clínica con aumento del dolor abdominal e importante pérdida de peso, progresión bioquímica con marcado ascenso del CA 19,9 a cifras de 1.300 U/ml, y progresión radiológica con crecimiento de las lesiones diana, por lo que se solicita pembrolizumab off-label a dosis de fija de 200 mg cada 21 días.
+Tras 2 ciclos de pembrolizumab, la paciente presenta mejoría importante del dolor abdominal, llegando a estar asintomática en la última valoración en consulta en abril de 2019, sin clínica secundaria a la enfermedad ni toxicidad relacionada con el tratamiento. A nivel de los marcadores el CA 19,9, muestra un claro descenso llegando a cifras de 83 U/ml tras 6 ciclos de tratamiento, y la TC de reevaluación muestra disminución del tamaño de los nódulos descritos en epiplón mayor y del implante metastásico pélvico situado en la vejiga.

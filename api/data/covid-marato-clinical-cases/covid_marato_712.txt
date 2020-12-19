@@ -1,0 +1,36 @@
+Anamnesis
+Gestante de 33 semanas (G:3, P:1, V:1, A:1) y 19 años de edad. Antecedentes de rinitis alérgica y colon irritable. Sin hábitos tóxicos. Colecistectomizada en marzo de 2010. Sin otros antecedentes.
+Consulta en Urgencias el 7/1/2011 por un cuadro de una semana de evolución de disnea progresiva hasta hacerse de reposo. Desde 3 meses antes relataba disfonía y adenopatía dolorosa cervical izquierda de crecimiento progresivo.
+
+Examen físico
+ECOG = 0. Hemodinámicamente estable, taquipnéica a 40 respiraciones/minuto. Estridor laríngeo.
+Adenopatía de 8 cm de diámetro en el nivel cervical II izquierdo, pétrea y adherida a planos profundos. No otras adenopatías cervicales, supraclaviculares, axilares o inguinales.
+Laringoscopia indirecta: tumoración hemilaríngea izquierda con disminución de más del 50% de la luz glótica y desplazamiento de la cuerda vocal derecha.
+Auscultación cardiaca normal.
+Auscultación pulmonar con disminución del murmullo vesicular en ambos hemitórax.
+Abdomen grávido, normal a la exploración.
+Extremidades sin alteraciones.
+
+Pruebas complementarias
+- Durante la atención de urgencias, se hizo necesario realizar una traqueotomía urgente.
+- Biopsia con aguja gruesa de adenopatía cervical (11/1/2011): compatible con tumor maligno de célula pequeña.
+- Dado el diagnóstico histológico preliminar, se procede a realizar inducción del parto el 19/1/2011.
+- Inmunohistoquímica de la biopsia de la adenopatía cervical: AE1/AE3, CK7 y CK8.18 negativos. Inmunorreactividad intensa y difusa a p63, sinaptofisina, CD56 y CD57. Cromogranina negativa. Positividad focal a vimentina y CD99. CD20 y CD3 positivas en el componente linfoide mixto de la muestra. LCA negativo, salvo en las células linfoides perivasculares. No reacción frente a miogenina, desmina y proteína S-100. Ki67 del 100%.
+- FISH para detección de reordenamiento EWS: no concluyente.
+- Análisis de reordenamiento del gen NUT: negativo.
+- TC cerebro-cuello-tórax-abdomen-pelvis (21/1/2011): masa glótica-supraglótica izquierda de 3,5 cm de diámetro que ocupa la vallécula y el seno piriforme izquierdo y se extiende a la epiglotis con engrosamiento de ambas cuerdas, fundamentalmente la izquierda, con masa de partes blandas que ocupa la comisura anterior, desplaza la vía aérea y disminuye la luz de forma importante. Conglomerado adenopático laterocervical izquierdo en espacio yúgulo-carotídeo de 7,2 x 3,5 cm.
+
+Diagnóstico
+Carcinoma neuroendocrino de célula pequeña de laringe cT2-3N3M0. Estadio IVB.
+
+Tratamiento
+El 27/1/2011 inicia tratamiento con intención radical según el esquema cisplatino 80 mg/m2 día 1, etopósido 100 mg/m2 días 1, 2 y 3 cada 21 días (total 4 ciclos) y radioterapia concomitante con segundo y tercer ciclos, alcanzando 70 Gy tras reducción volumétrica a los 50 Gy (fraccionamiento: 2 Gy/fracción, 5 fracciones/semana).
+
+Evolución
+TC de valoración de respuesta tras el cuarto ciclo (10/5/2011): importante disminución del tamaño de la masa supraglótica, objetivándose solo borramiento de la grasa parafaríngea izquierda y obliteración del seno piriforme homolateral. Persiste afectación de las cuerdas vocales, mayor del lado izquierdo, y de la comisura anterior. Adenopatía patológica de 13 mm de diámetro en el nivel IIA izquierdo.
+Laringoscopia: sinequia anterior a la cuerda vocal, con fibrosis de la banda cuerda vocal izquierda. Seno piriforme libre, espacio subglótico libre de tumor.
+Considerándose la respuesta completa local y la probable persistencia ganglionar, se realiza vaciamiento cervical izquierdo (30/6/2011), no evidenciándose malignidad en el estudio anatomopatológico.
+Permanece libre de enfermedad los siguientes 5 meses, al término de los cuales se detecta recidiva a nivel pulmonar en el lóbulo inferior derecho, que fue confirmada mediante fibrobroncoscopia y biopsia. Se decide retratar con esquema cisplatino-etopósido a idénticas dosis, dada la buena respuesta anterior, confirmándose una nueva respuesta completa tras 5 ciclos en abril de 2012.
+En diciembre de 2012 consulta nuevamente por astenia, hiporexia y tos; se constatan mediante TC, broncoscopia y EBUS recidivas en la luz traqueal y en la pirámide basal derecha.
+Nuevamente recibe quimioterapia según el esquema cisplatino-etopósido, 3 ciclos, entre el 8/12/2012 y el 12/2/2013, evidenciándose respuesta parcial en la TC de reevaluación del 22/2/2013. Durante los sucesivos tratamientos, la paciente presentó toxicidad hematológica, infecciones intercurrentes y mala tolerancia subjetiva, con necesidad de disminución de la dosis en los dos últimos ciclos; por este motivo se suspende el tratamiento sistémico y se inicia radioterapia alcanzando 60 Gy entre el 11/3/2013 y el 25/4/2013.
+En una nueva TC de reevaluación de mayo de 2013 se evidencia la progresión de la enfermedad, con aparición de lesiones nuevas metastásicas a nivel pulmonar y hepático. Se propone quimioterapia de segunda línea, que la paciente declina, continuando tratamiento sintomático en régimen de cuidados paliativos, falleciendo en diciembre de 2013.

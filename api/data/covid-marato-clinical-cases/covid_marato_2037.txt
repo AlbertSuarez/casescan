@@ -1,0 +1,34 @@
+Anamnesis
+Paciente de 69 años sin antecedentes personales de interés, que en mayo de 2015 es derivado a consulta de Endocrinología por la aparición de un nódulo tiroideo indoloro de 4 meses de evolución.
+
+Exploración física
+» ECOG 0.
+» ACR: tonos rítmicos, MVC.
+» Nódulo tiroideo firme, no móvil de unos 2-3 cm en lóbulo tiroideo derecho.
+» Sin adenopatías laterocervicales, ni supraclaviculares, ni axilares, ni inguinales.
+» Abdomen: anodino.
+» MMII: sin edemas, ni signos de TVP.
+
+Pruebas complementarias
+Se realiza PAAF guiada por ecografía. El resultado anatomopatológico muestra sospechosa de malignidad.
+Se extrae analítica completa, objetivando hipotiroidismo subclínico, el resto sin hallazgos (TSH 5.840; FT4 0,88).
+
+Diagnóstico
+Nódulo tiroideo sugerente de malignidad sin diagnóstico histológico definitivo.
+
+Tratamiento
+Se deriva a Cirugía para tiroidectomía total el 10/09/15 y linfadenectomía ganglionar central, resultado anatomopatológico:
+Lóbulo tiroideo derecho: carcinoma medular de tiroides de 4,5 cm (pT3) que infiltra la cápsula sin sobrepasarla. Invasión vascular. Lóbulo tiroideo izquierdo: libres de tumor. En región cervical derecha, se objetivan metástasis de CMT en la única adenopatía aislada. En la región cervical izquierda: ausencia de malignidad en las 3 adenopatías asiladas. En los ganglios linfáticos del triángulo central cervical, se objetivan metástasis de CMT en las 3 adenopatías asiladas.
+Juicio clínico: CMT (pT3), con afectación metastásica ganglionar.
+
+Evolución
+Tras la tiroidectomía, se realiza estudio de extensión con PET/TC en diciembre de 2015, en la que se aprecia un foco hipermetabólico sobre adenopatía laterocervical derecha nivel III compatible con enfermedad persistente por lo que se programa reintervención para vaciamiento central reglado más vaciamiento lateral derecho. Además, en analítica poscirugía se objetiva CEA de 44 y calcitonina de 697.
+Se realiza reintervención en febrero de 2016 con vaciamiento ganglionar completo, objetivando enfermedad residual localizada sólo en zona central y lateral derecha). Desde entonces, el paciente ha estado en seguimiento por Endocrinología.
+El paciente es sometido a analíticas seriadas, objetivándose aumento de CEA y calcitonina, por lo que se solicita TC en agosto de 2016, objetivando múltiples nódulos pulmonares bilaterales milimétricos compatibles con metástasis.
+El paciente es derivado a consulta de Oncología Médica, y se inicia tratamiento con vandetanib 300 mg al día.
+En septiembre de 2016, al mes de iniciar vandetanib, el paciente acude a consulta con una dermatitis extensa en manos y pies, tronco y prurito generalizado (dermatitis G4).
+Durante la exploración, se objetivan placas generalizadas en tronco anulares tipo eritema polimorfo, en zonas fotoexpuestas placas que cubren completamente las zonas, "eritematogrisáceas", y ampollas en manos y pies.
+El paciente suspende vandetanib y lo derivamos a Urgencias para valoración por Dermatología y se inicia tratamiento con antibioticoterapia y corticoides sistémicos a dosis altas.
+Tras 4 semanas de descanso terapéutico y finalizando los corticoides en pauta descendente, el paciente presenta una mejoría de la toxicodermia, actualmente en grado 1.
+Se reintroduce vandetanib a 100 mg con excelente tolerancia y se aumentó desde enero de 2017 a 200 mg diarios.
+Actualmente, el paciente permanece con enfermedad estable (ILE 11 meses), asintomático y con excelente tolerancia al tratamiento.

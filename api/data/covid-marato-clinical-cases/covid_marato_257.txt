@@ -1,0 +1,34 @@
+Anamnesis
+Varón de 59 años de edad, alérgico a metamizol, cefotaxima y cefoxitima, exfumador desde hacía más de diez años, diabético desde los 50 años en tratamiento con antidiabéticos orales. A los 27 años presentó una pancreatitis aguda grave de etiología desconocida que requirió drenaje quirúrgico y a los 40 años un episodio de hemorragia digestiva alta con diagnóstico de ulcus bulbar Helicobacter pylori positivo por el que recibió tratamiento erradicador.
+Trabajaba como profesor de física en un instituto.
+Entre los antecedentes familiares destacan que su madre falleció a los 69 años por cáncer de pulmón, un tío materno fue diagnosticado a los 76 años de cáncer de próstata y un tío paterno de cáncer de colon a los 65 años.
+En julio de 2010 el paciente se palpa una masa en fosa ilíaca izquierda que va aumentando de tamaño, asocia dolor intenso en esa región irradiado a testículo y febrícula ocasional. Tendencia al estreñimiento, sin náuseas ni vómitos. Refiere pérdida de unos 5 kg de peso sin astenia ni anorexia.
+Con la clínica descrita ingresa en Medicina Digestiva para estudio.
+
+Pruebas complementarias
+• CEA: 1,4 ng/mL.
+• Hemograma, bioquímica y coagulación: sin alteraciones.
+• TC abdominopélvica: masa de 10 x 7 cm dependiente de la pared del sigma proximal, con captación heterogénea de contraste y crecimiento exofítico que no condiciona oclusión de la luz ni dilatación de colon proximal. Alteración de la grasa perilesional y pérdida de planos grasos de separación con musculatura de pared (recto anterior izquierdo).
+Probable infiltración de arteria ilíaca externa izquierda.
+Múltiples adenopatías perilesionales, mesentéricas, en cadenas ilíacas comunes y externas, inguinales y retroperitoneales paraaórticas. Se observan dos lesiones hepáticas hipodensas en segmento IVa (20 mm) y II (50 mm), esta última infiltra la rama portal izquierda.
+Ingurgitación de vasos perilesionales que van a drenar a venas porta y esplénica. Aumento del calibre de vena testicular izquierda. Nódulo subcutáneo en región inguinal derecha. Esplenomegalia de 147 mm.
+Ausencia de cuerpo y cola de páncreas por cirugía previa. Dilatación de grupos caliciales inferiores de riñón izquierdo sin dilatación ureteral. Colecistectomía.
+Conclusión: Neoplasia de sigma T4-N2-M1. Signos de hipertensión portal.
+• Colonoscopia hasta ciego con sedación: a unos 30 cm masa que abarca menos del 50% de la luz, irregular, friable, con cambios de coloración y signos de infiltración. Se toman biopsias.
+• Anatomía patológica (tumoración): fragmento de mucosa tipo colónico con infiltración por tumor fusocelular de alto grado de malignidad inmunohistoquímicamente positivo para citoqueratinas (AE-1-AE3, CAM 5.2) y vimentina y negativo para c-kit. La lesión puede corresponderse con un tumor del estroma gastrointestinal negativo para c-kit o un carcinosarcoma.
+• Dado que la anatomía patológica de la muestra obtenida mediante colonoscopia no es concluyente, se decide solicitar biopsia hepática, donde la anatomía patológica de la lesión hepática informa de metástasis hepática por tumor fusocelular de alto grado. Las características histológicas de la lesión tumoral sugieren un tumor fusocelular maligno de alto grado, de probable estirpe mesenquimal. La inmunorreactividad fuerte de las células tumorales para vimentina y varias citoqueratinas (CKAE1/AE3, Cam 5.2 y EMA), siendo otros múltiples marcadores negativos (c-kit, desmina, SMA, S-100, CD-34, HMB-45, melan-A, CEA, bcl-2, sinaptofisina, GFAP, calretinina, WT-1, sugieren el diagnóstico de carcinosarcoma.
+Se solicita segunda opinión (Hospital 12 de Octubre) que es concordante con el diagnóstico.
+
+Diagnóstico
+Carcinosarcoma de alto grado de sigma pT4 (vejiga, intestino delgado) pN0 cM1 (metástasis hepáticas [dos] confirmadas histológicamente, adenopatías mesentéricas superiores y en meso), R2 (bordes afectos macroscópicamente).
+
+Tratamiento y evolución
+Durante el estudio presenta aumento del dolor derivado del crecimiento de la masa en la fosa ilíaca izquierda que dificulta la deambulación, estreñimiento creciente y varios episodios de fiebre en probable relación con la masa, por lo que se decide presentar el caso en el Comité Interdisciplinar de Tumores Digestivos, decidiéndose cirugía máxima de la masa dependiente de sigma.
+El 24 de agosto de 2010 se realiza una sigmoidectomía tipo Hartmann. En el acto quirúrgicose visualiza la tumoración de 12 x 8 cm dependiente sigma que infiltra pared abdominal, dos asas de yeyuno, vejiga y orificio crural, metástasis de gran tamaño en el lóbulo hepático izquierdo, acúmulo de adenopatías a nivel de mesentérica superior. Y múltiples adenopatías a lo largo de todo el meso.
+El acto quirúrgico consiste en la exéresis en bloque de la tumoración con las asas de yeyuno infiltradas, exéresis de parte de tumoración que infiltra orificio crural dejando una cuña tumoral, exéresis parcial de la porción de vejiga infiltrada.
+El postoperatorio destaca por estancia en el Servicio de Reanimación durante cinco días y la aparición de un dudoso infiltrado pulmonar que presenta buena evolución con tratamiento ATB. Es dado de alta el 5 de septiembre de 2010.
+La anatomía patológica de la pieza quirúrgica informa de carcinosarcoma dependiente de sigma que ulcera la mucosa e infiltra extensamente grasa pericólica adyacente. El tumor mide 16 cm de diámetro máximo y, a pesar que respeta los bordes quirúrgicos longitudinales, la resección circunferencial del tumor es incompleta. Asas de intestino delgado con infiltración (yeyuno): implantes tumorales de carcinosarcoma que infiltran capa muscular propia y submucosa sin alcanzar mucosa. Cuatro ganglios linfáticos sin infiltración tumoral. Orificio crural infiltrado (pared abdominal): fragmentos de carcinosarcoma. No se reconoce piel. Fragmentos de vejiga con infiltración tumoral: fragmentos de pared vesical con infiltración de la capa muscular esxterna por carcinosarcoma.
+Tras la intervención consultó en varias ocasiones en Urgencias por retención aguda de orina en relación con el sondaje urinario y por cuadro febril secundario a un absceso de la pared abdominal que requirió drenaje y ampliación de herida con cicatrización por segunda intención de manera muy lenta.
+Se planteó iniciar tratamiento con quimioterapia, pero dada la tórpida evolución de la herida quirúrgica y el deterioro progresivo del estado general, se decide mantener tratamiento sintomático hasta mejoría de la situación funcional.
+Ingresa en Oncología Médica el 2 de noviembre de 2010 por deterioro del estado general con intensa astenia y anorexia, estreñimiento pertinaz y dolor abdominal de difícil control en relación con la progresión de enfermedad.
+Dado el franco deterioro sintomático (PS 4) durante este ingreso, se informa al paciente y sus familiares del mal pronóstico de la situación y se decide control sintomático domiciliario hasta el fallecimiento a finales de noviembre de 2010.

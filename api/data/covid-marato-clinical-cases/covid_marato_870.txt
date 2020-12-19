@@ -1,0 +1,24 @@
+Anamnesis
+Paciente mujer de 39 años, diagnosticada de carcinoma ductal infiltrante (CDI) de mama izquierda con ganglios 0/14.
+Inmunohistoquimia (IHQ): receptores de estrógenos (RE) negativos; receptores de progesterona (RP) 70 %; HER-2 +++). Tratada con MRM, quimioterapia (QT), hormonoterapia (HT) y radioterapia (RT) holocraneal; actualmente estadio IV por metástasis hepáticas, pulmonares y cerebrales, en tratamiento de QT con paclitaxel, carboplatino y trastuzumab.
+Acude a Urgencias 10 días después del último ciclo de QT por cuadro de 24 horas de evolución de fiebre de 39,5 ºC, sin clínica respiratoria, digestiva ni miccional.
+
+Examen físico
+La exploración física es anodina. La paciente está consciente y orientada, la auscultación cardiaca es rítmica, no hay ruidos patológicos en la auscultación pulmonar, el abdomen es blando y no doloroso, y la exploración neurológica es normal, sin rigidez nucal.
+
+Pruebas complementarias
+Analítica sanguínea: hemoglobina 11,2 g/dl, hematocrito 32,5 %, leucocitos 4,3 x 109/l con un 53 % de neutrófilos, plaquetas 233 x 109/l, APT 79 %, INR 1,17, APTT 30,6 s, fibrinógeno 449 mg/dl, glucosa 102 mg/dl, creatinina 0,81 mg/dl, urea 19 mg/dl, proteínas 7,6 g/dl, bilirrubina 1,1 mg/dl, ALT 14 U/l, amilasa 60 U/l, sodio (Na+) 131 mEq/l, cloro (Cl-) 97 mEq/l, procalcitonina 3,47 ng/ml, proteína C reactiva (PCR) 2,5 mg/l.
+Electrocardiograma (ECG): RS a 97 lpm.
+Radiografía de tórax: normal.
+
+Diagnóstico
+Se recogen hemocultivos y se decide ingresar a la paciente en el Servicio de Oncología Médica con diagnóstico de fiebre sin foco en paciente inmunodeprimida.
+
+Tratamiento
+Continúa con el tratamiento.
+
+Evolución
+En planta de Oncología Médica, se detecta disartria y afasia global, con lenguaje monosilábico. Reinterrogando a los familiares, estos refieren que presenta esta sintomatología desde hace 48 horas. Se realiza una tomografía computarizada (TC) craneal, y al no detectarse patología aguda, se solicita valoración por el Servicio de Neurología.
+Con sospecha de encefalitis herpética en paciente inmunodeprimida, indican tratamiento empírico con aciclovir 750 mg IV cada 8 horas. Solicitan resonancia magnética (RM) craneal, que muestra una alteración de señal en la región anterior temporal izquierda con signos de pérdida de volumen, e hiperintensidad de señal en T2 que afecta a la corteza insular y se acompaña de restricción a la difusión; EEG, en el que se observa foco lento (delta) continuo en región temporal izquierda con ocasional difusión a zonas anteriores; y punción lumbar, con glucosa de 64 mg/dl, proteínas de 27 mg/dl y PCR de VHS tipo I positivo.
+Durante los días posteriores a la introducción del tratamiento antiviral la paciente experimentó una mejoría progresiva, estando 4 días después afebril, y presentando orientación temporoespacial adecuada, con lenguaje coherente y fluido.
+Se mantuvo aciclovir IV 14 días más y, teniendo en cuenta la excelente evolución, se indicó alta hospitalaria.

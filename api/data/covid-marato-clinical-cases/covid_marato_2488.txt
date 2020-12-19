@@ -1,0 +1,28 @@
+Anamnesis
+Se trata de un paciente varón de 54 años, fumador activo (IA > 35 paquetes-año), bebedor moderado y con hipertensión arterial e hipercolesterolemia en tratamiento farmacológico y con diagnóstico reciente de diabetes mellitus tipo 2 como antecedentes personales relevantes.
+El paciente acude al Servicio de Urgencias aquejando un cuadro clínico de 3 meses de evolución, consistente en síndrome general con pérdida de peso no cuantificada, junto con poliuria y polidipsia de 8-10 l/día.
+
+Exploración física
+Durante la exploración física, no se palpaban adenopatías periféricas, masas ni nódulos mamarios. Auscultación respiratoria con disminución del murmullo vesicular de forma bilateral, sin ruidos sobreañadidos. El resto de la exploración física por aparatos, incluyendo neurológica, se muestra sin alteraciones.
+
+Pruebas complementarias
+Resultados de las pruebas realizadas en el servicio de Urgencias:
+» Radiografía de tórax: aumento de densidad mal definida en LSI.
+» En la analítica extraída destacaba una hipocaliemia grave con un potasio de 2,06 mEq/l.
+El paciente ingresa para completar el estudio realizándose las siguientes pruebas complementarias:
+» TC TAP: masa pulmonar en LSI de unos 6 cm de diámetro mayor, con límites imprecisos que infiltra la bifurcación de la arteria pulmonar izquierda y pleura mediastínica. Adenopatías mediastínicas bilaterales y supraclaviculares de hasta 23 mm de diámetro menor. Nódulo de 31 mm en la suprarrenal derecha que corresponde con una metástasis.
+» PAAF guiada por ecografía de adenopatía supraclavicular derecha con resultado anatomopatológico de metástasis de carcinoma poco diferenciado de células pequeñas (carcinoma microcítico).
+» TC craneal: lesión nodular a nivel del tallo hipofisario de 8 mm que realza de forma homogénea tras CIV.
+» RM silla turca-hipófisis: lesión nodular en tallo hipofisario de 5,5 x 7 x 5 mm que, tras la administración de gadolinio, presenta un realce con morfología en anillo. En lóbulo cerebeloso posterior izquierdo se aprecian tres imágenes extraxiales de realce nodular, una de ellas de 8 x 9,5 x 9,5 mm y las otras dos puntiformes, en relación a implantes leptomeníngeos. Múltiples lesiones focales hipertensas en secuencias T2 y FLAIR distribuidas de manera difusa por sustancia blanca subcortical e hiperintensidad de la sustancia blanca periventricular, en relación con cambios de probable origen isquémico crónico.
+» Estudio hormonal: cortisoluria (en orina de 24 h: 16.505 ug/24 h), cortisol plasmático (96,60 mcg/dl) y ACTH elevados (a las 8:00 h: 153 pmol/l) con T4 libre (7,4 ng/dl), TSH (0,01 ml U/l), FSH, LH y testosterona por debajo de los límites de normalidad.
+
+Diagnóstico
+Carcinoma microcítico de pulmón estadio IV por afectación suprarrenal y del sistema nervioso central (SNC). Hipopituitarismo y diabetes insípida por afectación de adenohipófisis y neurohipófisis respectivamente por M1 en tallo hipofisario. Síndrome de Cushing ectópico ACTH-dependiente.
+
+Tratamiento
+Por una parte, con el diagnóstico de hipopituitarismo y diabetes insípida junto a un grave síndrome de Cushing ectópico ACTH-dependiente, el paciente inició tratamiento con ketoconazol como inhibidor de la esteroidogénesis, desmopresina para la diabetes insípida, tiroxina e insulina a demanda con mejoría clínica y estabilización de la producción esteroidea (cortisol basal de 40 a 20 ug/dl y CLU de 77 ug/24 h a los 16 días de iniciar ketoconazol).
+Así mismo, dado el diagnóstico de carcinoma microcítico de pulmón estadio IV por afectación suprarrenal y de SNC, muy sintomática, el paciente inició 1ª línea paliativa según esquema CBDCA 5 AUC d1 - VP 16 100 mg/m2 d1-3 cada 21 días. Obtiene una respuesta parcial tras 3 ciclos que mantuvo tras 6º ciclo, y con mejoría tanto clínica como analítica, especialmente del síndrome de Cushing por tratarse de un trastorno paraneoplásico.
+Tras finalizar el tratamiento sistémico, el paciente, previa simulación, recibió radioterapia holocraneal con fotones de 6Mv, a 2Gy/sesión, hasta alcanzar una dosis total de 30Gy.
+
+Evolución
+Tras un intervalo libre de progresión de 4 meses, el paciente presenta en un escáner de control de progresión de la enfermedad a nivel cerebral y suprarrenal con importante deterioro físico y escaso soporte social, por lo que se decidió ingreso en una Unidad de Corta-Media Estancia, llevándose a cabo los cuidados paliativos sintomáticos hasta su fallecimiento.

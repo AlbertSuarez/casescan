@@ -1,0 +1,43 @@
+Anamnesis
+Mujer de 77 años, que presenta como antecedentes de interés diabetes mellitus, asma bronquial moderado, dextrocardia y alopecia cicatricial. Su tratamiento habitual consiste en: montelukast, aerosol de salmeterol/fluticasiona y pioglitazona. No tiene antecedentes familiares de interés.
+La paciente acude en enero de 2014 a Oftalmología por un cuadro de diplopia binocular intermitente y se objetiva un enoftalmos. Tras la exploración inicial se realiza TC craneal que pone de manifiesto una alteración de la densidad grasa del ojo derecho, con tejido que envuelve y engrosa el músculo recto interno y llega hasta el recto inferior.
+Con este hallazgo, para hacer el diagnóstico diferencial del enoftalmos de nueva aparición, se solicitan más exploraciones. Entre las posibilidades diagnósticas se plantean procesos post-inflamatorios y lesiones neoplásicas que produzcan retracción ocular.
+
+Exploración física
+ECOG1. A la exploración oftalmológica existe un enoftalmos derecho evidente y limitación parcial a la mirada superior y externa de ese ojo. El resto de la exploración es normal.
+
+Pruebas complementarias
+» Analítica con estudio de hemograma, bioquímica y coagulación: sin alteraciones .
+» Puesto que una de las causas de enoftalmos son las metástasis de una neoplasia de mama se practica también una ecografía mamaria y mamografía: asimetría de densidad en el cuadrante superior externo de la mama derecha, nodular y una adenopatía axilar derecha sospechosa. Se realiza biopsia de ambas.
+Entonces se completa el estudio:
+» Analítica con marcadores tumorales: CEA de 14,6 ng/ml y CA15.3 de 459 UI/ml.
+» RM mamaria: además del nódulo en cuadrante superior externo de mama derecha, hay una asimetría glandular en la región retroaleolar izquierda que también se biopsia.
+» TC tóraco-abdómino-pélvico con contraste: sin evidencia de enfermedad a otro nivel.
+» Rastreo óseo: sin captaciones patológicas.
+Con estos hallazgos se comenta el caso en Comité de tumores de mama y con el servicio de Oftalmología y se decide realizar también biopsia orbitaria para conseguir la confirmación diagnóstica.
+
+Diagnóstico
+Neoplasia sincrónica bilateral de mama:
+» Mama derecha: carcinoma lobulillar infiltrante G2 cT2N1M1 (confirmación de metástasis orbitaria por carcinoma lobulillar). Receptores de estrógenos positivos (3+, 99%), progesterona positivos (3+, 90%). Her2 negativo. Ki67 8 %
+» Mama izquierda: Carcinoma ductal infiltrante G2 cT1cN0M0. Receptores de estrógenos positivos (3+, 100%), progesterona positivos (3+, 100%). Her2 negativo. Ki67 10 %
+
+Tratamiento
+En marzo de 2014 se inicia hormonoterapia de primera línea con un inhibidor de aromatasa (letrozol 2,5 mg al día).
+Tras dos meses de tratamiento hormonal se solicita analítica, en la que los marcadores tumorales se mantienen estables, y mamografía y TC tóraco-abdómino-pélvico, que no muestran cambios significativos. Se evalúa como enfermedad estable clínica y radiológica.
+Seis meses después del inicio del tratamiento sistémico se practica cirugía conservadora bilateral con linfadenectomía derecha y biopsia selectiva del ganglio centinela de axila izquierda.
+
+Estudio anatomo-patológico:
+» Mama derecha: Carcinoma infiltrante ducto-lobulillar ypT2 ypN2 (9/10) R1 (borde superior). G1. Receptores de estrógenos positivos (3+, 85%), progesterona positivos (3+, 70%). Her2 negativo. Ki67 3%
+» Mama izquierda: carcinoma ductal ypTx N1 (mic).
+Tras la cirugía, tanto CEA como CA 15.3 se mantienen en meseta (7,6 ng/ml y 452,7 respectivamente).
+En agosto de 2014 recibe radioterapia locorregional bilateral: en la mama y regiones ganglionares derechas 50 Gy y boost de 12,5 Gy por el borde quirúrgico afecto y en la mama y regiones ganglionares izquierdas otros 50 Gy. Tras finalizarla, se inicia radioterapia a nivel ocular, donde se administran 46 Gy en 23 sesiones mediante radioterapia modulada volumétricamente (VMAT) y dos arcos en órbita derecha con estereotaxia.
+
+Evolución
+Continúa tratamiento hormonal con letrozol, con control cuatrimestral mediante TC tóraco-abdómino-pélvico (TAP), rastreo óseo y marcadores tumorales. Éstos presentan un descenso progresivo, con niveles de CA 15.3 de 282,5 UI/ml y CEA de 7,3 ng/ml en enero de 2016.
+La paciente tiene buena tolerancia al tratamiento, y como sintomatología predominante, persiste la clínica ocular, que va mejorando progresivamente, hasta que en marzo de 2015 ha desaparecido la diplopia, quedando como clínica residual, visión borrosa y como efecto secundario de la radioterapia, conjuntivitis grado 2 con una úlcera corneal y disminución de la agudeza visual, que controlan desde Oftalmología.
+Después de 27 meses del inicio de la hormonoterapia refiere leve aumento del perímetro abdominal. En las exploraciones:
+» Analítica con aumento marcado del CA 15.3 (1112.4 UI/ml).
+» TC TAP: pequeña cantidad de líquido ascítico y engrosamiento de la grasa mesentérica y el omento mayor. No hay otras alteraciones.
+» Rastreo óseo sin hallazgos.
+» RM orbitaria: persisten cambios actínicos.
+Se solicita entonces citología del líquido ascítico que resulta negativa, pero con la clínica de la paciente, la elevación del marcador y la imagen en TC, se considera progresión de enfermedad y se inicia hormonoterapia de segunda línea con fulvestrant: dosis de carga de 500 mg los días 1, 14 y 28 y posteriormente 500 mg cada 28 días.

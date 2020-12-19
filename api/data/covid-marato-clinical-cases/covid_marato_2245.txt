@@ -1,0 +1,25 @@
+Anamnesis
+Paciente varón de 50 años, con antecedentes de HTA tratada con hidroclorotiazida, cardiopatía isquémica a los 18 años de edad, no revascularizada entonces, AIT repetición sin secuelas actualmente en tratamiento con simvastatina, obesidad grado III. Diagnosticado de enfermedad de Crohn estenosante, con afectación de duodeno e íleon terminal (A2, L1, B1) de 18 años de evolución, en seguimiento por el Servicio de Digestivo, tratada con azatioprina 200 mg/24 h de mantenimiento con buen control hasta septiembre de 2016 que presentó cuadro suboclusivo, motivo por el cual inicia tratamiento con prednisona oral 50 mg/2 4h en pauta descendente. Exfumador de 1 paquete-día.
+Consulta en Urgencias en noviembre de 2016 por cuadro de dolor abdominal, en flanco izquierdo de 3 semanas de evolución, sin cambios en el ritmo intestinal, con deposiciones de consistencia normal y sin productos patológicos. No presentaba fiebre ni rectorragia. Ante sospecha de nuevo brote de enfermedad de Crohn, ingresa en Digestivo para reajuste de tratamiento.
+
+Exploración física
+Durante la exploración, destacaba un dolor abdominal difuso, mayor en mesogastrio sin signos de peritonismo.
+Pruebas complementarias
+En la analítica, destacaba una leve leucocitosis a expensas de neutrófilos y una proteína C reactiva (PCR) de 24,5. Se realizó radiografía simple de abdomen que resultó normal.
+Se realizó una TC abdominal que evidenciaba una estenosis parietal a nivel de íleon con dilatación retrógrada de asas intestinales, en relación a cuadro inflamatorio relacionado con enfermedad de Crohn (dichos hallazgos se confirmaron mediante entero-RM).
+
+Diagnóstico
+Estenosis intestinal en paciente con enfermedad de Crohn.
+
+Tratamiento
+Con estos datos, el paciente es intervenido quirúrgicamente de forma programada mediante resección del intestino medio más anastomosis termino-terminal.
+
+Evolución
+A las 2 semanas del alta, ingresa por cuadro de suboclusión intestinal acompañado de leucopenia y neutropenia leve en analítica. En TC abdominal se objetivó una masa de partes blandas estenosante a nivel 3º-4º porción duodenal, sospechosa de malignidad, así como implantes peritoneales. Se completó estudio mediante TC-PET mostrando actividad metabólica de características neoplásicas en dichas localizaciones.
+El estudio anatomopatológico de la pieza quirúrgica se informó como estenosis de intestino delgado secundaria a tumor del estroma gastrointestinal (GIST) de íleon con alto índice mitótico (> 5 mitosis x 50 CGA). Estadificado histológicamente como pT2pN0 Estadio IIIB.
+Se realizó estudio inmunohistoquímico: mostraba positividad en la celularidad descrita para CD117 (C-Kit) y CD34. Resultado negativo: DOG-1, S100, AML, desmina, Melan A, Mitf, CD56 y sinaptofisina.
+Tras resolución del cuadro oclusivo posquirúrgico con medidas de soporte y sin reintervención, con el diagnóstico inicial de tumor GIST no resecable completamente (persistencia de masa residual y afectación peritoneal difusa), es derivado a Oncología Médica para valoración de tratamiento.
+Valorado en consultas externas, presenta un importante cuadro constitucional, aunque tolerando ya dieta oral. En el hemograma destacaba una leucocitosis franca de 79.000 células/mm3, con neutrofilia leve y monocitosis 3.900/mm3 y trombopenia 52.000 plaquetas/mm3.
+Se realizó un frotis de sangre periférica en ese momento, destacando la presencia de un 87 % de Blastos, por lo que se contactó con el Servicio de Hematología para realización de biopsia de médula ósea. Ante este diagnóstico, se contactó con el Servicio de Anatomía Patológica para revisión de biopsia inicial, ampliándose el estudio inmunohistoquímico con la determinación de CD 45 (antígeno leucocitario común) CD43, CD117 (C-Kit), CD34, CD123, y Tdt que fueron positivos aunque sin inmunoexpresión de mieloperoxidasa, siendo negativos CD68, CD3, CD20, CD5, CD4, CD10, CD15, CD30, CD61, citoqueratina AE1/AE3. El estudio de medula ósea fue diagnóstico de probable leucemia aguda mielomonocítica.
+Ante estos resultados, se reevaluó el caso clínico, siendo el diagnóstico definitivo de sarcoma mieloide con afectación de asas/mesenterio y peritoneo revisados, como manifestación extramedular de la leucemia aguda mielomonocítica.
+El paciente ingresó en planta de Hematología, iniciando tratamiento de quimioterapia con idarubicina y citarabina.

@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 37 años. Antecedentes de dislipemia y hernia de hiato. Exfumador de 10 años. Intervenido de otosclerosis. No refiereantecedentes familiares oncológicos. No tiene tratamiento habitual.
+En octubre de 2010, a raíz de hematuria y dolor en fosa renal izquierda, se inicia estudio: Ecografía urológica: microcálculos en riñón derecho y masa renal izquierda de 47 mm. Adenopatía paraaórtica izquierda de 60 mm.
+Tomografía computarizada (TC) abdominopélvica: masa renal izquierda y adenopatía metastásica retroperitoneal ipsilateral.
+Resonancia magnética abdominal: se confirman los hallazgos anteriores.
+En noviembre de 2010 se practica una nefrectomía radical izquierda: carcinoma papilar de células renales tipo 2, de 55 x 50 x 45 mm, de grado 3 de Führman, que infiltra la cápsula sin rebasarla, presencia de adenopatía paraaórtica izquierda infiltrada por carcinoma renal con necrosis y hemorragia pT1bN1.
+Se inicia seguimiento. En TC, realizada a los 3 tres meses de la cirugía, se objetiva recidiva local en celda renal izquierda de 43 x 33 mm en contacto con el psoas izquierdo sin infiltrarlo y adenopatía paraaórtica izquierda de 26 mm.
+Se desestima cirugía y se remite al paciente a Oncología Médica para valorar tratamiento.
+
+Examen físico
+ECOG 0. Auscultación cardiopulmonar normal. Abdomen sin alteraciones. Miembros inferiores sin edemas. No adenopatías palpables.
+
+Pruebas complementarias
+Analítica con hemograma, bioquímica y coagulación. Destaca: triglicéridos 735 mg/dl y colesterol 226 mg/dl.
+
+Diagnóstico
+Progresión del carcinoma renal papilar con metástasis ganglionar retroperitoneal irresecable de riesgo intermedio (Motzer).
+
+Tratamiento
+Inicia tratamiento con sunitinib 50 mg al día cuatro semanas seguido de dos de descanso. Tras dos ciclos se realiza una TC que informa de progresión por crecimiento de la adenopatía retroperitoneal. Comienza segunda línea con temsirolimus 25 mg intravenosos semanales.
+
+Evolución
+Recibe 38 dosis de temsirolimus hasta abril de 2012. En la TC se advierte progresión de la enfermedad a nivel pulmonar: nódulo en el lóbulo superior derecho de 27 x 44 mm. Se plantea tercera línea con sorafenib 400 mg/12 horas. En la TC de julio: imagen nodular pulmonar cavitada.
+Se valora con el Servicio de Neumología y se realiza fibrobroscoscopia. Lavado broncoalveolar: Mycobacterium tuberculosis. Citología negativa para células malignas. Inicia tratamiento específico con isoniazida, rifampicina y etambutol. Tras completarlo, se objetiva progresión a nivel hepático, ganglionar y peritoneal. Se inicia nueva línea de tratamiento con pazopanib. El paciente sigue vivo a los 30 meses del diagnóstico con tratamiento activo y estabilización de la enfermedad.

@@ -1,0 +1,29 @@
+Anamnesis
+Sin antecedentes cardiológicos de interés.
+Debut de adenocarcinoma de colon en marzo de 2016 con ictericia obstructiva secundaria a metástasis hepáticas. Estadio IV al diagnóstico por diseminación hepática. Mutación KRAS no detectada.
+En marzo de 2016 se inicia primera línea de quimioterapia paliativa con 6 ciclos de FOLFOX6 y cetuximab con respuesta parcial en octubre de 2016.
+Enfermedad estable hasta enero de 2018 con progresión local a nivel rectosigma. Se empieza una segunda línea con FOLFIRI-panitumumab por neurotoxicidad al tratamiento previo y, tras el sexto ciclo, se observa una progresión radiológica a nivel peritoneal con elevación del marcador tumoral.
+
+Exploración física
+» Buen estado general. ECOG 0.
+» Afebril y hemodinámicamente estable. Bien perfundido e hidratado. Eupneico.
+» Auscultación cardiaca rítmica.
+» Auscultación pulmonar con murmullo vesicular conservado.
+» Abdomen blando y depresible, no doloroso durante la palpación y sin signos de irritación peritoneal. No se palpan masas ni organomegalias.
+
+Pruebas complementarias
+» Analítica sanguínea del 17 de agosto de 2018: función renal e iones sin alteraciones. Proteínas totales disminuidas de 5,94 g/dl. CEA de 15,9. Hemograma con cifras dentro de la normalidad.
+» Tomografía computarizada toracoabdominopélvica del 13 de agosto de 2018 que se compara con la previa de abril de 2018: nódulos hipodensos en ambos lóbulos hepáticos compatibles con metástasis hepáticas, sin cambios. Engrosamiento de sigma en relación con neoplasia conocida similar a control previo. Varios nódulos sólidos en grasa meso sigmoidea con aumento de tamaño con respecto al control previo.
+
+Diagnóstico
+Adenocarcinoma de colon estadio IV en progresión tras segunda línea de tratamiento quimioterápico.
+
+Tratamiento
+Nueva línea de tratamiento con capecitabina-bevacizumab en esquema trisemanal con capecitabina 650 mg cada 12 horas durante 14 días y bevacizumab 585 mg administrado el día 1.
+
+Evolución
+Inicia el tratamiento en octubre de 2018 con buena tolerancia.
+En febrero de 2019, tras cinco ciclos de capecitabina-bevacizumab y la enfermedad estable, acude a Urgencias por disnea de 24 horas de evolución. Refiere disnea de intensidad progresiva hasta hacerse de reposo, ortopnea y molestias torácicas difusas. En la exploración física, presenta hipotensión de 91/79 mm de Hg, taquicardia de 128 lpm y una frecuencia respiratoria de 36 respiraciones por minuto con mala perfusión distal e ingurgitación yugular. En la auscultación cardiaca se escucha un soplo sistólico grado III y crepitantes en ambos campos pulmonares. Analíticamente destaca una acidosis metabólica con un pH de 7,11, un pro-BNP de 8.179 pg/ml y una insuficiencia renal leve con creatinina de 1,22 mg/dl. En la radiografía de tórax, se observan signos de redistribución vascular compatibles con edema agudo de pulmón.
+Se inicia tratamiento con oxigenoterapia intensiva, diuréticos, morfina, bicarbonato y nitroglicerina en perfusión y se traslada a la Unidad de Cuidados Intensivos.
+A su llegada, se realiza una ecografía transtorácica en la que se observa un ventrículo izquierdo de tamaño normal con una fracción de eyección estimada de más del 70% y un ventrículo derecho dilatado. Además, se objetiva en la zona basal del septo interventricular una imagen aneurismática, confirmándose mediante Doppler una comunicación interventricular a dicho nivel.
+Posteriormente, la evolución clínica es desfavorable con disnea progresiva e hipotensión arterial refractarias al tratamiento, falleciendo tras nueve horas de su ingreso.

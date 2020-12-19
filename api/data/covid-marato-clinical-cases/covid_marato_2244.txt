@@ -1,0 +1,28 @@
+Anamnesis
+Mujer de 81 años de edad, con antecedentes personales de alergia a pirazolonas, diabetes mellitus tipo 2, dislipemia e hipotiroidismo. Colecistectomizada en 1988.
+Fue intervenida mediante mastectomía radical modificada en mama izquierda en 1974 a la que se asoció radioterapia por bomba de cobalto. En diciembre de 2012 se interviene nuevamente mediante esta técnica en mama derecha por carcinoma ductal infiltrante estadio IIA (pT2N0) triple negativo, recibiendo quimioterapia adyuvante esquema FEC por 6 ciclos, finalizando en mayo de 2013. En Comité de Tumores se desestima radioterapia adyuvante.
+En enero de 2014 ingresa por disnea e insuficiencia respiratoria secundaria a derrame pleural, hallándose células malignas tipo adenocarcinoma en la citología. En pruebas radiológicas, se objetiva también recidiva a nivel óseo.
+Durante el ingreso se colocó drenaje endotorácico y se realizó pleurodesis mediante talcaje, con franca mejoría de la clínica respiratoria de la paciente. Previo al alta y ante adenocarcinoma de mama E-IV triple negativo, se administró primer ciclo de paclitaxel/bevacizumab el 6 de febrero de 2014.
+Seis días tras el alta reingresa por cuadro de vómitos de contenido alimenticio, tardíos tras la ingesta, precedidos de náuseas, sin dolor abdominal ni síndrome febril asociado. Presentaba correcta expulsión de gases y heces.
+
+Examen físico
+Regular estado general, consciente y orientada, normohidratada y normocoloreada. Eupneica en reposo. Constantes dentro de la normalidad. Glasgow 15 sin focalidad. A la auscultación, destacaba únicamente hipoventilación en ambas bases con débiles crepitantes. El abdomen era blando y depresible, indoloro a la palpación, sin palparse masas ni megalias y con ruidos hidroaéreos presentes. En miembros inferiores presentaba leve edema tibiomaleolar blando.
+
+Pruebas complementarias
+- Al ingreso, los valores de hemograma, bioquímica y coagulación estaban dentro de la normalidad. Conforme evolucionaba el cuadro patológico, los análisis revelaron un patrón de colostasis mixta con fallo hepático.
+- Las serologías de virus hepatotropos, herpesvirus, Brucella, E. histolytica y VIH resultaron negativas.
+- La radiografía de tórax mostraba pinzamiento de ambos senos costofrénicos, sin otros hallazgos, mientras que en la de abdomen se objetivaba dilatación gástrica con patrón de aireación intestinal inespecífico.
+- El tránsito esófago-gástrico con gastrografín reveló marcada alteración de la morfología del esófago medio y distal, con múltiples defectos de repleción en el tercio medio y en el distal, de morfología lineal y discretamente serpingiforme, por lo que se realizó gastroscopia que objetivó hallazgos compatibles con esofagitis necrotizante con alto riesgo de perforación.
+- La ecografía abdominal mostró un hígado de tamaño normal y un parénquima homogéneo, sin aspecto de hepatopatía crónica, si bien en el segmento 4 se vió una zona irregular hipoecoica de 59 x 49 mm sugestiva de corresponder a una colección intraparenquimatosa en evolución. Este hallazgo se confirmó mediante RM dinámica hepática, planteando el absceso hepático como primera hipótesis diagnóstica.
+
+Diagnóstico
+Esofagitis necrotizante por probable toxicidad a bevacizumab, complicada con absceso hepático y colostasis mixta con fallo hepático.
+
+Tratamiento
+Al ingreso, y ante la sospecha de gastroparesia por los hallazgos de la radiografía de abdomen, se colocó una sonda nasogástrica, se dejó a la paciente en dieta absoluta y se administró tratamiento con procinéticos (metoclopramida y claritromicina). A pesar de estas medidas, persistieron los vómitos, por lo que se solicitó tránsito esófago-gástrico, revelando una marcada alteración de la morfología del esófago medio y distal, y evidenciándose en la gastroscopia hallazgos compatibles con esofagitis necrotizante con alto riesgo de perforación.
+En ese momento, las analíticas empezaron a mostrar hallazgos compatibles con colestasis mixta (hepatocelular y colestásica) con fallo hepático incipiente, sospechándose la etiología farmacológica de ambas entidades. La serología para virus hepatotropos y VIH fue negativa. Se retiraron los procinéticos y se administró nutrición parenteral central de protección hepática, además de cobertura antibiótica para una eventual mediastinistis, dado el alto riesgo de perforación esofágica y la aparición de fiebre.
+Por estos hallazgos analíticos se realizó ecografía abdominal, que mostró en segmento 4 hepático una zona irregular hipoecoica de 59 x 49 mm sugestiva de corresponder a colección intraparenquimatosa en evolución, que se confirmó con RM dinámica, planteando el absceso hepático como primera opción diagnóstica.
+Dados estos hallazgos, se contactó con el Servicio Radiología intervencionista para el drenaje de absceso hepático, con salida de 30 cc de material purulento que se remite a Microbiología para su estudio, resultando cultivo positivo para E. coli multisensible.
+
+Evolución
+A pesar de todas estas medidas, la paciente presentó evolución tórpida con progresión analítica y clínica de colostasis con encefalopatía hepática como complicación final, siendo éxitus 16 días después del ingreso.

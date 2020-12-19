@@ -1,0 +1,26 @@
+Anamnesis
+Paciente mujer de 42 años sin antecedentes personales de interés. Diagnosticada en abril de 2012 de adenocarcinoma de recto inferior (a 6 cm del margen anal), localmente avanzado (T3N1-2M0). Se realiza tratamiento neoadyuvante con quimioterapia con capecitabina y radioterapia concomitante y es intervenida en julio de ese mismo año mediante amputación abdominoperineal con colostomía definitiva. Posteriormente, realiza tratamiento adyuvante con esquema capecitabina y oxaliplatino (6 ciclos) pasando a revisiones periódicas con analítica y pruebas complementarias.
+En mayo de 2016, una PET-TC de control muestra captación de una lesión parahiliar derecha, recomendando completar estudio para descartar recidiva vs segundo tumor primario.
+
+Exploración física
+Asintomática. Buen estado general. Bien hidratada y perfundida. Buena coloración de piel y mucosas. Cabeza y cuello: sin adenopatías. No hay bocio. ACP: rítmica. MVC. ABD: blando, no doloroso a la palpación. No hay signos de irritación peritoneal. Bolsa de colostomía normofuncionante.
+
+Pruebas complementarias
+Analíticas con hemograma, bioquímica y marcadores tumorales (CEA y CA 19,9 normales).
+PET-TC: en las imágenes obtenidas se observa de nueva aparición una lesión parahiliar derecha hipermetabólica, con SUVmax 14,9, de 35 x 27,5 x 50 mm de diámetro en sus ejes AP-TR y CC, respectivamente, recomendando estudio dirigido para su caracterización. Adyacente, existen otras lesiones de menor tamaño adyacente a árbol bronquial derecho, a valorar adenopatías interlobares.
+Existe también afectación adenopática en región paratraqueal derecha, con SUVmax 14,6, de hasta 16 mm de diámetro; prevascular delante de vena cava superior, con SUVmax 12, de hasta 12 mm; precarinal derecha y subcarinal, con SUVmax 14,8 de hasta 20 mm de diámetro. Se visualiza también un engrosamiento focal en pleura parietal posterior derecha, a la altura de la 8ª costilla, con SUVmax 4,5. Conclusión: lesión hipermetabólica parahiliar derecha, con afectación de mediastino y pleura homolateral de nueva aparición, de la que se recomienda estudio dirigido para descartar recidiva o segundo primario.
+Fibrobroncoscopia sin hallazgos.
+Ecoendoscopia: PAAF de adenopatía subcarinal de 33 x 17. Conglomerado adenopático proximal a estación subcarinal. Estudio anatomopatológico: Fondo discretamente celular y de aspecto necrótico-degenerativo, sin evidencia de malignidad.
+EBUS: adenopatías paratraqueales, hiliares derechas y subcarinales hiperecogénicas siendo PAAF negativa para células malignas.
+Mediastinoscopia: biopsia de ganglios paratraqueales derechos con informe anatomopatológico intraoperatorio de linfadenitis granulomatosa. Estudio anatomopatológico: linfadenitis granulomatosa de tipo sarcoideo.
+
+Diagnóstico
+» Adenopatías mediastínicas con linfadenitis granulomatosa tipo sarcoideo.
+» Se descarta la presencia de enfermedad maligna.
+
+Tratamiento
+Tras estudio histopatológico que muestra que la captación metabólica adenopática estaba en relación con sarcoidosis y descartando, por tanto, malignidad, se deriva la paciente al Servicio de Medicina Interna para valoración y tratamiento.
+Se realiza tratamiento con prednisona 60 mg durante 3 meses.
+
+Evolución
+La paciente acude a revisiones con Oncología como realizaba de forma habitual, encontrándose asintomática y con buen estado general. La PET-TC control muestra la desaparición completa de las adenopatías mediastínicas.

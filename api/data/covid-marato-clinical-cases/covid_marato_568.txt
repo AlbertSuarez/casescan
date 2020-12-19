@@ -1,0 +1,20 @@
+Anamnesis
+Mujer de 67 años.
+Antecedentes personales: trombosis venosa profunda en extremidad inferior izquierda, leucemia linfoide crónica B, estadio A en seguimiento por hematología.
+Historia oncológica: en febrero de 2010, es diagnosticada de un adenocarcinoma de colon ascendente. Se realiza una hemicolectomía derecha. La anatomía patológica informa de un adenocarcinoma de colon derecho grado 1, p T3 p N0/50 M0 estadio IIA, sin invasión vasculolinfática.
+No precisa tratamiento adyuvante iniciando seguimiento. Tras un intervalo libre de enfermedad (ILE) de 27 meses, se evidencia en tomografía computarizada (TC) masa pulmonar paracardiaca en LID de 5,7 cm, adenopatía intralobar en LID de 14 mm, adenopatía infracarinal de 30 mm, compatible con recidiva pulmonar y ganglionar como primera posibilidad. Se realiza biopsia de la masa pulmonar y de la adenopatía (7), que fueron positivas para metástasis de adenocarcinoma de origen colónico, con CK20 intensamente positiva.
+
+Exploración física
+Sin hallazgos patológicos destacables.
+
+Pruebas complementarias
+Analítica: hemograma y bioquímica dentro de la normalidad. Marcadores tumorales normales.
+
+Diagnóstico
+Adenocarcinoma de colon p T3 p N0 M0, IIA, KRAS nativo. Recaída pulmonar y ganglionar tras ILE de 27 meses.
+
+Tratamiento
+En mayo de 2012, inicia tratamiento con FOLFOX-cetuximab.
+
+Evolución
+Tras 3 meses (4 ciclos de tratamiento) se realiza TC de reevaluación donde se evidencia respuesta parcial mayor tanto a nivel de la masa pulmonar como ganglionar. Tras el tercer ciclo, presenta trombopenia G3 que requirió 2 retrasos, con lo cual prosigue con fluoropirimidinas-cetuximab. Completa 23 ciclos, con excelente tolerancia. En TC de control se muestra estabilización de la enfermedad con muy baja carga tumoral, con nódulo pulmonar LID milimétrico y desaparición de adenopatías. Ante esta respuesta mantenida en el tiempo, se decide iniciar descanso terapéutico en septiembre de 2013. Actualmente, tras 5 años y 9 meses, la paciente continúa sin evidencia de enfermedad activa, con un nódulo milimétrico pulmonar en LID estable desde hace 5 años. Próximo control programado para junio de 2018.

@@ -1,0 +1,31 @@
+Anamnesis
+Se trata de un varón de 76 años, pescador jubilado, hipertenso y diabético no insulinodependiente sin ninguna medicación activa. Es exfumador desde los 60 años. No tiene antecedentes familiares de interés.
+Consulta en Urología por primera vez en febrero 2010 en relación a hematuria persistente. Tras el diagnóstico mediante tomografía computarizada (TAC) de una lesión renal es intervenido mediante una nefrectomía parcial del riñón derecho, con Anatomía Patológica de carcinoma de células claras de 1,4cm pT1pN0M0, grado IV de Fuhrman.
+Durante el seguimiento en agosto 2014 se detecta una masa de partes blandas sobre el músculo psoas derecho de 3 x 3,9 x 4 cm. Se decidió exéresis de la misma, con similar resultado en la Anatomía Patológica que la descrita previamente, si bien existían imágenes de invasión vascular, así como contacto focal del tumor con el borde de resección.
+Dos años más tarde, se observó un único implante peritoneal en región prehepática, así como una masa de 3 cm en la curvatura mayor del estómago. Tras pruebas complementarias se descartó enfermedad a otros niveles. La lesión gástrica fue compatible con un tumor del estroma gastrointestinal (GIST). Tras comentar el caso en comité, se realiza cirugía de ambas lesiones, con resultado histopatológico compatible con GIST con bajo índice mitótico (1/5 mm2), siendo la masa abdominal una metástasis de carcinoma renal de células claras. Se indicó seguimiento.
+
+Exploración física
+A pesar de la edad, el paciente presenta un índice Karnofsky del 90 % y aporta un examen minimental sin alteraciones neurológicas. No existe pérdida ponderal ni síndrome constitucional, con apetito conservado y hábito deposicional normal.
+La auscultación cardiaca es rítmica sin soplos y en la auscultación pulmonar no se obtienen ruidos patológicos. El abdomen es blando y depresible sin dolor, con cicatrices postquirúrgicas presentando buen aspecto. No tiene edemas en miembros inferiores.
+
+Pruebas complementarias
+En la TC de febrero 2017 se observa una recidiva a nivel perihepático inferior con una masa de 3 x 4cm compatible con un implante peritoneal, así como una sospecha de metástasis pulmonares en el lóbulo superior derecho (LSD) y quistes hepáticos en segmentos II y IV. La PET-TC descarta hipermetabolismo en las lesiones hepáticas.
+Las analíticas realizadas no mostraban ninguna alteración a excepción de la hemoglobina, con unos valores de 11 mg/dl.
+
+Diagnóstico
+Dadas las pruebas e intervenciones previas se diagnosticó de un carcinoma renal de células claras metastásico (CCRm), situándose en el grupo de riesgo intermedio por poseer un 1 punto en la Escala Memorial Sloan-Kettering Cancer Center (MSKCC).
+
+Tratamiento
+En abril de 2017, se inició tratamiento de primera línea con sunitinib 50 mg según esquema de 4 semanas de tratamiento seguida de 2 semanas de descanso. Durante el segundo ciclo, el paciente desarrolla una anemia grado 2 e hipertensión grado 3 no controlada con 20 mg de enalapril diarios y 40 mg/día de olmesartán, lo que obligó a una reducción de sunitinib a 37,5 mg continuado con el mismo esquema.
+Se requirió de ferroterapia para mantener la anemia en un grado 1, así como analgesia de primer escalón para controlar el dolor.
+En la primera reevaluación de la enfermedad por TC, se observa progresión pulmonar. Ante la recaída, se inicia nivolumab 3 mg/kg cada dos semanas en septiembre 2017.
+
+Evolución
+Tras siete ciclos de nivolumab:
+» La primera TC de control en noviembre 2017 observa una progresión de la enfermedad por aparición de conglomerados adenopáticos a múltiples niveles y metástasis hepáticas en segmentos VI y A su vez, existía un crecimiento significativo de la masa en la pared abdominal subhepática (un aumento del 66 % respecto del estudio previo) y nódulos subcutáneos de nueva aparición. Todos los nódulos pulmonares se transformaron milimétricos.
+» Por otra parte, el paciente mantenía un índice Karnofsky del 100 %, con una importante mejoría en la calidad de vida con menor astenia, habiendo retirado toda medicación domiciliaria. Únicamente presenta prurito grado 1 controlado con antihistamínicos. La hemoglobina alcanzo niveles normales de 13,5 mg/dl.
+» Con la sospecha de pseudoprogresión, se mantuvo el mismo tratamiento.
+Tras doce ciclos nivolumab:
+» Diez semanas después, se evidencia una respuesta completa pulmonar, así como de las múltiples adenopatías en diferentes localizaciones. A nivel hepático, ambas lesiones se redujeron un 50 %.
+» La TC muestra la evolución de la mayor lesión medible tras el inicio de nivolumab, sin realizar cambio de línea de tratamiento.
+El paciente mantuvo el tratamiento con nivolumab, realizando nueva TC a las 30 semanas, visualizándose respuesta completa en todos los niveles. En diciembre de 2019, se modifica el esquema a dosis mensual de 480 mg4. Se mantiene asintomático y con respuesta completa duradera de más de 1 año, siendo en abril 2019 la última consulta realizada.

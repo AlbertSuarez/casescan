@@ -1,0 +1,35 @@
+Anamnesis
+El caso se centra en un varón de 69 años con antecedentes de hipertensión, hiperplasia benigna de próstata, no fumador y con exposición al amianto ya que, a nivel profesional, trabajó en un almacén de material de construcción.
+En 2015, a raíz de un dolor costal derecho de meses de evolución y sin mejoría del mismo tras ir aumentando progresivamente la analgesia, es diagnosticado de cáncer de pulmón no microcítico avanzado por presencia de adenopatías axilares ipsilaterales.
+
+Exploración física
+En el momento del diagnóstico, el paciente presenta ECOG 0 y dolor costal derecho de tipo neuropático, sin palparse masa tumoral.
+En la recaída, mostró empeoramiento de la situación basal con ECOG 1 a causa del dolor.
+
+Pruebas complementarias
+En la analítica basal sólo destaca leve incremento del antígeno carcinoembrionario (CEA) 7 ng/ml (VN: 0-5 ng/ml).
+A través de PET-TC se visualiza hipermetabolismo en masa de pared costal derecha, que infiltra costilla derecha, con SUV de 21,6 y adenopatías en nivel axilar derecho, con SUV de 7,1.
+La citología diagnóstica describe la presencia de células neoplásicas de estirpe epitelial consistente con carcinoma de origen pulmonar. La inmunohistoquímica (IHQ) es positiva para TTF 1, EMA, CK amplio espectro y CK 7. El estudio molecular no presenta mutaciones de EGFR ni reordenamiento de ALK.
+La rebiopsia demuestra infiltración por adenocarcinoma de origen primario pulmonar, con tinción positiva de PD-L1 > 50 % de las células tumorales. Estudio mutacional negativo para alteraciones en EGFR, ALK y ROS1.
+El estudio de NGS mediante FoundationONE® revela amplificación de MET.
+
+Diagnóstico
+Según la 7ªedición TNM vigente en el momento del diagnóstico, se trata de un estadio cT3 N0 M1b (IV), que en la 8ª sería un estadio IVA porque separa en un tercer grupo la presencia de una única metástasis extratorácica (M1b). A nivel IHQ presenta PD-L1 > 50 % y a nivel molecular amplificación de MET.
+
+Tratamiento
+Entre septiembre y octubre de 2015, el paciente recibe quimioterapia (QT) según esquema cisplatino 40 mg/m2 D1-8-vinorelbina 20 mg/m2 D1-8 concomitante con radioterapia (RT). Refiere mejoría franca del dolor, con respuesta parcial por criterios RECIST, presentando astenia G2 y neumonitis post-RT como efectos secundarios.
+
+Evolución
+Un año y medio después, en junio de 2017, refiere dolor escapular derecho incapacitante de meses de evolución y en PET-TC se confirma progresión del tumor primario. Se solicita nivel de PD-L1 en la biopsia diagnóstica, pero no es posible al tratarse de una citología.
+Entonces, se administra RT antiálgica e inicia "primera línea" metastásica con carboplatino AUC 5 D1-vinorelbina 25 mg/m2 D1-8 trisemanal, objetivándose respuesta parcial metabólica tras 4 ciclos.
+El dolor no termina de controlarse y es derivado a la unidad del dolor, con infiltración de corticoides en 3 nervios intercostales y de toxina botulínica en el músculo infraespinoso.
+En este punto, se decide rebiopsiar la masa de partes blandas para poder definir mejor la histología del tumor. El resultado es de adenocarcinoma de pulmón, con expresión de PD-L1 >50 %.
+Con el objetivo de intentar paliar el dolor y de controlar la enfermedad, en octubre de 2017 inicia "segunda línea" con pembrolizumab 200 mg cada 3 semanas. Tras el primer ciclo presenta tromboembolismo pulmonar incidental bilateral y segmentario e inicia bemiparina 10.000 UI al día.
+El paciente no presenta eventos adversos inmunorrelacionados, pero tampoco obtiene beneficio clínico por empeoramiento del dolor que le impide realizar una vida normal.
+En este momento, se dispone en nuestro centro de acceso para NGS mediante plataforma de FoundationONE® con resultado de amplificación de MET.
+En febrero de 2018, tras 4 ciclos, se observa ligero crecimiento de la masa tumoral, sin nuevas lesiones metastásicas. Por tanto, al no obtener respuesta radiológica ni beneficio clínico y presentando una diana molecular, se decide suspender la inmunoterapia y comenzar terapia dirigida con crizotinib 250 mg 2 veces al día.
+El paciente refiere mejoría del dolor desde que comienza el tercer comprimido y la movilidad va mejorando progresivamente. De hecho, es tal el beneficio clínico que va reduciendo la dosis de opiáceo mayor, hasta la dosis más baja y suspende el resto de coadyuvantes a los 3 meses de tratamiento.
+Posteriormente, se suspende anticoagulación tras 6 meses con heparina, coincidiendo con una significativa mejoría radiológica de la afectación tumoral costal y del músculo serrato derecho con desaparición de las lesiones de partes blandas.
+En cuanto a la tolerancia presenta dispepsia G1, diarrea G1 y toxicidad cutánea G2 por aparición de habones en brazos y una placa costrosa con sangrado leve en labio inferior, que conlleva suspensión temporal y reintroducción con reducción de dosis a un comprimido de 250 mg al día.
+Durante el seguimiento es derivado a Dermatología por aparición intermitente de habones en el dorso de las manos y tras biopsia dérmica mediante punch es diagnosticado de psoriasis.
+A día de hoy, el paciente mantiene un buen estado general, haciendo una vida activa, con un intervalo libre de progresión de 15 meses.

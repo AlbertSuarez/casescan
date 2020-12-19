@@ -1,0 +1,21 @@
+Anamnesis
+Mujer de 72 años de edad, de origen inglés, sin antecedentes médico-quirúrgicos de interés, ex fumadora de 35 años/paquete y consumidora de 3 combinados diarios. Presentó la menarquia a los 14 años y comenzó la menstruación a los 50 años. Ha tenido 2 gestaciones, 0 abortos y 2 partos a término. No toma ningún tratamiento de forma habitual y nunca había recibido tratamiento hormonal sustitutivo ni anticonceptivos orales. La paciente acude a consulta por presentar episodios intermitentes de sangrado post-menopáusico de 3 meses de evolución, que cada vez son más frecuentes.
+
+Exploración física
+La paciente presentaba buen estado general con un ECOG de 1 y sin hallazgos relevantes en la exploración física. Únicamente destaca un IMC de 29.
+
+Pruebas complementarias
+Las pruebas de laboratorio habituales resultaron ser normales. En cuanto a los marcadores tumorales, destacaba un aumento del CA 125 de 29’4 U/ml, mientras que el CEA y el CA 19.9 se mantenían dentro de los valores normales.
+Se realizó una histeroscopia en la que se objetivó un engrosamiento endometrial, se tomó una biopsia de endometrio que mostró un tumor maligno con componente de carcinoma indiferenciado de células pequeñas-intermedias asociado con un adenocarcinoma endometrioide de patrón villoglandular, sin poder descartarse componente estromal maligno. La inmunohistoquímica era positiva para queratina AE1-AE3, vimentina, CD56 y enolasa; y negatividad para cromogranina, con un Ki67 del 70% en el componente indiferenciado. Tras estos hallazgos se decide iniciar un estudio de extensión.
+
+Diagnóstico
+El TAC toraco-abdómino-pélvico mostró 2 adenopatías retroperitoneales laterales a la vena cava de 1’7 y 1’4 cm de diámetro mayor y varias subcentimétricas paraaórticas izquierdas, además de una masa que ocupaba la cavidad uterina de 86’8 x 67’7 mm.
+Se amplía el estudio con una RMN pélvica que pone de manifiesto la presencia de una gran tumoración de 81 x 70’9 mm con distribución circunferencial ocupando la cavidad uterina, afectando a más del 50% del espesor miometrial, que se corresponde con un estadio IB según la clasificación FIGO.
+
+Tratamiento
+Se realiza una laparotomía media infraumbilical con lavado peritoneal, histerectomía total con manguito vaginal, salpingooforectomía bilateral y linfadenectomía pélvica bilateral.
+
+Evolución
+Tras analizar la pieza quirúrgica, el diagnóstico histológico definitivo es el de un sarcoma del estroma endometrial indiferenciado monomórfico en colisión con un adenocarcinoma endometrioide estadio IB (FIGO 1, grado 2 y 10 mitosis/campo). En el estudio inmunohistoquímico el componente tumoral indiferenciado muestra fuerte positividad para CD10, B-catenina y WT1, mientras que fue negativo para CK AE1/AE3, EMA, cromogranina, synaptofisina, desmina, h-caldesmon, CD20 y CD30.
+Se completa el estudio con un PET-TAC que muestra adenopatías paraaórticas izquierdas (la mayor de 9x11 mm), ilíacas izquierdas (la mayor de 10x15 mm) y una ilíaca derecha (de 6’7 mm), con unos SUV Máx de 4’45, 5’87 y 3’58 respectivamente.
+Con todo esto, se decide iniciar tratamiento quimioterápico según esquema Gemcitabina 900 mg/m2 días 1 y 8, junto con Docetaxel 75 mg/m2 día 8, cada 21 días durante 4 ciclos.

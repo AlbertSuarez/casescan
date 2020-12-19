@@ -1,0 +1,28 @@
+Anamnesis
+Mujer de 52 años, postmenopáusica, con vida laboral activa, sin hábitos tóxicos o factores de riesgo cardiovascular, tampoco antecedentes medico quirúrgicos de interés. Previamente al diagnóstico, sin pauta farmacológica de uso habitual. En la historia familiar oncológica destaca padre afecto de adenocarcinoma de esófago a los 69 años, sin otros antecedentes de carcinoma de mama u ovario.
+En julio de 2018 se autopalpa una tumoración areolar mamaria asociando prurito y sensación de quemazón. No refiere síndrome tóxico u otra sintomatología. Consulta inicialmente a su médico de cabecera, que realiza una exploración física en la que destaca el hallazgo de una placa eritematosa-escamosa de 2 cm, circunscrita al pezón derecho. Ante la duda diagnóstica, se solicita una mamografía cuyo resultado no es sugestivo de malignidad, por lo que se orienta como dermatitis eccematosa del pezón derecho, iniciándose pauta de corticoides tópicos.
+Seis meses después, la paciente acude a visita de control, refiriendo persistencia de prurito sobre región areolar, pese a que, durante las primeras semanas, experimentó una mejoría del cuadro con tratamiento tópico. Ante la sospecha de neoplasia, se decide derivar a nuestro centro solicitando nuevo estudio de imagen.
+
+Exploración física
+Durante la exploración física inicial, persiste sobre la mama derecha una lesión palpable eritematosa-escamosa adherida a la piel, de 3 cm, a nivel areolar , en esta ocasión con palpación de dos induraciones axilares derechas sospechosas de afectación ganglionar. Durante la palpación no se objetivan hallazgos sugestivos de afectación tumoral o ganglionar en la mama contralateral. Se decide continuar estudio con pruebas de imagen.
+
+Pruebas complementarias
+Como parte del estudio, se realiza:
+» Ecografía mamaria-mamografía: se observa en mama derecha imagen nodular en región retroareolar con alguna microcalcificación asociada. Aumento de la densidad de areola derecha, entre areola y el nódulo discreta retracción fibroglandular incipiente. Ganglios axilares bilaterales de predominio en derecho. En la ecografía se observa un nódulo hiperecogénico de 10 mm en región retroareolar compatible con proceso neoplásico, de probable origen intraductal. Imagen de morfología nodular de 23 x 6 mm en areolar de MD, todo ello sugiere enfermedad de Paget. Ganglios en axilar derecha destacando 2 de aspecto patológico de 2,5 y 4,3 mm. En conjunto, BIRADS 4C.
+» Resonancia magnética mamaria: se observa en complejo aréola-pezón y con extensión retroareolar de mama derecha, captación heterogénea de contraste paramagnético con curva patológica. La lesión mide 2,1 x 1,6 x 2,7cm, se ubica a 0,35 cm del pezón, a 0,14 cm de la piel. Se observan al menos tres ganglios ipsilaterales de captación aumentada.
+» Marcadores tumorales: antígeno carcinoembrionario 1,91 ng/ml, CA 15,3 6,65UI/ml, CA 19,9 6,59U/ml, CA125 7,51U/ml.
+Con todo ello, se decide realizar biopsia, así como PAAF ganglionar. En cuanto al estudio de extensión, se solicita:
+» TC toracoabdominal: nódulos mamarios derechos, indeterminados por TC. Sin otros signos de lesión sugestivos de afectación tumoral.
+» Gammagrafía ósea: en el rastreo óseo efectuado no hay imágenes activas compatibles con M1 óseas con actividad osteogénica.
+
+Diagnóstico
+El resultado de la biopsia de la mama derecha confirma infiltración dérmica por carcinoma infiltrante de tipo ductal, grado II, con tinción para GATA 3 positiva, negativa para queratina 7 y p63.
+La inmunohistoquímica revela positividad para receptores estrogénicos (Score 8), progesterona (Score 4), neu/HER-2 por HercepTest® negativo y Ki67 del 5 %. La PAAF axilar derecha resulta positiva para carcinoma.
+Con todo ello, se valora como mujer de 52 años postmenopáusica diagnosticada de carcinoma ductal infiltrante de mama derecha, grado II, con receptores hormonales positivos, HER-2 negativa, cT4cN1M0 (estadio IIIB).
+
+Tratamiento
+Se presenta el caso en comité multidisciplinar y, dado que se trata de una paciente con buen estado general (ECOG PS 0, IK 100 %) y sin comorbilidades importantes, se considera candidata a tratamiento neoadyuvante según esquema EC (epirrubicina 90 mg/m2 + ciclofosfamida 600 mg/m2 cada 21 días) seguido de TAXOL semanal.
+
+Evolución
+Hasta el momento, la paciente ha completado dos ciclos de quimioterapia (epirrubicina + ciclofosfamida cada 21 días), con buena tolerancia clínica, presentando únicamente náuseas G1 que pudieron resolverse con antieméticos. Sobre la lesión areolar persiste importante componente descamativo, pero el prurito ha remitido y el dolor mamario ocasional se controla de forma adecuada con primer escalón analgésico de la OMS.
+Tras completar el esquema neoadyuvante, y dado que la paciente presenta afectación adenopática inicial, se realizará una evaluación de la respuesta de cara a reestadificación ganglionar y valorar opciones quirúrgicas, sin desestimar la posibilidad de tumorectomía.

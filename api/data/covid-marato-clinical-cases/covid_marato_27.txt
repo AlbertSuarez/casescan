@@ -1,0 +1,27 @@
+Anamnesis
+Se trata de una mujer de 84 años sin alergias medicamentosas ni hábitos tóxicos. Como únicos antecedentes patológicos presentaba meningitis en la infancia, hipertensión arterial en tratamiento con IECA y dislipemia en tratamiento con estatinas.
+Historia oncológica: en 1988, a la edad de 57 años, fue diagnosticada de carcinoma ductal infiltrante de mama derecha. Se trató mediante hemimastectomía con vaciamiento ganglionar (pT2N0M0, 0/10 ganglios afectos, receptores hormonales indeterminados). Posteriormente, realizó tratamiento local con cobaltoterapia.
+Continuó en controles hasta 1990, cuando presentó recidiva local, por lo que se realizó una mastectomía y revaciamiento ganglionar (2 de 7 ganglios resecados afectos). Completó el tratamiento con hormonoterapia adyuvante (tamoxifeno durante 2 años).
+En 1991, poco después de la segunda recaída local, estando libre de enfermedad, la paciente comenzó con clínica de inestabilidad de la marcha, imposibilidad de dirigir la mirada hacia arriba, cefalea témporo-parietal bilateral y alteración de la visión con aparición de miodesopsias. Se realizó una TC, donde se objetivaba atrofia leve cerebelosa. Ante la sospecha de un posible síndrome paraneoplásico, se realizó estudio inmunológico, que mostró anticuepos anti-Ri positivos. Se descartó enfermedad neoplásica y, dado que la clínica neurológica no era invalidante, se decidió realizar únicamente controles.
+En 2006 la paciente fue diagnosticada de un carcinoma ductal infiltrante de mama contralateral (izquierda), por lo que se le realizó mastectomía y vaciamiento ganglionar izquierdo (pT1cN0 [0/16] M0, receptores hormonales positivos) e inició tratamiento con tamoxifeno adyuvante, el cual se cambió por anastrozol por intolerancia en forma de cefalea e inestabilidad cefálica.
+Enfermedad actual: en 2008 presentó empeoramiento de la clínica neurológica, con cefalea holocraneal e inestabilidad cefálica, por lo que ingresó en neurología para completar el estudio.
+
+Exploración física
+La paciente presentaba buen estado general, con exploración cardiovascular, respiratoria y abdominal anodina. En la exploración neurológica destacaba imposibilidad de dirigir la mirada vertical superior, temblor fino de actitud y leve dismetría.
+
+Pruebas complementarias
+» Líquido cefalorraquídeo: cristalino, células totales 6 cél./mm3, eritrocitos 6 cél./mm3, glucosa 78,8 mg/dl, proteínas 0,34 g/l.
+» Autoinmunidad en sangre: anticuerpos antinucleares (TTR) positivo. Anticuerpos anti-Ri positivo.
+» RM (2/12/2008): marcada atrofia e hiperseñal de la cortical del cerebelo y el vermis. Discreta leucoaraiosis. Imagen sugestiva de pequeño meningioma frontal izquierdo de 1 x 0,7 cm sin efecto de masa. Conclusión: marcada atrofia e hiperseñal de la cortical del cerebelo, que podría ser compatible con la sospecha clínica de degeneración cerebelosa paraneoplásica y/o toxicidad por fármacos.
+» Registro oculográfico: paresia supranuclear de la mirada vertical superior, con velocidad normal en las sacadas horizontales, nistagmo optocinétrico normal y sin evidenciarse fitter ocular-opsoclono.
+
+Diagnóstico
+Síndrome paraneoplásico opsoclonos-ataxia (anti-Ri).
+
+Tratamiento
+La paciente continuó realizando controles por parte de Neurología de los niveles de anti-Ri, que se mantuvieron positivos. Se decidió no iniciar tratamiento inmunomodulador, dado que la clínica se mantuvo estable y únicamente se trataron los síntomas motrices (temblor) con benzodiacepinas.
+Asimismo, por parte de Oncología Médica, dado que no se evidenció recaída de la enfermedad neoplásica, se realizaron controles estrictos.
+
+Evolución
+Actualmente, a los 9 años del diagnóstico de la segunda neoplasia y a los 24 años del diagnóstico del síndrome paraneoplásico, a la edad de 84 años, la paciente ha presentado deterioro del estado general, con aumento de los marcadores tumorales, por lo que se ha realizado estudio de extensión, en el cual se ha objetivado progresión a nivel pulmonar, hepática y peritoneal, por lo que se ha iniciado tratamiento con letrozol de primera línea dadas las características de la paciente (edad, ECOG y comorbilidades).
+Además, la paciente, paralelamente al diagnóstico de la recidiva de la enfermedad, ha presentado hematuria franca, siendo diagnosticada de una neoplasia sincrónica urotelial, por lo que se ha tratado el día 15 de abril de 2015 mediante una resección transuretral. A fecha actual, la paciente continúa en tratamiento con letrozol, con buena tolerancia clínica y pendiente de revaloración de la enfermedad.

@@ -1,0 +1,46 @@
+Anamnesis
+El urinoma se define como la acumulación de orina en el espacio retroperitoneal que radiológicamente presenta apariencia quística. Son causados normalmente por obstrucción ureteral, trauma renal o perforaciones del sistema colector renal.
+Por otro lado, se denomina urinotórax al transudado pleural en el que la orina es filtrada al espacio plural como consecuencia de un trauma renal o ureteral, una obstrucción urinaria o la formación de una fístula uretero-torácica
+Presentamos el caso de una neoplasia cervical uterina que debuta con hidronefrosis obstructiva secundaria que en el contexto de la colocación de nefrostomía de descarga en ambas vías urinarias presenta un urinoma y un urinotórax homolateral al urinoma.
+Se trata de una mujer de 69 años de edad que como antecedentes de interés presenta osteoporosis en tratamiento con Bazedoxifeno 20mg al día y un Meningioma espinal calcificado que se halló incidentalmente y que se encuentra en seguimiento en la actualidad por neurólogo de zona.
+En cuanto a sus antecedentes socio-laborales, es independiente para las actividades básicas de la vida diaria y trabaja en la huerta de su casa.
+Consulta en nuestro centro por presentar astenia y anorexia intensas de más de una semana de evolución. Refiere además náuseas asociadas al cuadro, sin episodios de vómitos acompañantes, y , desde los últimos días, intolerancia oral. No refiere ninguna otra sintomatología.
+
+Exploración física
+» Índice de Karnofsky: 90. Buen estado general, consciente y orientada en tiempo, espacio y persona. Normonutrida y normocoloreada. Taquipneica, sin signos de dificultad respiratoria.
+» AC: Rítmica, sin sopos
+» AP: Murmullo vesicular conservado, sin ruídos sobreañadidos.
+» ABDOMEN: Peristaltismo conservado, blando y depresible, no doloroso a la palpación superficial ni profunda. No se palpan masas ni megalias. No signos de irritación peritoneal.
+» MIEMBROS INFERIORES: No edemas ni signos de trombosis venosa profunda.
+» NEUROLÓGICO: Glasgow 15/15. Pupilas isocóricas y normorreactivas. Pares craneales conservados. No signos de localidad neurológica. No rigidez nucal.
+
+Pruebas complementarias
+Se solicita una analítica ordinaria de sangre , una gasometría de sangre venosa y una radiografía de tórax donde se objetiva:
+» Analítica Sanguínea: Urea de 141 mg/dL, Creatinina 9,40mg/dL, K+ 6,4 mmol/L, Na 137 mmol/l,
+» Gases Venosos: pH 7,22, HCO3 15,2 mEq/l y PCO2 de 37,9 mmHg.
+» Rx Tórax PA y LAT: No infiltrados alveolares. Senos costofrénicos libres, sin signos de derrame pleural.
+» Bioquímica Orina: Na 49 mmol/L, K 19,7 mmol/L, Creatinina 49,3 mg/dL
+
+Diagnóstico
+Con estos hallazgos compatibles con insuficiencia renal aguda con acidosis metabólica e hiperpotasemia secundarias, se solicita una ecografía renal para valoración de la vía urinaria y el parénquima renal con intención de filiar el origen del fallo renal. En el estudio ecográfico, se objetiva una hidronefrosis bilateral grado II-III. Se realiza además un TAC abdominal sin contraste IV ,debido a la función renal, donde se visualiza una masa en el espacio recto-vesical de aspecto neoplásico (de probable origen ginecológico) que infiltra la vejiga y produce una hidronefrosis bilateral significativa (grado IV).
+
+Tratamiento
+Una vez determinada la causa postrenal del fracaso renal agudo, se decide colocación de nefrostomía bilateral de forma urgente. Se inicia tratamiento intensivo con fluidoterapia, quelantes de fósforo y bicarbonato. A las pocas horas tras su implantación, se recoge un bajo débito diurético por nefrostomía derecha, por lo que se solicita un nuevo TAC de abdomen, donde se observa el catéter de la nefrostomía derecha mal colocado. Se procede por ello a su recolocación sin que se produzcan complicaciones inmediatas.
+La función renal comienza a recuperarse paulatinamente tras la recolocación de la nefrostomía, presentando valores de creatinina que desciende desde el valor inicial de 9,40mg/dl hasta 4,5 mg/dl a las 72 horas.
+Dados los hallazgos previamente mencionados, se solicita valoración por Ginecología, quienes evidencian un útero y un cérvix atróficos, con resto de exploración ginecológica normal, por lo que se obtiene muestra histológica mediante legrado. El estudio anatomopatológico es informado como carcinoma de células escamosas pobremente diferenciado de endocérvix. Ante carcinoma de cérvix localmente avanzado, se descarta tratamiento quirúrgico y la paciente es remitida al servicio de Oncología Médica para tratamiento quimio-radioterápico.
+
+Evolución
+Al tercer día de ingreso en planta de Oncología Médica, la paciente refiere aumento de su disnea basal hasta hacerse de reposo, con importantes signos de dificultad respiratoria. Se solicitan pruebas de imagen complementarias:
+» RX tórax PA: Derrame pleural masivo en hemitórax izquierdo, sin nódulos o condensaciones nodulares en hemitórax contralateral.
+» TAC Tórax: se visualiza derrame pleural izquierdo de gran volumen que alcanza el vértice pulmonar, asociando atelectasia compresiva del lóbulo inferior y parcial de lóbulo superior, sin desplazamiento significativo del mediastino. Existe además leve derrame plural derecho en localización posterior, asociado a aparente realce grueso de la pleura posterior, que podrían corresponder a afectación pleural mestastásica y a atelectasias subsegmentarias compresivas adyacentes.
+Debido al compromiso respiratorio que presenta la paciente se decide realizar toracocentesis evacuadora izquierda, extrayéndose 1500 cc de líquido claro así como diagnóstica derecha. La citología del líquido pleural es negativa para malignidad, siendo ambos derrames compatibles con trasudado (Proteínas Totales en líquido plural de <2,00 g/dL con valores séricos en 6,3 g/dL y LDH 280 U/L , con valores séricos de 806 U/L). Asimismo, los cultivos del líquido pleural son negativos.
+En los días sucesivos, la paciente presenta un deterioro clínico gradual, con fluctuaciones en el nivel de conciencia y periodos de agitación y desorientación. Se decide realizar TAC craneal urgente, que no muestra lesiones metastásicas, signos de isquemia o hemorragia cerebrales. Presenta además unas cifras de creatinina estables en torno a 4,5 mg/dL y empeoramiento del derrame pleural izquierdo. Al 5º día, la paciente comienza con importante dolor lumbar izquierdo y abdominal generalizado, con empeoramiento de reactantes de fase aguda en la analítica de control. A la exploración física, el abdomen es doloroso y con signos de peritonismo por lo que se solicita TAC abdomino-pélvico urgente que muestra el extremo del catéter de nefrostomía izquierda en uréter próximal, con dilatación ureteral.
+Se aprecia además líquido retroperitoneal (perirrenal y en espacios pararrenales anterior y posterior y lateroconal) compatibles con Urinoma.
+Se contacta de forma urgente con el servicio de Urología decidiéndose intervención urgente, recolocándose nueva nefrostomía izquierda. En los días siguientes, la paciente presenta recuperación del estado general, resolución del derrame pleural y mejoría de las cifras de creatinina hasta valores de 1,7 mg/dl.
+Una vez resueltos los distintos procesos agudos descritos, se solicita PET-TC y RMN pélvica para conocer la extensión de la enfermedad de cara a planificar el tratamiento oncológico:
+» PET-TC:
+» Masa de cérvix 6mm en borde superior entre cérvix y recto y lesión de partes blandas de 10 mm de diámetro (SUV max 7,82 g/dL).
+» Hemitórax izquierdo: a nivel pleural, se objetiva un incremento difuso de la captación (SUV max 4,64 g/dL) de probable origen inflamatorio.
+» Resto del estudio ametabólico.
+» RMN Pelvis: tumoración polilobulada en cérvix uterino que tiene una extensión craneo-caudal de aproximadamente 3,5x1,5 cm. La lesión infiltra parte del miometrio, la pared posterior de la vejiga y engloba los uréteres. No se distinguen ganglios linfáticos claramente aumentados de tamaño o desectructurados.
+Tras completar estadiaje y ante carcinoma epidermoide de cérvix estadio IV-A (cT4cN0M0), la paciente recibe tratamiento con radioterapia externa concomitante con carboplatino semanal (AUC=2) semanal y braquiterapia. Una vez finalizado dicho tratamiento se realizó reevaluación clínica e iconográfica que mostró una respuesta tumoral completa. En la actualidad se encuentra en revisiones periódicas, permaneciendo clínica e inconográficamente sin evidencia de recidiva tras un seguimiento de 12 meses.

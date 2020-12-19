@@ -1,0 +1,37 @@
+Anamnesis
+Varón de 56 años, sin alergias medicamentosas conocidas, soldador. Fumador activo (IPA: 35). Antecedentes personales: dislipemia en tratamiento dietético.
+Historia oncológica
+Diagnosticado en junio/2011 por cuadro de visión borrosa de melanoma coroideo en ojo derecho (OD) que se trató mediante resección quirúrgica intraocular OD seguido de braquiterapia adyuvante que finalizó en octubre de 2011.
+El 27/02/2014 presentó recidiva local que requirió enucleación de ojo derecho, con resultado anatomopatológico: melanoma coroides diámetro 0,9 cm. BRAF no mutado.
+En febrero/2017 durante seguimiento aparece en TC: LOE segmento VII-VIII subcapsular de 20 mm de diámetro que sugiere enfermedad metastásica. Se completa estudio con RM hepática que muestra lesión focal en segmento VIII-VII de 20 mm subcapsular, hipointensa en T1 e hiperintensa en T2, sugestiva de metástasis y otras 3 lesiones en lóbulo hepático derecho. Se realiza PET/TC que confirma dichos hallazgos y muestra actividad metabólica sobre lesión subcapsular de 24 mm, sin evidencia de adenomegalias y/o afectación visceral a otro nivel. Se lleva a cabo biopsia sobre lesión en segmento VII con resultado compatible con infiltración difusa por melanoma (HMB45+, Melan A, Ki67 15 %).
+Se valora el caso en Comité Multidisciplinar y ante la existencia de varias lesiones hepáticas irresecables de descarta tratamiento quirúrgico.
+El 7/07/2017 inicia tratamiento sistémico de primera línea con pembrolizumab a dosis de 2 mg/kg c/21días, administrándose un total de 8 ciclos (último recibido el 1/12/2017) y consiguiendo como mejor respuesta por TC estabilización de la enfermedad hepática.
+Enfermedad actual
+Acude el 7/12/2017 a Urgencias por acúfenos y parestesias en hemicuerpo izquierdo de una semana de evolución.
+
+Exploración física
+ECOG 0. Consciente, orientado en las tres esferas, receptivo, eupneico en reposo. Normocoloreado. Normohidratado. Buen estado general.
+Exploración neurológica: funciones superiores conservadas, pupilas isocóricas normorreactivas, sin nistagmos, ni alteración de pares craneales; fuerza y sensibilidad simétricas y conservadas.
+
+Pruebas complementarias
+» Otoscopia (7/12/2017): sin hallazgos relevantes.
+» Analítica general (7/12/2017): bioquímica, hemograma y coagulación sin alteraciones.
+» TC craneoencefálica urgente (7/12/2017): hipodensidad digitiforme temporobasal derecha que, si bien no muestra clara captación de contraste, en contexto del paciente podría ser compatible con enfermedad secundaria.
+
+Diagnóstico
+» Hipodensidad temporobasal derecha compatible con lesión secundaria.
+» Melanoma coroideo avanzado BRAF no mutado.
+
+Tratamiento
+Ingresa en planta para estudio, y se inicia tratamiento con corticosteroides a dosis de 1 mg/kg/día de prednisona oral.
+
+Evolución
+Se completó estudio con:
+» RM cerebral (13/12/2017): hiperintensidad a nivel cortical temporal profundo derecho con afectación insular posterior y sustancia blanda subyacente que presenta moderada restricción de difusión hídrica. No se evidencian claras áreas con realce anómalo a nivel intraparenquimatoso, si bien existe clara irregularidad en área temporal derecha, cuyos hallazgos podrían estar en relación con encefalitis en contexto de síndrome paraneoplásico, proceso vascular o estado epiléptico.
+» EEG (14/12/2017): trazado que carece de patrones electrográficos relevantes.
+» TC toracoabdominal (14/12/2017): múltiples lesiones hepáticas hipodensas sin cambios relevantes. Enfermedad estable.Punción lumbar (15/12/2017): estudio bioquímico mostró pleocitosis linfocítica con estudio microbiológico de LCR: sin hallazgos. Citología de LCR negativa para malignidad.
+El paciente evoluciona de forma favorable con remisión clínica de la sintomatología neurológica a las 48-72 h de ingreso, y pudiendo realizarse reducción progresiva de la dosis de corticosteroide con buena tolerancia.
+Al cabo de un mes se realiza RM cerebral de control que muestra resolución de la alteración de señal en parénquima.
+Dado que el hallazgo de encefalitis en pruebas de imagen y la clínica neurológica desaparecieron completamente tras suspender tratamiento con pembrolizumab y con administración de corticosteroides sistémicos, se interpreta como toxicidad relacionada con el sistema inmunitario grado 4.
+Se suspende definitivamente tratamiento con inhibidor PD-L1, y se continúa pauta descendente de prednisona oral durante un mes hasta su retirada.
+En la actualidad, se encuentra asintomático y con enfermedad estabilizada en los controles por TC habituales.

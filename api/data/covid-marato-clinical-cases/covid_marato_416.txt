@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 33 años, alérgico a la acetilcisteína, fumador de 10 puros/día y de marihuana esporádicamente, sin otros antecedentes médicos relevantes.
+Desde diciembre de 2012 presenta infraversión de la mirada y diplopía horizontal intermitente. Valorado en Neurología, se inicia corticoterapia y piridostigmina sin mejoría, asociándose progresivamente debilidad de EEII con drop-attacks y marcha inestable, por lo que ingresa para estudio.
+En la anamnesis por aparatos, el paciente refiere dolor testicular izquierdo irradiado a región lumbar.
+
+Examen físico
+IK 100. Destaca la palpación de una adenopatía supraclavicular izquierda dura, adherida a planos profundos. También presenta ptosis palpebral leve bilateral, limitación y diplopía en los movimientos de infraversión y supero-inferolateralidad de la mirada, con desconjugación de la mirada a expensas del recto externo.
+Además, la marcha está alterada con incremento en la base de sustentación y Romberg positivo.
+
+Pruebas complementarias
+Analíticamente, presenta discreta leucocitosis (fórmula normal) y una LDH de 1023 U/L. Todos los marcadores testados -bHCG, AFP, CEA, CA 15.3, CA 19.9, CA 125 y PSA- son normales.
+La RM cerebral es normal. Una ecografía testicular visualiza pequeñas lesiones sólidas en el testículo izquierdo, y la TC corporal constata una adenopatía supraclavicular izquierda de 1,3 cm y un conglomerado adenopático desde los hilios renales hasta la bifucarción aórtica, con captación en PET.
+La biopsia de la adenopatía supraclavicular revela metástasis por carcinoma embrionario germinal, por lo que, previa criopreservación espermática, se realiza orquiectomía radical izquierda. La anatomía patológica resulta ser de un seminoma puro multifocal con amplia extensión intertubular, albugínea y rete testis respetados, trombosis parcial del plexo pampiniforme con células aisladas seminomatosas en la luz vascular y bordes quirúrgicos libres.
+Se realiza también un electrorretinograma que es normal, pero un PEV muestra una neuropatía óptica bilateral por afectación de la fibras originadas en la visión central (macular) en grado moderado. Una punción lumbar confirma síntesis intratecal de Ig. Los anticuerpos anti-neuronales anti-Ma resultan (+), mientras que los Ac anti-gangliósidos y anti-receptor acetilcolina son (-).
+
+Diagnóstico
+Tumor germinal mixto S2pT2N2M1a, de pronóstico intermedio según la clasificación IGCCCG, estadio IIIB de la AJCC.
+Oftalmoparesia de origen paraneoplásico (Ac. anti-Ma+).
+
+Tratamiento
+Se inicia BEP, sufriendo un TEP lobar antes del 2.º ciclo constatando en la TC la desaparición de las adenopatías.
+
+Evolución
+Clínicamente, persiste la diplopía con remisión de la paraparesia.

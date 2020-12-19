@@ -1,0 +1,33 @@
+Anamnesis
+Paciente de 36 años de edad sin alergias medicamentosas. Antecedentes quirúrgicos: resección de un pólipo en una cuerda vocal, salpinguectomía derecha laparoscópica por embarazo ectópico en 2013.
+
+Desde las 25 semanas de embarazo consultó en el Servicio de Urgencias en varias ocasiones por síntomas compatibles con infección del tracto urinario (ITU), precisando cambio de antibiótico en cuatro ocasiones para lograr el control de los síntomas. Los urocultivos resultaron positivos para Escherichia coli.
+
+Parto sin incidencias el 16 de agosto de 2014. Seis días después la paciente consultó por fiebre y dolor abdominal intenso. Se solicitó ecografía transvaginal y abdominal, apreciándose líquido libre intraperitoneal. Con sondaje vesical se obtuvo orina purulenta. Ante estos hallazgos, se decide completar el estudio con una tomografía computarizada (TC) abdominal urgente e ingreso hospitalario en Urología.
+
+Exploración física
+Paciente con buen estado general. Consciente y orientada. Eupneica en reposo. Auscultación cardíaca y pulmonar sin alteraciones. Abdomen: presentaba timpanismo difuso a la percusión, con dolor generalizado a la palpación. No se apreciaban signos de irritación peritoneal. Sucusión renal negativa bilateral. Exploración ginecológica normal, a excepción de dolor a la palpación en la pared anterosuperior vesical.
+
+Pruebas complementarias
+» Sedimento de orina: negativo.
+» Exudado vaginal: E. coli productora de β-lactamasas de espectro extendido y Candida glabrata.
+» Analítica: leucocitosis (27.000 leucocitos/mm3) con 93% neutrófilos. Resto normal.
+» TC abdominal: abundante líquido intraperitoneal, mayoritariamente en la pelvis menor. Íleo reflejo.
+Extenso crecimiento tumoral de pared vesical izquierda con realce de contraste. No adenopatías. Resto sin hallazgos.
+» Laparotomía exploradora: abundante líquido libre peritoneal secundario a perforación en la cara posterior de la vejiga. Se practicó cierre de la pared con biopsia intraoperatoria de la misma.
+» Resultado anatomopatológico de la muestra intraoperatoria: carcinoma escamoso.
+
+Diagnóstico
+Para llegar al diagnóstico completo se realizó en un segundo tiempo cistectomía radical con derivación tipo Bricker e histerectomía.
+» Diagnóstico anatomopatológico: patrón histológico mixto, con áreas de carcinoma urotelial convencional (15%), áreas de diferenciación escamosa (20%) y áreas sarcomatoides (65%).
+» PET-TC: dos lesiones hepáticas de 11 y 18 mm con SUV máximo 3,4 y 5,7 respectivamente.
+» La paciente es diagnosticada de carcinoma sarcomatoide de vejiga pT3aN0M1.
+
+Tratamiento
+Se decidió iniciar tratamiento quimioterápico paliativo el día 9/12/2014 con adriamicina 75 mg/m2 día 1 + ifosfamida 3 g/m2 días 1-3 + MESNA IV días 1-3.
+
+Evolución
+Tras el primer ciclo presentó neutropenia febril grado 4. Tras la administración del segundo, aparece neutropenia febril grado 2 con ITU por Pseudomonas aeruginosa, que precisó tratamiento antibiótico intravenoso para su resolución.
+En la PET de reevaluación tras completar tres ciclos se aprecia aumento de tamaño y actividad metabólica de las lesiones hepáticas (50 y 51 mm con SUV máx 4,9 y 5,8). Además, se detectan varios implantes peritoneales que infiltran sigma y músculos adyacentes.
+Dada la progresión, el 2/3/2015 inicia tratamiento con cisplatino 80 mg/m2 día 1 + gemcitabina 1.250 mg/m2 días 1 y 8. Recibió tres ciclos, con efectos secundarios que obligan a reducir la dosis un 20% en el segundo ciclo.
+En el momento actual, se encuentra pendiente de la realización de una nueva PET-TC para la valoración de la respuesta.

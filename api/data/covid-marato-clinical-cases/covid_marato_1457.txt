@@ -1,0 +1,23 @@
+Anamnesis
+Varón de 59 años en la actualidad, sin antecedentes personales de interés ni hábitos tóxicos. Sin alergias medicamentosas conocidas.
+Fue diagnosticado en enero de 2007 de un tumor localizado de pulmón, se realizó lobectomía superior derecha y linfadenectomía con resultado anatomopatológico de carninoma tipo neuroendocrino con Cam 5.2 (+), cromogranina A (+), sinaptofisina (+), TTF1 (-) e índice de mitosis 8/10 HPF. Al diagnóstico el paciente no presentaba síntomas de tipo carcinoide ni elevación de cromogranina A ni 5-hidroxindolacético. Se estadificó como pT3N0M0 (Estadio IIB) y recibió tratamiento con quimioterapia (QT) adyuvante con cisplatino 80mg/m2 y vinorelbina 25 mg/m2 días 1 y 8 c/21 por cuatro ciclos, presentando neutropenia y mucositis grado II y astenia grado III. Finalizó el tratamiento en junio de 2007 e inició revisiones.
+En octubre de 2009, estando asintomático, en la tomografía computarizada (TC) de seguimiento se detectó la presencia de nódulos hepáticos y lesiones blásticas óseas compatibles con metástasis.
+Recibió tratamiento con Carboplatino-Etopósido por cinco ciclos sin objetivarse respuesta clínica, por lo que se cambió el tratamiento a un análogo de somatostatina (Lanreótido) tras confirmarse captación en Octreoscan (gammagrafía con análogos de receptores de somatostatina). Posteriormente, ha recibido múltiples líneas de tratamiento, incluidas: Everolimus, Topotecan, Paclitaxel, Pazopanib y Capecitabina-Temozolamida; todas ellas asociadas al Lanreótido ya que en controles sucesivos por Octreoscan persiste captación ósea y hepática.
+En diciembre de 2015 presenta mal control analgésico precisando el inicio de analgesia de tercer escalón. Comienza tratamiento con naloxona/oxicodona, aumentando la dosis progresivamente hasta alcanzar un buen control sintomático con 20/10 mg c/12 horas. Ante la sospecha de progresión tumoral se realizan los siguientes estudios.
+
+Exploración física
+ECOG 1. Hemodinámicamente estable. Al examen físico destacaba dolor a la palpación de las apófisis espinosas de columna lumbar.
+
+Pruebas complementarias
+» Hemograma y bioquímica sanguínea incluyendo ionograma, función renal y pruebas de función hepática, que fueron normales. La Cromogranina A y 5-hidroxindolacético también resultaron normales.
+» En TC y Octreoscan se confirmaron signos de progresión, se objetivaron múltiples lesiones nodulares hepáticas que habían aumentado en tamaño y número respecto a estudios previos y lesiones blásticas en cuerpos vertebrales lumbares y huesos ilíacos no asociadas a masa de partes blandas.
+
+Diagnóstico
+Progresión de un tumor neuroendocrino de pulmón tras múltiples líneas de tratamiento
+
+Tratamiento
+Dada la situación clínica actual y progresión a todas las líneas anteriormente descritas, se propuso el inicio de tratamiento con radionúclidos. Se solicitó tratamiento con Lutecio, a dosis de 7,4 GBq de 177 Lu-Dotatate por cuatro administraciones cada ocho semanas.
+
+Evolución
+El paciente ha recibido dos dosis de tratamiento con Lutecio sin ninguna complicación ni efecto secundario y presentando una importante y rápida mejoría clínica. Debido a ello, al cuarto día tras la administración de la primera dosis, acudió a urgencias por una intoxicación por opioides, suspendiéndose el tratamiento con naloxona/oxicodona.
+Actualmente, el paciente no precisa analgesia y continúa el tratamiento con Lutecio. En la reevaluación, tras la segunda dosis, se confirma una estabilización de la enfermedad tumoral tanto por TC como por Octreoscan.

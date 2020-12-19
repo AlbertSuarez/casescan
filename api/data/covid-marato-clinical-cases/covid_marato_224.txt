@@ -1,0 +1,26 @@
+Anamnesis
+Antecedentes personales
+Mujer de 56 años, postmenopáusica, sin hábitos tóxicos, con antecedentes personales de sensibilización al polen no documentada y asma extrínseca leve en tratamiento con salbutamol inhalado a demanda.
+
+Historia oncológica
+Diagnosticada en mayo de 2005, a la edad de 49 años, siendo premenopáusica, de un CDI de mama izquierda multifocal, grado 1 (G1), positivo para receptores de estrógenos (100 %) y progestágenos (2 %), negativo para HER-2-neu, Ki67 < 14 %, estadio II-B (pT2pN1aM0, 6ª edición AJJCC Cancer Staging Manual, 2002). Intervenida mediante mastectomía radical modificada izquierda, seguida de quimioterapia adyuvante según esquema TC por 6 ciclos (docetaxel 75 mg/m2 iv día 1, adriamicina 50 mg/m2 iv día 1, ciclofosfamida 500 mg/m2 iv día 1) de junio a septiembre de 2005, radioterapia adyuvante sobre lecho de mastectomía y fosa supraclavicular izquierdas (dosis total: 50 Gy) y hormonoterapia con tamoxifeno 20 mg/día durante 5 años. Desde diciembre de 2010, seguimiento sin evidencia de recaída local ni a distancia.
+
+Historia actual
+Desde junio de 2014, se objetiva elevación asintomática del antígeno carcinoembrionario (CEA) a 5,5 ng/ml (0-5 ng/ml).
+
+Exploración física
+Sin datos sugestivos de recidiva en la exploración física.
+
+Pruebas complementarias
+Un estudio completo de extensión consistente en exploración ginecológica, analítica general con antígeno carbohidratado 15-3 (CA 15-3), sangre oculta en heces (SOH), mamografía, radiografía de tórax, ecografía abdominal, gammagrafía ósea y, finalmente, PET/TC descartaban recaída y segundas neoplasias. Ante la negatividad de los estudios anteriores, en diciembre de 2014, junto a un nueva PET-TC, sin hallazgos de interés, se realiza colonoscopia, en la que únicamente se evidencia un pólipo sésil de 5 mm que fue extirpado mediante asa endoscópica, compatible histológicamente con un adenoma tubular con displasia de bajo grado.
+En mayo de 2015 se registra nuevo aumento de los valores de CEA a 15 ng/ml y positivización del CA 15-3 a 54 UI/ml (0-32 UI/ml). En este momento se realiza nueva PET/TC, en la que únicamente destacaba una captación anormal en intestino delgado con un SUVmax de 5,80 (0-2,50). Siguiendo las recomendaciones de la Unidad de Digestivo de nuestro centro, el estudio fue ampliado mediante entero-TC y cápsula endoscópica, que mostraron una lesión yeyunal única de 10 mm compatible con un angioma de bajo potencial hemorrágico y escasa relevancia clínica. En este punto, se descartaron otras potenciales causas benignas de elevación de los marcadores tumorales, tales como patología ginecológica, tiroidea y hepática. Desde entonces, se opta por estrecho seguimiento clínico y serológico cada 3-6 meses.
+En revisión de marzo de 2017, coincidiendo con una elevación mayor de marcadores tumorales, la paciente refiere ocasionales despeños diarreicos, sin alteraciones relevantes en la exploración física. Se realiza nueva colonoscopia en la que se observan dos pólipos sésiles a nivel del colon derecho, que son extirpados endoscópicamente. En el análisis de la biopsia se observa infiltración mucosa y submucosa por un adenocarcinoma difuso, pobremente diferenciado, con células "en anillo de sello". El inmunofenotipo de estas células era positivo para queratina 7, receptores de estrógeno (90 %), receptores de progesterona (< 10 %) y E-Cadherina y negativo para queratina 20 y HER2-neu. Los estudios histológico e inmunohistoquímico eran compatibles con metástasis colónicas de CDI mama positivo para receptores hormonales, HER-2-neu negativo, Ki67 < 14 %. El estudio de extensión mediante PET/TC puso de manifiesto un aumento heterogéneo de la actividad metabólica en todo el marco colónico, con lesiones focales hipercaptantes en las regiones ileocólica, colon derecho y sigma (SUVmax 6,7), así como a nivel ganglionar, supraclavicular bilateral y axilar derecho, en las que la recidiva también fue confirmada anatomopatológicamente.
+
+Diagnóstico
+Recaída metastásica colónica y ganglionar de CDI de mama positivo para receptores hormonales, HER-2-neu negativo, Ki67 < 14 % en mujer de estatus postmenopáusico tras un intervalo libre de enfermedad de 10 años.
+
+Tratamiento
+En junio de 2017 se inicia primera línea de tratamiento hormonal con letrozol. En la reevaluación a los 6 meses se objetiva elevación de CA 15-3 a 606 UI/ml y progresión ósea con aparición de lesiones líticas en sacro y columna dorsal (D3, D10 y D12). Ante la evidencia de resistencia hormonal primaria, se plantea segunda línea de tratamiento con capecitabina 1.000 mg/12 horas x 14 días cada 21 días y se inicia soporte óseo con denosumab 120 mg subcutáneo cada 28 días.
+
+Evolución
+Se han realizado reevaluaciones cada 3 meses mediante PET/TC. Hasta el momento actual, la paciente ha recibido 8 ciclos de quimioterapia sin complicaciones relevantes y la enfermedad se encuentra estable, con un descenso del CA 15-3 a 124 UI/ml (disminución de un 75 % desde el inicio del tratamiento).

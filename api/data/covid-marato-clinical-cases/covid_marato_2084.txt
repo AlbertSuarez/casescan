@@ -1,0 +1,32 @@
+Anamnesis
+Varón de 29 años que en 2009 comienza estudio por clínica de dolor lumbar. En las pruebas realizadas (ecografía, tomografía computarizada [TC] y PET) se aprecian grandes masas retroperitoneales que ocupan prácticamente todo el retroperitoneo sugerentes de conglomerados adenopáticos con desplazamiento de páncreas y asas intestinales, obstrucción ureteral con hidronefrosis bilateral, así como adenopatías de tamaño significativo en meso intestinal, hilio hepático y esplénico, peripancreáticas, y cadenas ilíacas bilaterales, sugerentes en primer lugar de síndrome linfoproliferativo, por lo que se realiza biopsia ganglionar, con resultado anatomopatológico (AP) de metástasis de carcinoma embrionario. El paciente presentaba una lesión testicular izquierda; se realiza orquiectomía izquierda con resultado AP de tumor quemado, neoplasia intratubular de células germinales. Marcadores tumorales (MT) AFP: 215, B-HCG 173, LDH 2105, siendo diagnosticado en diciembre de 2009 de tumor germinal no seminoma (TGNS) de buen pronóstico y tratado con tres ciclos de bleomicina + etopósido + cisplatino (BEPx3) con negativizacion de MT y cirugía posterior de masas residuales con AP sin evidencia de tumor viable. Posteriormente el paciente continúa revisiones, sin evidencia de recidiva durante 4 años.
+
+El paciente es estudiado por adenopatías retroperitoneales sospechosas de recidiva de su tumor germinal, siendo diagnosticado de sarcoma retroperitoneal de alto grado.
+
+Exploración física
+Aceptable estado general, consciente y orientado, palidez cutanea. Tonos cardíacos ritmicos y sin soplos. Auscultación respiratoria: murmullo vesicular disminuido en ambas bases, sin ruidos patológicos sobreañadidos. Abdomen con cicatriz de laparotomía en buen estado, blando y depresible, sin signos de peritonismo. Catéter de diálisis peritoneal.
+
+Pruebas complementarias
+» TC de abdomen y pelvis con contraste intravenoso (5/11/2014): aumento de tamaño importante de la tumoración retroperitoneal, con dimensiones en la actualidad de 8,5 x 6,5 cm.
+» Angio-TC de abdomen. TC abdominal con contraste intravenoso en fase nefrográfica (12/1/2015): ausencia de vascularización del riñón izquierdo; en la fase nefrográfica se aprecia isquemia de casi todo el riñón, persistiendo parénquima débilmente perfundido en el mesorriñón y polo inferior.
+
+Conclusión: isquemia aguda del riñón izquierdo por obstrucción del tercio proximal de la arteria renal izquierda con repermeabilización parcial de arterias segmentarias.
+» TC de tórax, abdomen y pelvis sin contraste intravenoso: no se administra constraste por negativa del paciente. A nivel torácico no se observan hallazgos de significación patológica. Se observa en el retroperitoneo una formación de aproximadamente 5 x 5 cm de diámetro, que impronta sobre la superficie del riñón izquierdo, sin poder precisar su naturaleza en ausencia de contraste i.v., pudiendo corresponder a restos tumorales, hematoma postquirúrgico, etc.
+» PET-TC de cuerpo entero (F18.FDG) (11/3/2015): gran masa retroperitoneal izquierda moderadamente hipermetabólica, con una gran zona central hipometabólica probablemente necrótica con tamaño aproximado de 62 x 87 x 95 mm, de aspecto pseudoencapsulado. Compatible con recidiva tumoral retroperitoneal izquierda en progresión.
+
+Diagnóstico
+Sarcoma de partes blandas, de localización retroperitoneal, de 18 x 15 cm, con diferenciación neural (tumor maligno de la vaina nerviosa periférica), grado histológico 3, que contacta extensamente con el borde quirúrgico.
+
+Tratamiento
+Es intervenido en enero de 2015, apreciándose una masa retroperitoneal izquierda de consistencia dura y muy vascularizada, que engloba la glándula suprarrenal izquierda, adherida al pedículo renal, con desplazamiento de colon izquierdo.
+La biopsia intraoperatoria es compatible con un proceso neoplásico de alto grado, posible sarcoma. Se realiza cirugía de la lesión retroperitoneal macroscópicamente completa con márgenes afectos en la anatomía patológica.
+Alto riesgo de recidiva de sarcoma retroperitoneal con márgenes afectos, sin posibilidad de ampliación quirúrgica. El paciente se deriva a Oncología Radioterápica para la valoración de tratamiento adyuvante, pero rechaza tratamiento con radioterapia. No está indicado el tratamiento con quimioterapia adyuvante, por lo que se realiza seguimiento estrecho.
+Recidiva local de sarcoma retroperitoneal, con intervalo libre de progresión (ILP) de 2 meses. Se decide realizar intervención quirúrgica, en la cual se aprecia que el tumor engloba los vasos mesentéricos, siendo irresecable.
+Actualmente ha iniciado tratamiento quimioterápico con taxol 100 mg/m2, con reducción del 25% días 1, 8 y 15 cada 28 días, valorando añadir gemcitabina si muestra buena tolerancia.
+
+Evolución
+Es intervenido de la tumoración retroperitoneal izquierda en enero de 2015. Como complicación quirúrgica el paciente sufre trombosis masiva de la arteria renal izquierda con isquemia arterial del riñón izquierdo, por lo que desarrolla insuficiencia renal grave, que requiere hemodiálisis durante el ingreso, con manejo conservador posterior.
+El diagnostico AP definitivo es sarcoma retroperitoneal de alto grado con márgenes positivos.
+El paciente rechaza tratamiento radioterápico adyuvante, de modo que se realiza seguimiento, con evidencia de recidiva por TC y PET/TC a los 2 meses.
+Se presenta el caso en comité de urooncología y en comité de tumores digestivos y se decide realizar intervención de forma conjunta, resultando el tumor irresecable.
+Actualmente el paciente se encuentra en programa de diálisis peritoneal, que realiza cada 2 días y ha iniciado tratamiento con quimioterapia.

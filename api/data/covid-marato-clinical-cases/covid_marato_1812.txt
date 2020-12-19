@@ -1,0 +1,31 @@
+Anamnesis
+Paciente de 35 años, sin antecedentes de interés, que ingresa por cuadro edematización en cara, cuello y brazo derecho de 24 horas de evolución; asociando disnea, odinofagia y cambios en timbre de voz. Niega semiología infecciosa, síndrome constitucional u otra sintomatología.
+
+Exploración física
+» Exploración cardiopulmonar, abdominal y neurológica: sin hallazgos relevantes.
+» Exploración extremidades: edema moderado en MSD y leve MSI, edema facial moderado, circulación colateral en tórax, edema en esclavina.
+» Exploración genital: testes de tamaño y morfología adecuada sin apreciarse lesiones a la palpación, no dolorosos.
+
+Pruebas complementarias
+» Analítica sanguínea: destaca leucocitos 17,7·10 9 /l, bilirrubina total 1,64.
+» Marcadores tumorales: B-HCG 0, AFP 13383, LDH 1336.
+» TC-TAP: masa mediastínica de densidad grasa de 13 x 9,6 x 11 cm, intraluminal, en íntimo contacto, sin plano de clivaje, con aurícula derecha, extendiéndose a VCS comprometiendo cayado ácigos y tronco innominado, con circulación colateral. Adenopatías patológicas mediastínicas, prevasculares, paratraqueales derechas y subcarinales.
+» RNM tórax: confirma resultados de TC-torácica.
+» Ecocardiografía: compresión extrínseca de estructuras cardiacas con masa que protruye en aurícula derecha desde la VCS, sin colapsarla.
+» Ecografía testicular: sin hallazgos patológicos
+» AP: PAAF mediastino: cuerpos de Schiller-Duval y perivasculares, patrón papilar y retiforme, expresión CK CAM 5.2 y TTF-1, en membrana CD-117 (c-kit), en citoplasma AFP en 30 %-40 % de células tumorales; sin expresión CD30. Todo característico del tumor de seno endodérmico (yolk sac tumor).
+
+Diagnóstico
+» Tumor germinal no seminomatoso del tipo seno endodérmico (yolk sac tumor) extragonadal mediastínico de mal pronóstico por la IGCCCG.
+» Síndrome de vena cava superior de debut.
+
+Tratamiento
+Al ingreso, colocación stent vascular en VCS; con resolución de clínica asociada. Con resultados de AP, se valora en Comité Tumores, descartándose resecabilidad. Se planifica tratamiento con quimioterapia esquema BEP x 4 ciclos + EP x 2 ciclos y, en función de respuesta, volver a valorar resecabilidad.
+
+Evolución
+Inició BEP (bleomicina 30 mg días 1-8- 15; cisplatino 20 mg/m2 días 1-5; y etopósido 100 mg/m 2 días
+1-5) x 4 ciclos; con buena tolerancia. Tras 4 ciclos, disminución cifras AFP y LDH hasta práctica negativización; en TC, disminución tamaño de masa mediastínica (77,7 x 107,4 mm) y de afectación de aurícula derecha. Ante respuesta parcial biológica y radiológica, se completa tratamiento con EP (cisplatino 25 mg/m 2 días 1-5; etopósido 100 mg/m2 días 1-4) x 2 ciclos.
+En reevaluación, marcadores tumorales negativos con respuesta parcial mantenida (74 x 61 mm) y dudosa afectación de aurícula. Se valora de nuevo el caso en el Comité de Tumores, y se propone para cirugía de resección de masa mediastínica residual.
+Es intervenido de forma satisfactoria, consiguiéndose una resección R0 con exéresis de masa (70 x 54 x 65 mm) de forma íntegra sin infiltraciones de estructuras mediastínicas.
+En Anatomía Patológica, tumoración con pared fibrosa y centro totalmente necrosado sin evidencia de celularidad viable; bordes de resección libres de lesiones tumorales.
+Actualmente, paciente prosigue revisiones trimestrales sin evidencia de recidiva tumoral biológica ni por imagen.

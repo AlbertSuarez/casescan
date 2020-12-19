@@ -1,0 +1,45 @@
+Anamnesis
+Mujer de 31 años, residente en Australia, sin alergias medicamentosas conocidas y exfumadora desde hace 10 años con una exposición acumulada de 2 años/paquete. No presentaba otro antecedentes de interés
+Consultó en febrero de 2015 por tumoración de mama izquierda.
+
+Exploración física
+Presentaba un performance status (PS) de 0. A la palpación, se objetivaba una tumoración de 2x2 cm en línea intercuadrántica superior de mama izquierda. No se palpaban adenopatías axilares, supraclaviculares ni cervicales.
+
+Pruebas complementarias
+En la ecografía mamaria se objetivó una lesión mal delimitada de 30 x 22 mm supraareolar en línea intercuadrántica superior de mama izquierda. Destacaba también la presencia de adenopatías milimétricas; en cadena mamaria interna, infraclavicular, supraclavicular y en cadena yugular ipsilateral esta última alcanzando 14x5mm.
+Se realizó biopsia con aguja gruesa y PAAF de la adenopatía en cadena yugular izquierda. El resultado de la anatomía patológica mamaria fue de CDI de mama, grado histológico III. El estudio inmunohistoquímico (IHQ) mostró receptores de estrógeno (90%) y progesterona positivos (80%), Ki67:25% y amplificación de HER2 por inmunohistoquimica (Score 3+).
+El resultado de la PAAF ganglionar confirmó metastasis por carcinoma de mama con el mismo perfil IHQ de la biopsia mamaria.
+Se completó el estudio de extensión con tomografia axial (TC) toraco-abdómino-pélvica y rastreo óseo sin evidencia de otras lesiones a distancia.
+Se realizó estudio genético de BRCA siendo negativo.
+
+Diagnóstico
+Tras el estudio de extensión, el diagnóstico fue de un CDI de mama izquierda perfil luminal HER2, un cT2 (30 x 22 mm) cN3c (por afectación ganglionar supraclavicular ipsilateral) M1 (por afectación ganglionar en cadena yugular confirmada histológicamente)
+
+Tratamiento
+Ante una paciente de 31 años con dignóstico de CDI de mama oligometastásica, se propuso tratamiento de primera línea para enfermedad avanzada con Paclitaxel 80 mg/m2 semanal asociado a Trastuzumab (con una primera dosis de carga a 8 mg/kg de peso y posteriormente a 6 mg/kg) y Pertuzumab (con una primera dosis de carga de 840 mg totales y posteriormente 420 mg) cada 21 dias durante 12 semanas que inició el 23 de febrero y finalizó el 18 de mayo.
+Tras 3 meses de tratamiento, no se palpaba tumoración en la exploración física. Al mismo tiempo, se realizó una ecografía mamaria donde no se observa la lesión, ni se identifican adenopatías. Por tanto, ante una respuesta clínica completa, se decide continuar tratamiento con Adriamicina 60 mg/m2 en combinación con Ciclofosfamida 600 mg/m2 cada 21 dias, administrándose 4 ciclos que completó entre el 25 de mayo y el 29 julio. Presentó buena tolerancia al tratamiento, como toxicidades destacar: alopecia grado 2 y naúseas grado 2.
+Se intervino el 27 de agosto mediante tumorectomía y biopsia selectiva del ganglio centinela, obteniendo una respuesta patológica completa ypT0 ypN0 M0 (tras realización de TAC de valoración).
+Posteriormente recibió radioterapia externa sobre mama izquierda, áreas ganglionares I,II,III, mamaria interna y fosa supraclavicular ipsilaterales hasta 50 Gy. Además llevó una sobreimpresión con electrones por edad en cuadrante afecto hasta 12,5 Gy. El tratamiento se realizó entre el 18 de noviembre y el 5 de enero de 2016.
+Tras obtener una respuesta patológica completa patológica con posterior cirugía y radioterapia adyuvante, la paciente presentaba un estadío NED (sin evidencia de enfermedad) por lo que se decidió continuar Trastuzumab hasta completar 12 meses de tratamiento5, reiniciando el mismo en Agosto. Además se inicia de forma concomitante Tamoxifeno 20 mg diarios.
+
+Evolución
+Acudió a urgencias el 13 de enero de 2016 por cuadro de 5 días de evolución de fiebre termometrada en domiclio con expectoración sonrosada. Presenta disnea de esfuerzo. Asocia leve quebrantamiento del estado general. Había completado tratamiento antibiótico con Azitromicina 500 mg durante 3 días permaneciendo febricular. Había recibido el 6º ciclo de Trastuzumab post-cirugía el 21 de diciembre.
+A la exploración física se encontraba hemodinámicamente estable, con una temperatura axilar de 37,6º y saturación de oxígeno al 93% respirando aire ambiente. A la auscultación pulmonar presenta un murmullo vesicular conservado sin ruidos sobreañadidos
+Analíticamente destaca: Leucocitos 7,31 x10^9/L, Neutrófilos (Abs) 6,38 x10^9/L. PCR 260,1mg/dL.
+Procalcitonina 1,78 ng/mL. Antígeno de S. pneumoniae en orina positivo
+
+Dados los hallazgos clínicos, analíticos y radiológicos ingresó como sospecha de neumonía bilateral de origen bacteriano. Inicia tratamiento antibiótico empírico con Ceftriaxona 2g intravenoso cada 12 horas y Levofloxacino 500 mg intravenoso cada 24 horas, permaneciendo apirética desde las primeras 24 horas. Pese a lo cual, se produce un empeoramiento de la disnea y requiere de oxigenoterapia suplementaria para mantener saturación de oxígeno por encima del 90%
+Ante el empeoramiento clínico se solicitan nuevas pruebas complementarias:
+Analíticamente, el 17 de enero, presenta una cifra de leucocitos y neutrófilos dentro de los parámetros normales de nuestro laboratorio. La PCR estaba ligeramente elevada (24,5 mg/L) pero en claro descenso. La procalcitonina se había normalizado
+Se realiza nueva radiografía de tórax donde se visualiza un claro empeoramiento con aparición de derrame pleural izquierdo y persistencia de las consolidaciones presentes en el estudio previo.
+Tras estos resultados, se decide completar el estudio con un TACAR torácico.
+Radiológicamente plantea el diagnóstico de neumonía organizativa.
+La fibrobroncoscopia, realizada el 19 de enero, mostró normalidad endobronquial Los cultivos microbiológicos para bacterias, micobacterias y hongos fueron negativos, la serología negativa para virus y las citologías no mostraron células malignas. En el lavado broncoalveolar se informó de un 67% de linfocitos-con un predominio de CD4 (62,74%)-y de un 2% de neutrófilos.
+Se completa estudio para descartar origen autoinmune (Factor reumatoide, ANAs, Anti-dsDNA, C-ANCA Y P-ANCA) que fue negativo.
+Con estos resultados se planteó el diagnóstico diferencial entre:
+-Neumonía bacteriana: En un primer momento el tratamiento se dirigió hacia este diagnóstico.
+Posteriormente ante el empeoramiento clínico y radiológico a pesar de la mejoría de los reactantes de fase aguda y la ausencia de documentación microbiológica nos hizo desecharlo.
+- Neumonitis por radioterapia: Característicamente, se caracteriza por afectación del área irradiada entre 4 y 12 semanas tras el tratamiento. Aunque los síntomas concuerdan con los de nuestra paciente, la afectación pulmonar bilateral y el inicio del cuadro tras la primera semana del fin del tratamiento nos hace descartar esta causa.
+-Patología autoinmune pulmonar: La paciente carecía de antecedentes de interés, además se completó con estudio durante el ingreso y todos los parámetros fueron negativos.
+Tras descartar otras causas, la sospecha diagnóstica principal fue de una neumonía organizativa secundaria a Trastuzumab por lo que se inició Prednisona a 1 mg/kg de peso el 21 de enero. A los 3 días del inicio de los corticoides presentó una importante mejoría clínica con desaparición de la disnea y sin necesidad de oxígeno suplementario. Posteriomente continuó con pauta descendente de cortocoides, presentando en los meses sucesivos una desaparición completa de los infiltrados y del derrame pleural, como se observa en el TACAR de febrero.
+En mayo de 2016, se decide ante el alto riesgo de recaída, reintroducir Trastuzumab subcutáneo continuando al mismo tiempo con 20 mg de Prednisona. En el momento actual, la paciente ha recibido 2 ciclos sin reaparición de la clínica ni hallazgos radiológicos sugestivos de neumonía organizativa encontrándose con un PS 0.

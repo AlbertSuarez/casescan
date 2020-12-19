@@ -1,0 +1,21 @@
+Anamnesis
+Mujer de 47 años, sin alergias medicamentosas ni hábitos tóxicos, con antecedente de doble neoplasia de mama metacrónica. Primera neoplasia de mama a los 27 años, por la que se realiza mastectomía con el resultado de un carcinoma ductal infiltrante tipo común (CDI) grado 3 pT2N1b con receptores hormonales (RH) positivos; segunda neoplasia en mama contralateral a los 39 años, realizándose segunda mastectomía por un CDI grado 1 RH positivos pT1bpN0.
+Como antecedentes familiares oncológicos, destaca dos hermanas afectas de cáncer de mama. Una de ellas, exfumadora con una dosis acumulada de 10 paquetes-año, que presenta a los 35 años un CDI grado 3 pT2pN0, RH positivos, realizándose cuadrantectomía de mama izquierda y vaciamiento axilar, realizando adyuvancia posterior con quimioterapia esquema 5-fluorouracilo-doxorubicina-ciclofosfamida por 4 ciclos, seguido de paclitaxel semanal por 12 ciclos, con radioterapia y tamoxifeno adyuvantes.
+Dicha hermana, a los 41 años, a raíz de un dolor pleurítico, se diagnostica de un carcinoma pulmonar pobremente diferenciado cT2N2, estadio IIIA; iniciando neoadyuvancia con quimioterapia esquema cisplatino-vinorelbina por 4 ciclos, seguido de radioterapia sobre mediastino, mostrando una respuesta parcial radiológica. Se presenta el caso en el comité y se decide valorar cirugía pulmonar. En el estudio de extensión, se objetiva progresión de la enfermedad con aparición de dos metástasis cerebrales. Se realiza radioterapia holocraneal y mediastinoscopia de reestadificación que es negativa, por lo que se practica lobectomía superior izquierda con linfadenectomía sistémica, ypT2aypN0. Posteriormente, se realiza radiocirugía sobre las dos lesiones cerebrales. A los tres meses de la cirugía pulmonar, la paciente es exitus por progresión en forma de carcinomatosis leptomeníngea.
+La otra hermana presenta a los 29 años un carcinoma ductal in situ, practicándose mastectomía de mama izquierda y quimioprevención con tamoxifeno. A los 35 años, presenta CDI en la mama contralateral, grado 3 con RH positivos, pT1cpN1mic, por la que se realiza tumorectomía, con radioterapia adyuvante y quimioprevención con tamoxifeno.
+Además, existen antecedentes de cáncer de mama en tres familiares de segundo grado por rama paterna entre los 35 y 45 años.
+
+Exploración física
+Paciente con buen estado general, se realiza exploración mamaria donde se palpan prótesis mamarias bilaterales, no se palpan nódulos ni adenopatías axilares ni supraclaviculares. Abdomen blando y depresible, no se palpan masas ni megalias.
+
+Pruebas complementarias
+ Se realizó una eco endoscopia de la glándula pancreática en la que se visualizaba una esteatosis pancreática; el resto fue normal.
+ Se completó el estudio con una resonancia magnética en la cual no se veía dilatación ductal ni lesiones focales sospechosas.
+ La mamografía describía el muñón de la mastectomía izquierda sin lesiones subyacentes, igual que en el muñón de la mastectomía derecha.
+
+Tratamiento
+Todavía se desconocen las posibles implicaciones terapéuticas de la presencia de una mutación germinal en el gen PALB2.
+Hasta la fecha, no disponemos de guías clínicas para el seguimiento clínico de las personas portadoras de una mutación en PALB2. El cribado que se puede recomendar a portadoras de mutación en PALB2 incluye mamografía y resonancia magnética (RM) mamaria anual a partir de los 30 años. Se puede recomendar una RM pancreática o colangiorresonancia anual y ecografía endoscópica anual en un contexto de investigación clínica, y se puede discutir con la paciente la opción de la salpingooforectomía bilateral profiláctica en función de la historia familiar.
+
+Evolución
+Las dos pacientes portadoras de mutación están realizando el seguimiento según recomendaciones indicadas anteriormente, sin presencia de enfermedad en la actualidad.

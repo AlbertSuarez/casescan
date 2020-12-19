@@ -1,0 +1,27 @@
+Anamnesis
+Se trata de una mujer de 75 años en el momento de primera consulta (enero 2017), sin alergias conocidas, sin hábitos tóxicos ni factores de riesgo cardiovascular, y con antecedentes personales relevantes de hipotiroidismo en tratamiento sustitutivo. Como antecedentes médicos u oncológicos familiares de interés destaca madre fallecida de un carcinoma colorrectal a los 70 años.
+Su historia oncológica comienza en enero de 2017 al consultar en Digestivo por un cuadro de dispepsia de varios meses de evolución. Se realiza ecografía de abdomen y analítica completa, sin hallazgos significativos salvo elevación de GGT y FA, motivo por el cual se solicitan colonoscopia y gastroscopia que no objetivan patología y tomografía computarizada (TC) abdominal donde se aprecian varias lesiones ocupantes de espacio (LOE) hepáticas indeterminadas en el segmento II de 31 mm y otras entre segmentos V y V (6-8 mm) sospechosos de depósitos secundarios. Ante los hallazgos, se realiza colangiorresonancia magnética (RM) y RM hepática que confirma la presencia de lesiones sospechosas de depósitos secundarios la mayor de 47 mm y el resto de lesiones de carácter indeterminado.
+Durante el proceso diagnóstico, se palpa un nódulo en cuadrante inferior izquierdo de mama izquierda solicitando mamografía y ecografía donde se objetiva un nódulo sospechoso de malignidad (BIRADS 4c), por lo que se realiza biopsia con aguja gruesa (BAG) de mama izquierda en junio de 2017 con resultado anatomopatológico (AP) de carcinoma ductal infiltrante. Es intervenida en julio de 2017 mediante cuadrantectomía amplia con márgenes libres, con biopsia selectiva del ganglio centinela (BSGC), identificándose 2 adenopatías, una de ellas positiva por inmunohistoquímica para citoqueratinas. La AP definitiva es: carcinoma ductal infiltrante de 1,3 cm, moderadamente diferenciado, grado II, receptores estrogénicos (RE) 95 %, receptores de progesterona (RP) 90 %, Ki 67 12 %, HER-2 negativo. TNM pT1cpN0(i+)(sn).
+La paciente persiste con síntomas de dispepsia y dolor abdominal, por lo que ingresa en julio de 2017 en Digestivo y posteriormente en Oncología Médica para completar su estudio.
+
+Exploración física
+En la exploración física al ingreso, destacaba un aceptable estado general, ECOG 0. Sin adenopatías en regiones laterocervicales ni supraclaviculares. Asimetría mamaria con cicatriz en cuadrante inferointerno en mama izquierda sin datos de complicación. No se palpaban nódulos en ambas mamas ni adenopatías axilares. No se palpan masas ni visceromegalias. El resto de la exploración sin hallazgos.
+
+Pruebas complementarias
+Durante el ingreso en Oncología Médica, se realizaron las siguientes pruebas complementarias:
+» Marcadores tumorales: negativos.
+» Serologías de virus hepatotropos: negativas.
+» Tomografía por emisión de positrones (PET) oncológica: lesión hepática conocida en segmento II inespecífica desde el punto de vista metabólico. Sin otros hallazgos significativos.
+» Ecografía hepática: lesión focal hepática en segmento II sospechosa para malignidad, con comportamiento de lesión necrótica o fibrótica (metástasis, colangiocarcinoma, lesión fibrótica) que ha crecido discretamente con respecto a la TC inicial, las lesiones de menor tamaño permanecen inespecíficas.
+» Punción-aspiración con aguja fina (PAAF) y BAG: tejido conectivo con extensa necrosis coagulativa, infiltrado inflamatorio y fibrosis. Resumen: citología no concluyente.
+
+Diagnóstico
+Diagnóstico de carcinoma ductal infiltrante de mama izquierda pT1c pN0 (i+) y lesión sospecha de metástasis en lóbulo hepático izquierdo (una única lesión sospechosa y otras dos indeterminadas).
+Tratamiento
+Se decide presentar en comité de tumores multidisciplinar para valorar la resección de la LOE hepática y completar el estudio anatomopatológico.
+Es intervenida por parte de Cirugía General el 21/8/2017, realizándose resección de dos lesiones en segmento V-VI hepático y segmentectomía II-III hepático laparoscópico, siendo dada de alta sin complicaciones.
+
+Evolución
+La AP definitiva de las lesiones hepáticas fue la siguiente: segmentos hepáticos subcapsulares con nódulos necróticos eosinófilos hepáticos con presencia en el material necrótico de huevos de parásitos degenerados. No se han visto signos de malignidad.
+Finalmente, ante los hallazgos AP, se solicitan serologías para parásitos, siendo positiva para Fasciola hepática, por lo que comienza con tratamiento con triclabendazol en noviembre de 2017, con buena respuesta al mismo sin toxicidades relevantes. En la anamnesis dirigida, la paciente refiere ser consumidora habitual de berros salvajes.
+Tras la cirugía hepática, la paciente comienza tratamiento radioterápico adyuvante (RT) entre los días 11/09/2017 y 17/10/2017, administrándose una dosis de 50 Gy en 25 sesiones a 2 Gy/sesión en la mama izquierda. Ha iniciado tratamiento hormonal adyuvante con el que se mantienen en la actualidad.

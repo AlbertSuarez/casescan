@@ -1,0 +1,35 @@
+Anamnesis
+Paciente de 79 años sin antecedentes médicos relevantes. No reacciones adversas medicamentosas.
+No presentaba antecedentes familiares oncológicos.
+Consultó en urgencias en Septiembre de 2015 por clínica subaguda de aproximadamente un mes de evolución de lesiones máculo-papulosas en cara, tronco, nudillos y párpados asociado a debilidad muscular generalizada de predominio proximal. No asociaba síndrome constitucional. En las pruebas complementarias en urgencias se detectó una CPK(creatin fosfoquinasa) 4.482 U/L y una LDH (lactato deshidrogenasa) 892 U/L , resto de la bioquímica y hemograma con cifras dentro de la normalidad.
+
+Exploración física
+La paciente presentaba un estatus performance de 1, lesiones maculares en párpados, pómulos y pared anterior de tórax asociando además ulceración en piel de la zona axilar izquierda y una zona indurada en la cola de la mama izquierda sin poder palparse un nódulo definido. A nivel neurológico presentaba una fuerza en miembros superiores e inferiores de 2/5 proximal y 4/5 a nivel distal. Resto de la exploración física dentro de la normalidad.
+
+Pruebas complementarias
+Ante la sospecha diagnóstica de una dermatomiositis ingresó en Medicina Interna para estudio:
+» A nivel analítico destacaban: CPK 4.482 U/L, GOT(aspartato amino transferasa) 159, GPT(alanina amino transferasa) 77 y LDH 892 U/L ; hemograma, coagulación, serología vírica hepática, complemento, marcadores tumorales (CA15.3, CEA, CA125, CA19.9) y autoinmunidad dentro de la normalidad.
+» Radiológicamente destacaba en tomografía computerizada(TAC) adenopatías múltiples izquierdas, la mayor de 10mm y edema en tejido celular subcutáneo a nivel de la mama izquierda(MI), por lo que se realiza mamografía y ecografía mamaria que muestra en prolongación axilar de MI un nódulo sólido irregular de 8x10mm con múltiples adenopatías significativas izquierdas de hasta 7mm de grosor cortical, junto con engrosamiento cutáneo. A nivel de mama derecha (MD) en cuadrante superoexterno (CSE) se localiza un grupo de microcalcificaciones sospechosas.
+» Ante la sospecha de malignidad en las lesiones observadas en la ecografía se realiza biopsia con aguja gruesa(BAG) con los siguientes resultados anatomopatológicos 
+o MI: carcinoma ductal infiltrante, grado histológico (GH) II , receptores de estrógenos negativos, receptores de progesterona negativos, proteína Her2 negativa y ki67 25% 
+o MD: carcinoma ductal in situ grado nuclear 2-3, sólido y cribiforme.
+o Adenopatía izquierda: positiva para metástasis por carcinoma de origen mamario.
+» Realizada también una biopsia de piel a nivel de pared torácica anterior con anatomía patológica compatible con dermatomiositis.
+
+Diagnóstico
+Tras la realización de todas las pruebas complementarias se diagnostica de dermatomiositis dado que cumple al menos 3 de los 5 criterios siguientes, siendo indispensable la aparición de las lesiones cutáneas características.
+1.- Debilidad muscular proximal y simétrica.
+2.- Elevación de los enzimas musculares: CPK, LDH, GOT y GPT.
+3.- Alteraciones electromiográficas compatibles
+4.- Biopsia muscular compatible.
+5.-Manifestaciones cutáneas patognomónicas (pápulas de Gottron y eritema en heliotropo)
+Por tanto se trata de una dermatomiositis paraneoplásica asociada a un carcinoma ductal infiltrante de mama izquierda cT4(por lesiones ulceradas) cN+ fenotipo triple negativo, Estadio IIIB y un carcinoma in situ de mama derecha.
+
+Tratamiento
+Ante el diagnóstico de dermatomiositis se inició tratamiento con prednisona 60 mg/día vía oral con mejoría de la clínica de la debilidad muscular y progresivo aclaramiento de las lesiones cutáneas, por lo que es dada de alta tras 4 días de tratamiento y se remite a Consultas Externas de Oncología para valoración oncológica.
+Vista como primera visita en Oncología se solicita estudio mediante fracción de eyección de ventrículo izquierdo que es del 56% y un rastreo óseo negativo para enfermedad a distancia, todo ello previo al inicio de tratamiento quimioterápico neoadyuvante con Paclitaxel-Albúmina 125mg/m2 (nab-Paclitaxel) de forma semanal en los días +1,+8, + 15 cada 28 días
+
+Evolución
+Tras la administración del día +1 y +8 del 1º ciclo del tratamiento quimioterápico ingresó en Medicina Interna por un empeoramiento clínico consistente en debilidad de miembros inferiores que le impedían la deambulación y un trastorno de la deglución, precisando de la administración de inmunoglobulina intravenosas 400mg/kg/día x 5 dosis con mejoría objetiva del cuadro, decidiendo entonces reiniciar el tratamiento con quimioterapia y proseguir con prednisona oral en pauta descendente.
+A los 7 días del reinicio del 2º ciclo de tratamiento reingresa en la unidad de Oncología por empeoramiento del cuadro de dermatomiositis a nivel de la musculatura deglutoria y respiratoria iniciando tratamiento con megadosis de metilprednisolona de 1g/día durante 5 días con una evolución lenta y tórpida aunque con discreta mejoría, por lo que se decide de nuevo reinicio el tratamiento con Paclitaxel-Albúmina a dosis reducida al 25 % con un total de 90mg/m2.
+Posteriormente presenta un marcado empeoramiento y deterioro del estado general, más marcado a nivel respiratorio, con un aumento de secreciones respiratorias que le confieren una insuficiencia respiratoria precisando de oxigenoterapia a altos flujos, antibioterapia intravenosa y antisecretores sin ninguna respuesta. Finalmente se inicia sedación superficial para un adecuado control de síntomas falleciendo a las 24 horas.

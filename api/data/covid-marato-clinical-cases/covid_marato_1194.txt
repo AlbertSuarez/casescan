@@ -1,0 +1,55 @@
+Anamnesis
+
+Motivo de consulta:
+Paciente diagnosticada de neoplasia de mama que es remitida al Servicio de Oncología Médica para valorar tratamiento.
+
+Antecedentes personales:
+» Hipercolesterolemia e hiperglucemia controladas con dieta.
+» Medicación actual: Plantaben 1-0-0, Diclofenaco a demanda por dolores articulares.
+» IQ cataratas, Corrección de cistocele (x2).
+» G4A1P3. Menopausia a los aproximadamente 50 años.
+» No alergias medicamentosas conocidas.
+
+Enfermedad actual:
+Tras autopalpación de tumoración en mama izquierda en Diciembre de 2014, consulta y se realiza estudio completo:
+- Ecografía + mamografía: Nódulo denso de contorno regular de 37 mm en situación retroareolar de mama izquierda, evidenciado en ecografía como nódulo hipoecoico sugestivo de neoformación. Se realiza TRUCUT ecoguiado, evidenciando durante la biopsia contenido sólido-líquido de dicho nódulo por lo que se realiza posteriormente PAAF ecoguiada con vaciamiento parcial del mismo, enviando el material para estudio anatomo-patológico. Adenopatía de 34 mm axilar izquierda que presenta ecoestructura similar al nódulo referido anteriormente. Se realiza PAAF ecoguiada.
+- Anatomía Patológica: POSITIVO PARA CELULAS MALIGNAS. COMPATIBLE CON CARCINOMA ESCAMOSO QUERATINIZANTE. TRIPLE NEGATIVO. Ki67 80%.
+- RMN mama: Adenomegalia (x3) de 53 x22, 17 y 10 mm. Masa retroareolar en mama izda de 5,5 cm, sólido con gráficas de captación sospechosas para proceso neoplásico así como patrón restringido en técnicas de difusión. Engrosamiento cutáneo. Sin otras anomalías. La adenomegalia presenta el mismo comportamiento. Sin anomalías en mama derecha.
+
+Exploración física
+Consciente y orientada, eupneica, normocoloreada. Muy buen estado general.
+Exploración mamaria: Se palpa masa de 8 x 6 cm en CIE de mama izquierda con eritema en la piel de la zona, conglomerado adenopático de 3,5 x 4,5 cm en axila izquierda.
+AC: rítmica a buena frecuencia.
+AP: murmullo vesicular conservado, sin ruidos sobreañadidos.
+Abdomen: blando y depresible, no dolor a la palpación, no palpo visceromegalias.
+EEII: no edemas.
+
+Pruebas complementarias
+Estudio de extensión (Rx tórax, gammagrafía ósea): negativo.
+FEVI: 0.62.
+
+Diagnóstico
+Juicio diagnóstico: Carcinoma escamoso de mama izquierda cT4bN2a, triple negativo. Ki67 80%.
+
+Tratamiento
+Se propone tratamiento de quimioterapia neoadyuvante con esquema AC c/21 días x 4 ciclos seguido de Paclitaxel semanal x 12 ciclos, según tolerancia.
+Comienza el tratamiento el 11/12/2014. Tras el 6º Paclitaxel se suspende el tratamiento por toxicidad, por lo que se da por finalizado el tratamiento el 14/04/15.
+Se realiza valoración de respuesta mediante RMN mama: Las imágenes demuestran una masa en UCI de la mama izquierda de 27 x 32 mm con una pared engrosada irregular y en la que persiste un nódulo mural de 11 mm con cinética de malignidad. Persiste conglomerado adenopático axilar de 41 mm.
+Respecto al estudio inicial se demuestra una reducción menor del 50% tanto de la masa tumoral como del componente ganglionar, aunque las adenopatías axilares asociadas al conglomerado principal han disminuido. El tamaño tumoral no ha disminuido, ya que el componente necrótico es persistente, aunque las áreas de realce en el interior del mismo, posiblemente la parte de lesión viable si lo han hecho. No se demuestran otras lesiones asociadas.
+El 14/05/2015 se procede a Mastectomía Radical Modificada.
+Anatomía Patológica (mastectomía radical modificada izquierda postquimioterapia): carcinoma metaplásico, residual. Tamaño de 15x15mm. Piel y márgenes quirúrgicos libres de neoplasia. Cambios postquimioterapia. Grado de respuesta patológica: G3. Residual cancer burden class: RCB-III. Nota: La diferenciación escamosa es menos destacable en la tumoración actual postquimioterapia.
+- Vaciamiento axilar izquierdo, nivel I: 2 adenopatías con macrometástasis de 3 aisladas. Tamaño de 15 mm sin rotura capsular. Grado de respuesta ganglionar tipo B.
+- Vaciamiento axilar izquierdo, nivel II: 1 adenopatía con macrometástasis de 7 aisladas. Tamaño de 3mm con rotura capsular. Grado de respuesta ganglionar tipo B.
+- Vaciamiento axilar izquierdo, nivel III: 1 adenopatía con macrometástasis de 5 aisladas.
+JC: Carcinoma metaplásico residual 15 mm ypT1cN2M0 (4/15 adenopatías, con rotura capsular), Miller y Payne G3, RCB-III.
+Posteriormente, se propone tratamiento complementario con Radioterapia en pared y áreas y seguimiento en Oncología Médica.
+
+Evolución
+El 4/12/15 acude a revisión programada al Servicio de Oncología Médica. En la radiografía de tórax realizada se observa un nódulo en LSD por lo que se completa estudio con TAC y Gammagrafía ósea que evidencian metástasis pulmonares y probable afectación axilar izquierda, sin afectación ósea.
+Atendiendo al excelente estado general de la paciente tanto como a su edad y sus deseos y las características del tumor, proponemos tratamiento con Vinorelbina oral días 1 y 8/21 días, que inicia el 04/01/2016.
+Coincidiendo con el 3º ciclo en Febrero 2016 comienza a referir tos irritativa, sin fiebre ni otra clínica asociada. Se trata con Cloperastina, que no es eficaz, y posteriormente con Codeína, que tampoco lo es. Antes del 4º ciclo se realiza valoración de respuesta por TAC que evidencia cavitación de las metástasis pulmonares, considerandose EE-NC según criterios RECIST 1.1.
+En la analítica destaca una leucocitosis que ha ido en aumento. Clínicamente, presenta empeoramiento de la tos y de su estado general, con astenia marcada, permaneciendo afebril.
+Se solicita broncoscopia diagnóstica, que se realiza el 9/05/2016. En la exploración, se observa árbol bronquial segmentario apical del LID estenosado por una masa de características neoformativas. Se realiza toma de muestras para cultivo microbiológico y se envía material para estudio anatomopatológico. Resultado: metástasis endobronquial en segmento apical de LID, AP positiva para metástasis de carcinoma metaplásico mamario, cultivos negativos.
+Dada la progresión de la enfermedad, se da por finalizado el tratamiento de Vinorelbina oral.
+La paciente presenta deterioro en las dos últimas semanas en relación con la tos irritativa, por lo que se instaura tratamiento con Prednisona 30 mg en pauta descendente además de la Codeína pautada y se remite a la paciente al Servicio de Radioterapia para valoración de Radioterapia sobre la lesión endobronquial con intención paliativa.
+Se ha realizado TAC de centraje y simulación, actualmente está pendiente de iniciar el tratamiento de RT externa convencional 3D, 6 sesiones de 4 gray, dosis final de 24 gray.

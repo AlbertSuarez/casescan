@@ -1,0 +1,19 @@
+Anamnesis
+Varón de 44 años de edad, sin antecedentes médicos de interés, que acude a Urgencias por aparición de adenopatías cervicales bilaterales y cambios en el ritmo intestinal, de 2 semanas de evolución acompañado de sudoración nocturna profusa, hiporexia, astenia moderada y pérdida de 10 kg de peso aproximadamente en los 3 meses previos. Tras ser valorado por el Servicio de Medicina Interna, el paciente fue ingresado para estudio y tratamiento.
+
+Examen físico
+A la exploración, presentaba ECOG 3, palpándose una adenopatía de 1,5 cm en la fosa supraclavicular izquierda, fija, dura, no dolorosa y otras de menor tamaño laterocervical derecho e inguinal derecho. La auscultación era normal y en el abdomen se palpaba hepatoesplenomegalia no dolorosa de 4-5 cm, sin otras alteraciones significativas.
+
+Pruebas complementarias
+En la analítica destacaba anemia normocítica (Hb 10,4 g/dl), colesterol total de 50 mg/dl, una PCR elevada (80,5) y una b2-microglobulina de 4,30, sin otros hallazgos patológicos. Se solicitó una serología que resultó negativa para VHA, VHC, sífilis, toxoplasma y leishmaniosis, siendo positiva para VHB pasada (AgHBs negativo, AcHBs positivo y AcHBc positivo) y virus de la inmunodeficiencia humana (HIV), con una carga viral para infección HIV de 95.763 copias/ml y un recuento linfocitario de 10,96 copias/ml de CD4. En la TC cervicotoracoabdominal se objetivaban numerosas adenopatías en espacios cervicales, axilares, cadenas ilíacas e inguinales de tamaño significativo, esplenomegalia y tenues infiltrados en vidrio deslustrado parcheado en lóbulos medio e inferior derecho.
+
+Diagnóstico
+Se solicitó biopsia de la adenopatía supraclavicular izquierda con resultado anatomopatológico compatible con enfermedad de Castleman (EC), con alteraciones que corresponden tanto a la forma hialina-vascular como a la plasmocitaria, considerándose por tanto una forma mixta.
+Ante estos resultados, se amplió serología para el virus herpes humano 8 (HHV-8), la cual resultó positiva.
+
+Tratamiento
+El paciente inició tratamiento con terapia antirretroviral de gran actividad con emtricitabina/tenofovir y raltegravir, así como profilaxis primaria para neumocistis con cotrimoxazol. Posteriormente, fue remitido a nuestro Servicio de Oncología Médica, siendo valorado como un paciente con EC multicéntrica con síntomas B, inmunodeprimido y con mal estado general, se decidió iniciar tratamiento con corticoterapia (prednisona 50 mg) y vinblastina semanal (3 mg/m2) los días 1, 8 y 15 cada 28 días, con mejoría clínica inicial y debut con descompensación diabética.
+
+Evolución
+Tras el primer ciclo precisó ingreso hospitalario en Oncología Médica por hiponatremia severa sintomática. Durante su estancia en planta, presentó deterioro clínico con persistencia de síntomas B y desnutrición calórico-proteica severa.
+Además, desarrolló una polineuropatía en el miembro inferior derecho junto con aparición de lesiones cutáneas sobreelevadas pardo-grisáceas en abdomen y cara anterior de tórax, así como una lesión violácea plana en paladar duro compatible con sarcoma de Kaposi (pendiente de resultado histológico). Descartada etiología infecciosa/oportunista, y considerando todos estos hallazgos, se valoró el cuadro clínico como un síndrome POEMS asociado a EC, así como desarrollo de sarcoma de Kaposi en el contexto de la propia enfermedad e infección por HIV y HHV-8, por lo que se decidió iniciar tratamiento con rituximab 375 mg/m2 semanal por cuatro semanas.

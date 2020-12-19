@@ -1,0 +1,39 @@
+Anamnesis
+Antecedentes
+» Antecedentes personales: hipertensión arterial de 5 años de evolución en tratamiento con inhibidores de angiotensina II e hipercolesterolemia en tratamiento con atorvastatina 10 mg vía oral una vez al día.
+» Antecedentes quirúrgicos: no refiere.
+» Antecedentes familiares: tía materna: adenocarcinoma de endometrio diagnosticada a los 52 años; tía paterna: adenocarcinoma de endometrio diagnostico 60 años.
+Enfermedad actual
+Varón de 60 años de edad asintomático, en el contexto de sangre oculta en heces positiva en test de cribado, se realiza colonoscopia objetivándose lesión a 12 cm del margen anal que se biopsia. Estudio de extensión:
+» Anatomía Patológica: adenocarcinoma bien diferenciado de recto.
+» TC toracoabdominopélvica: múltiples nódulos pulmonares de hasta 1 cm visualizados en ambos parénquimas pulmonares.
+» RMN: neoplasia de recto a 11 cm del margen anal, cT3aN1b, con afectación parcial de la fascia mesorrectal, sin invasión venosa extramural.
+
+Exploración física
+» Consciente y orientado en las tres esferas, normocoloreado, eupneico en reposo.
+» AC: ruidos cardiacos regulares.
+» AP: campos pulmonares ventilados.
+» ABD: blando depresible RHA presentes sin signos de irritación peritoneal.
+» NCL: sin focalidad neurológica.
+
+Pruebas complementarias
+» TC.
+» Resonancia magnética nuclear.
+
+Diagnóstico
+» Adenocarcinoma de recto EIV.
+» Metástasis pulmonares.
+
+Tratamiento
+Tratamiento sistémico.
+
+Evolución
+Historia oncológica:
+» Mayo de 2016: valorado en Comité de Tumores Colorrectales, dada la afectación pulmonar bilateral múltiple y que el tumor primario es asintomático, se decide iniciar tratamiento quimioterápico sistémico.
+» El paciente se incluye en ensayo clínico VISNU, se realiza estudio de CTC y mutaciones con resultado BRAF wt, RAS wt, PI3K wt
+» Tras 6 ciclos, se evidencia respuesta parcial tanto de la metástasis como del tumor primario.
+» Excelente tolerancia del tratamiento con neurotoxicidad G1 y mucositis G1 como toxicidad más relevante.
+» Tras 12 ciclos en TAC TAP se evidencia respuesta completa radiológica y se completa estudio con PET para valorar resecabilidad del tumor primario continuando quimioterapia hasta completar el estudio. »
+» 20/12/2016 ingreso hospitalario por cuadro de ataxia, disartria, dismetría, sin objetivarse alteraciones en pruebas de imagen ni en líquido cefalorraquídeo. Ante la sospecha de síndrome cerebeloso agudo secundario a 5-FU, se suspende quimioterapia con recuperación progresiva, sin secuelas. Sale de ensayo clínico VISNU.
+» Enero 2017: se realiza MRI pélvica objetivándose reducción del volumen tumoral sin evidenciar lesión macroscópica residual y adenopatía presacra de 7 mm, localizada a 4 mm de fascia mesorrectal. Valorado en el Comité de Tumores se decide administrar ciclo corto de radioterapia (25 Gy) que finaliza el día 10/01/2017 y posteriormente se interviene el 07/02/17 mediante resección anterior de recto + escisión mesorrectal total. Informe de Anatomía Patológica: respuesta completa patológica.
+» » Abril 17: TC TAP de control sin evidenciarse enfermedad metastásica, iniciando seguimiento.

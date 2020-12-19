@@ -1,0 +1,32 @@
+Anamnesis
+Paciente de 57 años, sin alergias conocidas. Exfumador, con un consumo acumulado de 40 paquetes-año, Exenolismo grave.
+
+Antecedentes patológicos: cardiopatía isquémica en forma de IAM en 2009 con enfermedad de dos vasos (coronaria derecha y descendente anterior) que requirió implantación de stent farmacoactivo en un vaso. Dislipidemia en tratamiento médico. Hipertensión arterial. Enfermedad pulmonar crónica en forma de enfisema centrolobulillar.
+Historia oncológica: comienza en mayo de 2013 con primeros sintomas en forma de disfonía progresiva. Sin disfagia ni odinofagia asociadas. Tampoco presentaba síndrome tóxico. Ante la persistencia de la clinica de meses de evolución consulta al Servicio de Otorrinolaringología en noviembre de 2013.
+
+Exploración física
+Edema de Reinke bilateral. Se realizó fibrolaringoscopia, visualizando el edema de Reinke, cuerdas móviles, en el tercio anterior de la cuerda vocal derecha se observa una lesión infiltrante con posible afectación de la comisura anterior y la cuerda izquierda.
+
+Pruebas complementarias
+» Se realiza biopsia mediante fibrolaringoscopio, compatible con carcinoma escamoso.
+» TC cervical (21/1/2014): cuerda vocal derecha engrosada que impronta sobre la laringe.
+» Radiografía de tórax (23/1/2014): presencia de una imagen nodular de 28 mm de bordes nítidos discretamente lobulados en el LID, sugestiva de neoplasia pulmonar.
+» Ante estos hallazgos, se realizó una TC torácica, donde se descartó la presencia de adenopatías mediastínicas, hiliares o axilares, así como nódulos pulmonares ni afectación del marco óseo.
+» Se realizó el 14/3/14 una cordectomía láser: en el acto quirúrgico se objetivó crecimiento de la lesión, que se extendía a toda la cuerda vocal derecha, comisura anterior, tercio anterior de la cuerda vocal izquierda, pie de la epiglotis y subglotis. Se realizó biopsia de la cuerda vocal izquierda, la comisura y la epiglotis, compatible con carcinoma escamoso.
+» Se realizó una TC de cuello el 19/3/14, que informa de masa concéntrica que afecta a la laringe supraglótica (grasa prelaríngea), glotis y subglotis, con afectación de ambas cuerdas, bandas, comisura anterior, grasa paraglótica, bilateral de leve predominio derecho, con exteriorización más allá del cartílago tiroides, afectando a la musculatura extralaríngea y desplazando lateralmente a la porción medial de los lóbulos tiroideos y esternocleoidomastoideo, que condiciona una disminución del calibre de la luz aérea glótica-suglótica, con una longitud cráneo-caudal máxima aproximada de 40 mm, compatible con neoplasia transglótica. Ganglios laterocervicales localizados en el nivel V derecho de tamaño no significativo (8 mm) pero realce tras la administración de contraste de aspecto sospechoso de malignidad.
+» Se presentó en comité de tumores de cabeza y cuello de nuestro centro y se consideró tributario de cirugía. El 25/4/2014 se realizó una laringectomía total y vaciamiento bilateral de los niveles II-V, traqueostomía y tiroidectomía total con paratiroidectomía superior.
+
+Diagnóstico
+El resultado anatomopatológico fue de carcinoma escamoso infiltrante moderadamente diferenciado, de 3,7 cm de diámetro, con afectación de la comisura anterior de ambas cuerdas vocales, ventrículos, cuerdas vocales falsas, subglotis, cartílago tiroides, cricoides, partes blandas prelaringeas y glándula tiroides. Márgenes libres. pT4a. Vaciamiento ganglionar izquierdo con afectación de 2/6, el mayor de 6,5 mm. Afectación extracapsular en uno de los ganglios. Vaciamiento ganglionar derecho con afectación de 3/30 sin afectación extracapsular.
+Se estadificó como pT4aN2cM0, estadio IV A.
+
+Tratamiento
+Se consideró tributario de tratamiento adyuvante con radioterapia 60 Gy del lecho tumoral y las adenopatias afectadas, y 50 Gy II-III-IV-V-VI y suprabilateral concomitante a carboplatino semanal AUC2, ya que se consideró contraindicada la administración de cisplatino por la cardiopatía que presentaba el paciente. Finalizó el tratamiento adyuvante en agosto de 2014.
+
+Evolución
+El día 20/2/15 el paciente presentaba dolor, con tumefacción en la cabeza de la clavícula izquierda de manera espontánea. Acudió a urgencias y se valoró como posible sinovitis de la articulación esternoclavicular con subluxación esternal izquierda.
+Ante la persistencia de la clínica se realizó estudio mediante TC el 23/4/15, que informaba de fractura en el extremo proximal de la clavícula izquierda, desplazada, sin evidencia de claras lesiones focales subyacentes. Presencia de múltiples nódulos pulmonares distribuidos de forma aleatoria en ambos campos pulmonares, los de mayor tamaño de aproximadamente 2-3 cm, sugestivos de M1.
+Se completó el estudio con SPECT-TC el 5/5/15, que informaba de aumento de la fijación del radiotrazador, intenso en la clavícula, especialmente en el hueso adyacente a un área hipodensa con ruptura cortical, cercano al área articular esternoclavicular izquierda y que gammagráficamente es compatible con la existencia de un proceso lítico, probablemente una M1 en la clavícula izquierda. M1 en la rodilla izquierda. Asimismo, destacaba la presencia de multiples metástasis pulmonares bilaterales con captación de contraste.
+Se valoró en consulta de Oncología, considerando al paciente tributario de iniciar tratamiento de primera línea con taxol-cetuximab, que inició el día 5/6/15. No se administró quimioterapia según esquema EXTREM por insuficiencia cardíaca con fracción de eyección del ventrículo izquierdo del 47%.
+El paciente consultó nuevamente en Urgencias el 21/5/15 por panadizo en el cuarto dedo de la mano izquierda, que no había mejorado con tratamiento con amoxicilina-ácido clavulánico. Se realizó una radiografía de la mano izquierda, observándose total destrucción de la falange del cuarto dedo izquierdo, valorado como posible M1 lítica. Ante los hallazgos, el dolor mal controlado y los signos de infección local se decidió la amputación de la falange distal.
+Actualmente, el paciente está a la espera de inicio de radioterapia antiálgica.

@@ -1,0 +1,25 @@
+Anamnesis
+Paciente mujer de 48 años, sin alergias medicamentosas conocidas, exfumadora desde hace 9 años (Índice acumulado 2 paquetes/año), sin antecedentes médicos de interés. Como antecedentes familiares, destaca padre fallecido a los 66 años de edad de neoplasia de colon, y tío materno fallecido a los 88 años de neoplasia de pulmón.
+
+Se inicia estudio en el Servicio de Neumología, en un hospital privado, en febrero de 2009, por aparición de adenopatía supraclavicular izquierda, y masa pulmonar en el lóbulo inferior izquierdo (LII), asociado a cuadro constitucional.
+
+Exploración física
+ECOG 0, eupneica en reposo. No cianosis ni acropaquias. Cabeza y cuello: no ingurgitación venosa yugular. Adenopatía supraclavicular izquierda. Auscultación cardiopulmonar: rítmica, sin soplos.
+Murmullo vesicular conservado sin otros ruidos sobreañadidos. Abdomen: blando y depresible, no doloroso a la palpación profunda. Peristaltismo presente. No palpación de masas ni megalias. MMII sin edemas ni signos de TVP. No se palpan adenopatías inguinales.
+
+Pruebas complementarias
+» PAAF de la adenopatía supraclavicular izquierda: positiva para células tumorales malignas.
+» Biopsia quirúrgica de adenopatía supraclavicular izquierda: metástasis de carcinoma de células grandes, de probable origen pulmonar, TTF-1 positivo intenso.
+» TC cérvico-tóraco-abdomino-pélvico, siendo lo más destacado una masa de 2 x 2,8 cm en el LII, de bordes espiculados, y nódulos milimétricos en ambos campos pulmonares, con conglomerado adenopático prevascular de 1,4 cm entre la salida de la subclavia izquierda y la carótida izquierda.
+Adenopatías axilares izquierdas.
+» PET-TC: alta probabilidad de malignidad a nivel del nódulo de 26 x 23 mm en el segmento posterior del LII, así como en adenopatías mediastínicas hipermetabólicas en la región paratraqueal izquierda, prevascular izquierda, y micronódulos indeterminados de predominio pulmonar derecho.
+
+Diagnóstico
+Carcinoma de células grandes de pulmón, T1N3M0 (estadio clínico III-B).
+
+Tratamiento
+La paciente, tras el diagnóstico en un centro privado, se traslada a nuestro hospital para inicio de tratamiento y seguimiento. Ante el mencionado diagnóstico, se inicia tratamiento quimioterápico con el esquema carboplatino-paclitaxel-bevacizumab, con indicación en primera línea, desde marzo de 2009 hasta julio de 2009, recibiendo un total de seis ciclos, con buena tolerancia, sin presentar toxicidad durante el tratamiento, con respuesta radiológica parcial en la TC tras seis ciclos, con desaparición de adenopatías mediastínicas y considerable disminución de la masa en el LII (midiendo en ese estudio 6 mm), disminución de las adenopatías axilares derechas y respuesta metabólica completa por PET-TC.
+
+Evolución
+La paciente, tras finalizar el tratamiento, inicia seguimiento, y en junio de 2010, con intervalo libre de progresión (ILP) de 11 meses, en la TC de control se objetiva aumento de tamaño en 6 mm del nódulo del LII con respecto al estudio previo (6 mm). Se solicita estudio mutacional EGFR, con el resultado de EGFR positivo/mutado, Mutación L858R-exón 21, mutación T790M-exón 20. Se presenta el caso en comité de tumores torácicos y, aunque la resección del nódulo es técnicamente posible, se desestima dado el estadiaje inicial de la neoplasia, y se decide tratamiento de segunda línea con erlotinib, indicado en el tratamiento de pacientes con cáncer de pulmón no microcítico localmente avanzado o metastásico tras fallo, al menos, a un tratamiento quimioterápico anterior. Se inicia con dosis de 150 mg/día, que se tiene que reducir un año más tarde, a 100 mg/día, por presentar rash cutáneo grado 2, desapareciendo dicha toxicidad.
+Tras 4 años y 11 meses desde el inicio de erlotinib, la paciente permanece con enfermedad estable, con muy buen estado general, sin toxicidad al tratamiento. El último estudio de TC es de octubre de 2014, con enfermedad radiológica estable.

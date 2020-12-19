@@ -1,0 +1,37 @@
+Anamnesis
+Mujer de 37 años.
+No presenta alergias medicamentosas conocidas. Fumadora de 20 cigarrillos diarios. No otros hábitos tóxicos ni antecedentes médico-quirúrgicos de interés. Como antecedentes familiares destacan dos tíos paternos con cáncer gástrico, y una abuela materna con cáncer de mama.
+Consulta en Dermatología en 2008, por lesión cutánea a nivel escapular izquierdo. Se procede a exéresis de la misma, siendo la anatomía patológica compatible con nevus de Spitz atípico, por lo que los clínicos contactan con la paciente indicando ampliación de márgenes, pero la paciente no acude.
+En Septiembre de 2013, la paciente acude a Urgencias por dolor en costado derecho, de inicio brusco, de características pleuríticas, no irradiado a otras localizaciones, sin otra clínica asociada. No presenta tos, expectoración, fiebre, ni clínica infecciosa. Interrogada, refiere cuadro constitucional consistente en anorexia, con pérdida de peso de unos 5 kg desde principios de 2013, así como bultoma supraclavicular izquierdo de crecimiento lento.
+Ante los antecedentes de la paciente y el cuadro actual, se decide ingreso en Medicina Interna.
+
+Exploración física
+Afebril. Hemodinámicamente estable. Sat 99% aire ambiente.
+Talla 169 cm. Peso 59 kg.
+Normohidratada. Normocoloreada. Eupneica en reposo. Tolera decúbito. PS-ECOG 1.
+NRL: Consciente. Orientada en las 3 esferas. Pares craneales normales. No alteraciones en fuerza, tono ni sensibilidad. No dismetrías ni alteraciones en el equilibrio. RCP flexor bilateral. Marcha normal.
+Adenopatía de gran volumen a nivel supraclavicular izquierdo, dura, inmóvil, adherida a planos profundas. Adenopátias con las mismas características a nivel axilar izquierdo y laterocervicales bilaterales. No se palpan adenopatías a otros niveles. No IVY. No lesiones cutáneas en superficie corporal.
+ORL: sin evidencia de patología.
+AC: ritmica, sin soplos.
+AP: murmullo vesicular conservado, con respiración superficial por dolor.
+Abd: blando, depresible, no doloroso a la palpación. No signos de irritación peritoneal. No masas ni megalias. RHA+.
+EEII: sin edemas ni signos de TVP. Pulsos pedios positivos.
+
+Pruebas complementarias
+Bioquímica: sin alteraciones, salvo LDH de 746.
+Hemograma: sin alteraciones.
+Coagulación: sin alteraciones.
+TAC cérvico-tóraco-abdomino-pélvico con contraste: múltiples adenopatías laterocervicales, la mayor de 2.3 cm de eje corto. Conglomerado adenopático en regiones IV y V izquierdas de 2.3 y 2.5 cm respectivamente y IV y V derechas, de 1.8 y 1.3 cm. Múltiples adenopatías/conglomerados hiliomediastínicos en mediastino anterior y superior, el mayo de 2.5cm. Adenopatías paratraqueales derechas altas de 2.4 cm y 3 cm. Múltiples adenopatías en región axilar izquierda alta, posterior a pectoral menor, de 3 cm, y a nivel derecho posterior a vena axilar de 2.4 y 2.6 cm. Resto de exploración sin evidencia de lesiones.
+Biopsia de adenopatía supraclavicular izquierda: metástasis de melanoma maligno. Más de 10 mitosis por campo. B-RAF mutado.
+
+Diagnóstico
+Con diagnóstico de melanoma metastásico IV BRAF mutado, se deriva a nuestro servicio.
+
+Tratamiento
+Inicia en Enero de 2014 Dabrafenib-Trametinib a dosis de 150 mg cada 12 horas y 2 mg cada 24 horas respectivamente.
+Presenta en los primeros meses toxicidad cutánea de grado I de predominio en cara y tronco superior, y astenia de grado 1, autolimitadas.
+Tras estos primeros ciclos la paciente no presenta nuevamente toxicidad por el tratamiento, manteniendo un PS-ECOG de 0, y sin alteraciones analíticas secundarias.
+
+Evolución
+La paciente presentó una respuesta completa tras la primera TC de control, 3 meses después del inicio de la combinación de inmunoterapia.
+Las TC posteriores, hasta la fecha, mantienen dicha respuesta (última realizada en Mayo de 2016). La paciente tolera el tratamiento sin toxicidad clínica ni analítica, manteniendo en la actualidad un PS-ECOG de 1.

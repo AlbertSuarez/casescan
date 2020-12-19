@@ -1,0 +1,21 @@
+Anamnesis
+Paciente de 61 años, sin antecedentes de interés, salvo hernia de hiato en tratamiento con inhibidores de la bomba de protones, fumador de 1 paquete al día desde la juventud y bebedor de unos 40 g de alcohol al día.
+
+En julio de 2014, comienza con molestias abdominales inespecíficas, por lo que consulta en Digestivo,donde se practica una ecografía abdominal, detectándose varias lesiones hepáticas que tras biopsia resultan compatibles con metástasis de adenocarcinoma de páncreas. Los estudios de extensión confirmaron la presencia del tumor primario que era irresecable debido a las metástasis hepáticas.
+
+Exploración física
+Buen estado general, Karnofsky 90%, ECOG 0. Hiperpigmentación cutánea de aspecto crónico por exposición solar. Pares craneales normales. Boca sin lesiones, portador de implantes dentales. No se palpan adenopatías. Auscultación cardiaca y pulmonar: normales. Abdomen blando, depresible, no doloroso, sin masas palpables ni organomegalias. Fuerza y sensibilidad conservada en las cuatro extremidades. Miembros inferiores sin edemas ni signos de trombosis.
+
+Pruebas complementarias
+» Elevación de gamma-glutaminasa (273 mg/dl).
+» Ca 19.9: 27.290 UI/ml.
+» Tomografía computarizada (TC): masa en cabeza pancreática de 1.4 cm de diámetro y múltiples lesiones ocupantes de espacio a nivel hepático.
+
+Diagnóstico
+Adenocarcinoma de páncreas estadio IV por metástasis hepáticas.
+
+Tratamiento
+Dada la irresecabilidad del tumor, se decide realizar tratamiento con FOLFIRINOX a dosis reducidas (fluorouracilo 2.400 mg/m2 en infusión continua de 46 horas, irinotecán 160 mg/m2, oxaliplatino 80 mg/m2 cada 14 días). Este esquema se eligió al ser un paciente sin datos clínicos de vulnerabilidad: buen estado general, sin comorbilidad ni alteración de pruebas hepáticas u obstrucción de vía, factores todos ellos que, si estuviesen presentes, son predictores de mayor toxicidad.
+
+Evolución
+Recibe 11 ciclos del esquema mencionado hasta noviembre de 2014, presentando mínima toxicidad (neuropatia grado 1, diarrea grado 2 y alopecia universal). En la TC de control tras seis ciclos, tres meses de quimioterapia revela enfermedad estable sin aparición de nuevas metástasis a otros niveles. Cuando acude a recibir el 12.º ciclo, presenta un deterioro importante del estado general, precisando ingreso por vómitos y dificultad para la deambulación. Se practica una TC de control en la que se observa progresión de la masa pancreática, aumento de las lesiones hepáticas y aparición de una lesión a nivel de hemisferio cerebeloso derecho. Dada la situación del paciente, se decide paso a tratamiento sintomático paliativo, siendo éxitus seis meses después del diagnóstico.

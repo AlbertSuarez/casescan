@@ -1,0 +1,30 @@
+Anamnesis
+Paciente de 19 años, con antecedentes personales de alergia a cefalosporinas confirmada por alergología, fumador habitual de marihuana sin manifestar otras adicciones. En noviembre 2014 acude a urgencias por tumoración no dolorosa de teste derecho con crecimiento progresivo, no asociado a fiebre. Se realiza ecografía testicular donde se describe: tumoración heterogénea en testículo derecho de unas dimensiones 7,5 x 3,5 cm. No asocia otra sintomatología. Es derivado a Servicio de Urología con sospecha de neoplasia testicular. Se extrae analítica con marcadores tumorales y se solicita estudio de extensión mediante TAC tóraco-abdominal.
+
+Exploración física
+ECOG1
+Buen estado general. Cociente, orientado y colaborador. Eupneico en reposo con buena tolerancia al decúbito. Afebril. Buena coloración de piel y mucosas. Estable hemodinámicamente.
+Cardiorrespiratorio: Corazón rítmico a 85 lpm. No se auscultan soplos. Murmullo vesicular conservado sin ruidos patológicos añadidos.
+Abdomen blando y depresible, no doloroso a la palpación. Ruidos conservados. Se palpa hepatomegalia masiva no dolorosa de 5 traveses de dedos, de bordes romos.
+Miembros inferiores sin edemas ni signos de trombosis. No se palpan adenopatías inguinales.
+Testículo derecho con masa de 80 x 40 mm no doloroso. Testiculo izquierdo normal. No se aprecian alteraciones en escroto.
+
+Pruebas complementarias
+Analítica
+- Bioquímica: Función renal normal. GOT 130 U/L; GPT 115 UI/L ; GGT 321 UI/L.
+- Hemograma: normal las 3 series
+- Coagulación: sin alteraciones.
+- Marcadores tumorales: AFP 2410 ng/ml (0-10). BHCG 2 mU/ml (0-5); LDH 232 U/L (135-225)
+Ecografía testicular (29/1/15): gran tumoración testicular derecha que engloba en su totalidad al testículo, de ecogenicidad heterogénea y cuyas dimensiones aproximadas son de 7,5 x 3,5 cm. TAC tóraco-abdominal (27/3/15): Afectación metastásica masiva hepática y ósea en cuerpos vertebrales D1, D9, D10, D11, L1. No se aprecian adenomegalias en cadenas ganglionares retroperitoneales.
+PFR: sin alteraciones en DLCO.
+
+Diagnóstico
+TCGNS (seno endodérmico) de teste derecho, pT1cN0cM1bS2. Estadio IIIC (afectación hepática masiva y ósea). Enfermedad de pobre pronostico según criterios ICGGGC.
+
+Tratamiento
+El paciente es sometido a intervención quirúrgica el 18/02/15 mediante orquiectomía por vía inguinal con colocación de prótesis. El estudio anotomopatológico de la pieza quirúrgica mostró un tumor germinal no seminomatoso tipo tumor del seno endodermico, que contacta con túnica albugínea sin alcanzar túnica vaginalis, cordón espermático, ni bordes de resección.
+
+Evolución
+En Marzo 2015, y previa criopreservación de semen, el paciente recibe tratamiento quimioterápico de primera línea según esquema BEP (bleomicina, etopósido y cisplatino) realizando un total de 4 ciclos (fin 22/06/15). El paciente experimento un episodio de neutropenia febril tras C1 que requirió ingreso, como toxicidad mas relevante. El TAC tras fin de tratamiento quimioterápico mostró una respuesta parcial radiológica y se constataron negativización de marcadores tumorales. Debido a la presencia de múltiples lesiones hepáticas mayores de 1 cm, se descartó la cirugía de enfermedad residual.
+En febrero 2016 se evidencia progresión de la enfermedad por nueva elevación de AFP (859,2 ng/ml) y crecimiento de las lesiones hepáticas en TAC. Se plantea quimioterapia de segunda línea y posterior consolidacion con quimioterapia a altas dosis y trasplante autólogo de medula ósea (TAMO). El paciente recibe un total de 4 ciclos según esquema TIP (paclitaxel, ifosfamida y cisplatino) finalizando el 11/05/2016 con negativización de marcadores tumorales tras C3. Durante los dos últimos ingresos para administración de QT se intenta aféresis y movilización de progenitores hematopoyéticos mediante lenogastrim, sin éxito. La ausencia de CD34+ impide la administración de plerixafor para conseguir aféresis, por lo que este procedimiento se desestima definitivamente.
+El paciente se encuentra pendiente de reevaluación radiológica y dada la imposibilidad para realizar tratamiento con quimioterapia a altas dosis y la resección de las masas residuales pasara a seguimiento hasta progresión.

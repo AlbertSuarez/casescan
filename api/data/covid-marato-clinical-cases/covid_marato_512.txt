@@ -1,0 +1,41 @@
+Anamnesis
+Paciente de 65 años sin alergias medicamentosas conocidas, con antecedentes de hipertensión, diabetes tipo II, dislipemia y cardiopatia isquémica.
+Tratamiento habitual: omeprazol, Fortecortin en pauta decreciente, Covals, Hemovás, Disgrén, Cardyl, Astudal.
+Historia oncológica:
+Primera neoplasia: carcinoma urotelial izquierdo tratado mediante nefroureterectomía izquierda pT2 grado 3 en seguimiento por Urología.
+Segunda neoplasia: diagnosticado durante el estudio de control por carcinoma urotelial previo de LH tipo linfocítico nodular con Ki 67 40% con adenopatías a nivel de la cadena iiaca común izquierda y cadena iliaca externa izquierda en curso de tratamiento QT con esquema ABVD x 6. Ha hecho 4 ciclos, desde el segundo sin bleomicina por tos con radiografía de tórax normal, habiendo iniciado tratamiento con corticoides en pauta decreciente por sospecha de posible toxicidad pulmonar por bleomicina.
+El paciente consulta por astenia marcada, disnea a pequeños esfuerzos y tos seca. Niega fiebre. Buen control del dolor.
+No dísnea paroxística nocturna. No ortopnea. No otra sintomatología asociada.
+
+Examen físico
+TA 146/76 mmHg, FC 77 lpm, SatO2 98% (O2 a 2 litros). Consciente y orientado. Aspecto cushingoide. Palidez cutánea.
+Disneico a mínimos esfuerzos. AC: soplo sistólico panfocal 2/6 ya conocido. AP: MVC con crepitantes finos bibasales.
+No edemas tibiomaleolares. No signos de TVP. Miopatía corticoidea importante.
+Resto de la exploración anodina.
+
+Pruebas complementarias
+- Analítica: destaca Hb 10 g/dl, sin leucocitsis, dímero-D negativo y resto de valores sin alteraciones.
+- Radiografía de tórax: infiltrado intersticial de predominio bibasal.
+- TC de tórax: respuesta completa tumoral. Enfisema pulmonar biapical. Cambios crónicos parenquimatosos.
+Àreas parcheadas y difusas en "vídrio deslustrado" pulmonar bilateral con zonas de aspecto fibrocicatricial bibasales.
+- Ecocardiograma: FEVI 76%. Insuficiwncia mitral leve. Válvula aórtica fibrosada con estenosis moderada. Resto normal.
+- Espirometría: patrón restrictivo.
+- Radiografía de tórax de control: infiltrado intersticial bibasal. Condensación basal derecha no presente en la radiografía previa.
+- TC de control: no TEP. Aumento de áreas parcheadas y difusas en vidrio deslustrado. Probable sobreinfecciónasociada.
+
+Diagnóstico
+Neumopatía intersticial con insuficiencia respiratoria aguda secundaria a tratamiento con bleomicina.
+Sobreinfección respiratoria de la vías bajas asociada.
+Respuesta tumoral completa.
+
+Tratamiento
+Se inicia tratamiento con corticoides a dosis plenas (mg/kg), oxigenoterapia, antibioterapia empírica con amoxicilina-ácido clavulánico 1 g cada 8 horas y resto de tratamiento habitual.
+
+Evolución
+El paciente experimenta una mejoría clínica inicial tras el inicio de corticoterapia, pero a las 48 horas presenta un marcado empeoramiento de la disnea con empeoramiento radiológico, precisando de altas concentraciones de oxígeno con riesgo de claudicación respiratoria inminente, por lo que se decide su traslado a la UCI para tratamiento de soporte.
+En la UCI, se amplía el espectro antibiótico con meropenem, fluconazol, linezolid, soltrim y oseltamavir.
+Se completa el estudio con una FBS con BAS y BAL, sin observarse ningún microorganismo patológico, antigenuria y determinación de H1N1, que resultan negativas.
+Presenta fatiga ventilatoria que obliga a conexión a ventilación mecánica, precisando altas concentraciones de oxígeno.
+Desarrolla un shock séptico con hipotensión que precisa de fluidoterapia y drogas vasoactivas, con escasa mejoría.
+Durante su ingreso en la UCI presenta un empeoramiento progresivo de la función renal, con anemización marcada que precisa de transfusión de hematíes en dos ocasiones.
+A pesar del esfuerzo terapéutico, el paciente no mejora la capacidad ventilatoria, por lo que finalmente, y de acuerdo con el equipo multidisciplinar (UCI y Oncología) y la familia, se decide la limitación del esfuerzo terapéutico, siendo finalmente exitus.

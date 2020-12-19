@@ -1,0 +1,47 @@
+Anamnesis
+ANTECEDENTES DE LA PACIENTE
+» Mujer 15 años. No tiene alergias medicamentosas conocidas. Sin hábitos tóxicos, ni antecedentes médicos de interés.
+» Tratamiento domiciliario: anticonceptivos orales por sangrado intermenstrual, metoclopramida a demanda.
+» Historia social: vive con sus padres. Estudia 3º de Educación Superior Obligatoria.
+» Historia ginecológica: menarquia a los 14 años. Fecha de última regla el 01/12/2016.
+ANTECEDENTES FAMILIARES DE INTERÉS
+» Abuelo paterno fallecido de cáncer de pulmón (fumador). Abuela materna con cáncer de mama (viva). Tío paterno con sarcoma de muslo izquierdo (tratamiento con cirugía y radioterapia adyuvante).
+MOTIVO DE CONSULTA
+ Acude al Servicio de Urgencias los días 09 y 11 de diciembre/2016 por clínica de epigastralgia irradiada a ambos hipocondrios y aumento progresivo del perímetro abdominal, asociados a hiporexia, náuseas y vómitos de repetición, con tránsito intestinal conservado y sin fiebre. Se le realiza ecografía de abdomen en la que se detecta masa abdominal voluminosa, así como contenido ascítico, por lo que se deriva a consultas externas de Medicina Interna (MI) para estudio. Sin embargo, el 13 de diciembre/2016 vuelve a acudir a Urgencias por empeoramiento de los síntomas a pesar de la medicación prescrita al alta, con inicio de intolerancia oral. Se decide ingreso en MI para estudio.
+ La paciente inicia estudio diagnóstico en MI pero, tras varios días de ingreso, comienza con deterioro clínico, con aumento del perímetro abdominal condicionando disnea y taquipnea importantes. Precisa paracentesis evacuadoras casi a diario, así como oxigenoterapia suplementaria. Finalmente (aún sin diagnóstico anatomopatológico [AP] definitivo, sólo con elevación de marcadores tumorales [MT]) y tras comentarse en comité multidisciplinar, la paciente es trasladada a planta de Oncología Médica (OM) el 21 de diciembre/2016 para inicio de quimioterapia (QT) urgente.
+
+Exploración física
+EXPLORACIÓN A SU LLEGADA A OM
+ Peso 80 kg (previo en domicilio, ahora edematizada), talla 1,75 m. SC 1,96 m2.
+ Performance status (PS) 3. Regular estado general. Tensión arterial 124/76 mm Hg. Taquicardia sinusal a unos 130 lpm. Taquipneica y disneica al habla. Sat 90 % con oxigenoterapia en gafas nasales a 2 l. Trabajo respiratorio presente.
+ Auscultación cardiorrespiratoria: taquicardia sinusal, sin soplos ni extratonos. Murmullo vesicular disminuido en ambas bases. Abdomen distendido y globuloso, palpación en profundidad de gran masa intra-abdominal de unos 20 cm de diámetro máximo. Ascitis a tensión. Miembros inferiores con edema maleolar bilateral con fóvea, simétrico.
+
+Pruebas complementarias
+PRUEBA ANALÍTICAS
+- Analítica 21/12/2017 (justo previa al inicio del tratamiento): creatinina 2,32 mg/dl, urea 104 mg/dl, NA 121 mEq/l, k 6,4 mEq/l, PCR 241mg/dl. ClCr 38 ml/hora. D-dímeros 1.300.
+- MT 14/12/2016: alfafetoproteína (AFP) 29.441 ng/ml, B-HCG 21,3, LDH 2.048.
+PRUEBAS DE IMAGEN
+ Ecografía abdominal 11/12/2016: masa abdominal de 13 x 10,7 cm junto a líquido ascítico.
+ TC 16/12/2016. Tórax: elevación de ambos hemidiafragmas en relación a ascitis importante. Sin lesiones parenquimatosas en pulmones. Abdomen: ascitis a tensión, con rechazo de central de vísceras y asas intestinales. Carcinomatosis peritoneal extensa. Masas anexiales bilaterales sugestivas de neoplasia ovárica primaria --> derecha de 16 x 10 x 20 cm, izquierda de 6 x 5 x 10 cm. Adenopatías retroperitoneales de tamaño y aspecto patológico. No se observa obstrucción intestinal ni de sistemas excretores renales.
+ Ecocardiografía transtorácica urgente 21/12/2016: ventrículo izquierdo hiperdinámico con función sistólica conservada, sin datos de hipertensión pulmonar ni derrame pericárdico.
+
+Diagnóstico
+TGNS subtipo seno endodérmico de primario ovárico estadio IIIC (carcinomatosis peritoneal). Pobre pronóstico de la IGCCCG.
+
+Tratamiento
+ QT de inducción según esquema baby-BOP el día 21/12/2017: cisplatino 50 mg/m2 (en nuestro caso reducción a 30 mg/m2), vincristina 2 mg, bleomicina 30.000 U. Dosis única. Se asoció profilaxis con rasburicasa 12 mg dosis única.
+ QT estándar con esquema BEP a partir del 27/12/2017: bleomicina 30.000 U (d1, d8 y d15), etopósido 100 mg/m2 (d1-5), cisplatino 20 mg/m2 (d1-5) cada 21 días y por cuatro ciclos.
+ Pendiente de cirugía de masa residual.
+
+Evolución
+A su traslado a OM y, tras deterioro clínico importante con taquicardia sinusal, taquipnea y trabajo respiratorio en relación a ascitis a tensión recidivante, se decide iniciar QT de inducción según esquema baby-BOP. En analítica previa existía deterioro de la función renal, con ClCr de 38 ml/min que se relacionó con bajo volumen circulante efectivo, por lo que se redujo dosis de cisplatino. Dado el gran volumen de la masa, así como el deterioro de la función renal, se hizo profilaxis de síndrome de lisis tumoral con rasburicasa.
+A las 24 horas, mejoría analítica de la paciente, con normalización de la función renal. Sin embargo, empeoramiento clínico con inestabilidad respiratoria, por lo que es trasladada a Unidad de Cuidados Intensivos (UCI). Durante su estancia en UCI, la paciente tiene una evolución tórpida:
+ Precisa drenaje peritoneal permanente durante sus primeros días en UCI.
+ Precisa transfusión de concentrado de hematíes en varias ocasiones.
+ Inicia QT estándar según BEP sin ajuste de dosis el 27/12/2016.
+ Recibimos el diagnóstico AP el 30/12/2017. Citología líquido ascítico: células neoplásicas con expresión de AFP y negatividad para inhibina, concordante con tumor germinal no seminomatoso (TGNS), probable tumor del seno endodérmico.
+ Neutropenia febril sin foco inicial que es tratada con piperacilina-tazobactam (inicio el 02/01/2017), con empeoramiento hemodinámico y respiratorio posterior, lo que conlleva el uso de aminas vasoactivas, la escalada antibiótica (con adición de cotrimoxazol) y la intubación orotraqueal el 06/01/2017.
+Finalmente, es diagnosticada de neumonía nosocomial por Enterobacter cloacae BLEE.
+Ante la situación, se decide no administrar algunas dosis de bleomicina, pero se mantiene el resto del tratamiento QT en UCI. Buena evolución progresiva, con extubación exitosa el 15/01/2017 y traslado a planta de OM el 30/01/2017.
+El 03/02/2017, ya prácticamente recuperada, se observa respuesta clínica y por MT, así como recuperación respiratoria en pruebas funcionales, por lo que se procede a C3d1 de BEP completo. Es dada de alta finalmente el 08/02/2017.
+La paciente completa de forma ambulatoria el tratamiento (total de 4 ciclos), finalizando el mismo en marzo/2017 con respuesta clínica muy notable estando actualmente asintomática y con un PS de 0; presenta así mismo negativización de MT y respuesta radiológica con disminución notable de la enfermedad pélvica, aunque existe aún enfermedad residual mayor de 1 cm que está pendiente de cirugía de masa residual por parte del Servicio de Ginecología.

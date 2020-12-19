@@ -1,0 +1,24 @@
+Anamnesis
+Mujer de 67 años de edad, sin alergias medicamentosas, hábitos tóxicos, ni antecedentes familiares de interés. Hipertensión arterial en tratamiento con hidroclorotiazida.
+Acudió a Urgencias en septiembre de 2011 por presentar epigastralgia, náuseas, vómitos y melenas de 2 semanas de evolución, además de síndrome constitucional con pérdida de 5 kg de peso en periodo de 1 mes.
+
+Exploración física
+ECOG 1. Dolor durante la palpación profunda en epigastrio, no se palpaban organomegalias o masas; la auscultación cardiopulmonar era normal.
+
+Pruebas complementarias
+» Hemograma: anemia grado 3 (hemoglobina: 7,9 mg/dl) por lo que se indicó la transfusión de 2 concentrados de hematíes y posterior ingreso hospitalario a cargo del servicio de Medicina Interna para estudio.
+» Gastroscopia en donde se observó a nivel de tercio superior del cuerpo gástrico una masa mamelonada, friable y necrosada que no permitía el paso del endoscopio y de la que se tomaron biopsias.
+» Tomografía computarizada (TC) de tórax y abdomen: engrosamiento a nivel de cuerpo y antro gástrico que borraba la grasa adyacente y destacaba una masa heterogénea de 7 cm extragástrica que planteaba la duda de si pudiera ser un implante peritoneal o extensión tumoral. En el hígado múltiples lesiones ocupantes de espacio (LOE) hipodensas bilobares de entre 0,5 y 2,5 cm y adenopatías de hasta 1 cm en hilio hepático, tronco celiaco, ligamento gastrohepático, y periaórticas en el nivel del hilio renal izquierdo.
+
+Diagnóstico
+Adenocarcinoma gástrico pobremente diferenciado, análisis inmunohistoquímico (IHQ) para c-erbB2: +2, estando pendiente de análisis por hibridación fluorescente in situ (FISH). Estadio clínico T4N3M1.
+
+Tratamiento
+Se inició una primera línea de quimioterapia con intención paliativa. En octubre de 2011 inició esquema XELOX (capecitabina 1.000 mg/m2/12 h vía oral por 14 días cada 21 días y oxaliplatino 130 mg/m2 vía endovenosa cada 21 días), con buena tolerancia inicial. Previo al tercer ciclo se confirmó la amplificación de HER-2 mediante FISH, por lo que se añadió a la quimioterapia la terapia anti-HER-2 trastuzumab (dosis de carga 8 mg/kg endovenoso cada 21 días y posteriores de 6 mg/kg). Como toxicidad más relevante sufre diarreas grado 2 que se controlaron con medidas dietéticas e hidratación.
+
+Evolución
+Tras 4 ciclos de tratamiento, se observó una respuesta radiológica parcial mayor de 50 % mediante TC. Se comentó el caso en comité multidisciplinar de tumores ante la posibilidad de cirugía, siendo desestimada por valorarse las lesiones hepáticas en el TC inicial como metastásicas. La paciente continuó el mismo tratamiento hasta completar 6 ciclos.
+En la TC de revaloración se observó una respuesta radiológica completa a nivel del tumor primario y las adenopatías. Las LOE hepáticas no presentaron cambios y, dado que no asociaban realce con el contraste yodado, se valoraron finalmente como quistes hepáticos. Ante estos hallazgos, se planteó entonces la cirugía.
+El 10/05/2012 se le practicó una gastrectomía total D2 con reconstrucción Billroth III más colecistectomía. La Anatomía Patológica fue de respuesta completa patológica, con cambios reparativos con inflamación crónica granulomatosa gigantocelular, sin evidencia de enfermedad en cuerpo gástrico y mismos hallazgos en 8 de 11 ganglios linfáticos aislados (ypT0 ypN0).
+Tras la cirugía, la paciente continuó recibiendo trastuzumab cada 3 semanas hasta completar un año el 12/12/2012. Siguió controles cada 3 meses durante los primeros 2 años y posteriormente cada 6 meses hasta que cumplió los 5 años de la cirugía.
+En la actualidad, la paciente se encuentra libre de enfermedad, sin evidencia de recidiva a 7 años de la cirugía, con un buen estado general y llevando una vida normal.

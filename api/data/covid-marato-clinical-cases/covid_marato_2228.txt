@@ -1,0 +1,28 @@
+Historia oncológica
+Varón con antecedentes personales en el momento del diagnóstico oncológico de dislipemia en tratamiento con atorvastatina 40 mg. diarios, tabaquismo activo con un consumo acumulado de 30 paquetes-años, infección por virus de la hepatitis B en 1998 sin datos de reactivación posterior, úlcera gástrica secundaria a antiinflamatorios no esteroideos y resección quirúrgica de un sinus pilonidal.
+Como antecedentes familiares destaca madre con cáncer de mama.
+Es diagnosticado en octubre de 2013 con 51 años, a raíz de episodios repetidos consistentes en cefalea, mareo y bloqueos del lenguaje, de una lesión cerebral parietotemporal izquierda con efecto de masa. Se realizó biopsia de la misma obteniendo un diagnóstico anatomopatológico de astrocitoma grado II con componente de oligodendroglioma grado II, negativo para deleción 1p/19q, lo que, atendiendo a la última clasificación de tumores primarios del sistema nervioso central de la OMS (2016), se considera actualmente un astrocitoma grado II. Se desestimó extirpación quirúrgica de la lesión por localizarse en zona elocuente y recibió tratamiento con radioterapia que finalizó en enero de 2014, consiguiendo mejoría clínica y estabilidad radiológica de la enfermedad, mantenida en controles sucesivos con resonancia magnética (RM) cerebral hasta junio de 2017.
+En esta fecha, encontrándose el paciente asintomático, se realizó nuevo control con RM cerebral que mostró progresión tumoral a nivel de lóbulo frontal izquierdo, con datos radiológicos sugerentes de aumento de grado. Se presentó el caso en el comité de tumores neurológicos y se programó realización de biopsia para confirmación de grado y posterior administración de quimioterapia sistémica.
+
+Anamnesis
+Varón de 55 años con los antecedentes previamente descritos que acude a Urgencias el 30 de julio de 2017 por cuadro de alteración del lenguaje de aproximadamente tres días de evolución, junto con desviación de la comisura bucal derecha de aparición en las últimas 24 horas.
+
+Exploración física
+El paciente se encuentra hemodinámicamente estable. No presenta ingurgitación yugular. La auscultación cardiopulmonar no muestra alteraciones. La exploración abdominal es normal. No existen edemas en extremidades inferiores ni signos de trombosis venosa profunda.
+En la exploración neurológica, se objetiva una afasia motora y una paresia facial central derecha, sin otras alteraciones.
+
+Pruebas complementarias
+Se realiza TC craneal urgente sin contraste que muestra gran edema vasogénico frontal izquierdo en probable relación a progresión de la lesión ya conocida, sin otras complicaciones aparentes.
+
+Diagnóstico
+Progresión clínica y radiológica, con gran edema cerebral vasogénico izquierdo, de astrocitoma cerebral grado II.
+
+Tratamiento
+Ante la repercusión clínica de la progresión tumoral, con presencia de importante edema vasogénico, se instaura tratamiento corticoide intravenoso con dexametasona a dosis de 4 mg cada 6 horas.
+
+Evolución
+Se decide ingreso a cargo del Servicio de Neurocirugía para vigilancia clínica estrecha y realización de nueva RM cerebral, la cual muestra progresión tumoral a nivel subcortical frontal izquierdo, con datos radiológicos de alto grado y se acompaña de significativo edema vasogénico y efecto de masa sobre los surcos de la convexidad y la línea media.
+Durante el ingreso, el paciente presenta favorable evolución clínica, iniciándose disminución paulatina de la dosis de corticoides. En el momento del alta, presenta buen estado funcional, con una puntuación en la escala ECOG de 0.
+Desde el punto de vista oncológico, ante los hallazgos radiológicos de progresión con aumento de grado y el empeoramiento neurológico de intervalo corto, se decide desestimar la realización de biopsia cerebral para iniciar tratamiento quimioterápico con temozolamida a dosis de 150 mg/m2 vía oral durante 5 días (dosis total: 280 mg) cada 28 días. Con fecha 07/08/2017 se inicia el primer ciclo con buena tolerancia.
+Se reevalúa la enfermedad tras cuatro ciclos de tratamiento, evidenciándose en RM cerebral la resolución de prácticamente todo el edema vasogénico y desaparición de las lesiones frontales presentes en la RM previa. Ante la favorable respuesta radiológica se continúa tratamiento con temozolamida a la misma dosis, recibiendo un total de siete ciclos, el último el 07/03/2018. Durante este periodo de tiempo, el paciente se encuentra clínicamente asintomático a excepción de algún episodio leve de mareo y no presenta reacciones adversas a la temozolamida.
+Sin embargo, desde la administración del último ciclo de temozolamida, el paciente presenta un deterioro clínico significativo, con alteraciones del habla y la escritura. Se instaura tratamiento con dexametasona 2 mg cada 12 horas vía oral y se solicita nueva RM (09/04/2018) que muestra extensa progresión tumoral, fundamentalmente a nivel de la convexidad inferior y de las estructuras operculares silvianas. Confirmada la progresión, se inicia segunda línea de tratamiento con fotemustina, recibiendo el primer ciclo el 10/04/2018. En el momento actual, el paciente se encuentra asintomático y está pendiente de acudir a consulta para control clínico y de toxicidad.

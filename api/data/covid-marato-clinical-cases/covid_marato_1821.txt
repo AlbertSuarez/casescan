@@ -1,0 +1,43 @@
+Anamnesis
+Varón de 77 años.
+Antecedentes personales
+HTA esencial.
+Diagnosticado en Marzo/16 de Carcinoma de pulmón no Célula pequeña,- cT3N3Mx (nódulos pulmonares bilaterales ametabólicos). Pendiente de resultado de la determinación de EGFR, inicia tratamiento quimioterápico con Cisplatino70mg/m2-Pemetrexed 500mg/m2 con intención paliativa el 2 de mayo de 2016.
+El día 13 de mayo de 2016, tras primer ciclo de quimioterapia, acude al Servicio de Urgencias por cuadro confusional de 48 horas de evolución con alteración en la marcha.
+No cefalea, náuseas ni vómitos. No fiebre termometrada. No disnea, tos ni expectoración. No alteración en el ritmo deposicional ni clínica miccional acompañante.
+
+Exploración física
+TA 117/70 mmHg, FC 118 lpm, Tª 38.5ºC: SatO2 95%.
+Eupneico, bien hidratado y perfundido, nomocoloración cutáneo-mucosa.
+No ingurgitación yugular. Auscultación cardiopulmonar normal. Abdomen blando y depresible, sin dolor a la palpación, ni irritación peritoneal. Extremidades inferiores sin edemas ni signos de TVP.
+Consciente y orientado. No rigidez de nuca. Lenguaje normal, pupilas isocóricas, normorreactivas, sin nistagmus. Resto de pares craneales, normales. Campimetría por confrontación normal. Fuerza y sensibilidad conservadas, no claudicación. Normorreflexia con RCP en flexión bilateral. Marcha atáxica, con tendencia patológica a la sedestación por dificultad para mantener la estática postural. No Romberg al cierre ocular ni dismetrías.
+
+Pruebas complementarias
+Analítica sanguínea:
+» Bioquímica básica: creatinina de 1.42, glucemia de 169 y urea de 74. Sodio 118 (normal 135-145), Potasio 4.41 (normal 3.7 - 5.4).Osmolalidad calculada 253. Procalcitonina: 2 (normal hasta 2).
+» Hemograma: Hb 15.6 gr/dl; Leucocitos 3850 (Neutrófilos 3430) y Plaquetas 109.000.
+» Gasometría venosa: pH 7.44; pCO2 36mmHg; Bicarbonato 24.5mmol/L; Exceso de bases 0.3mmol/L. 
+TAC Craneal (sin contraste): signos de atrofia compatibles con normalidad para la edad del paciente.
+No se aprecian signos radiológicos que sugieran patología isquémica aguda ni sangrado. El sistema ventricular y los espacios cisternales están conservados, sin apreciarse tampoco alteraciones óseas en calota. La aireación de los senos paranasales que logran ser visualizados es normal y las celdillas mastoideas también están libres.
+Radiografía de tórax: Tumoración pulmonar en relación a neoplasia ya conocida sin cambios. No infiltrado alveolar.
+Urianálisis: nitritos y hematuria negativos, sin piuria.
+
+Diagnóstico
+Se valora como un cuadro de sepsis de origen no filiado e hiponatremia sin criterios de SIADH, en paciente con neoplasia pulmonar en curso de tratamiento con Quimioterapia paliativa, sin neutropenia.
+
+Tratamiento
+Previa extracción de muestras para hemocultivos y cultivo de esputo, se inicia antibioterapia con amoxicilina-clavulánico y sueroterapia para el manejo de la hiponatremia.
+
+Evolución
+Pocas horas después del ingreso, el paciente presenta estado de agitación. Se realiza nueva monitorización de constantes vitales, destacando únicament febríocula de 37.9ºC. Se indica administrar haloperidol, con lo que se controla la agitación.
+Revalorado a las 12 horas e encuentra somnoliento aunque despierta a la orden verbal y mantiene apertura ocular. Conserva mirada centrada y responde a la amenaza. No responde a ninguna orden, mutista. Presenta mioclonías sin apreciarse clara focalidad motora. Rigidez de nuca y Babinsky bilateral.
+» Bioquímica: Na 125, (normal 135-145), Potasio 3.23 (normal 3.7-5.4) Procalcitonina 1.72 y la proteína C reactiva 245.9.
+» Hemograma: Hemoglobina, Leucocitos 1700 (Neutrófilos 1360 y Cayados 40) y plaquetas 64.000.
+Ante sospecha de meningitis se realiza punción lumbar.
+» LCR: recuento celular 1529 leucocitos/mm3 (normal entre 0 y 5), 95% polimorfonucleares, 1% linfocitos y 3.9% monocitos. No se aprecian hematíes.
+» Bioquímica LCR: 187.6mg/dl (normal entre 15 y 40), ADA de 17.1 U/L (valores normales entre 0-9), glucosa 42 (normal 40-70) y LDH 113 U/L.
+» Gram del líquido no se observan microorganismos.
+Se reciben resultados iniciales de hemocultivos extraidos al ingreso que informan de la presencia de un bacilo gran negativo. Tratándose de un paciente inmunodeprimido en el contexto de un tratamiento antineoplásico, se instaura antibioterapia empírica con Meropenem y Vancomicina hasta conocer el germen causante del cuadro y su antibiograma. Así mismo, ante la posibilidad de infección por meningococo o hemophilus influenzae se procede a aislamiento del paciente.
+En el transcurso de pocas horas se informa del crecimiento de una probable Listeria en los hemocultivos, por lo que se procede a cambiar la antibioterapia, iniciándose ampicilina y gentamicina, y se retira el aislamiento.
+Se llega así al diagnóstico definitivo de meningitis por Listeria Monocytogenes con bacteriemia y sepsis secundaria.
+A lo largo de las siguientes 72 horas el paciente evoluciona desfavorablemente, con deterioro neurológico progresivo. Presenta crisis convulsivas, con Glasgow de 3-4. Dado el mal pronóstico implícito en su proceso neoplásico basal así como del proceso interrecurrente, y de acuerdo con la voluntad de sus familiares, se decide finalmente limitar el esfuerzo terapéutico. Posteriormente se recibe resultado de cultivo de LCR que es positivo para Lysteria Monocytogenes

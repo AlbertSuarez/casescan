@@ -1,0 +1,24 @@
+Anamnesis
+Nos encontramos ante un paciente varón de 54 años de edad, sin antecedentes familiares relevantes; fumador activo desde los 15 años, con un consumo acumulado de 30 paquetes-año y sin otros hábitos tóxicos. Desempleado desde hace dos años, trabajaba en como administrativo. No presentaba otros antecedentes personales de interés ni realizaba tratamiento habitual.
+En marzo de 2016 debutó con clínica neurológica (pérdida de equilibrio, torpeza de la marcha y parestesias en miembro superior izquierdo) sin otra sintomatología asociada.
+
+Exploración física
+Performance status de 1. Eupneico en reposo. Realizaba actividades básicas de su vida diaria sin disnea. Auscultación con tonos rítmicos, murmullo vesicular conservado bilateral con estertores inspiratorios en plano posterior basal del hemitórax derecho.
+En la exploración neurológica, destacaba la ataxia de la marcha, dismetría en la prueba dedo-nariz y déficit sensitivo en el antebrazo izquierdo.
+
+Pruebas complementarias
+Tras realizarse una TC craneal se descubrieron tres lesiones ocupantes de espacio en hemisferio cerebral derecho, siendo la mayor de 4 cm de tamaño localizada en región temporal, produciendo efecto de masa y herniación subfalcina. En el estudio de extensión toraco abdominal apareció una probable lesión primaria pulmonar con un tamaño de 8 cm, localizada en hilio derecho con nódulos satélites ipsilaterales subcentimétricos. No presentaba lesiones metastásicas en otros órganos.
+Se realizó una fibrobroncoscopia, que reveló signos de compresión extrínseca en la rama posterior del lóbulo superior derecho y una biopsia con aguja gruesa transtorácica de la masa hiliar determinó tras el estudio anatomo patológico un carcinoma epidermoide de pulmón (inmunohistoquímica compatible: TTF1 negativo y P63++).
+
+Diagnóstico
+Por tanto, estamos ante un carcinoma epidermoide de pulmón estadio IV, cT4 cN0 M1c.
+
+Tratamiento
+Tras comenzar con dexametasona 8 mg cada 8 horas mejoró la focalidad neurológica hasta la resolución completa y posteriormente recibió 20 sesiones de radioterapia holocraneal hasta abril de 2016.
+Una vez finalizada, se prescribe como tratamiento de primera línea metastásica cisplatino 75 mg/m2 con gemcitabina 1.250 mg/m2 (día 1 y 8) manteniendo un performance status de 0 y sin toxicidad relacionada. Tras tres ciclos en junio de 2016 se realizó una tomografía computarizada (TC), detectando una respuesta parcial de la lesión primaria pulmonar y las metástasis cerebrales. Se continuó el tratamiento hasta completar los 6 ciclos y en TC de septiembre de 2016 aparece progresión de la enfermedad a nivel hepático, con estabilidad de la lesión pulmonar y las metástasis cerebrales. Mantiene un performance status de 0, sin disnea y normalidad de la función hepática.
+Comienza en septiembre una segunda línea metastásica con nivolumab 3 mg/kg cada 2 semanas basándose en resultados del ensayo clínico ChekMate 017 (beneficio en supervivencia global, tasas de respuesta y mejor tolerancia comparado con docetaxel 75 mg/m2).
+
+Evolución
+Tras cuatro ciclos de nivolumab en la analítica se detectó una colestasis disociada, con elevación de la fosfatasa alcalina hasta 519 UI/l (44 a 147 UI/l) y de la gamma glutamil transferasa a 486 UI/l 6 a 28 UI/l y en la exploración apareció una hepatomegalia de 7 cm por debajo del reborde costal. La bilirrubina y las transaminasas eran normales, por lo que no había alteración en las pruebas de funcionalidad hepática. Se solicitó una nueva TC en noviembre de 2016 donde detectó una estabilización de la lesión primaria pulmonar y de las lesiones cerebrales con aparición de múltiples nódulos pulmonares bilaterales y progresión de las metástasis hepáticas con destrucción importante del parénquima hepático. Se describía un efecto llamarada de la enfermedad tumoral en las pruebas de imagen, mientras que el paciente mantenía un performance status de 0 (caminaba 5 km diarios) y había normalidad en las pruebas de función hepática.
+Ante la disociación clínico-radiológica se optó por confirmar la progresión con una TC al mes siguiendo los criterios irRECIST y mantener el tratamiento con nivolumab 3 mg/kg. En diciembre la TC describía una reducción del tamaño de las lesiones pulmonares y hepáticas constatando la pseudoprogresión. Aunque había una reducción de los diámetros mayores de las lesiones, no se cumplían criterios de respuesta parcial según irRECIST.
+El paciente continuó con nivolumab sin toxicidad relacionada y manteniendo su performance status basal evaluándose la respuesta a los 3 meses. En la TC de marzo de 2017 continuaban disminuyendo de tamaño las metástasis pulmonares, hepáticas y por primera vez lo hacían las lesiones cerebrales junto a la lesión primaria pulmonar cumpliendo criterios de respuesta parcial según irRECIST.

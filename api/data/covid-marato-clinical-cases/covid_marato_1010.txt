@@ -1,0 +1,35 @@
+Anamnesis
+Varón de 56 años, sin alergias medicamentosas conocidas. Exfumador desde hace 10 años con índice paquetes-año de 90.
+Sin antecedentes familiares de interés y con antecedentes personales de diabetes mellitus tipo 2 y dislipemia.
+En marzo de 2007 presenta trombosis venosa profunda idiopática poplítea de extremidad inferior izquierda. En ese momento, se inicia tratamiento con acenocumarol y se realiza estudio de trombofilia que resulta negativo (no se aprecian mutaciones genéticas para: R506Q, G[20210]A ni C677T).
+En enero de 2008 presentó dos episodios consecutivos de varicoflebitis de vena safena interna en ambas EEII, y 1 mes después retrombosis venosa poplítea de extremidad inferior izquierda (EII).
+Ante la evolución presentada, se practicó estudio completo en busca de patología subyacente, fundamentalmente neoplásica, con hemograma, análisis bioquímico, tomografía computarizada (TC) toracoabdominopélvica y estudio de inmunidad que no mostraron alteraciones a excepción de anticuerpos antinucleares (ANA) débilmente positivos.
+En marzo de 2008, presentó síncope en contexto de aumento súbito de disnea. Fue diagnosticado de tromboembolia pulmonar bilateral con obstrucción completa de arteria lobar inferior izquierda que evolucionó a neumonía necrotizante de lóbulo inferior izquierdo.
+Ante la extensión de la trombosis, las recurrencias y la velocidad de instauración, se realizó arteriografía colocándose filtro de cava inferior. A pesar de esto, presentó dolor en EII, objetivándose por ecografía signos de trombosis femoral izquierda que evolucionó hacia importante edema bilateral en ambas extremidades inferiores realizándose TC abdominal que confirmó trombosis de cava a nivel del filtro y cavografía con trombo desde femoral hasta renales.
+Precisó colocación de catéter multiperforado con perfusión de uroquinasa durante 48 h logrando recanalización parcial. Ante la falta de efectividad, se modificó tratamiento anticoagulante suspendiendo acenocumarol e iniciando heparina de bajo peso molecular a dosis anticoagulantes.
+Tras nuevo episodio trombótico en abril de 2008, catalogado como infarto lacunar y probable cardioembolismo paradójico por foramen oval permeable, se decide ampliar el estudio y remitir al paciente a la consulta de Oncología.
+
+Exploración física
+Paciente con Eastern Cooperative Oncology Group Performance Status (ECOG PS): 1. En la exploración física destacaba edema y aumento de temperatura en ambas EEII con signos de insuficiencia venosa y úlceras vasculares a nivel distal.
+En la auscultación pulmonar existía una hipoventilación en la base del pulmón izquierdo y la auscultación cardiaca no mostraba alteraciones relevantes.
+
+Pruebas complementarias
+Las pruebas realizadas con anterioridad no detectaron indicios de neoplasia activa, por lo que se solicitó tomografía por emisión de positrones (PET) por alta sospecha de síndrome de Trousseau.
+Confirmando las sospechas, la PET evidenció foco intenso de hipermetabolismo en la región paramediastínica del LSI pulmonar de 1.2 cc de volumen y con un SUVmax de 2,47. Además, existían otros dos focos subcentimétricos paratraqueales derechos con un SUVmax de 2,1 en ambos casos, todos ellos sugestivos de malignidad.
+A la vista de los resultados de PET, se presentó el caso en comité multidisciplinar de tumores de tórax y se decidió solicitar PET-TC que evidenció adenopatía supraclavicular derecha y adenopatías en niveles 2R,4R y 6. La mayor de ellas medía 1,4 cm y presentaba SUVmax de 8.
+Dada la alta sospecha de neoplasia, el 12/6/2008 se decide realizar mediastinoscopia que biopsia adenopatía 4R con aisladas células epiteliales atípicas compatible con metástasis de carcinoma.
+En ese momento, la situación clínica del paciente, con los múltiples eventos trombóticos, requiere alcanzar diagnóstico preciso. La situación clínica contraindicaba nueva pausa de anticoagulación, por lo que resultaba difícil poder lograr más material y por ello se decidió remitir bloque de parafina a centro de referencia para ampliar estudio y tratar de obtener diagnóstico histológico.
+
+Diagnóstico
+Finalmente, se obtiene diagnóstico de carcinoma de células no pequeñas de origen pulmonar (TTF1 positivo) TxN3M0 (estadio IIIB).
+
+Tratamiento
+Con diagnóstico definitivo, y tras comentar el caso de nuevo en comité multidisciplinar, se plantea tratamiento con quimioterapia (QT) y radioterapia (RT) de forma concomitante con intención radical con esquema cisplatino 50 mg/m2 días 1, 8, 29 y 36 junto con etopósido 50 mg/m2 días 1-5 y 29-33.
+Recibe un total de 2 ciclos entre agosto y septiembre 2008, junto con 66 Gy de RT presentando como efectos adversos anemia G1 y mucositis G1 que se resuelven tras fin de tratamiento sin incidencias.
+Tras finalizar tratamiento y ser valorado por Hematología, se sustituye de nuevo la HBPM por acenocumarol, buscando una mejor calidad de vida del paciente.
+
+Evolución
+Durante el seguimiento posterior, se realizan visitas coordinadas entre los servicios de Oncología Médica, Hematología, Cirugía Vascular y Radiología Intervencionista, para tratar de ofrecer las mejores opciones terapéuticas en cada uno de los momentos de la evolución.
+En la valoración por parte de Oncología, se solicita analítica completa y TC inicialmente cada 3 meses durante los primeros 3 años, cada 6 meses durante los siguientes 2 años y posteriormente anual hasta completar 10 años.
+Como secuela, el paciente presenta incompetencia venosa que cursa con úlceras venosa en EII y que requiere seguimiento estrecho, pero no ha presentado nuevos episodios de trombosis.
+Desde el punto de vista oncológico, el paciente mantiene respuesta completa de la neoplasia pulmonar hasta el momento actual.

@@ -1,0 +1,28 @@
+Anamnesis
+En este caso, nos encontramos con una paciente de 63 años, natural de Badajoz. Como antecedentes personales, tiene una hermana intervenida de cáncer de mama a los 40 años (actualmente en controles) y una hermana fallecida por tumor cerebral a los 34 años. En cuanto a sus antecedentes personales, padece de bronquitis crónica. No presenta ni HTA, ni dislipemia ni diabetes mellitus. Y, para finalizar, es fumadora con un índice acumulado de 40 paquetes año, y no tiene hábito enólico.
+Su sintomatología oncológica comenzó con tos de un mes de evolución, asociando astenia intensa y disnea de mínimos esfuerzos en la última semana, junto con edemas progresivos en EEII. En el servicio de Urgencias, presenta hipotensión arterial progresiva, y se objetiva derrame pericárdico grave, por lo que es trasladada a UCI. Durante su estancia en UCI, se le realiza pericardiocentesis de urgencia (> de 1l, hemorrágico, con aspecto seropurulento). Se inicia tratamiento antibiótico empírico, manteniéndose estable respiratoria y hemodinámicamente (durante el ingreso presentó insuficiencia renal aguda y neumonía comunitaria que se resolvieron).
+
+Exploración física
+ECOG: 1. Durante la exploración física, sin hallazgos reseñables.
+
+Pruebas complementarias
+En la radiografía de tórax del Servicio de Urgencias, se objetivaba un aumento de la silueta cardiopericárdica compatible con el derrame pericárdico descrito, así como hallazgos compatibles con bronconeumonía en LM y LID.
+Durante su ingreso en UCI, con intención de filiar la causa del derrame pericárdico, se llevaron a cabo analíticas para despistaje de enfermedades reumáticas, conectivopatías y serologías, todo dentro de la normalidad. Asimismo, se realizó una body TC, donde se objetivó neoplasia de pulmón estadio IV, presencia de TEP, infartos renales y nódulos suprarrenales bilaterales (TC de suprarrenales sin criterios diagnósticos de adenoma).
+Se analizó el líquido pericárdico, con citología sugestiva de adenocarcinoma, que, al tener positividad para TTF-1, sugería primario pulmonar.
+
+Diagnóstico
+Nos encontramos por lo tanto con un adenocarcinoma de pulmón estadio IV (derrame pericárdico positivo y nódulos adrenales bilaterales), EGFR-nativo. Se decide inicio de tratamiento según esquema carboplatino + pemetrexed con intención de completar 3 ciclos y valorar respuesta mediante TC.
+
+Tratamiento
+Se inicia el 1/12/16 tratamiento mediante esquema carboplatino + pemetrexed, completando 3 ciclos, hasta el 16/1/17, con progresión suprarrenal. Se completa estudio mediante muestras de PDL-1 y ALK, siendo al final del estudio un adenocarcinoma de pulmón EIV EGF-R y ALK negativos y PDL-1 positivo. Se inicia tratamiento con nivolumab el 27/2/17, del que recibe 4 ciclos (pendiente de TC de valoración de respuesta tras 6 ciclos).
+En consultas, se solicita TC cerebral urgente por persistir sensación de astenia y mareo, donde se diagnostica el 8/3/17 de múltiples metástasis cerebrales con edema perilesional. Recibe RT holocraneal (20 Gy en 5 fracciones), que finaliza el 29/3/17, con buena tolerancia y mejoría clínica.
+
+Evolución
+El 23 de abril de 2017 ingresa en el Servicio de Oncología Médica por sensación distérmica y escalofríos termometrándose fiebre de hasta 39 ºC el día 21/4/17. Inicia antibioterapia empírica con levofloxacino, persistiendo picos febriles y disnea progresiva hasta hacerse de mínimos esfuerzos. No relata otra clínica asociada, con una exploración física sin hallazgos relevantes y analítica sanguínea dentro de la normalidad, sin reactantes de fase aguda alterados. En la radiografía de tórax se objetiva un patrón intersticial difuso, con diagnóstico diferencial como primera opción de patología infecciosa por gérmenes atípicos vs toxicidad farmacológica (menos probable edema pulmonar o linfangitis carcinomatosa).
+Al ingreso, se inicia tratamiento empírico de amplio espectro con ceftriaxona y levofloxacino. Se realiza TC torácica que muestra imagen compatible con infección por Pneumocystis jirovecii como primera opción, neumotórax bilateral y tromboembolismo agudo de escasa carga tromboembólica. Dados estos hallazgos, se asocia cotrimoxazol, al tratamiento con levofloxacino y se pauta corticoterapia sistémica ante sospecha de infección por Pneumocystis (se mantiene anticoagulación que ya tenía la paciente por TEP previo).
+Se solicita valoración por parte del Servicio de Respiratorio, que pide broncoscopia para toma de cultivo, pero se anula por empeoramiento clínico de la paciente, con insuficiencia respiratoria (asimismo se descarta colocación de tubo de tórax por escasa cuantía de neumotórax bilateral y se decide manejo conservador). En el cultivo de esputo de 5/5/17, crecen Estafilococo coagulasa negativo, Candida albicans (escasas colonias), con Legionella y Pneumocystis jirovecii negativo.
+Durante el ingreso presenta cuadro de intolerancia al cotrimoxazol, con vómitos incoercibles a pesar de antieméticos y acidosis metabólica (corregida posteriormente con bicarbonato). Se decide suspender tratamiento con cotrimoxazol e iniciar atovaquona oral, con mejoría de la tolerancia.
+A pesar de ello, la paciente presenta empeoramiento progresivo desde el punto de vista respiratorio, con necesidad de incremento progresivo de aporte de O2.
+En radiografía de tórax de control, se objetiva neumomediastino con enfisema subcutáneo y neumotórax, por lo que se inicia tratamiento antibiótico con Tazocel® manteniendo atovaquona, sin mejoría clínica.
+Se decide iniciar cloruro mórfico para control de sensación de disnea y, ante mala evolución clínica posterior, se decide suspender tratamiento de soporte e iniciar sedación para control de síntomas, con exitus el día 12/5/2017.
+Estamos pendientes de la autopsia.

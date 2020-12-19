@@ -1,0 +1,23 @@
+Anamnesis
+Varón de 25 años diagnosticado de EC en 2011 y en tratamiento con azatioprina 150 mg diarios con un excelente control clínico desde la instauración del tratamiento. No tiene antecedentes quirúrgicos ni familiares relevantes. Es una persona activa y deportista.
+En noviembre de 2016, consultó en el servicio de Urgencias por dolor en la cadera derecha de 5 meses de evolución. Además, presentaba una tumoración a nivel del hueso iliaco y fiebre de hasta 38,2 º, principalmente vespertina. Anteriormente había sido tratado con opioides sin mejoría sintomática. No presentaba prurito ni pérdida de peso. No refería otra sintomatología asociada.
+
+Exploración física
+» El paciente presentaba un buen estado general. Se observaba una tumoración pétrea y dolorosa durante la palpación que ocultaba por completo la pala iliaca derecha. No se observaban adenopatías en otras localizaciones.
+» Auscultación cardiopulmonar sin alteraciones.
+» Resto de la exploración sin hallazgos relevantes.
+
+Pruebas complementarias
+En examen de sangre, destacaba una elevación de lactato deshidrogenasa (LDH), 950 U/l (rangos). El resto del hemograma, la bioquímica y la hemostasia fue normal.
+En tomografía computarizada (TC) se observó una gran lesión osteolítica en hueso iliaco derecho. El tumor producía destrucción ósea y tenía gran componente de partes blandas. Se completó el estudio con resonancia magnética y con TC-tomografía por emisión de positrones (PET).
+Se realizó posteriormente una biopsia que reveló una proliferación difusa de células de mediano tamaño, escaso citoplasma, de núcleo redondo y cromatina grumosa. El estudio inmunohistoquímico mostró intensa expresión de CD20, CD79a y CD45; sin expresión de marcadores de inmadurez (TdT, CD34, CD99), epiteliales (CkAE1-AE3 y EMA), neuroectodérmicos (CD99, sinaptofisina, enolasa, CD57, CD56, ni S100), así como tampoco CD3, CD5, CD2, CD7, ni CD1a. El índice proliferativo era del 80 %. Hallazgos compatibles con linfoma difuso de células grandes B con inmunofenotipo posgerminal activado.
+Se completó el estudio con la biopsia de médula ósea que descartó infiltración neoplásica.
+
+Diagnóstico
+Linfoma óseo primario (LOP). El estadio fue establecido mediante el sistema de Ann Arbor, estadio IV E X (masa bulky), Índice Pronóstico Internacional (IPI) 1 (LDH elevada).
+
+Tratamiento
+El paciente recibió inmunoquimioterapia basada en rituximab, adriamicina, vincristina, ciclofosfamida y prednisona (R-CHOP), y posteriormente consolidación con radioterapia de intensidad modulada (IMRT), dosis total 40 Gy.
+
+Evolución
+El paciente no presentó toxicidad aguda derivada de la quimioterapia. Dos meses tras el fin del tratamiento multimodal, se realizó TC-PET que mostró remisión completa de la enfermedad. Desde ese momento, se encuentra libre de enfermedad en sucesivos controles y no ha desarrollado ningún tipo de toxicidad a medio o largo plazo referente al tratamiento. Se ha sustituido azatioprina por mesalazina como tratamiento de la EC, con buen control sintomático y sin aparición de brotes.

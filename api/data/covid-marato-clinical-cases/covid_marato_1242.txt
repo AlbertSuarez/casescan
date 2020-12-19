@@ -1,0 +1,22 @@
+Anamnesis
+Se trata de una paciente de 35 años, sin hábitos tóxicos ni antecedentes de interés. No refiere antecedentes familiares oncológicos.
+Consulta en febrero de 2009 por rectorragias de un mes de evolución, asociadas a deposiciones diarreicas, dolor abdominal con aumento del perímetro, hiporexia y pérdida de peso no cuantificada.
+
+Examen físico
+A la exploración física destaca una abolición del murmullo vesicular en el tercio inferior del hemitórax derecho en la auscultación respiratoria, ascitis en la palpación abdominal y restos sanguíneos en el tacto rectal.
+
+Pruebas complementarias
+Tomografía computarizada (TC) toracoabdominopélvica: masa anexial izquierda de 15 x 10 x 18 cm con abundante líquido ascítico y derrame pleural derecho.
+Endoscopia digestiva baja: tumoración en recto a 12 cm del ano que ocupa toda la luz, que se biopsia e informa histológicamente como adenocarcinoma de tipo intestinal.
+Se realiza toracocentesis diagnóstica, resultando características de transudado: líquido de aspecto claro, relación proteínas líquido/suero 0,3, relación LDH líquido/suero 0,4, triglicéridos 12 mg/dl y negativo para células malignas. Se realiza también paracentesis diagnóstica, obteniendo líquido de aspecto claro, leucocitos 130 mm2, glucosa 70 mg/dl, proteínas 1,2 g/dl y citología negativa para células malignas.
+
+Diagnóstico
+En marzo de 2009 se realiza resección anterior del recto hasta 8 cm del margen anal y resección en bloque del peritoneo del saco de Douglas, histerectomía más doble anexectomía. Como hallazgos quirúrgicos se observó presencia de líquido ascítico en la cavidad abdominal sin presencia de implantes peritoneales ni en epiplón. El estudio histológico confirma adenocarcinoma de recto superior con metástasis ováricas bilateral, pT3pN2M1.
+
+Tratamiento
+Como tratamiento adyuvante se administran 12 ciclos del esquema FOLFOX. Desaparición progresiva de la ascitis y el derrame pleural valorados mediante exploración física posteriormente durante el seguimiento con pruebas de imagen.
+
+Evolución
+En marzo de 2010 se objetiva progresión a nivel pulmonar, por lo que se realizó resección atípica de ambos nódulos y posteriormente administración de 6 ciclos del esquema FOLFIRI- bevacizumab.
+Nueva progresión pulmonar, por lo que inicia tratamiento de segunda línea con esquema FOLFOX panitumumab. Del 8.º al 11.º ciclo presenta toxicidad hematológica consistente en plaquetopenia de grado 4, siendo los valores previos entre 250 y 340 x 109/l y sin afectación de la serie eritrocítica y leucocítica. Tras el último ciclo consulta en Urgencias por hematuria, precisando de ingreso hospitalario y transfusión de concentrados de plaquetas. Ante este hecho, con sospecha de reacción al oxaliplatino y con criterios radiológicos de respuesta completa, fue retirado el tratamiento y derivada al Servicio de Alergología para estudio. Se realizaron pruebas cutáneas con agentes carboplatino, cisplatino, oxaliplatino, Sf negativo e histamina con resultados negativos: no se encontraron reacciones mediadas por IgE.
+Posteriormente, dos nuevas progresiones a nivel pulmonar tratándolas con esquemas quedando excluidos los derivados de platino.

@@ -1,0 +1,25 @@
+Anamnesis
+Varón de 42 años de edad, sin antecedentes de interés que acudió en el plazo de tres meses de forma repetida al Servicio de Urgencias por episodios de dolor lumbar y abdominal de características cólicas que irradiaba a la región genital, con mala evolución con tratamiento analgésico. Se realizó una ecografía abdominal que visualizaba una litiasis renal bilateral con una leve dilatación de la vía excretora.
+
+Exploración física
+Se detectó un teste derecho atrófico, sin otras alteraciones de interés.
+
+Pruebas complementarias
+• Ecografía de escroto: tumor testicular izquierdo y atrofia del testículo derecho con ecoestructura heterogénea.
+• TC toracoabdominopélvica: gran masa polilobulada de 9 x 5 x 6 cm de disposición retroperitoneal, que se extienden desde la glándula suparrenal izquierda, englobando la vena y la arteria renal principales, desplazamiento de la unión ureteropiélica provocando una ligera ectasia de la pelvis renal y múltiples nódulos retrocrurales y retroperitoneales con centro hipodenso.
+
+Diagnóstico
+Ante estos hallazgos, se realizó una orquiectomía inguinal. La anatomía patológica reveló que se trata de un tumor neuroendocrino primitivo en el contexto de una neoplasia germinal mixta (seminoma y teratoma), con presencia de infiltración vascular del PNET, túnica albugínea, epidídimo y cordón espermático libres de infiltración neoplásica. Estadio pT2NxM1a (IIIA).
+
+Tratamiento
+Se comentó en sesión multidisciplinar e intercentros e inició tratamiento quimioterápico con esquema modificado de Van Winkle1 con ifosfamida (9 mg/m2), etopósido (100 mg/m2) y cisplatino (20 mg/m2) día 1 a 5 cada 21, esquema con actividad reconocida en los tumores neuroendocrinos primitivos y esperable actividad en el tumor germinal considerando la quimiosensibilidad a priori de ambos tumores.
+
+Evolución
+Presentó una respuesta parcial tras el segundo ciclo (mayor del 50%) y recibió cinco ciclos, persistiendo la masa retroperitoneal izquierda de 3 cm de eje corto y adenopatías paraórticas izquierdas en el rango de 1,6 cm.
+Se intervino realizando exéresis de la masa retroperitoneal, linfadenectomía preaórtica, lateroaórtica y retroaórtica, nefrectomía y suprarrenalectomía izquierda.
+La anatomía patológica informó de la persistencia del tumor neuroendocrino primitivo de 6,5 x 5,5 x 2,5 cm, invasión intravascular tumoral de las venas hiliares, extensión a pared y tejido adiposo adyacente, metástasis a numerosos ganglios englobados en la masa tumoral, infiltración perineural, ausencia de afectación tumoral renal y suprarrenal, ausencia de otros elementos tumorales de la neoplasia primitiva (seminoma o teratoma).
+En la TC posquirúrgica se observó la persistencia de una pequeña lesión paraórtica izquierda adyacente a la salida de la arteria mesentérica superior de 1,7 x 0,9 cm compatible con una lesión residual. Masa retroperitoneal que desplaza el duodeno sin plano de clivaje con su pared de 3,6 x 3 x 5,2 cm.
+Se propuso tratamiento complementario según el esquema VAIA modificado: ciclos 1.º, 3.º y 5.º: ifosfamida 3 mg/m2 días 1 y 2, vincristina 2 mg día 1 en bolus, doxorrubicina 40 mg/m2 días 1 y 2 cada 21.
+Ciclos 2.º, 4.º y 6.º ifosfamida 3 mg/m2 días 1 y 2, vincristina 2 mg día 1 en bolus y actinomicina D 2 mg día 1 en bolus. La vincristina se continúa con una dosis semanal durante semanas consecutivas (semana 4.ª con ifosfamida, vincristina, doxorrubicina (2.º ciclo) y semana 7.ª con ifosfamida, vincristina, actinomicina (3.er ciclo) y, posteriormente, el día 1 cada 21 con ifosfamida más actinomicina, doxorrubicina.
+Presentó una aceptable tolerancia, salvo un episodio de neutropenia grado 3 en el tercer ciclo, por lo que después recibió profilaxis secundaria con factores estimuladores de colonias y antibioterapia con cada ciclo. En la TC de revaluación mantiene la respuesta completa, con adenopatías subcentimétricas en grasa mesentérica. Se completó el tratamiento local mediante radioterapia recibiendo un total de 40 Gy en región pélvica.
+Inicia posteriormente revisiones trimestrales sin datos de recidiva en el momento actual.

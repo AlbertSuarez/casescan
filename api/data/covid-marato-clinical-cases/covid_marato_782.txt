@@ -1,0 +1,27 @@
+Anamnesis
+Varón de 33 años de edad, sin antecedentes de interés, que consulta al urólogo por síndrome prostático y dolor inguinal izquierdo de un mes de evolución sin respuesta a analgésicos.
+
+Exploración física
+Al tacto rectal se aprecia una próstata aumentada de tamaño, dura y dolorosa a la palpación. No se palpan adenopatías inguinales. Genitales externos normales. Resto de la exploración, anodina.
+
+Pruebas complementarias
+• Analítica: normal. PSA normal
+• Ecografía prostática: próstata heterogénea con calcificaciones y ectasia pielocalicial bilateral II/IV.
+• TC toracoabdominopélvica: dilatación grado 2 en sistema ureteral izquierdo y grado 1 en el derecho condicionado por tumoración prostática de 8 cm en el margen izquierdo que infiltra pared pélvica, vejiga en su pared posterior, vesícula seminal izquierda y pared anterior del recto. Resto sin interés.
+• RM abdominopélvica: gran tumoración prostática de 7,3 x 5 x 4 cm que infiltra en su totalidad la vesícula seminal izquierda, afectando también a la musculatura adyacente del obturador interno y pared posterior de la vejiga, la cual se encuentra engrosada. Adenopatías en cadena del obturador interno.
+• GGO: normal.
+• Biopsia prostática: se observa una neoplasia maligna formada por sábanas y nidos de células redondas, de pequeño tamaño, con alta relación núcleo/citoplasma, que crecen entre estroma desmoplásico.
+• IHQ: las células muestran positividad para: AE1-AE3 (+++), CAM 5.2 (+), vimentina (+++), CD 99(+++), CD 138 (+++), WT-1(++), Enolasa (++), CD 56 (+), actina músculo liso (+) en células y (+++) en estroma, sinaptofisina (++). Las células muestran negatividad para: desmina, CK20, serotonina, S-100, CD20, CD38, CD79, PSA, CD3, CD10, mieloperoxidasa, CD34, cromogranina.
+
+Diagnóstico
+Tumor desmoplásico de células pequeñas y redondas de próstata, estadio IV (cT4N1M0).
+
+Tratamiento
+Ante el diagnóstico de tumor desmoplásico de células pequeñas y redondas de próstata localmente avanzado y tras revisión de bibliografía se propone iniciar quimioterapia según protocolo mP6 (modificado del MSKCC, según grupo GEIS1) consistente en cinco ciclos de quimioterapia (tabla I). Al final del tratamiento se consolida con radioterapia. Como toxicidad destacó el día +2.º del primer ciclo HD-VAC probable encefalopatía incipiente por ciclofosfamida, cediendo con tratamiento sintomático y tiamina. El día +11.º del segundo ciclo HD-VAC, el paciente consulta por odinofagia y temperatura de 37,6 ºC. Refiere mejor tolerancia en el segundo ciclo. Antes del segundo ciclo de IE, aparición de máculas en facies, brazos y muslos, por lo que se realizó una biopsia cutánea de las lesiones, dando como resultado sugestivo de reacción medicamentosa, mejorando paulatinamente tras tratamiento con prednisona. Toda la toxicidad a la quimioterapia se manejó ambulatoriamente, sin precisar ingresos hospitalarios.
+Sin embargo, tras el tercer ciclo se produce progresión local, realizándose cistoprostatectomía radical y linfadenectomía bilateral. El estudio anatomopatológico reveló tumor desmoplásico de células pequeñas y redondas que afecta a próstata, ambas vesículas seminales, uréter, bordes quirúrgicos y ganglios linfáticos. Estadio patológico pT4N0(0/10)R2.
+Tras la cirugía, con masa residual en una TC posterior, se decide administrar radioterapia en pelvis (70,2 Gy) concomitante con IE, recibiendo solo un ciclo, pues el paciente rechazó continuar con la quimioterapia.
+
+Evolución
+Al mes de la radioterapia, se objetiva progresión pulmonar. Tras la progresión de un tumor raro sin alternativas terapéuticas avaladas por la literatura y no disponer de ensayo clínico abierto para esta patología, se decide, tras revisar la bibliografía, una segunda línea de quimioterapia con esquema vinorelbina 25 mg/m2 iv, días 1.º, 8.º, 15.º y ciclofosfamida oral 25 mg/m2/día durante 28 días. Ciclos de 28 días2.
+Tras tres ciclos, hay progresión pulmonar, por lo que se propone nueva línea con el esquema irinotecán 40 mg/m2/día por cinco días (equivale a dosis por ciclo 200 mg/m2) y temozolamida 100 mg/m2/día por cinco días, ciclos cada tres semanas3. Tras el tercer ciclo, nueva progresión pulmonar. Ante el buen estado general del paciente y ECOG 1 se le explica valorar una nueva línea terapéutica a pesar de la escasa evidencia, pero el paciente rechaza continuar con más tratamiento activo (sunitinib 37,5 mg/día4).
+Al mes de acabar último ciclo de quimioterapia, el paciente comienza con dolor intenso en zona lumbar que no cede con opioides y disestesias en miembros inferiores, por lo que se solicita una RM de columna dorsal donde se objetiva compresión medular en D11-12 secundario a masa de partes blandas tumoral por lo que recibe de forma urgente radioterapia externa (30 Gy). El paciente empeora progresivamente, falleciendo a los 16 meses del diagnóstico en su domicilio.

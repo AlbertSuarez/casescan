@@ -1,0 +1,19 @@
+Anamnesis
+Varón de 62 años, no bebedor, y sin otros antecedentes relevantes, diagnosticado de adenocarcinoma gástrico tipo intestinal, a raíz de síntomas constitucionales de 3 meses de evolución, estadio IV (TxNxM1) por carcinomatosis peritoneal, HER-2 (+) en 1º línea de tratamiento con esquema FOLFOX (5-fluorouracilo, oxaliplatino, leucovorina)-trastuzumab (5 ciclos), con buena tolerancia y sin efectos adversos destacables. Acude a Urgencias por vómitos posprandiales tempranos en 4-5 ocasiones diarias, de 14 días de evolución e intolerancia oral.
+
+Exploración física
+TA: 100/80 mm Hg, FC: 100 lpm, FR: 17 rpm, peso: 65 kg, talla: 1,71 m.
+Durante la exploración física al momento del ingreso, no se detectaron hallazgos destacables, a excepción de moderada deshidratación mucocutánea; la auscultación cardiopulmonar y el examen abdominal fue normal, así como la exploración neurológica.
+
+Pruebas complementarias
+Hemograma, bioquímica y coagulación sin alteraciones. Proteínas totales: 7 g/dl, albúmina: 3,6 g/dl. TSH: 1,074 uUI.ml (VN 0,350-4,950); Vit. B12: 680 pg/ml (VN 180-914); ferritina: 142,8 ng.ml (VN 20-300); ácido fólico: 12,70 ng.ml (VN 3,9-23,); parathormona: 56,5 pg.ml (VN 12-65); cortisol basal: 22,90 ug.dl (VN: 3,70-19,40).
+
+Diagnóstico
+Intolerancia oral en probable relación con obstrucción intestinal alta secundaria a neoplasia gástrica estenosante.
+
+Tratamiento
+Inicialmente, reposición de hidroelectrolítica y dieta absoluta.
+
+Evolución
+A las 48 horas de ingreso presenta miosis arreactiva, asociándose en el transcurso de 24 horas nistagmo horizontal, seguido de ataxia de la marcha y disminución del nivel de conciencia. Se realiza TC de cráneo que resulta normal. Ante la ausencia de datos de focalidad de origen tumoral o vascular, inicia tratamiento empírico con tiamina, tratamiento corticoide y antibioterapia de amplio espectro. Se realiza resonancia magnética cerebral que demuestra hiperintensidades en T2 en sustancia gris periacueductal, lámina cuadrigémina y tubérculos cuadrigéminos inferiores, con realce focal en T1 poscontraste, así como hiperintensidades en paredes laterales del III ventrículo y tálamo medial, sin evidencia de lesiones ocupantes de espacio o carcinomatosis meníngea, compatibles con encefalopatía de Wernicke (EW). Tras inicio de tratamiento con tiamina IV (300 mg IM c. 8 horas durante 3 días, y posteriormente 250 mg IM diarios durante 5 días) y nutrición parenteral total, presenta regresión paulatina de síntomas, persistiendo posteriormente con leve ataxia para la marcha y amnesia de evocación, y episodios intermitentes de confabulación, concordantes con síndrome amnésico de korsakoff (SK).
+Tras el alta en octubre de 2016, se realiza TC de reevaluación que evidencia progresión hepática y locorregional requiriendo radioterapia paliativa sobre antro gástrico (30 Gy) y segunda línea de tratamiento con esquema FOLFIRI (5-fluorouracilo, irinotecán, leucovorina), recibiendo un único ciclo. Pero, dado el marcado deterioro del estado general se decide control sintomático exclusivo y control por cuidados paliativos. Fallece en diciembre de 2016.

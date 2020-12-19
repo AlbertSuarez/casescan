@@ -1,0 +1,27 @@
+Anamnesis
+Varón de 29 años, con antecedentes de déficit moderado de factor de coagulación VII, en nivel hemostático e hipotiroidismo autoinmune con trombopenia leve-moderada asociada de debut en la adolescencia (aspirado medular normal). Estando asintomático, en analítica de control rutinaria se objetiva elevación de LDH (513 U/I). El paciente no refería síndrome constitucional o sintomatología B intercurrente. No autopalpación de adenopatías o tumoraciones a ningún nivel. Los padres del paciente no relataban criptorquidia en la infancia. Como sintomatología asociada únicamente refería dolor lumbar bilateral con control analgésico menor con paracetamol.
+
+Exploración física
+El paciente presentaba en buen estado general, bien hidratado, nutrido, perfundido y normocoloreado.
+Cabeza y cuello: no adenopatías ni masas palpables
+Auscultación cardiaca: rítmica y sin soplos. Auscultación pulmonar: MVC, sin ruidos sobreañadidos.
+Abdomen: blando, depresible, no doloroso a la palpación superficial ni profunda. Ruidos conservados.
+No presenta masas ni megalias palpables. Genitales externos de aspecto normal. Teste derecho más pequeño que el izquierdo; en el polo inferior se palpa zona de mayor consistencia intratesticular. Sin adenopatías palpables a ningún nivel.
+
+Pruebas complementarias
+» Analíticamente destacaba plaquetopenia (119 Miles/mm3) similar a sus basales, elevación de LDH (513 U/L, valores normales 135-214) y Alfafetoproteína (AFP, 481,79 ng/ml, valores normales <10 ng/dl). Sin otras alteraciones analíticas. La BHCG era normal (<1,2 U/L).
+» Se realizó TC cérvico-tóraco-abdominal, objetivándose conglomerado adenopático abdominal de 5,5 cm en situación precava y adenopatías retroperitoneales significativas en situación interaórtico cava. En el estudio torácico no se apreciaron adenopatías hiliares ni mediastínicas radiológicamente significativas, pero sí se apreciaron múltiples nódulos pulmonares en el lóbulo superior izquierdo (12 mm), lóbulo inferior derecho (8 mm), lóbulo inferior izquierdo (8 mm) y língula (7 mm).
+» Se completó el estudio con una ecografía escrotal,visualizándose a nivel del polo inferior del teste derecho una masa mal definida de 1,04 x 0,9 cm con calcificaciones asociadas.
+» Con sospecha de tumor testicular avanzado se procedió a orquiectomía radical derecha.
+» En el examen microscópico de la pieza quirúrgica, se observó predominio de una zona cicatricial de fibrosis intratesticular con focos de hemosiderina, necrosis, inflamación crónica y calcificación distrófica gruesa con atrofia de los túbulos seminíferos. Adyacente a esta zona se observó, asimismo, neoplasia de células germinales intratubulares de tipo no clasificado, afectando también la rete testes, con expresión de CD117, D2.40, OCT4 y fosfatasa alcalina, sin expresión de CD30 ni BHCG.
+Anatomopatológicamente, la lesión cicatricial fue compatible con tumor testicular germinal regresado burned-out.
+
+Diagnóstico
+Tumor testicular burned-out"con elevación aislada de alfafetoproteína, riesgo intermedio IGCCC (afectación visceral únicamente a nivel pulmonar, menos de 10 metástasis, incremento de LDH > 2,5 pero < 10). Estadio Royal Marsden IVL.
+
+Tratamiento
+Se programó inicio de tratamiento quimioterápico con esquema BEP x 4 ciclos (bleomicina 30 U IV los días 1, 8, 15, etopósido 100 mg/m2/d días 1-5 y cisplatino 20 mg/m2/d).
+
+Evolución
+Entre los meses de marzo y junio de 2015, el paciente ha recibido los cuatro ciclos del tratamiento programado. La tolerancia ha sido buena, completando los ciclos sin retrasos ni ajustes de dosis, presentando como complicaciones anemia grado 1, plaquetopenia grado 2 y, puntualmente, síndrome febril asociado a bleomicina. Desde el inicio del tratamiento la bajada de los niveles séricos de AFP ha sido exponencial, de acuerdo con su vida media.
+En la actualidad, el paciente ha concluido el tratamiento quimioterápico y está pendiente de reevaluación mediante TC cérvico-tóraco-abdominal, programado para el día 12 de Junio. En función de la presencia de tumor residual en las pruebas de imagen, podrá plantearse un rescate quirúrgico.

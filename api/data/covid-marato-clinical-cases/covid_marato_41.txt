@@ -1,0 +1,23 @@
+Anamnesis
+Presentamos el caso de un varón de 65 años con hipertensión arterial de tres años de evolución actualmente sin tratamiento farmacológico por buen control tensional. Antecedente de enfermedad pulmonar obstructiva crónica (EPOC) tipo enfisema gravedad B de la clasificación Global Initiative for Chronic Obstructive Lung Disease (GOLD) diagnosticado hace dos años con alteración ventilatoria obstructiva moderada con FEV1 56 % y FEV1/FVC del 53 %. Como tratamiento crónico refiere formoterol y budesonida inhalados. No dice tener antecedentes familiares de patología oncológica.
+El paciente es diagnosticado en febrero de 2017 de un adenocarcinoma de pulmón izquierdo T4N2M0 estadio IIIB a raíz de cuadro de tos irritativa y hemoptisis ocasional. En marzo de 2017 inicia tratamiento de inducción con quimioterapia completando dos ciclos de tratamiento según esquema carboplatino-vinorelbina, y posteriormente recibe tratamiento concomitante de quimioterapia (según mismo esquema) y radioterapia que finaliza en junio de 2017, sin toxicidades agudas destacables.
+En febrero de 2018, presenta una recaída pleuropulmonar por lo que inicia, en marzo de 2018, tratamiento con nivolumab, que mantiene con buena tolerancia hasta diciembre de 2018, cuando se objetiva progresión pulmonar a nivel de nódulo pulmonar en lóbulo inferior izquierdo de 3 cm de diámetro mayor. Dado que el área de progresión pulmonar había sido tratada previamente con radioterapia, y al no poder plantearse tratamiento quirúrgico local, se propone ablación por microondas de la lesión pulmonar. El día 16 de enero de 2019 se realiza ablación por microondas abarcando un área de 3 cm sin complicaciones inmediatas.
+El paciente acude a consulta en Urgencias a las 48 horas por cuadro de hemoptisis leve por el cual es ingresado para vigilancia. Durante el ingreso, comienza con clínica de confusión, visión borrosa bilateral y pérdida de fuerza en miembro superior derecho por lo que se solicita valoración por Neurología.
+
+Exploración física
+El paciente presenta un Eastern Cooperative Oncology Group (ECOG) de 3. Mide 173 cm y pesa 70 kg. En la exploración neurológica el paciente se encuentra alerta y consciente, desorientado en espacio y tiempo. Destaca un lenguaje hipofluente con bloqueos sin disartrias, y un déficit visual bilateral, aunque reconoce formas, colores y caras. Además, se aprecia un balance muscular 1/5 en miembro superior derecho y hemihipoestesia derecha. No tiene otros hallazgos relevantes en el resto de exploración física.
+
+Pruebas complementarias
+Se realiza tomografía computarizada (TC) cerebral que informa de áreas hipodensas corticosubcorticales occipitales bilaterales que plantean el diagnóstico diferencial entre enfermedad a distancia o síndrome de leucoencefalopatía posterior reversible (PRES).
+Resonancia magnética cerebral: en ella se objetivan áreas de edema citotóxico y vasogénico bilaterales y simétricas cortico-subcorticales en territorio superficial y profundo de regiones parietooccipitales, que sugieren un síndrome de encefalopatía posterior reversible (PRES) como diagnóstico más probable.
+Estudio inmunológico: se realizó estudio de anticuerpos antinucleares (ANA) anticuerpos anticitoplasma de neutrófilo (ANCA), anti-Jo1 y pruebas de función tiroidea, todas con resultado dentro de la normalidad.
+
+Diagnóstico
+Síndrome de leucoencefalopatía posterior reversible (PRES) secundario a tratamiento con nivolumab como causa más probable.
+
+Tratamiento
+Se traslada al paciente a cargo de Neurología para monitorización estrecha de tensión arterial. Durante los siguientes días, se objetivan picos tensionales de 170 mm Hg de tensión sistólica de predominio nocturno que logran controlarse con tratamiento farmacológico intravenoso.
+
+Evolución
+En los siguientes días, el paciente experimenta mejoría parcial de su situación funcional, con buena orientación temporo-espacial, aumento de la fuerza en miembro superior derecho y comenzando a caminar pequeñas distancias, manteniendo un ECOG de 2-3. Ante la aceptable evolución clínica es dado de alta con suspensión definitiva de tratamiento con nivolumab para continuar seguimiento clínico de manera ambulatoria con soporte de la Unidad de Cuidados Paliativos en domicilio.
+Un mes después de ser dado de alta, ingresa de nuevo por deterioro del estado general con astenia y rectorragia. Se decide no realizar estudio diagnóstico por mala situación clínica del enfermo (ECOG 4), y finalmente fallece tras 6 días de estancia hospitalaria.

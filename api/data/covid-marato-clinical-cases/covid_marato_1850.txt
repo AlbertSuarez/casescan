@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 51 años, fumador de 1,5 paquete-día, bebedor ocasional e hipertenso; sin antecedentes de interés. En 2009 es diagnosticado de melanoma de extensión superficial localizado a nivel infrapalpebral derecho T1N0M0 (Breslow 0,7, nivel de Clark III con signos de regresión). Es reintervenido hasta en cinco ocasiones con ampliación de márgenes hasta noviembre de 2013. Tras intervalo libre de enfermedad de dos años, en marzo de 2013 presenta un nódulo submandibular derecho doloroso.
+
+Exploración física
+A nivel facial, se objetiva cicatriz en canto interno de ojo derecho, sin signos de recidiva. Nódulo submandibular derecho, de consistencia pétrea, de aproximadamente 1 cm, doloroso durante la palpación. No se palpan otras adenopatías a nivel cervical.
+
+Pruebas complementarias
+El estudio por PAAF concluye células atípicas compatibles con metástasis de melanoma.
+En mayo de 2013 se realiza TC de cuello, en la cual se objetiva a nivel submandibular derecho (nivel IB) una pequeña adenopatía de aproximadamente 1,5 cm de tamaño con zona central hipodensa y captación periférica del contraste, compatible con probable adenopatía metastásica. La PET muestra adenopatía submandibular derecha metabólicamente positiva en región malar derecha. Tras un planteamiento inicial quirúrgico, y debido a una progresión rápida de la lesión, se decide, tras comentar caso en sesión multidisciplinar, solicitar RM. En ésta, se objetiva masa de origen metastásico submandibular derecho que engloba a glándula submaxilar derecha e infiltra el suelo del espacio masticador, con probable adenomegalia asociada en el espacio cervical posterior homolateral.
+
+Diagnóstico
+» Inicial: melanoma cutáneo T1N0M0.
+» Actual: recidiva ganglionar. Estadio III irresecable.
+
+Tratamiento
+Tras estos hallazgos, se desestima tratamiento radical y, al tratarse de una recidiva locorregional rápidamente progresiva e irresecable, se decide quimioterapia (QT) paliativa.
+
+Evolución
+En septiembre de 2013, se inicia 1ª línea de QT con dacarbazina (1.900 mg iv cada 21 días), y se solicita conocer el estado mutacional del gen BRAF. Tras recibir 3 ciclos, se objetiva progresión clínica (dolor no controlado y PS 1) y radiológica mayor del 50 %, por lo que se decide suspender el tratamiento.
+En noviembre de 2013, se inicia 2ª línea de QT con fotemustina (inducción 180 mg/día 1-8-15, descanso 5 semanas y posterior 100 mg/m2/día cada 21 días) hasta obtener resultados de BRAF. En enero de 2014, se realiza TC donde se aprecia nueva progresión de la enfermedad, con gran conglomerado mandibular; con un tamaño 8 x 13,4 x 16 cm.
+Dada la rápida progresión clínica, difícil control del dolor y la confirmación de positividad de BRAF, se inicia 3ª línea con vemurafenib en enero de 2014 a dosis de 960 mg/12 h/día, vía oral con controles cada 28 días. Tras tercer ciclo de tratamiento, el paciente presenta mejoría clínica muy significativa (dolor EVA 1-2 de forma ocasional y PS 0), sin toxicidades III-IV. En TC de control se objetiva reducción del tamaño tumoral, considerando respuesta parcial > 90 % a dicho tratamiento, con controles sucesivos que muestran estabilidad de la enfermedad, con infiltración probablemente fibrótica en niveles I, II, III, V cervicales derecho con respuesta adecuada al tratamiento. Las evaluaciones se realizaron cado 28 días, con control radiológico mediante TC cada 4 meses.
+En controles posteriores radiológicos, se constata la respuesta completa, con cambios fibróticos secundarios, sin objetivarse signos de recidiva ni afectación metastásica.
+Tras ILE 14 meses, presenta mucositis grado II y astenia grado II, reduciéndose la dosis a 720 mg/12 h.
+Actualmente, tras ILE 52 meses, el paciente continúa en tratamiento con vemurafenib, asintomático, PS 0, con una tolerancia excelente y sin toxicidades III-IV.

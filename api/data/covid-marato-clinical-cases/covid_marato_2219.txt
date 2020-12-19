@@ -1,0 +1,23 @@
+Anamnesis
+Paciente varón de 29 años sin antecedentes familiares ni medicoquirúrgicos previos de interés, ni medicación domiciliaria relevante que presenta un cuadro de dolor epigástrico irradiado en la espalda, aumento progresivo del perímetro abdominal y pérdida de peso de unos 9 kg de tres meses de evolución. En este tiempo, acude en dos ocasiones a Urgencias, siendo dado de alta tras no encontrar signos de alarma ni alteraciones analíticas. En el mes de diciembre de 2017, acude de nuevo con mayor deterioro clínico y ascitis a tensión. Se cursa entonces ingreso para estudio en Digestivo.
+
+Exploración física
+Durante la exploración el paciente presentaba buen estado general, aunque llamaba la atención su marcada delgadez y aspecto de enfermedad. En la palpación abdominal, se ponía de manifiesto oleada ascítica, con ascitis a tensión y dolor en la palpación difusa sin irritación peritoneal, masas ni megalias. No se palpaban adenopatías a ningún nivel ganglionar, ni se objetivó ningún otro hallazgo relevante en la exploración por aparatos.
+
+Pruebas complementarias
+En los controles analíticos seriados que se realizaron durante el ingreso no se encontraron alteraciones más que PCR y LDH discretamente elevadas. El proteinograma y todas las serologías víricas realizadas (incluyendo VIH, hepatotropos, CMV, VEB, herpesvirus y parvovirus) también resultaron normales.
+El líquido ascítico tras la paracentesis no mostró células tumorales ni otros datos significativos.
+Se realizó toracoabdominopélvica que halló notable derrame pleural derecho, engrosamiento pleural, múltiples adenopatías axilares, mediastínicas, hiliares pulmonares, intraabdominales (con conglomerado adenopático celiaco-periportal de 5 cm), gástricas, esplénicas, retroperitoneales y mesentéricas que ofrecían sospecha radiológica de síndrome linfoproliferativo extenso, y focos osteoescleróticos en vértebras dorsales D1-D11-D12, manubrio esternal y a nivel costal. También se objetivaba un marcado engrosamiento con aumento de densidad multinodular del epiplón mayor, por lo que se solicitó también endoscopia digestiva alta (EDA) en la que se visualizaba en cuerpo gástrico una lesión de unos 4 cm, redondeada y ulcerada sospechosa de neoplasia. En la colonoscopia, a lo largo del recorrido del endoscopio, se encontraban varias áreas de compresión extrínseca de la mucosa que impresionaba que pudieran corresponder con implantes peritoneales.
+Se tomaron muestras para biopsia de los hallazgos encontrados en EDA y colonoscopia, ambos con resultado negativo para malignidad. En este caso, el diagnóstico se obtiene a través de la biopsia de un ganglio axilar.
+
+Diagnóstico
+El estudio anatomopatológico concluyó: ganglio linfático con infiltración por neoplasia maligna sugestiva de tumor desmoplásico de células pequeñas y redondas (TDCPR) apoyado por estudio inmunohistoquímico con expresión positiva para el antígeno epitelial de membrana (EMA), CKAE1/AE3, vimentina, enolasa neuronal específica y con positividad focal en patrón dot like para desmina, así como por la presencia de fusión del gen EWSR1/WT1.
+Con estos datos, se diagnostica finalmente al paciente de TDCPR intraabdominal estadio IV por afectación pleural, poliadenopática, peritoneal y ósea.
+
+Tratamiento
+Tras el alta, el paciente fue evaluado en consulta de Oncología, decidiéndose derivación a nuestra Unidad de Referencia de Sarcomas del hospital para valoración y tratamiento.
+Se propuso como primera estrategia terapéutica quimioterapia paliativa con la combinación de vincristina-adriamicina-ciclofosfamida-ifosfamida-etopósido durante seis ciclos según tolerancia.
+
+Evolución
+El paciente comenzó el tratamiento anteriormente expuesto en enero de 2018. Hasta el momento, ha recibido cuatro ciclos con buena tolerancia, sin toxicidades relevantes (únicamente náuseas grado 2), ni alteraciones analíticas que hayan propiciado retraso en los ciclos ni reducción de dosis. Tras segundo ciclo, acudió a Urgencias por presentar aumento de tos, disnea brusca y malestar general, catalogándose el cuadro de proceso infeccioso, habiendo descartado previamente tromboembolismo pulmonar (TEP). Ha precisado hasta el día de hoy de cuatro paracentesis evacuadoras, con extracción en cada una de ellas de unos 8 litros consiguiéndose mejoría clínica posterior. Mantiene ECOG PS de 1.
+Se ha realizado TC de reevaluación en la que se objetiva respuesta parcial de la enfermedad. Pendiente de recibir aún los dos ciclos restantes hasta completar seis.

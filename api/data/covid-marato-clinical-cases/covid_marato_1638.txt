@@ -1,0 +1,33 @@
+Anamnesis
+Varón de 21 años con antecedentes deatresia de yeyuno-íleon congénita intervenida y nevus melanocítico lentiginoso en la espalda a los 16 años. Hidrocele izquierdo en la infancia, que se resolvió sin tratamiento. No alergias medicamentosas ni otros antecedentes de interés. No tiene antecedentes familiares oncológicos.
+Historia oncológica: inicialmente, el paciente consulta en Urología poruna masa en el testículo izquierdo de 2 años de evolución con crecimiento lento.
+
+Exploración física
+La exploración física en ese momento denotaba masa en el polo anterosuperior del testículo izquierdo. ECOG 0. Resto sin alteraciones de interés.
+
+Pruebas complementarias
+» Se solicitó una ecografía testicular, que objetivó dos zonas, una más periférica en el polo superior, que era la más grande, con unos 2 cm de diámetro medio, junto a otra en la zona más próxima al centro del testículo que medía unos 8 mm de diámetro.
+» En la analítica completa destaca: hemoglobina 20,3 g/dl, hematocrito 59,9%, hematíes 6.550.000. Alfa-fetoproteína 77,2 ng/ml, beta-HCG 100,4 mU/ml, LDH 392 UI/l.
+» Se remite al paciente a Hematología para el estudio de la poliglobulia y se programa para orquiectomía radical, previa criopreservación de semen.
+» Se realiza una TC toracoabdominopélvica, no detectándose afectación ganglionar ni metástasis (N0M0).
+
+Diagnóstico
+Carcinoma germinal de testículo no seminomatoso pT1N0M0, S0, estadio IA, subgrupo de buen pronóstico.
+
+Tratamiento
+Se realiza una orquiectomía radical por vía inguinal; la anatomía patológica se informa como teratoma maligno mixto con áreas de carcinoma embrionario, yolk-sac , coriocarcinoma y neoplasia germinal intratubular pT1.
+
+Evolución
+Inicialmente, al ser de buen pronóstico, se propuso su seguimiento.
+En la analítica postoperatoria destaca hemoglobina 18 g/dl, con negativización de marcadores tumorales, siendo pues S0.
+A los 14 meses, se observan en la TC de control al menos dos adenopatías retroperitoneales de entre 2 y 3 cm.Beta-HCG 16 mUI/ml y alfa-fetoproteína 8 ng/ml. Ante la sospecha de recidiva, se plantea tratamiento con cuatro ciclos de esquema BEP (bleomicina, etopósido y cisplatino). Recibe los cuatro ciclos de tratamiento, presentando muy buena tolerancia (náuseas grado I, astenia grado II, neutropenia grado II y trombopenia grado II).
+Dos semanas después de recibir elúltimo ciclo, ingresa en la Unidad de Cuidados Intensivos (UCI) tras un episodio de crisis comicial y parada cardiorrespiratoria. Se realizó una TC urgente, que mostró una lesión aparentemente única en la fosa posterior, muy vascularizada, sugestiva de metástasis. No se pudo descartar otras posibilidades. Además de hidrocefalia tetraventicular. Se realizó una punción lumbar, en la bioquímica del LCR destacaba elevación de las proteínas 118 mg/dl y de la glucemia 154 mg/dl, encontrándoseel resto de parámetros dentro de la normalidad. Se remitió muestra de LCR para citología, con resultado negativo. Se planteó diagnóstico diferencial con metástasis frente a segundo tumor primario. Comentado con Oncología Radioterápica y Neurocirugía, se decide esperar al resultado de la RM para decidir la actitud terapéutica. La RM mostraba una lesión heterogénea de aproximadamente 28 x 32 x 37 mm en los ejes AP, T y CC, respectivamente, situada en la línea media, inferior al cuarto ventrículo, con aspecto similar a los tumores de estirpe germinal mixtos (considerar la posibilidad de metástasis del tumor testicular, o de un segundo tumor primario de origen germinal en esta situación). No existiendo otras imágenes sugerentes de metástasis en el resto del estudio.
+Además, presenta edema de tronco, hidrocefalia tetraventricular y siringomielia cervical, secundarias a la lesión por efecto masa.
+La analítica y los marcadores tumorales al ingreso eran normales. Se realiza una primera intervención, quefue incompleta, según la RM, dejando restostumorales, con focos hemáticos en su interior. Se decide realizar una segunda intervención una semana después, tras la cual mejora la hidrocefalia pero en la vertiente más inferior del cuarto ventrículo se observapersistencia pseudonodular que realza intensamente tras la administración de contraste intravenoso, midiendo 6 x 11 x 10 mm de diámetros AP, TR y Cc, respectivamente, sugestivo de otro resto tumoral.
+Al día + 10 de la primera cirugía reingresa en la UCI en coma con una puntuación en la escala de Glasgow de 4, en la TC de cráneo urgente se identificahidrocefalia y signos de herniación transtentorial, por hemorragia tumoral, por lo que se realizauna intervención quirúrgica urgente mediante una derivación ventrículo-peritoneal (Mitronic de presión variable).
+
+Tras un mes en la UCI, el paciente sube a planta estabilizado con un Glasgow de 15/15. Como complicaciones durante su estancia en la UCI presenta colonización por Acinetobacter baumanii y disfagia secundaria a parálisis completa de la cuerda vocal derecha que obliga a la colocación de sonda nasogástrica.
+La anatomía patológica definitiva es de: tejido de aspecto mesenquimal con vascularización prominente compatible con hemangioblastoma cerebeloso.
+Durante los meses siguientes el paciente mejora progresivamente, deambula con andador y se ha podido retirar la sonda nasogástrica, pudiendo alimentarse por sí mismo.
+Se mantiene en seguimiento del tumor testicular, presentando en la última TC un growing teratoma (25 meses tras la orquiectomía) que se remitirá para intervención quirúrgica.
+Se remitió a consulta de consejo genético por sospecha de síndrome de Von Hippel-Lindau, cuyo resultado está pendiente.

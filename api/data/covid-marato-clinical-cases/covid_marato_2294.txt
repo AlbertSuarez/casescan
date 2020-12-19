@@ -1,0 +1,42 @@
+Anamnesis
+Paciente, mujer de 57 años.
+ANTECEDENTES PERSONALES:
+» Alérgica a AAS y AINE.
+» Sin hábitos tóxicos.
+» Hipertensión arterial en tratamiento con enalapril.
+» Dislipemia en tratamiento dietético.
+» Hernia de hiato en tratamiento con omeprazol.
+» Colon irritable.
+» Intervenciones quirúrgicas: apendicectomía a los 17 años, estrabismo a los 16 años.
+HISTORIA ONCOLÓGICA
+Diagnosticada en mayo 2009, por estudio de cribado poblacional, de carcinoma ductal infiltrante de mama derecha (cuadrante supero-externo) grado 3, RE 80 %, RP 905, HER-2 negativo, intervenida mediante tumorectomía y biopsia de ganglio centinela, pT1c (12 mm) pN1 (mic) M0, con factores de mal pronóstico (invasión linfática y perineural), que realiza tratamiento adyuvante con quimioterapia esquema FEC x 6 y posterior radioterapia sobre mama (DT 50 Gy y boost sobre lecho tumoral DT 16 Gy) y hormonoterapia con tamoxifeno (fin febrero 2014).
+En diciembre de 2016, a raíz de dorsalgia mecánica, se diagnostica de progresión múltiple a nivel óseo con biopsia positiva para metástasis de adenocarcinoma de mama. Se inicia primera línea de tratamiento hormonal dentro de ensayo clínico Flipper (rama fulvestrant + palbociclib), con buena tolerancia al tratamiento.
+En controles, según protocolo dentro de ensayo, se realiza TC de valoración de respuesta tras tercer ciclo, objetivándose una imagen nodular hipodensa cardiaca intracavitaria.
+
+Exploración física
+» Normoconstante, afebril.
+» Consciente, orientada, normocoloreada y normohidratada. Eupneica en reposo.
+» ECOG 0.
+» AC: rítmica.
+» AP: mvc, sin sonidos sobreañadidos.
+» ABD: blando, depresible, no es doloroso durante la palpación, peristaltismo conservado. Sin masas o megalias.
+» » Sin edemas ni signos de TVP.
+
+Pruebas complementarias
+» TC TA: imagen nodular hipodensa cardiaca intracavitaria en el ventrículo izquierdo, adyacente al septo interventricular, estable y presente desde enero 2017 (no descrito en informe previo) que todo probablemente corresponda a trombo intracavitario, y que no se puede descartar otra opción en el contexto de la paciente. Se recomienda completar estudio con ecocardiograma +/- RM cardiaca.
+» GGO: respecto al estudio previo realizado en diciembre del pasado año, se aprecia la persistencia de las lesiones de cavidad glenoide derecha y troquíter izquierdo. Afectación de D3, D5 y D6 en su totalidad, con extensión al arco posterior de la costilla derecha, con reducción de la intensidad y extensión de la lesión de L1, reducción de la lesión en región sacroiliaca izquierda.
+» Dados los hallazgos en la TC, se solicita ecocardiograma, RM cardiaca y se deriva a Cardiología para valoración: Ecocardiograma: FEV1 64 %, ventrículo izquierdo no dilatado, con contractilidad conservada.
+» Aurícula izquierda y raíz aórtica normales. Estructuras valvulares normales. No hay derrame pericárdico. Adherido al septum interventricular en ventrículo izquierdo, se observa una masa sésil de 14 x 11 mm aproximadamente, móvil, y heterogéneo. Dado que ya se detectó en enero 2017 y su heterogeneidad, y el contexto clínico de la paciente, hay que pensar en proceso tumoral.
+» RM cardiaca: ventrículo y aurícula izquierda de dimensión normal, hipertrofia septal leve-moderada, contractilidad simétrica. FEV1 normal. Ventrículo y aurícula derecha de dimensión y función normal. No se observan alteraciones en le pericardio. Presencia de masa redondeada, pediculada, dependiente de septo interventricular de 15-13 mm, hipotensa en DIr-T1 e hipertensa en TIr-T1, y con captación anómala de gadolinio que sugiere en primera instancia y en contexto clínico de la paciente metástasis intracardiaca. Se descarta trombo.
+» ECG: ritmo sinusal a 75 lpm, QRS estrecho, sin alteraciones agudas de la repolarización.
+
+Diagnóstico
+Metástasis intracardiaca en neoplasia de mama avanzada.
+
+Tratamiento
+Se decidió iniciar tratamiento descoagulante con heparina y continuar con tratamiento oncológico sistémico.
+
+Evolución
+Dados los hallazgos clínicos en las pruebas complementarias, se comenta caso en comité interdisciplinar que revisa pruebas de estudio de extensión realizadas en diciembre de 2016, y en la TC toracoabdominal de estudio de extensión, ya se objetiva dicha lesión con las mismas dimensiones y características.
+Tras valoración por Cardiología, se decide realizar cateterismo para biopsia y confirmar origen metastásico de la lesión, pero la paciente rechaza la intervención por miedo a las posibles complicaciones del procedimiento.
+Desde el equipo de Oncología, se realiza revisión del protocolo de ensayo Flipper, descartándose criterio de exclusión la presencia de metástasis en dicha localización, y dada la buena respuesta a nivel ósea por GGO, no se considera progresión de la enfermedad (lesión ya presente antes de inicio ensayo) y se decide continuar con el mismo tratamiento de fulvestrant + palbociclib.

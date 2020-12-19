@@ -1,0 +1,23 @@
+Anamnesis
+Mujer de 53 años natural de Perú, hipertensa y diabética.Diagnosticada en abril del 2010 de insuficiencia renal crónica grado V secundaria a nefritis intersticial. Requirió trasplante renal en mayo del 2012, presentando como complicación inmediata rechazo agudo mediado por células T. Desde diciembre de 2013 ha presentado un deterioro de la función del injerto con proteinuria en rango nefrótico. Su tasa de filtrado glomerular (TFG) basal es de 35. Recibe tratamiento inmunosupresor con tacrolimus y prednisona a bajas dosis.
+
+Ingresa en marzo del 2015 en planta de Nefrología para estudio de síndrome constitucional consistente en astenia, anorexia y pérdida de 10 kg de peso de 2 meses de evolución, así como disnea de mínimos esfuerzos.
+
+Exploración física
+Tensión arterial 127/67 mmHg, FC 80 lpm. Saturación 93% (con GN a 1,5 lpm), ECOG 2. Consciente y orientada en las tres esferas, normohidratada, normoperfundida. Eupneica en reposo. Auscultación pulmonar: murmullo vesicular abolido hasta dos tercios en el hemitórax derecho, roncus aislados. Abdomen: blando y depresible, no se palpan masas ni megalias. Exploración mucocutánea: anodina.
+
+Pruebas complementarias
+» La tomografía computarizada (TC) muestra derrame pleural derecho masivo, engrosamientos nodulares en la pleura visceral y nódulos pulmonares bilaterales con patrón en vidrio deslustrado. A nivel abdominal se observa una gran masa adenopática alrededor del injerto renal que se extiende por el retroperitoneo hasta el tronco celíaco y a nivel inguinal izquierdo, ocupando las cadenas ilíacas; se observa también una lesión sólida en el segmento 7 hepático. Se considera como primera opción diagnóstica un linfoma.
+» Se realiza toracocentesis y biopsia pleural, remitiéndose muestra a anatomía patológica (AP).
+» Las muestras inicialmente remitidas a AP son negativas para malignidad, por lo que se realiza biopsia guiada por ecografía de una adenopatía accesible, en este caso epigástrica izquierda.Se descarta la presencia de un proceso linfoproliferativo y carcinoma renal, al presentar la muestra abundante músculo esquelético, tejido conectivo-fibroso y fragmentos con proliferación fusocelular fasciculada con atipia leve. El estudio inmunohistoquímico es positivo para marcadores endoteliales (CD31 y CD34) y herpes virus humano 8 (HHV-8), siendo compatible con sarcoma de Kaposi (SK).
+
+Diagnóstico
+Sarcoma de Kaposi visceral en una paciente trasplantada.
+
+Tratamiento
+Tras el ingreso se procede a la realización de una toracocentesis evacuadora, extrayéndose escasa cantidad de líquido al presentar el espacio múltiples trabéculas. Dada la reaparición temprana de derrame pleural, se procede a la colocación de pig-tail pulmonar y pleurodesis con bleomicina. Por otra parte, una vez obtenido el diagnóstico de SK visceral avanzado, inicialmente seprocede a disminuir progresivamente el tratamiento corticoideo y cambiar la inmunosupresión de tacrolimus a everolimus.
+
+Evolución
+La paciente evoluciona favorablemente, con mejoría del estado general (ECOG 1) y disminución de la disnea, que se trata del síntoma más invalidante. Persiste expectoración marronácea semisólida, que se remite a AP y es también compatible con SK.
+
+Se solicita doxorrubicina liposomal pegilada (PLD) fuera de indicación, previa realización de un ecocardiograma normal (FEVI 65%). Comienza dicho tratamiento a dosis de 20 mg/m2 en abril del 2015, que transcurre con buena tolerancia.

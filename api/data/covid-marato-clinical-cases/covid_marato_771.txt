@@ -1,0 +1,27 @@
+Anamnesis
+Varón de 64 años sin antecedentes medicoquirúrgicos de interés, que el 17 de junio de 2017 advierte tumoración cervical derecha, hecho por el que consulta en clínica privada. El paciente permanece, por lo demás, asintomático a todos los niveles. Tras la realización de pruebas complementarias, se visualiza en una TC una lesión pulmonar, además de nódulos en ambos lóbulos inferiores, adenopatías supraclaviculares derechas y afectación suprarrenal izquierda. Por este motivo, consulta en Urgencias, donde se decide ingreso programado en Neumología para estudio, con la sospecha de neoplasia pulmonar metastásica.
+
+Exploración física
+» Consciente y orientado. Estado general conservado. Normocoloreado. Normoperfundido. Bien hidratado. Eupneico respirando aire ambiente. ECOG 0.
+» Aparato circulatorio: rítmico, sin auscultarse soplos ni roces.
+» Aparato pulmonar: MVC sin ruidos sobreañadidos.
+» Abdomen: ruidos hidroaéreos presentes. Blando y depresible, no doloroso a la palpación profunda. No hay signos de irritación peritoneal. No se palpan masas ni organomegalias.
+» Extremidades inferiores: sin edemas ni signos de TVP. Pulsos periféricos palpables y simétricos.
+» Cabeza y cuello: mazacote adenopático supraclavicular derecho, de unos 3-4cm. Sin edema ni eritema facial.
+» Neurológico: sin focalidad neurológica.
+
+Pruebas complementarias
+En el ámbito privado, se realiza una ecografía cervical en la que se observan varias adenopatías cervicales, la mayor de 3 cm; y una TC de cuerpo sin contraste, en la que se objetiva una masa de 5 cm en el lóbulo inferior del pulmón derecho, además de numerosos nódulos en ambos lóbulos inferiores y adenopatías supraclaviculares derechas. Se aprecia afectación de glándula suprarrenal izquierda.
+En planta de Neumología, se realiza analítica sanguínea, que no muestra hallazgos reseñables y broncoscopia, que no objetiva lesiones endobronquiales y cuya citología es negativa para malignidad. Se programa biopsia con aguja gruesa (BAG) de ganglio supraclavicular. Se deriva al paciente a Oncología Médica con sospecha de neoplasia pulmonar metastásica, a falta de resultado anatomopatológico. Allí se solicita PET-TC, resonancia magnética cerebral, análisis sanguíneos y serologías. Dado que las imágenes son sugestivas de neoplasia pulmonar primaria, se solicita determinación de EGFR, ALK y expresión PDL-1.
+En la BAG se obtiene en primera estancia material escaso correspondiente a tejido linfoide sin evidencia de metástasis. Dada la ausencia de diagnóstico definitivo se decide realización de una nueva BAG, resultando por segunda vez no concluyente. Ante la negatividad de la prueba se opta por BAG ecoguiada de la lesión pulmonar, que se realiza sin complicaciones. El análisis de la pieza muestra un tejido compatible con un proceso linfoproliferativo. Tras el análisis, el servicio de Anatomía Patológica aconseja realizar exéresis de una adenopatía supraclavicular para filiar adecuadamente el proceso.
+Se programa ingreso a cargo de Otorrinolaringología, que realiza bajo anestesia general e intubación orotraqueal, adenectomía en cadena cervical transversa derecha. La pieza es recibida por Anatomía Patológica para su análisis. A nivel microscópico, muestra un ganglio linfático con proliferación de centrocitos y centroblastos que origina borramiento de la arquitectura con patrón folicular. No se observa necrosis, fibrosis ni patrón difuso. El estudio inmunohistoquímico demuestra positividad para CD20, CD79, CD10, BCL2 y BCL6, MUM1 y negatividad 30. La población acompañante es no neoplásica, siendo positiva para CD3, CD5 y CD23. Ki67 < 10 %. Por tanto, los hallazgos morfológicos e inmunohistoquímicos son concordantes con linfoma folicular, grado 3A.
+En la PET-TC, se confirma la presencia una masa en lóbulo inferior del pulmón derecho de características metabólicas malignas, con implicación linfática, mediastínica y supraclavicular derecha, así como afectación metastásica suprarrenal izquierda y pulmonar. El resto de pruebas previamente solicitadas (incluida una ecocardiografía previa al inicio del tratamiento) resultan negativas. Se solicita a su vez biopsia de médula ósea como parte del estudio de extensión, sin resultados patológicos.
+
+Diagnóstico
+Con todos los resultados de las pruebas complementarias, se concluye que el paciente presenta un linfoma folicular grado 3A estadio IVA (metástasis pulmonares y suprarrenal izquierda).
+
+Tratamiento
+Se solicita autorización para el uso extraordinario en primera línea de obinutuzumab + CHOP (O-CHOP). Se programa administración intravenosa de seis ciclos de obinutuzumab (y CHOP) en dosis de 1.000 mg (días 1,8 y 15 en el primer ciclo; día 1 en los siguientes). El 6 de noviembre de 2017 se pauta, tras firma de consentimiento informado, el primer ciclo con dosis de carga de obinutuzumab.
+
+Evolución
+Durante el primer ciclo, el paciente presenta estreñimiento grado 1 como única toxicidad. No obstante, en analítica de control se objetiva neutropenia, por lo que se omite el C1D15. Se solicita una TC de control tras el 2º ciclo, que objetiva respuesta parcial con disminución de las adenopatías supraclaviculares y las consolidaciones pulmonares. En la TC de control, tras el 4º ciclo la enfermedad permanece estable respecto a estudio anterior. Persiste consolidación residual de morfología alargada en lóbulo inferior derecho y engrosamiento de glándula suprarrenal izquierda, sin cambios.

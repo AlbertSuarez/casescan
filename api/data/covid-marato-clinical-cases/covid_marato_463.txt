@@ -1,0 +1,30 @@
+Anamnesis
+Mujer de 60 años sin alergias medicamentosas conocidas, con antecedente de vértigo de Ménière, en seguimiento por el Servicio de Endocrinología por un nódulo tiroideo, sin hábitos tóxicos conocidos.
+Como antecedentes oncológicos destaca que su madre fue diagnosticada de un cáncer de mama y su padre de un cáncer de laringe.
+Con 32 años es diagnosticada de un carcinoma medular atípico de mama derecha, se realizó mastectomía tipo Patey en Julio de ese año, siendo un pT2N0M0. Recibió tratamiento adyuvante según esquema CMF del que completa 6 ciclos, finalizando el tratamiento en noviembre de 1988.
+En agosto de 2002, se realizó histerectomía y doble anexectomía tras ser diagnosticada de mioma uterino.
+Dada la edad de la paciente al diagnóstico, se solicitó estudio genético, detectándose una mutación en el gen BRCA-1 (A1708E)
+Continuó revisiones normales hasta julio de 2014, cuando se detectó en la mamografía un nódulo de 8 mm a nivel de mama izquierda sospechoso de malignidad. Se realizó biopsia de la lesión, confirmándose que se trataba de un carcinoma ductal infiltrante. En agosto de 2014, se realizó mastectomía izquierda y biopsia de ganglio centinela, siendo un carcinoma ductal infiltrante pT1bN0M0, grado III, receptores hormonales negativos, HER-2 negativo, y MIB-1 25 %. Recibió tratamiento adyuvante según esquema FEC (5-fluorouracilo, epirrubicina, ciclofosfamida) por 4 ciclos, seguido de paclitaxel semanal durante 8 semanas, el cual finalizó en febrero de 2015.
+En agosto de 2016 la paciente acude a su médico de Atención Primaria por presentar dolor de características pleuríticas-mecánicas, le solicita una radiografía simple y es remitida a nuestro servicio tras objetivar la presencia de imagen pseudonodular a nivel de LID.
+
+Exploración física
+Paciente consciente, orientada en las 3 esferas. Estable hemodinámicamente, afebril. Saturación de oxigeno basal 95 %. Auscultación cardiopulmonar sin alteraciones de interés. Abdomen anodino. No presenta edemas ni signos de trombosis venosa profunda. Sin focalidad neurológica.
+
+Pruebas complementarias
+Analítica con marcadores tumorales: Ca125: 30 U/ml (0-21 U/ml) CA15,3 y CEA normales, resto de la analítica anodina.
+TC-TAP: opacidades nodulares pulmonares subpleurales en ambas bases. La mayor en segmento basal posterior derecho, de 25 mm.
+Ante estos hallazgos, dada su distribución atípica, se valora la presencia de metástasis vs. primario pulmonar, por lo que se recomienda diagnóstico histológico:
+» Broncoscopia + EBUS: árbol bronquial normal, lesión hipoecoica en bronquio subsegmento medial de LID.
+» Anatomía Patológica: presencia de escasos nidos de células con baja atipia. Inmunofenotipo TTF-1 +, napsina+, CK7 +, CK 20 -, GATA 3 -, BRST2-. Compatible con carcinoma no microcítico tipo adenocarcinoma.
+Dada la sospecha de que se trata de un primario pulmonar, se completa el estudio mediante:
+» PET-TC: imágenes pseudonodulares en ambas bases pulmonares, con SUVmax 9 en el lado derecho, de hasta 2,8 cm, y SUVmax 10,4 en el izquierdo, de hasta 1,4 cm, sugerentes de malignidad.
+» Estudio mutacional EGFR y ALK: negativo.
+
+Diagnóstico
+Adenocarcinoma de pulmón metastásico vs. metástasis de carcinoma ductal infiltrante de mama triple negativo.
+
+Tratamiento
+Dados los hallazgos obtenidos, se plantea el caso en sesión clínica, no pudiéndose descartar la presencia de un primario pulmonar, vs. una metástasis de carcinoma de mama triple negativo. Dada la inmunohistoquímica, y tras comentar el caso con el servicio de Anatomía Patológica, parecía más compatible con un primario pulmonar. Ante esta situación, se decidió iniciar tratamiento según esquema paclitaxel/carboplatino/bevacizumab del que completa 6 ciclos, con respuesta parcial tras el 5º ciclo, continuando posteriormente con bevacizumab de mantenimiento.
+
+Evolución
+En agosto de 2017 presenta progresión a nivel pulmonar de una de las lesiones, decidiéndose retratamiento según esquema previo, recibiendo 10 ciclos, con ajuste de dosis por toxicidad desde el 9º ciclo. Actualmente presenta respuesta parcial mantenida de la enfermedad desde el 4º ciclo.

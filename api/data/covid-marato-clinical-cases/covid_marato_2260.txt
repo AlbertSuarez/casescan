@@ -1,0 +1,27 @@
+Anamnesis
+Se trata de un varón de 20 años, con antecedentes familiares de tía materna intervenida de melanoma precoz con 30 años y tía paterna diagnosticada de neoplasia hematológica con 55 años. No presenta alergias medicamentosas, hábitos tóxicos ni toma tratamiento habitualmente, presentando como único antecedente personal migraña ocasional.
+Su historia oncológica comienza en marzo de 2012, a raíz de elevación de transaminasas en analítica de rutina asociando dolor en hipocondrio derecho puntualmente, inicialmente relacionado con el ejercicio físico. Tras la realización en abril 2012 de ecografía, tomografía computarizada (TC) de tórax y abdomen, PET-TC y biopsia hepática se diagnostica una masa hepática izquierda de 14 cm con nódulos metastásicos en lóbulo hepático derecho (LHD) con anatomía patológica (AP) de hepatocarcinoma fibrolamelar, asociando adenopatías patológicas hiliares sin otra diseminación sugestiva de malignidad a distancia.
+El 15/05/2012 se realiza lobectomía lateral izquierda y segmentectomía VI-VII; colecistectomía y linfadenectomía hiliar, retroperitoneal y de tronco celiaco que confirma la existencia de un hepatocarcinoma fibrolamelar poco diferenciado pT3aN1 y, sin presentar complicaciones, es derivado a Oncología Médica para su valoración.
+
+Exploración física
+» ECOG 0, peso 71,5 kg, talla 1,82 m., SC 1,91 m2.
+» Buen estado general, consciente, orientado, bien hidratado y perfundido, afebril, eupneico en reposo. Cicatriz de laparotomía subcostal con buen aspecto. No tiene otras alteraciones por aparatos ni sistemas.
+
+Pruebas complementarias
+Tras la cirugía hepática:
+» Analítica (11/09/12): GOT 38 U/l (10-37) GGT 67 UI/l (10-50). Hemograma normal. Alfa-fetoproteína (AFP): 2,2 ng/ml (1-20).
+» TC toracoabdominal posquirúrgico (05/09/12): se identifican dos colecciones líquidas de apariencia quística situadas en el lecho quirúrgico, que se presenta una reducción de tamaño con respecto a estudios precedentes.
+
+Diagnóstico
+Hepatocarcinoma fibrolamelar estadio IV-A (T3aN1M0) intervenido (15/05/12) mediante lobectomía lateral izquierda y segmentectomía VI-VII; colecistectomía y linfadenectomía hiliar, de tronco celiaco y retroperitoneal con reconstrucción de arteria hepática derecha.
+
+Tratamiento
+Se inicia seguimiento sin tratamiento adyuvante ante la falta de beneficio descrito en la literatura, solicitándose analítica, AFP y TC de reevaluación en 3 meses.
+
+Evolución
+Durante el seguimiento, se detecta lesión heterogénea en segmento VI-VII hepática en mayo de 2013, que se interviene finalmente mediante segmentectomía VII, ampliada al VI (09/07/13) con AP de recidiva de CHC fibrolamelar.
+Entre noviembre 2013 y enero 2014, se diagnostica de nueva recidiva hepática, peritoneal (implantes perihepático, pelvis), intercostal derecha y probable pulmonar única en lóbulo inferior derecho (LID). Se inicia el 27/01/2014, 1ª línea de quimioterapia (QT) según esquema cisplatino 80 mg/m0 + doxorrubicina 60 mg/m2 cada 21 días, recibiendo 6 ciclos hasta el 09/07/2014, con respuesta parcial (RP) mantenida (agosto 2014) y alopecia G3 y neutropenia G4 como toxicidades más importantes.
+Tras comentarse el caso en comité de tumores, continúa considerándose irresecable. Inicia tratamiento de mantenimiento con sorafenib 400 mg/12 h desde el 10/12/2014 hasta el 23/12/2014 reduciéndose a 400 mg/24 h por síndrome mano-pie G3 el 15/01/2015 hasta el 27/01/2015, suspendiéndose por la misma toxicidad.
+Posteriormente, presenta progresión (PE) en febrero 2015 de lesión intercostal derecha, hepática y ganglionar diafragmática derecha con estabilización pulmonar y peritoneal. Se realiza estudio mutacional mediante secuenciación masiva detectándose mutación en el gen MET en el exón 14 (c.3029C > T) con mayor sensibilidad a erlotinib que inicia en monoterapia a 150 mg/24 h en marzo 2015 con rash G2 como principal toxicidad, hasta agosto de 2015. Se reevalúa el caso con nueva PE hepática en agosto de 2015. El 24/08/2015 se reintroduce sorafenib 200 mg/24 h con interrupción eventual por toxicidad hepática y síndrome mano-pie, hasta el 29/10/2015 que suspende definitivamente por progresión hepática, intercostal y peritoneal. Inicia fase I con dexanabinol 30 mg/kg semanal el 4/11/15 hasta diciembre 2015 con somnolencia G1 como mayor toxicidad, suspendiéndose por PE pulmonar, hepática y peritoneal pero manteniéndose asintomático y con ECOG 0.
+Tras la PE, inicia 6º línea de tratamiento según esquema GEMOX (gemcitabina 1.000 mg/m2 + oxaliplatino 100 mg/m2 cada 14 días) desde el 21/12/2015 al 07/11/2017, recibiendo 32 ciclos obteniendo RP como mejor respuesta en TC de octubre de 2016, padeciendo toxicidad hepática G2, hematológica G2, neurotoxicidad G1 y reacción infusional, hasta noviembre 2017 que presenta nueva PE hepática, manteniendo vida activa (continuaba yendo al gimnasio) y ECOG 1. El intervalo libre de progresión (ILP) fue de 22 meses.
+Finalmente, inicia 7ª línea con nivolumab 3 mg/kg/2 semanas desde el 16/11/2017, obteniendo respuesta parcial tras 4º ciclo aunque presentando toxicidad en forma de transaminitis G3 que obligó a interrumpir el tratamiento desde enero de 2018.

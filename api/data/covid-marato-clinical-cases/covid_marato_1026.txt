@@ -1,0 +1,35 @@
+Anamnesis
+Mujer de 64 con antecedentes de hipercolesterolemia y lupus eritematoso sistémico, ambas sin tratamiento. Intervenida de hemorroides.
+Se encuentra separada, tiene estudios superiores y es exfumadora con un IPA de 4.
+En abril del año 2015, tras ingreso en hospital privado en relación a infección respiratoria consolidativa complicada, se procede a ampliar estudios diagnósticos.
+
+Exploración física
+La paciente presenta un buen estado general, con aspecto cuidado. Performance status de 0.
+Consciente, orientada en tres esferas y colaboradora. La auscultación cardiaca es rítmica, sin soplos y la pulmonar resulta con ruidos respiratorios normales. El abdomen es anodino, y las extremidades inferiores se encuentran sin edemas ni cambios tróficos.
+
+Pruebas complementarias
+Se realiza tomografía computarizada (TC) de todo el cuerpo, evidenciando una masa en lóbulo inferior del pulmón izquierdo (LII) de 4,2 cm y adenopatías hiliares sospechosas.
+Se amplía estudio con PET-TC, demostrándose afectación maligna a nivel subpleural, y adenopático locorregional (mediastino, subcarinal), así como afectación ósea metastásica (tercera costilla izquierda, columna dorsal y hueso sacro).
+
+Diagnóstico
+Se realiza biopsia de la masa en LII con resultado anatomopatológico de adenocarcinoma de pulmón, TTF1 positivo.
+Es intervenida de segmentectomía de LII, realizándose biopsias pleurales, resultando éstas positivas para malignidad; diagnosticándose de adenocarcinoma de pulmón estadio IV.
+Tras este diagnóstico, es remitida a Oncología Médica. Se solicita análisis de mutaciones EGFR, ALK y ROS-1 en pieza quirúrgica, mostrando deleción en el exón 19 de EGFR, resultando ALK y ROS-1 negativo.
+
+Tratamiento
+Primer tratamiento
+Con excelente estado general inicia erlotinib en mayo de 2015, obteniendo en las reevaluaciones radiológicas respuesta parcial según criterios RECIST 1.1.
+La paciente padece toxicidad cutánea grado 1. Continúa el mismo tratamiento hasta la TC de septiembre de 2016, marcando un intervalo libre de progresión (ILP) de 16 meses. Así, se objetiva progresión de la masa principal, asociado a nuevas lesiones pulmonares y en glándulas suprarrenales.
+Dado el difícil acceso a las lesiones malignas, se solicita biopsia liquida para valorar mutación resistencia a EGFR, resultando negativa.
+Segundo tratamiento
+Inicia segunda línea con carboplatino-pemetrexed por cuatro ciclos, con respuesta parcial de la enfermedad.
+Posteriormente realiza mantenimiento con pemetrexed por seis ciclos adicionales hasta junio de 2017, donde existe nueva progresión pulmonar y adenopática, con una nueva lesión hepática (ILP 8 meses).
+Objetivamente no hay toxicidades, si bien la paciente refiere mala tolerancia al tratamiento intravenoso.
+Se solicita PDL-1, con resultado de < 1 % de células positivas. Se decide rebiopsiar masa pulmonar con resultado positivo de mutación de resistencia de T790M (exón 20) mediante técnica cobas.
+Tercer tratamiento
+Inicia tercera línea con osimertinib en agosto de 2017. Tras 30 días de tratamiento, éste es interrumpido en relación a toxicidad cutánea aguda, precisando ingreso hospitalario. El punch cutáneo es compatible con reagudización de lupus eritematoso subagudo.
+Tras tratamiento corticoide tópico y sistémico, se produce remisión total de la toxicidad, si bien la paciente desarrolla psicosis lúpica inducida por esteroides.
+Se reintroduce osimertinib, manteniendo la toxicidad cutánea en grado 1, manteniendo respuesta en última revaluación de abril de 2018 (ILP hasta la fecha de 8 meses). Adicionalmente padece neutropenia grado uno, no siendo necesaria la reducción de dosis. Desde el diagnóstico de la enfermedad, posee una supervivencia global de 3 años.
+
+Evolución
+Transcurridos 10 días después del ingreso, se reintroduce osimertinib manteniendo la toxicidad cutánea controlada en grado uno. Las reevaluaciones radiológicas continúan en respuesta en la última revaluación de abril de 2018 (ILP hasta la fecha de 8 meses). Adicionalmente, padece neutropenia grado uno, no siendo necesaria la reducción de dosis. Desde el diagnóstico de la enfermedad, posee una supervivencia global de 3 años.

@@ -1,0 +1,21 @@
+Anamnesis
+En revisión de 3 años, después presenta lesión nodular de 5 mm a nivel de cicatriz quirúrgica en el pie derecho y nueva lesión en tercio distal de pierna derecha con celulitis asociada y rápido crecimiento. Ingresa en cirugía plástica para tratamiento de celulitis y posteriormente acude a nuestras consultas.
+
+Exploración física
+ECOG 2. Masa en pierna derecha de tamaño superior a 5 cm, indurada, dolorosa durante la palpación. Lesión ulcerada cicatrizada en planta del pie derecho. Resto de la exploración normal.
+
+Pruebas complementarias
+TC tórax-abdomen-pelvis: aumento de densidad de la grasa retroperitoneal a nivel paraaórtico izquierdo sugestivo de conglomerado adenopático, adenopatía inguinal izquierda de 41 x 27 mm.
+Ecografía de pierna derecha: tumoración vascularizada de 81 x 37 x 52 mm en cara anteromedial de tercio distal de pierna derecha, implante metastásico suprayacente a dicha lesión de 10 x 7 mm en tejido celular subcutáneo y dos implantes metastásicos en hueco poplíteo derecho de 9 x 6 mm y 12 x 8 mm.
+
+Diagnóstico
+Recidiva ganglionar (región inguinal izquierda, conglomerado adenopático paraaórtico izquierdo) y metástasis en tránsito en pierna derecha de melanoma de pie derecho.
+
+Tratamiento
+Se inicia tratamiento con pembrolizumab 2 mg/kg vía intravenosa cada 21 días el día 01-03-2018.
+
+Evolución
+Tras 3 ciclos de pembrolizumab (último el 12-04-2018) comienza a presentar episodios de sangrado tumoral a través de la masa de la pierna derecha (tamaño 10 x 8 cm), realizándose curas locales y vendajes compresivos sin mejoría. En angio-TC no se aprecia arteria que vascularice directamente a la masa tumoral, por lo que se desestima embolización arterial ante el riesgo de perder la pierna, y se administra radioterapia hemostática, 30 Gy en 5 fracciones. En TC se objetiva estabilidad del conglomerado adenopático paraaórtico izquierdo, crecimiento de adenopatía inguinal izquierda (54 x 34 mm) y nueva adenopatía de 17 x 12 mm en cadena iliaca externa derecha. Se administra 4º ciclo de pembrolizumab (11-05-2018) y se solicita nuevo TC para confirmar progresión.
+En consulta, el paciente presenta deterioro clínico progresivo, dificultad para la movilización y crecimiento de la masa en pierna derecha (10 x 10 cm). Se decide tratamiento sintomático-paliativo y se descarta amputación de pierna derecha por afectación ganglionar, pronóstico y con intención de primar calidad de vida.
+En septiembre de 2018, acude a consultas para control clínico, tras 4 meses sin tratamiento. Se objetiva gran respuesta clínica, apreciando úlcera en pierna con desaparición de masa tumoral. Se reinicia tratamiento con pembrolizumab y se administran 4 ciclos más, el último el 04-12-2018, con nuevo crecimiento de forma progresiva de la masa tumoral.
+En TC, tras 8º ciclo, se observa estabilidad del conglomerado adenopático paraaórtico izquierdo con aumento de tamaño de adenopatía inguinal izquierda (64 x 43 mm) y de la adenopatía en cadena iliaca externa derecha (43 x 33 mm), además de nueva adenopatía en región interaortocava de 22 x 22 mm. Cuando acude a consulta para valorar el 9º ciclo, presenta importante deterioro clínico y nuevo aumento de tamaño de masa tumoral en pierna, con supuración y sangrado. Se inicia antibioterapia con meropenem y clindamicina por sospecha de infección cutánea con leve mejoría clínica. Dado el estado general del paciente (ECOG 4), se suspende tratamiento oncológico activo, falleciendo un mes después.

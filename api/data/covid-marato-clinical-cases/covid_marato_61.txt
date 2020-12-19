@@ -1,0 +1,35 @@
+Anamnesis
+Paciente mujer de 83 años, independiente para las actividades básicas de la vida diaria, sin alergias medicamentosas conocidas. Con antecedentes patológicos de hipertensión arterial, diabetes mellitus tipo 2 (en tratamiento con antidiabéticos orales), un infarto lacunar agudo en marzo/2010 (recuperación ad integrum), dislipemia, fractura pertrocantérea de fémur derecho en septiembre de 2012 que requirió osteosíntesis tipo DHS, colecistectomía y artrosis.
+
+La paciente refería astenia leve y pérdida de peso no cuantificada, por lo que consultó a su médico de familia, quien realizó analítica general, en la que se halló anemia, sin signos ni síntomas de sangrado, y mielemia, por lo que fue derivada al Servicio de Hematología.
+
+Se indicó realizar mielograma mediante aspirado de médula ósea sin conseguir muestra (aspirado seco) el día 22 de diciembre de 2014, por lo que se procedió a la obtención de biopsia de la médula ósea (8 de enero de 2015). El resultado fue compatible con infiltrado por carcinoma de probable origen mamario.
+
+Al reinterrogar a la paciente, esta refería tener la mama derecha dura y retraída desde hacía meses, con astenia progresiva como síntoma acompañante.
+
+Ante este resultado, fue derivada a consulta externa de Oncología Médica.
+
+Exploración física
+ECOG 2-3, palidez mucocutánea, normohidratada, eupneica basal, sin adenopatías laterocervicales ni supraclaviculares; auscultación respiratoria con murmullo vesicular conservado sin ruidos añadidos; auscultación cardiaca ruidos rítmicos sin soplos ni roces, no ingurgitación yugular ni reflujo hepatoyugular; abdomen blando y depresible, peristaltismo presente, sin masas ni megalias; extremidades inferiores con edema bimaleolar simétrico leve.
+
+Exploración mamaria: mama derecha con retracción y piel de naranja a nivel de cola de mama, con zona de unos 6 cm dura, no ulcerada y un mazacote axilar también derecho; mama izquierda sin alteraciones.
+
+Pruebas complementarias
+» Hemograma (16/1/2015): L 5.7x10*9/L (3900N, 1.500L, 300Mo); Hb 79 g/L; VCM y HCM normales; plaquetas 157x10*9/L.
+» Biopsia de médula ósea (2/1/2015): infiltración por carcinoma, inmunohistoquímica CAM 5.2 positivo, receptores hormonales positivos (estrógenos 80%, progesterona 50%), TTF1 negativos, Her2 negativo (0).
+» Gammagrafía ósea (17/1/2015): imagen de hipercaptación patológica en el cuerpo del sacro y una hipoactividad en el tercio superior de sacroiliaca derecha inespecífica, con patrón que contextualizamos en sospecha de infiltración médula ósea. Y, probablemente en este origen deba considerarse el foco de hiperactividad en la región metafisaria tibial derecha, que nos parece dudoso para corresponder a la unión tibio-peroneana y la hiperactividad en punta de escápula derecha.
+» Mamografia bilateral, ecografía de mama y axila derecha, punción-aspiración aguja fina guiada por ecografía de mama derecha (13/2/2015): mamas de predominio fibroso, con extensa área de asimetría de densidad en mama derecha que se acompaña de retracción cutánea y mamilar, con disminución del tamaño de la mama y con engrosamiento cutáneo, hallazgos mamográficos y ecográficos altamente sospechosos, correspondientes a carcinoma localmente avanzado de mama. BI-RADS 5.
+» Citología PAAF mama derecha (13/2/2015): sin evidencia de celularidad viable.
+
+Diagnóstico
+Carcinoma de mama cT4b N2a M1 (infiltración médula ósea).
+
+Tratamiento
+Letrozol 2,5 mg al día.
+
+Evolución
+Se solicitó estudio de extensión con gammagrafía ósea que mostraba patrón compatible con infiltración de médula ósea, sin focos claros de metástasis. También se realizó mamografía de la lesión BI-RADS 5 en mama derecha. Se tomó muestra por punción-aspiración con aguja fina que no presenta celularidad viable, pero dado el resultado de la biopsia de médula ósea y la exploración física, se decidió no volver a biopsiar.
+
+Dada la fragilidad de la paciente (ECOG 2 y 83 años), se decidió iniciar tratamiento hormonal de primera línea con letrozol el día 6 de febrero de 2015, tras transfusión de dos concentrados de hematíes por anemia sintomática.
+
+Tras tres meses y medio de tratamiento hormonal, la paciente ha presentado mejoría y estabilización de las cifras de hemoglobina (de 10,1-10,6 g/dL) y de plaquetas (de 216 x 10*9/L-237 x 10*9/L), así como mejoría sintomática (disminución de la astenia) y respuesta clínica local a nivel de la mama.

@@ -1,0 +1,25 @@
+Anamnesis
+Varón de 16 años sin antecedentes personales destacables.
+Asintomático hasta septiembre de 2013, cuando comienza con hipoestesia a nivel maxilar derecho y al que se asocia posteriormente tumefacción, dolor a nivel maxilar superior derecho y estrabismo convergente del ojo derecho.
+
+Examen físico
+- Peso 48,7 kg. Talla 175 cm. IK 90. Hábito asténico. Normohidratado. Normoperfundido. Palidez mucocutánea.
+- Caabeza y cuello: no aumento de PVY. No se palpan adenopatías. Asimetría maxilar con tumefacción derecha que produce protrusión ocular.
+- Tórax: auscultación cardiaca: rítmico, sin soplos. Auscultación pulmonar: hipoventilación global.
+- Abdomen: blando, depresible, no doloroso a la palpación, con ruidos hidroaéreos presentes.
+- Extremidades: sin edemas. Pedios +.
+- Exploración neurológica: pares craneales normales, salvo presencia de estrabismo convergente. Fuerza conservada.
+
+Pruebas complementarias
+- Se solicita radiografía de senos paranasales, que objetiva una opacificación del seno maxilar izquierdo probablemente secundaria a sinusitis. Ante clínica persistente, se remite a Neurología, que corrobora el examen neurológico previamente descrito, y se solicita una RM craneal que demuestra una voluminosa tumoración sólida y expansiva en el seno maxilar derecho que destruye las paredes óseas anterior y medial del seno. Se toma biopsia, con informe anatomopatológico de glomangiopericitoma de malignidad intermedia, actina de músculo liso positivo, proteína S100, CD68 y desmina negativo.
+- Ante dichos hallazgos se remite a nuestro Servicio, donde se solicita una analítica, en la que únicamente destaca una leve hipocolesterolemia, con hemograma normal y leve elevación del CA 19,9.
+- Se completa el estudio con una TC corporal y una PET, que descartan afectación a otros niveles y describen la masa conocida en el seno maxilar y que se proyecta al espacio retroocular derecho contactando con la fosa nasal derecha, el tabique nasal, el suelo de la órbita derecha, el hueso malar derecho y el maxilar superior (SUV 14,19).
+
+Diagnóstico
+Hemangiopericitoma maxilar localmente avanzado de malignidad intermedia.
+
+Tratamiento
+El paciente desestima criopreservación seminal previo inicio del tratamiento. Al tratarse de un tumor vascular con datos de agresividad local, tipo hemangiopericitoma y para garantizar una cirugía con bordes libres, se decide iniciar un tratamiento combinado basado en quimioterapia junto a terapia antiangiogénica consistente en bevacizumab 2,5 mg/kg y paclitaxel 150 mg/m2 quincenal. Recibe 4 ciclos con toxicidad en forma de un único episodio de epistaxis autolimitada, y en la RM de control en febrero de 2014 se demuestra respuesta parcial minor, por lo que se presenta en sesión oncológica, decidiéndose intervención quirúrgica consistente en maxiloetmoidectomía medial derecha junto con reconstrucción con malla orbitaria y colgajo temporal. El informe anatomopatológico confirma un glomangiosarcoma de malignidad intermedia de 8 cm con infiltración focal en el margen posteromedial, con necrosis menor del 50% y con 6 mitosis/10 cga.
+
+Evolución
+Se presenta nuevamente en sesión y ante el tamaño mayor de 5 cm, la presencia de pleomorfismo y un recuento mitótico elevado en la muestra histológica se decide tratamiento radioterápico complementario por alto riesgo de recidiva local y metástasis a distancia. Actualmente está pendiente de inicio en su administración y posterior valoración de quimioterapia.

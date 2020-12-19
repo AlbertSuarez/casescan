@@ -1,0 +1,44 @@
+Anamnesis
+Paciente de 33 años con antecedentes personales gastritis crónica con helicobacter pylori tratado con pauta erradicadora y síndrome de ovario poliquístico. No realizaba tratamiento habitual.
+Presentaba como antecedentes familiares madre diagnosticada de carcinoma de mama con 49 años, habiendo sido dada de alta de consultas de Oncología Médica tras un seguimiento de 10 años. Tía materna diagnosticada de cáncer de ovario a los 45 años, fallecida a los 53 años. Abuela materna diagnosticada de carcinoma de ovario a los 52 años, fallecida a los 53 años. No otros antecedentes oncológicos familiares.
+En Agosto de 2012 comenzó con clínica de enrojecimiento de región dorsal de manos que fue extendiéndose de forma progresiva hacia el resto de su superficie corporal, asociado a astenia y dolores osteomusculares generalizados. Inició estudio por parte de Dermatología con perfil de autoionmunidad y biopsia cutánea con hallazgos compatibles con dermatomiositis.
+
+Exploración física
+Buen estado general, PS:0.
+Adenopatía laterocervical izquierda (nivel IV) de 2 x 2.5 cm, adherida a planos profundos, no dolorosa.
+ACP: tonos rítmicos a unos 80 sístoles por minuto. Buena ventilación bilareral, sin ruidos patológicos.
+Abdomen: Blando, depresible, ligeramente distendido con molestias en fosa iliaca derecha (impresiona masa a ese nivel), sin signos de peritonismo.
+
+Exploración dermatológica:
+Lesiones purpuriformes palpables en dedos de las manos, principalmente a nivel de eminencias óseas (nudillos y muñecas), así como en áreas de extensión. Lesiones exantematicas confluentes en ambos muslos. Eritema a nivel periocular.
+
+Exploración funcional:
+Dolor difuso articular, principalmente a nivel de muñecas y nudillos.
+Debilidad muscular en miembros, de predominio en miembro superiores. Fuerza y sensibilidad conservadas (5/5) ?Dermatografismo ++/+++
+
+Pruebas complementarias
+- Resultados analíticos:
+- Bioquímica: discreta elevación de transaminasas, marcada elevación de CPK-S (4132 U/L) y LDH (1211 U/L)
+- Marcadores tumorales: elevación de Ca 125 (568 ng/ml) y Ca 15.3 (343 U/ml). CEA y alfa-fetoproteina normales.
+- Autoinmunidad: ANA-IFI nuclear moteado a título 1/80, Anti-nDNA 22.3 WHO U/ml y Ac. anti-músculo liso (inmunofluorescencia indirecta) positivo a titulo 1/40.
+- TAC tórax/abdomen (01/06/2012) tumoración anexial derecha. Adenopatías retroperitoneales interaortocavas y paraaórticas.
+- Secuenciación masiva de los genes BRCA 1 y BRCA 2: se detectó cambio nucleotídico c.213-2 A>C en el gen BRCA 1.
+
+Diagnóstico
+Dado el cuadro compatible con proceso paraneoplásico se solicitó estudio de extensión con TAC tórax, abdomen y pelvis, en el que se objetivó masa anexial derecha por lo que fue derivada a Ginecología.
+Tras exploración ginecológica que confirmaba la existencia de la masa anexial y ante el hallazgo citológico sugestivo de carcinoma se valorar el caso de forma multidisciplinar en Comité de tumores ginecológicos se deriva a consultas de Oncología Médica para programar tratamiento.
+A su vez, se realizó PAAF de adenopatía laterocervical izquierda, con hallazgos citológicos compatibles con carcinoma, por lo que se programó exéresis del ganglio con resultado anatomopatológico de metástasis de carcinoma pleomórfico de alto grado.
+
+Tratamiento
+Se decidió iniciar tratamiento quimioterápico, esquema Carboplatino-Paclitaxel con intención neoadyuvante.
+Se realizó control radiológico tras tres ciclos, objetivándose respuesta parcial, con desaparición de adenopatía supraclavicluar y desaparición del cuadro de dermatomiositis desde el primer ciclo por lo que se programó intervención quirúrgica de máximo esfuerzo.
+Se consiguió realización de cirugía R0 con diagnostico anatomopatológico de adenocarcinoma de ovario seroso-papilar de alto grado.
+Posteriormente, completó otros tres ciclos de quimioterapia, manteniendo mismo esquema.
+
+Evolución
+Ante el diagnóstico de carcinoma ovárico en paciente con agregación familiar, fue derivada a las consultas de consejo genético y, tras asesoramiento genético, se solicitó estudio por secuenciación masiva de los genes BRCA 1/BRCA 2, siendo detectado mutación en el gen BRCA 1. Se completó estudio con mamografía, siendo negativa.
+Tras inciar estudio por la paciente (probando), siendo BRCA 1 (+), continuó el estudio familiar, objetivándose presencia de mutación patogénica en su madre. Se realizó exploración ginecológica y analítica con marcadores (Ca 125) siendo las mismas rigurosamente normales. Fue sometida a salpingooforectomía bilateral profiláctica a los 60 años, con el hallazgo anatomopatológico en pieza quirúrgica de carcinoma seroso papilar de ovario, estadio IA.
+
+Presentaban mutación dos de sus tres hermanos, una mujer y un varón de 36 y 28 años respectivamente. A su vez, se objetivó la mutación en una de sus primas maternas, cuya madre falleció por cáncer de ovario.
+Una de sus hermanas, con mutación BRCA 1 (+) continúa seguimiento estrecho en consulta de consejo genético, realizando control radiológico semestral con resonancia magnética mamaria, alternando con mamografía. Dado que tiene 36 años en la actualidad y que presenta deseos genésicos, no se ha realizado por el momento salpingooforectomía profiláctica.
+Respecto a la paciente, tras el tratamiento indicado, continúa seguimiento en la actualidad sin evidencia de recaída, realizando seguimiento habitual para carcinoma de ovario. Asimismo, se realizan controles en ambas mamas.

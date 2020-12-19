@@ -1,0 +1,44 @@
+ANAMNESIS
+Mujer de 66 años de edad, sin alergias medicamentosas conocidas (AMC) ni hábitos tóxicos. Obesa, hipertensa y con artrosis generalizada de años de evolución. Presenta cuadros de hiperreactividad bronquial frecuentes sin haberse filiado patología broncopulmonar previa. La paciente es ama de casa y no presenta antecedentes oncológicos familiares. Está en tratamiento con eprosartán 600 mg al día, un antiinflamatorio dos veces al día por los dolores óseos y un protector del estómago.
+
+En el año 2012 (con 63 años) comienza con cuadro de tos persistente y astenia de 4 meses de evolución, por lo que su médico de Atención Primaria solicita radiografía de tórax con hallazgo de condensación basal derecha y nódulos pulmonares múltiples en ambos campos pulmonares.
+
+La paciente es derivada al Servicio de Medicina Interna para completar estudio, realizándose una analítica completa con marcadores tumorales, que es normal, además de una tomografía computarizada (TC) toracoabdominopélvica, observándose nódulos pulmonares múltiples de mediano tamaño distribuidos en ambos campos pulmonares (lóbulos superiores, campos medios y lóbulos inferiores), condensación basal derecha y adenopatías mediastínicas macroscópicas en el espacio prevascular y paratraqueales derechas.
+
+Tras estos hallazgos se le realizó una fibrobroncoscopia, hallando mucosa de aspecto inflamatorio, sin observarse signos de infiltración, cuya biopsia fue negativa para células tumorales malignas (CTM), pero, en la citología del líquido pleural, se observaron células de hábito epiteloide con núcleos excéntricos, pleomórficos con citoplasma vaculado y con expresión de TTF1+, CK19 y NEGATIVIDAD para P63, mamoglobina, GCDP-15 y RE. Todo esto compatible con adenocarcinoma pulmonar. Se solicitaron las mutaciones EGFR: NATIVO y ALK negativo.
+Con diagnóstico de adenocarcinoma de pulmón derecho metastásico, inicia 1.ª línea de quimioterapia (QT) con cisplatino (CDDP)-pemetrexed el 31/10/2012. Recibe un total de 4 ciclos CDDP-pemetrexed con enfermedad estable (EE) tras el tercer ciclo, pasando a pemetrexed de mantenimiento el 23/1/2013.
+
+Durante el tratamiento con CDDP-pemetrexed presentó episodios de bronquitis.
+
+Tras 3 ciclos de pemetrexed de mantenimiento, se realizó una TC, observándose discreta disminución del tamaño de la masa pulmonar, pasando de 7,5 cm a 7 cm y el resto de nódulos pulmonares sin cambios, por lo que se consideró EE y se continuó con tratamiento bien tolerado, hasta diciembre de 2013, presentado en analítica aumento del antígeno carcinoembrionario (CEA) y progresión pulmonar tras 16 ciclos de pemetrexed.
+
+En enero de 2014 inicia 2.ª línea con docetaxel (75 mg/m2) a dosis reducidas 15 % por tratamiento previo. Presentando CEA basal: 3.186. Recibe un total de 16 ciclos (último el 19/11/14), con enfermedad estable en TC de control tras 3º., 7.º y 14.º ciclos. Como toxicidad cabe destacar diarrea grado 1 y alopecia grado 3 tras 1.er ciclo. Tras el 2.º y el 4.º ciclos relata astenia y artromialgias los 3 primeros días, bien tolerados a partir del ciclo 6.º, y tras ciclo 14.º, recibió tratamiento con levofloxacino por infeccioó faríngea. La paciente no presentó neurotoxicidad en ninguno de los ciclos.
+
+El 10/12/2014 se considera haber conseguido el máximo beneficio tras 16 ciclos de QT de 2.ª línea con docetaxel, por lo que se decide suspender y pasar a seguimiento. Pero en enero de 2015, la paciente presenta aumento de CEA (300) y en la primera TC de control se observa progresión pulmonar, por lo que se decide comenzar 3.ª línea con erlotinib, con indicación en ficha técnica.
+
+Inicia erlotinib el 26 de enero 2015 a dosis de 150 mg/ 24 h bien tolerado hasta que comienza con cuadro de mareo inespecífico a las 3 semanas de tratamiento y otalgia, motivo por la que es valorada por Otorrinolaringología, extrayendo un tapón de cerumen, y por Cirugía Maxilofacial, diagnosticando artritis en la articulación mandibular, por lo que se continuó tratamiento con erlotinib sin descanso. Tras 11 semanas de tratamiento, se realiza una TC de extensión el 15 de abril con mejoría radiológica pulmonar, pero persiste el cuadro vertiginoso, por lo que se solicita resonancia magnética (RM) cerebral.
+
+El 11 de mayo (15 semanas con erlotinib), la paciente acude a consulta fuera de citación por empeoramiento del cuadro vertiginoso, junto con aparición de parestesias en miembros inferiores (MMII), muslos e hipoestesia en periné, con episodios de incontinencia urinaria y fecal, sin dolor lumbar ni alteración motora. La paciente lo achaca todo al tratamiento con erlotinib, ya que inició esta clínica al poco tiempo de empezar el tratamiento, empeorando progresivamente. Finalmente, se decide suspender erlotinib a la espera del resultado de la RM cerebral.
+
+Una semana después, la paciente acude a resultado de la RM cerebral, que es normal, refiriendo que desde el descanso con erlotinb persisten hipoestesias en MMII, siendo menos intensas en muslos, aunque continúa con incontinencia urinaria y fecal, negáado en todo momento dolor de espalda. En este momento, ante resultado negativo de la RM cerebral, se decide ingreso para estudio de médula espinal.
+
+Exploración física
+ECOG 2. Consciente y orientada. Buen estado general. Obesa, normocoloreada, normohidratada, eupneica en reposo. No se palpan adenopatías periféricas. Auscultación cardiopulmonar: tonos cardiacos rítmicos, murmullo vesicular levemente disminuido en hemitórax derecho, sin ruidos patológicos sobreañadidos. Abdomen: globuloso, blando y depresible, no doloroso a la palpación, no se palpan masas ni megalias, ruidos hidroaéreos presentes. MMII: sin edemas ni signos de trombosis venosa profunda.
+
+Exploración neurológica: fondo ocular normal. Motilidad ocular extrínseca y resto de pares craneales normales. No hay un claro déficit motor. Reflejos osteotendinosos (ROT) 3+ con ROT vivos algo más izquierdos y arreflexia aquílea con Babinski bilateral. Hipoestesia distal en pies e hipopalestesia hasta últimos arcos costales. No se aprecia nivel en tronco. Marcha tabética con aumento de la base, precisa ayuda de andador, atáxica.
+
+Pruebas complementarias
+» Analítica: bioquímica (BQ) normal, excepto proteinas totales 6,4 g/dL; colesterol 205 mg/dL. CEA 152,7 ng/mL (previo 140); CA 125 8,4 U/mL, resto de BQ normal. Hemograma normal.
+» RM de columna completa (21/5/2015): se observa alteración de señal hiperintensa en la médula, siendo más marcada en bulbo, región periférica de mesencéfalo y protuberancia con extensión a pedúnculos cerebelosos. Todo ello, probablemente en relación con toxicidad por quimioterapia como primera posibilidad.
+» Punción lumbar (PL): líquido cefalorraquídeo (LCR) de aspecto claro y transparente, saliendo a una velocidad adecuada. Estudio citobioquímico: células 8; glucorraquia 29; proteínas: 028; hematíes 10 (glucemia tras la PL: 90 preprandial). Estudio microbiológico negativo. Citología: pendiente.
+
+Diagnóstico
+A los pocos días se obtuvieron los resultados de la citología del LCR: positivo para CTM. Sugestivo de afectación por carcinoma. Confirmándose una de las sospechas de polineuropatía secundaria a meningitis carcinomatosa (MC), tras el hallazgo de hipoglucorraquia en el estudio citobioquímico. Se ha solicitado estudio molecular en la citología del LCR, del que estamos pendiente.
+
+Tratamiento
+Al alta, antes de saber el diagnóstico definitivo, se prescribió erlotinib a dosis de 100 mg al día (debido a que presentó respuesta pulmonar y disminución del CEA durante el tratamiento y la a baja probabilidad de que la neurotoxicidad fuera secundaria al inhibidor de la ITK) y una pauta descendente de corticoides.
+
+Evolución
+La paciente se mantuvo estable durante el ingreso hospitalario, mejorando lentamente su clínica neurológica, aunque persistiendo hipoestesia en la parte distal de las extremidades y mejorando progresivamente la incontinencia de esfínteres y la marcha tebética tras el inicio de corticoides y descanso de erlotinib, descartándose compresión medular en la RM de columna. La paciente niega en todo momento cefalea, náuseas o vómitos.
+El caso fue valorado por parte de Neurología, concluyendo que el perfil temporal y el comportamiento clínico favorecen el diagnóstico de polineuropatía tóxica (PN), sugerido también tras los hallazgos de la RM.
+Fue dada de alta con diagnóstico de PN tóxica poco probable a erlotinib debido a la infrecuencia del cuadro, sin poder descartar neurotoxicidad tardía a docetaxel (que finalizó en diciembre 2014). En espera de los resultados de la citología para descartar MC del LCR ante el resultado de hipoglucorraquia, sugestivo de consumo en el estudio citobioquímico.

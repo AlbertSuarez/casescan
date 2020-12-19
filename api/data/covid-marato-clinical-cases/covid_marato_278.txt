@@ -1,0 +1,22 @@
+ANAMNESIS
+Nuestro paciente es un varón de 71 años en la actualidad con antecedentes de hipertensión arterial, dislipemia, EPOC grave y de una hemorragia digestiva alta Forrest IA secundaria a una úlcera duodenal que se controló endoscópicamente con clips hemostásicos y Hemospray en enero del 2018. Es fumador con un consumo acumulado de 55 años/paquete. No presenta otros antecedentes médicos, quirúrgicos ni familiares de interés. El tratamiento habitual del paciente era olmesartán, simvastatina y tiotropio junto con olodaterol inhalados en el momento del diagnóstico.
+
+EXPLORACIÓN FÍSICA
+ECOG 1. Consciente y orientado. Normocoloreado, normohidratado y normoperfundido. Eupneico. No se palpan adenopatías periféricas. Auscultación cardiaca: tonos rítmicos, sin soplos. Auscultación pulmonar: hipofonesis global. Abdomen: blando y depresible, no doloroso a la palpación, no se palpan masas ni visceromegalias, no signos de irritación peritoneal, peristaltismo conservado. No edemas en extremidades, no signos externos de artritis, no lesiones cutáneas. No focalidad neurológica.
+
+PRUEBAS COMPLEMENTARIAS
+En la radiografía simple de tórax realizada en el servicio de Urgencias, se apreciaba una masa pulmonar en el lóbulo inferior izquierdo que no estaba presente en la radiografía de tórax previa de enero del 2018. Durante el ingreso se completó el estudio de dicha masa pulmonar. En la espirometría se objetivaron los siguientes parámetros: FVC 70%, FEV1 35% y FEV1/FVC 39% con tratamiento broncodilatador. La broncoscopia no mostraba lesiones endobronquiales. En la TC y PET-TC se apreciaban una masa en el segmento posterior del lóbulo inferior izquierdo de 35 x 30 mm, afectación ganglionar hiliar ipsilateral y mediastínica ipsilateral y contralateral, y un nódulo pulmonar contralateral a nivel del lóbulo medio derecho de 10 mm. La resonancia magnética cerebral no mostraba lesiones metastásicas a dicho nivel.
+Por otro lado, se solicitó valoración a Reumatología durante el ingreso por la edematización de las manos y de los tobillos así como por la debilidad en extremidades inferiores. En el análisis sanguíneo presentaba unos valores de creatina quinasa (CK) de 9560 U/L, de lactato deshidrogenasa (LDH) de 1114 U/L y el estudio de autoinmunidad resultó negativo. Ante los hallazgos del laboratorio y la sintomatología del paciente, fue diagnosticado de una miopatía inflamatoria paraneoplásica. El 14 de noviembre del 2018 se inició tratamiento con prednisona 60 mg al día.
+
+ANATOMÍA PATOLÓGICA
+Con el fin de alcanzar un diagnóstico, se llevó a cabo una biopsia percutánea mediante TC del nódulo pulmonar localizado en la base pulmonar izquierda. El estudio anatomopatológico fue concordante con un Adenocarcinoma infiltrante pulmonar TTF1 positivo, PD-L1 del 90% en células tumorales, EGFR negativo, ALK negativo y ROS-1 negativo.
+
+JUICIO DIAGNÓSTICO
+Por lo tanto, el diagnóstico definitivo de nuestro paciente fue de un Adenocarcinoma de pulmón cT2a cN3 cM1a Estadio IV (por una única lesión pulmonar contralateral) PD-L1 90%, EGFR negativo, ALK negativo y ROS-1 negativo.
+
+TRATAMIENTO
+Se ofreció al paciente el tratamiento estándar de primer línea para carcinomas pulmonares no microcíticos con expresión de PD-L1 superior al 50% y con el resto del estudio molecular negativo. El 17 de diciembre del 2018 se administró el primer ciclo con Pembrolizumab a dosis de 200 mg.
+
+EVOLUCIÓN
+Tras el inicio de la corticoterapia, se solventó por completo la sintomatología reumatológica. Dados los indicios razonables de la pérdida de eficacia de la inmunoterapia con tratamientos corticoideos previos en pacientes afectos de carcinomas no microcíticos de pulmón, se inició una pauta descendente de la prednisona desde la primera visita en Oncología Médica. De este modo, la semana previa al inicio de la inmunoterapia, el paciente se encontraba con una posología de 10 mg de prednisona diarios y tras el primer ciclo, dicho tratamiento fue suspendido definitivamente. En los controles analíticos sanguíneos sucesivos, los valores de CK y LDH resultaron normales.
+El paciente ha permanecido asintomático, sin signos clínicos ni analíticos de miopatía inflamatoria. En el momento actual, la evaluación de respuesta por imagen tras el 3º ciclo de tratamiento con Pembrolizumab está pendiente de efectuarse.

@@ -1,0 +1,26 @@
+Anamnesis
+Varón de 67 años, con antecedentes de hipertensión arterial y fibrilación auricular, que acude al Servicio de Urgencias e ingresa en Aparato Digestivo en diciembre de 2011 por síntomas de ictericia, coluria, acolia, prurito generalizado, náuseas y disconfort abdominal en epigastrio. No refiere fiebre, sudoración nocturna ni síndrome constitucional.
+
+Examen físico
+ECOG 1, consciente, orientado, eupneico basal, normohidratado e ictericia franca. No presenta adenopatías periféricas palpables. Auscultación cardiopulmonar normal. Abdomen no doloroso a la palpación, sin masas ni megalias palpables y sin signos de irritación peritoneal. Extremidades sin alteraciones.
+
+Pruebas complementarias
+Bioquímica: bilirrubina total 19,6 mg/dl, directa 18,8 mg/dl, AST 125 U/l, ALT 291 U/l, GGT 153 U/l, FA 392 U/l, LDH 180 U/l, amilasa 68 U/l, CEA 1,63 U/ml y Ca 19.9 25 U/ml.
+Ecografía de abdomen: masa sólida en cabeza de páncreas de 5,2 x 4,5 cm con dilatación de la vía biliar extra e intrahepática.
+Colangiopancreatografía retrógrada endoscópica: infructuosa por protrusión de tumoración mucosa dura en colédoco.
+Tomografía computarizada toracoabdominal (TC): en porción posterior de la cabeza pancreática se visualiza una masa de crecimiento excéntrico retropancreático de 3,9 x 4,8 x 5,5 cm y adenopatías retropancreáticas de 1,4 cm.
+Laparotomía exploradora: tumor irresecable en cabeza pancreática con extensión hacia al hilio hepático y numerosas adenopatías.
+Anatomía patológica: muestra pancreática y adenopatías compatible con linfoma no Hodgkin B difuso de célula grande, con inmunofenotipo CD20, CD10, bcl 2, bcl 6 y MUM1 positivos; CD3 y CD5 negativos y Ki67 muy alto.
+Biopsia de médula ósea: sin signos de infiltración por linfoma.
+Tomografía por emisión de positrones (PET): captación en cabeza pancreática (SUVmáx: 4,8) e hipermetabolismo esplénico difuso.
+
+Diagnóstico
+Linfoma no Hodgkin B difuso de célula grande pancreático estadio IIAE. Índice pronóstico internacional 1 (bajo riesgo).
+
+Tratamiento
+El paciente inicia tratamiento en marzo de 2012 con rituximab-ciclofosfamida, doxorrubicina, vincristina y prednisona
+(R-CHOP) durante 6 ciclos.
+
+Evolución
+Se reevalúa la respuesta en julio de 2012 con un PET, con resultado de captación en cabeza pancreática (SUVmáx 3,6) y una TC que objetiva una disminución de la masa pancreática hasta 2,7 x 0,7 cm. Se concluye que se trata de una respuesta parcial y se decide administrar radioterapia de consolidación (40 Gy). Posteriormente, se realizan una PET y una TC de reevaluación con resultado de respuesta completa.
+Actualmente el paciente permanece en remisión completa a 18 meses del diagnóstico.

@@ -1,0 +1,26 @@
+Anamnesis
+Varón de 14 años sin antecedentes médico-quirúrgicos de interés, que acude a Urgencias por dolor en testículo derecho de aproximadamente una semana de evolución, sin otra clínica asociada
+
+Exploración física
+ECOG 0, Buen estado general. A la exploración genital, se observa testículo derecho aumentado de tamaño, con rubor y muy doloroso a la palpación, signo de Prehn negativo. El resto de exploración física no reveló hallazgos patológicos.
+
+Pruebas complementarias
+Se realiza ecografía testicular, que objetiva la presencia de al menos cuatro nódulos, el mayor de ellos de 2.4 cm, de naturaleza sólido-quística. Acompañando a los nódulos, se observan múltiples microcalcificaciones agrupadas en el polo inferior del testículo. Además, se extrae analítica con marcadores tumorales, evidenciando una b-HCG de 5471 y una alfafetoproteína de 0. Resto de hallazgos analíticos no patológicos.
+
+Diagnóstico
+En Abril de 2013, se realiza orquiectomía derecha, con resultado anatomopatológico de tumor mixto maligno de células germinales (coriocarcinoma 60% + teratoma maduro 40%). Como factor de riesgo presentaba invasión linfovascular.
+Tras la cirugía, se solicita estudio de extensión, en el que no se evidencia enfermedad a distancia, y marcadores tumorales postquirúrgicos con resultado de b-HCG 9 y alfafetoproteina 1. Por tanto, se estadifica como pT2cN0M0 S1 estadio IS
+
+Tratamiento
+Tras realizar criopreservación, en Mayo de 2013 inicia tratamiento citostático adyuvante según esquema BEP (cisplatino 20 mg/m2 días 1 a 5, etopósido 100 mg/m2 días 1 a 5 y bleomicina 30 mg días 2, 9 y 16) cada 21 días x 3 ciclos. Tras el primer ciclo normalización de marcadores tumorales.
+Como toxicidad presenta astenia grado II-III y fiebre neutropénica sin aislamiento microbiológico.
+Previo al segundo ciclo aparición de tos irritativa sin ruidos patológicos a la auscultación cardiopulmonar. Se solicita radiografía de tórax y prueba de difusión de CO, ambas normales, por lo que se administra tratamiento. Posteriormente persiste tos irritativa y, a pesar de la ausencia de hallazgos patológicos en las pruebas complementarias, se decide suspender bleomicina y continuar con cisplatino-etopósido hasta completar dos ciclos más de tratamiento. Tras la suspensión de bleomicina presenta resolución del cuadro respiratorio.
+
+Evolución
+En Septiembre de 2013, tras finalizar tratamiento citostático, se solicita reevaluación con marcadores tumorales dentro de la normalidad y TC toraco-abdomino-pélvico donde se objetivan infiltrados alveolares en ambas bases pulmonares, una adenopatía retroperitoneal interaorto cava de aspecto metastásico (que no se había evidenciado en TC previo), así como un trombo en la vena iliaca común izquierda.
+Se pauta tratamiento anticoagulante con heparina de bajo peso molecular y se decide completar estudio con PET-TC donde los infiltrados pulmonares muestran un incremento metabólico sugestivo de malignidad sin captación a nivel de adenopatía retroperitoneal. Se realiza broncoscopia que no evidencia lesiones endobronquiales y cuya citología es negativa para células neoplásicas. Tampoco existe aislamiento microbiológico en las muestras extraídas. Dados los hallazgos del PET-TC se decide realizarPAAF pulmonar con anatomía patológica negativa para malignidad. Se consultar el caso con Radiología y Neumología, interpretando las lesiones pulmonares como infartos pulmonares embolígenos secundarios a trombo en la vena iliaca.
+Se completa estudio con ecocardiografía para descartar embolismo séptico, evidenciando una miocardiopatía no compactada, en seguimiento a partir de entonces por Cardiología y sin evidenciar en revisiones posteriores repercusión clínica o hemodinámica de la misma.
+En Diciembre de 2013 los marcadores tumorales se encuentran dentro del límite de la normalidady en las pruebas de imagen se evidencia resolución casi completa de los infiltrados pulmonares y estabilidad de la adenopatía retroperitoneal. Dado el tiempo transcurrido desde el inicio de la anticoagulación y la alta sospecha de malignidad de la adenopatía retroperitoneal, se realiza exéresis de la misma con
+Anatomía Patológica compatible con teratoma maduro. Previo al acto quirúrgico se coloca filtro de vena cava inferior.
+Durante el seguimiento, en Mayo de 2014, en exploraciones complementarias se objetiva tromboembolismo pulmonar limitado a la rama periférica del lóbulo superior derecho. Se deriva a la Unidad de Trombosis quien realiza estudio de trombofilia con resultado negativo y mantiene filtro de vena cava hasta Septiembre de 2014 y anticoagulación hasta Octubre de 2014.
+Se ha continuado seguimiento establecido hasta el momento actual sin evidenciar enfermedad tumoral y con resolución casi completa de los infiltrados pulmonares.

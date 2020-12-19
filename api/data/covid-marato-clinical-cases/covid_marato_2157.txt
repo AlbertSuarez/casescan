@@ -1,0 +1,20 @@
+Anamnesis
+Mujer de 45 años sin alergias medicamentosas conocidas, diagnosticada en 2005 en Rumanía de un carcinoma ductal infiltrante de la mama izquierda por el que se le realizó una mastectomía radical modificada izquierda con resultado anatomopatológico de cacinoma ductal infiltrante pT2pN1 (2/10 ganglios afectos) M0, y apreciándose en el estudio inmunohistoquímico positividad para receptores de estrógeno y progesterona, sin estudio del Her2. Después, realizó radioterapia con 50 Gy en lecho tumoral y quimioterapia basada en antraciclinas (FEC x 6 ciclos). Posteriormente, recibió hormonoterapia con tamoxifeno y análogos LHRH mensual (Goserelin).
+Consulta en 2008 por presentar una gran tumoración en la pared torácica anterior izquierda de aparición progresiva.
+
+Examen físico
+Buen estado general. Consciente y orientada. Auscultación cardiopulmonar y exploración abdominal anodina. Ausencia de edemas y de signos de TVP. No hay adenopatías palpables.
+Destaca la presencia de una tumoración voluptuosa, palpable a nivel supramamario izquierdo, desde la zona supraclavicular izquierda hasta el hueco axilar izquierdo, no dolorosa, sin signos de inflamación.
+
+Pruebas complementarias
+TC tórax: gran formación sólida, lobulada heterogénea en región mamaria izquierda que infiltra la pared torácica y pleural de 12,5 x 8 cm de diámetro. BAG: infiltración por carcinoma compatible con primario de mama. Receptores de estrógenos y progesterona negativos y sobreexpresión de HER2 +++.
+
+Diagnóstico
+Recidiva de carcinoma ductal infiltrante con receptores de estrógenos y progesterona negativos, HER2 positivo.
+
+Tratamiento
+Se inició docetaxel + trastuzumab, en esquema trisemanal (11 ciclos). Al 6.º ciclo, se observó una disminución de la lesión tumoral torácica, pero por PET se observaba infiltración de las 1.ª y 2.ª costillas. Se realizó RT externa sobre tumoración (40 Gy) y sobre 1.ª y 2.ª costillas con respuesta parcial. Al mes, se suspendió el docetaxel y se continuó con trastuzumab trisemanal asociando posteriormente letrozol por tratarse de una mujer postmenopáusica con RH positivos en el tumor original.
+
+Evolución
+Tras un 1 año de supervivencia libre de progresión (SLP), se evidenció un discreto aumento de la lesión con aumento de la alteración ósea costal, por lo que se inició vinorelbina manteniendo el trastuzumab, con buena respuesta inicial.
+Tras 6 meses de SLP, la masa tumoral permanecía estable, pero aumentó la afectación costal, iniciándose nuevo esquema con capecitabina (1.000 mg/m2/12 h días 1-14 cada 21) + lapatinib (1.250 mg/día), con excelente tolerancia y obteniendo a los 4 meses respuesta completa por TC. Tras 17 meses de SLP, apareció una nueva progresión tumoral iniciándose doble bloqueo con lapatinib (1.000 mg/día)+ trastuzumab (6 mg/kg trisemanal) con SLP de 20 meses. Actualmente, se detecta progresión costal, planteándose nueva línea de tratamiento.

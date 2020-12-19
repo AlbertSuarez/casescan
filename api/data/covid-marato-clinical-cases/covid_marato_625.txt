@@ -1,0 +1,40 @@
+Anamnesis
+
+Varón de 73 años con antecedentes de cáncer de pulmón tratado con cirugía hace 20 años. No tiene otros antecedentes de interés.
+En estudio por Digestivo por alteración del tránsito intestinal, se realiza colonoscopia donde se objetiva masa en sigma que ocupa el 100 % de la circunferencia, colocándose endoprótesis. Días después presenta vómitos fecaloides, por lo que acude a Urgencias, precisando ingreso y cirugía urgente al existir una perforación intestinal a nivel de la prótesis. En la cirugía además se aprecia otra masa en colon transverso sugerente de tumor sincrónico.
+El resultado de la Anatomía Patológica fue:
+» Masa sigma: adenocarcinoma enteroide bien diferenciado con 10 % de componente mucosecretor. pT3N0.
+» Masa colon transverso: adenocarcinoma enteroide bien diferenciado. Infiltra toda la pared perforando serosa visceral e invade pared gástrica (pT4). Metástasis en 2/18 ganglios e implantes en serosa (pN1c).
+No hay evidencia de enfermedad metastásica a distancia.
+Tras la cirugía, es derivado a consulta de Oncología, decidiéndose iniciar tratamiento de quimioterapia adyuvante con esquema XELOX (capecitabina + oxaliplatino).
+Presenta buena tolerancia al tratamiento, como síntomas únicamente neurotoxicidad (parestesias en manos y pies los 3-4 días posteriores a la infusión). Un mes después del inicio de quimioterapia, comienza con pérdidas de memoria y olvidos frecuentes, previamente asintomático y sin antecedentes de deterioro cognitivo, por lo que se deriva a Neurología para valoración.
+Durante las siguientes semanas la evolución es tórpida, con deterioro cada vez mayor, más desorientado con sensación de mareo e inestabilidad, así como caídas con la deambulación. Al siguiente ciclo de quimioterapia acude en silla de ruedas, se decide interrumpir el tratamiento e ingresa para estudio.
+
+Exploración física
+» ECOG 2. Paciente caquéctico. Regular estado general. Estabilidad hemodinámica.
+» Neurológico: Glasgow 15/15. Parcialmente orientado en tiempo, espacio y persona. Leve disartria.
+» Sin parálisis facial, resto de pares craneales conservados. Déficit sensitivo-motor y campimétrico izquierdo.
+» Fuerza y sensibilidad sin alteraciones en los 4 miembros. Sin dismetría, ni disdiadococinesia. Bipedestación de forma autónoma. Marcha algo inestable. Romberg negativo. Reflejos osteotendinosos normales.
+» Auscultación cardiaca: tonos cardiacos rítmicos sin soplos audibles.
+» Auscultación respiratoria: murmullo vesicular conservado con crepitantes aislados en bases.
+» Abdomen: blando, depresible, no doloroso a la palpación. No hay signos de defensa ni peritonismo.
+» MMII: edemas perimaleolares en tobillo derecho.
+
+Pruebas complementarias
+» Analítica: bioquímica con parámetros dentro de la normalidad. Sin alteraciones iónicas. En hemograma destaca plaquetopenia.
+» TC de tórax-abdomen-pelvis: estudio sin hallazgos significativos ni signos de recidiva/diseminación tumoral por TC.
+RM cráneo
+» Dilatación del sistema ventricular y espacio subaracnoideo sugestiva de atrofia.
+»Algunas lesiones pequeñas hiperintensas en secuencias pT2 que no captan contraste en la sustancia blanca subcortical de aspecto inespecífico, aunque sugieren origen vascular.
+» No se observan masas, hemorragias ni infartos recientes.
+
+Diagnóstico
+Es valorado por Neurología, quienes amplían estudio analítico con normalidad de todos los parámetros. Tras descartar afectación tumoral e isquémica por pruebas de imagen, y dada la relación estrecha entre el inicio del tratamiento y la aparición de la sintomatología, sugieren que el cuadro de deterioro cognitivo subagudo es probablemente secundario a toxicidad por quimioterapia: leucoencefalopatía reversible por 5-fluorouracilo.
+
+Tratamiento
+Se suspende quimioterapia (capecitabina + oxaliplatino), habiendo recibido en total 5 ciclos. Se añade tratamiento para la agitación con quetiapina 25 mg y trazodona 100 mg.
+
+Evolución
+Durante el ingreso presenta una evolución estable, con persistencia del deterioro cognitivo y algún episodio de agitación nocturna que ha sido controlado con tratamiento. Precisa ayuda para todas las actividades básicas de la vida diaria y realiza vida cama-sillón, aunque es capaz de deambular con ayuda.
+Las semanas posteriores al alta muestra mejoría progresiva de la clínica con orientación en las 3 esferas, menos olvidos y mayor independencia. Ha desaparecido la disartria y los episodios confusionales.
+Continúa en revisiones en Oncología y Neurología.

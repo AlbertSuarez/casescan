@@ -1,0 +1,24 @@
+Anamnesis
+Mujer de 44 años, premenopáusica, sin antecedentes patológicos personales ni familiares de interés. Consultó por un nódulo en la mama izquierda de reciente aparición.
+
+Examen físico
+El examen físico reveló la presencia de un nódulo, localizado en el cuadrante superointerno (CSI) de la mama izquierda, sin afectación de la piel ni del complejo aréola-pezón. La exploración axilar fue anodina.
+
+Pruebas complementarias
+La mamografía, ecografía mamaria y una posterior resonancia magnética (RM), pusieron de manifiesto un nódulo de aspecto proliferativo sobre el CSI de la mama izquierda de 26 mm de diámetro máximo. BIRADS 4c.
+
+Diagnóstico
+Se realizó una biopsia con aguja gruesa (BAG), cuyo resultado anatomopatológico (AP) fue: carcinoma ductal infiltrante (CDI), grado III, Ki 67 > 90%. Inmunohistoquímica: RE-, RP-, HER2 -. Estadio IIA (cT2N0).
+
+Tratamiento
+Se inició tratamiento con quimioterapia neoadyuvante con esquema FEC (5-fluorouracilo, epirrubicina, cilofosfamida) por 4 ciclos, seguido de docetaxel por 4 ciclos. Pese a una aparente respuesta clínica inicial, tras finalizar la quimioterapia de inducción, la RM de mama de reevaluación mostró persistencia de una lesión de 22 x 22 x 24 mm en el CSI, prácticamente sin cambios. Fue intervenida mediante tumorectomía ampliada y linfadenectomía axilar nivel I, II.
+
+Diagnóstico anatomopatológico final
+Ante la escasa respuesta clínica y los hallazgos patológicos poco habituales en la pieza quirúrgica de tumorectomía, se realizó estudio inmunohistoquímico más amplio sobre la muestra. La anatomía patológica final de la pieza quirúrgica fue: melanoma amelanótico no cutáneo, tamaño 3 cm. Inmunohistoquímica: HMB45, melan-A , S-100 y vimentina positivos. RE, RP y HER2 negativos. p53 < 50%. Márgenes libres de tumor (> 2 cm). Ganglios linfáticos aislados, libres de tumor.
+
+Evolución
+Se realizó evaluación dermatológica exhaustiva en busca del tumor primario, sin encontrarse lesiones sospechosas en piel ni mucosas. El estudio de extensión descartó enfermedad a distancia. Por lo que, basados en los hallazgos clínicos y el resultado de la AP, el diagnóstico definitivo fue melanoma maligno amelanótico no cutáneo de mama.
+Se administró RT adyuvante con 50 Gy sobre la mama izquierda con fotones de 6 Mv, a 2 Gy/fracción, 5 días/semana y posterior sobreimpresión en el lecho hasta 60 Gy, con electrones de 18 Mev, con el mismo régimen.
+Veintiocho meses después presentó recidiva local en el CSI, realizándose mastectomía izquierda con resultado de anatomía patológica que confirmó la presencia de un melanoma amelanótico con infiltración de la dermis, pleomorfismo nuclear severo, > 50 mitosis/10 HPF y márgenes de resección libres.
+Se decidió, tras descartar presencia de metástasis a distancia, la administración de inmunoterapia adyuvante con interferón alfa-2b a altas dosis, durante un año.
+Actualmente, la paciente se encuentra libre de enfermedad clínica y radiológica, con una supervivencia global de 4,2 años desde el diagnóstico inicial y un intervalo libre de enfermedad tras la recidiva de 23 meses.

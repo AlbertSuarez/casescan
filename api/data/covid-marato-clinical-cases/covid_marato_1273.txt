@@ -1,0 +1,23 @@
+Anamnesis
+Varón de 50 años procedente de República Dominica. No RAMC. Hipertenso en tratamiento farmacológico, sin otros antecedentes relevantes.
+Ingresa en Oncología Médica por toxicidad digestiva secundaria al tratamiento, mareo con giro de objetos presente desde el diagnóstico oncológico y disminución de fuerza de miembros inferiores de 72 horas de evolución que impide la deambulación. No asocia alteración de la sensibilidad, relajación de esfínteres, alteración del hábito intestinal ni otra sintomatología.
+Historia oncológica: en julio de 2012 ingresa para estudio por hematemesis y síndrome constitucional, siendo diagnosticado de adenocarcinoma gástrico difuso con infiltración de médula ósea secundaria, HER-2/neu negativo.
+Estudio de extensión negativo, incluyendo afectación SNC. Hasta el momento del ingreso el paciente había recibido tres ciclos de cisplatino-5 fluorouracilo.
+
+Examen físico
+ECOG (Eastern Cooperative Oncologic Group) 4. Consciente y orientado en las tres esferas. Pupilas isocóricas y normorreactivas. Pares craneales sin alteraciones. Fuerza y sensibilidad de miembros inferiores conservadas. Fuerza de miembros inferiores 2/5. Arreflexia bilateral. Sensibilidad conservada. Dolor a la palpación en espinosas a lo largo de toda la columna vertebral.
+
+Pruebas complementarias
+Análisis: Hb 8,4 g/dl; leucocitos 8.450 (7380 N 720 L); plaquetas 28.000/μL; AP 48 %; Creat 1,1 mg/dl; Na 132.9 mEq/l; K 4,80 mEq/L BT 0,70 mg/dl; GOT 65 U/l; GPT 32 U/l.
+Resonancia magnética (RM) de columna vertebral: se observa alteración generalizada de la señal de los elementos vertebrales cérvico-dorsales. No deformidades sugestivas de fracturas ni improntas óseas sobre el canal raquídeo.
+Tejido adiposo epidural ocupando gran parte del canal raquídeo dorsal y reduciendo su diámetro en más del 50 % a nivel dorsal medio. No se identifica deformidad medular clara, pero no se visualiza LCR premedular en el segmento D5-D8. Existe una imagen hipointensa intra o perimedular anterolateral izquierda de etiología dudosa. Grasa epidural prominente a nivel L5-S1.
+Se solicita de manera preferente tomografía computarizada (TC) craneal para estudio del cuadro de mareo compatible con vértigo periférico para descartar afectación secundaria dada la escasa respuesta a sedantes vestibulares que finalmente no se realiza.
+
+Diagnóstico
+Déficit neurológico agudo secundario a lipomatosis epidural.
+
+Tratamiento
+Se inicia corticoterapia a altas dosis hasta diagnóstico. El paciente es valorado por Neurocirugía que, dado el estado avanzado de la enfermedad, así como escasas posibilidades de respuesta al tratamiento oncológico, no considera al paciente subsidiario de actitud quirúrgica.
+
+Evolución
+El paciente presenta deterioro brusco del nivel de conciencia, certificándose éxitus horas más tarde.

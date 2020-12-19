@@ -1,0 +1,34 @@
+Anamnesis
+Este caso versa sobre una mujer de 60 años, sin antecedentes personales de interés, que a raíz de autopalparse un nódulo de nueva aparición en la mama izquierda, sospechoso en la mamografía, se diagnostica en el 2005 de cáncer de mama lobulillar infiltrante.
+
+Exploración física
+Se aprecia en cuadrante superoexterno de mama izquierda una nodulación indurada, de bordes bien delimitados de aproximadamente 20 mm de diámetro mayor. En la exploración ganglionar no se objetivan adenopatías patológicas en los territorios axilares, supra e infraclaviculares ni cervicales.
+
+Pruebas complementarias
+Se realizó mamografía bilateral, diagnosticándose una lesión en cuadrante superior externo altamente sugestiva de malignidad, con una categoría radiológica BIRADS 5.
+
+Diagnóstico
+Se procede entonces a realizar mastectomía izquierda y vaciamiento axilar, siendo finalmente diagnosticada de un carcinoma lobulillar infiltrante pT2 (25 mm) pN0 (0/12 ganglios) pM0, estadio IIA, con RE + (90-100 %), HER-2 - e índice de proliferación Ki-67 del 10 %.
+
+Tratamiento
+Por problemas de digitalización de la historia clínica, no puedo tener acceso a los motivos que llevaron por aquel entonces a completar el tratamiento adyuvante exclusivamente con hormonoterapia en vez de añadir quimioterapia, que era el estándar en aquella época.
+Sea como fuere, la paciente completó 5 años de anastrozol (inhibidor de aromatasa).
+
+Evolución
+En 2008, ante antecedentes familiares de primer grado de cáncer de mama (hermana con cáncer de mama a los 50 años) se procede a valorar estado mutacional de los genes BRCA, siendo ambos negativos.
+A pesar de ello, ante la historia familiar y deseos de la paciente se procede a mastectomía profiláctica derecha, descubriéndose de forma incidental en el estudio anatomopatológico de la pieza quirúrgica un cáncer de mama contralateral infiltrante metacrónico, de aproximadamente 7 mm, sin ganglios afectos clínicamente, con un perfil IHQ igual que el tumor acaecido en 2005 (pT1b, pN0, pM0, estadio IA).
+Como ya estaba en tratamiento adyuvante con anastrozol se decidió continuar con dicho tratamiento, completando 5 años a partir del último tumor (finalizando en 2013, en total 8 años).
+Asintomática durante el seguimiento, con un intervalo libre de enfermedad (ILE) en torno a 6 años, en junio de 2014 comienza a objetivarse analíticamente ascenso progresivo del marcador tumoral antígeno carbohidrato 15,3 (Ca 15,3) con un evolutivo de 30 —> 92 — >116 U/ml (valores de referencia en laboratorio [0 - 40] U/ml).
+Finalmente, en julio de 2014, en estudio de extensión por tomografía computarizada (TC), se confirma recaída de la enfermedad con afectación ósea a nivel vertebral dorsal y lumbar; y en hueso iliaco izquierdo.
+Ante el panorama de enfermedad metastásica sin afectación visceral, con recaída tardía tras el tratamiento hormonal se decide inclusión en el estudio MONALEESA 2.
+Se trata de un ensayo clínico fase 3 aleatorizado donde se incluían mujeres postmenopáusicas RE+/HER-2- con enfermedad avanzada. En éste se aleatorizaban a las mujeres a tratamiento de primera línea con ribociclib (600 mg/24 h durante 21 días con una semana de descanso) más letrozol (2,5 mg/2 4h continuo) frente a letrozol exclusivamente.
+En este estudio, los resultados fueron positivos para ribociclib, lográndose el objetivo primario que era medir la PFS: añadir ribociclib a letrozol se asociaba con un incremento clínicamente significativo de la PFS (25,3 vs. 16 meses; HR 0,568 [0,457; 0,704], p = 9,63 x 10-8) (3).
+Otros datos interesantes que arrojaba este estudio es que en todos los subgrupos independientemente de edad, ECOG, número de localizaciones metastásicas, tratamientos previos, etc., se veían igualmente favorecidos de la adición del inhibidor de ciclinas, con un perfil de toxicidad muy favorable y sin deterioro de la calidad de vida.
+Nuestra paciente inició el ciclo 1 de tratamiento el 28 de julio de 2014 con un buen estado general, prácticamente asintomática y con un performance status valorado por la escala del Eastern Cooperative Oncology Group (ECOG) de 0.
+Con una buena tolerancia al tratamiento, como toxicidades asumibles presentaba astenia grado 1 y artromialgias grado 1, sin deterioro de su ECOG ni de la calidad de vida.
+En cuanto a la neutropenia, toxicidad más común con inhibidores de ciclinas (datos de MONALEESA 2: neutropenia grado 3-4 en el 60 % del grupo con ribociclib vs. 0,9 % con placebo), desde el ciclo 3 comienza a presentar neutropenias grado 3 con necesidad de retrasar el tratamiento, teniendo que desescalar dosis por protocolo en el ciclo 8 a ribociclib 400 mg/placebo, lo que nos orientaba a que la paciente se encontraba en el brazo experimental.
+Por el mismo motivo, en el ciclo 40, tuvimos que reducir a la mínima dosis aceptada por el ensayo, con ribociclib 200 mg/placebo, dosis que actualmente mantiene.
+A nivel de pruebas complementarias, se revalúa habitualmente por TC toracoabdominal y gammagrafía ósea (GGO) por protocolo de ensayo, describiéndose estabilidad de la enfermedad prácticamente desde el principio, comenzando a ver respuestas parciales radiológicas en la gammagrafía ósea realizada en el ciclo 25.
+Dada la larga supervivencia de la paciente, comienzan a asomar dudas de si realmente la paciente se encontraba desde su inicio en un estadio metastásico, y las lesiones óseas eran tales, por lo que se decide a partir del ciclo 40 realizar fuera de ensayo una tomografía por emisión de positrones (PET/TC), que efectivamente objetiva reiteradamente lesiones blásticas óseas en cuerpo vertebral L3 y articulación sacroiliaca izquierda, metabólicamente positivas y sugestivas de malignidad, motivo por el que se decide continuar el tratamiento.
+La situación actual es que la paciente a fecha de abril de 2018 ha completado su ciclo 50 de tratamiento.
+Se encuentra con excelente estado general, con toxicidades grado 1 como astenia y artromialgias bien toleradas, que no deterioran su vida, con un ECOG 0 y con estabilidad clínica y radiológica (por PET/TC, TC y GGO) de su enfermedad ósea metastásica.

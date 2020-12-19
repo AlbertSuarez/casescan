@@ -1,0 +1,39 @@
+Anamnesis
+Mujer de 50 años sin alergias medicamentosas conocidas, ex-fumadora de 20 cigarrillos al día y sin antecedentes médicos de interés, que consulta en Abril de 2010 por episodios de falta de equilibrio y alteraciones de la sensibilidad en manos y pies.
+
+EXPLORACION FÍSICA
+TA 130/80 mmHg, fc 85 lpm, Sat O2 96 % basal, afebril.
+No se palpan adenopatías periféricas.
+Auscultación cardíaca rítmica, sin soplos.
+Auscultación pulmonar: ruidos respiratorios conservados.
+Abdomen blando, sin palpar masas ni visceromegalias.
+No edemas en MMII ni datos de TVP.
+Exploración neurológica: paresia 4/5 de predominio distal en las cuatro extremidades, más evidente en mano derecha (debilidad en la pinza, abducción-adducción y flexo-extensión). Arreflexia generalizada.
+Marcha inestable con aumento de la base de sustentación y dificultad para caminar sobre puntas/talones y realizar giros.
+
+PRUEBA COMPLEMENTARIAS:
+Ingresa en Neurología para estudio.
+Se realiza estudio de líquido cefalorraquídeo con serologías y citología que resultan negativas.
+La RM cerebral es normal y en la RM medular describen una polirradiculopatía inflamatoria.
+Los potenciales evocados somatosensoriales son compatibles con una afectación de la vía somatosensorial de predominio en miembros inferiores.
+Los anticuerpos antiHU resultan positivos.
+Ante la sospecha de síndrome paraneoplásico se solicita radiografía de tórax en la que destaca ensanchamiento mediastínico. En TAC torácica se describen adenopatías mediastínicas, paratraqueales e hiliares derechas que se confirman como patológicas en PET, con captación en foco hiliar izquierdo. Se realiza biopsia de adenopatía mediastínica por videotoracoscopia que es positiva para carcinoma no microcítico pulmonar. El estudio de extensión es negativo.
+
+DIAGNÓSTICOS:
+- CARCINOMA MICROCITICO DE PULMÓN ENFERMEDAD LIMITADA A TORAX (cTxN3M0,
+ESTADIO IIIB).
+- POLINEUROPATÍA SENSITIVA ANTI-HU Y SINDROME DE EATON LAMBERT
+PARANEOPLÁSICOS.
+
+Tratamiento
+Se propone tratamiento de intención radical con Quimioterapia/Radioterapia concomitante (esquema Turrisi modificado) : cisplatino-etopósido x 4 ciclos concomitante desde 2º ciclo con RTE hiperfraccionada 45 Gy a 1.5 Gy/fracción, 2 veces al día que finaliza el 11/08/2010).
+En controles post-tratamiento, se objetiva respuesta radiológica completa.
+Tras finalizar el mismo refiere de nuevo ataxia e incapacidad para agarrar fácilmente objetos, lo que le impide autonomía de ABVD. Se instaura tratamiento con inmunoglobulinas intravenosas durante 1 año con mejoría.
+
+EVOLUCIÓN:
+En Julio de 2012 (23 meses desde que finalizó el tratamiento) consulta por diplopía y disfonía. Ingresa para estudio y se descarta recidiva por imagen. Tras reiniciar tratamiento con Inmunoglobulinas, corticoides e inhibidores de la acetilcolinesterasa, se objetiva mejoría clínica.
+En Diciembre de 2012 la paciente refiere empeoramiento clínico, con disfagia intensa, atragantamientos frecuentes y disfonía, objetivándose en TAC del 19/12/12 aparición de lesión espiculada en hilio derecho (intervalo libre de progresión (ILP) 23 meses). Se decide retratamiento con Carboplatino y VP-16 (6 ciclos, con reducción de dosis y soporte con G-CSF por toxicidad hematológica), que finaliza el 09/04/2013 con buena respuesta en TAC de control por lo que se remite para valorar reirradación torácica de consolidación, que la paciente rechaza.
+En enero de 2014 (ILP 9 m) presenta nueva recidiva local. Tras 3 ciclos de carboplatino/etopósido se obtiene respuesta. Se ofrece de nuevo la posibilidad de reirradación, que acepta. Recibe 45 Gy de RT externa, finalizando el 2/8/14.
+Posteriormente inició revisiones; con nueva recidiva, confirmada mediante biopsia en lóbulo superior derecho el 27/05/15 (ILP 13 m). Dado el largo ILP y la buena respuesta obtenida previamente se decide retratar con carboplatino-etopósido ("4º retratamiento") con necesidad de reducir dosis al 2º ciclo por náuseas y astenia. Tras 3 ciclos presenta respuesta parcial.
+Ingresa posteriormente por derrame pericárdico severo incidental. Se realiza pericardiocentesis con drenaje de líquido pericárdico (200 cc) que se remite para estudio, con citología negativa para malignidad. Completa 6 ciclos de QT en octubre 2015 e inicia seguimiento. En TAC de control de enero 2016 presenta progresión mediastínica y derrame pleural ipsilateral.
+Se decide tratamiento sintomático y finalmente la paciente es éxitus en febrero 2016.

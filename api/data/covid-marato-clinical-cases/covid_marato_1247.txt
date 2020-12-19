@@ -1,0 +1,34 @@
+Anamnesis
+Mujer de 76 años con limitación de la movilidad por escoliosis degenerativa y artrosis. En tratamiento con dexketoprofeno por dolor. En 2011 es diagnosticada de anemia de trastorno crónico. Sin antecedentes familiares de interés oncológico.
+El 05.03.13 acude a Consulta de Cirugía derivada por su médico de cabecera por nódulo axilar izquierdo duro de 3 cm.
+Se realiza biopsia ganglionar axilar el 04.04.13 con anatomía patológica de LDCGB, perfil inmuhistoquímico de tipo no centro germinal.
+El 22.04.13 es valorada en Oncología. Presenta PS 2 por artrosis. No refiere pérdida de peso ni apetito. No presenta astenia. Sin síntomas B. Se completa estadificación y se planifica tratamiento con R-miniCHOP.
+El 11.05.13 acude a Urgencias por malestar general y síndrome emético. Refiere una deposición blanda. No tiene prurito. Sin fiebre en domicilio. No tiene tos ni expectoración.
+
+Examen físico
+Consciente y orientada. Sin ictericia. Estable hemodinámicamente. Fiebre 38,4 ºC. A nivel axilar izquierdo se palpan varias adenopatías mayores de 2 cm, aumentadas de consistencia y formando un bloque. No se observan adenopatías en otras regiones.
+
+Pruebas complementarias
+Ecografía: adenopatías hipoecoicas de 3 x 1,5cm en axila izquierda.
+Biopsia ganglionar axilar: LDCGB. Perfil inmunohistoquímico de tipo no centro germinal. Ki67 superior al 80 %.
+LDH 374 U/l, beta2-microglobulina 0,38 mg/dl. Hemoglobina 8,7 g/dl.
+Tomografía computarizada (TC) cervical: varias adenopatías de 1 cm en el espacio cervical posterior derecho y supraclavicular izquierdo.
+TC torácica: gran conglomerado axilar izquierdo, la mayor de 2,5 cm.
+TC abdominopélvica: adenopatías paraaórticas izquierdas a nivel de la bifurcación, en cadenas ilíacas externas y a nivel inguinal bilateral.
+Serologías de VHC, VHB, VIH negativas.
+Al ingreso: bilirrubina total 2,8 mg/dl (directa 1,8 mg/dl), GOT 568 U/l, GPT 677 U/l, hemoglobina 9,7 g/dl.
+Radiografía tórax: sombra retrocardíaca izquierda.
+
+Diagnóstico
+LDCGB, Ann-Arbor III, IPI 2.
+Hiperbilirrubinemia e hipertransaminasemia en relación con hepatitis tóxica por hierba de San Juan.
+Síndrome febril en relación con neumonía.
+
+Tratamiento
+Se inicia tratamiento antibiótico con evolución favorable de la infección respiratoria.
+Se vuelve a reinterrogar a la paciente y comenta que en su domicilio toma hierbas medicinales, entre las cuales se encuentra la hierba de San Juan.
+El 16.05.13 se administra el primer ciclo de quimioterapia tipo R-miniCHOP con buena tolerancia inicial.
+
+Evolución
+Transcurridos 7 días de la administración de la quimioterapia, presenta fiebre de 38 ºC, por lo que, tras nueva analítica, se descarta neutropenia febril.
+Actualmente, se encuentra a seguimiento en Consulta de Oncología donde sigue tratamiento con R-miniCHOP.

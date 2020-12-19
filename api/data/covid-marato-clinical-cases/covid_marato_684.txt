@@ -1,0 +1,51 @@
+Anamnesis
+Antecedentes familiares: Sin interés oncológico.
+
+Antecedentes personales:
+No alergias medicamentosas conocidas.
+Ocupación: Prejubilado trabajó en cubiertas de tejado.
+Hábitos tóxicos: Fumador inveterado de 1 cajetilla de cigarrillos diario durante más de 30 años.
+Abandono del hábito enólico hace más de 12 años.
+Comorbilidades: Cardiopatía isquémico-hipertensiva con IAM en 2009. Diabetes mellitus insulino-dependiente. EPOC tipo enfisematoso.
+Ciugías: Aneurisma vascular intracraneal (1998).
+
+ONCOLÓGICO
+
+En 2009 se diagnostica de carcinoma renal bilateral, por lo que se le realiza nefrectomía conservadora de nefronas derecha (carcinoma papilar) y radical izquierda (carcinoma de células claras).
+
+En abril de 2013 presenta neoplasia vesical realizándose RTU que se informa de carcinoma urotelial de vejiga, pT1 G3.
+Enfermedad renal crónica (ERC) como consecuencia de la cirugía y difícil control de la tensión arterial (TA).
+En julio de 2015 en estudios de seguimiento por el Sº de Urología se demuestra enfermedad diseminada con recidiva en polo inferior de riñón derecho residual, nódulo pulmonar basal izquierdo y lesión lítica iliopubiana derecha, confirmada por PET-CT y por biopsia dirigida por TC. El paciente presenta dificultad en el seguimiento con pruebas con contraste yodado y gadolinio por la ERC residual por sólo contar con medio riñón derecho.
+Por lo anterior es remitido al Sº de Oncología Médica para valorar tratamiento sistémico, y en ese momento su queja principal es el dolor en la cadera derecha.
+
+Exploración física
+ECOG 1. Obesidad. Boca sin foco séptico activo. No adenopatías cervicales, axilares ni inguinales.
+Corazón rítmico. Campos pulmonares con murmullo vesicular globalmente disminuido. Abdomen no doloroso, no se accede a masas. Miembros simétricos sin edemas, leve dolor a la movilización activa de la cadera derecha. No focalidad neurológica.
+
+Pruebas complementarias
+Bioquímica basal agosto 2014: Creatinina 2.76 mg/dl, Calcemia 2.37mmol/l, Hb 13, leve neutrofilia de 7500, no trombocitosis, LDH 173 UI/l TC toracoabdominal sin contraste abril 2014: Estudio sin contraste intravenoso por ERC. Nódulo en LII de 13mm. Quiste simple hepático en LHI. Alteraciones postquirúrgicas secundarias a nefrectomía radical izquierda y parcial derecha, sin signos de recidiva local. En el polo inferior renal derecho, se identifica un nódulo de 30mm, en estudio de 2009 medía 2cm. Pequeña aumento de partes blandas en la celda perirrenal derecha, que podría ser de carácter postquirúrgico. Adenopatías subcentimétricas en tronco celíaco y paraaórticas izquierdas, inespecíficas. Ganglios mesentéricos calcificados.
+RM abdomen junio 2014: Sin gadolinio por ERC. En el polo inferior del remanente renal derecho se identifica un nódulo de 28 x 30 mm que muestra un halo de baja señal y un contenido heterogéneo, que parece haber aumentado levemente de tamaño con respecto a RM previa de 2013 (26x25mm) con un crecimiento algo más evidente con respecto a TC previo del año 2009 donde medía 21x18 mm.
+PET-CT julio 2014: Nódulo pulmonar LII, nódulo en polo inferior de riñón derecho, lesiones óseas en rama iliopubiana derecha compatible con metástasis.
+MUGA agosto 2014: FEVI obtenida en reposo de 38%.
+
+Diagnóstico
+Carcinoma renal mixto (células claras y papilar) estadio IV
+Grupo pronóstico: Intermedio.
+Carga tumoral: Polor renal inferior derecho, pulmonar en LII, óseo en rama iliopubiana derecha.
+
+Tratamiento
+Como primer paso y dado que el único síntoma del paciente era el dolor de la cadera derecha, se realizó radioterapia con intención antiálgica sobre rama iliopubiana derecha con una dosis total de 30Gy.
+Posteriormente y dada la baja FEVI (38%) se desestima tratamiento con sunitinib y se le ofrece alternativa con bevacizumab (10mg/kg IV cada 15 días) asociado a interferón alfa-2a (3MUI SC L,X,V).
+
+Evolución
+El primer estudio tras 2 meses de tratamiento fue un TC sin contraste por la ERC del paciente, el mismo mostraba una disminución de más del 50% de la lesión pulmonar y no se observa la lesión en polo renal inferior.
+Sin embargo, como era esperable, precisó reducción de intensidad de dosis desde el tercer mes de forma progresiva hasta quedar con dosis de bevacizumab a 5mg/kg a partir del quinto mes por HTA grado 2 y proteinuria de 2+. Desde entonces el paciente continuó tratamiento sin efectos tóxicos importantes con TA<150/90mmHg.
+Trsa un año de tratamiento se realiza PET-TC para conocer la existencia de enfermedad metabólicamente activa:
+PET-CT agosto 2015: Nódulo en LII de muy bajo metabolismo glicídico (SUVmax= 2.4 g/ml), de dudosa significación patológica. En cavidad abdominal no se observan focos hipermetabólicos. Persiste metabolismo de baja intensidad en la metástasis ósea conocida en rama iliopubiana derecha (SUVmax= 3.28 g/ml).
+En Octubre de 2015 presenta reaparición de la clínica de dolor en la cadera izquierda, por lo que se inician bisfosfonatos ajustados a la función renal con escasa mejoría y empeoramiento del filtrado glomerular (desde 33 hasta 23ml/min), por lo que modifica el tratamiento a denosumab 120mg SC cada 28 días.
+El paciente presenta gran mejoría clínica y de la función renal tras el cambio de fármaco, que se confirma por imagen.
+PET-CT enero 2016: Nódulo en LII de muy bajo metabolismo glicídico sin cambios respecto a estudio previo (SUVmax= 2.86g/ml). La lesión ósea descrita en rama iliopubiana derecha en el estudio actual
+NO muestra avidez glicídica significativa.
+Ante el deterioro progresivo de la función renal con elevación de la creatinina y disminución del filtrado glomerular, y dada la excelente respuesta al tratamiento, en marzo de 2016 detenemos tratamiento con bevacizumab e IFN y mantenemos denosumab.
+PET-CT junio 2016: Sin cambios.
+El paciente permanece asintomático y en descanso terapéutico tras haber alcanzado una respuesta casi completa de su enfermedad.

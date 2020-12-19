@@ -1,0 +1,36 @@
+Anamnesis
+Varón de 78 años sin alergias medicamentosas conocidas, con múltiples factores de riesgo cardiovascular (hipertensión arterial, dislipemia, obesidad, exfumador con consumo acumulado tabáquico de 60 paquetes-año), cardiopatía hipertensiva establecida, estenosis carotídea intervenida y enfermedad pulmonar obstructiva crónica (EPOC) que consulta en junio de 2017 por episodios repetidos de hematuria.
+Se realiza ecografía de abdomen y pelvis, donde se objetiva una lesión vesical sospechosa de malignidad de unos 3 cm. En julio de ese mismo año, y ante la alta sospecha de neoformación maligna vesical, se practica resección transuretral (RTU), confirmándose en la cara anterior vesical una tumoración papilar sólida de 3 cm de tamaño que se reseca y se manda a anatomía patológica para su análisis.
+En septiembre de 2017, el estudio de extensión mediante tomografía computarizada (TC) muestra varios micronódulos pulmonares bilaterales situados en lóbulos superiores, el mayor de ellos de 8 mm y aconsejando el radiólogo seguimiento, al no alcanzar el tamaño significativamente patológico. Se describe también una lesión en la pelvis renal izquierda de unos 10 x 18 mm sospechosa de malignidad, dado el contexto del paciente. Y se confirma la alteración morfológica de la vejiga con desplazamiento anterior y con un engrosamiento parietal fundamentalmente en la pared fúndica.
+Además, adenopatía patológica de 13 mm en cadena iliaca externa proximal izquierda.
+De forma casi simultánea, el paciente consulta por ojo rojo doloroso de 6-7 días de evolución junto con visión borrosa y secreción escasa. Durante la exploración ocular presentaba Tyndall +, siendo diagnosticado de uveítis anterior aguda. En la exploración mediante tomografía de coherencia óptica (OCT) se objetiva una masa en cara anterior de iris en ojo izquierdo de la cual se toma muestra para citología por punción aspiración aguja fina (PAAF), que se describe como "sospechosa pero no concluyente de malignidad" por IHQ positiva a CK7.
+Así, en noviembre de 2017 acude a la consulta de Oncología donde no presenta en ese momento clínica urológica (ni dolor, ni hematuria). Teniendo en cuenta las comorbilidades del paciente, se decide iniciar tratamiento para la enfermedad avanzada con carboplatino y paclitaxel trisemanal.
+Además, durante ese mismo mes, desde el servicio de Oftalmología, inician tratamiento con bevacizumab intraocular.
+
+Exploración física
+Peso 90 kg. Talla 174 cm. Buen estado general. ECOG 1. Auscultación cardiaca rítmica sin soplos audibles. Auscultación pulmonar con buena ventilación en ambos campos y sin ruidos patológicos presentes. Sin hallazgos relevantes a nivel abdominal. Miembros inferiores sin edemas ni signos inflamatorios agudos.
+
+Pruebas complementarias
+Diagnóstico anatomopatológico (RTU): carcinoma sólido urotelial de alto grado (G3) que invade la capa muscular profunda (T2b).
+PAAF ojo izquierdo: mínimas placas de células con discreta atipia y con restos apoptóticos entre ellas. Se realiza IHQ que muestra ligera positividad de algunas de las células para CK7 y resultando negativas para el marcador de melanoma (S100). Por tanto, el patólogo afirma que, aunque las alteraciones son sospechosas, debido a la citología muy poco celular, no son totalmente concluyentes de malignidad.
+Biomicroscopía ultrasónica (BMU) del ojo izquierdo: masa a nivel del iris invadiendo parcialmente esfínter pupilar, sin daño a nivel de cara posterior de iris ni cuerpo ciliar.
+TC de cuerpo completo al diagnóstico informa de micronódulos pulmonares, engrosamiento focal vesical, lesión intrapélvica renal izquierda y adenopatía patológica (13 mm) en cadena iliaca externa izquierda.
+TC de control en febrero 2018 tras 4 ciclos de QT: disminución del tamaño de los micronódulos pulmonares (midiendo el de mayor tamaño), mantenimiento del engrosamiento focal vesical, lesión renal estable e importante disminución del tamaño de la adenopatía iliaca izquierda que pasa a tener tamaño subcentimétrico.
+
+Diagnóstico
+Carcinoma urotelial: enfermedad avanzada:
+» Nódulos pulmonares.
+» Lesión renal.
+» Lesión en iris del ojo izquierdo.
+
+Tratamiento
+» Tratamiento quimioterápico para la enfermedad avanzada en primera línea con esquema paclitaxel-carboplatino (4 ciclos).
+» Tratamiento quimioterápico para la enfermedad avanzada en segunda línea con vinflunina (2 ciclos).
+» Bevacizumab intraocular como tratamiento local para afectación iridiana (2 inyecciones).
+
+Evolución
+El paciente realiza 3 ciclos de quimioterapia (QT) sin incidencias, no presentando toxicidad hematológica que requiriese el retraso del ciclo o la reducción de la dosis. Sí que refiere, previamente al tercer ciclo, astenia grado 2 los primeros días y dolor en miembros inferiores grado 1 y parestesias.
+Tras el 4º ciclo, presenta acorchamiento de todo el miembro inferior izquierdo.
+En la TC de febrero de 2018, muestra respuesta parcial y, en la última valoración oftalmológica realizada, se comprueba la desaparición de la lesión intraocular tras la inyección de 2 dosis de bevacizumab.
+Ante la buena respuesta al carboplatino y paclitaxel, y la aparición de neurotoxicidad se decide suspender el tratamiento e iniciar un mantenimiento con vinflunina de la cual ha recibido 2 ciclos con aceptable tolerancia.
+Actualmente se está administrando vinflunina de mantenimiento (lleva 2 infusiones recibidas con aceptable tolerancia), y mantiene la respuesta parcial obtenida con la quimioterapia de primera línea.

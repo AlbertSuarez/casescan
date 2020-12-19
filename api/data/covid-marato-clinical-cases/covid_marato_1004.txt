@@ -1,0 +1,29 @@
+Anamnesis
+Se trata de un varón de 66 años sin antecedentes relevantes que consulta por cuadro clínico de 6 meses de evolución de dolor lumbar progresivo hasta hacerse incapacitante, asociado a síndrome constitucional y sudoración.
+
+Examen físico
+Palpación de borde superior del lóbulo tiroideo izquierdo, consistencia aumentada. Dolor a la palpación de la región dorsolumbar, y al examen neurológico reflejos tendinosos disminuidos en extremidades. Fuerza limitada por dolor lumbar, sensibilidad conservada.
+
+Pruebas complementarias
+Radiografía de columna lumbar: osteoartrosis L4-L5 y L5-S1.
+Tomografía computarizada (TC) cervicotoracoabdominal: bocio intratorácico a expensas del lóbulo izquierdo, hyígado múltiples LOE. En recto, zona de estenosis sugerente de neoplasia.
+Marcadores tumorales: CEA 6,3 ng/ml, antígeno CA 125 7,6 U/ml, antígeno CA 19-9 13,5 U/ml, PSA 1,91 ng/ml.
+Gammagrafía ósea: diseminación ósea metastásica.
+Colonoscopia: diverticulosis colónica. Hemorroides internas.
+Punción-aspiración con aguja fina (PAAF) de LOE hepática: metástasis de carcinoma medular de tiroides.
+Inmunohistoquímica CK AE1-AE3 (+); -TTF-1 (+); sinaptofisina (+); cromogranina (+); calcitonina (+); tiroglobulina (-); CDX-2(-); Ki-67 (MIB-1) 98 %. Rojo Congo y tioflavina (-).
+Eco cervical: Lesión en polo inferior del LTI, afectación ganglionar cervical y supraclavicular ipsilaterales.
+T.S.H. 1.45 μU/ml T4 libre 1.27 ng/dl
+Marcadores Tumorales: Cromogranina A 752.77 ng/ml Enolasa específica neuronal 188.90 ng/ml Calcitonina 9885 pg/ml.
+PAAF Tiroides izda: Carcinoma neuroendocrino productor de calcitonina sugestivo de carcinoma medular.
+Gammagrafía con octreótrido: Negativa.
+
+Diagnóstico
+Carcinoma medular de tiroides estadio IV (metástasis óseas y hepáticas).
+
+Tratamiento
+Al ingreso se inició analgesia con opioides por dolor lumbar de difícil control y, tras las pruebas complementarias, se llegó al diagnóstico de carcinoma medular de tiroides con diseminación hepática y ósea.
+Por riesgo de complicaciones locales debido al gran tamaño de la lesión tiroidea, se realizó tiroidectomía subtotal para prevenir la oclusión de la vía aérea. Produciéndose como complicación inmediata una parálisis media de la cuerda vocal. Posteriormente, el ingreso se prolongó debido a una neumonía nosocomial.
+
+Evolución
+Al finalizar el antibiótico se inició tratamiento con vandetanib 300 mg/dia, con rápida mejoría del síndrome constitucional, la sudoración y el dolor. Actualmente, el paciente permanece en respuesta clínica, pendiente de evaluación de respuesta radiológica y con buena tolerancia al tratamiento, presentando únicamente toxicidad cutánea leve que no ha requerido modificación de dosis.

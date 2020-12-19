@@ -1,0 +1,28 @@
+Anamnesis
+Paciente varón de 40 años de edad, fumador (índice paquetes/año de 20), sin otros antecedentes personales ni familiares de interés (no criptorquidia ni otros antecedentes urológicos) que consulta en agosto del año 2013 por un cuadro de 3 meses de evolución consistente en aumento del tamaño testicular derecho, sin traumatismo previo, sin otra sintomatología asociada.
+
+Exploración física
+La exploración física en ese momento revelaba un importante aumento de tamaño del testículo referido de hasta 8 cm, sin otras anomalías en el testículo contralateral ni en el resto de la exploración física.
+
+Pruebas complementarias
+» Como parte del estudio inicial se realizó una ecografía escrotal, que objetivó la presencia de una gran masa sólida heterogénea, vascularizada y con zonas quísticas en su interior, ocupando todo el testículo derecho.
+» Analíticamente, destacaba la presencia de una alfa-fetoproteína (AFP) de 5.494 ng/ml (límites normales [LN] entre 0,6 y 8,5 ng/ml), una fracción beta de la gonadotropina coriónica humana (BHCG) de 126,3 mU/ml (LN entre 0,1 y 4) y lactato deshidrogenasa (LDH) de 293 U/l (LN entre 135 y 225 U/l).
+
+Diagnóstico
+Ante la sospecha diagnóstica de neoplasia testicular, se realizó una orquiectomía derecha vía inguinal el 14/8/2013. La anatomía patológica de la pieza quirúrgica fue informada como tumor de células germinales (TCG) mixto, compuesto por carcinoma embrionario (40%), teratoma (40%) y tumor del seno endodérmico (20%), con infiltración de todo el parénquima testicular, rete testis y epidídimo sin superar la albugínea, aunque con imágenes de infiltración linfática y venosa. Como parte del estudio de extensión se realizó una tomografía computarizada (TC) toracoabdominopélvica, objetivando la presencia de un gran conglomerado adenopático de 8 x 10 x 8,7 cm (ejes longitudinal, anteroposterior y transverso, respectivamente) y un nódulo pulmonar de 1,2 cm en la língula. Los marcadores tumorales postquirúrgicos eran AFP 4.164 ng/ml, beta-hCG 113,2 mU/ml y la LDH en ese momento era de 318.
+
+Tratamiento
+Con el diagnóstico de tumor de células germinales no seminomatoso (TCGNS) T2 N3 M1a S2, estadio IIIb (AJCC de 2002), de pronóstico intermedio según la clasificación de la IGCCCG (International Germ Cell Cancer Collaborative Group), se propuso inicio de tratamiento quimioterápico con BEP (bleomicina 30 mg semanal durante 12 semanas, etopósido 100 mg/m2 días 1 a 5 y cisplatino 20 mg/m2 días 1 a 5), recibiendo tres ciclos de BEP y 1 ciclo EP con buena tolerancia, presentando como toxicidades mucositis grado 1 y un episodio de neutropenia grado 3 afebril que condicionó un retraso de siete días en el inicio del tercer ciclo.
+
+Evolución
+En la TC de reevaluación tras tres ciclos de quimioterapia se objetivaba respuesta parcial del conglomerado adenopático retroperitoneal (5,6 x 7 x 7,6 cm) y del nódulo pulmonar (en ese momento de 0,8 cm de diámetro). En cuanto a los marcadores tumorales, aunque inicialmente presentaron un descenso adecuado, tras finalizar el tratamiento planeado persistía una elevación de la AFP (niveles de 258 ng/ml) con normalización de B-hCG y LDH.
+
+Ante la presencia de enfermedad tumoral residual y elevación persistente de los niveles de AFP, se plantea nueva línea de tratamiento esquema TIP (paclitaxel 175 mg/m2 día 1, ifosfamida 1.000 mg/m2/d días 1-5 y cisplatino 20 mg/m2/d días 1-5) con movilización de células CD34+ y aféresis. Tras los dos ciclos se objetivó respuesta parcial radiológica y bioquímica, por lo que el 4 de marzo de 2014 inicia quimioterapia a altas dosis (QAD) (paclitaxel 175 mg/m2 el día 1, carboplatino AUC 20 (área bajo la curva) y etopósido 1.500 mg/m2 repartidos en 6 dosis cada 12 horas) y posterior infusión de precursores hematopoyéticos. Como complicaciones del tratamiento, presentó mucositis grado 3 y diarrea grado 2; anemia grado 3 y trombopenia grado 4, que requirieron soporte con hemoderivados, así como neutropenia febril grado 4 sin aislamientos microbiológicos que requirió tratamiento empírico con antibiótico de amplio espectro. Tras la recuperación, se repitió una segunda dosis de QAD con soporte autólogo de progenitores hematopoyéticos.
+
+En la TC de reevaluación se objetivó persistencia de la lesión retroperitoneal, pero con aparición de nuevas lesiones pulmonares bilaterales milimétricas y ascenso progresivo de la AFP hasta 50 ng/ml.
+
+Ante los datos de progresión de la enfermedad, se solicitó tratamiento con etopósido oral (50 mg/m2 al día) como uso compasivo, que inició en mayo de 2014. Con ello se consiguió la negativización de los marcadores tumorales, la disminución de tamaño de los nódulos pulmonares y la estabilidad de la masa retroperitoneal.
+
+El paciente fue derivado al Servicio de Urología, realizándose resección del conglomerado retroperitoneal el día 24 de octubre de 2014. La anatomía patológica y la inmunohistoquímica de la pieza quirúrgica fue congruente con teratoma maduro, sin evidencia de otros componentes.
+
+Desde entonces el paciente mantiene tratamiento con etopósido oral diario, con buena tolerancia. Actualmente continúa en seguimiento, persistiendo la negatividad de los marcadores tumorales y sin evidencia de recidiva de la enfermedad en las pruebas de imagen. Mantiene micronódulos pulmonares bibasales.

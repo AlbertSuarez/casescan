@@ -1,0 +1,20 @@
+Anamnesis
+Paciente de 65 años fumadora de 40 paquetes-año, sin otros antecedentes médicos de interés. En septiembre de 1994, es diagnosticada de carcinoma ductal infiltrante de mama derecha, pT1b N1b M0, estadio IIA, receptores de estrógenos positivos, progesterona negativos, Ki 67 del 20 %. Se realizó tumorectomía con linfadenectomía axilar y recibió quimioterapia adyuvante con ciclofosfamida-metotrexato-fluorouracilo durante 6 ciclos seguido de radioterapia locorregional (50 Gy más un boost de 10 GY). Posteriormente, prosiguió revisiones en el servicio de Ginecología hasta enero de 2003, cuando se detecta una adenopatía supraclavicular, siendo remitida a nuestro servicio.
+
+Exploración física
+Karnofsky del 80 %, palpación de adenopatía en región supraclavicular derecha, eupneica en reposo, sin alteraciones en la auscultación cardiopulmonar ni abdominal, ni edemas en miembros inferiores.
+
+Pruebas complementarias
+TC toracoabdominal: aparición de adenopatía supraclavicular derecha, sin otros hallazgos reseñables.
+Biopsia de adenopatía supraclavicular compatible con metástasis de carcinoma de mama (estudio inmunohistoquímico con receptores de estrógenos positivos, progestágenos negativos y HER-2 positivo).
+
+Diagnóstico
+Recidiva ganglionar supraclavicular de carcinoma ductal infiltrante de mama derecha estadio IIA con receptores hormonales +, HER-2+ y Ki 67 20 %.
+
+Tratamiento
+Con el diagnóstico de recaída ganglionar supraclavicular se decide iniciar tratamiento de primera línea para enfermedad avanzada con docetaxel-trastuzumab en régimen trisemanal durante 6 ciclos. Tras los 6 ciclos de docetaxel-trastuzumab, se objetiva respuesta radiológica completa, por lo que continúa con trastuzumab durante 6 ciclos más e inicia hormonoterapia (inicialmente con toremifeno y posteriormente con letrozol). Asimismo, se administra radioterapia de consolidación en fosa supraclavicular.
+
+Evolución
+En mayo de 2009, se evidencia progresión hepática, esplénica y ganglionar por lo que comienza tratamiento con vinorelbina oral a 60 mg/m2 día 1º y 8º más trastuzumab 6 mg/kg cada 21 días por 8 ciclos con respuesta parcial importante. Posteriormente prosigue con exemestano y trastuzumab de forma ininterrumpida, sin desarrollar toxicidad cardiológica.
+En enero de 2018, estando asintomática, se solicita TC toracoabdominal de control que pone de manifiesto la aparición de una lesión nodular en segmento anterior de LSD en situación paramediastínica de 3 por 1,6 cm y afectación metastásica hepática, esplénica y ganglionar sin cambios respecto al estudio de imagen previo. Por ello, se decide realizar biopsia de la lesión pulmonar con el resultado anatomopatológico de carcinoma microcítico de pulmón.
+Ante el diagnóstico de carcinoma microcítico de pulmón estadio IA se decide suspender el trastuzumab e iniciar quimioterapia con carboplatino-etopósido. Hasta la fecha, ha recibido dos ciclos de quimioterapia con buena tolerancia y, a pesar de la suspensión del trastuzumab, la paciente no presenta signos de progresión. Dado que previamente había recibido tratamiento radioterápico a dosis plenas, se valorará, en función de la respuesta obtenida, realizar un rescate quirúrgico.

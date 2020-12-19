@@ -1,0 +1,25 @@
+Anamnesis
+Mujer, de 38 años en el momento de primera consulta (2011), sin factores de riesgo cardiovascular, y sin antecedentes relevantes. Exfumadora desde 1998 (IPA 20) y sin otros hábitos tóxicos. Sin tratamiento habitual y sin antecedentes médicos u oncológicos familiares de interés.
+Comienza estudio en noviembre de 2011 por un cuadro de anemia ferropénica con hemoglobina de 10 g/dl, sin evidencia de sangrado. Sin síntomas B ni otra clínica asociada.
+
+Exploración física
+Durante la exploración, destacaba un perfecto estado general, consciente y orientada, eupneica. Afebril, con constantes dentro de la normalidad. Adenopatías cervicales bilaterales y axilares izquierdas palpables, con auscultación tanto cardiaca como pulmonar sin hallazgos. Así mismo, la exploración abdominal sin hallazgos, sin masas palpables ni visceromegalias.
+
+Pruebas complementarias
+Se realizó una radiografía de tórax, objetivándose una masa mediastínica por lo que comenzó estudio.
+En la PET-TC realizada a principios de diciembre se objetivaron múltiples conglomerados adenopáticos supradiafragmáticos (cervicales bilaterales de hasta 30 mm, retropectorales, paratraqueales, cadena mamaria interna bilateral, hiliares y parahiliares bilaterales, subcarinales y paraesofágicos). Además, masa mediastínica de 68 x 52 mm y adenopatías hipermetabólicas en receso pleuropericárdico anterior bilateral. A nivel infradiafragmático, bazo hipermetabólico (12 cm), conglomerado adenopático gastrohepático e hilio esplénico, retrocava, interaortocava, retroperitoneal y masa en hilio renal de 70 x 20 mm, hasta bifurcación aortoiliaca y hasta anillo crural izquierdo.
+Ante los hallazgos, se realizó escisión de adenopatía axilar izquierda, objetivando una adenopatía con fondo reactivo polimorfo constituido por linfocitos, células plasmáticas y eosinófilos, pseudoabscesos de neutrófilos, así como numerosas células atípicas de morfología RS y células lacunares. La inmunohistoquímica presentaba fenotipo clásico: CD20-, CD30+, CD15+, BCL2+, p53+, con alto índice proliferativo, todo ello concordante con linfoma de Hodgkin, esclerosis nodular.
+Se realizó biopsia de médula ósea sin infiltración.
+
+Diagnóstico
+Con todas las pruebas complementarias y exploración física realizadas, fue diagnosticada de linfoma Hodgkin esclerosis nodular estadio III2S, con IPI 3, de alto riesgo.
+
+Tratamiento
+Inició tratamiento de primera línea con ABVD de diciembre de 2011 a mayo de 2012, recibiendo un total de seis ciclos, con buena tolerancia clínica y hematológica.
+
+Evolución
+Tras finalizar el tratamiento, se realizó PET de reevaluación objetivándose progresión significativa (tanto metabólica, como en número y tamaño de las adenopatías suprainfradiafragmáticas con afectación esplénica y grandes masas mediastínicas, axilares izquierdas y en hilio hepático). Se obtuvo confirmación histológica de nódulo suboccipital. Considerado como linfoma refractario a tratamiento de primera línea, inició tratamiento con ESHAP y movilización confirmando la respuesta completa en PET previa a trasplante por lo que en octubre de 2012 se realizó trasplante autólogo, sin incidencias.
+Sin embargo, en la primera reevaluación postrasplante se evidencia progresión supra e infradiafragmática con afectación esplénica, que se confirma de nuevo histológicamente tras extirpación de adenopatía cervical. Inicia entonces tratamiento con brentuximab vedotina de febrero a agosto de 2013 con nueva progresión (tanto supra como infradiafragmática).
+En septiembre de 2013 inicia bendamustina que mantiene hasta enero de 2014, recibiendo 5 ciclos con nueva progresión, asintomática, por lo que ante, el escaso beneficio de la quimioterapia, se decide observación. Sin embargo, en julio de 2014, se objetiva progresión pulmonar y esplénica, con pancitopenia severa, por lo que se realiza biopsia de médula ósea, descartándose infiltración medular. Ante las necesidades continuas de trasfusión, se decide administración de dos ciclos de vincristina, bleomicina y dexametasona, sin mejoría, persistiendo pancitopenia grave.
+Valorada con el servicio de Oncología Radioterápica, se decide realizar radioterapia esplénica paliativa recibiendo una dosis total de 1,4 Gy entre enero y febrero de 2015. Tras ello, se logra una normalización completa del hemograma.
+Se realiza una nueva reevaluación mediante PET en abril de 2015, con evidente progresión supra e infradiafragmática, iniciando tratamiento con nivolumab, fármaco del que recibió 47 ciclos, hasta febrero de 2017. Como toxicidad secundaria, se produjo un hipotiroidismo sintomático, controlado sin incidencias mediante levotiroxina. Actualmente, se encuentra en respuesta completa, sin tratamiento desde hace 12 meses y realizando una vida activa.

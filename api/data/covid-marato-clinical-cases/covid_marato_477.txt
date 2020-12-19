@@ -1,0 +1,38 @@
+Anamnesis
+Mujer de 67 años, sin alergias a medicamentos conocidas, sin factores de riesgo cardiovascular ni hábitos tóxicos.
+Buena red de apoyo familiar. Sin antecedentes familiares de interés.
+Acude en septiembre de 2011 a consulta con Ginecología por la aparición 3 meses atrás de una masa de 2 cm en los genitales externos, asociada a prurito local y sangrado ocasional. Se realiza por parte de Ginecología: vulvectomía radical más linfadenectomía inguinofemoral (superficial-profundo) sin incidencias. El informe anatomopatológico de la pieza quirúrgica fue: carcinoma epidermoide bien diferenciado de 5 x 4 cm de crecimiento exofítico y con infiltración en profundidad de 7 mm, sin evidencia de infiltración vascular linfática y márgenes quirúrgicos respetados. Linfadenectomía pélvica derecha negativa (0/13 ganglios) y linfadenectomía pélvica izquierda negativa (0/15 ganglios). Estadio pT2 (5 x 4 cm) N0 Mx. No recibió tratamiento complementario (TC abdómino-pélvica prequirúrgica sin datos de extensión a distancia).
+En abril de 2012 se documenta en la TC tóraco-abdómino-pélvica un nódulo pulmonar en el lóbulo inferior izquierdo de 8 mm de diámetro, y un nódulo subcarínico de 18 x 13 mm sugestivo de adenopatía. Se amplía el estudio con una PET-TC en mayo de 2012, que informa de alta probabilidad de malignidad del nódulo pulmonar del lóbulo inferior izquierdo y adenopatías subcarinal y peribronquial derecha sugestivas de proceso infecto-inflamatorio, sin poder descartar otras etiologías. Tras intentarse una punción aspiración con aguja fina guiada por TC del nódulo pulmonar sin éxito, se remite a la paciente desde la consulta de Neumología al Servicio de Cirugía torácica del Hospital Puerta de Hierro. El 30 de agosto de 2012 se realiza segmentegtomía atípica por VATS sobre el nódulo del lóbulo inferior izquierdo sin complicaciones, siendo el informe anatomopatológico de metástasis de carcinoma escamoso de vulva.
+
+Examen físico
+ECOG: 1
+Regular estado general, discreta palidez mucocutánea, hidratada, eupneica, afebril.
+No se palpan masas cervicales ni adenopatías. Se visualiza una masa en el tercio interno de la clavícula izquierda.
+Auscultación pulmonar con murmullo vesicular conservado bilateral.
+Abdomen globuloso, blando, no doloroso a la palpación, no se palpan visceromegalías ni masas.
+No edemas ni signos de TVP. Dolor a la palpación a nivel del tercio interno de la clavícula izquierda.
+No datos de focalidad neurológica ni signos meníngeos.
+
+Pruebas complementarias
+- Radiografía de tórax (22/5/2013): veladura en el hemitórax izquierdo en relación con atelectasia pulmonar izquierda, con desplazamiento cardiomediastínico ipsilateral.
+- TC tóraco-abdómino-pélvica (17/10/2012): cambios posquirúrgicos sobre el pulmón izquierdo (segmentectomía lobular izquierda). Atelectasia completa del pulmón izquierdo. Masa de partes blandas en el interior del bronquio principal izquierdo que se extiende por las ramas segmentarias. Componente de partes blandas en la región subcarinal, sin poder determinar si se trata de las propias masas o de adenopatías mediastínicas. Pequeñas adenopatías mesentéricas y retroperitoneales de tamaño y morfología inespecíficas. Cambios posquirúrgicos pélvicos e inguinales. No lesiones óseas sugestivas de depósitos metastásicos.
+- TC tóraco-abdómino-pélvica (13/5/2013): recidiva tumoral a nivel del periné, bronquial y mediastínico, con atelectasia pulmonar izquierda completa y derrame pleural asociado. Metástasis ósea clavicular izquierda con fractura patológica con aumento del tamaño de la masa de partes blandas.
+
+Diagnóstico
+Carcinoma epidermoide de vulva estadio IV (metástasis óseas y pulmonar).
+
+Tratamiento
+Quimioterapia.
+Cirugía.
+Resección láser de metástasis endobronquial.
+Radioterapia.
+
+Evolución
+Tras ser dada de alta de Cirugía Torácica del Hospital Puerta de Hierro, la paciente acude a Urgencias del Hospital de Guadalajara por dolor torácico retroesternal irradiado a la espalda y el hombro izquierdo asociado a disnea y tos seca, que a lo largo de 4 días se hacía más intenso.
+Se documenta con radiografía de tórax la presencia de atelectasia pulmonar izquierda, siendo ingresada a cargo de Neumología y realizándose la broncoscopia, que visualiza una gran masa endobronquial que obstruye por completo el bronquio principal izquierdo a 1 cm de la carina traqueal sugestivo de origen neoplásico, que se confirma con el estudio anatomopatológico: mucosa bronquial con carcinoma epidermoide.
+Se solicita entonces por parte de Neumología con carácter urgente la realización de resección endobronquial. La paciente es trasladada al Hospital de La Paz de Madrid el día 28 de octubre de 2012, realizándose una broncoscopia rígida más resección endobronquial (core-out tumoral) sin complicaciones y con reexpansión posterior del pulmón izquierdo. Clínicamente estable, es dada de alta el día 30/10/2012 y regresa al Hospital de Guadalajara.
+El 10 de octubre de 2012 se inicia tratamiento quimioterápico de primera línea con paclitaxel 80 mg/m2 semanal más carboplatino (AUC 2) semanal hasta el 17 de enero de 2013, con buena tolerancia física, manteniéndose libre de síntomas y con desaparición de la disnea.
+En febrero de 2013, la paciente manifiesta la aparición de una masa de rápido crecimiento a nivel del tercio interno de la clavícula izquierda, acompañado de dolor intenso EVA 7-8; se realiza entonces una radiografía simple, que revela la presencia de una lesión lítica en el tercio interno de la clavícula izquierda compatible con metástasis. Se completa el estudio con una gammagrafía ósea que confirma la aparición de lesiones de carácter infiltrante en la clavícula y el radio izquierdos. Entre el 4 y el 15 de febrero de 2013 se administra radioterapia paliativa: 300 cGy/fracción, 5 fracciones por semana hasta completar 30 Gy, sobre la masa de partes blandas y la clavícula izquierda, con estabilización clínica y mejoría del dolor.
+Entre el 19 de febrero y el 30 de abril de 2013 se administra tratamiento quimioterápico de segunda línea con vinorelbina 25 mg/m2 + gemcitabina 1.000 mg/m2, sin datos clínicos de respuesta.
+El 13 de mayo de 2013 la paciente ingresa por deterioro de la clase funcional hasta disnea de reposo, tos sin movilización de secreciones ni fiebre y aumento de la intensidad del dolor por episodios de dolor irruptivo incidental desencadenado por la tos y los movimientos de la extremidad superior.
+Durante el ingreso se documenta atelectasia pulmonar izquierda, recidiva tumoral a nivel del periné y persistencia de la lesión ósea clavicular izquierda y aparición de una masa dolorosa a nivel del hombro y el antebrazo izquierdos. Se administra radioterapia paliativa 800 cGy/fracción hasta completar 16 Gy sobre el mediastino, el periné, el hombro y el antebrazo izquierdos. Se mantiene con esquema analgésico con opioides mayores, manteniendo buen estado general y un adecuado control del dolor. Desde el punto de vista respiratorio, presenta un nuevo episodio de disnea de reposo, con importante deterioro desde el punto de vista respiratorio, con disnea continua, episodios continuos de tos, postración en cama y dolor intenso, que hacen necesaria analgesia continua intravenosa con opioides mayores y tratamiento para los síntomas respiratorios, sin lograr mejoría de la situación clínica. La paciente fallece en junio de 2013.

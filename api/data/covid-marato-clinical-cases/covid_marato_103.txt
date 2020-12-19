@@ -1,0 +1,37 @@
+Anamnesis
+Se presenta el caso de una mujer caucásica de 64 años en el momento de su primera visita en la consulta de Oncología Médica.
+Como antecedentes médicos de interés destacan la ausencia de alergias medicamentosas conocidas y de hábitos tóxicos. Fue estudiada por anosmia por parte de neurología y ORL con estudios de imagen, EMG y estudio de líquido cefalorraquídeo sin alteraciones patológicas relevantes.
+En relación con antecedentes quirúrgicos fue intervenida de un fibroadenoma en la mama derecha en 1988.
+Respecto a antecedentes oncológicos personales refiere extirpación de epitelioma basocelular multicéntrico superficial en región escapular derecha en marzo de 1998. No precisó tratamiento adyuvante posterior. En seguimiento por parte de Dermatología sin evidencia de recaída.
+Sin antecedentes oncológicos familiares de interés. No toma medicación de manera habitual.
+
+Exploración física
+Peso: 80 kg. Talla: 160 cm. Superficie: 1,89 m2. Índice de masa corporal: 31 kg/m2. Estado general: 0 (ECOG).
+Consciente y orientada. Sin adenopatías laterocervicales, supraclaviculares, axilares o inguinales palpables. Ligero aumento del diámetro del miembro superior derecho (MSD) sin aumento de la temperatura. Exploración neurovascular distal sin alteraciones. Auscultación cardiopulmonar sin alteraciones. Sin organomegalias ni masas abdominales. Sin ascitis ni edemas maleolares. Resto sin interés.
+
+Pruebas complementarias
+La paciente fue diagnosticada a raíz de un cuadro de dolor abdominal acompañado de fiebre que fue valorado por Cirugía General en Urgencias el día 22/04/2017, solicitando una ecografía abdominal y a continuación una TC abdominopélvica que confirmaba la presencia de un engrosamiento parietal mamelonado de densidad sólida, de hasta 1,7 cm de espesor, de un segmento de 6 cm de colon ascendente; junto con ganglios linfáticos regionales de aspecto y tamaño (2,1 cm) patológicos.
+Ante la alta sospecha de una neoplasia de colon se solicitó una colonoscopia en la que se describe, a unos 65 cm del margen anal, una masa mamelonada concéntrica que estenosa la luz del colon.
+Durante el procedimiento, se realiza una biopsia de la masa con diagnóstico patológico de adenocarcinoma de colon.
+Una vez diagnosticada de un adenocarcinoma de colon derecho con sospecha de afectación ganglionar regional sin afectación a distancia, se presenta el caso en comité de tumores multidisciplinar y se decide intervención quirúrgica.
+La paciente es operada mediante hemicolectomía derecha laparoscópica el día 17 de mayo del 2017 sin complicaciones asociadas. La pieza tumoral fue examinada mediante estudio anatomopatológico con resultado de adenocarcinoma colorrectal bien diferenciado, con inestabilidad de microsatélites que infiltraba la totalidad de la capa muscular e invadía el tejido adiposo pericólico sin infiltrar la serosa; con invasión linfovascular, pero sin invasión perineural y con bordes quirúrgicos libres. Se extrajeron un total de 60 ganglios linfáticos, siendo sólo uno metastásico.
+
+Diagnóstico
+Adenocarcinoma de colon derecho intervenido mediante hemicolectomía derecha laparoscópica en mayo/2017. Estadificación quirúrgica pT3N1aM0 (estadio IIIA).
+
+Tratamiento
+Tras nueva valoración en comité de tumores digestivos, se decide añadir quimioterapia con intención adyuvante, dado el estadio tumoral postquirúrgico.
+Se propone tratamiento según el esquema XELOX (oxaliplatino 130 mg/m2 y capecitabina 1.000 mg/m2 /12 h) cada 3 semanas durante 6 meses; comenzando el primer ciclo el día 26 de junio del 2017 con dosis de 246 mg de oxaliplatino en el día 1 del ciclo y 4 comprimidos de 500 mg en el desayuno y 3 comprimidos de 500 mg en la cena de capecitabina entre los días 2 y 15 del ciclo.
+Sin embargo, tras el primer ciclo de XELOX, la paciente presentó mala tolerancia al esquema por toxicidad digestiva grado 2 mantenida; motivo por el cual se decidió cambiar al esquema FOLFOX (oxaliplatino 85 mg/m2, leucovorina 200 mg/m2 y 5-FU 400 mg/m2 en bolo y 5-FU 2.400 mg/m2 en infusión de 46 horas) cada 14 días; recibiendo el primer ciclo el día 26 de julio del 2017.
+La paciente presentó una regular tolerancia al esquema FOLFOX, presentando un retraso por neutropenia grado 3 y varios ajustes en el protocolo antiemético por nauseas. En relación con la toxicidad emética, requirió un ingreso de 7 días por emesis tardía y diarrea con intolerancia oral secundaria e hipopotasemia asociada resuelta al alta.
+Tras el alta se decidió suspender la adyuvancia, habiendo recibido un total de un ciclo de XELOX y tres de FOLFOX.
+
+Evolución
+Tras suspender la adyuvancia por mala tolerancia, se inició el seguimiento y se solicitó una TC toracoabdominopélvica de control. En dicha TC (20/10/2017) se informó de la presencia de múltiples adenopatías/implantes mediales y caudales a la sutura de la hemicolectomía derecha que eran sospechosos de recidiva tumoral. Ante estos hallazgos se decidió solicitar una PET-TC para completar el estudio.
+La PET-TC realizada el día 13 de noviembre del 2017 detectó las adenopatías referidas en la TC, pero sin metabolismo asociado, por lo que no sugerían malignidad; sin embargo, describió una adenopatía axilar derecha de 10 mm de contornos espiculados y con moderada captación (SULpeak 3,1).
+Ante este hallazgo patológico a nivel axilar derecho, se revisó de nuevo la historia clínica de la paciente y se revisó un episodio de Medicina Interna en el que estudió a la paciente en relación a un aumento del diámetro del MSD en 2016 con ecografía axilar sin evidencia de lesiones ocupantes de espacio ni alteraciones vasculares arteriales ni venosas.
+Al detectar la adenopatía axilar derecha patológica en la PET-TC, se comentó el caso en comité de tumores y se decidió solicitar una resonancia mamaria y una ecografía axilar con toma de biopsia.
+La resonancia no mostro anomalías patológicas; sin embargo, el resultado de la biopsia de aguja gruesa (BAG) realizada el día 30 de noviembre del 2017 a nivel axilar fue de tejido fibroadiposo infiltrado por un carcinoma con diferenciación neuroendocrina.
+Ante estos hallazgos, se presentó de nuevo el caso en comité de tumores, decidiendo exéresis de tejido linfograso axilar derecho. La intervención se realizó el día 7/2/2018, dando como resultado anatomopatológico la presencia de tejido fibroadiposo infiltrado por un carcinoma con morfología basaloide y diferenciación escamosa focal y neuroendocrina.
+Desde Anatomía Patológica se realizó el estudio inmunohistoquímico de la muestra actual y se comparó con el resto de muestras tumorales de la paciente, descartándose que fuera secundaria al adenocarcinoma de colon, y confirmando que se trataba de una recidiva con diferenciación neuroendocrina del epitelioma basocelular previo; ya que eran positivos para CK7, CK5/6, CK34ßE12 y p63 y negativos para CK20 y cromogranina y CD56.
+Tras estos resultados, se comentó el caso en comité de tumores dermatológicos, decidiendo añadir radioterapia axilar derecha adyuvante.

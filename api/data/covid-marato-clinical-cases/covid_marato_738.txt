@@ -1,0 +1,21 @@
+Anamnesis
+Cuando el paciente acude a CEX, refiere un empeoramiento clínico significativo respecto a la visita previa. Además de las secuelas derivadas de los dos procedimientos quirúrgicos previos, comenta que tiene dolor articular generalizado, especialmente focalizado en muñecas y en rodillas, lo cual le genera impotencia funcional leve, en ocasiones moderada. Este cuadro álgico ha evolucionado desfavorablemente en los últimos meses y, de forma paralela al aumento del dolor, el paciente ha experimentado una reaparición de las lesiones cutáneas previas con crecimiento de las mismas, especialmente a nivel del glúteo izquierdo. Sin otros síntomas de interés tras anamnesis por aparatos y sistemas.
+
+Exploración física
+Regular estado general. Sequedad cutánea generalizada. Linfedema hemifacial izquierdo. Rigidez cervical secundaria a radioterapia. Lesiones cutáneas papulares de coloración violácea de predominio en glúteo izquierdo, aunque también se aprecian a nivel de ambas manos. No se palpaban adenopatías. Artritis deformante bilateral en articulaciones metacarpofalángicas y en las muñecas.
+Resto de la exploración física normal.
+
+Pruebas complementarias
+Se solicitó estudio de revaluación con TC de tórax-abdomen-pelvis (con contraste) en el que se objetivaban lesiones óseas destructivas en cabeza de ambos húmeros, fémures y arcos costales en relación con la reticulohistiocitosis multifocal conocida. No se apreciaban otros datos compatibles con progresión de su enfermedad neoplásica.
+Ante el temor de que pudiera existir patología oncológica subyacente no objetivable, se llevó a cabo una PET-TC, en la cual se detectaron captaciones patológicas coincidentes con dos adenopatías, una infraclavicular derecha de 24 mm, con SUVmax de 9,3 y otra infraclavicular izquierda de 26 mm, con SUVmax de 8,8 de características metabólicas malignas.
+Además, se observaban múltiples captaciones patológicas osteomusculares con SUVmax de entre 5,8 y 6,1, localizadas predominantemente en torno a ambas cabezas humerales, pero también en el resto de grandes articulaciones de las extremidades superiores, arcos costales izquierdos, escápula y músculo dorsal ancho derecho, cabezas femorales y musculatura glútea e iliaca; coincidiendo con cambios líticos óseos y engrosamiento de planos musculares. Estas captaciones se relacionan con síndrome paraneoplásico.
+Se llevó a cabo una biopsia de la adenopatía infraclavicular derecha. Los hallazgos histológicos eran compatibles con progresión de la RHM. Se describió una población celular monomorfa morfológicamente similar a la objetivada en el punch cutáneo previa. Se trataba de células con citoplasma amplio oncocítico y eosinófilo, PAS positivo, mono y ocasionalmente multinucleadas con perfil inmunohistoquímico de histiocitos-macrófagos CD68 y CD163 positivos con S-100 y CD1a negativos. No se observaba atipia citológica ni actividad mitótica.
+
+Diagnóstico
+Reticulohistiocitosis multicéntrica de origen paraneoplásico.
+
+Tratamiento
+El paciente recibió tratamiento combinado con metrotexato (10 mg los viernes y sábados) y prednisona (30 mg por la mañana durante 7 días, después 20 mg por la mañana durante 15 días y, tras ello, 15 mg de forma crónica, con posterior reajuste de la dosis en función de control de síntomas y/o efectos secundarios de la terapia esteroidea).
+
+Evolución
+La tolerancia inicial al metrotexato y la prednisona ha sido adecuada. Pendiente de una nueva valoración en CEX de Oncología Médica para comprobar la respuesta cutánea y articular al tratamiento.

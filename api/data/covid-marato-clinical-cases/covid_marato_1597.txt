@@ -1,0 +1,42 @@
+Anamnesis
+Se trata de un paciente de 65 años, sin alergias medicamentosas conocidas, hipertenso con buen control, diagnosticado de adenocarcinoma ductal de cabeza de páncreas intervenido en agosto de 2015 mediante duodeno-pancreatectomía cefálica (pT3 pN1 1/30, cM0). R0. No se realizó adyuvancia.
+Diabetes como secuela de la cirugía pancreática.
+En noviembre de 2016, se sospechó recidiva local (lesión adyacente a la arteria mesentérica superior), pero con marcadores tumorales negativos y sin confirmación por PET, por lo que se decidió seguimiento. En marzo de 2017, se objetiva aumento de volumen y densidad de dicha lesión, pero tras plantearse en Comité de Tumores se descarta reintervención. Dado que se mantenía progresión a nivel local (sin enfermedad a distancia) en mayo de 2017 se inicia quimioterapia con gemcitabina + nab-paclitaxel.
+Tras completar 5 ciclos de tratamiento, en septiembre de 2017 se decide suspender nab-paclitaxel por deterioro progresivo de la función renal (creatinina hasta 1,88 mg/dl) así como anemia y trombopenia, con idea de continuar con gemcitabina en monoterapia. Además, el paciente empieza a referir mal control de cifras de tensión arterial y aumento de edemas a pesar de aumento de tratamiento. Sin embargo, el paciente no llegó a recibir más ciclos de tratamiento, ya que analíticamente continuó empeorando la función renal (hasta 3,3 mg/dl de creatinina) y el hemograma, por lo que se decidió ingreso para estudio.
+Durante el ingreso en nuestra planta, fue valorado conjuntamente con el Servicio de interconsultas de Nefrología, por sospecha de microangiopatía trombótica (deterioro progresivo de función renal que no mejora tras suspensión de quimioterápicos, anemia y trombopenia, hipertensión no controlada y edemas).
+
+Exploración física
+Regular estado general. Consciente, orientado y colaborador. Eupneico en reposo con saturación de O2 al 96% sin aporte. Auscultación con corazón rítmico sin soplos audibles, murmullo vesicular conservado con algunos sibilantes espiratorios. Mínimos edemas en miembros inferiores con fóvea.
+
+Pruebas complementarias
+Ecografía renal 15/09/2017: riñones de tamaño y morfología normal, con adecuada diferenciación corticomedular y espesores corticales conservados. No se identifica dilatación de sistemas excretores, imágenes de nefrolitiasis ni colecciones intra ni perirrenales. Vejiga urinaria parcialmente distendida, sin alteraciones significativas en su pared ni en su contenido. No hay otros hallazgos ecográficos de interés en el resto de la exploración.
+Ecocardiografía 21/09/2017: VI en el límite superior de la normalidad (54 mm), septum 12,6 mm y pp no hipertrófica. FE conservada sin hipoquinesias (60 %). VM fina con patrón de llenado normal. VAO trivalva con flujos normales. Cavidades derechas de tamaño y función normales. RT ligera con gradiente pico 41 mm Hg (PAP 55 mm Hg). Sin DP.
+Analítica en el ingreso 28/09/2017: creatinina 3,39 mg/dl. Hb 9 g/dl. El resto del hemograma y de la bioquímica sin datos relevantes.
+Analíticas seriadas durante su estancia en planta:
+» Creatinina (mg/dl): 3,39 > 3,41 > 3,04 > 3,34 > 3,16 > 3,31 > 3,45 > 3,26 > 3,10 > 3,28 > 3,33
+» Hb (g/l): 90 > 78 > 91 > 89 > 85 > 84 > 84 > 78 > 80 > 80
+» LDH (UI/l): 861 > 845 > 768 > 772 > 766 > 683 > 617
+Otros resultados analíticos a destacar
+» Haptoglobina (mg/dl): 1 > 0
+» Homocisteína (umol/l): 53,7 > 49,9
+» Esquistocitos 2,5 % > 2,4 %
+» Reticulocitos 4,2 %
+» Actividad de ADAMTS 13: 40 %
+Análisis de orina
+Densidad 1.011, pH 6, proteínas negativo, glucosa negativa, cuerpos cetónicos negativos, bilirrubina normal, sangre 7 hem/ul, nitritos negativo, urobilinógeno negativo, leucocitos 3 leu/ul.
+Antigenuria, neumococo y Legionella: negativas.
+Serología viral: hepatitis C IgG negativo, HBsAg negativo, anti-HB IgG 1.000, anti-HBc IgG positivo, anti-HBc IgM negativo, VIH 1 + 2 negativo.
+Fondo de ojo: papilas bien delimitadas, ligeramente pálidas, no hemorragias ni exudados en retina. Sin edema de papila. Venas dilatadas y ligeramente tortuosas con atenuación arteriolar y aumento del reflejo parietal de las arteriolas. Signos de cruce. JV: vasculopatía arteriosclerótica-hipertensiva, sin HTA maligna, ni retinopatía hipertensiva.
+PET-TC 09/10/2017: estudio de baja probabilidad de malignidad. Derrame pleural bilateral de baja tasa de proliferación celular.
+
+Diagnóstico
+Daño renal agudo con datos de anemia hemolítica microangiopática y trombocitopenia secundaria a microangiopatía trombótica asociada a gemcitabina (probablemente por mecanismo tóxico dosisdependiente, dado que el paciente había recibido ya cinco ciclos de tratamiento); menos probable asociado a propia neoplasia.
+
+Tratamiento
+Inicialmente se realizó tratamiento conservador con furosemida y doxazosina, así como soporte transfusional, además de suspender la gemcitabina por sospecha de microangiopatía trombótica inducida por fármacos.
+
+Evolución
+Tras realización de las pruebas complementarias anteriormente mencionadas, se comprobó la existencia de microangiopatía trombótica, y durante el ingreso se estabilizó la función renal con creatinina en torno a 3 mg/dl, aceptable control tensional con dos fármacos, y LDH en descenso. Sin embargo, persistía anemia y plaquetopenia con esquistocitos y haptoglobina consumida, aunque con menores requerimientos transfusionales. Se realizó PET-TC que, a pesar de estar sin tratamiento, resultó de baja probabilidad para malignidad. Por ello, el paciente fue dado de alta con cita de revisión en consultas externas de Oncología y Nefrología.
+Tras el alta, el caso fue comentado en sesión clínica en Nefrología y se decide, dadas la estabilización y la mejora progresiva de cifras de creatinina, no tratar con eculizumab.
+El 27/10/2017 fue valorado en Consulta de Oncología, analíticamente aún persistía Hb de 80 g/l y trombopenia de 87 x 10 e9/l, aunque la función renal sí que mejoró parcialmente (creatinina 2,7 mg/dl). Inicialmente, se plantea que si persiste mejoría de creatinina podría tratarse con 5-FU en monoterapia. Sin embargo, en enero de 2018, se realiza nueva PET-TC de control que nuevamente fue de baja probabilidad para malignidad y los marcadores tumorales continuaban siendo negativos, por lo que se decide mantener actitud con seguimiento clínico estrecho y no poner más quimioterapia de momento.
+Las últimas revisiones tanto en Nefrología como en Oncología en marzo de 2018 no tenían evidencia de recidiva de la enfermedad. Clínicamente había mejoría de control de tensión arterial. Control analítico con creatinina 2,27 mg/dl, Hb 121 g/l, plaquetas 211 x 10 e9/l, haptoglobina 14 mg/dl. Se confirma buena evolución del cuadro con tratamiento conservador.

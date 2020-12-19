@@ -1,0 +1,40 @@
+Anamnesis
+Varón de 58 años, con antecedente familiar de una prima por vía materna diagnosticada de cáncer de colon a los 47 años.
+Sin alergias medicamentosas conocidas, fumador de 1 paquete de cigarrillos diario, diagnosticado de diabetes mellitus tipo II hace 10 años.
+Está en tratamiento domiciliario con antidiabéticos orales (sitagliptina y metformina).
+En enero de 2015 acude a su médico de Atención Primaria por astenia, siendo objetivada una anemia en la analítica realizada en su centro de salud. Ante el hallazgo, se le solicita una colonoscopia, observándose una lesión de 3 cm a nivel de sigma, con biopsia compatible con adenocarcinoma moderadamente diferenciado. Se le practicó una tomografía computarizada (TC) de estadificación, donde se observaba la lesión antes nombrada, con múltiples adenopatías locales discretamente aumentadas. No se objetivaban lesiones metastásicas a distancia.
+Fue intervenido en febrero de 2015, siendo el diagnóstico final: adenocarcinoma de sigma, estadio III (pT3, pN2b, M0).
+Valorado en consultas externas de Oncología Médica, inició tratamiento quimioterápico complementario con esquema CAPOX por 8 ciclos, entre marzo y agosto de 2015, con aceptable tolerancia, presentando como único efecto adverso una neuropatía grado I.
+En la TC realizada unos meses después de la finalización del tratamiento adyuvante propuesto, se observaban adenopatías con centro necrótico en hilio hepático y aparición de una lesión en glándula suprarrenal derecha, también compatibles con metástasis.
+En la analítica de control, se constató una elevación del CEA.
+
+Exploración física
+» Consciente, orientado y colaborador. Índice de Karnofsky 80 %.
+» Exploración neurológica: sin focalidad.
+» Corazón: ruidos cardiacos rítmicos, sin soplos. Pulmón: murmullo vesicular conservado.
+» Abdomen: globuloso, blando y depresible. No es doloroso durante la palpación. Sin visceromegalias. Puñopercusión renal negativa.
+» » Extremidades inferiores sin edemas, varices ni signos de flebitis.
+
+Pruebas complementarias
+» Hemograma (enero 2015): hemoglobina 8 g/dl VCM 74,9 fL.
+» Bioquímica (enero 2015): glucemia 220, CEA 20.
+» Colonoscopia (enero 2015): a nivel de sigma se observa lesión de unos 3 cm con parte polipoide y parte plano y deprimido muy sugestivo de malignidad.
+» TC (enero 2015): lesión neoplásica en sigma con múltiples adenopatías locales discretamente aumentadas. No se observan lesiones metastásicas a distancia.
+» Anatomía patológica pieza quirúrgica: adenocarcinoma moderadamente diferenciado. 48 ganglios aislados, 7 de ellos con afectación metastásica.
+» Estudio inmunohistoquímico de genes de reparación del ADN: alteración en la expresión de las proteínas MLH-1 y PMS-2 de los genes reparadores de ADN.
+» TC (abril 2016): crecimiento de adenopatías con centro necrótico en hilio hepático, sugestivas de adenopatías patológicas. Aparición de una lesión en glándula suprarrenal derecha sugestiva de etiología metastásica.
+» Determinación mutaciones KRAS, NRAS: se detecta mutación en el exón 2 del gen KRAS.
+Estudio de inestabilidad de microsatélites: se observa inestabilidad en todos los microsatélites estudiados.
+
+Diagnóstico
+Adenocarcinoma de sigma estadio IV por recidiva ganglionar y suprarrenal derecha, KRAS mutado, con inestabilidad de microsatélites.
+
+Tratamiento
+Dada la recidiva tumoral precoz tras la finalización del tratamiento adyuvante, se decidió iniciar una nueva línea de tratamiento quimioterápico paliativa con esquema FOLFIRI + bevacizumab, recibiendo en total 3 ciclos entre abril y julio de 2016, con aceptable tolerancia, experimentando como único efecto adverso una mucositis grado I.
+Se realizó una TC de control en julio de 2016, observándose una nueva progresión ganglionar y suprarrenal, por lo que se decidió suspender el tratamiento quimioterápico paliativo.
+El paciente continuaba presentando un excelente estado general, por lo que, al presentar inestabilidad de microsatélites, se decidió solicitar el uso de nivolumab a la dirección del hospital, siendo informado favorablemente.
+Se comenzó su administración a 280 mg IV de forma bisemanal en octubre de 2016.
+
+Evolución
+Tras la administración de 4 ciclos de nivolumab comenzando en octubre de 2016, se solicitó un nuevo control radiológico, observándose una respuesta parcial a nivel ganglionar del hilio hepático, asociado a un descenso de marcadores tumorales en analítica, llegando a normalizarse.
+Ha continuado recibiendo el mismo tratamiento de forma continuada, manteniéndose la respuesta radiológica parcial a lo largo de todo este tiempo (última TC de control en enero de 2018), con un intervalo libre de progresión hasta el momento de 18 meses.

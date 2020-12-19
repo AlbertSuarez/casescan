@@ -1,0 +1,34 @@
+Anamnesis
+Mujer de 56 años con alergia a ácido acetilsalicílico y a contrate yodado, exfumadora desde hace 30 años, con un consumo acumulado de 2 años/paquete. Sin otros antecedentes médicos de interés
+Asintomática. A raíz de una determinación de antígeno carcinoembrionario (CEA) de 7ng/ml (N: 0-4,7 ng/ml) en Enero de 2013 que progresivamente aumenta hasta Febrero de 2014 (23ng/ml), inicia estudio mediante gastro y colonoscopia que son normales. En PET/CT: nódulo pulmonar en lóbulo superior derecho (LSD) de 2.7x2.5x2.9 cm. Se completa estudio con TC toraco-abdominal, fibrobroncospia con biopsia (carcinoma mal diferenciado de célula grande). Se remite para tratamiento quirúrgico mediante VATS (video-assisted thoracic surgery) con hallazgo de afectación pleural que se analiza intraoperatoriamente con resultado de carcinoma de pulmón de célula no pequeña (CPCNP) extendido a pleura de forma difusa. Se desestima resección pulmonar y se realiza pleurodesis química en Junio de 2014. Con todo lo anterior se diagnostica de carcinoma de célula grande LSD pulmón G3 cT1bN1M1a(PLEU) con fenotipo molecular que detecta la mutación del gen EGFR en el exón 21 (tipo L858R).
+En Julio de 2014, la paciente presenta un ECOG 0 e inicia tratamiento con Erlotinib 150mg/día. Tras 11 meses de seguimiento la paciente permanece con criterios clínico/radiológicos de enfermedad estable.
+Ha presentado como toxicidades una dermatitis g1, sin necesidad de reducción de dosis.
+En el PET/TC realizado en Junio de 2015 se objetiva estabilidad del nódulo en LSD y aparición de nódulo hipermetabólico subpleural de 1.4 mm en base pulmonar derecha. Cuando la paciente acude a la consulta presenta una discreta ptosis palpebral derecha y leve limitación en la levoversión del ojo derecho que condiciona una diplopia binocular con dicho movimiento. Ante sospecha de probable afectación del nervio oculomotor (III par craneal), se solicita una RM cerebral para descartar afectación del sistema nervioso central (SNC), sin que se aprecien lesiones sugestivas de metástasis. Se realiza una punción lumbar en la que aparece extendido celular compatible con carcinomatosis leptomeningea.
+Ante criterios de progresión pulmonar (basal derecha) y meníngea, mediante citología de líquido cefalorraquídeo, inicia tratamiento con Afatinib 50 mg/día en Julio de 2015.
+Rápidamente presenta mejoría clínica, manteniéndose paucisintomática, ECOG 1, con discreta paresia del III par craneal y sin otra sintomatología acompañante. 3 meses más tarde se realiza PET/TC,donde se aprecia enfermedad estable pulmonar, y RM cerebral con aparición de realces patológicos, que sugieren afectación metastásica leptomeníngea, tanto a nivel del III p.c. derecho, como de surcos cerebrales.
+Dada la progresión meníngea, se plantea la posibilidad de inclusión en ensayo clínico con un inhibidor de la tirosina quinasa (TKI) de tercera generación, activo frente a mutación de resistencia T790M.
+Rebiopsiamos el nódulo de LSD en Diciembre de 2015 y la paciente no es portadora de dicha mutación, informándose la biopsia de adenocarcinoma acinar G2. ALK negativo.Mutación EGFR:Exon 19 (delec): negativa; Exon 21 (mut L858R): positivo; Exon 20 (mut T790M): negativa; Inserciones:Exon 18 (G719X): negativa; Exon 18 (S768i): negativa; Exon 21 (L861Q): negativa.
+En Enero 2016 la paciente ingresa en planta de hospitalización con clínica de 2 semanas de evolución de vómitos matutinos en escopetazo, somnolencia y cefalea que en las últimas 48 horas provoca rápido deterioro del estado general con emesis, tanto espontánea como con mínimo movimiento, y postración.
+
+Exploración física
+Al ingreso:
+PS ECOG 2. Consciente y orientada. Normocoloreada y normohidratada. Eupneica
+No rigidez nucal. Discreta ptosis palpebral derecha con paresia del III par derecho con diplopia binocular.
+No adenopatías periféricas.
+Auscultación cardiopulmonar: Tonos rítmicos sin soplos. Murmullo vesicular conservado.
+Abdomen: Blando, depresible, no doloroso a la palpación. No masas ni megalias. Peristaltismo conservado.
+Extremidades inferiores sin edemas ni signos de trombosis.
+
+Pruebas complementarias
+Analítica sanguínea del 24.01.16: Hemoglobina 13.5g/mL, Leucocitos 8600 (77%Neutrófilos), Plaquetas 304000/mm3. IQuick 81%. Glucosa 122mg/dL, Creatinina 1.01mg/dL, Sodio 140meq/L, potasio 3.7meq/L, calcio 8.1mg/dL, albúmina 3.1g/dL. PCR 0.05mg/L. Gasometría venosa 24.01.16: pH 7.46, pCO2 41.7mmHg, HCO3 29 meq/L.
+TC Craneal 26.01.2016: El estudio se realiza sin contrate intravenoso, por alergia de la paciente al mismo, lo que no permite valorar de manera adecuada la afectación metastásica leptomeníngea conocida. Se compara con exploración previa de fecha 18.01.2016, realizada en otro centro, apareciendo aumento de la talla ventricular a expensas de las astas frontales y laterales de los ventrículos laterales, así como del tercer ventrículo. No se precia aumento de la talla venticular a nivel de astas occipitales ni temporales de los ventrículos laterales, ni a nivel del cuerto ventrícullo. Sin lesiones intraventriculares. Aumento del trasudado subependimario adyacente a las hastas occipitales y astas temporales. Estabilidad de la afectación leptomeníngea. Resto estable.
+
+Diagnóstico
+Adenocarcinoma LSD pulmón Estadio IV por afectación meníngea, EGFR mutado (L858R) ALK negativo, en progresión clínica con hidrocefalia sintomática.
+
+Tratamiento
+Se instaura tratamiento con medidas antiedema sin éxito, por lo que se decide realizar derivación ventrículoperitoneal y radioterapia externa sobre el neuroeje.
+
+Evolución
+Tras realización de derivación ventrículoperitoneal, desaparece la clínica de hipertensión intracraneal, quedando la paciente paucisintomática con ECOG 1. Días previos al ingreso se realizó TC toraco-abdominal donde persiste enfermedad estable pulmonar. La paciente recibió radioterapia externa sobre el neuroeje e inició tratamiento con Nivolumab a dosis de 3mg/Kg cada 2 semanas.
+Actualmente sigue tratamiento con Nivolumab, con muy buena tolerancia y criterios de enfermedad estable.

@@ -1,0 +1,55 @@
+Anamnesis
+Paciente mujer de 40 años de edad, que es valorada en Medicina Interna en diciembre/2016 por presentar clínica de unas 6 semanas de duración consistente en dolor abdominal en hipocondrio derecho, que empeoraba con la ingesta y no mejoraba con medicación; había acudido a Urgencias y se le había realizado una ecografía de abdomen en la que se observaban numerosas adenopatías de aspecto patológico, estando la mayor de ellas en relación espacial con la cabeza del páncreas y el hilio hepático. No presentaba astenia, ni anorexia, ni sudoración ni fiebre asociadas.
+
+Antecedentes familiares
+» Sin interés.
+
+Antecedentes personales
+» Sin alergias medicamentosas conocidas.
+» Nunca fumadora ni bebedora.
+» Sin factores de riesgo cardiovascular.
+» Antecedentes obstétricos: 2 embarazos, 2 partos vía vaginal.
+» Hipotiroidismo desde el segundo embarazo (2015).
+» Tratamiento habitual: levotiroxina 25 mcg diarios y anticonceptivos orales.
+
+Exploración física
+» ECOG 0. No se palpan adenopatías periféricas. Mamas sin hallazgos. Abdomen levemente doloroso en la palpación en hipocondrio derecho, sensación de masa mal definida a nivel de epigastrio. Miembros inferiores sin alteraciones a destacar.
+» Exploración ginecológica 17/02/2017: macroscópicamente normal. Tacto rectal y vaginal normales.
+
+Pruebas complementarias
+» Analítica 19/12/2016: función renal normal. Función hepática normal. Iones en rango. Proteína C reactiva 38,4. Hemograma, coagulación y metabolismo del hierro normales.
+» Marcadores tumorales (MT) 19/12/2016: alfa-fetoproteína (AFP) 4.626 {0-10}, beta2-microglobulina 2,90 {1,5-2,5}; CEA, CA 15,5, CA 72,4, CA 19,9 y CA 125 dentro de la normalidad. BHCG normal.
+» Evolutivo AFP: 4.626 (19/12/2016) --> 9.700 (17/02/2017) --> 10.875 (27/02/2017).
+» Biopsia aguja gruesa (BAG) 30/01/2017: se realiza BAG de conglomerado adenopático retroperitoneal --> Anatomía Patológica (13/02/2018): metástasis de carcinoma, sin diferenciación neuroendocrina (CD56 negativo) --> inmunohistoquímica (IHQ): CK7 -, CK20 -, glypican-3 +, p16 focalmente +. Negatividad para Hep-Par1, RCC, calretinina, CD30, CD117, CDX2, TTF1, p40 y CD10. Con este perfil IHQ y la morfología, se considera metástasis de carcinoma hepatoide. Como diagnóstico diferencial histológico, se debe plantear un hepatocarcinoma y una variante hepatoide de tumor germinal tipo seno endodérmico. Se realiza IHQ para SALL-4, con resultado negativo, lo que descarta origen germinal.
+» TC tórax-abdomen-pelvis 20/12/2016:
+» Tórax sin hallazgos, no se aprecian adenopatías.
+» Abdomen: hígado con lesión focal milimétrica sugestiva de quiste. Extensa afectación adenopática abdominal, retroperitoneal y mesentérica. Destaca el conglomerado interaortocava de 50 x 38 mm.
+» TC trifásica de abdomen 21/02/2017: grandes conglomerados adenopáticos. Lesión en cuerpo de páncreas de aspecto tumoral. Trombosis de vena mesentérica superior y confluencia con vena esplénica y tronco portal inicial. Lesión milimétrica en hígado de aspecto benigno. Pequeño teratoma ovárico izquierdo.
+» Endoscopia oral 20/02/2017: Compresión extrínseca a nivel rodilla duodenal.
+» Colonoscopia 20/02/2017: sin hallazgos.
+
+Diagnóstico
+» Carcinoma hepatoide productor de alfa-fetoproteína de probable primario pancreático metastásico (adenopatías múltiples de cavidad abdominal).
+» Trombosis vena mesentérica superior y confluencia con vena esplénica y tronco portal inicial.
+En este caso, la IHQ fue esencial, ya que permitió hacer el diagnóstico diferencial entre carcinoma hepatoide y tumor del seno endodérmico hepatoide (negatividad para SALL-4).
+Se concluye que el primario se encuentra en páncreas por hallazgo en TC de lesión hipodensa en cuerpo pancreático sugestiva de tumor primario (aunque no tenemos confirmación histológica de ello).
+
+Tratamiento
+» La paciente inicia tratamiento heparina de bajo peso molecular (HBPM).
+» 02/03/2017: se decide inicio de tratamiento para enfermedad diseminada según esquema cisplatino 100 mg/m2 d1 + gemcitabina 1.000 mg/m2 d1,8 cada 21 días.
+
+Evolución
+1ª línea: la paciente inicia tratamiento según esquema cisplatino-gemcitabina trisemanal en marzo/2017.
+» Toxicidades importantes: alopecia G2, astenia G2, neutropenia G3, trombopenia G1, mucositis G1, parestesias en guante y calcetín G1-2. Precisó algún retraso de tratamiento por neutropenia. Requirió profilaxis secundaria con G-CSF. No requirió ingreso en ningún momento.
+» Recibe un total de 6 ciclos completos de cisplatino-gemcitabina, continuando con gemcitabina en monoterapia a partir de C7 (por neurotoxicidad limitante) y hasta recibir un total de 12 ciclos.
+» TC de tórax-abdomen 08/05/2017: respuesta parcial a nivel de la afectación adenopática infradiafragmática y de la lesión primaria en páncreas. Progresión de la trombosis portomesentérica. Teratoma maduro a nivel anexial izquierdo.
+» TC de tórax-abdomen 14/08/2017: RP mantenida. Continúa con trombosis portomesentérica con transformación cavernomatosa de la porta y múltiples colaterales.
+» TC de tórax-abdomen 13/11/2017: nueva adenopatía interaortocava situada entre arteria renal derecha y vena renal izquierda de diámetros aproximados 2 x 1 cm (no clara PE por RECIST 1.1).
+ Evolución de AFP: 10.875 (27/02/2017, previa al inicio de QT) --> 9.740 --> 5.724 --> 589 --> 158 56,3 (10/10/2017) --> 755 (28/11/2017).
+» » En resumen: respuesta parcial por imagen y marcadores tumorales.
+2ª línea: en diciembre/2017 se considera PE por TC (a pesar de no cumplir criterios RECIST 1.1) y, sobre todo por MT. Se comienza nuevo tratamiento con docetaxel-gemcitabina.
+» Toxicidades importantes: neutropenia G3, neurotoxicidad G1-2 residual.
+» Recibe un total de 3 ciclos.
+» TC tórax-abdomen 06/03/2018: PE por aumento del tamaño de las adenopatías a nivel de ligamento gastro-hepático, porto-cava y retroperitoneo.
+» Evolución AFP: 755 (28/11/2017) --> 2.796 (13/03/2018).
+3ª línea: en marzo/2018 se objetiva PE por imagen y MT, por lo que se decide inicio de nueva línea de tratamiento según esquema adriamicina 25 mg/m2 d1,8 cada 21 días (en curso).

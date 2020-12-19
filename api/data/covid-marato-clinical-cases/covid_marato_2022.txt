@@ -1,0 +1,38 @@
+Anamnesis
+Se trata de una paciente de 64 años que consulta en nuestro Servicio tras la resección en otro centro de una tumoración uterina. La anatomía patológica fue compatible con sarcoma indiferenciado con afectación de cérvix y útero transmural con afectación ovárica bilateral y parametrial y citología de líquido peritoneal positiva.
+Antecedentes personales
+Mujer de 64 años, profesora de universidad, trabajadora activa y pendiente de jubilación a finales de año. Soltera. Sin alergias medicamentosas conocidas, dermatitis de contacto no estudiada por alergología (refiere marcas de dedos en la piel en relación con perfume). Hábitos tóxicos: exfumadora desde hace 25 años con un índice de paquetes-año de 13. Bebedora activa de 5 g de etanol diarios.
+Sin hipertensión ni diabetes mellitus. Presenta hipercolesterolemia controlada con medidas higiénico-dietéticas. Sin cardiopatía ni broncopatía conocidas.
+Antecedentes ginecológicos
+Menopausia a los 51 años. Nunca ha tomado anticonceptivos. Pólipo endometrial en el año 2012 asintomático, detectado en revisión rutinaria y fue resecado mediante laparoscopia.
+Antecedentes familiares
+Padre fallecido de infarto agudo de miocardio a la edad de 74 años. Tres tíos con cáncer de próstata, pulmón y colon con edades superiores a los 65 años. Un familiar directo portador de la mutación c.129G > A(W43*) en el gen SDHD.
+Tratamiento habitual: antihistamínicos a demanda.
+En noviembre de 2017, la paciente comienza con dolores inespecíficos abdominales y lumbares. Ya había presentado manchado marronáceo vaginal con periodicidad mensual (1 vez al mes) previamente, pero en noviembre la cantidad y la frecuencia de los sangrados se intensifican y consulta en otro centro. En la exploración ginecológica, se evidencia útero aumentado de tamaño y se confirma mediante prueba de imagen (ecografía). Dado el antecedente de pólipo endometrial hiperplásico que presentaba la paciente, se interpreta el cuadro como una metrorragia posmenopáusica con hiperplasia endometrial y se planifica cirugía (histerectomía más doble anexectomía). Ante hallazgo quirúrgico de útero tumoral globuloso con adenopatías, se le realizó histerectomía subtotal con posterior extirpación de cérvix y doble anexectomía.
+Acude a nuestro centro para valoración.
+
+Exploración física
+» ECOG PS 3.
+» Consciente y orientada. Diplopía por paresia MOE ojo izdo. Adenopatía supraclavicular izquierda palpable.
+» Auscultación cardiaca: rítmica, sin soplos audibles.
+» Auscultación pulmonar: murmullo vesicular conservado. No se auscultan ruidos patológicos sobreañadidos.
+» Exploración abdominal: cicatriz de histerectomía en hipogastrio. Blando y depresible, sin dolor a la palpación ni signos de irritación peritoneal, sin masas ni visceromegalias.
+» Extremidades: edemas bilaterales sin datos de trombosis venosa profunda.
+
+Pruebas complementarias
+» Ecografía ginecológica: endometrio de aspecto hiperplásico con útero miomatoso aumentado de tamaño de 11 x 10 x 8 cm sin definirse claro mioma.
+» TC toracoabdominopélvica postquirúrgica: histerectomía y doble anexectomía con colección hidroaérea secundaria a cirugía. Conglomerados adenopáticos retroperitoneales con extensión hacia cadenas iliacas comunes y externas. Adenopatía supraclavicular izquierda de 1,5 cm con sospechosa de malignidad.
+» Gammagrafía con Tektrotyd®: múltiples hipercaptaciones distribuidas a lo largo del esqueleto en relación con diseminación metastásica ósea. Se visualizan asimismo acúmulos patológicos del radionúclido en lóbulo izquierdo hepático (segmento II-III) y más dudosa en segmento VI. Acúmulos puntuales en región de área cardiaca, que parecen localizarse en ambos ventrículos y no pudieron diferenciarse totalmente en localización intracardiaca/paracardiaca. Hipercaptaciones en línea media de región de mesogastrio que podrían corresponder a adenopatías metastásicas.
+» Resonancia magnética cerebral: múltiples lesiones óseas compatibles con metástasis: las de mayor tamaño en escama occipital y punta del peñasco izquierda.
+» Biopsia de la adenopatía supraclavicular: carcinoma neuroendocrino con Ki67: 99 %. Presentaba 0 % de expresión inmunohistoquímica de proteína PD-L1, así como mutaciones negativas para el gen EFGR. Tras revisar la pieza quirúrgica que la paciente había aportado se confirma que se trata de un carcinoma neuroendocrino extenso de cérvix uterino estadio IV.
+
+Diagnóstico
+Se trata de un carcinoma neuroendocrino de cérvix extendido, estadio IV (metástasis óseas, hepáticas y ganglionares) que fue inicialmente mal etiquetado como sarcoma indiferenciado con afectación de cérvix y útero, ovárica bilateral y parametrial.
+La biopsia de la adenopatía supraclavicular izquierda que presentaba la paciente y la realización de un nuevo estudio anatomopatológico de la pieza quirúrgica con estudio completo de mutaciones han sido claves en el diagnóstico.
+Tratamiento
+Tratamiento citostático con carboplatino-paclitaxel, y octreótido mensual que se inicia durante el ingreso. Inicialmente se plantea un total de 4 a 6 ciclos a valorar en función de la evolución.
+Tras tres ciclos, la paciente presenta importante mejoría clínica con PS1, normalización analítica salvo ligera anemia y descenso de LDH de 5.188 a 615 U/l.
+Pendiente de reevaluación con TC.
+
+Evolución
+Estando pendiente de resultados de pruebas complementarias acude al Servicio de Urgencias con impactación fecal, fracaso renal agudo, edemas, hipoalbuminemia, hipercalcemia e hiperuricemia. Hiponatremia, anemia de 6 g/dl de Hb, y ECOG PS 4. Con tratamiento de soporte y sintomática mejora y con PS 2 se inicia tratamiento citostático con carboplatino-paclitaxel, y octreótido mensual.

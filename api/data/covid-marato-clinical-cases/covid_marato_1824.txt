@@ -1,0 +1,30 @@
+Anamnesis
+Varón de 82 años sin alergias medicamentosas conocidas, exfumador, que como antecedentes medicoquirúrgicos presentaba hipertensión arterial, diabetes mellitus no insulinodependiente, cardiopatía isquémica, resección de colon por posible neoplasia de sigma en 1980, gastrectomía parcial por neoplasia en 1999, colecistectomía laparoscópica en 2012 y enucleación de ojo derecho en 2016 por melanoma de coroides. No presentaba antecedentes familiares de interés.
+En mayo de 2018, tras ser estudiado por anemia ferropénica, se diagnostica de adenocarcinoma de colon transverso visualizándose varias lesiones ocupantes de espacio a nivel hepático en las pruebas de imagen de estadiaje realizadas.
+En junio de 2018 se lleva a cabo una resección segmentaria de colon transverso con estudio histológico resultante de adenocarcinoma de colon de bajo grado pT3N1c. Además, en el mismo acto quirúrgico, se realiza una biopsia/exéresis de una de las lesiones hepáticas con diagnóstico anatomo-patológico final de metástasis hepática por melanoma BRAF no mutado.
+Con estos hallazgos, tras actualizar pruebas de imagen y comprobar valores analíticos normales, el paciente, con diagnóstico de melanoma estadio IV, inicia 1ª línea de tratamiento con pembrolizumab en septiembre de 2018.
+En octubre de 2018, habiendo recibido hasta el momento 2 infusiones de tratamiento, el paciente acude a Urgencias por aumento progresivo de astenia y anorexia de 2 semanas de evolución.
+
+Exploración física
+El paciente presentaba un performance status (PS) de 3. Se encontraba consciente, colaborador y orientado. Deshidratado. La auscultación cardiopulmonar era normal, destacando en la palpación abdominal hepatomegalia importante.
+
+Pruebas complementarias
+» En la analítica de sangre destacaba: hemoglobina 9,1 g/dl, urea 232 mg/dl, ácido úrico 18 mg/dl, creatinina 2,68, potasio 6,9 mmol/l, bilirrubina total 2,8 mg/dl, aspartato aminotransferasa (AST/GOT) 199 UI/l, alanina aminotransferasa (ALT/GPT) 112 UI/l, gamma glutamil transferasa (GGT) 273 UI/l, fosfatasa alcalina 320 UI/l, lactato deshidrogenasa (LDH) 8.958 U/l, calcio corregido por albúmina 8,2 mg/dl.
+» Gasometría arterial: PH 7,36, pCO2 23,6 mm Hg, pO2 79 mm Hg, bicarbonato 13,2 mmol/l, exceso de bases -10,9 mmol/l, láctico 10,88 mmol/l.
+» ECG: fibrilación auricular con respuesta ventricular a 98 lpm. Bloqueo de rama derecha e hemibloqueo anterior izquierdo. Necrosis inferior.
+
+Diagnóstico
+» Melanoma estadio IV a tratamiento con pembrolizumab.
+» Síndrome de lisis tumoral.
+» Insuficiencia renal aguda grado 3.
+» Hepatitis tóxica grado 2.
+
+Tratamiento
+Durante su estancia en el Servicio de Urgencias se inicia tratamiento con sueroterapia, alopurinol 300 mg c/12 h vía oral y furosemida. Además, se administra gluconato cálcico por la hiperpotasemia con mejoría posterior de la misma.
+Tras ello, y una vez descartada la necesidad de hemodiálisis, se procede al ingreso del paciente.
+
+Evolución
+Durante su estancia en la planta de hospitalización, el paciente permanece clínica y hemodinámicamente estable, con mejoría progresiva de los valores analíticos. A pesar de ello, el paciente mantiene cifras elevadas de ácido úrico por lo que se decide suspensión de alopurinol e inicio de rasburicasa.
+Tampoco se evidenciaron durante este periodo alteraciones electrocardiográficas nuevas, correspondiendo todos los descritos a cambios crónicos secundarios a cardiopatía previa.
+En controles analíticos posteriores se observa un empeoramiento de la función renal por lo que se intensifica la hidratación.
+A pesar de la mejoría inicial, 36 horas después del ingreso, el paciente sufre una parada cardiorrespiratoria siendo finalmente exitus. En este momento, las cifras de potasio en la analítica de sangre eran normales.

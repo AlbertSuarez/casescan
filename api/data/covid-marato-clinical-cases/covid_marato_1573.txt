@@ -1,0 +1,37 @@
+MOTIVO DE CONSULTA
+Hombre de 80 años que acude en febrero de 2016 al servicio de urgencias del hospital tras caída casual en el domicilio, sin traumatismo cráneo-encefálico, presentando mareo persistente con inestabilidad de la marcha de dos meses de evolución, pérdida de peso de 8 kg en los últimos 3 meses y parestesis en manos y pies.
+
+Se solicita una analítica completa con hemograma, bioquímica y coagulación, Rx de tórax y Tc cerebral sin mostrar alteraciones.
+
+ANTECEDENTES PERSONALES
+Etilismo crónico, ex-fumador de 70 paquetes/año.
+
+EXPLORACIÓN FÍSICA
+- Buen estado general. Performance Status 1.
+- Auscultación cardiopulmonar: Sin hallazgos relevantes.
+- Exploración neurológica: Consciente y orientado. Sin alteraciones del lenguaje. Ataxia grave con alteración de la sensibilidad (vibratoria/posicional). Romberg (+). Arreflexia universal. No déficit motor ni alteraciones mnésicas.
+- Oftalmología (fondo de ojo): Papiledema bilateral.
+
+EXPLORACIONES COMPLEMENTARIAS
+- Analítica: Hb 12g/dl, Leucocitos 14.000, Neutrófilos 13.000, VSG 106 mm/h, PCR 11 mg/dl, ANA’s positivo débil, ANCA’s negativos, IgM 340 mg/dl.
+- Electromiograma: polineuropatía periférica sensitivo-motora (de predominio sensitivo) y características mixtas que afecta sobre todo a los miembros inferiores en grado levemoderado.
+- Potenciales Evocados Visuales: parámetros neurofiosiológicos conservados.
+- RMN cerebral 24/02/16: Ausencia de lesiones ocupantes de espacio, leucoaraiosis grado 3, sin captaciones anómalas tras la administración de contraste, estudio angiográfico normal.
+- Punción Lumbar: Hiperproteinorraquia 109 mg/dL, pleocitosis (células nucleadas 45).
+- TC Toraco-abdomino-pélvico con contraste 26/02/16: Nódulo espiculado en segmento posterior de LSD de 17 x 13 mm, múltiples adenopatías mediastínicas, paratraqueales, subcarinales, en relación con neoplasia pulmonar. Parénquima hepático sin evidencia de lesiones focales. Suprarrenales de tamaño normal.
+- Fibrobronscoscopia: cuerdas vocales con zonas de hiperquertinización. Sin lesiones endobronquiales. Citología del lavado bronco-alveolar, negativo para células malignas.
+- Ecobroncoscopia (EBUS) 30/03/16: Anatomía patológica de una de las adenopatías mediastínicas compatible con metástasis ganglionar de carcinoma microcítico.
+- Anticuerpos onconeuroales: Anti-CV2/CRMP-5 positivo.
+- TC toraco-abdominal con contraste 28/07/16: Prácticamente ha desaparecido el nódulo pulmonar conocido en LSD, quedando únicamente una opacidad residual y mínimo engrosamiento pleural adyacente. No se aprecian otros nódulos pulmonares.
+Disminución significativa de las adenopatías mediastínicas, sin apreciar en la actualidad ninguna de tamaño significativo. Hígado sin lesiones focales que sugieran afectación metastásica. No hay lesiones óseas que sugieran afectación metastásica.
+- RMN medular 12/05/16: Hiperintensidad de señal en T2 y STIR de la médula en su totalidad, afectación de cordones posteriores, contexto de desmielinización de probable origen paraneoplásico.
+
+JUICIO DIAGNÓSTICO
+Neuromielitis óptica paraneoplásica secundaria a carcinoma microcítico de pulmón.
+
+TRATAMIENTO Y EVOLUCIÓN
+En febrero de 2016 el paciente ingresa en la planta de neurología presentando a la exploración una hipoestesia cuadristal con ataxia de predominio izquierdo, arreflexia global e hipopalestesia distal de predominio en miembros superiores. Fue valorado por el servicio de oftalmología, objetivándose en la OCT: papiledema bilateral sin síntomas congestivos y reducción concéntrica del campo visual en ambos ojos. Se solicitó una RMN cerebral que no mostraba alteraciones relevantes. El electromiograma objetivaba una polineuropatía periférica de predominio sensitivo sobre todo en miembros inferiores. Dados los antecedentes de consumo de alcohol, junto con ataxia sensitiva y alteraciones oculares, se inició tratamiento con vitamina B1 (tiamina) sin mejoría del cuadro clínico. En la punción lumbar se apreciaba: hiperproteinorraquia 109 mg/dl y pleocitosis con un total de 45 células nucleadas. Dado que se trataba de un paciente fumador con escasa respuesta a la vitamina B1, descartada la encefalopatía de Wernicke, se solicitó un TAC toraco-abdominal que ponía de manifiesto la presencia de un nódulo espiculado en segmento posterior de LSD de 17 x 13 mm, múltiples adenopatías mediastínicas, paratraqueales y subcarinales, siendo la biopsia de las adenopatías mediastínicas compatibles con metástasis de carcinoma microcítico de pulmón. Entre las últimas pruebas diagnósticas fueron analizados los anticuerpos onconeuronales resultando positivos para Anti-CV2/CRMP-5 en suero y en LCR.
+
+En febrero de 2016 el paciente recibió tratamiento inmunosupresor completando dos dosis de Rituximab junto con metilprednisolona 1 gramo durante 5 días. Fue trasladado al servicio de Oncología donde se administró el primer ciclo de Carboplatino y Etopósido con buena tolerancia. Al alta de Oncología presentaba mejoría clínica siendo capaz de deambular con ayuda aunque persistiendo la ataxia sensitiva en las extremidades inferiores. En mayo de 2016, el paciente sufrió un empeoramiento clínico, con imposibilidad de la marcha, arreflexia global, ataxia sensitiva completa y movimientos pseudoatetósicos en extremidades superiores. Se solicitó una RMN medular que ponía de manifiesto la presencia de mielitis longitudinal extensa afectando a los cordones posteriores. Se inició tratamiento inmunosupresor mediante plasmaféresis y una dosis única de ciclofosfamida.
+
+El paciente fue remitido a un hospital de larga estancia, llevando a cabo rehabilitación con mejoría neurológica, siendo capaz de iniciar bipedestación con apoyo, persistía la ataxia sensitiva y a nivel oftalmológico presentaba papiledema bilateral con reducción concéntrica del campo visual. Se completaron un total de 5 ciclos de quimioterapia observándose una respuesta completa en octubre de 2016. Entre septiembre y octubre de 2016 inició RT torácica con dosis total de 60 Gy y RT holocraneal profiláctica con dosis total de 30 Gy. Actualmente, el paciente sigue controles en neurología y oncología, manteniéndose estable clínicamente, con agudeza visual de 0.4 bilateral, fuerza muscular 4/5, arreflexia tendinosa y ataxia sensitiva que impide bipedestación sin ayuda.

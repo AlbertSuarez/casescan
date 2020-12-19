@@ -1,0 +1,32 @@
+Anamnesis
+Paciente varón de 53 años sin antecedentes de interés que consulta en junio de 2017 por episodios de diarrea acuosa en torno a unas 3-4 deposiciones diarias junto con sudoración, mareo y pérdida de 5 kg en los últimos dos meses.
+
+Exploración física
+» Durante la exploración se encuentra con buen estado general, eupneico, bien perfundido.
+» Constantes: tensión arterial: 120/75 mm Hg, 87 lpm, saturación basal al 98 %, afebril.
+» No se palpan adenopatías laterocervicales, submandibulares, supra o infraclaviculares, tampoco axilares, ni inguinales.
+» A la auscultación está rítmico sin soplos. Murmullo vesicular conservado sin ruidos.
+» Abdomen depresible sin megalias ni masas.
+» No tiene edemas ni datos de TVP.
+
+Pruebas complementarias
+» Se decide ingreso con la realización de las siguientes pruebas complementarias.
+» Analítica con función renal, iones y perfil hepático dentro de la normalidad. Hemoglobina 14 g/Dl, leucocitos 6.190 y plaquetas 172.000. Cromogranina basal 159,5 ng/Ml (VN < 84,7 ng/ml), 5-hidroxiindolacético en orina 24 horas (5-HIAA): 21 μmol/d (VN 0-14 μmol/d).
+» TC toracoabdominopélvica que muestra hallazgos sugerentes de tumor carcinoide localizado en las asas yeyunales (mayor captación en fase arterial en dicha zona) metástasis hepáticas distribuidas por todos los segmentos; la mayor mide 26 mm y se localiza en el segmento 4 hepático.
+» Rastreo de receptores de somatostatina: se constata la diseminación metastásica hepática y la lesión abdominal coincidente por la localización y morfología con la probable tumoración yeyunal.
+» Endoscopia alta: esófago y mucosa de morfología normales. Exploración hasta duodeno distal sin observar lesiones.
+» Biopsia hepática: metástasis de TNE bien diferenciado grado 1 (OMS 2010). Ki-67 1-2 %. Las células son positivas para marcadores neuroendocrinos como son cromogranina, sinaptofisina, CD56.
+
+Diagnóstico
+Tumor neuroendocrino ileoyeyunal bien diferenciado grado 1 (Ki-67 1-2 %) con afectación metastásica en todos los segmentos hepáticos.
+
+Tratamiento
+El paciente inicia tratamiento con lanreótido autogel 120 mg cada 28 días en julio de 2017 con franca mejoría del síndrome carcinoide asociado. Se interviene del tumor primario en noviembre de 2017 (resección de intestino delgado: p T3, N1, LV0, Pn1 R0). No hay posibilidad de resección hepática por afectación extensa tumoral sin posibilidad de dejar suficiente remanente hepático.
+
+Evolución
+Tras la cirugía, el estudio con cromogranina A sérica y 5-HIAA se hallaba dentro de la normalidad. El paciente continuó con análogos de somatostatina desde noviembre de 2017 mostrándose completamente asintomático y con una excelente calidad de vida. El paciente sigue controles clínicos y radiológicos con TC cada 6 meses.
+En febrero de 2019 acude de nuevo por astenia y diarrea acuosa en número de unas 3 deposiciones al día justo la semana previa a la administración del análogo. Se repiten los marcadores que no muestran elevación.
+Se realiza TC toracoabdominopélvica que constata progresión tumoral hepática con crecimiento de todas las metástasis y mayor realce de las mismas. No hay otras lesiones viscerales ni adenopáticas.
+Se decide pauta quincenal del análogo con lo que la clínica desaparece de nuevo. Se realiza de nuevo Octreoscan® que muestra positividad para las metástasis hepáticas. Los marcadores de cromogranina A y 5-HIAA no se elevaron en ningún momento.
+Valorado el caso en comité de TNE se acuerda inicio de tratamiento con radionúclidos (lutecio-177) 200 mCi en abril de 2019 con continuidad de análogos de somatostatina (posología mensual) entre las dosis de lutecio.
+El paciente hasta la fecha ha recibido dos dosis de 177-LU-dotetate con excelente tolerancia, asintomático y sin ningún efecto adverso documentado.

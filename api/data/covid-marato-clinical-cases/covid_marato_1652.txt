@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 75 años, sin antecedentes médicos de interés, que consulta por síndrome constitucional de seis meses de evolución, con pérdida de 12 kg, asociado a ictericia sin coluria ni acolia. No refiere otra sintomatología de interés en la anamnesis por aparatos.
+
+Exploración física
+» TA 110/66 mm Hg, FC 95 lpm, SatO2 (basal): 95 %, Tº: 36ºC.
+» Consciente, orientado y colaborador. Regular estado general, normohidratado, tinte ictérico, caquexia.
+» AC: rítmico, no oigo soplos.
+» AP: MV conservado, no ruidos sobreañadidos.
+» Abdomen blando, no doloroso en la palpación, sin signos de peritonismo, RHA presentes.
+» EE II: no edemas, no signos de TVP.
+
+Pruebas complementarias
+La analítica sanguínea inicial muestra hiperbilirrubinemia total (3,94 mg/dl), a expensas de indirecta (2,74 mg/dl), junto con parámetros de hemólisis (LDH 847 U/l, plaquetas 88 200/ul y hemoglobina 8,1 g/dl, VCM 85,5 fl).
+Posteriormente, ante la sospecha de anemia hemolítica, se solicita analítica de orina, frotis sanguíneo, test de Coombs y niveles de haptoglobina. El sedimento de orina objetiva la presencia de hemoglobina y urobilinógeno. En el frotis se visualiza trombopenia y anisopoiquilocitosis con abundantes esquistocitos. El test de Coombs es negativo y la haptoglobina se encuentra disminuida (< 7,75 mg/dl). Además, los niveles de complementos, las serologías víricas y el estudio autoinmune son normales.
+También, se solicita TC toracoabdominopélvica, que muestra engrosamiento del antro gástrico, adenopatías locorregionales y afectación ósea difusa. Los marcadores CEA, CA 19,9 y CA 125 se encuentran elevados. Se realiza endoscopia digestiva alta con toma de lesión gástrica, en la que se observa engrosamiento de la mucosa gástrica. Los cortes histológicos muestran mucosa gástrica con una proliferación neoplásica de estirpe epitelial originada en la mucosa gástrica, dispuesta en regueros aisladamente y en un patrón difuso "en sábana". Las células neoplásicas presentan atipia, pleomorfismo e hipercromatismo, con vacuolización citoplasmática y núcleo excéntrico "en anillo de sello". El diagnóstico histológico es de adenocarcinoma gástrico de tipo difuso.
+
+Diagnóstico
+Microangiopatía trombótica (MAT) y anemia hemolítica secundarios a adenocarcinoma gástrico estadio VI (T3N3bM1), según la clasificación TNM de 2017.
+
+Tratamiento
+Con la sospecha de síndrome paraneoplásico, se inicia quimioterapia con 5-fluorouracilo, ácido folínico y oxaliplatino (FOLFOX).
+
+Evolución
+Tras recibir tres ciclos de FOLFOX y varias transfusiones de hemoderivados, las cifras hematológicas se recuperan y el paciente es dado de alta.

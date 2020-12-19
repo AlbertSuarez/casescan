@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 26 años, trompetista de profesión, sin antecedentes médico-quirúrgicos de interés, que consulta porque en las últimas semanas presenta cefalea y embotamiento mental con diplopia ocasional, sin referir ninguna otra sintomatología.
+
+Exploración física
+Tanto la exploración física en general como la neurológica en particular no muestran hallazgos significativos.
+
+Pruebas complementarias
+» Las pruebas de laboratorio habituales resultan ser normales.
+» Se realiza un fondo de ojo, en el que se visualiza un edema de papila bilateral, por lo que se solicita una TC craneal, donde se objetiva una tumoración sólida en el lóbulo frontal izquierdo de unos 8 x 6 cm con áreas quísticas internas y edema vasogénico que capta contraste de manera ligera y desplaza la línea media invadiendo a su vez la región subfalciana contralateral.
+
+Diagnóstico
+Ante la sospecha de un glioblastoma, el 1/7/2008 se realiza una craneotomía frontal izquierda con exéresis subtotal de la lesión. El período postoperatorio transcurre sin incidencias, con evolución favorable con tratamiento con dexametasona y valproato. El informe patológico describe una tumoración muy celular con alto grado de pleomorfismo nuclear, muy vascularizada y con focos de necrosis, que presenta positividad para proteína glial fibrilar ácida y un índice de proliferación del 8%, siendo diagnosticado de glioblastoma multiforme.
+
+Tratamiento
+Entre el 23/7/2008 y el 3/9/2008 el paciente recibió radioterapia con quimioterapia concomitante, temozolomida 75 mg/m2/día, presentando como toxicidad aguda hipertensión intracraneal, dermitis grado 1-2 y alopecia grado 4 en la zona tratada. Posteriormente recibió tratamiento con temozolomida (360 mg/día vía oral durante 5 días cada 4 semanas), con respuesta completa y buena tolerancia, presentando como únicos efectos adversos linfopenia grado 1 sin infecciones asociadas, náuseas y estreñimiento ocasional.
+
+Evolución
+El paciente permanece asintomático, libre de enfermedad y con buena calidad de vida durante 7 años; de hecho, en agosto de 2013 comienza a trabajar como profesor de música. Durante estos años, únicamente acudió a Urgencias en dos ocasiones por crisis convulsivas, siendo necesario reajustar la dosis de antiepilépticos, sin precisar ingreso hospitalario. Dada esta buena evolución, la muestra de tejido neoplásico fue reevaluada por un segundo patólogo que confirmó que, efectivamente, se trataba de un glioblastoma multiforme y se solicitó un estudio molecular del tumor que mostraba una hipermetilación del promotor del gen MGMT (MLPA ME011-B1), IDH 1 wild type, IDH 2 mutado p.Arg172Ser, Ki 67 10% y p53 90%.
+
+El 13/1/2015, tras el ciclo número 74 de quimioterapia, y estando el paciente asintomático, se observa en la RM de control un aumento mal definido de la captación de contraste en el parénquima cerebral frontal izquierdo posterior al lecho quirúrgico que sugiere una recidiva tumoral como primera posibilidad diagnóstica. Se realiza una resonancia magnética-espectroscopia que confirma la sospecha, por lo que el 26/2/2015 se le realiza una nueva craneotomía con exéresis de la lesión. El informe anatomopatológico confirma que se trata de un glioblastoma multiforme recidivado.
+
+Dos semanas después de la segunda intervención, el paciente presenta fiebre y una tumoración subcutánea a nivel frontal izquierdo, una colección líquida, que se drena y recibe tratamiento antibiótico de manera profiláctica. Los estudios microbiológicos descartan infección, llegándose al diagnóstico de fístula de líquido cefalorraquídeo postquirúrgica.
+
+En el último control de abril de 2015 el paciente se encuentra asintomático, con una RM que muestra cambios postquirúrgicos en la región frontal izquierda, sin evidencia de lesión activa en el momento actual.

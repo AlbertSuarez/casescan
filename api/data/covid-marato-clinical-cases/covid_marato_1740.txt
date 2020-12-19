@@ -1,0 +1,20 @@
+Anamnesis
+Mujer de 75 años con intolerancia a antiinflamatorios no esteroideos. Antecedentes personales de hipertensión arterial, fibrilación auricular, colon espástico y hernia de hiato. Tras ser estudiada por hemoptisis, es diagnosticada en mayo de 2016 de adenocarcinoma de pulmón estadio IV por metástasis única suprarrenal derecha.
+En junio de 2016, es intervenida de lobectomía del lóbulo superior derecho y en agosto de 2016 de suprarrenalectomía derecha. Ambas biopsias muestran mutación en EGFR (L858R).
+En septiembre de 2016, se deriva a Oncología con nuevo estudio de imagen, en el cual se evidencia metástasis suprarrenal derecha. Tras valorar opciones de tratamiento a nivel local, dado que la paciente se quedaría con una sola glándula suprarrenal y la indicación de tratamiento con inhibidor tirosina quinasa (ITK) hubiera sido la misma, se decide no tratar la lesión con una segunda cirugía. La paciente inicia erlotinib a 100 mg/día, presentando toxicidad cutánea y gastrointestinal grado III y precisando, por tanto, ajuste de dosis a 75 mg/día.
+En julio de 2017 muestra, en tomografía computarizada (AC) de reevaluación, respuesta completa y, en noviembre de 2017, resultado negativo en la biopsia líquida de seguimiento. En TC de agosto de 2018 aparece una nueva lesión subpleural lateral en lóbulo inferior derecho (LID) de 7 mm y biopsia líquida positiva para mutación L858R. Dado que la paciente se encuentra asintomática con ECOG 0, se mantiene el tratamiento con erlotinib y se decide seguimiento estrecho. En TC de marzo de 2019, presenta aumento de tamaño de glándula suprarrenal izquierda con estabilización de la lesión en LID.
+
+Exploración física
+Buen estado general. Exploración física dentro de la normalidad.
+
+Pruebas complementarias
+Se decide biopsia de glándula suprarrenal por endoscopia de ultrasonidos.
+
+Diagnóstico
+Resultado anatomopatológico de biopsia de glándula suprarrenal por endoscopia de ultrasonidos: positivo para metástasis de carcinoma microcítico y estudio de inmunohistoquímica: CAM 5,2 +, sinaptofisina +, cromogranina +, CD 56 +, Ki 67 80 %.
+
+Tratamiento
+La paciente inicia tratamiento con carboplatino y etopósido.
+
+Evolución
+Actualmente continúa en tratamiento con carboplatino y etopósido, pendiente de estudio de reevaluación.

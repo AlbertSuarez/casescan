@@ -1,0 +1,57 @@
+Anamnesis
+Paciente mujer de 51 años, remitida desde Neurología en abril de 2002 por neuronopatía sensitiva sospechosa de síndrome paraneoplásico.
+
+Filiación: Casada, hostelera, buen apoyo familiar.
+
+Antecedentes personales: sin alergias medicamentosas. Fumadora de 20 paquetes-año hasta 2002. Hipertiroidismo en 1996 (enfermedad de Graves-Basedow), sin tratamiento farmacológico desde 1999. Lesión escamosa intraepitelial (SIL) de bajo grado (CIN I asociado a VPH) en 1997, tratada con criocoagulación. IQ previas: apendicectomía a los 17 años.
+
+Antecedentes familiares: madre fallecida con hepatocarcinoma a los 64 años.
+
+Enfermedad actual
+En agosto de 2001 inicia cuadro de astenia progresiva y reducción ponderal de aproximadamente 8 kg en 6 meses, que inicialmente fue atribuido a su desorden tiroideo.
+
+En septiembre de 2001 refiere sensación vertiginosa intermitente, con paroxismos, refractario a tratamiento sintomático y que se autolimita después de varias semanas.
+
+En diciembre 2001 nota parestesias en regiones distales de miembros superiores e inferiores, asociadas a inestabilidad en la marcha.
+
+Ante ello, es remitida a la consulta de Neurología, evidenciándose al examen físico una neuropatia sensitiva distal, con anticuerpos antineuronales anti-Hu (y anti-Ry a títulos bajos) positivos en suero (confirmados en centro de referencia). Se indica tratamiento con inmunoglobulina IV (IVIG) y esteroides, con leve mejoría. Ante la sospecha de síndrome paraneoplásico, es remitida a consultas de
+Oncología Médica de cara a evaluar posibilidad de proceso oncológico activo.
+
+Exploración física
+Examen físico: peso 67 kg, talla 159 cm, IK:80. CyC, tórax, abdomen: sin alteraciones.
+
+Examen neurológico: sensación disestésica en plantas y pulpejos de los dedos. Disminución de sensibilidad vibratoria (palestesia) a nivel distal. Marcha atáxica, que empeora al cerrar los ojos. Tándem imposible. Romberg positivo. Hiporreflexia/arreflexia generalizada. Dismetría en la prueba índice-nariz y talón-rodilla, con predominio derecho. Respuesta cutáneo-plantar flexora bilateral. Función motora conservada. Pares craneales sin alteraciones.
+
+Pruebas complementarias
+» Hemograma, perfil bioquímico, ácido fólico, vitamina B12, proteinograma y perfil tiroideo: normales.
+» Serologia viral (VIH, hepatitis) y luética: negativa.
+» Elemental y sedimento de orina: normal.
+» Marcadores tumorales: CEA, CA153: normales. CA199 32,3U/mL. CA125 22,2 U/mL.
+» ECG: normal.
+» RX tórax, enema opaco, ecografia abdominal, TC corporal y RM craneomedular: normales.
+» Broncoscopia: normal.
+» Estudio LCR: normal.
+» Estudio ginecológico: normal.
+» Mamografia: normal.
+» PET-FDG: normal.
+» Estudio neurofisiológico: polineuropatia axonal sensitiva pura de predominio en miembros inferiores.
+» Anticuerpos antineuronales: Anticuerpos anti-Hu positivos. Anticuerpos anti-Ry positivos (título bajo).
+
+Diagnóstico
+Neuronopatía sensitiva subaguda de probable origen para neoplásico: "síndrome de Denny-Brown".
+
+Tratamiento
+Aunque la inmensa mayoría de estos síndromes desemboquen en el diagnóstico de un carcinoma (con mayor frecuencia microcítico de pulmón), a día de hoy no hay indicios a este respecto. La ligera elevación del CA-19.9 y del CA-125 no orientan a nada en concreto. En ese momento, ante la falta de evidencia de enfermedad oncológica activa, se opta por vigilancia estrecha mediante estudio serológico cada 3 meses y radiológico cada 6 meses.
+
+Evolución
+El seguimiento mediante marcadores CA-199 y CA-125, se refleja en la gráfica 1, no habiéndose observado elevaciones llamativas. En este tiempo, la estabilidad desde el punto de vista neurológico ha sido la norma, incluso con mejoría progresiva de la ataxia (no llegando a desaparecer por completo), precisando ocasionalmente de fármacos para minimizar síntomas, tales como amitriptilina por dolor/parestesias nocturnas en "calcetín" o gabapentina.
+
+En abril de 2004 coincidiendo con leve elevación serológica, sufre episodio catalogado como ileo intestinal con TC corporal y PET sin hallazgos, y que se yuguló con medidas conservadoras.
+
+En enero 2005 es valorada por Endocrinologia por hipotiroidismo, iniciando tratamiento sustitutivo.
+
+En enero 2007, nuevo episodio de obstrucción intestinal que requiere intervención quirúrgica mediante laparotomía, con resección intestinal y colostomía (informe anatomopatológico: necrosis e inflamación inespecífica), procediéndose a cierre de colostomia a los 6 meses. 
+
+En TC de seguimiento de diciembre de 2007 se documentan quistes ováricos de predominio derecho, que se mantienen estables hasta enero de 2011, momento en el que la TC describe una masa quística, tabicada en región anexial derecha, que comprime sigma (7,2 x 4 cm), decidiéndose actitud expectante hasta enero de 2012 que es sometida a anexectomía derecha sin complicaciones (informe anatomopatológico: cambios benignos). En TC de Abril de 2014 se observa quiste parametrial izquierdo de 6 x 3,6 cm, decidiéndose nuevamente mantener en observación; y en marzo- de 205 se realiza una biopsia del endometrio sin signos de malignidad.
+
+En este tiempo ha recibido para el cuadro paraneoplásico esteroides, inmunoglobulinas y azatioprina ocasionalmente, con buena respuesta, sin haberse evidenciado en ningún momento actividad tumoral y habiéndose optado por la abstención terapéutica desde el punto de vista oncológico. Asimismo, se ha constatado en diferentes momentos la positividad de los anticuerpos anti-HU.

@@ -1,0 +1,40 @@
+Anamnesis
+Paciente mujer de 76 años. Sin alergias medicamentosas conocidas.
+Diagnóstico clínico de neurofibromatosis tipo 1 con fenotipo de neurofibromas cutáneos múltiples y familiares de primer grado afectos.
+Historia de anemia de perfil ferropénico conocida desde el año 2000, que motivó su ingreso en Medicina Interna, con requerimiento transfusional y realización de una esofagoduodenogastroscopia, que no mostró hallazgos de relevancia.
+Ingreso en Gastroenterología en septiembre de 2012 por hemorragia digestiva alta, que precisó nuevamente transfusión, hallándose en la gastroscopia una hernia de hiato de 4 centímetros (cm) con erosiones en el cuello herniario.
+Fractura-aplastamiento vertebral a nivel de T12 en agosto de 2012, que se manejó de forma conservadora con tratamiento ortopédico con corsé.
+Nuevo ingreso en diciembre de 2013 en Medicina Digestiva por anemización y hemorragia digestiva alta en forma de melenas, nuevamente con requerimiento transfusional. En este contexto se una realizó angio-tomografía computarizada (angio-TC), objetivándose una tumoración yeyunal con hemorragia activa.
+Ante dicho hallazgo, el 20 de diciembre de 2013 la paciente es intervenida de urgencia, realizándose cirugía laparoscópica exploratoria que confirma la presencia de una tumoración yeyunal adherida al colon descendente y que se convierte posteriormente a laparotomía, realizándose resección intestinal de 30 cm de yeyuno con anastomosis yeyuno-yeyunal a 30 cm del ángulo de Treitz.
+Tras el alta hospitalaria, la paciente es derivada a Oncología Médica.
+
+Examen físico
+En la primera visita en Oncología Médica:
+La paciente muestra un Performance Status de 1.
+Presenta neurofibromas cutáneos múltiples.
+La auscultación cardiopulmonar no muestra hallazgos relevantes.
+En el abdomen se aprecia la cicatriz de la lapatomía, sin objetivarse otros hallazgos de relevancia, y no apreciándose masas ni megalias.
+Los miembros inferiores no presentan edemas, únicamente se hallan signos discretos de insuficiencia venosa crónica.
+
+Pruebas complementarias
+En el ingreso en diciembre de 2013, ante la aparición de una nueva hemorragia digestiva alta y nueva anemización con necesidad transfusional, se realizan las explorciones complementarias debajo expuestas:
+- El 18 de diciembre de 2013 se realiza una endoscopia digestiva alta urgente, objetivándose hernia de hiato con saco herniario de 4 cm, ya conocido de exploraciones previas, mostrando áreas eritematosas sin llegar a presentar erosiones.
+La exploración es interferida por restos de contenido alimentario en el fundus que dificultan su valoración completa. El duodeno valorado no presenta lesiones y hay ausencia de restos hemáticos en todo el tramo evaluado.
+- El 20 de diciembre de 2013 se realiza una angio-TC, objetivándose una gran masa sólido-necrótica en el yeyuno, de 34 x 39 milímetros (mm), con una marcada vascularización. Adyacente se objetiva un área de fuga de contraste, sugiriendo ser la zona responsable de la hemorragia digestiva. Las características de marcada vascularización precoz en fase arterial y necrosis central sugieren como posibilidad diagnóstica un tumor del estroma gastrointestinal (GIST).
+En la misma exploración, se aprecian múltiples nódulos hipercaptantes en las paredes de la segunda y tercera porción duodenal y en el ángulo de Treitz, siendo esta última una lesión de 17 mm, sugiriendo todas estas lesiones un GIST múltiple.
+- La anatomía patológica de la pieza de resección yeyunal de 27 cm realizada el 20 de diciembre de 2013 describe varias formaciones nodulares objetivables en la superficie de la serosa, hasta un número de cinco, con tamaños entre 0,2 y 4,5 cm de diámetro máximo. Las tumoraciones más pequeñas muestran similares características a la sección, siendo de aspecto fibroso y blanquecino. La formación de mayor tamaño mide 4,5 x 3,2 x 3 cm, y a la sección muestra un aspecto blanquecino carnoso con áreas de hemorragia.
+- En el estudio microscópico, se observa una proliferación fusiforme de células elongadas, dispuestas en fascículos, con núcleos elongados, de bordes afilados y ondulados. Muestran áreas variablemente celulares, con atipias focales de tipo degenerativo, sin mitosis (entre 0 y 1), ni necrosis. La de mayor tamaño muestra áreas centrales de pseudoquistificación con hemorragia, con una zona externa de interrupción de la cápsula. La proliferación parte fundamentalmente del plexo del Meissner, alcanzando la submucosa y la subserosa. El estudio inmunohistoquímico muestra intensa expresión de CD117, DOG1 y CD34; con focal de actina; siendo negativa para S-100, neurofilamentos y muy aislada positividad para calponina. Las cinco adenopatías y los bordes longitudinales no muestran alteraciones de interés.
+- En Oncología Médica se completa el estudio, realizádose una tomografía tóraco-abdómino-pélvica y la determinación del estado mutacional de c-KIT y de PDGFR-?, así como una analítica completa con función tiroidea. En la tomografía tóraco-abdómino-pélvica no se objetivan nuevas lesiones y la analítica no muestra alteraciones.
+- Las mutaciones de c-KIT (exones 9, 11, 13 y 17) y de PDGFR-? (exones 12 y 18) son negativas.
+
+Diagnóstico
+Todos los hallazgos anteriormente expuestos son compatibles con el diagnóstico de tumores del estroma gastrointestinal (GIST), múltiples en este caso (5 tumores). Los tamaños de los tumores en este caso oscilan entre 0,2 y 4,5 centímetros y el recuento de mitosis por campo de gran aumento es de entre 0 y 1. El índice proliferativo, medido mediante Ki 67, es bajo, en torno al 1%.
+En resumen, se trata de un GIST múltiple de lozalización yeyunal y dudodenal, de bajo riesgo, en el contexto de una paciente afecta de neurofibromatosis tipo 1 (NF1).
+
+Tratamiento
+La paciente es remitida a Oncología Médica para valorar la necesidad de tratamiento adyuvante.
+Dada la evolución habitualmente indolente de los GIST asociados a NF1, y puesto que no suelen presentar mutaciones en c-KIT y PDGFR-?, como ocurre en este caso, se decide no indicar adyuvancia con imatinib y realizar seguimiento de la paciente.
+
+Evolución
+La paciente se encuentra en seguimiento por parte de Oncología Médica.
+En marzo de 2014 se ingresa en la Unidad Hepato-Biliar tras intervención quirúrgica por coledocolitiasis complicada, requiriendo coledocoduodenostomía.

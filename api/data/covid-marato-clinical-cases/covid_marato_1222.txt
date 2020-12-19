@@ -1,0 +1,36 @@
+Anamnesis
+Varón de 71 años que comienza un estudio a raíz de un cuadro de diarrea con mucosidad y rectorragia de 3 meses de evolución asociada a dolor abdominal y pérdida de aproximadamente 6 kg de peso.
+
+Antecedentes personales: hipertensión arterial. No otros antecedentes médico-quirúrgicos de interés.
+
+Exploración física
+En la exploración física, el paciente presenta un abdomen blando y depresible, no doloroso y sin signos de irritación peritoneal. Se realiza tacto rectal, palpándose una tumoración mamelonada con salida de sangre. No otros hallazgos relevantes.
+
+Pruebas complementarias
+» Colonoscopia (3/7/2006): tumoración desde el mismo margen anal hasta 10 cm. Se realiza biopsia con resultado anatomopatológico (AP) de adenocarcinoma colorrectal.
+» Ecoendoscopia baja (19/7/2006): neoformación entre 1 y 8 cm del margen anal que infiltra el 75% de la pared rectal, extendiéndose por fuera de la muscular propia. Adyacentes se observan dos adenopatías. Esfínter anal interno y externo sin signos de infiltración tumoral. Estadificación ecoendoscópica: uT3N1.
+» Tomografía computarizada (TC) toracoabdominopélvica (28/7/2006): nódulo periférico espiculado en el lóbulo superior izquierdo inespecífico. No se observan imágenes de interés a otros niveles.
+» Marcadores tumorales (8/8/2006): CEA 4.4, CA 19-9 22.2.
+
+Diagnóstico
+Adenocarcinoma de recto uT3 N1 Mx. Estadio III.
+
+Tratamiento
+Se comienza quimioterapia (Qt) con 5-FU y radioterapia (Rt) concomitante con intención neoadyuvante de agosto de 2006 a septiembre de 2006 sobre el tumor primario. Se realiza una TC toracoabdominopélvica en octubre de 2006, donde no se observa la lesión pulmonar descrita previamente, aunque persiste afectación de la grasa perirrectal.
+
+Evolución
+Posteriormente, se remite al paciente a Cirugía General y de Aparato Digestivo, realizándose intervención quirúrgica en noviembre de 2006 mediante amputación abdominoperineal de recto. El resultado anatomopatológico de la pieza informa de respuesta patológica completa.
+
+Tras la cirugía, el paciente comienza quimioterapia adyuvante con 5-FU + leucovorín semanal, administrándose un total de cinco ciclos hasta marzo de 2007.
+
+Se realiza TC de reevaluación, observándose un nódulo en el lóbulo superior del pulmón izquierdo de 1cm, con cavitación en su interior y bordes espiculados. Se solicita biopsia con aguja gruesa guiada por TC, que finalmente no se puede realizar por el tamaño y el difícil acceso. Se realiza una fibrobroncoscopia, que se informa como inflamación generalizada con citología negativa para células malignas. Se lleva el caso al comité multidisciplinar de tumores torácicos, decidiéndose realizar seguimiento de la lesión.
+
+En marzo de 2008, y ante el crecimiento de la lesión pulmonar, se decide realizar intervención quirúrgica. Resultado AP: metástasis de adenocarcinoma de origen colorrectal. Análisis de KRAS: nativo. Tras esta cirugía se administró tratamiento adyuvante con capecitabina durante 6 meses.
+
+El paciente continúa revisiones posteriores, sin evidencia de enfermedad hasta julio de 2009, momento en el que se produce progresión a nivel pulmonar, por lo que se realiza una nueva resección quirúrgica de dos nódulos pulmonares. Se propone al paciente tratamiento adyuvante XELOX (capecitabina y oxaliplatino), retirando el oxaliplatino desde el ciclo número 2 debido a neurotoxicidad grado 3 persistente, recibiendo un total de ocho ciclos durante 6 meses (finaliza en abril de 2010).
+
+En abril de 2011 consulta por hemoptisis, por lo que se realiza fibrobroncoscopia, con hallazgo de dos lesiones polipoideas que se extirpan de forma endoscópica.
+
+Resultado AP compatible con metástasis de adenocarcinoma de origen colorrectal.
+
+Se realiza una PET-TC posteriormente, sin observar viabilidad tumoral a otro nivel. En septiembre de 2011 presenta recidiva endobronquial con aparición de nuevos pólipos que se resecan de nuevo mediante fibrobroncoscopia. En enero de 2012 se practica una tercera resección de metástasis endobronquiales, realizándose una TC toracoabdominopélvica posterior, donde se observa aparición de nódulos pulmonares bilaterales, por lo que se decide iniciar quimioterapia de primera línea con FOLFIRI (5-FU, irinotecán y leucovorín) asociado a cetuximab en otro centro hospitalario. Desde entonces hemos perdido el seguimiento del paciente.

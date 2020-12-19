@@ -1,0 +1,39 @@
+Anamnesis
+Paciente mujer de 37 años en seguimiento en consultas externas de Oncología Médica.
+Respecto a los antecedentes de esta paciente, hemos de destacar la historia oncológica previa:
+» La paciente fue diagnosticada de un melanocitoma de grado intermedio en marzo de 2008. Fue intervenida quirúrgicamente en el mes de abril y se decidió, dado que se trata de un tumor de bajo grado, no administrar tratamiento adyuvante.
+» En octubre de 2009, se descubre recidiva local de la lesión, decidiéndose entonces tratamiento con radiocirugía (RDC) y continuar seguimiento, tras realizar pruebas complementarias que descartaban otros focos de enfermedad.
+» En abril de 2010, se detecta nueva recidiva, por lo que se opta de nuevo por RDC.
+» En noviembre de 2013, de nuevo se aprecia mínima progresión radiológica pero, dado que la paciente se encontraba asintomática, se decidió seguimiento estrecho y actitud expectante
+» La paciente no refiere ninguna sintomatología hasta diciembre de 2014, que presenta una crisis convulsiva durante el tercer trimestre de su primer embarazo. En la resonancia magnética (RM) cerebral se aprecia progresión evidente de la masa a nivel supraselar junto con varios focos de captación en duramadre, pero sin diseminación leptomeníngea. Finalmente, dada la sintomatología de la paciente se decide resección quirúrgica de la tumoración mayor y, en marzo de 2015, se procede a una craneotomía supraorbitaria.
+» Dado que se trataba de una recidiva extensa a nivel craneal y ante el antecedente de varias líneas de tratamiento con múltiples recurrencias de la enfermedad, los compañeros de Neurocirugía decidieron derivar a la paciente para valoración por parte de Oncología Médica. La biopsia de la segunda pieza quirúrgica confirmó el diagnóstico de melanocitoma cerebral de grado intermedio.
+Se descartó meningioma pigmentado (se consideró importante el diagnóstico diferencial por la aceleración de la enfermedad con el embarazo) u otras neoplasias pigmentadas, así como la existencia de enfermedad a distancia. Ante todos estos datos, se decidió reirradiación de la paciente con 25 sesiones de radioterapia holocraneal (RT) y seguimiento estrecho
+» En abril de 2016, la paciente ingresa en Neurocirugía por cuadro de cefalea y vómitos, que resuelve con tratamiento corticoide. Durante el ingreso, se confirma nueva progresión de enfermedad. Ante esto, se decide iniciar tratamiento con temozolamida (TMZ), administrándose el primer ciclo en mayo de 2015. Recibió únicamente 2 ciclos.
+Sin evidencia de lesiones melanóticas cutáneas o en cualquier otra localización, ni otros antecedentes de interés.
+Nos centramos ahora en la enfermedad actual: la paciente acude entonces a nuestras consultas refiriendo dolor continuo y de intensidad progresiva en hipocondrio derecho, de varias semanas de evolución, junto con deterioro neurológico. Acudía para evaluación previa a 3º ciclo de TMZ. Como único tratamiento llevaba una pauta descendente de corticoides, que había aumentado por cefalea y astenia intensa. Ante esto, solicitamos nueva RM donde se confirma nueva progresión de enfermedad y una TC-TAP en la que se aprecian varias lesiones de aspecto irregular compatibles con metástasis. Se decide entonces realizar una biopsia de una de las lesiones hepáticas, que confirma la naturaleza melánica de dichas lesiones y, por tanto, la transformación maligna del melanocitoma a un melanoma cerebral maligno.
+
+Exploración física
+» Durante la exploración abdominal, destaca hepatomegalia de 2 traveses de dedo, con dolor en la palpación superficial, sin distensión abdominal ni signos de irritación peritoneal.
+» La exploración neurológica es normal, excepto leve tendencia a la inestabilidad de la marcha.
+» Resto anodino.
+
+Pruebas complementarias
+RM cerebral julio 2016: crecimiento de masa cerebral paraselar ya conocida, con hemorragia intralesional, importante edema perilesional y efecto masa con mínima herniación uncal.
+TC-TAP julio 2016: se aprecian múltiples lesiones hepáticas difusas, la mayoría de pequeño tamaño, excepto una de gran tamaño y con necrosis central, todas ellas sugestivas de metástasis. Resto sin hallazgos.
+Biopsia hepática julio 2016: se aprecia infiltración maligna con células fusiformes con abundante pigmento melánico en su citoplasma, índice mitótico elevado y focos de necrosis tumoral, todo ello sugestivo de metástasis de melanoma maligno. BRAF nativo. Inmunohistoquímica: positividad frente a HMB45, MELAN A y S-100. KI 67: 10-15 %. Negatividad frente a Hepatocito.
+TC 26/05/2017: progresión de metástasis hepáticas con aumento en número y tamaño, ocasionando hepatomegalia secundaria. Aparición de ascitis de predominio perihepática. Aparición de lesiones múltiples a nivel pulmonar bilateral sugestivas de metástasis
+Analítica de sangre: destaca evolución de la LDH, siendo de 1354 U/l en el momento del diagnóstico de la transformación maligna (16/04/2015), con descenso hasta un valor mínimo de 315 con el tratamiento con pembrolizumab y nuevo ascenso hasta un máximo de 7186 U/l en el momento de la progresión (26/05/2017).
+
+Diagnóstico
+Con todos los datos disponibles, se confirma la transformación maligna de un melanocitoma cerebral a melanoma maligno.
+
+Tratamiento
+Como ya se ha ido comentando a lo largo de la exposición del caso, la paciente fue intervenida por parte de Neurocirugía, precisó RDC en 2 ocasiones por recidiva tumoral y finalmente nueva intervención quirúrgica.
+Por parte de Oncología Médica, una vez tuvimos conocimiento de la paciente, pautamos RT holocraneal (25 sesiones) y TMZ, de la que sólo llevó 2 ciclos.
+Una vez confirmada la transformación maligna, iniciamos tratamiento con pembrolizumab, del que recibió 12 dosis. Tras confirmar progresión en la evaluación, la paciente se encuentra pendiente de iniciar ipilimumab.
+
+Evolución
+La paciente inició tratamiento con pembrolizumab el 14/09/2016. Desde entonces, la mejoría clínica fue evidente, con buen control del dolor en hipocondrio derecho y sin nuevos episodios de deterioro neurológico, siendo posible la retirada progresiva del tratamiento con corticoides, con mejoría del hábito Cushingoide secundario.
+En la evaluación tras 8 ciclos, se detectó respuesta escasa a nivel hepático, pero llamaba la atención la mejoría sintomática de la paciente, la estabilidad a nivel cerebral y la normalización de la LDH, por lo que se decidió continuar otros 4 ciclos.
+En la última evaluación, en junio de 2017, se comprueba progresión de las lesiones hepáticas y de la lesión cerebral, junto con la aparición de nódulos pulmonares sugestivos de metástasis. Por ello, la paciente se encuentra en este momento pendiente de iniciar nueva línea de quimioterapia (QT) con ipilimumab.
+Pese a todo, la paciente fue diagnosticada en marzo de 2008, por lo que la supervivencia se ha prolongado ya 9 años gracias a las distintas opciones de manejo que se han ido planteado. Hemos de incidir en la importancia de un tratamiento y seguimiento conjunto colaborando con los compañeros de otras especialidades y comentando los casos en Comité de Tumores para asegurar un adecuado manejo multidisciplinar.

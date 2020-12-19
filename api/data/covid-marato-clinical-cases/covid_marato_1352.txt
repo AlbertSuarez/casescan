@@ -1,0 +1,30 @@
+Anamnesis
+se trata de un paciente varón de 52 años de edad, sin alergias medicamentosas conocidas, ni antecedentes médico-quirúrgicos personales ni familiares de interés. Como hábitos tóxicos, destaca consumo de tabaco de 10 cigarros al día, y niega consumo de alcohol. Tras la realización de una ecografía abdominal de aparato urinario, en noviembre de 2003, se objetiva masa a nivel de páncreas, con múltiples lesiones ocupantes de espacio (LOEs) en parénquima hepático, por lo que se realiza punción aspiración con aguja fina (PAAF), con resultado de Anatomía Patológica (AP) compatible con Sarcoma.
+
+Exploración física
+A la exploración física, destaca el buen estado general del paciente, estando asintomático, con auscultación cardiopulmonar normales, y a la palpación abdominal, se objetiva la palpación de una masa de 6 x 6 centímetros, aproximadamente, localizada en hipocondrio izquierdo, no doloroso, sin palpación de otras visceromegalias. Resto de exploración física normal.
+
+Pruebas complementarias
+» PAAF de LOE hepática.
+» TC diagnóstico de estudio de extensión.
+» TCs de seguimiento.
+
+Diagnóstico
+Diagnosticado en noviembre de 2003 de un tumor pancreático con LOEs hepáticas, con realización de PAAF compatible con sarcoma (CKit negativo). Fue intervenido quirúrgicamente en enero de 2004 con resección del tumor que precisó exéresis de parénquima de cuerpo y cola de páncreas, y de nódulo hepático. El informe de AP fue positiva para Leiomiosarcoma pleomórfico de 12 cm de tamaño, con nódulo hepático positivo para Leiomiosarcoma. En cuanto al estudio de Inmunohistoquímica (IHQ) positividad para Poliactina, Vimentina, HMB45 y Melan-A, siendo el diagnóstico definitivo sugestivo de ANGIOMIOLIPOMA MALIGNO (AML).
+
+Tratamiento
+» 1º: Intervención quirúrgica de tumor primario, y de metástasis hepática.
+» 2º: Quimioterapia con esquema Adriamicina e Ifosfamida.
+» 3º: Segmentectomía de los segmentos hepáticos II/III, Metastasectomía múltiples (5 lesiones) y Radiofrecuencia en el resto de las lesiones.
+» 4º: Inhibidores de la vía mTOR, Sirolimus.
+
+Evolución
+Tras la realización de la intervención quirúrgica, el paciente inicia seguimiento clínico evolutivo. En la tomografía computarizada (TC) realizada en marzo de 2004 se apreciaron metástasis pulmonares y hepáticas múltiples por lo que recibió tratamiento con quimioterapia con esquema Adriamicina (3 ciclos) e Ifosfamida, (12,5 g/m2 en infusión contínua de 5 días) (2 ciclos). En 2º ciclo de Ifosfomida presenta cuadro de Cistitis hemorrágica que cede espontáneamente con la suspensión de la QT (se administra 60% del 2º ciclo, y se suspende el 3º), con estabilización de la enfermedad.
+Se realiza seguimiento clínico-radiológico estrecho, el paciente, en todo momento, presenta muy buen estado general, con estabilización de la enfermedad.
+Ya en el control de TC de tórax del 12/2011, presenta discreto crecimiento de las lesiones metastásicas pulmonares múltiples bilaterales, y en el TC abdominal de la misma fecha, presenta aumento de tamaño de la lesión hepática de segmento II. Dado el tipo tumoral y buen estado general del paciente se propuso observación. En el siguiente TC tóraco-abdominal, de 06/2012 presentaba estabilidad de afectación metastásica pulmonar y ligera progresión de la afectación metástasica hepática en el segmento II. Se presenta en comité de tumores de sarcomas para decisión terapéutica, y se decide realizar cirugía de las metástasis hepáticas, siendo intervenido en 07/2012 con segmentectomía de los segmentos hepáticos II/III, Metastasectomía múltiples (5 lesiones) y Radiofrecuencia en el resto de las lesiones. El resultado de patología fue el siguiente:
+- Pieza segmento II-III: positivo para PEComa de 6 cm de tamaño, con márgenes libres.
+- Piezas de segmentos 4b, 6, 7, 5, 8: positivo para PEComa entre 0,5 a 1,5 cm con extensión focal a márgenes.
+- Estudio IHQ: positivo para Melan-A, HMB45 y Desmina 1.
+De nuevo inicia seguimiento clínico-radiológico; en TC del 11/2013, presenta estabilidad pulmonar, pero a nivel hepático, presenta progresión, siendo más evidente, sobre todo, en las lesiones situadas en la cúpula hepática, alguna de las cuales ha aumentado de 16 a 40 mm, pero se decide actitud expectante.
+Ya en febrero de 2014, el TC abdominal muestra progresión de la afectación metastásica hepática, la lesión de mayor tamaño de 7 cm de segmentos VII-VIII, con afectación del parénquima hepático restante. En esta situación, el paciente no es candidato a cirugía por la localización y extensión de enfermedad, por lo que inicia tratamiento con inhibidores de la vía mTOR, en este caso, con Sirolimus, en marzo de 2014, a dosis de 4 mg cada 24 horas. En el siguiente TC realizado, muestra estabilización de la enfermedad, continuando mismo tratamiento.
+Sigue realizando controles evolutivos, siendo el último estudio radiológico en septiembre de 2015, con estabilización de la enfermedad continuando con tratamiento con Sirolimus a misma dosis, con muy buen estado general del paciente.

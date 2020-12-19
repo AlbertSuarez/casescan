@@ -1,0 +1,26 @@
+Anamnesis
+Varón de 42 años en el momento diagnóstico, sin antecedentes médicos de interés ni historia oncológica previa, fumador activo de 30 paquetes-años, con antecedentes de exposición laboral a la sílice durante 72 meses. Tosedor y expectorador crónico, sin disnea basal, sin antecedentes de neumonía ni tuberculosis.
+Inicialmente el paciente es remitido al Servicio de Neumología por el médico de Atención Primaria tras hallar de forma incidental en una radiografía de tórax, que se realiza durante un reconocimiento médico de empresa, una imagen de aspecto nodular en hemitórax derecho con pinzamiento del seno costofrénico asociado. El paciente en el momento del diagnóstico se encuentra asintomático. Niega aumento de la tos y expectoración habitual, sin fiebre ni dolor torácico, niega hemoptisis ni síndrome constitucional.
+
+Exploración física
+Durante la exploración, presenta muy buen estado general, performance status 0, auscultación cardiopulmonar normal y resto de exploración sin hallazgos patológicos.
+
+Pruebas complementarias
+Inicialmente se plantea el diagnóstico diferencial entre patología oncológica versus infecciosa/autoinmune, por lo que se inicia el estudio con tomografía computarizada torácica de alta resolución donde se objetivan múltiples nódulos pulmonares limitados al hemitórax derecho, una tomografía por emisión de positrones, donde se observa que los nódulos ya conocidos se encuentran en el límite de la significación patológica, y se realiza una fibrobroncoscopia donde no se observa infiltración bronquial remitiendo muestras de aspirado bronquioalveolar, descartando patología infecciosa y una citología a anatomía patológica no concluyente. Tras nueva biopsia transtorácica negativa para tumor, y tras haber descartado patología autoinmune, se decide en Comité de Tumores Torácicos realizar una biopsia quirúrgica para completar estudio. Para ello, se lleva a cabo la resección transegmentaria del lóbulo pulmonar inferior derecho y biopsia pleural por videotoracoscopia sin complicaciones, obteniendo diagnóstico patológico compatible con adenocarcinoma de origen pulmonar.
+Anatomía patológica
+a) Resección lóbulo inferior derecho: adenocarcinoma mucinoso bien diferenciado que infiltra pleura sin rebasarla. Afectación del borde de resección: realizando estudio inmunohistoquímico se observa positividad de células tumorales para: TTF1, Napsin A y Ck7. Siendo negativos Ck20 y CDx2, lo que apoya el diagnóstico de adenocarcinoma pulmonar.
+» Determinación del biomarcador EGFR: estudio de las mutaciones en los exones 18, 19 20 y 21 (región tirosina quinasa) mediante tecnología ARMS (amplificación alelo-específica). Detección negativa (EGFR nativo).
+» Determinación inmunohistoquímica del biomarcador ALK: DETECCION negativa
+» Determinación inmunohistoquímica del biomarcador ROS-1: detección negativa.
+» Determinación PD-L1 negativo (< 1 %).
+b) Citología de líquido pleural: frotis constituido por grupos tridimensionales de células con vacuolización citoplasmática, compatible con adenocarcinoma mucinoso.
+
+Diagnóstico
+Adenocarcinoma mucinoso de pulmón estadio IV según la versión 8 AJCC (pT4NxM1a [derrame pleural maligno]). EGFR negativo. ALK negativo. ROS-1 negativo. PD-L1 < 1 %.
+
+Tratamiento
+Tras confirmación diagnóstica y haber completado el estudio de extensión sin otros hallazgos relevantes, se remite al paciente al Servicio de Oncología para iniciar tratamiento sistémico. Se intenta incluir al paciente dentro del ensayo clínico CheckMate 026 (ensayo clínico fase III que compara nivolumab frente a la quimioterapia de elección del investigador como terapia de primera línea para el cáncer de pulmón de células no pequeñas PD-L1 positivo), pero se muestra un fallo de cribado por presentar de PD-L1 < 5 %, y se decide iniciar tratamiento con quimioterapia asistencial basada en platinos y taxanos con adición de antiangiogénicos (carboplatino-paclitaxel-bevacizumab).
+
+Evolución
+El paciente completa 6 ciclos de tratamiento con muy buena tolerancia y posteriormente continúa con bevacizumab de mantenimiento con buena tolerancia y sin efectos adversos durante 15 ciclos, suspendiéndose finalmente por progresión de enfermedad a nivel pulmonar, debido al crecimiento de los nódulos ya conocidos.
+Tras un intervalo libre de progresión de más de 12 meses y ante el excelente estado general del paciente, que continúa asintomático, se inicia tratamiento con nintedanib-docetaxel. Tras 4 ciclos de tratamiento se retira docetaxel por neurotoxicidad grado 3; desde entonces el paciente se encuentra en tratamiento con nintedanib de mantenimiento, presentado control de la enfermedad con criterios de enfermedad estable mantenida.

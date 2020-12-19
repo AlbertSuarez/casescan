@@ -1,0 +1,28 @@
+Anamnesis
+Varón de 49 años, con antecedentes personales de atrofia testicular izquierda secundaria a orquiepididimitis en la infancia. Fumador desde los 14 años de 1 paquete/día. Vasectomía en febrero de 1999. No tiene antecedentes familiares de interés.
+Ingresa en Servicio de Medicina Interna el día 27/10/2013 por síndrome constitucional, orquitis y fiebre.
+Refiere dolor lumbar intenso irradiado a miembro inferior derecho que no cede con analgesia de 3.er escalón. Tras realizar los estudios y pruebas complementarias pertinentes, se diagnostica de neoplasia testicular derecha (probable tumor no seminomatoso), con afectación ganglionar retroperitoneal extensa.
+
+Exploración física
+Impresiona de mal estado general. ECOG 2-3. Palidez cutáneo-mucosa intensa. Caquexia severa.
+Tumoración de unos 6 cm en el testículo derecho. Asocia edema en el miembro inferior derecho.
+
+Pruebas complementarias
+» Marcadores tumorales 29/10/2013: alfafetoproteína 21,58 UI/mL [0,00-10,00].
+» TC toracoabdominal (07/11/2013): masa heterogénea de aproximadamente 6,5 cm de diámetro máximo que sustituye al testículo derecho. Masa retroperitoneal de aprox. 13 x 8 cm desde los vasos renales derechos hasta los vasos ilíacos comunes ipsilaterales y con estenosis de la vena cava inferior.
+La masa desplaza la tercera porción duodenal y provoca hidronefrosis GII-III derecha, con infiltración del músculo psoas del mismo lado. Ante la sospecha de tumor germinal no seminomatoso se realiza orquiectomía radical derecha (11/11/13).
+» Resultado anatomopatológico: AP provisional (11/11/2013): tumor de células germinales no seminomatoso, de 6,5 cm de diámetro máximo con invasión focal de túnica vaginal y de rete testis.
+Presencia de invasión vascular. Hidrocele. Borde quirúrgico de cordón espermático respetado (pT2). La muestra se remite a otro centro hospitalario para segunda opinión. Informe definitivo 18/12/13: tumor neuroectodérmico primitivo de tipo meduloepitelioma en el 95% del tumor asociado a un 5% de tumor del seno endodérmico de patrón microquístico y variedad hepatoide. En el componente neuroectodérmico se identificaron tubos neurales primitivos, diferenciación glial, de células ganglionares y diferenciación muscular. No se apreció carcinoma embrionario ni seminoma. Pequeñas áreas de tumor del seno endodérmico de patrón microquístico, las menos, y de variedad hepatoide entremezcladas con el PNET que justificarían la pequeña elevación de la alfafetoproteína.
+
+Diagnóstico
+Tumor neuroectodérmico primitivo tipo meduloepitelioma de origen testicular estadio IV por afectación retroperitoneal.
+
+Tratamiento
+Tras el resultado del informe anatomopatológico provisional se decide iniciar tratamiento con BEP (bleomicina 30 UI día 1 y 8, etopósido 100 mg/m2 día 1 a 5, cisplatino 20 mg/m2 día 1 a 5), con mala tolerancia clínica y hematológica, presentando neutropenia febril grado 4 y trombopenia grado 4, precisando dos ingresos.
+Con la confirmación histológica posterior de PNET testicular estadio IV, el paciente recibe 5 ciclos de quimioterapia esquema VAC/IE (vincristina 2 mg, doxorrubicina 75 mg/m2, ciclofosfamida 1.200 mg/m2 alternando con ifosfamida 1.800 mg/m2 día 1 a 5-etopósido 100 mg/m2 día 1 a 5) con excelente tolerancia clínica y analítica.
+
+Evolución
+En la TC realizada después del 2.º ciclo se aprecia respuesta parcial con disminución de la masa retroperitoneal del 50% (ver imágenes). Desde el punto de vista clínico, destaca desaparición del dolor sin necesidad de analgesia y disminución del edema en miembro inferior derecho. Tras el 5.º ciclo se reevalúa la enfermedad mediante TC, presentando enfermedad estable. El caso es discutido en el Comité de Cirugía General y Digestivo, desestimándose cirugía y planteándose radioterapia, que recibe con intención radical entre los días 22/7/2014 y 3/9/2014 (60 Gy sobre volumen tumoral).
+
+El paciente se mantiene estable con excelente calidad de vida hasta diciembre de 2014, fecha en la que acude a consulta con dolor intenso a nivel lumbar derecho, objetivándose por pruebas de imagen abscesificación de la masa retroperitoneal con fístula duodenal secundaria al tratamiento recibido. Se decide ingreso en el Servicio de Cirugía General y Digestivo, realizándose cirugía paliativa derivativa.
+Última TC en marzo de 2015, con enfermedad oncológica estable y fístula no funcionante.

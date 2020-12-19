@@ -1,0 +1,25 @@
+Anamnesis
+Paciente varón de 70 años, nunca fumador, sin alergias medicamentosas conocidas. Trabajó en una fábrica de colorantes. Antecedentes de hiperplasia prostática, degeneración macular retiniana izquierda y hernia discal con episodios de ciatalgia.
+Inició su enfermedad en forma de aumento de volumen del cuello y masa cervical derecha no dolorosa en marzo del 2013. No síndrome constitucional.
+
+Examen físico
+PS 1. Cabeza y cuello: masa laterocervical derecha de 7 x 6 cm no dolorosa que desplaza la tráquea a la izquierda.
+Aparato respiratorio: hipofonesis en la base derecha.
+
+Pruebas complementarias
+- Hemograma y bioquímica: parámetros en rango normal.
+- TC de torax y abdomen con contraste (16/4/2013): masa tumoral de estrecho torácico superior derecho y mediastínica (como prolongación de la masa cervical y supraclavicular) que engloba estructuras vasculares, la tráquea y el esófago. La pared torácica no muestra alteraciones significativas.
+- TC de cuello con contraste (16/4/2013): extensa masa laterocervical derecha de 61 x 56 x 99 mm de márgenes mal definidos y coeficiente de atenuación de partes blandas sin captación significativa de contraste. La masa descrita se extiende desde C2 y hasta el mediastino, ocupa todo el triángulo cervical posterior derecho, desplazando el paquete vascular derecho del cuello adelante, englobando la arteria y la vena subclavia derechas y el tronco arterial braquiocefálico derecho. Pierde además el plan de clivaje con la arteria carótida primitiva y la vena subclavia derecha y con el lóbulo de la tiroidea derecho. La laringe, la tráquea y el esófago están desplazados anterior y lateralmente hacia la izquierda.
+Se realizó extraccion de líquido pleural y biopsia escisional.
+- Líquido pleural: abundantes grupos celulares que podrían corresponder a mesotelio con marcados cambios reactivos, inflamatorios, de predominio linfocitario. Se recomienda correlacion clínicocitológica.
+- Biopsia incisional de la tumoración cervical: infiltración por mesotelioma maligno de tipo epitelial, calretinina positiva, TTF1 negativo, queratina 7 negativo, queratina 20 negativo.
+
+Diagnóstico
+Mesotelioma pleural maligno de tipo epitelial con afectación cervical.
+
+Tratamiento
+El paciente recibio tratamiento con quimioterapia con cisplatino 75 mg/m2 y pemetrexed 500 mg/m2 día 1 cada 21 días, tras recibir la premedicación correspondiente. Recibió 6 ciclos de tratamiento (primer ciclo en mayo de 2013 y sexto ciclo en octubre de 2013). Como mejor respuesta presentó respuesta parcial de la enfermedad, con mejoría clínica de la tumoración cervical (tras terminar el tratamiento, de 4,5 cm de diámetro).
+
+Evolución
+El paciente permanece asintomático, manteniendo la respuesta parcial hasta un control en mayo de 2014, en donde en una TC de tórax de control se evidenció un derrame pleural derecho y engrosamientos nodulares en la pleura derecha no visualizados previamente.
+Dado el intervalo libre de enfermedad de 7 meses y la respuesta obtenida, se decide la reinducción con cisplatino y pemetrexed. Actualmente está en curso de primer ciclo.

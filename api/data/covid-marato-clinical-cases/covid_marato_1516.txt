@@ -1,0 +1,36 @@
+ANAMNESIS:
+Paciente de 52 años sin alergias conocidas ni hábitos tóxicos. Menopausia a los 50 años.Antecedentes personales de hipercolesterolemia en tratamiento con estatinas.Sin antecedentes familiares oncológicos de interés.
+En Junio de 2011, por cribado poblacional se deriva a Ginecología para exéresis de tumoración en mama derecha.
+
+Exploración física
+Paciente con excelente estado funcional. Sin adenopatías laterocervicales ni supraclaviculares a la palpación. Tumoración de consistencia dura retroareolar en mama derecha sin afectación de plano cutáneo.
+
+Pruebas complementarias
+-RMN mamaria: Masa retro y paraareolar externa de mama derecha. Muy probable infiltración localizada del margen areolar externo.
+-Ecografía abdominal: descarta lesiones metastásicas a otro nivel.
+-Gammagrafía ósea: negativa para metástasis
+-Marcadores tumorales: Ca 15.3: 25,57 U/ml y CEA: 8,46 ng/ml
+-Biopsia aguja gruesa: carcinoma ductal infiltrante
+
+Diagnóstico
+En Junio de 2011 se somete a tumorectomía y linfadenectomía derecha con el siguiente resultado anatomopatológico: Carcinoma ductal infiltrante de 4cm, bajo grado de malignidad (Bloom 1), con la presencia de satélites tumorales. Presencia de metástasis en 3 de 20 ganglios linfáticos estudiados con desbordamiento capsular en 2 de ellos.
+
+Estudio inmunohistoquímico: RE (receptores de estrógenos) 3+/3+ en el 99%, RP (receptores de progesterona) negativos. No sobreexpresión de HER-2 (+/3+). Ki 67 95%. Por lo tanto, la paciente es diagnosticada de carcinoma ductal infiltrante de mama derecha estadio IIIA (pT2a, pN2a M0) según la 7ª edición de la clasificación TNM de la American Joint Committee on Cancer (AJCC), subtipo luminal B según la clasificación del consenso internacional de St Gallen de 2013.
+
+Tratamiento
+Debido a los factores de mal pronóstico y el alto riesgo de recidiva, la paciente recibió adyuvancia, según esquema de adriamicina a 60 mg/m2, ciclofosfamida a 600 mg/m2 durante 4 ciclos y docetaxel a 100 mg/m2 otros 4 ciclos, con buena tolerancia. Posteriormente se administró radioterapia sobre el área de la mama derecha con una dosis de 50.4Gy, de la axila y de la zona supraclavicular ipsilateral con dosis de 45 Gy finalizando en Abril de 2012.
+Continuó con hormonoterapia adyuvante con inhibidores de la aromatasa (letrozol a 2.5 mg diario) de manera continuada.
+
+Evolución
+En febrero de 2013, tras una supervivencia libre de progresión de 18 meses, se objetivó una elevación de los marcadores tumorales con CEA de 31 ng/ml y Ca15.3 de 51 U/ml. El PET-TAC confirmó la aparición de metástasis pulmonares bilaterales y ganglionares mediastínicas.
+Inició primera línea de quimioterapia paliativa con nab-paclitaxel 260 mg/m2 cada 21 días, con respuesta completa ganglionar y estabilización pulmonar tras 4 ciclos. En Mayo de 2013 por progresión bioquímica con CEA de 49,04 ng/ml y Ca 15.3 de 87,92 U/ml, inició segunda línea con Capecitabina 1000mg/m2 cada 12 horas. Recibió en total 9 ciclos con respuesta parcial de las metástasis pulmonares.
+En Noviembre 2013 se evidencia en PET-TAC progresión pulmonar y metástasis óseas de nueva aparición en la sexta vértebra cervical y hueso ilíaco izquierdo.
+Inició tercera línea de quimioterapia con doxorrubicina liposomal a 50mg/m2 cada 21 días y ácido zolendrónico 4 mg. Tras 5 ciclos de tratamiento se constata progresión radiológica de la enfermedad pulmonar y ósea y una nueva aparición de metástasis en hígado en Marzo de 2014.
+Inició otra línea de tratamiento con Vinorelbina oral a 60 mg/m2 hasta Junio de 2014, cuando progresa a nivel pulmonar, óseo y ganglionar.
+Se cambió la terapia a Eribulina días 1 y 8 cada 21 días pero tras dos ciclos, ingresa en Oncología Médica por clínica neurológica consistente en diplopia. A la exploración oftalmológica presentaba papiledema y parálisis recto lateral del ojo derecho. En TAC cerebral se objetivó una metástasis parietooccipital de 35 x 25mm con edema perilesional importante.
+Tras mejoría clínica parcial con corticoterapia endovenosa (dexametasona 24 mg cada 24 horas), inició nueva línea de tratamiento con carboplatino AUC: 4. Recibió 30 Gy de radioterapia holocraneal en Septiembre de 2014. A pesar del tratamiento, la paciente continuó con diplopía y deterioro funcional progresivo.
+En Diciembre de 2014 se constató en PET progresión de la enfermedad coincidiendo con un incremento del síndrome constitucional y una pérdida de autonomía consecuente (silla de ruedas).
+Comenzó entonces otra línea con terapia hormonal con un antagonista del receptor estrogénico, Fulvestrant 500 mg cada 30 días, con respuesta parcial de todas las lesiones.
+En Abril de 2015 la paciente presentó un empeoramiento clínico que consistía en un incremento de su síndrome constitucional y nuevamente diplopía con cefalea leve y molestias oculares izquierdas. En el PET se objetiva enfermedad estable, incluso con disminución de la captación de glucosa en todos los focos. No obstante, se deriva al Servicio de Oftalmología y a la exploración se diagnostica de anisocoria por probable metástasis en iris, confirmándose en ecografía oftálmica.
+Por progresión iridiana inició nueva línea de tratamiento con Ciclofosfamida oral 50 mg y tratamiento de soporte.
+Finalmente en Junio de 2015, tras un ingreso por deterioro y progresión franca tanto clínica como bioquímica, la paciente fue exitus.

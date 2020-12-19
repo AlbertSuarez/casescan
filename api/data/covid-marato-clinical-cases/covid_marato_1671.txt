@@ -1,0 +1,33 @@
+Anamnesis
+Mujer de 39 años sometida a miomectomía más anastomosis término-terminal por asa de ileon adherida en octubre de 2013, presentando como complicación peritonitis por hematoma sobreinfectado precisando laparotomía.
+
+Asintomática hasta diciembre de 2013, que inicia cuadro de hipoacusia bilateral de instauración brusca, junto con parestesias, hipoestesia en miembros inferiores e inestabilidad para la marcha. Con todo ello, ingresa en Servicio de Neurología para estudio.
+
+Exploración física
+Tensión arterial 123/77 mm Hg; frecuencia cardiaca 75 lpm; afebril; saturación oxígeno 97%. Peso 49,5 kg. Talla 163 cm. IK 80. Consciente y orientada en las tres esferas. Normohidratada, normoperfundida y normocoloreada. Eupneica en reposo. Cabeza y cuello: sin hallazgos. Tórax: auscultación cardiopulmonar: normal; examen mamario y axilar: masa de 5 x 3 cm en cuadrantes inferiores de mama derecha junto con adenopatía axilar derecha. Resto normal. Abdomen: blando, depresible, no doloroso.
+Ruidos hidroaéreos positivos. Extremidades inferiores: anodinas.
+
+Examen neurológico: lenguaje entrecortado, con variaciones bruscas del tono (secundaria a hipoacusia). Pares craneales normales. Barré y Mingazzini: presenta movimientos de desaferentización en extremidades izquierdas con fuerza 5/5. Reflejos osteotendinosos abolidos generalizados, con RCP flexor bilateral. Hipo/disesestesia en hemicuerpo izquierdo. Hipopalestesia generalizada. Propiocepción sin alteraciones. Pruebas de coordinación: descomposición en prueba talón-rodilla derecho, y descomposición y dismetría en extremidades izquierdas. Romberg positivo. Marcha con aumento del polígono de sustentación, taloneante, realizando movimientos de rotación interna con EII, sin lateropulsiones preferenciales. Marcha en tándem imposible. Signos meníngeos negativos. Rinne negativo en OI, positivo en OD. Weber no lateralizado.
+
+Pruebas complementarias
+» Bioquímica: colesterol 238 mg/dL; FA 39 U/L. Resto de parámetros: normales.
+» Hemograma: leucocitos: 8.100 (segmentados: 57,3%, linfocitos: 37,2%, monocitos: 5,9%); hemoglobina: 14,6 g/dL; plaquetas: 232.000.
+» Marcadores tumorales: CA 15.30 58,6 U/mL; CEA 0,7 ng/mL
+» Estudio del líquido cefalorraquideo: glucosa 59 mg/dL; proteínas 47 mg/dL; 1 célula/mm3; ADA: 0.
+» Inmunología: anticuerpos antineuronales- antifisina positivos. Resto negativos.
+» Eco/mamografía/RM mamaria: microcalcificaciones de 48 x 30 mm en cuadrantes inferointernos de mama derecha junto con 3 nódulos en cuadrante inferoexterno de mama derecha de 23 mm, 8 mm y 7 mm (BIRADS 4B).Se realiza biopsia de la de mayor tamaño con informe AP de Carcinoma ductal infiltrante RE +++, RP+++, Cadherina E +++, KI-67 20%, HER2 ++/+++ (FISH no amplificado). Rastreo axilar positivo con informe AP: positivo para células malignas.
+» Eco abdominal: sin hallazgos
+» TC y RM cráneo-medular: sin hallazgos
+» Electroencefalograma: polineuropatia sensitiva de tipo predominantemente axonal y de grado moderado preferentemente en miembros inferiores. Alteración de los potenciales evocados somatosensoriales en miembros inferiores y superiores compatibles con disfunción de la vía cordonal posterior de grado leve en el lado derecho y moderado en el izquierdo.
+» PEAT: hipoacusia neurosensorial de tipo coclear de grado moderado, más acusada en el lado izquierdo.
+
+Diagnóstico
+Carcinoma ductal infiltrante de mama derecha T2N1M0. Neuropatía sensitiva paraneoplásica con anticuerpos antifisina positivos.
+
+Tratamiento
+Tras confirmarse una neuropatía paraneoplásica se inicia tratamiento corticoideo e inmunoglobulinas endovenosas, presentando como complicación taquicardia intranodal que obliga a suspensión definitiva de las mismas. Continúa con tratamiento esteroideo y rehabilitador, con mejoría lenta pero progresiva de la inestabilidad.
+De forma paralela se indica tratamiento con ciclofosfamida-doxorrubicina-docetaxel, que recibe entre marzo y junio-14 con toxicidad en forma de astenia g2. En la RM mamaria de control se demuestra respuesta parcial mayor, por lo que en Sesión Multidisciplinar se propone mastectomía radical modificada derecha junto con linfadenectomía. El informe anatomopatológico muestra un carcinoma ducal infiltrante residual de 0,25 cm, retroareolar, con metástasis en 4 de los 13 ganglios aislados.
+Posteriormente, recibe tamoxifeno y radioterapia complementaria (50 Gy a 2 Gy /fracción sobre pared torácica y niveles axilares I, II y III).
+
+Evolución
+Actualmente, desde el punto de vista neurológico, presenta mejoría significativa de la hipoacusia y de la alteración en la marcha, persistiendo ligera dismetría.

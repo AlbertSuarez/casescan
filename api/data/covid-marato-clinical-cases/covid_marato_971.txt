@@ -1,0 +1,33 @@
+Anamnesis
+Mujer de 50 años, con reciente diagnóstico de carcinoma ductal infiltrante de mama izquierda, localmente avanzado (cT2N2M0), con receptores hormonales negativos, HER2 negativo, índice de proliferación del 70% y grado nuclear III, pendiente de inicio de tratamiento. No hay otros antecedentes de interés. Sin alergias medicamentosas ni tratamiento habitual.
+
+La paciente acudió a Urgencias por un cuadro de 10 días de evolución de decaimiento del estado general, debilidad muscular y aparición de lesiones cutáneas.
+
+Refería debilidad muscular en la región proximal de miembros superiores y, posteriormente, también en los inferiores, con importante limitación funcional (imposibilidad para levantar los brazos para peinarse o subir escaleras), junto con astenia intensa. El cuadro se asociaba a la aparición de lesiones papulares eritematosas en la cara, con posterior diseminación a la región del escote y dorso de mano derecha. No había presentado fiebre ni otra sintomatología de probable origen infeccioso.
+
+Exploración física
+Hemodinámicamente estable. Afebril. En la exploración física destacaba: en la mama izquierda una tumoración eritematosa, dura, de aproximadamnte 4 cm de diámetro. Limitación de fuerza de la musculatura proximal de miembros superiores (III-IV/V) y de miembros inferiores (IV/V). En la piel se observaban unas lesiones eritematovioláceas descamativas en región periocular, frontociliar y nasogeniana y lesiones eritematodescamativas en escote y dorso de metacarpofalanges de la mano derecha. No presentaba lesiones ungueales.
+
+Pruebas complementarias
+La paciente es ingresada en el servicio de Reumatología donde se realizan las siguientes pruebas:
+» Estudio de autoinmunidad: inmunoglobulinas normales. Factor reumatoide negativo. AntiCCP negativo. C4 y C3 normales. ENAs, ANA, ANOEs, ANCAs, a-DNA, anti-B2GP y anticardiolipina: negativos.
+» Serologías: VIH, VHC, VHB negativas. EBV IgG positivo. CMV IgG positivo (anticore VHB positivo. AgHBbs negativo. AcHBs negativo).
+» Marcadores tumorales: CEA y Ca 15.3 no elevados.
+» TC toraco-abdomino-pélvica: masa heterogénea mixta, de aproximadamente 4 cm, en cuadrantes internos de la mama izquierda. Adenopatías axilares izquierdas sugestivas de malignidad.
+No hay hallazgos patológicos a nivel pulmonar, abdominal ni pélvico.
+» Ecocardiograma transtorácico: sin hallazgos patológicos.
+» Electromiografía: mínima denervación del músculo deltoides derecho, compatible con actividad inflamatoria.
+» Biopsia de piel de región del escote: dermatitis liquenoide perianexial y perivascular superficial y profunda, compatible con dermatomiositis.
+» Biopsia músculo deltoides: músculo esquelético en el que destacan numerosas fibras musculares necróticas en distintos estadios evolutivos. Se observan también fibras musculares en regeneración y células inflamatorias mononucleares aisladas. En el estudio inmunohistoquímico (IHQ) con el anticuerpo frente al antígeno de histocompatibilidad tipo 1 se observa inmunotinción en la periferia de algunas fibras. Las alteraciones son compatibles con una miopatía inflamatoria.
+
+Diagnóstico
+Dermatomiositis paraneoplásica.
+
+Tratamiento
+Se inició tratamiento con dosis altas de corticoide, prednisona 60 mg al día, con cierta mejoría de la sintomatología. Ante la alta posibilidad que el cuadro se correspondiera con una dermatomiositis paraneoplásica, se decidió iniciar tratamiento neoadyuvante específico para su enfermedad oncológica con paclitaxel 80 mg/m2 y carboplatino AUC6 durante el ingreso.
+
+Evolución
+Dada la estabilidad clínica, la paciente fue dada de alta para continuación del tratamiento de forma ambulatoria en consultas de Oncología Médica, donde ha sido tratada con 12 ciclos de carboplatino AUC6 y paclitaxel 80 mg/m2 seguido de cuatro ciclos de doxorrubucina 60 mg/m2 y ciclofosfamida 600 mg/m2 con excelente tolerancia y resolución completa de la sintomatología paraneoplásica. Los valores de CK se normalizaron a las dos semanas del inicio del tratamiento corticoideo y quimioterápico.
+
+La resonancia magnética mamaria, realizada tras la finalización del tratamiento neoadyuvante, muestra una respuesta parcial mayor con tumor de 11 mm junto con una pequeña adenopatía axilar izquierda residual.
+En el momento actual, la paciente se encuentra pendiente de cirugía de la tumoración mamaria.

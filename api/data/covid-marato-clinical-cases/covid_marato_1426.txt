@@ -1,0 +1,57 @@
+ANAMNESIS
+Paciente de 67 años sin alergias medicamentosas conocidas ni hábitos tóxicos.
+Antecedentes de interés: diabetes mellitus 2 en tratamiento con antidiabéticos orales. Diagnosticado en el 2010 de un linfoma difuso de células B con afectación retroperitoneal, tratado con QT según esquema R-CHOP14 X 6 ciclos + 2 dosis de rituximab sin evidencia de enfermedad hematológica hasta la actualidad.
+
+Historia oncológica actual
+
+En agosto 2012 hay aparición de adenopatías retroperitoneales, inicialmente atribuidas al proceso hematológico. Finalmente, una BAG de las mismas establece el diagnóstico de adenocarcinoma de probable origen intestinal. Se realiza una fibrocolonoscopia, objetivándose una lesión a nivel del sigma y el estudio de extensión muestra afectación metastásica también a nivel hepático. Estudio de los exones del gen KRAS: nativo.
+
+Discutido el caso en Comité de Cirugía hepato-bilio-pancreática se consideró que las M1 hepáticas eran irresecables. Inicia tratamiento según esquema FOLFOX-CETUXIMAB el 6/11/2012, realizándose un descanso terapéutico de tres meses por neurotoxicidad. En septiembre de 2013, se constató progresión de la enfermedad a nivel pleural, pulmonar bilateral, y retroperitoneal. Dado que la progresión no fue por ineficacia, sino estando el paciente en descanso terapéutico, se reinició el mismo esquema, el cual se ha mantenido hasta la actualidad, con estabilidad de la enfermedad.
+
+El 15/01/15 ingresa en planta de Oncología Médica por disnea de aparición brusca asociada a insuficiencia respiratoria hipocápnica.
+
+Exploración física
+TA: 105/62; FC: 125 lpm; SatO2 basal 80%. Caquéctico. ECOG 2.
+Rash acneiforme grado 1 (secundario a cetuximab).
+
+Cabeza y cuello: mucositis grado 3 en cavidad oral. Sin muguet. Se palpa crepitación subcutánea a nivel supraclavicular y laterocervical.
+
+Cardiovascular: tonos cardiacos taquirrítmicos, sin soplos ni roces. Pulsos periféricos presentes y simétricos. No se observan signos de TVP.
+
+Respiratorio: taquipnea con tiraje intercostal. Hipofonesis generalizada en ambos campos pulmonares.
+
+Abdomen: blando y depresible. No doloroso a la palpación. Peristaltismo presente. Murphy negativo.
+
+Blumberg negativo. Sin signos de irritación peritoneal.
+
+Neurológico: consciente y orientado en tres esferas. Pupilas isocóricas y normorreactivas. Pares craneales conservados. Fuerza y sensibilidad conservadas. ROT presentes. RFCP conservado. Sin signos de irritación peritoneal.
+
+Pruebas complementarias
+» Analítica (25/1/2015): Hb 11,7 g/dL; leucocitos 5.790/mm3 (neutrofilos 58%); plaquetas 143.000/mm3; TP 100%; INR 1; TTPA 28,7 sg; fibrinógeno 614 mg/dL. Glucosa 203 mg/dL; urea 44; creatinina 1,14; GPT 24 UI/L; GGT 90 UI/L; Na+ 141 mEq/L; K+ 4,9 mEq/L. Dímero D 10.500 ng/mL.
+» Gasometría venosa (25/1/2015): pH 7,37; PCO2 36 mm Hg; PO2 29 mm Hg; Bicarbonato actual 20,8 mmol/L; contenido de CO2 21,9 mmol/L; exceso de base -4 mmol/L; exceso de base (ecf) -4.5 mmol/L; bicarbonato estándar 20,8 mmol/L; Ssturación de oxígeno basal 53 %.
+» Rx tórax: presencia de aire a nivel mediastino e infraclavicular.
+» TC tórax (25/1/2015): presencia de TEP en ramas segmentarias y subsegmentarias de LID. Neumomediastino y enfisema cervical y escapular derecho con extensión al canal raquídeo sin poder descartar el origen esofágico de dicho aire, ya que se observa un probable defecto de continuidad de su pared a nivel del tercio medio infracarinal.
+
+Diagnóstico
+Orientación diagnóstica:
+1. Insufiencia respiratoria hipocapnica que precisa oxigenoterapia en relación con:
+a) Tromboembolismo pulmonar en ramas segmentarias y subsegmentarias del LID.
+b) Neumomediastino pendiente de filiar origen.
+2. Neumorraquis a estudio como hallazgo casual.
+3. Mucositis grado 3 como toxicidad del tratamiento oncológico.
+4. Adenocarcinoma de sigma diseminado a nivel hepático, adenopatías retroperitoneales y derrame pleural. En curso de 1 l de metastásico según esquema FOLFOX + CETUXIMAB. KRAS WILD-TYPE.
+
+Tratamiento
+Iniciamos tratamiento con:
+1. Heparina de bajo peso molecular ajustada por peso.
+2. Antibiótico profiláctico para evitar mediastinitis secundaria.
+3. Oxigenoterapia.
+4. Analgesia si precisa (ya ingería opiaceos mayores en su domicilio para tratamiento del dolor).
+5. Dejamos al paciente en dieta absoluta hasta ver evolucion.
+
+Evolución
+Con el tratamiento instaurado, el paciente evolucionó favorablemente con mejoria progresiva del patrón respiratorio. No presentó fiebre ni signos de sobreinfección.
+
+Al no tener filiado la etiología del cuadro y descartada perforación esofágica, iniciamos dieta según tolerancia y progresión de la misma sin complicaciones. Por lo que le paciente fue dado de alta 10 días después.
+
+En cuanto al neumorraquis, se realizó una TC de tórax control que mostró resolución del mismo, pero con persistencia del neumomediastino sin signos de complicación.

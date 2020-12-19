@@ -1,0 +1,24 @@
+Anamnesis
+Mujer de 16 años de edad, sin alergias medicamentosas conocidas ni antecedentes médicos de interés, consulta en enero de 2014 por aparición de varias masas cervicales que en las últimas semanas han experimentado un notable crecimiento. Ingresa en Medicina Interna para estudio.
+
+Exploración física
+ECOG0. Destaca la presencia de tres masas cervicales bilaterales y adenopatías subcentimétricas en axilas e ingles.
+
+Pruebas complementarias
+» Hemograma (16/1/14): hemoglobina 12,4 g/dL, hematocrito 37,3%, leucocitos 10.900/mm3, neutrófilos absolutos 7.500/mm3, plaquetas 327.000/mm3. VSG: 26 mm.
+» Bioquímica (16/1/14): urea 23,00 mg/dL, creatinina 0,75 mg/dL, sodio 136 mM/L, potasio 4,1 mM/dL, proteínas totales 8,5 g/dL, LDH 358,1 U/L.
+» Proteinograma (16/1/14): albúmina 4,9 g/dL (valores normales 3,4- 4,2 g/dL), alfa-1 0,3 g/dL (VN:1-0,3 g/dL), alfa-2 1 g/dL (VN:0,6-0,9g/dL), beta 9,4 (VN: 0,4-0,9), gamma 1,5 g/dL ( VN: 0,6-1,3 g/dL). Inmunoglobulinas en suero normales.
+» TC de cuello y tórax (20/1/2014): se aprecia una extensa masa en el espesor de la musculatura paravertebral izquierda de hasta 15 x 4,5 x 5,5 cm de volumen, heterogénea con áreas de necrosis en su interior y realce periférico compatible con proceso neoproliferativo primario. Así mismo, se objetivan múltiples lesiones de límites imprecisos de semiología idéntica a la masa anterior que se relacionan con implantes metastásicos en espacios cervicales IV, VA y VB derechos con adenopatías parcialmente necrosadas en espacio axilar ipsilateral.
+» TC de abdomen y pelvis (20/1/2014): sin hallazgos patológicos.
+» BAG de adenopatía supraclavicular derecha (22/1/2014): con características inmunohistoquímicas compatibles con rabdomiosarcoma indiferenciado.
+» RM (31/1/2014). Confirma los hallazgos de la TC realizada previamente, distinguiendo una masa paravertebral izquierda, lesiones satélites en la musculatura paraespinal contralateral, y conglomerados adenopáticos en la región cervical anterior y axilar derechos. Además, destaca un severo compromiso del espacio de la vena yugular derecha con importante estenosis de su luz.
+
+Diagnóstico
+Rabdomiosarcoma indiferenciado paravertebral izquierdo, estadio IV.
+
+Tratamiento
+Se presenta el caso en Comité de Cabeza y Cuello, y se decide iniciar tratamiento quimioterápico según el protocolo SAVAC-SAIME con ifosfamida y etopósido alternantes seguidos de 27 sesiones de radioterapia en mayo de 2014.
+
+Evolución
+Durante el periodo comprendido entre enero y mayo de 2014 en el que la paciente recibe la quimioterapia, la principal complicación debida a la toxicidad del tratamiento es la neutropenia febril, que exigió ingreso hospitalario, y la administración de GSC-F, tras lo cual la paciente se recupera favorablemente.
+Después del tratamiento, se observa una remisión parcial inicial, por lo que se continúa con 3 ciclos de quimioterapia esquema SAVAC- SAIME con gemcitabina en vistas a un posible rescate quirúrgico. En agosto de 2014, en una TC de control (1/8/2014) se observa progresión de la extensión tumoral hacia vientres musculares, implantes metastásicos en mamas, tejido celular subcutáneo, parénquima pulmonar y bazo. En septiembre de 2014, tras sufrir un importante deterioro del estado general, con astenia grado IV y disnea secundaria a compresión tumoral, la paciente fallece.

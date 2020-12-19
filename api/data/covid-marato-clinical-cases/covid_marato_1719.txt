@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 63 años de edad, con buena calidad de vida previa, bebedor de más de 40 gr/día y no fumador, entre cuyos antecedentes personales destacan dislipemia, sospecha de SAOS en estudio e hipotiroidismo. Como antecedentes familiares oncológicos un primo fallecido por cáncer gástrico. En Julio 2015 inicia con fatiga vocal y disfonía predominante con los esfuerzos vocales sin otra clínica sistémica asociada como primer síntoma.
+
+Exploración física
+La palpación cervical era negativa y el resto de la exploración física anodina.
+
+Pruebas complementarias
+-Exploración laringoscópica: lesión vegetante, sésil e irregular sobre aritenoides derecho extendiéndose a cara subglótica de ambas cuerdas vocales, subglotis y comisura anterior, con dudosa limitación de la motilidad.
+Ante estos hallazgos, se decide completar estudio de extensión solicitándose las siguientes pruebas:
+-Marcadores tumorales: CEA moderadamente elevado (15.6 ng/ml)
+-TC body donde se aprecia un nódulo pulmonar en segmento 8 de LID de 2.5 x 1.7 cm, varios nódulos milimétricos bilaterales, sugestivos de metástasis y una adenopatía hiliar derecha de 1.5 cm.
+Engrosamiento irregular mural de segmento de unos 3 cm de colon ascendente, con signos de infiltración de la grasa adyacente junto con un implante peritoneal de 1.8 cm en peritoneo parietal anterolateral derecho. 
+Ante los hallazgos en el intestino grueso se decide solicitar colonoscopia en la que se visualiza en colon derecho a nivel de ángulo hepático masa excrecente sin poder pasar ni identificarla en toda su magnitud del que se toman biopsias con resultado de adenocarcinoma moderadamente diferenciado invasor.
+Para completar estudio y facilitar actitud terapéutica, se decide solicitar PET  donde se muestra: nódulo pulmonar de 2.3 x 1.6 cm hipermetabólico en LID sugestivo de patología tumoral (SUVmax 4.9), adenopatías en región laterocervical bilateral de aproximadamente 1.1 cm con captación sugestiva de etiología inflamatoria e incremento metabólico intenso en asas de ángulo hepático de colon con SUVmax 10.6. En peritoneo adyacente captación nodular de 1.2 cm con SUVmax de 5.7.
+
+Diagnóstico
+Se realiza microcirugía laríngea con intención diagnóstica resecando parcialmente la lesión y traqueotomía horizontal trans-ístmica en Octubre 2015 donde se aprecia lesión vegetante rugosa en aritenoides derecho-apófisis vocal y se extiende por comisura laríngea posterior a cara y vertiente subglótica de ambas cuerdas vocales. Tras el estudio anatomopatológico de la lesión se filia como metástasis de adenocarcinoma moderadamente diferenciado compatible con origen colónico (CK20 y CDX2 positivos).
+
+Tratamiento
+Se presenta en comité multidisciplinar oncológico de cabeza y cuello de nuestro hospital con juicio clínico de adenocarcinoma de colon estadio IV (metástasis laríngea, pulmonar y peritoneal) y se decide remitir al servicio de Oncología Médica para inicio de quimioterapia con intención paliativa. Se solicitan mutaciones de KRAS/NRAS/BRAF, resultando positiva para el exón 2 (codón 12) del gen KRAS.
+Tras inicio de esquema XELOX (Capecitabina/Oxaliplatino) por tres ciclos con buena tolerancia clínica, presentando trombopenia grado 2 y neurotoxicidad grado 1 y se realiza una primera reevaluación en Febrero 2016 objetivándose respuesta parcial a nivel laríngeo y a nivel de la lesión colónica junto con estabilidad de las lesiones pulmonares y peritoneales, por lo que se decide continuar el mismo esquema de quimioterapia.
+
+Evolución
+Tras 5 ciclos de XELOX se objetiva toxicidad hepática cursando con hiperbilirrubinemia grado 2 por lo que se decide cambiar a esquema FOLFOX (5-Fluruoracilo/Oxaliplatino) con el que sigue en la actualidad con una tolerancia correcta.

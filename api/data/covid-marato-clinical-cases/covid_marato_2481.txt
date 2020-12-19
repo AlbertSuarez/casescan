@@ -1,0 +1,25 @@
+Anamnesis
+Presentamos el caso de un varón de 51 años sin alergias medicamentosas conocidas que, como hábitos tóxicos, refiere ser fumador de 1-2 puros diarios y consumidor de alcohol de forma ocasional. Como comorbilidades, sólo destaca ser portador de catéter doble J derecho por litiasis renal grave. Niega antecedentes familiares oncológicos de interés. Acude a Urgencias refiriendo hematuria franca, dolor abdominal y síndrome constitucional de un mes de evolución.
+
+Exploración física
+Acude a Urgencias refiriendo hematuria franca, dolor abdominal y síndrome constitucional de un mes de evolución. En la exploración, el paciente presenta buen estado general: se encuentra totalmente consciente, orientado y colabora en la entrevista, normoperfundido y normohidratado.
+» Exploración neurológica sin focalidad.
+» Auscultación cardiopulmonar con tonos rítmicos a buena frecuencia, sin soplos ni extratonos, con buen murmullo vesicular bilateral sin ruidos patológicos.
+» Exploración abdominal con abdomen globuloso, depresible, con dolor a la palpación en hemiabdomen inferior sin masas ni megalias palpables.
+
+Pruebas complementarias
+En Urgencias se realiza analítica en la que se objetiva, además, ligera hiperbilirrubinemia (2,27 mg/dl) a expensas de fracción indirecta. Se realiza ingreso a cargo de Medicina Interna para estudio.
+En Medicina Interna se solicita analítica con marcadores tumorales, lavado vesical y se realiza TC de cráneo, tórax y abdomen. En la TC abdominal se visualiza una gran masa heterogénea con área hipodensa central sugestiva de necrosis de unos 10 x 17 x 19 cm localizada en región peritoneal, que establece íntimo contacto con la pared vesical, sin poder descartar que se encuentre infiltrada. Además, se identifican incontables adenopatías y conglomerados mesentéricos e infiltración nodular de la grasa que sugiere carcinomatosis, así como moderada hidronefrosis izquierda producida por la obstrucción del uréter distal por la masa, sin otras lesiones que justifiquen afectación metastásica a distancia. En resumen, los hallazgos sugieren como primera posibilidad un tumor maligno peritoneal primario agresivo.
+
+Diagnóstico
+Durante su ingreso el paciente comienza con episodios de agitación, agresividad y deterioro progresivo del nivel de conciencia (Glasgow 7/15) sin causa que en principio lo justifique, lo que motiva su ingreso en UCI. Se procede a intubación orotraqueal, punción lumbar (que resulta negativa) y toma de cultivos. Se aísla en hemocultivos y urocultivos E. coli multisensible, por lo que se inicia antibioterapia dirigida por presencia de sepsis urinaria.
+Como hallazgo más relevante en las determinaciones analíticas, se objetiva hiperamoniemia importante, que requirió de tratamiento con enemas de lactulosa para su eliminación.
+Tras la estabilización inicial, se realiza toma de biopsia de la lesión peritoneal, con resultado anatomopatológico de tumor del estroma gastrointestinal (GIST), con índice mitósico menor de 1 mitosis/10CGA e inmunohistoquímica positiva para C-KIT y DOG 1 y negativo para PanCK, CD45, S-100 y sinaptofisina.
+
+Tratamiento
+Es valorado por Oncología Médica en comité multidisciplinar y, tras consultar también con Servicio de Farmacia, se decide iniciar en UCI tratamiento con imatinib a dosis de 400 mg diluido en 200 ml de agua a través de sonda nasogástrica.
+
+Evolución
+El paciente presenta una buena tolerancia a la medicación y una excelente evolución clínica, recuperando el nivel de conciencia y procediéndose a su extubación, con niveles de amonio normalizados al alta. En TC de reevaluación realizada al cabo de un mes de tratamiento se objetiva respuesta parcial.
+Tras un año de tratamiento, en el contexto de nuevo episodio de deterioro del nivel de conciencia, presenta de nuevo cuadro de encefalopatía hiperamoniémica y progresión por TC.
+Se propone sunitinib como terapia de segunda línea, pero el paciente presenta una evolución desfavorable sin control del cuadro de encefalopatía, con deterioro progresivo del estado general, siendo finalmente exitus.

@@ -1,0 +1,24 @@
+Anamnesis
+Mujer de 62 años sin antecedentes personales ni familiares relevantes que consulta en el servicio de Ginecología por metrorragias en marzo de 2009, sin otra sintomatología.
+
+Exploración física
+En el examen físico, la paciente se encontraba hemodinámicamente estable y afebril. El abdomen era blando y no doloroso con la palpación. No se palparon masas. El resto de la exploración fue rigurosamente normal.
+
+Pruebas complementarias
+» Analítica: normal, con LDH 121 U/l (120,0-250,0), antígeno carcinoembrionario (CEA) < 0,5 ng/ml (0,0-3,0) y antígeno CA 125 27,0 U/ml (0,0-35,0).
+» Ecografía transvaginal: endometrio engrosado de 38 mm de espesor.
+» Histeroscopia: pólipo de 3 cm insertado en fondo, en lado derecho superficie irregular con vasos anómalos y tejido friable.
+» TC abdominopélvica: no se objetivaron datos de diseminación tumoral.
+» Biopsia: adenocarcinoma endometrioide bien diferenciado.
+
+Diagnóstico
+Adenocarcinoma de endometrio cTxN0M0.
+
+Tratamiento
+Se realiza histerectomía total con doble anexectomía, linfadenectomía pélvica y lavado peritoneal, objetivándose un adenocarcinoma infiltrante invasivo y ulcerado en su superficie que rompe la cápsula del órgano e infiltra ovario izquierdo y que presenta un patrón de crecimiento túbulo-papilar, sin apreciarse infiltración de estructuras vasculares. Citología de líquido ascítico positiva para malignidad. 38 ganglios linfáticos resecados sin afectación: Adenocarcinoma de endometrio de tipo endometrioide grado 2 de la FIGO, con estadio pT3a pN0 cM0.
+Posteriormente, recibe radioterapia (50,4 Gy) en diciembre de 2009 y desarrolla proctitis actínica secundaria.
+
+Evolución
+Realiza revisiones semestrales, sin datos de recidiva hasta que en TC de enero de 2015 se objetiva nódulo en lóbulo pulmonar inferior derecho de 1,5 cm (LID) e imágenes de engrosamientos pleurales basales derechos. Se amplía estudio con resonancia que confirma la existencia de múltiples nódulos subdiafragmáticos que sugerían la presencia de implantes tumorales peritoneales. Se inició quimioterapia con 6 ciclos de carboplatino-paclitaxel, con buena tolerancia (emesis y neurotoxicidad grado 1) y respuesta parcial en la TC de septiembre de 2015. Dada la buena respuesta a la quimioterapia y la duda de que la lesión pulmonar fuera por contigüidad en lugar de metástasis pulmonar hematógena, se plantea el rescate quirúrgico. En octubre de 2015, se realiza cirugía citorreductora peritoneal (CRS) con resección parcial de hemidiafragma derecho por la presencia de una lesión de 10 x 6 cm en la inserción del mismo, omentectomía y apendicectomía, junto con HIPEC (paclitaxel a 42ºC durante 60 minutos). Anatomía Patológica: adenocarcinoma endometrioide bien diferenciado muy sugestivo de metástasis de tumor primario.
+En la revisión de agosto de 2016, cuando se objetiva crecimiento de nódulo pulmonar en LID de 9 mm a 12 mm, y de decide resección quirúrgica mediante lobectomía inferior derecha, con anatomía patológica: adenocarcinoma infiltrante de 2,2 cm de diámetro máximo, concordante con metástasis de adenocarcinoma endometrial de tipo endometrioide bien diferenciado con receptores de estrógenos y progesterona positivos. Se propone tratamiento hormonal que la paciente rechaza.
+Actualmente la paciente presenta buena calidad de vida y buen estado funcional, continúa en seguimiento sin datos de recidiva, con un intervalo libre de enfermedad de 20 meses.

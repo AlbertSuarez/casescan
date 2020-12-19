@@ -1,0 +1,30 @@
+Anamnesis
+Antecedentes personales: enucleación de ojo derecho por traumatismo en infancia, apendicectomía.
+Antecedentes familiares: no refiere. Paciente de 55 años que acude a Urgencias en enero de 2013 por anuria tras expulsión de coágulos y restos hemáticos. Refiere pérdida de peso de origen no filiado, así como falta de apetito y astenia desde septiembre de 2012, por lo cual no ha consultado.
+
+Exploración física
+Abdomen doloroso durante la palpación en hipogastrio, sin signos de irritación peritoneal, ni masas ni megalias, puño-percusión renal bilateral negativa. Sensación de enfermedad.
+Se realiza sondaje urinario en Urgencias con expulsión de orina en agua de lavar carne.
+
+Pruebas complementarias
+Se realizan análisis de sangre y ecografía renal:
+» Analítica: destaca hemoglobina 6,8 g/dl, creatinina 2,5 mg/dl, proteína C reactiva: 24,7 mg/l.
+» Ecografía renal: riñón izquierdo aumentado de tamaño y desestructurado debido a masa a nivel del seno renal de aproximadamente 93 x 54 x 70 mm, heterogénea y mal delimitada, sugiriendo como primera posibilidad carcinoma de células renales.
+Se completa el estudio de extensión con tomografía computarizada (TC) y resonancia magnética nuclear (RMN) en las que visualizan trombo en cava y confirmación de masa renal, sin objetivar enfermedad a distancia.
+
+Diagnóstico
+El 22/01/2013 se realiza nefrectomía radical izquierda con linfadenectomía, cavotomía y extracción de trombo en cava.
+El estudio de anatomía patológica muestra tumor renal, variante histológica, células claras pT3aN0M0 (estadio III) con infiltración de vasos. El grado nuclear de Furhman es el sistema de graduación histológica más aceptado en el cáncer renal, considerándose un factor pronóstico independiente. El estudio histológico objetivó un grado 4 de Furhman. No era candidato a nefrectomía parcial por superar los 70 mm de diámetro y existir afectación vascular. Según escala SSIGN (recogida en la guía de cáncer renal de la Sociedad Europea de Oncología) riesgo elevado (Pt3a, pN0, >10 cm, G4 Furhmann, sin necrosis).
+
+Tratamiento
+Se deriva a Oncología para valoración en febrero de 2013 y se le propone participar en ensayo clínico de adyuvancia con pazopanib, pero el paciente lo rechaza, así como cualquier otro tratamiento o revisión por parte de Oncología. Comienza seguimiento en Urología.
+En marzo de 2013 se objetiva, en un TC de tórax de reevaluación, adenopatías retroperitoneales, ascitis perihepática, periesplénica y entre asas. Se considera enfermedad inoperable, por lo que inicia sunitinib 50 mg esquema 4 semanas de tratamiento seguidas de 2 semanas de descanso (esquema 4:2). Comienza un ciclo cada 6 semanas.
+
+Evolución
+El paciente realiza una excelente respuesta al tratamiento. Podemos observar en las consultas de reevaluación una disminución del tamaño de las adenopatías hasta que, en mayo de 2014, dejan de observarse en pruebas de imagen, al igual que la ascitis y líquido libre abdominal. El paciente presenta buena tolerancia al tratamiento. La toxicidad consiste en diarrea grado 1, mucositis grado 1, y cambios en el color del pelo.
+Debido a la estabilidad de la enfermedad y buena tolerancia, en octubre de 2014, tras 21 meses de sunitinib, se reduce la dosis a 37,5 mg esquema 2 semanas de tratamiento seguida de 1 semana de descanso (esquema 2:1). Prácticamente, la toxicidad grado 1 desaparece con la reducción de dosis.
+En junio de 2015, tras tomografía por emisión de positrones-tomografía axial computarizada (PET-TAC) sin evidencia de enfermedad, se propone descanso terapéutico con controles cada 2 meses. Se mantiene libre de enfermedad hasta febrero de 2016 fecha en la que la TC muestra estructura nodular paraaórtica izquierda de unos 8 mm, que aumenta hasta 12 mm en las siguientes pruebas de imagen. Hipertrofia de circulación venosa secundaria a trombosis de vena cava.
+Se decide seguimiento de la estructura, realizándose una PET-TAC en julio de 2016: con respecto al estudio del 1/6/2015 se visualiza un nuevo foco hipermetabólico que se corresponde por TC con un conglomerado adenopático retroperitoneal precavo con captación elevada (valor de captación estándar [SUV] 7.31).
+Reinicia sunitinib 50 mg esquema 4:2 tras intervalo libre de enfermedad de 11 meses. En octubre de 2016, han transcurrido 2 meses y medio de tratamiento. El paciente manifiesta mucositis, astenia, diarrea y síndrome mano-pie en grado 1, pero que en la globalidad suponen impacto en la calidad de vida. El paciente es fotógrafo de profesión y la calidad de su trabajo se ha visto afectada por la toxicidad del tratamiento (fotos que solo transmiten tristeza, aura sombría). Dada la escasa carga de enfermedad, se consideró que primaba la calidad de vida por lo que se prescribió pauta de sunitinib 37,5 mg esquema 2:1.
+En noviembre de 2016, el paciente ya no refiere toxicidad de ningún grado recuperando su vida normal. En la PET-TAC de control, persiste el conglomerado adenopático retroperitoneal precavo, aunque con una captación menos intensa (SUV 5,72, previo SUV 7,3). Respuesta parcial a sunitinib. En el resto del estudio no se aprecian otros focos hipermetabólicos que sugieran afectación tumoral macroscópica.
+El paciente continúa con sunitinib 2:1 con revisiones cada 1,5-2 meses hasta el día de hoy, con estabilidad de enfermedad neoplásica.

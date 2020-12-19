@@ -1,0 +1,21 @@
+Anamnesis
+La diseminación del carcinoma de células renales (CCR) se dirige a pulmón (75 %), tejidos blandos (36 %), hueso (20 %), hígado (28 %) y sistema nervioso central (8 %) (1). Las metástasis sincrónicas aparecen en un 25-30 %, y metacrónicas en el 50 % de los pacientes tratados con cirugía. El CCR es el tumor primario infraclavicular más común que metastatiza en la nariz y en los senos paranasales; aun así, las metástasis nasales son muy raras (2).
+Exponemos el caso de un paciente de 45 años, sometido a una nefrectomía izquierda 4 años antes por un hipernefroma. En remisión completa hasta que acude a Urgencias de forma reiterada durante 5 meses por epistaxis recurrente en la fosa nasal izquierda sin causa predisponente. Se realizaron taponamientos sucesivos y hasta 4 cauterizaciones con nitrato de plata sin lograr un control sintomático.
+
+Examen físico
+Sin hallazgos objetivados, excepto en la rinoscopia, donde se visualiza en la fosa nasal izquierda una tumoración necrótica friable que desestructura cornete/meato medio y progresa hacia el cavum.
+
+Pruebas complementarias
+La resonancia magnética (RM) caracterizó la lesión como una masa fronto-orbito-nasal izquierda, lobulada, heterogénea en T2 y homogénea en T1 con pequeñas zonas con contenido líquido (quístico-necrótico), de 65 x 26 x 40 mm.
+
+Diagnóstico
+Se realizó una exéresis del tumor previa embolización de la arteria maxilar; la cirugía es el tratamiento de elección (3).
+La anatomía patológica informó de una infiltración por carcinoma de células claras concordante con origen renal.
+
+Tratamiento
+Se administró radioterapia adyuvante en el lecho quirúrgico. Se pautó tratamiento con sunitinib, siendo tema de controversia a destacar. A día de hoy, no existe indicación de tratamiento adyuvante tras la metastasectomía; sin embargo, son varios los estudios que están abiertos sobre el tema.
+El potencial de los agentes diana como terapia adyuvante en el CCR es un tema en boga, pero sin resultados aún concluyentes. El CCR metastásico es refractario a la quimioterapia estándar, pero la terapia molecular dirigida podría suponer la terapia adyuvante de esta enfermedad (4). El sunitinib y el sorafenib serían candidatos válidos dada su eficacia en el CCR metastásico y por perfil de toxicidad manejable. El beneficio clínico y la tolerabilidad de estos agentes están siendo estudiados en ensayos como el ASSURE, STAR o SORCE, cuyos resultados podrían dirigirnos hacia un nuevo camino de estrategias terapéuticas más apropiadas.
+
+Evolución
+En la TC de control mostró cambios postquirúrgicos en la región fronto-nasal izquierda relacionada con metástasis intervenida sin hallazgos que sugirieran una recidiva.
+Continúa en seguimiento sin evidencia de enfermedad 16 meses tras diagnóstico de la metástasis nasal del hipernefroma.

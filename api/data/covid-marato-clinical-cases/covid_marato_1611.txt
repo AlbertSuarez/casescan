@@ -1,0 +1,20 @@
+Anamnesis
+Mujer de 61años de edad, con antecedentes personales de hipotiroidismo, fibromialgia, dislipemia y artrosis, sin hábitos tóxicos. Como antecedentes familiares destaca padre fallecido por cáncer de laringe.
+En diciembre de 2010, la paciente comenzó con hematuria intermitente, sin otra sintomatología asociada. Acudió a Urgencias donde se realizó una TC abdominopélvica, encontrándose una masa renal izquierda y se ingresó en el Servicio de Urología con la intención de completar el estudio de extensión. Se realizó TC torácica, revelando la presencia de lesiones pulmonares bilaterales.
+
+Exploración física
+Buen estado general, sin focalidad neurológica. Afebril. Auscultación cardíaca con tonos rítmicos, sin roces ni soplos. Auscultación respiratoria murmullo vesicular conservado y simétrico en ambos hemitórax. Abdomen blando y depresible, sin presencia de masas ni megalias palpables. No se observan edemas ni signos de trombosis venosa profunda en miembros inferiores.
+
+Pruebas complementarias
+• Analítica: glucosa 149 mg/dL; urea 74,3 mg/dL; creatinina 1,30 mg/dL; sodio 142 mEq/L; potasio 4,60 mEq/L; calcio 9,5 mg/dL; transaminasa glutámico oxalacético 28 UI/L; transaminasa glutámico pirúvico 19 UI/L; gamma glutiltransferasas 44 UI/L; bilirrubina total 0,75 mg/dL; amilasa 82 UI/L; lactato deshidrogenasa total 800 UI/L; creatinincinasa 32 UI/L; proteína C reactiva 8,01 mg/dL; colesterol 205 mg/dL (HDL 57 mg/dL y LDL 118 mg/dL); triglicéridos 149 mg/dL; proteínas totales 7,7 g/dL; leucocitos 24.010/mL con 64,7% neutrófilos; hematíes 2.500.000/mL; hemoglobina 7 g/dL; plaquetas 849.000/mL. Coagulación con parámetros dentro de la normalidad.
+• TC toracoabdominal: masa en riñón izquierdo de 6 x 4 cm, aproximadamente, con alguna calcificación en su interior, sugerente de neoformación maligna de origen renal. No se observan adenopatías intraabdominales de tamaño significativo. Quistes renales bilaterales. Quiste hepático de 8 mm en el segmento VII. Cambios poscolecistectomía. Parénquima pulmonar con múltiples nódulos bilaterales, el mayor de 15 mm. No se observan adenopatías hiliomediastínicas de tamaño significativo.
+
+Diagnóstico y tratamiento
+Con sospecha radiológica y clínica de tumor renal E-IV se presentó el caso en el Comité Clínico Multidisciplinar, decidiéndose cirugía del tumor primario.
+Se intervino el 8 de febrero de 2011 mediante nefrectomía radical izquierda con resultado anatomopatológico de carcinoma de los túbulos colectores de Bellini de 7,2 cm de diámetro mayor, grado 4 de Furhman. El tumor infiltraba vasos hiliares, grasa pélvica, uréter proximal, parénquima renal, grasa perirrenal y márgenes de resección, catalogándose como pT3bNxM1: E-IV de alto riesgo según los criterios de Motzer. La paciente se derivó al Servicio de Oncología para inicio de tratamiento paliativo.
+
+Evolución
+Recibió tratamiento con temsirolimus (25 mg iv semanal) desde febrero de 2011 hasta agosto del mismo año donde se detectó progresión a nivel pulmonar, por lo que se inició segunda línea con sunitinb (50 mg/ día oral durante cuatro semanas y dos semanas de descanso) suspendiéndose tras segundo ciclo por toxicidad digestiva grado 4 a pesar de reducción de dosis.
+A la exploración la paciente presentaba lesión cutánea en cuero cabelludo de 3 cm con biopsia compatible con carcinoma de probable origen renal (carcinoma de túbulos colectores). Radiológicamente, se evidenció progresión pulmonar y aparición de lesión ósea en pala ilíaca derecha precisando radioterapia antiálgica.
+Comenzamos tercera línea de tratamiento con pazopanib (800 mg/día oral de forma continua) en diciembre de 2011 hasta febrero de 2012 donde se observó una lesión cutánea ulcerada en la mejilla izquierda de nueva aparición y progresión radiológica.
+La paciente finalmente fue ingresada en la Sala de Oncología por deterioro del estado general y falleció en marzo de 2012.

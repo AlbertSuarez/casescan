@@ -1,0 +1,28 @@
+Anamnesis
+Mujer de 48 años que consulta en febrero de 2005 por dolor abdominal difuso y hematoquecia. No refiere factores de riesgo cardiovascular ni otros antecedentes médicos de interés.
+En estos momentos, la paciente no toma ninguna medicación de forma habitual. No presenta antecedentes familiares de interés.
+
+Exploración física
+La paciente presenta buen estado general. El abdomen es blando y depresible, sin masas ni megalias y no es doloroso durante la palpación profunda. El resto de la exploración es completamente anodina.
+
+Pruebas complementarias
+Se realiza enema opaco que detecta una dudosa tumoración a nivel de sigma, solicitándose colonoscopia que confirma una lesión a 35 cm, que se biopsia con resultado de adenocarcinoma. Se completa el estudio con radiografía de tórax (sin hallazgos) y ecografía abdominal que objetiva nódulo suprarrenal derecho compatible con adenoma. El CEA preoperatorio es de 9 ng/dl.
+
+Diagnóstico
+En marzo de 2005, se realiza resección de sigma con resultado anatomopatológico de adenocarcinoma grado 1 estadio IIIB (pT3pN1 [1/25]).
+
+Tratamiento
+Tras resección quirúrgica en marzo de 2005, se propone tratamiento adyuvante con capecitabina, recibiendo 8 ciclos entre abril y septiembre de 2005.
+
+Evolución
+En noviembre de 2006, tras un intervalo libre de enfermedad (ILE) de 17 meses, presenta nueva elevación de CEA y Ca 19,9 y la ecografía abdominal objetiva un nódulo hepático subdiafragmático que se confirma posteriormente con una TC y una PET-TC que no muestran lesiones a otro nivel.
+Dados los hallazgos, se propone tratamiento neoadyuvante con esquema FOLFOX del que recibe 3 ciclos. En junio de 2007, se realiza hepatectomía tras la cual la paciente recibe 6 ciclos adicionales de FOLFOX, mostrando buena tolerancia al tratamiento, aunque manteniendo parestesias residuales en los meses posteriores.
+La paciente continúa seguimiento y, tras un ILE de 27 meses, en octubre de 2009, aparece tanto en TC como en PET-TC un nuevo nódulo hepático único, así como pequeños nódulos pulmonares bilaterales no caracterizables metabólicamente.
+Se decide entonces iniciar tratamiento con esquema FOLFIRI-bevacizumab, completando 6 ciclos hasta abril de 2010. En mayo de 2010, se realiza una nueva cirugía hepática, tras la cual se administran 6 ciclos más de FOLFIRI-bevacizumab. Posteriormente, y hasta junio de 2011, recibe bevacizumab de mantenimiento, completando así un año de tratamiento adyuvante.
+Continuamos seguimiento estrecho y, en enero de 2012, tras 20 meses libre de enfermedad, vuelve a presentar un incremento en los niveles de CEA y un nuevo nódulo hepático adyacente al área de sutura previa. No existen cambios en los nódulos pulmonares ya conocidos.
+En febrero de 2012, se realiza una tercera cirugía hepática y, posteriormente, se propone quimioterapia adyuvante con esquema CAPOX. Recibe únicamente dos ciclos completos ya que, tras el segundo, la paciente presenta reacción infusional aguda, por lo que los ciclos siguientes recibe capecitabina en monoterapia.
+En enero de 2014, presenta en TC de control crecimiento de un nódulo pulmonar sugestivo de malignidad en LSI. Se la remite entonces a Cirugía Torácica practicándosele en Abril de 2014 una lobectomía pulmonar izquierda con resultado AP de adenocarcinoma de tipo intestinal con afectación de 7 de los 14 ganglios resecados. Evaluada en Comité de Tumores Torácicos, se desestima radioterapia adyuvante. Se le propone entonces quimioterapia con esquema FOLFIRI, recibiendo 6 ciclos.
+En febrero de 2015, diez años después del diagnóstico del tumor primario y tras cuatro recaídas (tres hepáticas y una pulmonar) manejadas de forma radical con cirugía y tratamiento sistémico perioperatorio con distintos esquemas de quimioterapia, la paciente presenta una nueva recaída, la quinta en su evolución. En esta ocasión, presenta síntomas neurológicos, hallándose una lesión única a nivel cerebral así como progresión pleuropulmonar y costal de pequeño volumen. Se decide realizar radiocirugía sobre la lesión cerebral y radioterapia con intención paliativa a nivel torácico.
+Aunque dicho tratamiento se ve interrumpido por la aparición de un tromboembolismo pulmonar y un herpes zoster torácico, finalmente es posible concluirlo.
+No obstante, se decide no añadir tratamiento sistémico y realizar un manejo exclusivamente sintomático a partir de junio de 2015 dada la situación clínica de la paciente.
+En octubre de 2015, la paciente presenta importante empeoramiento clínico secundario a progresión cerebral y pleuropulmonar, ingresando en nuestro centro en situación de últimos días.

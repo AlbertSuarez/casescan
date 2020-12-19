@@ -1,0 +1,51 @@
+Anamnesis
+Fumador de 30 paquetes/año. Ex bebedor severo.
+Orquidopexia derecha por criptorquidia a los 18 años.
+Trabajador de la construcción.
+Problema social, vive solo, desempleado.
+No tratamiento habitual.
+Varón de 45 años que acude a Urgencias el 29 de agosto de 2012 por presentar disnea de 3 días de evolución, que ha ido aumentando progresivamente hasta hacerse de reposo. Además, se acompaña de edema de cara y brazos con cianosis central. No tos, ni fiebre ni dolor torácico. Refiere una masa en el testículo derecho indolora, de progresivo crecimiento desde hace 1 año. Pérdida de 12 kg de peso en el último mes.
+
+Examen físico
+Afebril. Saturación de O2 94%. PS 1.
+Ingurgitación yugular a 45º. No adenopatías cervicales.
+Taquipneico, cianosis central, edema facial.
+Auscultación cardiaca: ritmico sin soplos ni roces.
+Auscultación pulmonar: murmullo vesicular conservado con sibilantes en el ápice derecho.
+Abdomen: anodino, con reflejo hepatoyugular presente.
+Masa escrotal derecha de aproximadamente 15 cm de diámetro, indolora al tacto, no reductible.
+Extremidades inferiores: no edemas, ni signos de TVP, pulsos pedios presentes y simétricos.
+Extremidades superiores: edema de ambos miembros superiores.
+
+Pruebas complementarias
+- Radiografía de tórax (29/8/2012): masa en el mediastino superior de 7 cm que se extiende hasta el hilio pulmonar derecho. Senos costofrénicos libres. Índice cardiotorácico < 0,5.
+- Analítica sanguínea (30/8/2012): LDH 3.679 UI/l, ?-HCG 13 mUI/ml, alfa-fetoproteína 1,93 ng/ml.
+- TC tóraco-abdómino-pélvica con contraste (30/8/2012): gran tumoración que ocupa el canal inguinoescrotal derecho de 13 x 12,7 cm en relación con el tumor primario. Gran masa mediastínica de 7 x 7,6 cm, que desplaza la vena cava superior (no se puede descartar infiltración vascular). La masa se extiende hasta el hilio pulmonar derecho.
+Trombo en la vena cava superior. Nódulos pulmonares bilaterales, el de mayor tamaño en el LSD, subpleural, de 4,6 x 4 cm. Se aprecian áreas de patrón intersticial reticular en el hemotórax derecho. En el espacio retroperitoneal alto se observa una gran masa de 7,5 x 8 cm. Pequeños ganglios en el espacio retroperitoneal paraaórtico izquierdo, cadena iliaca común derecha y el mayor adyacente a la vena femoral común derecha de aproximadamente 2 cm. Se aprecian otras adenopatías patológicas inguinales derechas.
+- Ecografía testicular (31/8/2012): teste izquierdo de tamaño, ecogenicidad y vascularización conservada, muy desplazado de forma craneal y lateral por una masa que ocupa todo el escroto derecho, en relación con tumor primario de testículo de aproximadamente 15 x 13 x 12 cm sólido, vascularizado, con áreas de mayor y menor ecogenicidad en relación con el tumor del testículo. A nivel del área inguinal se visualizan dos formaciones ovoideas hipoecoicas vascularizadas de 2,8 cm y de 1,6 cm en relación con masas adenopáticas.
+- Fibrobroncoscopia (31/8/2012): infiltración en el tercio inferior de la tráquea, bronquio principal derecho, intermedio y medio. Tumoración a la entrada del LM.Se remiten muestras a Anatomía Patológica y resultan negativas para malignidad.
+- Biopsia testicular derecha (13/9/2012): datos morfológicos e inmunohistoquímicos compatibles con seminoma testicular ampliamente necrótico. Inmunofenotipo: fosfatasa alcalina placentaria, C KIT (CD117): positivo. Vimentina: positivo focal. Queratina, EMA, CD 30 y p63: negativos.
+
+Diagnóstico
+- Síndrome de compresión de la vena cava superior (30/8/2012).
+- Trombosis en la vena cava superior y tromboembolismo pulmonar izquierdo (30/8/2012).
+- Seminoma testicular derecho cT3-4N3M1a (ganglionares y pulmonares) S3 estadio UICC IIIC, riesgo intermedio según la clasificación de IGCCCG, mediante biopsia testicular derecha (13/9/2012).
+
+Tratamiento
+Dado que el síndrome de vena cava superior (SVCS) y el tromboembolismo pulmonar (TEP) son dos urgencias médicas, clínicamente relevantes, en primera instancia se trataron dichos procesos mediante medidas de soporte y tratamientos específicos como la anticoagulación, ya que constituye la base del tratamiento en casos de TEP y trombosis de vena cava. Para el manejo del SVCS se aplicaron medidas generales además de administrar radioterapia, presentando buena respuesta al tratamiento:
+- Anticoagulación desde 31/8/2012 durante 6 meses
+- Radioterapia externa sobre el mediastino superior, incluida la masa pulmonar parahiliar derecha, mediante dos campos anteroposterior/posteroanterior con colimación multiláminas, administrando una dosis de 30 Gy (31/8/2012-13/9/2012).
+Durante este proceso, de forma paralela, se realizaron las pruebas ya descritas para el estudio del tumor primario. Una vez diagnosticada la naturaleza del proceso tumoral se remite a consultas externas de Oncología Médica y comienza tratamiento con quimioterapia:
+- Quimioterapia con etopósido: 100 mg/m2 + cisplatino 20 mg/m2 (EP) cada 21 días durante cuatro ciclos
+(25/9/2012-26/11/2012).
+
+Evolución
+Tras 4 ciclos de quimioterapia con EP se procede a la reevaluación del paciente en diciembre de 2012, presentando respuesta completa bioquímica (B-HCG tras primer ciclo y respuesta parcial de LDH 676) con respuesta parcial radiológica:
+- Masa mediastínica de 3,8 x 2,4 cm (SUVmáx. 2,6).
+- Masa testicular derecha 12,9 x 12 cm (SUVmáx. 10,3).
+- Pulmón: LSD 2,3 cm (SUVmáx. 2,7). LSD subpleural 0,51 cm (ametabólica). LID 1,3 cm (ametabólica).
+- Derrame pleural derecho (ametabólico).
+- Nódulo inguinal derecho de 1 cm (SUVmáx. 2,6).
+- Sin existencia de captación a nivel retroperitoneal.
+En enero de 2013 se realiza orquiectomía derecha vía inguinal (ypT4) seguida de radioterapia externa pélvica (iliaco, inguinofemoral, inguinal bilateral, testicular, escroto y cicatriz, hasta 30,4 Gy) que finaliza en abril de 2013. En el control que se realiza en junio se objetiva respuesta completa bioquímica, con marcadores tumorales normales, y en la TC una progresión pulmonar y retroperitoneal. Ante dichos hallazgos se decide iniciar quimioterapia de rescate con paclitaxel 250 mg/m2 + ifosfamida 1.500 mg/m2 + cisplatino 25 mg/m2 por 4 ciclos. Tras 3 ciclos de quimioterapia se realiza una TC de control, que muestra respuesta parcial pulmonar y ganglionar retroperitoneal. Una vez finalizado el tratamiento, en la consulta de control de noviembre de 2013 el paciente presenta una respuesta completa metabólica y en la PET-TC se observa una masa mediastínica de 1,8 x 1,6 cm ametabólica y lesiones pulmonares en el LSD de 1,1 cm (SUVmáx. 1,5), LSD supleural < 1 cm y en el LID 1,8 x 1,6 cm, todas ellas ametabólicas.
+En la actualidad no se objetivan signos de recidiva, presentando enfermedad estable con lesiones residuales del mismo tamaño o incluso menor.

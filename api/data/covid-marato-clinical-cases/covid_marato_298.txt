@@ -1,0 +1,31 @@
+Anamnesis
+Comentaremos el caso de una paciente de 59 años, fumadora de 20 cigarrillos-día, sin otros antecedentes ni tratamiento habitual. Trabaja de profesora.
+En marzo del 2017 se diagnostica de un tumor Phyllodes de mama en el cuadrante supero-externo de la mama izquierda, tratada con resección quirúrgica con márgenes libres. En el primer control en noviembre de 2017 se objetiva un nódulo en el cuadrante supero-externo en la mama izquierdo, con un estudio patológico de carcinoma infiltrante con grado histológico III con receptores estrogénicos negativos (RE 0 %), receptores de progesterona negativos (RP 0 %), índice proliferativo (Ki67) de 80 %, HER-2 (receptor 2 del factor de crecimiento epidérmico humano) equívoco sin amplificación por hibridación in situ por fluorescencia (FISH). Tras exéresis quirúrgica y estudio de ganglio centinela, correspondió a un estadio tumoral IA susceptible de completar tratamiento con radioterapia y quimioterapia adyuvante; por lo que en enero de 2018 inicia quimioterapia bajo el esquema TAC (docetaxel-adriamicina-ciclofosfamida).
+En el séptimo día del primer ciclo consulta por diarrea de más de 10 deposiciones al día acompañadas de fiebre mayor de 38 ºC de 24 horas de evolución sin otra clínica acompañante.
+
+Exploración física
+La paciente presenta unas constantes vitales de PA 138/62 mm Hg sistólica y diastólica respectivamente, una frecuencia cardiaca de 108 lpm, una temperatura de 37,5 ºC y una saturación de oxígeno del 98 %.
+En la exploración por aparatos no presenta mucositis, con una auscultación cardiopulmonar sin alteraciones y una exploración abdominal normal.
+
+Pruebas complementarias
+La radiografía de abdomen muestra un patrón gaseoso anodino, con aireación del marco cólico hasta la ampolla rectal.
+Con respecto a los resultados del análisis de sangre, destaca una procalcitonina en valores normales, un sodio de 131 miliequivalentes decilitro (mEq/dl), una proteína C reactiva de 79,8, unas plaquetas de 91.000, leucocitos de 490 con 30 neutrófilos.
+Se realiza una ecografía abdominal que objetiva un engrosamiento de la pared del ciego, compatible con sospecha clínica de tiflitis; así como unas lesiones focales hepáticas ligeramente hiperecogénicas, que recomiendan pruebas dirigidas para diferenciar el origen benigno (hemangiomas) de maligno (metástasis).
+
+Diagnóstico
+Tiflitis por quimioterapia.
+»Neutropenia grado 4 y trombopenia grado 2 secundario a quimioterapia.
+»Lesiones ocupantes de espacio (LOE) en el hígado.
+
+Tratamiento
+Se ingresa en planta de hospitalización con tratamiento de soporte y se inicia antibioterapia empírica con piperacilina-tazobactam.
+
+Evolución
+Presenta una evolución favorable con resolución de la toxicidad hematológica y de la tiflitis tras el inicio de antibiótico, por lo que, tras ocho días del mismo y el resultado negativo de los cultivos, se decide finalizar la pauta de antibiótico.
+Durante el ingreso se realiza estudio de las LOE hepáticas:
+En la tomografía computarizada toracoabdominopélvica (TC-TAP) presenta una alteración densitométrica de mama izquierda que sugieren cambios postquirúrgicos, apreciándose una adenopatía de 3 mm en axila izquierda. En los campos pulmonares presenta un patrón típico de enfisema pulmonar, acompañado de lesiones cicatriciales en la región apical derecha y dos imágenes pseudonodulares de aspecto cicatricial en campos superiores. También presenta imágenes sugestivas de metástasis hepáticas en segmento VIII, V y IVB.
+En la resonancia magnética (RM) hepática describen tres lesiones focales situadas respectivamente en los segmentos VIII, a caballo entre los segmentos VIII, V y IVB. Dichas lesiones presentan un comportamiento hipovascular con captación progresiva de contraste en anillo. La situada en el segmento IVB presenta cambios hemorrágicos en su interior. Todos estos datos proceden a sospechar de la naturaleza metastásica de las mismas.
+Ante las dudas del origen de las lesiones hepáticas, se procede a tomar una muestra por biopsia con aguja gruesa guiada por ecografía, con resultado anatomopatólogo de metástasis hepática de carcinoma neuroendocrino bien diferenciado, con un estudio de inmunohistoquímica positivo para cromogranina, sinaptofisina, citoqueratinas AE1-AE3 y un índice proliferativo Ki67 del 5 %; siendo además negativos para RE, RP, HER-2 y mamaglobulina.
+Tras el hallazgo de la biopsia, se solicita un rastreo gammagráfico de receptores de somatostatina (Octreoscan®) y presenta un acúmulo patológico en el parénquima hepático en el segmento VIII, V y en menor grado IVB, además de un aumento de captación en mesogastrio, de baja intensidad, que persisten en imágenes tardías.
+Se realiza un análisis con marcadores de tumores neuroendocrinos en sangre con unos niveles normales de cromogranina (91,2 nanogramos por mililitro) y serotonina de (155 nanogramos por mililitro).
+Tras valoración en el comité multidisciplinar de tumores hepatobiliopancreático, ante el pronóstico favorable del tumor neuroendocrino y su lenta evolución, se decide completar el tratamiento adyuvante del cáncer de mama y tras finalizarlo, actualización con pruebas de imagen, previo a la indicación de intervención quirúrgica con intención curativa.

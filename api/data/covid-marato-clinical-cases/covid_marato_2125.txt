@@ -1,0 +1,31 @@
+Anamnesis
+Varón de 41 años sin antecedentes personales ni familiares de interés que consultó en abril de 2011 por rectorragia de 3 meses de evolución. Se realizó una colonoscopia, que describía una lesión mucosa infiltrante, parcialmente obstructiva de la luz, desde 7,5 hasta 12 cm del margen anal. En la TC tóraco-abdominal se objetivó engrosamiento mural concéntrico asimétrico localizado al nivel descrito que asociaba nodularidad perirrectal y retroperitoneal. Las biopsias fueron concordantes con adenocarcinoma de recto. Se completó el estudio con una ecoendoscopia que objetivó, además de lo descrito, adenopatías a 10 cm del margen anal. En la resonancia magnética, a 3 cm de la inserción del elevador del ano, se observó engrosamiento de la pared rectal de 3,5 cm cráneo-caudal y un grosor máximo de 1,3 cm que afectaba a la capa muscular, con trabeculación de grasa mesorrectal sugestiva de afectación.
+También se observaron pequeñas adenopatías menores de 1 cm en la grasa mesorrectal. En la PET la descripción era acorde con lo objetivado en pruebas previas y el CEA basal fue negativo.
+Con el diagnóstico de adenocarcinoma de recto cT3N+M0 KRAS nativo, inició tratamiento con quimio-radioterapia, con fraccionamiento de 1,8 Gy/día, administrándose una dosis total de 45 Gy de forma concomitante con capecitabina (825 mg/m2 cada 12 horas durante 28 días). El 26/7/2011, 6 semanas después de la radioterapia, se realizó resección anterior de recto con escisión completa de mesorrecto y anastomosis coloanal, dejándose ileostomía lateral, que se cerró un mes después sin incidencias en el postoperatorio.
+El resultado anatomopatológico fue de segmento intestinal postratamiento con úlcera de 1,3 x 1 cm parcialmente reepitelizada con foco tumoral residual de 0,5 x 0,3 cm con adenocarcinoma de recto con márgenes quirúrgicos libres con un tumor residual de 1,5 cm y con afectación de 2 de los 15 ganglios aislados (ypT3N1LxVx). Presentaba expresión conservada de hMLH1, MSH2, MSH6 y PMS2.
+Completó tratamiento adyuvante con 6 ciclos de quimioterapia según el esquema XELOX (capecitabina-oxaliplatino) que finalizó en enero de 2012 con mala tolerancia hematológica y neurotoxicidad residual grado 2.
+En la primera revisión en mayo 2012, ante CEA progresivamente elevado (de hasta 14,4 ng/ml) con TC sin evidencia de recidiva, se solicitó una PET, que mostró afectación ganglionar a nivel laterocervical, mediastínico, retroperitoneal e iliaco cuya malignidad se verificó patológicamente. El tumor era KRAS y BRAF nativo. El 11 de junio de 2012 inició tratamiento con quimioterapia según esquema FOLFIRI (5-fluorouracilo, leucovorín, irinotecán)-bevacizumab. Desde el inicio del tratamiento, refería parestesias en la ingle y el muslo derechos, por lo que se consultó con Cirugía, que solicitó una ecografía que descartó patología a dicho nivel. En agosto de 2012 se confirmó respuesta por PET y por CEA cuyo nadir (6,5) se alcanzó en dicho mes. En septiembre de 2013, las molestias inespecíficas en la ingle y el muslo empeoraron, acompañándose de sensación de inflamación en la región púbica, molestias con la micción y con la eyaculación, pero sin hallazgos en la exploración repetida y minuciosa. En noviembre de 2013 refería lesiones eritematosas evanescentes en la región púbica y edema peneano que le dificultaba la micción. Se solicitó una TC, que descartó progresión y enfermedad a ese nivel. Se cambió a esquema capecitabina-bevacizumab por comodidad para el paciente. En diciembre las lesiones eritematosas estaban presentes también en la región anterointerna del muslo y presentaban un comportamiento fluctuante, sin acompañarse en ningún momento de fiebre ni leucocitosis. Además, aparecieron otras lesiones cutáneas que adquirieron aspecto zosteriforme en la pared torácica. Se remitió entonces a Dermatología para realización de biopsia.
+
+Examen físico
+Diciembre de 2013: PS 0. No adenopatías en las cadenas accesibles. Auscultación cardiopulmonar sin alteraciones.
+Abdomen: cicatriz de laparotomía media en buen estado. Blando, no doloroso, no signos de irritación peritoneal. Pulsos femorales presentes y simétricos. Eritema en la región suprapúbica mal delimitado que se extiende a la cara anterior de ambos muslos, más marcado en el derecho, sin tumoraciones en la piel. Edema en la región púbica que se extiende al pene. No signos de trombosis venosa profunda, pulsos distales presentes y simétricos.
+
+Pruebas complementarias
+- PET (mayo 2012) conclusión: exploración sugestiva de malignidad en adenopatías supra e infradiafragmáticas descritas (territorio laterocervical inferior izquierdo, mediastino, retrocrurales bilaterales, y retroperitoneales e ilíacas).
+- CEA (mayo 2012): 13,7 ng/ml (normal < 3).
+- Ecografía Doppler del miembro inferior izquierdo (febrero 2013): sin hallazgos patológicos.
+- TC (noviembre 2013): sin evidencia de progresión.
+- Biopsia de piel de abdomen y muslo (enero 2014): metástasis cutánea de adenocarcinoma de recto con invasión vascular y linfática que se verifica con D2-40 (podoplanina): los émbolos neoplásicos conservaban la expresión de e-cadherina.
+
+Diagnóstico
+- Adenocarcinoma de recto ypT3N1M0 KRAS nativo (abril 2011) tratado con quimio-radioterapia preoperatoria y quimioterapia adyuvante según esquema XELOX x 6 ciclos.
+- Progresión a nivel ganglionar con elevación de CEA (mayo 2012) tratado con esquema FOLFIRI-bevacizumab.
+- Metástasis cutáneas inflamatorias (enero 2014): en tratamiento actualmente con panitumumab en monoterapia con excelente respuesta clínica.
+
+Tratamiento
+Ante la confirmación de metástasis cutáneas y tras verificar que el NRAS, al igual que el KRAS, era también nativo, se inició panitumumab en monoterapia a dosis de 6 mg/kg de peso corporal, administrada una vez cada 2 semanas, con buena tolerancia.
+Se recomendó hidratación y cuidado específico de la piel siguiendo indicaciones del Servicio de Dermatología y de enfermería de nuestro Servicio.
+
+Evolución
+Tras el inicio de panitumumab, la respuesta clínica fue excelente, desapareciendo el eritema y la sintomatología prácticamente en su totalidad.
+La toxicidad presentada por el paciente fue de tipo cutánea (acneiforme) grado 1-2, con buena tolerancia y control tras añadir doxiciclina 100 mg cada 24 horas.

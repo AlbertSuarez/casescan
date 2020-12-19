@@ -1,0 +1,36 @@
+Anamnesis
+
+ANTECEDENTES FAMILIARES
+
+La madre del paciente falleció a los 38 años por un timoma.
+
+ANTECEDENTES PERSONALES
+
+Varón de 40 años con antecedentes personales de intolerancia a ibuprofeno, hipertensión arterial esencial en tratamiento con enalapril y epilepsia parcial secundaria a anoxia postparto diagnosticada en 1998 y en tratamiento con valproato, lamotrigina y levetiracetam con buen control. Además, fue diagnosticado en 1993 de Linfoma de Hodgkin difuso centroblástico estadio IV-B. Entre junio y noviembre de 1993 recibió quimioterapia (QT) según esquema COD-BLAM IV (ciclofosfamida, vincristina, prednisona, bleomicina, doxorrubicina, procarbazina) por 4 ciclos y RT sobre rodilla derecha (40Gy, en octubre de 1993) con respuesta posterior completa. Asimismo recibió QT intratecal por 6 ciclos como profilaxis. Posteriormente en junio de 1994 se procedió a trasplante autólogo de sangre periférica con acondicionamiento según esquema BEAM (BCNU, etopósido, arabinósido de citosina y melfalan) y 6 días después se procedió a infusión. En seguimiento por el Servicio de Hematología tras respuesta completa hasta marzo de 2016.
+
+ENFERMEDAD ACTUAL
+En un control en enero de 2015 el paciente refiere gonalgia derecha de meses de evolución. Se inicia estudio con resonancia magnética (RMN) por sospecha de infiltración por linfoma, dado el antecedente del paciente. Se objetiva un patrón de alteración de la señal de la medula ósea que afecta cóndilo femoral externo y región metafisoepifisaria. Se completa el estudio con PET-TAC dónde se objetiva una lesión hipermetabólica agresiva en cóndilo externo del fémur derecho, que plantea diagnóstico diferencial entre patología benigna tipo osteomielitis (sin descartar TBC) versus maligna (metástasis, mieloma, linfoma).
+
+Es derivado al Servicio de Traumatología que realiza biopsia ósea abierta con resultado de tejido osteocondral benigno y fibroso así como nueva RMN (julio 2015) con lesión que simula displasia ósea esclerosante o lesión tratada con progresión de la misma por transformación maligna o infección subaguda. Se procede a nueva biopsia ósea guiada por TAC en agosto 2015, con anatomía patológica de proceso fibroso reparativo sin poder descartar lesiones tipo displasia ósea. Ante negatividad de biopsias con imagen sospechosa se decide control a los 3 meses (noviembre 2015) con RMN de rodilla derecha dónde no se objetivan variaciones.
+
+Tras dichos controles, el paciente acude al Servicio de Urgencias el 3/01/2016 tras caída casual con dolor e impotencia funcional de rodilla derecha. En la radiografía se objetiva fractura supracondílea de fémur derecho. Ingresa en el Servicio de Traumatología y es intervenido el 8/01/2016 procediéndose a biopsia de zona de fractura, artrocentesis, reducción de la fractura y osteosíntesis con placa LISS de 5 agujeros. En la anatomía patológica se informa de tumoración fibroblástica altamente sugestiva de fibrosarcoma sobre hueso previamente radiado. Se completa estudio con nuevo PET-TAC (26/01/2106) con captación irregular en territorio de fractura patológica supracondílea femoral derecha artefactada por material de osteosíntesis sin poder delimitar la captación sobre el proceso neoproliferativo conocido en cóndilo femoral externo. Por lo tanto, el 25/02/2016 se realiza resección de la lesión en bloque junto a material de osteosíntesis y se procede a artroplastia tumoral de rodilla derecha y osteotomía de la tuberosidad tibial anterior. Los hallazgos en anatomía patológica son compatibles con osteosarcoma, en este caso post-radiación, con márgenes libres de infiltración tumoral. El paciente es dado de alta el 1/03/2016 tras buena evolución.
+
+Exploración física
+ECOG 1. Independiente para todas las ABVD (actividades básicas de la vida diaria). El paciente presenta astenia leve mantenida. Mantiene una vida activa, deambula con muletas. En la exploración física no presenta ninguna alteración. Herida en rodilla derecha abierta con buen aspecto y buena evolución.
+
+Pruebas complementarias
+
+Analítica: Función renal conservada. Hemograma sin alteraciones.
+
+Ecocardiograma: normal.
+
+TAC toraco-abadomino-pélvico: se descarta afectación metastásica.
+
+Diagnóstico
+Inicialmente el diagnóstico fue de histiocitoma fibroso maligno óseo de fémur distal derecho pT1-2N0M0, Gx, estadio Ib. No obstante, el diagnóstico final tras revisión fue de osteosarcoma de fémur distal derecho pT1-2N0M0, Gx, estadio Ib.
+
+Tratamiento
+Tras confirmación del diagnóstico, el paciente es remitido al Servicio de Oncología Médica para valorar tratamiento adyuvante. Se revisan todos los tratamiento que el paciente recibió por el antecedente de linfoma. Dado que fue tratado con una dosis total de Doxorubicina de 200mg/m2, se podrían administrar 300mg/m2 más. Por lo tanto, el 18/05/2016 el paciente recibe el primer ciclo de quimioterapia con Cisplatino 75 - Doxorubicina 25 trisemanal adyuvante por 6 ciclos, junto con G-CSF de soporte, para evitar complicaciones infecciosas graves.
+
+Evolución
+Tras el primer ciclo de tratamiento, el paciente presenta una excelente tolerancia siguiendo curas ambulatorias de la herida quirúrgica en su ambulatorio de referencia con buena evolución. El paciente recibe el segundo ciclo de quimioterapia el día 7/06/2016, sin incidencias inmediatas. Es citado para control en 3 semanas. Está previsto un control radiológico y por ecocardiograma tras el tercer y sexto ciclos de quimioterapia.

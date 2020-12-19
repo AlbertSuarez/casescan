@@ -1,0 +1,24 @@
+Anamnesis
+Acude a nuestra consulta un paciente varón de 23 años, derivado desde otro centro para una segunda opinión. Niega antecedentes familiares oncológicos de interés. Es estudiante y mantiene una vida activa normal para su edad, sin referir alergias medicamentosas conocidas, antecedentes médicos de interés o intervenciones quirúrgicas. No realiza tratamiento domiciliario de forma habitual, afirmando ser fumador ocasional y consumidor de bebidas alcohólicas los fines de semana.
+Acude a consulta inicialmente en octubre de 2015 en el Servicio de Urgencias de su hospital por presentar dolor y aumento del tamaño del testículo derecho de unos 20 días de evolución, sin otros síntomas asociados.
+
+Exploración física
+Durante la exploración física por órganos y aparatos destaca un aumento del tamaño del teste derecho, apreciándose una tumoración irregular e indurada de unos 5 cm, y una adenopatía supraclavicular izquierda de unos 3 cm.
+
+Pruebas complementarias
+Tras los hallazgos referidos se deriva a Urología para estudio, realizándose una ecografía de testes bilateral que objetiva una neoformación testicular derecha de unos 4 cm con áreas de necrosis e hidrocele reactivo. En el estudio analítico destacan valores elevados de lactado deshidrogenasa 381 UI/l (135-225 UI/l), gonadotropina coriónica humana beta (bHCG) 13.825 UI/l (0-5 UI/l) y alfa-fetoproteína 1.446 ng/ml (0-10 ng/ml), con hemograma, iones, función hepática y renal sin alteraciones destacables.
+En la tomografía computarizada (TC) se aprecia a nivel torácico una adenopatía necrótica supraclavicular izquierda de 28 mm, otra de 19 mm en mediastino inferior paraesofágica y cuatro nódulos pulmonares subcentimétricos sugestivos de metástasis. A nivel abdominal aparecen grandes conglomerados adenopáticos retroperitoneales en región interaortocava de 3,6 x 4,4 x 10 cm de ejes transverso, anteroposterior y craneocaudal respectivamente.
+El paciente se interviene en noviembre de 2015 mediante orquiectomía transinguinal radical derecha. Tras analizar la pieza quirúrgica se diagnostica de un TCG mixto con componente mayoritario de carcinoma embrionario (mayor del 50 %), un componente menor de coriocarcinoma (menor del 2 0%) y tumor del saco vitelino (menor del 20 %), así como focos aislados de teratoma y seminoma. Se demuestra, así mismo, invasión de la túnica albugínea, rete testis y del cordón espermático, así como invasión vasculolinfática, quedando los márgenes quirúrgicos libres de tumor.
+
+Diagnóstico
+Finalmente se diagnostica al paciente de un TCG mixto de teste derecho estadio pT3cN3cM1a S2-IIIB. Grupo pronóstico de riesgo intermedio según la clasificación de la IGCCCG por persistencia de valores de bHCG > 5.000 UI/l tras la cirugía.
+
+Tratamiento
+Tras ser valorado por Oncología Médica de su centro de referencia se inicia en enero de 2016 quimioterapia según esquema BEP (cisplatino 20 mg/m2 días 1-5 + etopósido 100 mg/m2 días 1-5 + bleomicina 30 mg d1-d8-d15 cada 21 días), recibiendo 4 ciclos hasta marzo de 2016 con buena tolerancia y normalización de los marcadores tumorales tras el segundo ciclo.
+Sin embargo, en la TC de abril de 2016, se objetiva progresión de la enfermedad ganglionar (supraclavicular izquierda, paraesofágica derecha y retroperitoneal) y pulmonar bilateral por lo que se inicia tratamiento de 2ª línea según esquema TIP (paclitaxel 250 mg/m2 día 1 + ifosfamida 1.500 mg/m2 días 2-5 + cisplatino 25 mg/m2 días 2-5), administrándose únicamente el primer ciclo y derivándose a nuestro centro para plantear aféresis de progenitores hematopoyéticos tras el segundo.
+
+Evolución
+En abril de 2016 es valorado en nuestra consulta. Ante la alta sospecha de GTS y tras comentar el caso en comité multidisciplinar de tumores se decide detener el tratamiento sistémico y proceder a la resección quirúrgica de las diferentes masas residuales en crecimiento.
+En junio de 2016 se extirpa el conglomerado adenopático supraclavicular izquierdo, resecándose al mes siguiente el conglomerado retroperitoneal. La histopatología confirma la composición exclusiva de teratoma maduro de las piezas resecadas.
+En TC postquirúrgica de septiembre de 2016 se aprecia discreto crecimiento de la adenopatía paraesofágica derecha (hasta los 3,7 cm de diámetro) y de las metástasis pulmonares, manteniéndose los marcadores tumorales normales en todo momento. Tras exponer dichos hallazgos en el Comité Multidisciplinar de Tumores se interviene en dos tiempos (noviembre de 2016 y enero de 2017) de las lesiones mencionadas, con idéntico diagnóstico anatomopatológico en todos los casos.
+El paciente continúa desde entonces en seguimiento estrecho, sin presentar hasta la actualidad datos de recidiva de la enfermedad.

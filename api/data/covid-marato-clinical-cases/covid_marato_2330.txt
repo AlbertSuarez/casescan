@@ -1,0 +1,22 @@
+Anamnesis
+Acude a urgencias generales el 15/05/2017 relatando clínica de fiebre, oligoanuria y deterioro del estado general de tres días de evolución junto con náuseas y vómitos biliosos.
+
+Exploración física
+Constantes: TA: 98/53 mm Hg, FC: 109 lpm, 37,8 ºC, saturación 98 %.
+Durante la exploración, el paciente mostraba sensación de enfermedad con regular estado general, así como molestias en la palpación en hipogastrio. La sonda urinaria mostraba una orina escasa y piúrica.
+
+Pruebas complementarias
+La analítica en Urgencias destacaba una leucocitosis neutrofílica con elevación de reactantes de fase aguda (proteína C reactiva 230; procalcitonina 15). Además de ello, franco aumento de creatinina a 8,3 mg/dl (FG 7). Tanto la radiografía de tórax como la de abdomen no mostraron hallazgos reseñables. La orina mostró 500 leucos y nitritos positivos, pese a ello, ni los Uro ni hemocultivos aislaron el germen causante.
+Ante el diagnóstico de shock séptico por infección de catéter doble J e insuficiencia renal aguda de origen mixto, se contactó con Urología de guardia, que procedió a retirada de doble J. Debido a la imposibilidad de colocar un nuevo catéter, se realizó nefrostomía bilateral urgente por radiología vascular.
+Tras estabilización del paciente en área de observación ingresa en Oncología Médica para tratamiento de soporte y reevaluación de su enfermedad de base. Se realizó, en un primer momento TC sin contraste y posteriormente, tras recuperación de la función renal, con contraste. Los estudios se informaban como cambios postquirúrgicos y de RT a nivel local, así como adenopatías iliacas inguinales y retroperitoneales en el límite superior de la normalidad. La TC con contraste realizado el 06 de junio mostró además perforación de la pared vesical. Entre ambas pruebas de imagen se realizó cistoscopia evidenciando una próstata desestructurada con abundante pus. La vejiga no fue valorable por abundante contenido purulento, sin permitir realizar biopsias, por lo que no se pudo descartar una recidiva de su proceso oncológico.
+Después de una revisión exhaustiva del caso en el comité urooncológico y en orden de plantear todas las posibilidades se realiza biopsia líquida el 25 de mayo con técnica BEAMing previa confirmación de mutación en el codón 12 del exón 2 de KRAS en la pieza quirúrgica. El estudio de microsatélites no mostró inestabilidad de los mismos.
+
+Diagnóstico
+Se estableció el diagnóstico de shock séptico de origen urinario con perforación de la pared vesical e insuficiencia renal aguda. Asimismo, una vez recuperado del cuadro infeccioso, se consideró que su proceso oncológico se encontraba sin evidencia de enfermedad según imágenes radiológicas, a pesar de biopsia líquida positiva para KRAS.
+
+Tratamiento
+Se decidió antibioterapia empírica prolongada y manejo conservador de la perforación vesical manteniéndose la doble nefrostomía, así como el sondaje vesical, siendo dado de alta el 13 de junio de 2017 con uro-TC preferente para descartar recidiva local ante cistoscopia no concluyente y sobre todo por resultado de biopsia líquida. Aunque el paciente tenía una colonoscopia reciente, también se solicitó una nueva rectoscopia.
+
+Evolución
+De forma ambulatoria se realizó uro-TC el 17 de julio que manifestaba crecimiento de las adenopatías retroperitoneales e inguinales, siendo las mayores de hasta 38 mm. Cuatro días más tarde, la rectoscopia reveló una mucosa muy congestiva con estenosis de la luz de la que se tomaron biopsias, las cuales fueron compatibles para adenocarcinoma invasor de alto grado.
+Aunque la uro-TC ya no evidenció fugas sugestivas de perforación vesical, un nuevo cuadro séptico con deterioro clínico importante del paciente nos decantó por rehusar cualquier tipo de tratamiento activo médico o quirúrgico siendo derivado a Cuidados Paliativos para control sintomático, con posterior fallecimiento en septiembre de dicho año.

@@ -1,0 +1,24 @@
+Anamnesis
+Se trata de una mujer de 54 años, administrativa de profesión, sin antecedentes personales, familiares ni oncológicos de interés. No consume tóxicos ni toma ningún tratamiento de forma habitual y lleva una vida muy activa. Acude a Urgencias el 10 de noviembre de 2014 por dolor y distensión abdominal de un mes de evolución, sin cambios recientes en el ritmo intestinal, náuseas, vómitos, pérdida de peso, fiebre ni otros síntomas relevantes.
+
+Exploración física
+En la exploración física presenta un ECOG 1, con aumento del perímetro abdominal y dolor a la palpación del abdomen de forma generalizada, sin signos de irritación peritoneal. No hay otros hallazgos destacables en el resto de la exploración.
+
+Pruebas complementarias
+» Analíticamente no presenta alteraciones relevantes, salvo una elevación de CA 125 de 5.688 U/ml (0-35 UI/ml), con CEA y CA 19,9 normales.
+» Se le realiza una ecografía transvaginal, donde no se visualiza el anejo derecho y se objetiva el anejo izquierdo de 13 x 10 cm multitabicado, con moderada cantidad de líquido libre en Douglas.
+» Para completar el estudio se hace una TC toracoabdominal, donde se observa una gran tumoración pélvica sólido-quística de 14 x 11 cm que parece depender del anejo izquierdo, así como múltiples imágenes nodulares en el mesenterio y el epiplón de hasta 8 cm compatibles con implantes y una moderada cantidad de ascitis sin implantes macroscópicos.
+» Por sospecha de neoplasia de ovario, el 11 de noviembre se le realiza una laparoscopia diagnóstica, encontrando una gran tumoración anexial izquierda con diseminación e implantes miliares a nivel del peritoneo, epiplón y grasa mesentérica, así como abundante líquido ascítico.
+» Las muestras de líquido ascítico e implante de epiplón presentan un inmunofenotipo concordante con adenocarcinoma seroso papilar de origen ovárico (CA125, WT1 y p53 positivos y receptores hormonales negativos), por lo que el 1 de diciembre se le realiza una cirugía citorreductora primaria completa.
+
+Diagnóstico
+» Carcinosarcoma (tumor mülleriano mixto maligno) de ovario izquierdo con componente epitelial tipo adenocarcinoma seroso de alto grado y componente mesenquimal de sarcoma indiferenciado de alto grado.
+» Carcinoma seroso de alto grado en el tercio distal de la trompa derecha, con extenso carcinoma intraepitelial de la trompa derecha asociado.
+» Carcinoma seroso de alto grado en el tercio distal de la trompa izquierda, con extenso carcinoma intraepitelial de la trompa izquierda asociado.
+» Se confirma también la afectación ganglionar paraaórtica y pélvica izquierda, así como implantes en el peritoneo, Douglas, mesocolon, vesícula y pared abdominal, e infiltración del ligamento redondo hepático y recto-sigma por adenocarcinoma seroso de alto grado, siendo un estadio UICC pT3c pN1 pM1, estadio IV de la FIGO. La morfología de la afectación de parametrios, peritoneo y serosa es más compatible con los tumores de trompa que con el componente epitelial del carcinosarcoma de ovario, sin poder determinar con seguridad si la afectación se debe a la neoplasia de trompa derecha o de trompa izquierda, dada la existencia de tumores sincrónicos.
+
+Tratamiento
+El 5 de enero de 2015 inicia tratamiento adyuvante intravenoso según esquema carboplatino AUC 6-paclitaxel 175 mg/m2 cada 21 días, asociando bevacizumab 15 mg/kg por ser una paciente de alto riesgo, estadio IV.
+
+Evolución
+Ha recibido hasta la fecha actual seis ciclos, con intención de continuar hasta ocho, dada la buena tolerancia (salvo un episodio de neutropenia febril grado 3 tras el tercer ciclo) y la buena respuesta (disminución de la ascitis y descenso del marcador CA 125 hasta casi normalizarse). Además, está pendiente de estudio de mutaciones en BRCA 1 y 2.

@@ -1,0 +1,32 @@
+Anamnesis
+Mujer de 65 años con antecedentes de Diabetes Mellitus Tipo II, obesidad, hipercolesterolemia e hipertensión. Intervenida quirúrgicamente de dos cesáreas. Sin antecedentes familiares de interés desde el punto de vista oncológico.
+Acude a Urgencias por dolor en parte posterior de extremidad inferior derecha de 4 días de evolución, asociado a disnea de esfuerzos tales como subir escaleras. No síndrome febril, tos ni expectoración. No ortopnea, palpitaciones ni cortejo vegetativo. Recientemente vacunada de la gripe.
+
+Exploración física
+» Constantes. Presión arterial 156/96 mmHg. Pulso 96 lpm. Sat.O2 92% en aire ambiente.
+» Buena coloración de piel y mucosas.
+» No ingurgitación yugular. Auscultación cardíaca rítmica y sin soplos
+» Auscultación pulmonar con murmullo vesicular fisiologico sin ruidos patológicos.
+» Exploración abdominal sin datos de irritación peritoneal con peristaltismo conservado. Distensión con semiología ascítica no a tensión.
+» Edema en EID con induración en parte posterior, dolorosa a la palpación. Sin cambios en la coloración o la temperatura. Homans positivo. Pulsos palpables.
+
+Pruebas complementarias
+» Radiografía torácica: Pulmones bien aireados, sin alteraciones patológicas significativas. No condensaciones neumónicas.
+» Analítica de sangre: hemograma y bioquímica normales. Elevación de marcadores CEA (12 ng/mL, LSN 5), Ca 15.3 (59 U/mL, LSN 31) y Ca 125 (180 U/mL, LSN 35).
+» Ecografía Doppler de Extremidades inferiores: dilatación de vena muscular sural, no colapsable.
+Contenido ecogénico compatible con trombosis venosa profunda.
+» Ecografía abdominal: Hígado de tamaño normal con esteatosis. Lecho vesicular con colelitiasis, rodeado de un área hipoecoica mal delimitada. Moderada cantidad de líquido libre intraabdominal.
+Bazo, páncreas y riñones sin alteraciones.
+» Tomografía Computarizada (TC) toraco-abdominal: Defectos de repleción en ramas segmentarias de LID , en LSD compatibles con Tromboembolismo Pulmonar. Hígado de tamaño y morfología normal, con masa tumoral en el parénquima hepático. Líquido libre intraabdominal. Adenopatía localizada en espacio inter-aortocava de 11mm.
+
+Diagnóstico
+Se realizó punción de la masa hepática mediante PAAF y punción con aguja gruesa guiadas por TC para estudio citológico e histológico. El perfil inmunofenotípico de la biopsia mostraba positividad de Villina (+++), CDX-2 (+++), CK20 (+++) y TTF-1 (+) lo cual era compatible con metástasis de origen colorrectal.
+
+Tratamiento
+Se inició tratamiento anticoagulante con Tinzaparina 14000U cada 24 horas. Se solicitó inserción de drenaje ascítico y se inició quimioterapia bisemanal con Oxaliplatino 85mg / m2 + Capecitabina 3300mg / dia (Esquema Xelox). Posteriormente se ajustó la dosis según peso.
+La tolerancia al tratamiento fue aceptable, presentando únicamente astenia, náuseas y neurotoxicidad, todos ellos efectos secundarios de Grado I.
+
+Evolución
+Progresivamente mejoró el estado general de la paciente hasta ECOG 1, con disminución del débito por el drenaje ascítico hasta su retirada. Recibió un total de seis ciclos. En el TC de reevaluación se apreciaba respuesta parcial a nivel peritoneal, disminución de la ascitis y la carcinomatosis omental con aumento discreto de la metástasis hepática.
+Previamente a la consulta de seguimiento, presentó un cuadro súbito de afasia motora sin otras focalidades neurológicas. Ademáscuadro de vómitos persistentes, de carácter bilioso sin productos patológicos, acompañados de visión borrosa progresiva. Por lo que se realiza TC craneal que mostraba una lesión pseudonodular heterogénea en región frontal izquierda de aproximadamente 4cm, con desplazamiento discreto de la línea media, edema perilesional y sangrado tentorial derecho con componente de hemorragias subaracnoidea e intraventricular. Los hallazgos son compatibles con una hemorragia intracerebral en contexto de metástasis que se confirma mediante Resonancia Magnética craneal. La resonancia muestra además otra lesión metastásica en región occipital derecha. Se instaura tratamiento corticoideo y se suspende enoxaparina.
+La paciente sufre un nuevo episodio sincopal con recuperación espontánea, y saturación de oxígeno de 89%. Ante el cuadro de hipercoagulabilidad se realiza AngioTC que muestra nuevo TEP con defectos de repleción en ramas segmentarias de LSD y bases pulmonares. La contraindicación formal para anticoagulación farmacológica junto con la tendencia procoagulante hacen que se proponga como alternativa terapéutica la colocación de filtro temporal de vena cava inferior, que se realiza sin incidencias mediante radiología intervencionista. Pese a ello la paciente tiene un empeoramiento progresivo funcional y neurológico (por progresión de metástasis cerebrales confirmada en Resonancia), por lo que se se instauran medidas de confort hasta su fallecimiento.

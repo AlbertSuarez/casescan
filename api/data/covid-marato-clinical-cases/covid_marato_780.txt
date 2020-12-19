@@ -1,0 +1,30 @@
+Anamnesis
+El paciente refiere dolor abdominal de tres meses de evolución, junto con síndrome constitucional y una pérdida de aproximadamente 10 kg de peso en este tiempo. Además, refiere oliguria y edemas en ambos miembros inferiores, junto con un aumento progresivo del tamaño del testículo derecho en los últimos meses.
+Como antecedentes personales, destaca el hecho de que es fumador, sin otros factores de riesgo cardiovascular. Padece una enfermedad de Crohn ileal en tratamiento con azatioprina. Antecedente de orquitis derecha 4 años antes, que se trató satisfactoriamente con antibioterapia.
+
+Exploración física
+» Constantes: Tª 36,2 ºC, cifras de tensión arterial 135/98 mm Hg. Frecuencia cardiaca 83 lpm. Saturación basal 98 %.
+» Estado general deteriorado. Normohidratado y normoperfundido.
+» Auscultación cardiaca: rítmica sin soplos audibles.
+» Auscultación pulmonar: murmullo vesicular disminuido en ambas bases, sin otros ruidos patológicos sobreañadidos.
+» Abdomen: dolor durante la palpación en hemiabdomen derecho, con hepatomegalia de unos 8 cm. Ruidos hidroaéreos conservados. Sin signos de irritación peritoneal. Adenopatías inguinales bilaterales y aumento visible del tamaño testicular derecho.
+» Miembros inferiores: edemas en ambas piernas, con pulsos distales palpables.
+
+Pruebas complementarias
+» En analítica de Urgencias, destaca un deterioro agudo de la función renal con una creatinina de 1,95, hipercalcemia (13,5) y aumento de la LDH de hasta 5.510.
+» Se solicita una ecografía abdominal urgente, donde informan de múltiples adenopatías patológicas que ocupan la totalidad de la cavidad abdominal, junto con alteración estructural de ambos riñones y atrapamiento de los mismos por masa retroperitoneal, que condiciona una dilatación ureteropielocalicial bilateral.
+» Ante los hallazgos, se ingresa al paciente para estudio en Medicina Interna, donde se prosigue con la realización de pruebas.
+» En la TC toracoabdominopélvica de ingreso, se informa de masa gigante abdominal retroperitoneal heterogénea (28 x 18 x 30 cm) que comprime y colapsa la vena cava, venas iliacas y femorales. Se observa además una hidronefrosis bilateral grado III, e infiltración del segmento hepático VI/VII, junto con lesiones líticas desde primera vértebra lumbar hasta L4.
+» Entre las analíticas durante el ingreso, destacamos valor de B-HCG de 583.
+» Se solicita también ecografía escrotal reglada, objetivando hallazgos sonográficos compatibles con neoplasia testicular germinal mixta de gran tamaño.
+
+Diagnóstico
+Ante los hallazgos obtenidos en pruebas anteriores, se somete al paciente a una orquiectomía radical derecha reglada, obteniéndose como resultado tras estudio anatomopatológico de la pieza quirúrgica el diagnóstico de seminoma tipo clásico.
+Diagnóstico tras estudio de extensión: seminoma testicular derecho estadio IIIC (metástasis ganglionares, hepáticas, suprarrenales y óseas).
+
+Tratamiento
+El paciente recibe en planta de Medicina Interna tratamiento con sueroterapia y diuréticos, además de una dosis de ácido zoledrónico (4 mg) y vitamina D.
+Queda previsto el traslado a la planta de Oncología para inicio de tratamiento quimioterápico con esquema bleomicina, etopósido y carboplatino.
+
+Evolución
+Previamente al traslado a Oncología, se objetiva nuevo deterioro de función renal, por lo que se decide traslado a la Unidad de Cuidados Intensivos del mismo centro. En la Unidad de Vigilancia Intensiva, se intensifica tratamiento con diuréticos y sueroterapia y se inicia rasburicasa a dosis de 0,15 mg/kg. Con ellos, el paciente presenta una mejoría de la función renal, manteniendo una diuresis óptima de aproximadamente 5 l/día, sin precisar terapia sustitutiva renal. Inicio de tratamiento quimioterápico sin complicaciones, con mejoría progresiva de la calcemia y ácido úrico, por lo que, ante estabilidad hemodinámica, se decide traslado al servicio de Oncología.

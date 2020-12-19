@@ -1,0 +1,47 @@
+Varón de 56 años de edad en el momento actual, alérgico a nitrofurantoína. Fumador de 6 cigarros/día y consumo de cannabis desde los 20 años, sin otros hábitos tóxicos. Independiente para las actividades básicas de la vida diaria (ABVD), vive en domicilio con su esposa e hijo. Intervenido de meniscectomía derecha, herniorrafía inguinal izquierda y amputación de 4º y 5º dedos de pie derecho a raíz de un accidente de tráfico en moto a los 20 años de edad (precisando de hemotransfusión durante la cirugía).
+
+Antecedentes familiares: padre fallecido a los 45 años por un carcinoma de origen gástrico y madre fallecida a los 79 años por cáncer de pulmón.
+
+Antecedentes personales de hepatopatía crónica por infección crónica por virus de la hepatitis C (VHC) genotipo 1a diagnosticada a los 28 años, tratada en 2015 con antivirales de acción directa (sofosbuvir/ledipasvir) y ribavirina, consiguiendo respuesta viral sostenida (RVS).
+En diciembre de 2015, presentó un episodio de hemorragia digestiva alta por varices esofágicas, recibiendo desde entonces profilaxis secundaria para resangrado con betabloqueantes (carvedilol) e inclusión en programa de erradicación endoscópica de varices.
+Actualmente en fase de cirrosis hepática con hipertensión portal (HTP), Child-Pugh A. En tratamiento habitual con carvedilol 6,25 mg (1-0-1).
+
+Historia oncológica
+En seguimiento en consultas externas de Digestivo por su hepatopatía, en una ecografía abdominal de cribado realizada en octubre de 2015 se objetivó una lesión ocupante de espacio hipoecogénica de 17 x 15 mm en segmento VI del lóbulo derecho.
+Se amplió el estudio con tomografía computarizada (TC) trifásica que confirmó la existencia de un nódulo sólido, con hiperrealce vascular arterial homogéneo, en situación posterior y periférica del segmento VI del lóbulo hepático derecho, de 21 x 15 mm, con lavado precoz en fase portal, sospechoso de hepatocarcinoma (HCC).
+Con niveles de alfafetoproteína (AFP) en rango de la normalidad (3 ng/ml), respuesta viral sostenida e imagen compatible con HCC, tras la puesta en común en comité de tumores, se valoró la opción de trasplante hepático. Sin embargo, finalmente se desestimó ante la discordancia de las técnicas de imagen realizadas a posteriori, al no objetivar la imagen compatible con HCC, decidiéndose seguimiento clínico y radiológico estrecho.
+Continuó seguimiento en consultas externas de Digestivo, objetivando en octubre de 2016 imagen nodular de nueva aparición de 10 mm en fase arterial y portal en la intersección de los segmentos VII/VIII, con alteración de la perfusión, sin poder descartar nódulo displásico o HCC, y desaparición del nódulo del segmento VI. Dichos hallazgos fueron confirmados mediante resonancia magnética (RM) hepática, evidenciando lesión adyacente a vena suprahepática derecha de unos 9 mm.
+Se pierde el seguimiento del paciente, reapareciendo en consultas en septiembre de 2018, objetivando aumento de la lesión hepática, alcanzando los 6 x 6 cm en TC y RM hepática de septiembre y octubre de 2018, respectivamente.
+Con el diagnóstico de HCC estadio BCLC-B (escala Barcelona-Clinic Liver Cancer, estadio B) es incluido en ensayo clínico de nivolumab en adyuvancia tras radioembolización o terapia de radiación interna selectiva (Selective Internal Radiation Therapy [SIRT]) con SIR- Spheres, la cual se realiza en noviembre de 2018.
+En diciembre de 2018, inicia tratamiento adyuvante con nivolumab 240 mg cada 2 semanas, con buena tolerancia, respuesta radiológica completa como mejor respuesta  y sin toxicidad aguda, pudiendo mantener vida familiar y laboral activas.
+
+Anamnesis
+En abril de 2019, a los 4 meses de haber iniciado tratamiento y tras haber completado 10 ciclos de tratamiento con nivolumab, consulta en su centro de salud por cuadro de mayor debilidad, poliuria, polidipsia y polifagia de una semana de evolución. En toma de glucemia capilar postprandial se objetiva glucemia de 465 mg/dl, siendo derivado a Urgencias de centro hospitalario de referencia.
+Ante debut diabético hiperosmolar sin cetosis ni acidosis, ingresa en planta de Medicina Interna para completar estudio y control de glucemias.
+
+Exploración física
+Tensión arterial 156/82 mm Hg; frecuencia cardiaca 53 lpm; saturación basal de oxígeno: 97 %. Glicemia capilar: 392 mg/dl.
+» Peso: 74 kg. Talla 1,73 m. Índice de masa corporal: 24,7 kg/m2.
+» Paciente con Eastern Cooperative Oncology Group Performance Status (ECOG PS): 0. Buen estado general. Consciente, orientado en las tres esferas, normocoloreado y signos leves de deshidratación. Eupneico en reposo. Afebril. Exploración cardiopulmonar, abdominal y neurológica sin alteraciones reseñables.
+
+Pruebas complementarias
+Analítica en Urgencias
+» Bioquímica: glucosa 461 mg/dl, creatinina 0.9 mg/dl, FGe CKD-EPI > 90 ml/min/m2.
+» GSV: pH 7,42, bicarbonato 24,6 mmol/l, exceso de base 0,4 mmol/l, lactato 1,5 mmol/l, anión GAP 11,4 mmol/l.
+» Hemograma: hemoglobina 13,6 g/dl; hematocrito 40,3 %; volumen corpuscular medio (VCM) 88,9 fl. Leucocitos 5,8 x 10 U9/L (S 80 %); plaquetas 80 x10 U9/l.
+» Sistemático de orina: glucosuria > 1.000 mg/dl. Sin cuerpos cetónicos y sedimento normal.
+Analítica sanguínea en planta de hospitalización:
+» Bioquímica: glucosa 279 mg/dl, hemoglobina glicada (HbA1c) 7,7 %, creatinina 0,75 mg/dl, FG > 90 ml/min/m2, ALT 23 UI/l, FA 115 UI/l, GGT 79 UI/l.
+» Hemograma: hemoglobina 11,9 bg/dl, Leucocitos 3,4 x 10 U9/l, plaquetas 54 x 10 U9/l.
+Insulina: 14,36 mU/l (en rango de normalidad). Péptido C: 1.09 mcg/l (en rango de normalidad).
+Anticuerpos antiglutamato descarboxilasa (anti-GAD): 1,64 (negativos).
+
+Diagnóstico
+Debut diabético en forma de hiperglucemia simple no cetósica en paciente diagnosticado de HCC en tratamiento con nivolumab adyuvante.
+
+Tratamiento
+[Véase Evolución]
+
+Evolución
+Durante su estancia en planta de hospitalización, se inicia perfusión de insulina rápida intravenosa y fluidoterapia, con mejoría progresiva de las cifras glucémicas que permite retirar el tratamiento con insulina endovenosa e iniciar insulinoterapia subcutánea con insulina basal ultralarga (degludec), así como pauta en bolos y correctora con insulina ultrarrápida. Valorado por Endocrinología, se considera de alta sospecha de debut diabético de origen autoinmune secundario a nivolumab, aunque tanto el péptido C como los anticuerpos anti-GAD resultaron negativos.
+Tras el alta, y con buen control metabólico con la terapia de insulina, el paciente pudo retomar el tratamiento con nivolumab 240 mg/2 semanas adyuvante.

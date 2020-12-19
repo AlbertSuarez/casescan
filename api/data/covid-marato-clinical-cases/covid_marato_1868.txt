@@ -1,0 +1,29 @@
+Anamnesis
+Mujer de 35 años de edad, sin antecedentes médicos de interés, fumadora de 20 cigarrillos día desde los 17 años, fractura traumática de tibia y peroné resuelto con osteosíntesis en el año 2000.
+
+La paciente acude al Servicio de Urgencias en noviembre de 2014 refiriendo dolor lumbar de dos meses de evolución, de moderada intensidad, con irradiación a cara anterior de muslo izquierdo, de características mecánicas, que se inició en el trabajo tras realizar un esfuerzo físico. Refiere que en la última semana el dolor es muy intenso, con dificultad para la deambulación y conciliar el sueño, no calma con el reposo y se exacerba con movimientos activos del miembro inferior izquierdo.
+
+Se pauta tratamiento con paracetamol 500 mg cada 8 horas, desketoprofeno 25 mg cada 8 horas y tramadol 50 mg cada 12 horas, cediendo el dolor parcialmente y acudiendo a Urgencias en repetidas ocasiones. Vuelve a presentar el dolor con mayor impotencia funcional y dificultad para la deambulación, por lo cual se remite a estudio por Traumatología.
+
+Exploración física
+ECOG: 0. Conciencia y orientación adecuadas. Buen estado hidratación y perfusión. Buena coloración de piel y mucosas. Buen estado general. Pulsos periféricos presentes y simétricos. Sin edemas. No presenta signos de trombosis venosa profunda. Dolor a la digito-presión en columna sacra y dolor a la rotación de cadera izquierda y en movimiento de elevación de pierna izquierda a unos 30º. Glasgow 15/15. No presenta signos de focalidad neurológica ni signos meníngeos. Resto de la exploración fisica sin hallazgos relevantes.
+
+Pruebas complementarias
+Se solicita prueba de imagen con TC de columna lumbo-sacra que se completa con RM, donde se identifica una extensa tumoración lítica 106 x 60 x 100 mm que destruye el sacro completamente en toda su extensión y se acompaña de masa de partes blandas hacia el espacio presacro con desvicación hacia el lado izquierdo, ocupando la escotadura ciática, con comportamiento de señal fundamentalmente hipointenso tanto en secuencias potenciadas en T1 como T2, viéndose además áreas hiperintensas bien definidas en su interior, que no se corresponde con calcificaciones en TC y radiografía previas, lo que sugiere áreas de degeneración quística vs. necrosis.
+
+Dados los datos epidemiológicos conocidos (mujer joven de 35 años) y los datos radiológicos (lesión lítica centrada en sacro de aspecto expansivo), se plantean como posibilidades diagnósticas linfoma, cordoma, plasmocitoma e incluso metástasis, esto último menos probable dada la edad y la ausencia de primario conocido.
+
+Se completa estudio de extensión con TC body y mamografia sin datos de enfermedad a distancia ni otro origen primario tumoral.
+
+Diagnóstico
+Se realiza biopsia percutánea guiada con TC con diagnóstico anatopatológico final de tumor de células gigantes de hueso, tipo convencional. Observándose una proliferación celular compuesta por numerosas células gigantes multinucleadas y células sueltas de hábito plasmocitoide, con un núcleo excéntrico, irregular e hipercromático. Entre las células se identifica una fina trama de tejido osteoide. Las células han resultado intensamente positivas para Vimentina y negativas para CK-7, CK-20, TTF-1, GATA-3 y CD-45. Con citoqueratina AE1/AE3 se ha observado una ligera y débil tinción de membrana. El índice de proliferación Ki67 es aproximadamente del 10%
+
+DIAGNÓSTICO: Tumor de células gigantes óseo sacro estadio III.
+
+Tratamiento
+Se presenta el caso en Comité de Tumores donde se desestima intervención quirúrgica dada la importante morbilidad por el tamaño y la infiltración del tumor primario.
+Se decide indicación de tratamiento con denosumab a dosis de 120 mg administrados de forma subcutánea cada 4 semanas con dosis adicionales los días 8 y 15 del primer ciclo de tratamiento.
+Adicionalmente, recibe suplementación con calcio y vitamina D.
+
+Evolución
+La paciente recibe cinco administraciones subcutáneas de denosumab, presentando importante respuesta clínica con control del dolor que le permite caminar con normalidad y respuesta radiológica en RM lumbo-sacra con disminución de tamaño de masa lítica en sacro con zonas de esclerosis y disminución de la masa de partes blandas asociada. La paciente está pendiente de nueva valoración quirúrgica para rescate quirúrgico.

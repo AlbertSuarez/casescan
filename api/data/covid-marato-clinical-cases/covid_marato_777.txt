@@ -1,0 +1,26 @@
+Anamnesis
+Varón de 63 años diabético, fumador 2-3 paquetes-día y enolismo moderado con síndrome metabólico y sin cardio-bronconeumopatía asociada.
+
+Exploración física
+Desde hace 4 años presenta cuadro de hematuria de repetición.
+
+Pruebas complementarias
+Se realiza estudio de extensión donde se visualiza lesión sólida de unos 96 mm en polo inferior del riñón derecho con infiltración de la grasa perirrenal y de la porción inferior de la fascia pararrenal anterior con trombo mural de la venal y probable metástasis adrenal derecha. Se identifica a la vez adenopatía patológica hiliar derecha con un eje menor de 20 mm.
+Se comenta el caso en comité de tumores y, con el diagnóstico de masa renal estadio cT3aN0Mx, se decide realizar nefrectomía radical derecha con trombectomía y con posterior seguimiento de la adenopatía torácica.
+
+Diagnóstico
+La Anatomía Patológica de la pieza es de carcinoma de células renales tipo células claras (inmunohistoquímica positiva para CD10, vimentina, CK7, CK AE1/AE3 y RCC), Führman 2 que afecta al tejido adiposo de seno renal y muestra fenómenos de trombosis tumoral en los vasos del hilio (pT3b). Además, existe un trombo mural en vena cava inferior factible con trombo de carcinoma renal de células claras, siendo la estadificación final un estadio IIIB.
+
+Tratamiento
+La evolución postquirúrgica es tórpida por un cuadro de insuficiencia respiratoria secundario a una descompensación de su EPOC basal sin asociarse a neumonía.
+Una vez dado de alta a los 3 meses es derivado a consulta de Oncología Médica. No se realiza adyuvancia.
+En una TC de control a los 8 meses de la cirugía se evidencia una pequeña lesión hiperdensa en segmento II hepático de 8 mm sugestivo de angioma y nódulos pulmonares subcentimétricos en lóbulo superior derecho. Se decide vigilancia activa.
+En la TC siguiente hecha a los 3 meses se describe aumento de los nódulos pulmonares subcentimétricos en lóbulo inferior izquierdo con estabilidad del resto de nódulos. Se informa de la progresión tumoral, pero el paciente desestima tratamiento. Al mes es ingresado por cuadro de pancreatitis aguda de probable origen enólico con buena evolución.
+Se solicita nueva TC a los 2 meses tras última consulta y destaca un aumento del tamaño y número de los nódulos pulmonares, que muestran no obstante tamaño subcentimétrico, y se visualiza una adenopatía hiliar derecha con realce periférico e hipodensidad central de nueva aparición. El paciente acepta iniciar tratamiento con sunitinib 50 mg, 2 semanas seguidas y descanso de una.
+
+Evolución
+Tras 4 meses de tratamiento presenta toxicidad con síndrome palmoplantar grado 2 con disestesias. La respuesta radiológica valorada por TC es una respuesta parcial (disminución global de las lesiones pulmonares y estabilidad de la adenopatía en hilio derecho).
+Tras 9 meses de iniciar el tratamiento, es ingresado de nuevo por pancreatitis de probable origen biliar con colelitiasis en vesícula biliar, incluyéndose en lista de espera para colecistectomía. Se reduce dosis de sunitinib a 25 mg diarios por estos cuadros de repetición.
+Al mes ingresa de nuevo por cuadro de pancreatitis, donde en el estudio radiológico que se realiza durante el ingreso, se visualiza una lesión hipervascular de 13 mm en el teste derecho con mínima elevación de AFP y BHCG normal. A los 32 meses de la nefrectomía, se realiza orquiectomía derecha vía inguinal con Anatomía Patológica compatible con metástasis en parénquima testicular de carcinoma de células claras de origen renal. El perfil inmunohistoquímico es de positividad para RRC, CD10, vimentina y negativas para CK7.
+Al mes de la orquiectomía, acude a consulta con TC de reevaluación (estabilidad enfermedad) y ante la progresión a nivel testicular se inicia axitinib 5 mg cada 12 horas. Al mes del inicio de tratamiento, refiere dolor importante en zona lumbar, se realiza RM de columna donde se visualiza lesión de aspecto lítico D11 y gammagrafía ósea con estudio compatible con metástasis en D11.
+Dada la progresión ósea se inicia cabozantinib 60 mg diarios y se consulta con Oncología radioterápica para tratamiento con radiaciones ionizantes de la lesión axial (intención analgésica). Actualmente sigue en tratamiento con cabozantinib sin reportar datos de toxicidad.

@@ -1,0 +1,27 @@
+Anamnesis
+Mujer de 61 años, que presenta metrorragia de escasa cuantía de 2 meses de evolución, acompañado de dolor en hipogastrio, que cede con analgésicos convencionales, y astenia, motivo por el cual en abril de 2014 acude al Servicio de Urgencias de Ginecología donde se realiza ecografía pélvica que objetiva útero aumentado de tamaño con endometrio de 52,1 mm y grosor miometrial de 9,9 mm. Se realiza microlegrado uterino y se envían muestras a patología de manera urgente ante la sospecha de neoplasia uterina.
+Posteriormente, inicia con cuadro de parestesias en miembros inferiores de 2 días de evolución con pérdida total de la movilidad. Se realiza RM dorsal donde se observa metástasis en espacio epidural a nivel de D9 y D10 con masa de partes blandas asociada, que provoca estenosis prácticamente completa del canal medular, con adelgazamiento y edema de la médula a dicho nivel, en relación con compresión.
+Se realiza laminectomía urgente con toma de biopsia de las muestras obtenidas, siendo el resultado de anatomía patológica (AP) de sarcoma del estroma endometrial indiferenciado.
+
+Examen físico
+Conciente, orientada, eupneica, afebril, bien perfundida y nutrida. Hemodinámicamente estable. AC: rítmica, sin soplos ni ruidos añadidos. AP: MVC, sin estertores audibles. Exploración mamaria anodina.
+Sin adenopatías supraclaviculares ni axilares palpables. Abdomen: blando, depresible, no doloroso a la palpación superficial ni profunda, masa palpable en hipogastrio y FID de aproximadamente 5 cm; sin hepatomegalia ni esplenomegalia; no presenta signos de irritación peritoneal. Extremidades inferiores: no se observan edemas ni signos de TVP. Exploración neurológica: paraplejia con nivel sensitivo D12 aproximadamente.
+
+Pruebas complementarias
+- TC toracoabdominopélvica: masa de realce heterogéneo en teórica localización de suprarrenal izquierda con diámetros máximos de 43 x 50 x 56 mm (AP, T y LG, respectivamente) sugestiva de implante metástasico. Marcada ampliación de la cavidad uterina con contenido hipodenso en su interior y diámetros máximos de 101 x 127 x 140 mm en relación con carcinoma de endometrio. Engrosamiento del músculo obturador interno izquierdo con imagen hipodensa en su interior en probable relación con infiltración metastásica.
+- RM dorsal: lesión en cuerpo vertebral D4, predominantemente en hemivértebra izquierda, que se extiende a apófisis transversa izquierda y con masa de partes blandas asociada que estenosa levemente el agujero de conjunción ipsilateral superior y hacia el espacio epidural, provocando una estenosis de menos del 50% del canal medular y desplazando levemente la médula hacia la derecha. No se observa a este nivel alteración en la señal de la médula.
+Infiltración metastásica en espacio epidural, a nivel D9-D10, de 45 mm de longitud y que comprime prácticamente de manera completa el canal medular a dicho nivel, observándose un importante adelgazamiento, desplazamiento hacia la derecha y aumento de señal en relación con edema de la médula ósea y compresión medular. Dicha lesión se extiende, observando una masa de partes blandas, hacia los agujeros de conjunción izquierdos de D9 y D10 y sus apófisis transversas, así como posteriormente, infiltrando a los arcos posteriores de las costillas ipsilaterales adyacentes.
+- RM lumbar: se observa infiltración metastásica en el cuerpo vertebral de L5, con mayor afectación del hemicuerpo derecho y masa de partes blandas adyacentes. Infiltración metastásica en ala sacra derecha, así como de S1 derecha y extensión a agujero sacro S1 derecho y hacia saco tecal, con leve estenosis del mismo.
+- AP: tumor maligno indiferenciado compatible con sarcoma endometrial indiferenciado. El índice proliferativo medido con MIB1 es alto.
+
+Diagnóstico
+Sarcoma del estroma endometrial indiferenciado estadio IV.
+
+Tratamiento
+El 5/05/2014 se realiza laminectomía urgente T9-11, encontrando gran tumoración epidural circunferencial de predominio izquierdo muy adherida a la duramadre, con pequeño desgarro dural.
+Además, el 27/5/2014 se administra RT sobre D4 mediante sesión única, con la finalidad de evitar más complicaciones neurológicas por encima del nivel que ya presentaba la paciente.
+
+Evolución
+La evolución es tórpida, persistiendo la clínica neurológica.
+Inicia con síndrome febril probablemente secundario a infección de tracto urinario que no responde al tratamiento antibiótico. Además, presenta disnea de inicio brusco asociado a aumento del perímetro de MII en comparación con el contralateral, por lo que, ante la sospecha clínica de TEP y TVP, se inicia anticoagulación, presentando como complicación hematoma esplénico capsulado.
+Debido al rápido deterioro clínico y a la inestabilidad hemodinámica persistente a pesar del tratamiento implementado, se decide continuar con medidas de soporte y confort.

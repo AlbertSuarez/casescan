@@ -1,0 +1,27 @@
+Anamnesis
+Como antecedentes personales había presentado un carcinoma ductal infiltrante de mama izquierda localmente avanzado en 1997 que se trató con quimioterapia (QT) neoadyuvante con esquema FEC-75 (5-fluorouracilo, epirrubicina y ciclofosfamida) por 5 ciclos e IQ (intervención quirúrgica) consistente en cuadrantectomía con vaciamiento axilar con respuesta completa tumoral en la pieza de anatomía patológica. Como adyuvancia, recibió 2 ciclos más de quimioterapia con el mismo esquema y tamoxifeno durante 5 años.
+Como antecedentes familiares cabe destacar: madre diagnosticada de cáncer de mama a los 41 años, y tía materna fallecida por cáncer de mama a los 38.
+La paciente consultó por metrorragia posmenopáusica.
+
+Exploración física
+ECOG 0-1. Auscultación cardiopulmonar normal. Abdomen: blando y depresible, levemente doloroso durante la palpación de forma generalizada, algo distendido, sin semiología de ascitis. No se palpaban adenopatías supraclaviculares, ni axilares ni inguinales. No hay otros hallazgos.
+
+Pruebas complementarias
+» Analítica sanguínea: CA 12,5: 982.
+» TC: ligera ectasia renoureteral derecha por compresión del uréter a nivel pélvico. Ganglios retroperitoneales, paraaórticos e inguinales no superiores a 10 mm. Sin líquido libre intraperitoneal. Útero involucionado con endometrio de aspecto engrosado. Masa anexial derecha, mixta quístico/sólida con importante realce poscontraste y unas medidas de 85 x 75 x 60 mm.
+
+Diagnóstico
+Carcinoma papilar seroso de ovario de alto grado estadio IIIC de la FIGO (p T3 p N 1 (4/16) p Mx).
+
+Tratamiento
+Con el diagnóstico de cáncer de ovario se decidió cirugía: histerectomía abdominal total + anexectomía bilateral + omentectomía + linfadenectomía pélvica y paraaórtica + citología peritoneal (considerada óptima). Recibió tratamiento adyuvante QT con el esquema carboplatino-paclitaxel cada 21 días por 6 ciclos; último ciclo recibido en julio de 2010. Se realizó estudio genético que no detectó mutaciones patogénicas en BRCA-1-2. La paciente siguió revisiones en consultas externas.
+
+Evolución
+En febrero de 2012, se aprecia recaída mediastínica, hepática y retroperitoneal en las pruebas de imagen realizadas, descartada la intervención quirúrgica como opción terapéutica se reinició tratamiento QT con esquema carboplatino-doxorrubicina liposomal pegilada (PLD), dado que la recaída se presentó a más de 12 meses del último ciclo de quimioterapia administrada; considerándose recaída platino-sensible. Se considera que una paciente es platino-sensible cuando han transcurrido al menos 6 meses desde la última dosis de sales de platino recibida.
+Durante la infusión del segundo ciclo de QT, la paciente presentó una reacción anafiláctica grave al carboplatino, motivo por el cual hubo que modificar el esquema. Se decidió modificar el esquema terapéutico a trabectedina-doxorrubicina liposomal pegilada, recibió 4 ciclos, último en junio de 2012, consiguiendo respuesta completa radiológica y por marcador con adecuada tolerabilidad. De nuevo, siguió revisiones en consultas externas.
+En la TC de control de octubre de 2013 (tras 15 meses) se constató rápida progresión de la enfermedad por lo que se retomó el tratamiento quimioterápico con trabectedina-doxorrubicina liposomal pegilada (PLD) del que recibió 5 ciclos, último ciclo recibido en enero de 2014, consiguiendo respuesta parcial radiológica. Se decidió descanso de tratamiento quimioterápico y control radiológico en 3 meses.
+En abril de 2014, la paciente presenta de nuevo progresión, dado que habían pasado únicamente 3 meses desde el último ciclo de quimioterapia, se decide cambiar de esquema terapéutico y se intentó tratamiento con cisplatino con mayor premedicación y monitorización, presentándose nuevamente una reacción anafiláctica grave con hipotensión y bradicardia lo que llevó a la suspensión del fármaco. Se decidió continuar con paclitaxel semanal.
+Durante el tratamiento, la paciente presenta hemorragia digestiva por lo que se realizó gastroscopia y colonoscopia sin encontrar el punto de sangrado. Ante la sospecha de infiltración del tubo digestivo, se decidió continuar con el tratamiento quimioterápico cediendo el sangrado y consiguiendo un adecuado control de la enfermedad.
+En agosto de 2014, aparece nueva progresión de la enfermedad y se inicia tratamiento con gemcitabina quincenal. En octubre de 2014, la paciente presenta de nuevo hemorragia digestiva que dio lugar a varios ingresos y dificultó la continuidad del tratamiento quimioterápico. Se observó radiológicamente la existencia de una masa adenopatía con infiltración de íleon a la que se atribuyó el origen del sangrado. Se intentó realizar embolización selectiva de la zona en dos ocasiones, pero no fue posible, dado que, al ser un sangrado intermitente, no se consiguió localizar por arteriografía el punto exacto del sangrado.
+En diciembre presenta trombosis venosa axilosubclavia y yugular interna izquierda por lo que se inició tratamiento con heparina de bajo peso molecular. De nuevo aparecen los episodios de sangrado digestivo. Se comenta en Comité de Tumores y se decide realización de laparotomía exploratoria, haciendo resección de un fragmento de íleon infiltrado por el tumor consiguiéndose el cese de los episodios de sangrado digestivo.
+En febrero de 2015, nueva progresión, por lo que se decide tratamiento con topotecán semanal sin encontrar respuesta, la paciente fallece en mayo de 2015 en el contexto de progresión tumoral.

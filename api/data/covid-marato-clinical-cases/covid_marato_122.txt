@@ -1,0 +1,26 @@
+Anamnesis
+Mujer de 58 años de edad, con antecedentes de mamoplastia retropectoral de aumento a los 38 años y anexohisterectomía total por miomas a los 50 años, sin otros datos clínicos ni tratamiento médico de interés, es remitida a la consulta de Oncología Médica de nuestro hospital desde otro centro después de haberse realizado cirugía conservadora de la mama derecha por un carcinoma ductal infiltrante (CDI) con diferenciación neuroendocrina para planificar tratamiento adyuvante.
+
+Exploración física
+En la documentación aportada, consta: palpación de un nódulo irregular en el cuadrante superoexterno (CSE), línea intercuadrántica externa (LICE) de la mama derecha.
+En nuestra consulta: herida quirúrgica de bordes bien afrontados, en estado cicatricial, sin observar alteraciones.
+
+Pruebas complementarias
+» Ecografía y mamografía, donde se visualiza un nódulo mal delimitado de 18,6 mm en el cuadrante superoexterno (CSE), línea intercuadrántica externa (LICE) de la mama derecha.
+» TC toracoabdominal: tres lesiones hipodensas en el lóbulo hepático derecho, siendo la mayor de 9 mm, sugestivas de quistes simples a valorar en controles evolutivos. No imágenes sugestivas de metástasis.
+» Rastreo óseo corporal: no captaciones patológicas ni asimetrías que sugieran proceso infiltrativo a nivel óseo.
+» La biopsia por aguja gruesa (BAG) realizada informa de carcinoma ductal infiltrante (CDI), grado 2, Scarff 6 (D3P2M1), con receptores de estrógenos (RE) +++ (90%), receptores de progesterona (RPg)+ (30%), Her-2 negativo, Ki-67 del 7%.
+» Ante los resultados, se realizó tumorectomía más biopsia selectiva de ganglio centinela (BSGC), con bordes libres.
+» El estudio anatomopatológico definitivo informa como carcinoma ductal infiltrante, pT2 (23 mm), con diferenciación neuroendocrina, grado 2, Scarff 6 (D3P2M1), bordes libres, ausencia de metástasis en ganglio centinela, 6 mitosis/campo.
+» La inmunohistoquímica (IHQ) informa: sinaptofisina y cromogranina positivas, RE 90 %, RPg 30%, Her-2 neu negativo, Ki-67 del 4%.
+» MammaPrint: alto riesgo de recidiva.
+
+Diagnóstico
+Con todos estos datos se estadifica como pT2, pN0, M0, correspondiendo a un estadio IIA y, dadas las características del tumor: estadio II, infiltrante, tamaño de 2 cm y sin afectación ganglionar, se solicita la prueba MammaPrint para valorar el riesgo de recurrencia, que informa de alto riesgo.
+Se concluye el diagnóstico de carcinoma ductal infiltrante con diferenciación neuroendocrina, estadio IIA, hormonosensible con un índice de proliferación bajo, de alto riesgo de recidiva de acuerdo con la plataforma genómica MammaPrint.
+
+Tratamiento
+Se decide iniciar tratamiento adyuvante con quimioterapia esquema fluorouracilo, epirrubicina y ciclofosfamida (FEC) x 6 ciclos, con buena tolerancia y sin complicaciones inmediatas, con toxicidad hematológica de serie roja grado 2 e hipertransaminasemia grado 1. Posteriormente, completó radioterapia adyuvante, con buena tolerancia, y radiodermitis grado 1. Actualmente está en tratamiento hormonal con anastrozol, con buena tolerancia y adherencia al mismo, presentando en los controles analíticos una leve dislipemia.
+
+Evolución
+La paciente hace vida normal y sigue revisiones de forma semestral, con control analítico y con mamografía anual, con supervivencia libre de enfermedad de 22 meses.

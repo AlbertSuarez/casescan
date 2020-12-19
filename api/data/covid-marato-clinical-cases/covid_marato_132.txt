@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 58 años exfumador de 50 paquetes/año, HTA de reciente diagnóstico. Sin otros antecedentes de interés. Acude a Urgencias el 10 de octubre de 2014 refiriendo disnea de mínimos esfuerzos y edema facial de una semana de evolución.
+
+Exploración física
+Edema en esclavina con circulación colateral en la región centrotorácica superior, empastamiento cervical derecho, marcado edema en la extremidad superior derecha, y murmullo vesicular disminuido en la base del hemitórax derecho.
+
+Pruebas complementarias
+» TC torácica urgente, que objetiva defecto de repleción de la vena cava superior que se extiende hasta ambas venas yugulares internas, micronódulos en el LID y el LII, y múltiples adenopatías cervicales, supraclaviculares, axilares, prevasculares, parahiliares bilaterales, etc. Destacando gran conglomerado ganglionar subcarinal de hasta 4,5 cm.
+
+Diagnóstico
+Síndrome de vena cava superior (SVCS) con trombosis asociada que se extiende a ambas yugulares de probable causa tumoral.
+
+Tratamiento
+Ingresa en Medicina Interna para tratamiento corticoideo, oxigenoterapia y anticoagulación con HBPM.
+
+Evolución
+Se completa el estudio con una TC abdominal que no evidencia lesiones y una biopsia de la adenopatía axilar derecha, que resulta positiva para metástasis de ADC compatible con primario pulmonar (EGFR no mutado, ALK negativo) e IHQ positiva para CKAE1, CK7 y TTF-1.
+
+Tras la confirmación histológica, el paciente es trasladado el 22 de octubre a Oncología Médica para valorar el inicio de tratamiento. Durante los primeros días presenta empeoramiento clínico, y se solicita su valoración por Radioterapia y Cirugía Vascular. Desde Cirugía Vascular se recomienda la colocación de una endoprótesis, pero tras varios intentos no es posible su colocación. Ante el progresivo deterioro clínico, se decide iniciar tratamiento QT, recibiendo el 28 de octubre el primer ciclo de cisplatino-pemetrexed, con muy buena tolerancia. 
+Posteriormente, Radioterapia desestima el tratamiento por su dudosa eficacia, ya que se considera que es la trombosis bilateral de ambas yugulares la principal causa para la clínica del paciente. El paciente presenta mejoría clínica significativa, con evidente disminución del edema cérvico-facial y del MSD, siendo dado de alta el 11 de noviembre.
+
+Evolución tras el alta: el paciente recibe un total de seis ciclos de cisplatino-pemetrexed de manera ambulatoria entre noviembre de 2014 y febrero de 2015, con desaparición del edema facial y disminución de la circulación colateral, objetivándose respuesta parcial mayor en la TC de diciembre.
+
+En febrero se demuestra respuesta completa en la TC de reevaluación y en marzo inicia pemetrexed en monoterapia, que mantiene hasta la actualidad. En la última revisión de mayo de 2015 el paciente se encontraba asintomático y con ECOG 0.

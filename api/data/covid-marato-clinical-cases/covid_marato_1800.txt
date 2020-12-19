@@ -1,0 +1,33 @@
+Anamnesis
+Varón de 65 años, hipertenso, en tratamiento farmacológico, con buen control de sus cifras tensionales y diabetes mellitus secundaria a pancreatectomía en tratamiento con antidiabéticos orales.
+En enero de 2001 fue diagnosticado de un carcinoma neuroendocrino de cola de páncreas de 4 x 4 cm de diámetro, infiltrando tejido graso peripancreático, llegando a la vecindad de la cápsula esplénica sin afectarla. Tratado con cirugía con intención radical (pancreatectomía corporo-caudal con esplenectomía).
+La anatomía patológica confirmó el diagnóstico, observando dos zonas diferenciadas: una con numerosas estructuras insulares que presentaban reactividad inmunohistoquímica frente a insulina, glucagón y gastrina. De otra parte, una neoformación conformada por nidos formando rosetas con reactividad frente a Cam 52, enolasa neuronal específica y cromogranina demostrando un claro perfil neuroendocrino (Ki 67 10%).
+No se realizó tratamiento adyuvante, permaneciendo libre de enfermedad durante el seguimiento.
+Realizó controles sin incidencias durante 12 años. Sin embargo, en mayo de 2013, en una exploración ecográfica rutinaria se observan varias lesiones hepáticas no presentes en estudios previos y sugestivas de metástasis. Ante la sospecha de una recidiva tardía del carcinoma neuroendocrino de páncreas, se remite al Servicio de Oncología Médica.
+El paciente en aquel momento se encontraba asintomático, con un estado general excelente. No refería dolor abdominal ni sensación de distensión. No presentaba náuseas ni vómitos. Hábito intestinal con unas 5 deposiciones al día. Heces blandas de características normales, sin productos patológicos. No refiere astenia, anorexia ni pérdida de peso. No presenta clínica infecciosa. Sin otros hallazgos relevantes.
+
+Examen físico
+Buen estado general. Performance status de 1. Normohidratado. Normocoloreado. Eupneico en reposo. Cuello y área ORL: sin hallazgos. Auscultación cardiopulmonar: tonos rítmicos, soplo sistólico II/IV, con murmullo vesicular conservado. Abdomen: ruidos hidroaéreos conservados, percusión normal. Blando y depresible, no doloroso a la palpación, sin signos de irritación peritoneal. No se palpan masas ni megalias. Resto de la exploración anodina.
+
+Pruebas complementarias
+- Bioquímica (incluido metabolismo tiroideo), hemograma y hemostasia: sin alteraciones.
+- TC toracicoabdominopélvica: múltiples lesiones hepáticas, la mayor de ellas localizada en el segmento VIII (32 mm).
+Estas lesiones captan contraste en fase arterial de forma centrípeta, manteniendo realce a los 3 minutos. En el contexto de paciente con antecedente de neoplasia neuroendocrina de páncreas, lesiones de nueva aparición y con cierto crecimiento hacen necesario descartar lesión secundaria. Resto del estudio sin hallazgos reseñables.
+- RM hepática: lesiones sugestivas de metástasis hepáticas tanto en el lóbulo hepático izquierdo como en el lóbulo hepático derecho. No se observa recidiva local a nivel de la cola de páncreas. Sin otros hallazgos.
+- Gammagrafía con octreótide: no se advierten acúmulos anormales de actividad que indiquen la existencia de lesiones que expresen receptores de la somatostatina.
+- PET-TC: se observan al menos 5 lesiones hepáticas focales, la mayor de ellas en el segmento VIII con aumento muy leve del metabolismo (los tumores muy diferenciados como los neuroendocrinos tienen poca avidez por la glucosa). No se hay presencia de otras lesiones.
+- Biopsia de lesión hepática: son células con cierta atipia, de núcleos vesiculosos y pocas mitosis. No se aprecian zonas de necrosis. Con las técnicas de inmunohistoquímica, las células muestran reactividad frente a cromogranina, CD56, sinaptofisina y un índice de proliferación nuclear entre un 2% y un 20%. La expresión inmunorreactiva frente a CK7 y CK20 fue negativa. En conclusión, metástasis de carcinoma neuroendocrino grado II.
+
+Diagnóstico
+Recidiva tardía hepática múltiple de un carcinoma neuroendocrino moderadamente diferenciado de páncreas, poco sintomática y de crecimiento lento, pero progresivo; octreoscán negativo.
+
+Tratamiento
+En junio de 2013, ante el diagnóstico de recidiva tardía de un carcinoma neuroendocrino moderadamente diferenciado de páncreas, se decidió iniciar tratamiento con lanreótide 120 mg subcutáneo cada 28 días como tratamiento antiproliferativo y asociar, a su vez, tratamiento con sunitinib 37,5 mg cada 24 horas.
+El paciente presentó relativamente buena tolerancia al tratamiento, únicamente astenia, mucositis y disgeusia grado 1 y alteraciones del hábito intestinal (3-4 deposiciones diarreicas ocasionales). No fue necesario realizar ningún ajuste de dosis ni detener el tratamiento por toxicidad.
+
+Evolución
+El paciente continuó controles de forma habitual y en el estudio de extensión, en septiembre de 2013, con TC se observaron múltiples lesiones en el parénquima hepático, afectando a ambos lóbulos y que, respecto al control previo, se mostraban más grandes, más hipodensas y mejor delimitadas. La mayor en el segmento VIII. Siendo el resto del estudio y la analítica sin alteraciones reseñables.
+Con estos hallazgos, se presentó en el Comité de Tumores, observando que, aunque las lesiones eran más grandes, se observaban más hipodensas y mejor delimitadas. Con todo ello, se consideró que había habido una respuesta funcional al tratamiento con sunitinib y lanreótide, por lo que se decidió continuar con el tratamiento sistémico.
+Tras ocho meses del inicio de los fármacos, en febrero de 2014, se realizó una nueva evaluación. Se observó en la TC aumento del tamaño de las lesiones hepáticas, mejor delimitadas y mayor hipodensidad. La densidad medida en unidades Hounsfield había pasado en la lesión de mayor tamaño de 71 UH a 45 UH y en la otra lesión de 40 UH a 25 UH. Tras ocho meses de tratamiento, por criterios RECIST no había habido respuesta. Sin embargo, se observaba una clara disminución de la densidad tumoral. La respuesta radiológica iba acompañada de una completa mejoría sintomática de la diarrea y la astenia. Por ello, de acuerdo con los criterios Choi, con la excelente respuesta funcional observada (descenso de la densidad ? 15% UH), el paciente presentaba una respuesta parcial y se decidió continuar con el tratamiento.
+Se mantuvo con buena tolerancia al sunitinib, desarrolló un hipotiroidismo subclínico, que se resolvió al mes siguiente de forma espontánea, sin precisar ajuste de dosis ni inicio de tratamiento sustitutivo.
+En la última evaluación, tras casi 12 meses de tratamiento, mayo de 2014, en la ecografía de control se observa un mantenimiento de la respuesta con muy buen estado general por parte del paciente.

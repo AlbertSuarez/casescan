@@ -1,0 +1,29 @@
+Anamnesis
+Varón de 36 años, sin alergias medicamentosas conocidas, fumador de 1 paquete al día durante 15 años (15 paquetes-año) sin otros antecedentes previos de interés. Soldador de profesión. En su familia, destacan su abuelo materno fallecido de Ca. Páncreas y madre fallecida de Ca. Microcítico de pulmón.
+No seguía tratamiento habitual.
+El paciente tras realizar un esfuerzo, se nota una masa dura infraumbilical, por lo que consulta en otro centro. Se realiza estudio con Ecografía y TAC de abdomen objetivándose una masa sólida de 92x 61 mm con áreas necróticas y captación heterogénea alojada en mesenterio de fosa ilíaca izquierda sugestivas de linfoma o tumor desmoide. Posteriormente, se realizó PAAF de la lesión con el resultado preliminar de neuroblastoma.
+El 21/07/08, se extirpa masa abdominal dependiente de peritoneo parietal, acompañado de adenopatía adyacente con diagnóstico histológico definitivo de neuroblastoma de 11 cm. Los estudios Inmunohistoquímicos (IHQ) para GFAP (proteína ácida fibrilar glial), ENS (enolasa neuronal específica), cromogranina y sinaptofisina fueron positivos.
+Se completó estudio de extensión que resultó negativo (RM abdomen-pelvis y RX tórax) derivándose a Oncología Radioterápica para tratamiento adyuvante (50Gy en 25 sesiones) que recibe hasta el 04/12/08.
+Se llevó a cabo seguimiento sin evidencia de enfermedad hasta Octubre 2012 donde se objetivan niveles de dopamina en orina de 1843 mcg/L y se confirma conRM y TAC de abdomen en Diciembre 2012 recaída ganglionar preaórtica y masa paraaórtica con afectación sacra y de partes blandas en musculatura paravertebral. Ante estos hallazgos, es derivado al H. Virgen del Rocío (HUVR) de Sevilla, donde se realiza biopsia ósea sacra el 8/2/2013 que informa de metástasis óseas de neuroblastoma con ausencia de amplificación de gen N-MYC.
+
+Exploración física
+ECOG 0. Peso: 62 kg. Talla: 1.62 m.
+Buen estado general, consciente y orientado, bien hidratado y perfundido, eupneico y afebril. Auscultación cardiopulmonar y exploración abdominal sin hallazgos. No otras alteraciones por aparatos.
+
+Pruebas complementarias
+*Analítica (10/10/2012): función renal, iones y proteínas normales. Hemograma sin alteraciones.
+Dopamina en orina 1843 mcg/L.
+*TAC cráneo-tórax (22/10/12) y Gammagrafía MIBI (9/11/12): sin evidencia de enfermedad.
+*Punción aspiración de médula ósea (20/11/12): sin datos de infiltración de médula ósea.
+*RM abdomen (12/12/12): aumento de adenopatía paraaórtica izquierda 31x42 mm, nueva adenopatía caudal a esta de 18 mm, afectación de médula ósea en aumento, masa de partes blandas prevertebral aumentado de tamaño 5,1x1,9 cm que se introduce en canal.
+
+Diagnóstico
+Neuroblastoma abdominal intervenido con recidiva metastásica ganglionar, ósea y de partes blandas.
+
+Tratamiento
+Se pauta inicio de tratamiento quimioterápico (QT) basado en protocolo NR-NBL1/ESIOP: carboplatino, etopósido, vincristina, cisplatino y ciclofosfamida.
+
+Evolución
+El paciente recibe 8 ciclos (5/6/13-29/6/13) de QT basada en carboplatino, etopósido, vincristina, cisplatino y ciclofosfamida, obteniendo respuesta parcial, desestimándose el rescate quirúrgico al no tratarse de una metástasis única.
+
+En Agosto de 2015, sufre progresión de la lesión sacra, con aumento de la masa de partes blandas y ganglios, que condicionaba clínica neurológica de raíces sacras (pérdida de control de esfínteres e hipostesia perianal) decidiéndose inicio de nueva línea QT basado en platino. Recibe el primer ciclo según esquema BOMP-EPI (Bleomicina, vincristina, metotrexate y cisplatino alternando con etoposido, cisplatino e ifosfamida), el 21/11/15. Hasta la fecha ha recibido un total de 6 ciclos de vincristina, metotrexate y cisplatino (OMP), a dosis reducidas desde el segundo ciclo, por toxicidad hematológica y una infección pulmonar por la que se interrumpió bleomicina, sin poder administrarse EPI por neutropenia. A pesar de la subóptima intensidad de dosis, el paciente experimentó una mejoría neurológica desde el primer ciclo, confirmándose una respuesta parcial de la enfermedad en la reevaluación. En el momento actual, el paciente mantiene la respuesta parcial de la enfermedad.

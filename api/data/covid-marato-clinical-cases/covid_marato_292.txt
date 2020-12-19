@@ -1,0 +1,50 @@
+Anamnesis
+Paciente con antecedentes personales:
+- Profesión: química.
+- Menarquia: 13 años. FM: 4/28. FO: 0. Menopausia: 54 años. No tratamiento hormonal.
+- Poliomielitis: tres intervenciones a consecuencia de esta enfermedad.
+- NAMC.
+- Cáncer de cérvix estadio Ib en diciembre de 2012 tratado con cirugía (en otro centro) y posteriormente quimoterapia: taxol + cisplatino y radioterapia, que finalizó en mayo de 2013, con revisiones sin evidencia de enfermedad.
+- Desde agosto de 2013 presenta una tumoración en la espalda que aumenta de tamaño de forma progresiva. Con el diagnóstico de lipoma se deriva a consulta de Cirugía.
+Se realiza una biopsia-extirpación el 2/12/2013; los resultados de la anatomía patológica fueron: carcinoma pobremente diferenciado con expresión de algunos marcadores neuroendocrinos (CD56, P6P5, y focalmente a sinaptofisina y cromogranina).
+Tras la intervención se registró el crecimiento de nuevo de la lesión. Se remite a consulta de Oncología Médica para su valoración.
+
+Examen físico
+Tumoración de 5 x 5 cm en la espalda de coloración violácea bien delimitada, dura, no adherida a planos profundos.
+Resto de la exploración sin hallazgos.
+
+Pruebas complementarias
+- Hemograma, bioquímica con perfil hepático, catecolaminas y metabolitos dentro de la normalidad.
+- PET-TC:
+· Formación hipermetabólica localizada en la región escapular izquierda, cutáneo-subcutánea que profundiza en los tejidos blandos hasta el plano óseo, aunque sin invasión clara de este, y que presenta una elevada tasa de captación (SUVmáx = 13,9). Resulta compatible con actividad tumoral muy proliferativa o de alto grado histológico (probablemente indiferenciada).
+· Adenopatía axilar izquierda con captación leve pero claramente patológica que puede ser una metástasis de la lesión escapular.
+· Nódulo hipermetabólico localizado en la fosa renal izquierda sugerente de metástasis.
+· Pequeño nódulo hipermetabólico en el hilio renal izquierdo que puede ser una metástasis ganglionar de la lesión pararrenal.
+· En la columna vertebral apreciamos una ligera captación irregular, pero sin apreciarse focalidad clara actualmente que pueda catalogarse de metástasis.
+· Fibromas mamarios bilaterales retromamilares groseros sin captación patológica con FDG-PET, por lo que no resultan sospechosos, pero que debería valorarse detenidamente por otros medios.
+· No apreciamos actualmente lesiones hipermetabólicas hepáticas o pulmonares sospechosas de afectación metastásica.
+Conclusión: probables metástasis del cáncer indiferenciado pélvico resecado como primera opción, aunque no podemos descartar por completo que pudiera existir otro primario entre alguna de las localizaciones descritas.
+- Se realiza una gammagrafía con 111In-Pentetreotida (Octreoscán):
+· Foco de hipercaptación del trazador localizado sobre una lesión cutáneo-subcutánea situada en los tejidos blandos de la región escapular izquierda. Resulta sugerente de neoplasia con expresión positiva de receptores de somatostatina.
+· En las imágenes de SPECT-TC se aprecia la lesión nodular ya evidenciada en la PET/TC en la fosa renal izquierda que no presenta expresión de receptores de somatostatina.
+· Resto del rastreo corporal sin hallazgos sugerentes de enfermedad neoplásica.
+Conclusión: tumor cutáneo con expresión positiva de receptores de somatostatina.
+- Se realiza biopsia de la axila izquierda con aguja gruesa (BAG) guiada por ecografía con resultado anatomopatológico de: mínimo fragmento correspondiente a parénquima ganglionar linfoide sin evidencia de infiltración neoplásica en los límites de la muestra.
+- Se realiza una TC de abdomen y pelvis sin y con contraste intravenoso en fases portal y tardía.
+Se visualiza una formación multinodular de 28 x 20 mm de localización retroperitoneal izquierda, supra y posterior al riñón izquierdo, aunque independiente al mismo y adyacente a la crura izquierda. Presenta realce nodular periférico de características malignas sugerente de metástasis con necrosis central.
+Adenopatía de 10 mm adyacente a la vena renal izquierda. Ambas lesiones son compatibles con las descritas en la PET.
+En el hígado persisten pequeños quistes hepáticos simples.
+Cambios posquirúrgicos tras histerectomía, sin otros hallazgos en la pelvis.
+Marcada escoliosis con rotación de cuerpos vertebrales.
+- Se realiza biopsia de la cavidad peritoneal con aguja gruesa (BAG), guiada por TC con resultados de la anatomía patológica de: metástasis de carcinoma neuroendocrino. Su inmunofenotipo expresa (p63 negativo, cd56, pgp9.5, cromogranina y sinaptofisina positivos), Ki67 +++ 80%.
+Se completa estudio con mamografia y citología vaginal: sin hallazgos patológicos.
+
+Diagnóstico
+Dados los resultados del estudio de extensión y de las biopsias realizadas tanto a la lesión cutánea de la espalda, ganglionar como masa retroperitoneal, se clasifica como tumor neuroendocrino cutáneo estadio IV.
+
+Tratamiento
+Se presenta el caso en Sesión de Oncología Médica y se decide tratamiento con cisplatino + etopósido.
+
+Evolución
+El paciente ha recibido en la actualidad 3 ciclos de cisplatino-etopósido con toxicidad gastrointestinal por vómitos grado 2 y diarrea grado 1. Buena tolerancia clínica y mejoría considerable de la lesión cutánea.
+PET-TAC de reevaluación: área de aumento de metabolismo de intensidad moderada ubicada en la región escapular izquierda, a nivel subcutáneo y cutáneo. Presenta un SUVmáx de 2,15. Respecto al estudio previo (27/1/2014), ha disminuido notablemente de tamaño y de intensidad de captación la lesión descrita a nivel escapular izquierdo y han desaparecido las lesiones axilares izquierdas y las del hilio y la fosa renal izquierdas. El estudio sugiere una respuesta metabólica casi completa al tratamiento administrado. En el resto del estudio no se evidencian otras lesiones hipermetabólicas sugerentes de afectación tumoral macroscópica.

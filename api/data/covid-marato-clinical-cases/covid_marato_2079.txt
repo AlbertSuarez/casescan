@@ -1,0 +1,24 @@
+Anamnesis
+Paciente varón de 45 años, sin alergias medicamentosas conocidas ni hábitos tóxicos. Hipertensión arterial en tratamiento farmacológico con enalapril 20 mg vía oral cada 24 horas desde septiembre de 2009. Trabaja en una gasolinera. Antecedentes familiares: madre con cáncer de mama tratada con quimioterapia y radioterapia.
+Desde principios del año 2005 presenta un cuadro de dolor leve y molestias a nivel del sacro y el periné, para lo cual recibe tratamiento sintomático con analgésicos del primer escalón de la OMS, sin presentar mejoría.
+
+Examen físico
+Consciente, orientado y colaborador, buena coloración de piel y mucosas. No presenta adenopatías cervicales, supraclaviculares, axilares ni inguinales. Auscultación cardiopulmonar normal. Puño-percusión vertebral y renal bilateral negativas. Abdomen blando, depresible, sin palpar organomegalias ni masas. Extremidades inferiores normales. No focalidad neurológica.
+
+Pruebas complementarias
+- En octubre de 2006 se realiza una TC abdómino-pélvica, donde se observa una masa sacra que afecta a S3, S4, S5 con destrucción ósea, sin calcificaciones en su interior compatible con cordoma, y se realiza una biopsia por punción.
+- El resultado de la anatomía patológica de la punción es: abundante material mixo-condroide y células en placas y sueltas con vacuolas y espacios claros. No atipia manifiesta. Lesión compatible con cordoma.
+
+Diagnóstico
+Cordoma sacro.
+
+Tratamiento
+Sacrectomía parcial.
+
+Evolución
+Ante este resultado, el 23/11/2006 es intervenido, realizando una sacrectomía parcial a nivel de S1-S2. El postoperatorio se complica con infecciones y secuelas esfinterianas leves. La biopsia tras la cirugía muestra una tumoración bastante homogénea, constituida por abundante sustancia fundamental acidófila, fibrilar y de aspecto mucoide, entre la cual existen agrupaciones celulares de morfología trabecular, constituidas por células de citoplasma acidófilo, con núcleos redondeados, con cromatina fina y ocasional nucléolo. La población celular se asienta sobre ejes vasculares. No se observa anaplasia y existe poca necrosis. Las células tumorales expresan S-100, citoqueratina 8 y antígeno de membrana epitelial. Se reconoce tinción de membrana en los lugares de la lesión celular con la E-cadherina. Los elementos tumorales no expresan citoqueratina 20, citoqueratina 7 ni GFAP. Se observa persistencia tumoral a nivel del borde de resección superior, inferior e izquierdo y de los tejidos blandos retrosacros. Todo esto se corresponde con el diagnóstico de cordoma. En ese momento no recibe más tratamiento y empieza a realizar seguimiento periódico. En 2008 se realiza una TC de sacro, no observando progresión a ese nivel.
+En marzo de 2009 acude a consulta por presentar sensación de presión con parestesias en silla de montar. Se confirma la recurrencia de la enfermedad mediante TC de columna dorsolubar y sacra y se realiza resección parcial. La muestra anatomopatológica muestra la presencia de varios nódulos que corresponden con una proliferación neoplásica tipo cordoma clásico, aunque hay algunos signos de cambios regresivos como necrosis, acúmulos de colesterol y mínimo pleomorfismo focal.
+De mayo a julio recibe irradiación complementaria con 50 Greys.
+En septiembre del 2009, tras realizar una RM de pelvis de control se observan cambios posquirúrgicos secundarios a sacrectomía parcial y presencia de masas que ocupan el remanente del cuerpo sacro y el lecho quirúrgico, multinodulares, que siguen el trayecto de las raíces sacras afectando a ambos agujeros ciáticos y extendiéndose fuera de la cavidad pélvica en la musculatura glútea, especialmente en el lado izquierdo, donde condicionan un moderado desplazamiento del recto por compresión extrínseca, los nódulos confluyen formando masas, la de mayor tamaño es la que ocupa la escotadura ciática mayor izquierda, donde alcanza los 9 cm de diámetro mayor. Los hallazgos son compatibles con afectación por cordoma sacro, con aumento de tamaño con respecto a los descritos en el control previo. Se realizan estudios inmunohistoquímicos de las muestras previas, siendo positivo el PDGFR beta y el EGFR.
+En ese momento inicia tratamiento con imatinib 800 mg al día, 400 mg cada 12 horas, que en diciembre de 2010 se tiene que reducir a 600 mg cada 24 horas por toxicidad y mala tolerancia.
+A partir de entonces, la única sintomatología que refiere son dolores lumbosacros y pélvicos con continuos episodios de ciatalgia izquierda moderada que se controlan con metamizol e ibuprofeno. Se realiza seguimiento periódico con resonancia magnética sin presentar signos de progresión. El tratamiento con imatinib lo mantiene de forma constante, sin referir toxicidad grave.

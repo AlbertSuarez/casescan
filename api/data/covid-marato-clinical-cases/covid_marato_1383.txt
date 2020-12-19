@@ -1,0 +1,27 @@
+Anamnesis
+Varón de 41 años, sin antecedentes de interés, que consulta en marzo de 2011 por distensión abdominal, epigastralgia, sensación de plenitud gástrica y pérdida de peso de 15 kg en los últimos 16 meses.
+
+Examen físico
+Buen estado general. Abdomen distendido con ascitis moderada no a tensión; no se palpan masas, sin peritonismo.
+Resto de exploración, anodina.
+
+Pruebas complementarias
+TC toracoabdominopélvica: abundante líquido intraperitoneal, sugestivo de ascitis maligna. Engrosamiento del peritoneo parietal asimétrico e hipercaptante. Resto sin hallazgos.
+Serologías VIH, VHB y VHC: negativas.
+Hemograma, bioquímica y hemostasia: normales.
+Citobioquímico de líquido ascítico: ligeramente xantocrómico. Leucocitos 281/ul, de predominio linfocitario (87 %), glucosa 22 mg/dl, proteínas 4 mg/ dl y LDH 333 u/l.
+Prueba de Mantoux: 12 x 12 mm (positiva).
+Cultivo de Lowestein y tinción de Ziehl-Neelsen: negativos.
+Biopsia peritoneal: tumor de células fusiformes. Positividad para vimentina, actina, CD-117, CD34y S-100. Negatividad para desmina. Ki-67del 5 %. El perfil inmunohistoquímico sugiere tumor del estroma gastrointestinal.
+
+Diagnóstico
+Tumor del estroma gastrointestinal avanzado (metástasis peritoneales).
+
+Tratamiento
+Se requirió catéter peritoneal por alta cuantía de líquido ascítico. Los hallazgos citobioquímicos plantearon diagnóstico diferencial con ascitis tuberculosa, que se descartó por ausencia de aislamientos microbiológicos, por lo que se inició quimioprofilaxis con isoniacida por seis meses.
+Con el resultado de anatomía patológica, es derivado a Oncología Médica en abril de 2011. Inicia tratamiento con imatinib 400 mg /día con adecuada tolerancia, con respuesta radiológica parcial, aunque escasa mejoría de la ascitis.
+Tras 5 meses de tratamiento se realiza cirugía en noviembre del 2011, evidenciándose un gran tumor con origen en curvatura mayor gástrica, ascitis y enfermedad peritoneal de bajo volumen. Se realiza una exéresis completa del tumor.
+La biopsia habla de un tumor del estroma gastrointestinal de 21 cm de diámetro, llamativa proliferación vascular y áreas de necrosis del 30 %, positividad para CD 117 y CD 34, negatividad para S-100 y desmina, Ki-67 del 3 %.
+
+Evolución
+Se inició pseudoayuvancia con imatinib 800 mg/día por el tamaño y la escasa necrosis observada, pese a su localización y el bajo índice de mitosis. Tras 18 meses de tratamiento presenta excelente tolerancia y los cambios en peritoneo (postquirúrgicos y persistencia de enfermedad) han disminuido progresivamente.

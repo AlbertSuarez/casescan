@@ -1,0 +1,47 @@
+Anamnesis
+Varón de 47 años, natural de Malí; residente en España desde 2005 hasta 2007 y desde 2011 hasta la fecha de consulta. No había residido ni visitado ningún otro país. Fumador activo con índice acumulado de 15 paquetes-año. Consumo esporádico de marihuana. Infección por VIH-1 diagnosticada en julio de 2006, inicialmente estuvo en tratamiento con lopinavir, ritonavir, emtricitabina y tenofovir, con posterior abandono del tratamiento en 2007.
+
+Diagnosticado de esquizofrenia indiferenciada en febrero de 2014, era seguido en consultaS de Psiquiatría. Requirió ingreso por exacerbación de LA sintomatología psicótica en junio de 2014. Fue dado de alta con tratamiento con olanzapina, lormetazepaM y zuclopentixol decanoato. Vivía en situación de exclusión social grave, residía en un albergue y era usuario de comedor social; sin familia en España. El paciente acude a urgencias en diciembre de 2014 por temblor de predominio en las extremidades superiores e inestabilidad de la marcha que le condicionaban caídas frecuentes, de un mes de evolución. Los síntomas fueron atribuidos inicialmente a extrapiramidalismo farmacológico, por lo que se le suspendió el tratamiento antipsicótico de depósito, sin mejoría de la sintomatología.
+
+Exploración física
+A su ingreso en el Servicio de Urgencias estaba estable hemodinámicamente y afebril. Destacaban en la exploración neurológica movimientos sacádicos lentos, temblor cefálico y de lengua, temblor de reposo de las cuatro extremidades (predominio izquierdo) y temblor postural; rigidez de las extremidades superiores, leve bradicinesia de predominio en la extremidad superior izquierda, dudoso Babinsky izquierdo, marcha con aumento de la base de sustentación, braceo conservado con tendencia a la anteropulsión, claudicación de la extremidad inferior derecha y reflejos posturales alterados.
+
+No otros hallazgos destacables en la exploración física.
+
+Pruebas complementarias
+» Electrocardiograma y radiografía de tórax: normales.
+» Analítica sanguínea: bioquímica general normal. Proteinograma con aumento de globulinas beta-2 y gamma (beta-2 globulina 6,4% [0,60 g/dl]; gammaglobulina 36,3% [3,38 g/dl]). Complemento C3 y C4 normales. Marcadores tumorales (AFP, CEA, CA 19.9 y PSA total) normales. Anemia y leucopenia (hemoglobina 12,1 g/dl, leucocitos 2.900/μl; neutrófilos 900/μl; linfocitos 1.700/μl).
+Coagulación normal. VSG 64 mm 1ª h. Linfocitos T CD4 174/μl; cociente T4/T8 0,1; VIH-1 carga viral 2.120.000 copias/ml. IgG para Herpes simplex 1 y 2, citomegalovirus (CMV), varicela-zóster (VZZ) y Toxoplasma gondii positivos. IgM CMV positivo débil. IgM enterovirus, V. Epstein-Barr (VEB), Paul-Bunnell e IgG T. pallidum negativos. IgM Toxoplasma gondii negativo. Serologías hepatitis B y hepatitis C negativas.
+» TC cerebral con contraste: se objetivaron lesiones hiperdensas en la rodilla y esplenio del cuerpo calloso, que realzaban tras la introducción de medio de contraste. Áreas de realce mal definidas en la sustancia blanca subcortical de ambos lóbulos frontales con discreto edema perilesional. Lesión hipodensa frontobasal izquierda de aspecto residual.
+» Análisis líquido cefalorraquídeo (LCR): glucosa 44 mg/dl; proteínas totales 201,3 mg/dl; ADA 8,1 UI/l; hematíes 47/μl; leucocitos 77/μl (polinucleares neutrófilos 0%, mononucleares 100%); tinción de gram, micobacterias y hongos negativas. Cultivo aerobio y micobacterias negativo. Antígeno criptocócico negativo; no se detectaba por PCR DNA de CMV, DNA de VEB ni T. gondii. Se detecta por PCR DNA de virus JC (PCR).
+
+El paciente fue ingresado en el Servicio de Enfermedades Infecciosas para completar el estudio:
+
+» RM cerebral con gadolinio: lesiones ocupantes de espacio (LOE) que realzaban con contraste afectando al cuerpo calloso, la superficie de ambos ventrículos laterales y la región subcortical de ambos hemisferios cerebrales, de predominio frontal y parietal, con edema perilesional en las secuencias T2-FLAIR. Las lesiones de mayor tamaño estaban localizadas en la rodilla (19 mm) y el esplenio (27 mm) del cuerpo calloso. Todas las lesiones presentan realce homogéneo, salvo la lesión frontal izquierda (1 cm), que presentaba realce en anillo. No presentaban clara repercusión sobre la difusión, mostraban cifras bajas de rCBV y aumento de la colina en el estudio espectroscópico con presencia de lípidos y lactato.
+» TC total body: adenopatías axilares izquierdas y en cadenas ilíacas externas bilaterales, de entre 10 y 12 mm.
+» Citometría LCR: el 89% de la citología eran linfocitos T CD8+, sin pérdida o expresión disminuida de los antígenos pan-B, CD2, CD3, CD5 y CD7.
+
+Diagnóstico
+» LOE en SNC, a estudio.
+» Probable linfoma cerebral primario.
+» Leucoencefalopatía multifocal progresiva (LMP).
+» Infección por VIH estadio C-3.
+» Esquizofrenia indiferenciada versus alteración conductual secundaria a afectación del SNC.
+» Distocia social.
+
+Tratamiento
+Ante el diagnóstico de infección por VIH, se reinstaura tratamiento antirretroviral con ritonavir 100 mg v.o./día, darunavir 800 mg v.o./día, emtricitabina 200 mg-tenofovir 245 mg v.o./día, raltegravir 400 mg v.o./12 horas y profilaxis antibiótica para toxoplasmosis con cotrimoxazol 400/80 mg v.o. c/12 horas 2 veces por semana.
+
+Se ajusta el tratamiento antipsicótico con zuclopentixol 200 mg i.m./2 semanas y lormetazepam 2 mg v.o./día.
+
+Evolución
+Sin estar bajo tratamiento corticoideo, se realizó biopsia cerebral estereotáctica de la lesión frontal izquierda:
+» Histología e inmunohistoquímica (IHQ): acúmulos densos linfocitarios perivasculares y multifocales con linfocitos de pequeño tamaño, con permeación de las pequeñas paredes vasculares y con formación granulomatosa no necrotizante ocasional. La IHQ fue negativa para CD-15 a nivel del componente linfocitario, con extensa y marcada positividad para CD-3 y mínima positividad salpicada para CD-20. No se identifican microorganismos con las tinciones habituales ni CMV con las técnicas de inmunohistoquímica.
+» Hibridación in situ para detección de VEB: negativo.
+» Reordenamiento de IgH: no había representación linfoide B.
+» Reordenamiento genético de TcRgamma en muestra de biopsia cerebral: escasa representación linfoide T clonal.
+
+El paciente es trasladado al Servicio de Hematología, iniciando tratamiento con dexametasona v.o. a dosis de 4 mg cada 12 horas. Se completó el estudio con biopsia de la médula ósea, que no demostró infiltración por linfoma y no se detectaron poblaciones clonales B o T patológicas.
+
+En el lapso de 3 semanas el paciente fue presentando una llamativa mejoría de la clínica neurológica, con casi total desaparición del temblor y la rigidez de las extremidades y con una destacable mejoría de la marcha, siendo dado de alta en enero de 2015 con el tratamiento antirretroviral y ajuste del tratamiento corticoideo (dexametasona 1 mg v.o./12 horas). La RM cerebral con gadolinio de control demostró una importante disminución del número y tamaño de las lesiones cerebrales, persistiendo únicamente pequeños focos de realce subcortical en la región frontal izquierda de 5 mm y en la región frontal derecha en la circunvolución precentral de 3 mm y realces lineales en el cuerpo calloso y un leve engrosamiento del tallo hipofisiario y áreas de encefalomalacia frontobasal izquierda de aspecto residual.
+En febrero de 2015 reingresa por presentar un nuevo empeoramiento de la clínica neurológica a pesar de la correcta toma del tratamiento pautado, al punto de ser incapaz de marchar sin apoyo por notable ataxia. Fue solicitada una nueva RM, en la cual presentaba estabilidad de las lesiones. Ante la dificultad que planteaba el hecho de tener detección del reordenamiento genético TcRgamma con escasa representación linfoide T clonal para plantear el diagnóstico de certeza de linfoma cerebral primario de célula T, se solicita un nuevo estudio del LCR, obteniendo una nueva citometría con linfocitos CD8 positivos con perfil antigénico normal, reordenamiento TcR positivo, PCR para detección de VEB y de virus JC positivas. Por las condiciones clínicas de ese momento, con un PS 3, se desestimó tratamiento quimioterápico, por lo que se valoró administrar radioterapia holocraneal con intención paliativa, no siendo posible por fallecimiento del paciente en marzo de 2015.

@@ -1,0 +1,26 @@
+Anamnesis
+En diciembre de 2016, durante su seguimiento por nuestro Servicio de la Neoplasia Rectal, el paciente inicia con dolor en la región glútea izquierda que se irradia a miembro inferior izquierdo, y se hace progresivamente más intenso por lo que solicita RMN pélvica, dado que la TC y el marcador tumoral (CEA) son normales.
+
+Exploración física
+» Buen estado general. Disfonía.
+» Cicatriz cervical bilateral por vaciamiento ganglionar. Radiodermitis cervical. No se palpan adenopatías laterocervicales ni supraclaviculares.
+» Auscultación cardiorrespiratoria: rítmico, sin soplo, hipofonesis global.
+» Abdomen: bolsa colostomía parcialmente llena en flanco derecho. Cicatriz laparotomía supra e infraumbilical correcta. Depresible, no doloroso, no se palpan masas ni visceromegalias, ni peritonismo. Peristaltismo conservado.
+» EEII: no hay edemas ni signos de trombosis venosa profunda. Lassegué y Bragard negativos. Sin alteraciones cutáneas. Sensibilidad y fuerzas conservadas.
+
+Pruebas complementarias
+» TC (diciembre 2016): cambios posquirúrgicos de amputación abdominoperitoneal, con ocupación por material de densidad de partes blandas en relación con cambios postratamiento en el espacio presacro y engrosamiento de las paredes de la vejiga, que sugieren cambios postratamiento.
+» CEA (diciembre 2016): 2,45 ng/ml (< 5 ng/ml).
+» RM pélvica de marzo de 2017 se objetiva masa sólida bien definida de aproximadamente 6 x 3,5 cm en músculo piramidal, de realce heterogéneo y morfología en reloj de arena, dependiente del foramen sacro izquierdo S2-S3, asociando discreto edema en los vientres musculares y en la médula ósea del ala sacra ipsilateral adyacente, probablemente en relación con tumoración de estirpe neural/depósito secundario. Presenta intensidad de señal homogénea isointensa con el músculo en T1, hiperintensa heterogénea en secuencias sensibles a líquidos y se realza de forma heterogénea tras administración de gadolinio, indicativo de actividad.
+Se discute en comité de sarcomas de nuestro hospital y se decide biopsia con aguja gruesa de tumor en región presacra izquierda, con los siguientes resultados:
+» Biopsia con aguja gruesa de tumor en región presacra izquierda (marzo 2017), con los siguientes resultados: proliferación fusocelular, sin características de malignidad.
+Notas: aunque la mayor parte de la muestra está constituida por músculo estriado y adiposo, en 2 de los fragmentos se observa una proliferación fusocelular con núcleos sin atipia relevante, moderada densidad celular, áreas ligeramente mixoides y, en menor proporción, colagenizadas, en cuyo seno existen algunos miocitos atrapados. La proliferación fusocelular se dispone sin patrón determinado, aunque en algunos focos es ligeramente verticilar. Con técnicas inmunohistoquímicas se observa negatividad para actina, desmina, caldesmón, citoqueratinas de amplio espectro, CD 34 y S100, y positividad para CD10. Con KI 67 del 2 %. El origen es probablemente fibroblástico/miofibroblástico y no se observan signos de malignidad. Se solicitan nuevas técnicas inmunohistoquímicas para tratar de concretar el diagnóstico para beta-catenina que ha resultado con positividad nuclear en las células fusiformes, lo cual, junto a los hallazgos histopatológicos, apoya el diagnóstico de fibromatosis.
+
+Diagnóstico
+Fibromatosis de localización extrabdominal a nivel pélvico.
+
+Tratamiento
+Se vuelve a discutir en el Comité de Sarcomas de nuestro centro y se decide remitir a Traumatología para valorar resecabilidad e iniciar tratamiento con indometacina en mayo de 2017, con la que se encuentra actualmente en curso.
+
+Evolución
+Es valorado en Traumatología en mayo de 2017 por primera vez, y el paciente se encuentra actualmente pendiente de decisión de tratamiento, ya sea quirúrgico versus seguimiento.

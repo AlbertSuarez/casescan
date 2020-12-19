@@ -1,0 +1,39 @@
+Anamnesis
+Varón de 55 años de edad. Exfumador 50 paquetes-año. Síndrome de apnea obstructiva del sueño.
+Profesión: mecánico. Sin tratamiento médico habitual.
+
+Exploración física
+Sin datos relevantes.
+
+Pruebas complementarias
+Ingresa en Medicina Interna (junio de 2013) para estudio de astenia, rectorragia y tenesmo de 5 meses de evolución. Se realiza una TC y colonoscopia evidenciando un adenocarcinoma de recto-sigma KRAS nativo, con metástasis hepáticas sincrónicas bilobares en el límite de la resecabilidad (libres el segmento 4 y 1).
+
+Diagnóstico
+Con el diagnóstico de adenocarcinoma de recto-sigma, estadio IV, Kras nativo es derivado a Oncología para valorar quimioterapia con intención neoadyuvante.
+
+Tratamiento
+Entre junio y septiembre de 2013 recibe esquema FOLFOX + cetuximab x 7 con respuesta parcial según criterios RECIST. Valorado por Cirugía, entra en lista de espera quirúrgica (resección y primer tiempo de cirugía hepática).
+
+Evolución
+El 2 de octubre de 2013 acude a Urgencias por cuadro de síncope con cianosis facial, sin dolor torácico y taquicardia por lo que se solicita angio-TC que confirma el tromboembolismo pulmonar (TEP) en tronco pulmonar, arterias lobares y segmentarias bilaterales; asociado a dilatación de ventrículo derecho (VD) como signo de sobrecarga cardiaca. No presenta signos de trombosis venosa profunda.
+
+Analíticamente: creatinina 0,74, troponina 0,884 ng/mL (límite 0,05), PO2 93,l actato 2,20 mmol/L. Leucocitos 6.700, hemoglobina 11,7, plaquetas 130.000. Electrocardiograma: ritmo sinusal a 116 lpm, patrón S1,Q III,T III.
+
+Se solicita ecocardiograma que muestra un VD dilatado disfuncionante con insuficiencia tricuspídea ligera que permite estimar una presión sistólica en la arteria pulmonar de 50 mm Hg (hipertensión pulmonar moderada).
+
+La semana previa había presentado 2 episodios de rectorragia, por lo que existe contraindicación absoluta para fibrinólisis (tema a debatir en discusión). Dada inestabilidad, se decide ingreso en UCI donde se inicia tratamiento anticoagulante con heparina sódica con objetivo de tiempo de tromboplastina parcial activado (TTPA) de 60-70 segundos y fluidoterapia para mejorar la precarga.
+
+Regular evolución clínica en las primeras 24 horas con varios episodios de ritmo nodal con escape ventricular a 30 lpm y tendencia a oliguria.
+
+Tras decidir conjuntamente entre Medicina Intensiva y Oncología la no intubación por ser una medida fútil, se procede a alta a planta, con evolución favorable tras sueroterapia, diuréticos y O2, cambiando el 16/10/2013 de heparina sódica a HBPM. 
+
+Se elige tinzaparina (14000 uI) por aclaramiento de creatinina de 28 mL/min.
+Dada la estabilidad hemodinámica, con ecocardiograma en límites de normalidad, se procede al alta hospitalaria y seguimiento en consultas, manteniendo tratamiento con tinzaparina a las dosis citadas.
+
+Ante la demora en cirugía y la necesidad de intervalo de recuperación tras un TEP masivo, se administran 2 ciclos de FOLFOX-CETUXIMAB. A los dos meses del episodio, se realiza la intervención quirúrgica (resección primario y primer tiempo de cirugía hepática), con colocación previa de filtro de cava. Anatomía patológica muestra adenocarcinoma de sigma ypT3 N1b M1 V1 L0 R0 y persistencia tumoral hepática <10%.
+
+Entre enero y febrero de 2014, realiza QT de intervalo en régimen 5-fluorouracilo + cetuximab x 2 con respuesta radiológica(total 11 ciclos 9 de folfox + 2 de gramont + cetuximab) y en marzo de 2014 se realiza segundo tiempo quirúrgico mediante hepatectomía derecha + cierre de ileostomía lateral.
+
+En TC de reevaluación de junio 2014 aparecen 3 lesiones en segmento 4 que requieren control estricto.
+
+Se retira filtro de cava y se mantiene tinzaparina a dosis terapéuticas (14000 Ui) por no poder descartar afectación hepática. En agosto de 2014 y febrero de 2015 se repiten pruebas de imagen sin signos de recidiva. Por tanto, se suspende tratamiento anticoagulante tras 9 meses sin enfermedad activa.

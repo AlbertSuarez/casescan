@@ -1,0 +1,33 @@
+Anamnesis
+Varón de 48 años caucásico, natural de Getxo y electricista de profesión. Sin antecedentes familiares oncológicos de interés. Entre sus antecedentes personales destacan que es ex fumador desde hace más de 20 años (índice acumulado de 15 paquetes-año) y dislipémico sin tratamiento farmacológico.
+El episodio actual comienza en Diciembre del 2011. Debutó con un cuadro de cefalea occipital y lateropulsión hacia la derecha de 15 días de evolución
+
+Exploración física
+ECOG1. Normocoloreado y bien hidratado. Auscultación cardiopulmonar normal. Abdomen blando y depresible no doloroso a la palpación, sin masas ni megalias.
+Exploración neurológica: consciente y orientado en las tres esferas. No afasia ni disartria.Pares craneales sin alteraciones. No datos de meningismo. No alteración de la fuerza o de la sensibilidad. No dismetrías. Marcha con aumento de la base de sustentación, con tendencia a la lateralización hacía la derecha. Romberg+.
+
+Pruebas complementarias
+Ante la clínica referida ingresó para su estudio:
+La tomografía computarizada (TAC) cerebral realizada fue normal por lo que se realiza resonancia magnética (RMN) cerebral con hallazgo de lesión cerebelosa derecha sugestiva de metástasis.
+Se completa estudio inicialmente mediante TAC de cuerpo completo (TAC ctap) sin hallazgos y posteriormente con PET que muestra captación patológica en tercio distal de esófago.
+Asi mismo, se realizó gastroscopia y ecoendoscopia en la que se apreciaba lesión proliferativa sobre tercio distal de esofago ( unión gastroesofagica -UGE-) con mucosa circundante sugestiva de metaplasia de Barret y anatomía patológica (AP) compatible con adenocarcinoma. Se descarta la presencia de adenopatías perigastricas significativas. Llega a borrar focalmente el plano de la muscular, sin afectar grasa mediastinica.
+A nivel analítico no había alteraciones de la bioquímica, del hemograma ni de la coagulación. Los marcadores tumorales digestivos eran normales.
+
+Diagnóstico
+Adenocarcinoma de unión gastroesofagica EIV ( M1 cerebelosa única)
+
+Tratamiento
+El 20/1/12 es intervenido mediante craneotomía de fosa posterior lateral derecha realizándose exéresis completa de la lesión cerebelosa con AP compatible con metástasis de adenocarcinoma intestinal.
+El 6/2/12 es intervenido mediante esofaguectomia transhiatal y anastomosis termino-terminal con AP compatible con adenocarcinoma tipo intestinal de UGE pT2pN2 ( 4/9) R0.
+En Marzo del 2012 se comprueba mediante TAC y PET que no hay evidencia de enfermedad. El paciente se encuentra asintomático con ECOG0, exploración física y analítica asi como MT normales.
+Entre el 12/3/12 y 1/8/12 recibe 6 ciclos de QT adyuvante según esquema 5-FU 425 mg/m2 + Ácido folínico 20 mg Días 1-5 ,cada 28 días. Con 3º y 4º ciclo ( reducidos 40%), recibe radioterapia (RT) concomitante DT 50 Gy al lecho tumoral y drenajes. Tras 4º ciclo presentó neutropenia G4 precisando retraso de una semana y reducción de 20% de dosis. Otras toxicidades presentados son astenia G1, diarrea G1 y anorexia G1.
+
+Evolución
+En Septiembre del 2012, presenta elevación del CA 19.9 hasta 129 (límite normal hasta 37 ) por lo que se solicita estudio de extensión mediante TAC cerebral, TAC ctap y PET que confirman recidiva ganglionar retroperitoneal.
+Se determinó amplificación del gen HER2/neu inicialmente mediante inmunohistoquimica (herceptest) cuyo resultado fue borderline (valor 2) confirmándose con resultado FISH positivo.
+El 21/9/12 inicia tratamiento QT según esquema Cisplatino 80 mg /m2 D1 + 5 FU 1000 mg/m2 D1-D4 + trastuzumab 6mg/kg D1 cada 21 días con reducción inicial de un 25% por toxicidad hematológica previa asociando además soporte de G-CSF. En TAC realizado tras 2º ciclo presenta progresión cerebral con aparición de 3 nuevas lesiones con clara disminución de las adenopatías retroperitoneales.
+Ante progresión cerebral única recibe tratamiento RT holocraneal DT 30Gy durante 2 semanas, que finalizó el 8/11/12. Dado que a nivel extra cerebral había conseguido respuesta radiológica, se prosigue tratamiento QT según esquema cisplatino- 5-FU -trastuzumab.
+Tras completar 5 ciclos el 24/12/12 el CA19.9 se normaliza y se realiza RMN cerebral ,TAC cerebral y ctap que confirma respuesta completa tanto a nivel del SNC como a nivel retroperitoneal por lo que continúa con Trastuzumab en monoterapia a 6 mg/kg cada 21 días de los que recibe 17 dosis hasta el 27/12/13 manteniendo remisión completa en RMN cerebral y TAC ctap seriados, sin toxicidad a destacar.
+El 7/1/14, tras intervalo libre de enfermedad (ILE) de 12 meses y encontrándose el paciente asintomático con ECOG0, se confirma progresión de enfermedad a nivel retroperitoneal.
+Dada la respuesta conseguida previamente y ausencia de toxicidad acumulada, se propone retratamiento con doblete de platino- fluoropirimidinas asociada a trastuzumab.Entre el 22/1/14 y el 12/5/14 recibe un total de 6 ciclos según esquema cisplatino 80 mg/m2 D1, capecitabina 750 mg/ m2 cada 12 horas D2-15 y Trastuzumab 6 mg/kg D1 cada 21 días reducidos un 25% por toxicidad hematológica previa y con soporte de G-CSF. Tras el 2º ciclo presentó respuesta parcial radiológica que mejoró tras el 5ºciclo.Desde entonces se retira cisplatino y se continua con capecitabina-Trastuzumab cada 21 días hasta el 2/7/15 hasta completar un total de 25 ciclos suspendiendose capecitabina por síndrome palmoplantar G2. Se realizan ecocardiogramas , RMN cerebral y TAC ctap periódicos manteniendo enfermedad estable con mínimo volumen de enfermedad.
+Desde entonces ha continuado con trastuzumab 600mg subcutaneas cada 21 días habiendo recibido hasta el momento un total de 41 ciclos de tratamiento el 2/6/16 con excelente tolerancia.

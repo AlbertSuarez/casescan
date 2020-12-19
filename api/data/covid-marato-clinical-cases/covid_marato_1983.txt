@@ -1,0 +1,25 @@
+Anamnesis
+Paciente de 46 años con menarquia a los 15 años. Dos gestaciones: un aborto y un parto natural a término. Endometriosis, con laparoscopia en Perú en 2006. En seguimiento posterior en España, con quistectomía bilateral laparoscópica por quistes endometriósicos en 2011. No sufre alergias ni otros antecedentes personales o familiares de interés.
+En revisión rutinaria por Ginecología, se objetiva imagen anexial de 10 cm con Ca125 elevado (71 U/ml) sin otros hallazgos en estudios de imagen, por lo que se programa intervención quirúrgica. El 16/07/2015 se realiza laparotomía con hallazgo de carcinoma de células claras de ovario derecho, por lo que se completa cirugía de estadiaje con citorreducción óptima. La anatomía patológica definitiva demuestra adenocarcinoma de ovario derecho tipo células claras, ovario izquierdo con endometriosis. Útero, ambos oviductos y epiplón normales. Metástasis de adenocarcinoma de células claras en 2/4 ganglios pélvicos derechos, 0/6 pélvicos izquierdos y 1/9 ganglios paraaórticos. Linfadenitis granulomatosa necrotizante de tipo sarcoideo en todas las localizaciones ganglionares. Se considera estadio IIIA1 FIGO.
+La paciente es remitida a consultas de Oncología Médica, donde se realiza estudio posquirúrgico con analítica normal, incluyendo hemograma, bioquímica y CA125; y TC de tórax-abdomen sin hallazgos. Recibe quimioterapia según esquema carboplatino AUC 5 + paclitaxel 175 mg/m2 por 6 ciclos, precisando reducción de dosis de paclitaxel por neurotoxicidad G2 tras el ciclo 4, y que finaliza en enero 2016. Inicia revisiones trimestrales.
+En septiembre 2016, encontrándose la paciente asintomática, se realiza analítica normal y TC de tórax-abdomen que muestra adenopatías mediastínicas y nódulos milimétricos pulmonares bilaterales y esplénicos múltiples de nueva aparición. Ante la duda de recidiva tumoral por patrón de diseminación atípico sin elevación de CA125 y la existencia en AP previa de linfadenitis granulomatosa tipo sarcoideo, se revisan las imágenes con Radiología, que las considera compatibles con sarcoidosis, por lo que se remite a la paciente a Neumología para su estudio.
+
+Exploración física
+ECOG 0, buen estado general. Eupneica en reposo y al habla. SatO2 98 % sin aporte. Estable hemodinámicamente. Afebril. No se palpan adenopatías periféricas. Auscultación cardiorrespiratoria, abdomen y miembros inferiores sin hallazgos.
+
+Pruebas complementarias
+TC de tórax-abdomen con contraste (27/09/16): ligero aumento de adenopatías prevasculares y paratraqueales, superiores al cm. Aparición de nódulos pulmonares milimétricos bilaterales, y múltiples nódulos esplénicos de nueva aparición sin poder descartar metástasis. Dos micronódulos hepáticos compatibles con quistes.
+Analítica (24/11/16): hemograma y bioquímica normales. Linfopenia leve. Calcemia y calciuria normales. Enzima convertidora de angiotensina (ECA) 110 U/l (normal 18-55).
+ECG (22/11/16): ritmo sinusal. Trigeminismo. Bloqueo incompleto de rama derecha del haz de Hiss.
+Fibrobroncoscopia (2/12/16): sin hallazgos endoscópicos. AP lavado broncoalveolar: alveolitis linfocitaria CD4/CD8 > 3,5.
+Mantoux (15/12/16): negativo.
+Función pulmonar (30/11/16): espirometría, volúmenes y difusión normales.
+
+Diagnóstico
+Adenocarcinoma de ovario de células claras estadio IIIA FIGO, intervenido mediante cirugía de citorreducción óptima y tratado con QT de primera línea. Micronódulos pulmonares y esplénicos compatibles con sarcoidosis.
+
+Tratamiento
+Tras la valoración por Neumología y realización de estudios analíticos y de imagen, así como AP previa ganglionar, el diagnóstico es concordante con sarcoidosis. La paciente continuaba asintomática y, considerando el riesgo-beneficio de la confirmación patológica mediante biopsia esplénica, se decide no biopsiar e iniciar tratamiento con prednisona 10 mg diarios.
+
+Evolución
+Tras 3 meses de tratamiento con prednisona, se realiza TC de control que objetiva mejoría radiológica con desaparición de las lesiones esplénicas y reducción del tamaño de los nódulos pulmonares y adenopatías mediastínicas. La paciente continúa además seguimiento conjunto con Oncología Médica y Ginecología, con última revisión que demuestra Ca125 normal, y exploración física y ginecológica sin datos de recidiva

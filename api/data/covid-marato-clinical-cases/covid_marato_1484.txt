@@ -1,0 +1,33 @@
+Anamnesis
+
+Antecedentes familiares
+Padre con cáncer de colon. Hija sana.
+
+Antecedentes personales
+Alergia a contraste yodado. Factores de riesgo cardiovascular: hipertensión emocional, no diabetes mellitus, dislipemia (hipertrigliceridemia). Hábitos tóxicos: exfumador 2-3 cigarros-día desde hace 10 años. No consume alcohol ni otros tóxicos. No presenta antecedentes médicos. No ha precisado intervenciones quirúrgicas previas. No toma medicación de manera habitual.
+
+Enfermedad actual
+Tras un traumatismo: paciente varón que, a la edad de 34 años, en julio de 2010, cambios de coloración y tamaño en una lesión dorsal en tronco, que se asumía que era un lipoma por su presencia desde la infancia, y no haber presentado cambios durante los años posteriores. No mostraba adenopatías palpables ni había evidenciado pérdida de peso ni otra sintomatología añadida. Ante dichas modificaciones de la lesión, se procede a la biopsia que evidencia un dermatofibrosarcoma protuberante.
+
+Exploración física
+El paciente presentaba buen estado general, consciente orientado y colaborador, normocoloreado y normohidratado. ECOG 0. No se palpan adenopatías axilares ni inguinales. Auscultación cardiopulmonar: rítmico, no se aprecian soplos. Murmullo vesicular conservado.
+Abdomen: blando y depresible, no doloroso en la palpación, no se palpan masas ni megalias, ruidos hidroaéreos presentes. No hay signos de irritación peritoneal. Cicatriz ovalada de unos 12-14 cm en diámetro transverso, y unos 6-7 cm en diámetro vertical en región dorsolumbar derecho con defecto de piel y tejido celular subcutáneo corregido con injerto. Buen estado de cicatrización.
+Miembros inferiores: no presenta edemas ni signos de trombosis venosa profunda.
+
+Pruebas complementarias
+Anatomía Patológica 13/09/2010: lesión con morfología nodular y coloración blanquecino-parduzca, que mide 8 x 5 x 3 cm. Las células tumorales muestran inmunotinción positiva intensa para vimentina y CD34, y débil para CD99; y negativa para actina muscular específica, actina músculo liso, calponina, miogenina, desmina, CD 68, CD57, CD117, S-100, bcl2, EMA, CD31, FVIII, CK de amplio espectro y CAM 5.2. EL índice proliferativo determinado con el Ki67 es alto (aproximadamente 40 %) de las células tumorales. Se observan 9 mitosis por 10 CGA. El tumor contacta ampliamente con el borde quirúrgico.
+Gradación del sistema FNCLCC:
+» Diferenciación tumoral: puntuación.
+» Recuento de mitosis: puntuación 1 (0-9/10 CGA).
+» Necrosis tumoral: puntuación 0 (ausencia de necrosis).
+» Grado histológico según puntuación total: grado 1.
+
+Diagnóstico
+Dermatofibrosarcoma protuberante grado 1.
+
+Tratamiento
+Tras la primera biopsia, se realiza ampliación de márgenes quirúrgicos el 11/10/2010, con Anatomía Patológica (ampliación márgenes) que confirma nuevamente dermatofibrosarcoma protuberante que alcanza ampliamente bordes quirúrgicos.
+Se realiza FISH con los sondas COL1A1/PDGFB t (17; 22). 60 de las 100 células han presentado la traslocación. Se vuelve a realizar ampliación de márgenes quirúrgicos el 16/11/2010, realizándose resección completa a distancia adecuada a márgenes de seguridad. Es valorado por Oncología Radioterápica el 29/12/2010, iniciando tratamiento adyuvante. La previsión fue alcanzar dosis sobre lecho tumoral de unos 60-66 GY. Inicia el tratamiento el 8/02/2011 finalizando el 30/3/2011 con buena tolerancia, presentando toxicidad aguda máxima grado 1 con área proximal de cicatriz grado 2, que recibió curas con sulfadiazina argéntica. Tras finalizar el tratamiento con radioterapia, realizó seguimiento mediante prueba de imagen con resonancia magnética (RM) de columna dorsolumbar cada 3-6 meses, encontrándose en remisión completa durante más de 2 años (hasta agosto de 2013).
+
+Evolución
+En RM de seguimiento en enero de 2014 no se observa recidiva ni lesión residual, pero sí nuevos hallazgos consistentes en una imagen nodular en lóbulo pulmonar inferior derecho. Ante este último hallazgo, se solicita TC de tórax y abdomen superior, confirmando enfermedad metastásico pulmonar con 3 lesiones, 2 en pulmón derecho y 1 en pulmón izquierdo. Con estos resultados, se confirma progresión de la enfermedad y se deriva a Oncología Médica para valoración de tratamiento sistémico, inicia imatinib a dosis de 800 mg/24 h con intención neoadyuvante. En este momento, el paciente presenta un dermatofibrosarcoma protuberante resecado, sin recidiva de enfermedad a nivel local, pero sí con progresión a nivel pulmonar. Al mes de inicio del tratamiento sistémico, el paciente presenta exantema maculopapular probablemente secundario al tratamiento con imatinib, por lo que se suspende. Un mes después es revalorado de dichas lesiones, apreciando práctica resolución de la totalidad de las mismas. Se decide reanudar Imatinib a 600 mg/24 h (reducción de dosis) junto con antihistamínicos. En la primera TC de reevaluación de la enfermedad a los 3 meses tras inicio de tratamiento sistémico se aprecia una disminución en el tamaño de las lesiones nodulares pulmonares, habiendo desaparecido prácticamente la lesión nodular del 8 derecho. Tras estos hallazgos, se realiza PET-TC para confirmar mejor la naturaleza de las lesiones, apreciándose lesión de muy baja tasa de proliferación celular a nivel pulmonar derecha, ante la que no podemos descartar malignidad. El paciente es presentado en Comité de Tumores Torácicos para resección en 2 tiempos de lesiones pulmonares bilaterales sugestivas de metástasis, la primera en octubre de 2014, y la segunda en diciembre de 2014, siendo las lesiones compatibles con metástasis del primario ya citado anteriormente. A los 2 meses tras la cirugía, reinicia imatinib a dosis de 600 mg/24 h. Finaliza el inhibidor de tirosina quinasa en abril de 2019 al cumplir 5 años de tratamiento sin datos de recidiva de la enfermedad.

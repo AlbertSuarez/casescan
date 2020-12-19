@@ -1,0 +1,23 @@
+Anamnesis
+Presentamos el caso de una mujer de 70 años con clínica de neuralgia trigeminal izquierda de meses de evolución. Sin antecedentes de alergias medicamentosas conocidas. Fumadora en activo. Fue tratada con I131 por un nódulo tiroideo en 1992, con hipotiroidismo secundario. Intervenida de pólipo endocervical en 1995. Tomaba como tratamiento domiciliario levotiroxina 50 mcg/día y metamizol.
+Finalmente, fue ingresada en el Servicio de Medicina Interna por presentar derrame pleural, malestar general, tos y dolor costal que no cedió tras antibioterapia empírica domiciliaria.
+
+Exploración física
+Al ingreso, la paciente presentaba mal estado general. Índice de Karnofsky50%. A la auscultación cardiopulmonar se apreciaba disminución del murmullo vesicular de forma generalizada, con abolición del mismo en el tercio inferior izquierdo. En la exploración neurológica llamaba la atención la presencia de un dolor intenso en la parte izquierda de la cavidad oral. Se acompañaba de hipoestesias-disestesias en las tres ramas del V par izquierdo y en la tercera rama del mismo par derecho. Además, presentaba inestabilidad para la marcha, con signos de afección cerebelosa y Romberg +. El resto de la exploración resultaba normal.
+
+Pruebas complementarias
+» En la analítica se objetivaba una hiponatremia marcada (120 mmol/l) y signos analíticos compatibles con SIADH [hipoosmolaridad (343 mOsm/kg), osmolaridad normal en orina (369 mOsm/kg) y Na normal en orina (60 mmol/l)]. El resto de la analítica de sangre era normal, incluyéndose diversas serologías de virus, que resultaron negativas.
+» En la radiografía de tórax se observaba un derrame pleural y pérdida de volumen en el lóbulo inferior izquierdo. También presentaba una imagen de densidad redondeada perihiliar izquierda.
+» En la TC de torax se describía una masa pulmonar central que producía amputación del bronquio del lóbulo inferior izquierdo. Tenía amplio contacto con la aurícula izquierda y signos de invasión del mediastino posterior. Se asociaban también adenopatías hiliares izquierdas, subcarinales y mediastínicas anteriores.
+» En la broncoscopia se halló estenosis concéntrica del bronquio del lóbulo inferior izquierdo. El resultado tanto del cepillado, BAS, como la biopsia del LII se informaron como carcinoma poco diferenciado de células pequeñas tipo oat cell.
+» Ante la sospecha de afección tumoral encefálica, se solicitaron TC y RM cerebral. En estas pruebas se observaron signos de leucoencefalopatía de pequeño vaso y una imagen sugestiva de neuritis trigeminal bilateral.
+» Tras la valoración por parte de Neurología, se practicó una punción lumbar para el estudio del líquido cefalorraquídeo (LCR), con el siguiente perfil: glucosa 62 mg/dl, proteínas 95 mg/dl, cloruro 116 mmol/dl, lactato 2,3 mmol/dl, hematíes 120 cel/microl, leucocitos 23 cel/microl, mononucleares 90%, polinucleares 10%. La citología resultó negativa para la malignidad.
+
+Diagnóstico
+La paciente fue diagnosticada de carcinoma microcítico de pulmón estadio IIIb (T4N2M0). Se asociaban un cuadro de SIADH, un síndrome cerebeloso y una neuralgia del trigémino bilateral, de probable origen paraneoplásico.
+
+Tratamiento
+La paciente fue remitida al Servicio de Oncología. Inició tratamiento con quimioterapia según el esquemade carboplatino (4 x AUC) 650 mg x 1 día + etopósido (100 mg/m2) 200 mg x 3 días. Como medicación para los cuadros asociados recibió amitriptilina y dexametasona. No precisó la administración de tolvaptán por la rápida mejoría de la hiponatremia.
+
+Evolución
+Tras cuatro ciclos, la paciente presentó una importante mejoría radiológica, además de disminución de los síntomas cerebelosos y de la neuralgia trigeminal. Posteriormente, recibió radioterapia torácica de consolidación de respuesta (50 Gy) sobre el lecho tumoral y el mediastino. Además, se pautó radioterapia holocraneal profiláctica (25 Gy). Actualmente, tras dos años desde el diagnóstico, la paciente continúa sin signos clínicos ni radiológicos de recurrencia. Ha recibido rehabilitación de las importantes secuelas neurológicas, consiguiendo una deambulación autónoma y un control algésico total.

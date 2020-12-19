@@ -1,0 +1,35 @@
+Anamnesis
+Mujer de 43 años sin antecedentes personales ni familiares de interés. No hábitos tóxicos.
+Acudió a consultas de Oncología Médica el 9 de noviembre de 2015 remitida desde Ginecología por el diagnóstico reciente de un cáncer de mama.
+La paciente se había notado un nódulo en mama derecha desde 2 meses antes de consultar en Ginecología. Negaba cualquier otro signo o síntoma por lo demás.
+
+Exploración física
+A la exploración física destacaba:
+Mama izquierda sin hallazgos relevantes.
+Mama derecha con nódulo de aproximadamente 2-3 cm en cuadrante inferoexterno sospechoso de malignidad. No se palpaban adenopatías sospechosas axilares, supraclaviculares ni laterocervicales.
+El resto de la exploración física era normal y no había otros hallazgos de interés.
+
+Pruebas complementarias
+Se llevaron a cabo los siguientes estudios complementarios:
+-Mamografía (29 de octubre de 2015): sin alteraciones significativas. Categoría BI-RADS 2. Hallazgos benignos.
+-Ecografía mamaria (29 de octubre de 2015): nódulo sólido en cuadrante inferoexterno de la mama derecha y adenopatía axilar ipsilateral sospechosos de malignidad.
+-Biopsia con aguja gruesa de la lesión de la mama derecha: carcinoma infiltrante tipo no específico. El estudio complementario de la biopsia resultó grado 3, receptores hormonales negativos. HER-2 positivo. Ki67% 20% .
+-PET como estudio de extensión (4 de noviembre de 2015) mostraba nódulo de 1,3 cm en cuadrante inferoexterno de mama derecha (SUVmax 11,1) y engrosamiento cutáneo (con leve incremento de la captación de FDG) de dicha mama, sugestivos de malignidad. Múltiples adenopatías axilares derechas en nivel I de Berg de hasta 2x1,4cm SUVmax 16,8 sugestivas de malignidad. Además, depósitos hepáticos patológicos bilaterales, SUVmax de hasta 16,3 (segmento II), sugestivos de malignidad. No se apreciaban otros hallazgos de interés en el resto del estudio.
+-Punción con aguja fina de una de las lesiones hepáticas (15 de noviembre de 2015) , que no resultó representativa por su escasa celularidad.
+
+Diagnóstico
+Carcinoma infiltrante tipo no específico de mama derecha cT2 cNx cM1 (estadio IV por afectación hepática múltiple), grado 3, receptores hormonales negativos. HER-2 positivo. Ki67% 20%, en mujer premenopaúsica.
+
+Tratamiento
+La paciente inició tratamiento sistémico de primera línea dentro del ensayo clínico B029159 (Herceptín subcutáneo, Perjecta y docetaxel, desde 7º ciclo sin docetaxel).
+
+Evolución
+Tras los primeros 3 ciclos de tratamiento, el TC de reevaluación mostraba disminución del tamaño de los ganglios patológicos de cadenas axilar y retropectoral derechas y de las lesiones hepáticas respecto a TC previo de noviembre de 2015.
+La paciente continuó con el tratamiento recibiendo un total de 8 ciclos.
+En la reevaluación solicitada tras finalizar el tratamiento destaca RM hepática con respuesta radiológica completa. A nivel del TC toracoabdominal, se describe así mismo la ausencia de lesiones hepáticas visibles, y a nivel local mama derecha de mayor tamaño que la izquierda con engrosamiento cutáneo menos llamativo que en estudio previo. Las adenopatías axilares y retropectorales derechas muestran aumento de tamaño.
+Dada la excelente respuesta a nivel hepático, la ausencia de enfermedad a otro nivel, y el aparente control a nivel locorregional, se comentó el caso en comité de tumores a principios de abril de 2016, y se decidió cirugía del primario para valorar la existencia de viabilidad tumoral.
+El 10 de mayo de 2016 se llevó a cabo mastectomía radical modificada, sin incidencias. En la pieza quirúrgica el estadio tras neoadyuvancia fue ypT1a ypN2a (6/14 ganglios). El porcentaje de regresión a nivel tumoral fue del 80%, y en los ganglios aproximadamente del 10-30%. Se repitió el estudio molecular sobre la pieza manteniendo sobreexpresión de Her2 (+++), Ki67 15%, pero mostrando positividad moderada para la expresión de receptores hormonales (previamente negativa).
+Un mes después de la cirugía (2 de junio de 2016), la paciente se ha realizado un TC de reevaluación, con el siguiente resumen:
+Cambios de mastectomía y linfadenectomía derecha.
+No lesiones metastásicas a nivel hepático ni datos de diseminación ganglionar ni ósea.
+Está pendiente de nueva cita en la consulta el 14 de junio para valoración clínica y decisión sobre el manejo sistémico a seguir tras la cirugía.

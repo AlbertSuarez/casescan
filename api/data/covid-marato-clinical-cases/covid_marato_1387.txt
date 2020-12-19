@@ -1,0 +1,32 @@
+Anamnesis
+Hombre de 32 años de nacionalidad española, informático de profesión y sin antecedentes patológicos personales o familiares de interés. No reacciones alérgicas medicamentas conocidas. Fumador de 10 cigarrillos al día y toma esporádica de alcohol como únicos hábitos tóxicos. No toma medicación habitual.
+El paciente, en diciembre de 2014, consulta en el servicio de urgencias de su hospital de referencia por un cuadro de un mes de evolución de dolor en hipocondrio derecho asociado a subictericia desde los días previos. Salvo náuseas ocasionales y una ligera astenia, no refiere otra sintomatología. En la exploración física tan sólo destaca la subictericia, sin otros hallazgos de interés.
+
+Tras realización de ecografía abdominal se detecta una lesión ocupante de espacio en el lóbulo hepático derecho e ingresa para completar estudio. En el TAC realizado se describe una lesión dependiente de lóbulo hepático derecho, hipovascular. Tras biopsia de la lesión, se llega finalmente al diagnóstico histológico de una metástasis de tumor neuroendocrino (TNE) moderadamente diferenciado con primario no localizado: gammagrafía con octeótride sin captación fuera del territorio hepático. Resto de estudio de extensión, en principio negativo. Como centro terciario, el paciente es derivado a nuestro centro para realización de cirugía hepática.
+
+La cirugía se lleva a cabo en febrero de 2015, realizándose transección parenquimatosa con cavitador-aspirador quirúrgico ultrasónico (CUSA), en forma de hepatectomía derecha. A pesar del diagnóstico inicial de metástasis de tumor neuroendocrino, el estudio histológico definitivo de la pieza quirúrgica es de un colangiocarcinoma intrahepático. Márgenes no afectos (R0): pT3N1Mx.
+Es en este momento cuando el paciente es derivado a la consulta de Oncología Médica (marzo 2015).
+  
+Exploración física
+Durante la primera valoración por Oncología, el paciente presenta excelente estado general, con un Performance Status de 1. Exploración abdominal sin hallazgos patológicos, cicatriz de laparotomía en buen estado, sin dehiscencias ni signos inflamatorios cicundantes.
+
+Pruebas complementarias
+Analíticamente destaca una discreta elevación de las enzimas hepáticas, resto anodino. Revisando el TAC abdominal, además de la masa hepática, en los cortes inferiores del tórax se describen unos pequeños nódulos bilaterales, inespecíficos, que en el contexto de un paciente joven y fumador, en principio no se consideran como tumorales.
+
+Debido al diagnóstico histológico definitivo, tras discusión en comité multidisciplinar, se opta por administrar tratamiento pseudoadyuvante con cisplatino-gemcitabina durante seis meses, según tolerancia y respuesta.
+No obstante, previo al inicio de tratamiento se solicita un TAC torácico para mejor caracterización de los dudosos nódulos observados en estudio radiológico previo. Además, de igual modo pedimos la revisión del estudio histológico para descartar definitivamente la sospecha inicial de TNE.
+
+En el TAC torácico, se describen múltiples nódulos bilaterales milimétricos, metastásicos, además de unas dilataciones arteriales bilaterales segmentarias y periféricas, asociadas a nódulos adyacentes de distribución "en árbol en brote": características de microangiopatía trombótica metastásica. El paciente no presenta estigmas de sangrado y la hemostasia y el hemograma están dentro de la normalidad.
+
+Diagnóstico
+Tras nueva valoración de las muestras de la pieza quirúrgica por parte del servicio de anatomía patológica, en principio se descarta que se trate de un TNE: en la inmunohistoquímica todos los marcadores neuroendocrinos son negativos. Se mantiene, por lo tanto, el diagnóstico de colangiocarcinoma intrahepático.
+
+Tratamiento
+Tras estos hallazgos, además de proceder al tratamiento con enoxaparina a dosis plenas, se modifica el planteamiento terapéutico: dada la irresecabilidad de las lesiones y el excelente estado general del paciente, se planifica una quimioterapia paliativa basada en 7 ciclos de cisplatino-gemcitabina, con posible mantenimento posterior de gemcitabina en monoterapia.
+
+Evolución
+El paciente inicia el tratamiento en abril de 2015. Primer TAC de evaluación en junio de 2015 (hasta entonces se han administrado 4 ciclos, sin toxicidad de interés). En dicha evaluación se objetiva respuesta heterogénea, con disminución del tamaño o desaparición de los nódulos presentes previamente pero con aparición de dos nuevos nódulos pulmonares en lóbulo superior izquierdo, no presentes en estudio previo. Se continúa con el plan establecido y se administran 3 ciclos más, con excelente tolerancia, finalizando en septiembre de 2015. El paciente permanece asintomático, con una analítica anodina y en la evaluación destaca la estabilidad de las lesiones pulmonares.
+
+Ante la heterogeneidad y lo atípico de la evolución, junto al diagnóstico histológico inicial de TNE, se solicitan las muestras del diagnóstico inicial realizadas en el hospital de referencia del paciente para nueva valoración por el servicio de Anatomía Patológica de nuestro centro. En dicha valoración, se llega a la conclusión de que se trata de un tumor heterogéneo, con dos zonas morfológicamente diferentes: un área más glandular con estructuras cribiformes y secreción de mucina (zona de adenocarcinoma) y otra zona más cordonal, de patrón organoide. Dicha zona, al análisis inmunohistoquímico se presenta como positiva débil y difusa para la enolasa y focal para la sinaptrofisina, siendo la cromogranina y CD 56 negativas. Estos hallazgos histológicos y clínicos sugieren el diagnóstico definitivo de un carcinoma mixto (adeno-neuroendocrino), sin claro predominio de uno de los dos componentes. Tras esto, se decide administrar dos ciclos más de cisplatino-gemcitabina y sunitinib posterior como tratamiento de mantenimiento. Mantenimiento que inicia en octubre de 2015.
+
+En diciembre de 2015, tras aparición de dolor óseo a nivel de columna dorsal y masa de rápido crecimiento en región axilar derecha, se diagnostica de metástasis óseas en varios cuerpos vertebrales y costal derecha, tratadas mediante radioterapia antiálgica. Además, el paciente presentaba una úlcera gingival de dos meses de evolución: maligna, tras estudio histológico. El paciente inicia un progresivo deterioro con aparición de pancitopenia mantenida por infiltración medular, falleciendo, desgraciadamente, en febrero de 2016.

@@ -1,0 +1,28 @@
+Anamnesis
+Nuestra paciente tiene como antecedentes de interés claustrofobia, HTA y dislipemia, ambas sin tratamiento; se realizó en el año 2001 una histerectomía + doble anexectomía tras cesárea (esterilización quirúrgica). Se objetivó en la pieza quirúrgica una lesión benigna en el ovario izquierdo.
+Es valorada en nuestro Servicio en enero del año 2006, a los 62 años, tras ser diagnosticada en noviembre del 2005 de adenocarcinoma de ciego. Se realiza en diciembre del 2005 una hemicolectomía derecha que incluye área ileocecal. El resultado del estudio de anatomía patológica (AP) es de adenocarcinoma de ciego G3 pT3 pN1 M0, estadio III, por lo que se propone quimioterapia (QT) adyuvante con FOLFOX 4, que inicia en enero hasta agosto del 2006, recibiendo 10 ciclos, cuando se suspende por neurotoxicidad G3 y trombocitopenia G3, manteniendo seguimiento en consulta.
+
+Exploración física
+ECOG 0, consciente y orientada, sin déficit neurológico motor o sensitivo. Presenta exoftalmos derecho sin alteración de la movilidad del globo ocular, no nistagmus, no alteración de los pares craneales.
+Presentaba ruidos cardíacos rítmicos, sin auscular soplos. El murmullo vesicular estaba conservado, sin estertores. No alteraciones en la exploración abdominal.
+
+Pruebas complementarias
+» Tomografía computarizada (TC) de cráneo y partes blandas.
+» Octreoscan.
+» Catecolaminas en orina.
+
+Diagnóstico
+Metástasis retroocular de tumor neuroendocrino (TNE) con expresión de cromogranina y sinaptofisina.
+Ki-67 del 1%.
+
+Tratamiento
+Se realiza una biopsia escisional por parte del Servicio de Oftalmología de nuestro centro. Actualmente, la paciente está pendiente de iniciar tratamiento de radioterapia externa complementaria sobre la lesión metastásica retroocular.
+
+Evolución
+En la mamografía de screening de enero del 2008 se aprecia una lesión BIRADS 4 de 1 cm en la mama derecha que se biopsia guiada por ecografía, siendo compatible con CDI triple negativo. Se realiza tumorectomía + BSGC en abril del 2008. El informe de AP es compatible con un CDI pT1c pN0 M0, RRHH negativos, HER2 negativo, estadio IA. La paciente no era elegible para tratamiento con antraciclinas debido a comorbilidades, por lo que se propone QT adyuvante con CMF (ciclofosfamida + metotrexato + 5-FU) + radioterapia (RT) complementaria. Inicia QT adyuvante en mayo, recibiendo solo dos ciclos, ya que se suspende en junio por mala tolerancia hematológica, resultando una densidad de dosis y periodicidad de dudosa eficacia terapéutica. Rechaza realizar RT complementaria tras sufrir un accidente de trafico (atropello), manteniendo controles en consulta.
+
+En junio del 2011, en la mamografía y la ecografía de control, se aprecia una lesión en el CSI de la mama derecha sobre el área cicatricial. En el CSE de la mama izquierda se aprecia una lesión hipoecogénica de 14 mm BIRADS 2, que también se palpa en la exploración física, además de otra lesión en el CSE de 9 mm BIRADS 4. En agosto se realiza biopsia guiada por ecografía de las lesiones mamarias, siendo la lesión de la mama derecha tejido mamario con fibrosis sin evidencia de malignidad. La lesión de la mama izquierda es compatible con tumor neuroendocrino (TNE) G1, Ki-67 < 1%, RRHH negativos, positividad para cromogranina, sinaptofisina y CD56. En noviembre se realiza cirugía conservadora, cuyo estudio de la pieza quirúrgica y ampliación a segunda lesión es similar a la descrita en la biopsia previa. Ante TNE multicéntrico de mama izquierda se propone RT complementaria, pero la paciente rechaza el tratamiento debido a su antecedente de claustrofobia. Se realiza octreoscan, sin evidencia de focos de hipercaptación que sugieran TNE. Se realiza estudio de cromogranina A y ácido vanilmandélico, siendo ambos negativos. Posteriormente la paciente mantiene controles en consulta.
+
+En la mamografía de julio de 2014 se objetiva un nódulo vascularizado en el CSE de la mama derecha BIRADS 4, por lo que se realiza una biopsia guiada por ecografía, siendo compatible con TNE grado I, RRHH negativos, HER 2 negativo, sinaptofisina y cromogranina positiva, Ki-67 < 1%. Se solicita un nuevo octreoscan en septiembre, sin evidencia de lesiones sugestivas de TNE. En noviembre se realiza tumorectomía, obteniendo un TNE G1 de 6 mm con Ki-67 < 1%. Ante el diagnóstico de un nuevo TNE se solicita al Servicio de Anatomía Patológica revisar las piezas quirúrgicas anteriores (anexectomía año 2001, hemicolectomía año 2005 y tumorectomía de mama derecha del 2008). Tanto la lesión del ovario izquierdo, como la lesión cecal y mamaria eran compatibles con tumor de características neuroendocrinas.
+
+En la visita de control en enero del 2015 se objetiva exoftalmos derecho, por lo que se solicita una TC de cráneo y órbita e interconsulta a Oftalmología. En la TC de cráneo se aprecia un nódulo de 1,2 cm de localización retroorbitaria que contacta con la pared posterior e inferior del globo ocular derecho. La paciente es valorada por Oftalmología, realizando una biopsia escisional que es compatible con TNE con expresión de cromogranina y sinaptofisina con un Ki-67 del 1%. Se solicita una nueva TC de cara y senos para nueva valoración, donde se objetiva persistencia del nódulo de localización posterior al globo ocular en su borde inferior y externo en contacto con los músculos recto inferior y externo que ha disminuido de volumen a 1,2 cm, probablemente debido a la biopsia. Ante la nueva lesión M1 se propone tratamiento con RT, que hasta la fecha se encuentra pendiente de inicio.

@@ -1,0 +1,17 @@
+Anamnesis
+Paciente de 57 años, fumadora activa, hipertensa, dislipémica y diabética tipo II, trastorno bipolar controlado con politerapia. En agosto de2012 consultó por tumoración en la mama derecha. Tras estudio: carcinoma intraductal de grado I con receptores hormonales (RH) positivos, Ki67 12 % y erb-B2 negativo con estadiaje final: T2N1M0. De septiembre a noviembre la paciente realizó quimioterapia (QT) neoadyuvante (4 ciclos de doxorrubicina y ciclofosfamida con dosis acumulada (DA) de 572 mg y 4584 mg respectivamente) con respuesta parcial. En enero de 2013 se realizó cirugía conservadora con linfadenectomía derecha. En marzo, en espera de iniciar la adyuvancia, la paciente consultó por aparición de una lesión papular eritematopardusca, infiltrada, de 1 cm, localizada en hemitórax anterior izquierdo, pruriginosa a la palpación. Se tomó biopsia en la que se observó infiltración difusa de dermis e hipodermis por células mieloides neoplásicas, de forma alargada, citoplasma claro y abundante, cromatina granular y nucléolos evidentes, positivas para mieloperoxidasa, CD43 y CD68. Los resultados fueron compatibles con el diagnóstico de sarcoma mieloide. Se decidió ingreso en el Servicio de Hematología de nuestro centro para completar estudio y tratamiento.
+
+Examen físico
+Estado general ECOG 0. A nivel cutáneo se podía observar la lesión descrita junto a otras más incipientes localizadas en calota, región cervical posterior, tórax anterior, flancos. El resto de la exploración fue normal.
+
+Pruebas complementarias
+El hemograma evidenció leve leucopenia con fórmula normal. Se realizó aspirado de médula ósea (AMO) objetivando un 58 % de blastos de estirpe mieloide con eritrofagocitosis y displasia en el 70 % de la población. La immunofijación exponía expresión de marcadores mieloides y monocitoides, CD56 positivo, CD34 negativo, y coexpresión de peroxidasas y esterasas. La citogenética y la biología molecular evidenciaron un cariotipo 46XX con t(8.16) p(11p13), sin otras mutaciones.
+
+Diagnóstico
+Sarcomas mieloides cutáneos como debut de leucemia mieloide aguda (LMA) relacionada con la terapéutica (OMS).
+
+Tratamiento
+Dado el buen pronóstico de la neoplasia de mama, de acuerdo con su equipo médico del Servicio de Oncología, se decidió posponer la adyuvancia e iniciar tratamiento radical para la LMA con QT y alotrasplante de progenitores hematopoyéticos (AloTPH).
+
+Evolución
+Durante la fase de inducción se objetivó una desaparición completa de todas las lesiones cutáneas. Tras la recuperación hemoperiférica, se realizó AMO de reevaluación que evidenció una remisión completa (morfológica y citogenética) de la enfermedad. Actualmente la paciente se encuentra ingresada realizando la primera consolidación, camino al AloTPH.

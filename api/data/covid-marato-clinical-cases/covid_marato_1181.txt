@@ -1,0 +1,27 @@
+Anamnesis
+Antecedentes:
+Paciente mujer de 56 años, fumadora con un índice acumulado de 40 paquetes/año, y con antecedentes médicos destacados de Diabetes Mellitus tipo 2 en tratamiento con antidiabéticos orales y dislipemia.
+Entre sus antecedentes familiares destaca lupus cutáneo en su madre, vitíligo en su hermana y cáncer de pulmón en su hermano.
+
+Anamnesis:
+En Marzo 2014 comienza con edematización difusa facial, debilidad proximal de extremidades y mialgias, requiriendo ingreso hospitalario a principios de Abril para control sintomático y estudio diagnóstico.
+
+Exploración física
+En la exploración física destacaba pérdida de fuerza proximal de miembros, palpación edematosa de grupos musculares proximales de miembros superiores, lesiones cutáneas eritematosas faciales y en tronco y lesiones hiperqueratósicas en manos (pápulas de Gottron y manos de mecánico).
+
+Pruebas complementarias
+En cuanto a las pruebas complementarias: analíticamente destacaba elevación de creatinina quinasa (7000) y GOT (163), estudio TAC toracoabdominopélvico normal, exploración ginecológica normal, estudio neurofisiológico con cambios compatibles con polineuropatía axonal de intensidad leve y biopsia de músculo deltoides izquierdo (09.04.2014) compatible con dermatomiositis.
+
+Diagnóstico
+Ante estos hallazgos la paciente se diagnostica de dermatomiositis.
+
+Tratamiento
+Comienza un tratamiento corticoideo con prednisona 60mg/24horas e inmunosupresor con azatioprina 50mg/24horas, con mejoría sintomática y de las lesiones cutáneas.
+
+Evolución
+La paciente reingresa posteriormente en varias ocasiones:
+En Diciembre 2014 con brote de dermatomiositis, con mialgias generalizadas y empeoramiento de las lesiones cutáneas (edema palpebral y eritema facial violáceo).
+Ante la mala evolución clínica a pesar del tratamiento corticoideo e inmunosupresor se administra flebogamma 60 g/día x 2 días en dos dosis (Diciembre 2014 y Marzo 2015) y se realiza nuevo despistaje de neoplasia subyacente. En TAC de tórax de Abril 2016 se observa conglomerado adenopático-masa parahiliar derecha junto con adenopatías mediastínicas y retroperitoneales, confirmándose el diagnóstico de carcinoma microcítico de pulmón (en técnicas imnunohistoquímicas positividad para TTF1, cromogranina, sinaptofisina y negativas para p63 y CD 45).
+Ante las dudas de estadío IIIB (T4 N2 Mx) vs IV, se solitia PET-TAC con evidencia de enfermedad a distancia (ganglionar supraclavicular, retroperitoneales, mesentéricas y ósea), comenzando tratamiento quimioterápico paliativo de primera línea con cisplatino-etopósido en Junio 2015, recibiendo 4 ciclos (fin en Agosto 2015) con respuesta parcial y mejoría de las mialgias y eritema facial. En Agosto 2015 recibe RT holocraneal profiláctica.
+Pocas semanas después de finalizar el tratamiento quimioterápico comienza a presentar empeoramiento clínico de las mialgias. Evidenciándose en Noviembre 2015 progresión ganglionar suparclavicular y mediastínica radiológica, comenzando segunda línea quimioterápica con carboplatino-etopósido, del que recibe únicamente 3 ciclos (último en Enero 2016) por objetivarse un aumento del edema palpebral con aumento de la masa parahiliar derecha con incipiente síndrome vena cava superior. Se lleva a cabo consecuentemente un aumento del tratamiento corticoideo y radioterapia sobre la lesión mediastínica.
+En Abril 2016 reingresa por empeoramiento del estado general con disnea de moderados esfuerzos, mialgias proximales mal controladas y aumento de las lesiones cutáneas. Objetivándose en TAC (04/2016) progresión tumoral. Se aumenta nuevamente el tratamiento corticoideo y analgésico y se comienza nueva línea de tratamiento oncológico con topotecán vía oral 2.3 mg/m2. Al mes del comienzo del tratamiento con topotecán, comienza a mejorar las manifestaciones clínicas de la dermatomiositis.

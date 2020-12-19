@@ -1,0 +1,29 @@
+Anamnesis
+Mujer de 40 sin antecedentes de interés. En Marzo de 2014 es diagnosticada de un carcinoma ductal infiltrante de mama izquierda HER2 enriquecido, cT3N1M0. Ricibe quimioterapia neoadyuvante según esquema Doxurrobicina-Ciclofosfamida x 4 ciclos --> Trastuzumab-Paclitaxel semanal x 4 ciclos con respuesta completa clínica. En septiembre de 2014 se reliza tumorectomía con localización prequirúrgica y linfadectomía axilar izquierda siendo el estadiaje definitivo ypT0N0(0/5)M0. Continúa con Trastuzumab trisemanal hasta completar un año, finalizando en mayo de 2015. Último control en octubre de 2015 sin evidencia de enfermedad.
+En Enero de 2016 acude a Urgencias por edema y eritema en mama derecha de dos semanas de evolución. Con sospecha de mastitis ingresa en Ginecología con tratamiento con Amoxicilina-clavulánico intravenoso. Durante el ingreso presenta empeoramiento progresivo a nivel locorregional e inicia cuadro de insuficiencia respiratoria, motivo por el que se solicita valoración por el servicio de Medicina Interna.
+
+Exploración física
+Sat 02 90 % (GN a 3lpm). Ta 135/75 mmHg FC 110 lpm. Mama izquierda con piel de naranja, edematosa y aumentada de tamaño. Conglomerado adenopático axilar izquierdo (de nueva aparición durante el ingreso). Ascultación pulmonar con crepitantes en bases.
+
+Pruebas complementarias
+- RMN mamas (15/01/16): Engrosamiento y captación cutánea mamaria izquierda. Intensa captación difusa del parénquima mamario izquierdo, sin masas. Adenopatía axilar izquierda de 20 x 16 mm.
+Rodeando el ganglio axilar izquierdo existe un tejido desdibujado y espiculado sospechoso de proceso neoformativo infiltrativo.Adenopatía axilar derecha 18 x 8 mm.
+- Angio-TAC torácico (17/01/2016): No TEP.Adenopatías patológicas en la región axilar izquierda, prevasculares, precarinales y subcarinales. Derrame pleural bilateral. Afectación intersticial difusa en ambos campos pulmonares con engrosamientos septales y de cisuras. Condensaciones parcheadas en vidrio deslustrado en ambas bases pulmonares. Hallazgos en probable relación con edema pulmonar.
+- Analítica (17/01/2016): PCR 62.8 mg/L, Dimero D 4340 ng/ml, resto sin alteraciones.
+- Cultivo de esputo (17/01/2016): negativo.
+- Marcadores tumorales (18/01/2016): CEA 0.8 ng/ml, Ca 15.3 15 U/ml
+- Ecocardiograma (19/01/16): VI no dilatado con FE del 65%.
+- Punch mama izquierda (19/01/2016): Infiltración cutánea linfovascular por carcinoma. Biomarcadores: RE 0%, RP 0%, Ki57 50%, HER2 (3+).
+
+Diagnóstico
+- Recidiva local, ganglionar y pulmonar de carcinoma de mama HER2 enriquecido.
+- Insuficiencia respiratoria aguda severa de origen multifactorial: edema agudo pulmón, infección respiratoria, linfangitis carcinomatosa.
+
+Tratamiento
+El 17 de Enero ante deterioro respiratorio con saturaciones basales de 80% y hallazgos del TAC Medicina Interna comienza tratamiento con Furosemida 20mg i.v/6hrs, Piperacilina-Tazobactam 4/0.5mg/6hrs y Metilprednisolona 40mg/8hrs a pesar de lo que persiste empeoramiento desde el punto de vista respiratorio por lo que, a las 48 horas, contactan con Oncología Médica y ante sospecha de deterioro respiratorio secundario a linfangitis carcinomatosa en un tumor HER2 enriquecido con rápida evolución se decide iniciar tratamiento quimioterápico con Docetaxel (75mg/m2)-Trastuzumab (8mg(mg/kg)-Pertuzumab (840mg) trisemanal.
+
+Evolución
+Durante la infusión de la quimioterapia la paciente presenta repetidos episodios de disnea con desaturaciones hasta 80% con oxigenoterapia con reservorio que remontan con corticoterapia consiguiendo finalizar el tratamiento. A las 24 horas de la quimioterapia la paciente presenta mejoría respiratoria tanto clinicamente con radiográficamente permitiendo descenso paulativo de corticoides y diuréticos siendo dada de alta el dia 30 de enero de 2016. Como toxicidades a la quimioterapia únicamente presentó una enteritis grado 1.
+
+En el TAC post 6º ciclo no se evidencia adenopatías axilares de tamaño patológico y no existe alteraciones en el parénquima pulmonar. Persisten las adenopatías mediastínicas.
+A fecha de 14/06/2016 la paciente ha recibido 8 ciclos de tratamiento con respuesta parcial a nivel mamario y completa a nivel pulmonar. ECOG 0

@@ -1,0 +1,27 @@
+Anamnesis
+Mujer de 47 años con antecedentes de talasemia minor, apendicectomizada, sin otros antecedentes de interés.
+En mayo de 2017 la paciente debuta con compresión medular cervical secundaria a carcinoma ductal infiltrante de mama izquierda (RE+++, RP++, HER2-, MIB1 10 %, grado II). En estudio de extensión, se objetiva afectación ganglionar, ósea y pulmonar. Inicia en junio de 2017 tratamiento con paclitaxel semanal, con respuesta parcial. En julio de 2017 se recibe resultado de mutación BRCA-2. En septiembre de 2017 se objetiva nueva progresión a nivel pulmonar. Inicia tratamiento con cisplatino quincenal, con respuesta parcial. Mantiene tratamiento hasta septiembre de 2018, cuando se objetiva progresión pulmonar y hepático, iniciando tratamiento con talazoparib en uso compasivo.
+Tras 25 días de haber comenzado tratamiento con talazoparib, la paciente es derivada a Urgencias desde consultas externas de Oncología por presentar crisis parcial en miembro inferior izquierdo autolimitada. La paciente niega episodios previos similares. Una vez interrogada, como única clínica presenta cefalea holocraneal de varios días de evolución, sin focalidad neurológica. Familiares refieren alteraciones del comportamiento las semanas previas.
+
+Exploración física
+En la exploración física, destaca una marcha dificultosa pero conservada, siendo el resto de exploraciones, incluyendo la neurológica, normales.
+
+Pruebas complementarias
+De forma urgente se realizó:
+»Hemograma y bioquímica sanguínea, que incluye ionograma, función renal y función hepática: seobjetiva hemoglobina de 10,4, plaquetas 37.000, perfil hepático: Bil total 1,35 a expensas deconjugada. AST 151, ALT 101, FA 564, GGT 493, LDH 726.
+»TC cerebral: sin hallazgos relevantes.
+La paciente ingresa en Oncología Médica tras administración de anticomiciales para vigilancia de nuevas crisis comiciales y realización de resonancia magnética cerebral. Se solicita además frotis sanguíneo, por sospecha de hemorragia intraparenquimatosa no objetivable por TC cerebral versus posible infiltración de médula ósea. En frotis: anisocitosis y anisotrombia, sin plaquetas agregadas.
+Se realiza reevaluación analítica de la paciente en 48 horas. Hb 7,4. Plaquetas 24.000. Se solicita nuevo frotis: pancitopenia central sin alteraciones morfológicas. No se sugiere síndrome leucoeritroblástico.
+
+Diagnóstico
+Se realiza resonancia magnética cerebral programada, donde se objetivan múltiples lesiones en calota sugerentes de infiltración tumoral e innumerables lesiones hipointensas secundarias a microsangrados dispersos por todo el parénquima. Nuevo frotis sanguíneo: sugerente de microangiopatía trombótica, con 4 % de esquistocitos.
+
+Tratamiento
+Durante el ingreso, la paciente no vuelve a presentar crisis comiciales. Se realizan transfusiones de concentrados de hematíes y plaquetas, con mejoría lenta pero paulatina de cifras hematológicas. La paciente finalmente es dada de alta tras 12 días de ingreso.
+
+Evolución
+A las 10 horas del alta hospitalaria, la paciente es traída nuevamente a Urgencias por episodio de hemiparesia derecha.
+Se realizan nuevas pruebas complementarias de urgencia:
+» Hemograma y bioquímica sanguínea: Hb 9,4. Plaquetas 120.000.
+» TC cerebral urgente: múltiples áreas hiperdensas con discreto edema compatibles con lesiones hemorrágicas.
+Ingresa en Oncología Médica para control de nuevas crisis comiciales. Se ajustan anticomiciales. La paciente evoluciona tórpidamente durante todo el ingreso, presentando episodios de agitación, deterioro neurológico progresivo y necesidad de soporte transfusional prácticamente diaria de hematíes y plaquetas. Es valorada por Servicio de Hematología para descartar origen autoinmune. Tras hacerse pruebas complementarias oportunas (Coombs, ADAMTS13), se determina como probable origen farmacológico versus oncológico. La paciente finalmente fallece el día 6 de diciembre de 2018.

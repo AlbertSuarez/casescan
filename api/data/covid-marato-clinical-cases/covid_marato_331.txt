@@ -1,0 +1,46 @@
+Anamnesis
+Paciente mujer de 40 años, sin antecedentes importantes de interés, que presenta un tiempo de enfermedad de un mes caracterizado por edema orofacial y leve dificultad respiratoria. Refiere que en su Centro de Salud le prescribieron corticoides intramusculares, pero al no notar mejoría decide acudir a Urgencias. Al no presentar disnea ni estridor, la paciente es dada de alta con el diagnóstico de angiodema. Se pauta tratamiento con corticoides y se deriva a consultas externas de Alergología.
+La paciente continúa con el mismo tratamiento, notando mejoría parcial; sin embargo, al retirar la medicación nuevamente aumentaba el edema orofacial e incluso llegaba a presentar dificultad respiratoria.
+Un mes antes del ingreso la paciente nota aumento de intensidad en los síntomas: sensación disneica a medianos esfuerzos e intolerancia al decúbito; además, refiere haberse agregado disfagia.
+Niega haber tenido fiebre o pérdida de peso (refiere haber ganado peso desde que inició el tratamiento con corticoides). Por otro lado, refiere haber presentado sudoración profusa de predominio nocturno.
+Por persistencia de los síntomas decide acudir nuevamente a Urgencias.
+
+Examen físico
+Aceptable estado general, consciente, orientada en las tres esferas, colaboradora. Eupneica, saturando a 99% sin aporte de oxígeno. Piel: circulación colateral a nivel torácico anterior. ACP: corazón rítmico a 80 latidos por minuto, no soplos. Edema en esclavina. No se palpan adenopatías cervicales ni supraclaviculares. Buen murmullo vesicular bilateral. Abdomen con ruidos presentes, blando, depresible, no doloroso a la palpación, no impresionaba masas.
+Miembros inferiores con pulsos simétricos sin edemas.
+
+Pruebas complementarias
+- En urgencias se solicitaron hemograma y bioquímica, que no mostraron hallazgos significativos, excepto PCR: 458 mg/dl. Alfa-fetoproteína 2,4 ng/ml (0,1-10). B-HCG < 2 mUI/ml (0-5). Beta-2-microglobulina 1,57 mg/l (0,1-3). Hepatitis B y C negativos.
+- Radiografía de tórax (17/9/2013): paquete adenopático parahiliar derecho (probable linfoma).
+- TC de tórax con contraste (17/9/2013): mínimo derrame pleural derecho. Masa en el mediastino superior que provoca compresión extrínseca de la cava inferior. Diámetro aproximado de 8 cm en el eje transversal, 6 cm craneocaudal oblicuo y 3,5 cm en el eje anteroposterior. A descartar proceso linfoproliferativo como primera posibilidad.
+- PET-TC de tórax y abdomen (23/9/2013): masa hipermetabólica en el mediastino anterior y superior, que contacta con el esternón y las estructuras vasculares mediastínicas (no podemos descartar afectación de las mismas), con afectación de los planos musculares adyacentes al esternón, extendiéndose hasta la región del hilio pulmonar derecho y sin que podamos descartar afectación de la pleura/pericardio. Adenopatía hipermetabólica paraesofágica. Derrame pleural izquierdo. Resto del estudio sin hallazgos sugestivos de malignidad en el paciente en estudio por síndrome de vena cava superior y sospecha de proceso linfoproliferativo.
+- Biopsia intraoperatoria: linfoma no Hodgkin B de células grandes con esclerosis. El estudio inmunohistoquímico demuestra fuerte y generalizada expresión de CD20, expresión focal de CD23 y un alto índice de proliferación (60%) en las células neoplásicas. Estas mismas células son negativas para CD3, CD5, CD10, BCL6, BCL2, CD30, MUM1 y Tdt.
+Aunque muy sugestivo tanto clínica como histopatológicamente de linfoma B primario de mediastino, este diagnóstico exige la ausencia inicial de compromiso de otros territorios ganglionares y de la médula ósea.
+- Biopsia de médula ósea: ausencia de infiltración neoplásica.
+
+Diagnóstico
+Sindrome de vena cava superior.
+Linfoma no Hodgkin B de células grandes con esclerosis.
+
+Tratamiento
+Como medidas generales se indicó elevación del cabecero de la cama y oxigenoterapia condicional a disnea. Asimismo, se pautaron diuréticos y dexametasona 4 mg cada 6 horas.
+En el estadio avanzado se sugiere iniciar con 8 ciclos de R-CHOP seguido de radioterapia en aquellos pacientes con masa bulky cuya enfermedad se limita al tórax1.
+Nuestra paciente tenía derrame pleural derecho, motivo por el cual fue considerada como estadio avanzado.
+Se inició tratamiento con R-CHOP (8 ciclos) el día 4/10/2013: rituximab 375 mg/m2, ciclofosfamida 750 mg/m2, adriamicina 50 mg/m2, y vincristina 1,4 mg/m2 y prednisona 100 mg oral. Se citó para continuar con radioterapia.
+
+Evolución
+Durante el ingreso, la paciente evolucionó favorablemente, mostrando importante mejoría tras el inicio del tratamiento.
+Cursó con buen estado general, eupneica, asintomática con respecto al síndrome de la vena cava superior y sin toxicidades de inicio. Es dada de alta y se sigue en consultas externas, donde se solicitan estudios de imagen.
+- TC de tórax, abdomen y pelvis (8/1/2014):
+Disminución considerable del tamaño de la masa mediastínica referida en el estudio previo.
+La vena cava superior está adecuadamente distendida.
+No hay evidencia de masa hiliar derecha.
+En ambas axilas se observan adenopatías de pequeño tamaño que presentan hilio graso central y que no impresionan de neoplásicas.
+No hay evidencia de líquido libre intraabdominal.
+No ss identifican lesiones anexiales.
+En resumen: hallazgos compatibles con respuesta radiológica favorable.
+- PET-TC de tórax y abdomen (6/5/2014):
+Se compara con el estudio realizado en septiembre de 2013.
+Ha desaparecido el depósito patológico del radiofármaco que se describía en el estudio previo y que se situaba principalmente en los compartimentos anterior y posterior del mediastino, no mostrando en el momento actual ningún depósito patológico del radiofármaco en esta localización ni a nivel de otras estaciones ganglionares supra ni infradiafragmáticas.
+En el resto del organismo no se aprecian alteraciones en la distribución fisiológica del radiofármaco, ni otros acúmulos localizados del mismo que puedan corresponderse con lesiones focales, compatibles con patología oncológica.
+Resumen: estudio que muestra respuesta metabólica completa en una paciente con diagnóstico de linfoma difuso de células grandes B.

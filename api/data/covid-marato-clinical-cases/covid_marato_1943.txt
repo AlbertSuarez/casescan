@@ -1,0 +1,77 @@
+Anamnesis
+Mujer 68 años.
+- Alergia a amoxicilina y moxifloxacino (con estudio por alergología).
+- No hábitos tóxicos.
+- No factores de riesgo cardiovascular.
+
+- Hipotiroidismo.
+- Antecedentes quirúrgicos: histerectomía sin anexectomía con 41 años.
+- Tratamiento habitual: Levotiroxina, Guayana en comprimidos.
+
+** HISTORIA ONCOLÓGICA:
+- Diagnóstico en Mayo/2015 de Adenocarcinoma seroso de ovario G3 estadio IV por afectación pleural. Inicia tratamiento con quimioterapia (QT) según esquema Carboplatino (AUC 5 cada 3 semanas) - Paclitaxel (175 mg/m2 cada 3 semanas) - Bevacizumab (15 mg/kg), del que recibe un total de 4 ciclos, último el 07/08/15 con reducción 10% en 4º ciclo por astenia G3. Respuesta parcial bioquímica (descenso importante del Ca 125) y por imagen.
+
+** 22/08/16: Paciente con clínica de 1 mes aproximadamente de duración (tras 3º ciclo de QT el 14/07/15) consistente en cuadro de desorientación. Tras 4º ciclo de QT el 07/08/15, con mala tolerancia al mismo, presenta empeoramiento del cuadro neurológico con crisis convulsiva el 22/08/15 por lo que es traída a urgencias por sus familiares, objetivándose en analítica hiponatremia con Na 118 mEq/L. Se realiza TAC craneal sin hallazgos patológicos y sin hacer referencia a existencia de edema cerebral, y se inicia correción hidroelectrolítica con mejoria rápida del cuadro, aunque no resolución completa. Es dada de alta tras 24 horas en observación y con cifra de Na 133 mEq/L.
+El 28/08/15 en valorada en hospital de día de Oncología para 5º cliclo, que se suspende por persitencia de cuadro neurológico a pesar de Na corregido (134 mEq/L), mala tolerancia al 4º ciclo y episodio de fiebre puntual el 26/08/15 secundario a fístula perianal en tratamiento con Eritromicina. En dicha consulta, debido a persistencia del cuadro neurologico, se solicita RMN craneal a fin de descartar afectación meníngea que pudiera explicar el cuadro.
+El 31/08/16 consulta nuevamente en urgencias por episodio convulsivo, objetivándose en analítica hiponatremia con Na 112 mEq/L, por lo que se inicia corrección de la misma con mejoría rápida del cuadro en 24 horas y posteriormente trasladada a planta de Oncología para continuidad de cuidados.
+
+Exploración física
+AL INGRESO EN ONCOLOGÍA MÉDICA
+PS 4. Glasgow 11 (apertura espontánea de ojos, retira al dolor, no obedece órdenes, lenguaje incomprensible).
+Pupilas isocóricas normorreactivas. Moviliza 4 miembros.
+Auscultación Cardio-Respiratoria: Normal. Abdomen normal.
+Miembros Inferiores sin edema ni signos Trombosis Venosa Profunda.
+
+Pruebas complementarias
+PRUEBAS DE LABORATORIO
+
+- Analítica 31/08/15:
+* Hemograma: Hb 99 g/l, resto normal.
+* BioquÍmica sérica: Na 112 mEq/L, K 3.2 mEq/L, resto normal.
+* Coagulación: Normal.
+- Gasometría Venosa 31/05/15: EVOLUCIÓN.
+* Na: 111 (15.00pm) -> 113 (16.00pm) -> 116 (17.00pm) -> 116 (18.45pm)
+* Osm: 229 -> 233 -> 237- >237.
+- IONES ORINA: Na 110 mEq/L (elevado), K 10 mEq/L. Proteinuria.
+- Marcadores tumorales 01/09/16: CEA 5,1 ng/ml (descenso, al diagnóstico de 7.9 ng/ml). CA 125 977 U/ml (franco descenso, al diagnóstico de 46852 U/ml).
+- Analítica 10/09/16 (PREVIA AL ALTA):
+* Bioquímica: Urea 45 mg/dl, proteinas totales 6 gr/dl, fósforo inorgánico 2,55 mg/dl. Sodio normal (139 mEq/L).
+* Hemograma: Hemoglobina 98 gr/L. Series blanca y paquetaria normales.
+
+PRUEBAS IMAGEN
+- TAC de tórax y abdomen (3/09/2015). Nódulo pulmonar milimétrico en segmento apicoposterior de LSI, sin aparición de nuevos nódulos. No hay derrame pleural. Han desaparecido los engrosamientos pleurales. En hígado sigue apreciándose pequeño nódulo de 8 mm en periferia subdiafragmática del segmento VIII de contenido predominantemente graso (angiomiolipoma hepático?). Pequeña lesión focal hipodensa en periferia del segmento VII de 6 mm de diámetro, indeterminada. Masa mesentérica de 72 x 27 x 34 mm de mayor tamaño que en la TC previa, con cápsula periférica bien definida y con contenido interno graso con polos sólidos de aspecto tumoral y de extirpe histológica diferente al tumor ovárico. Persisten masas tumorales pélvicas que rodean el rectosigma, útero y ocupan ambas fosas anexiales que se han reducido notablemente de tamaño respecto a la TC previa. Ha desaparecido la ascitis. Con ventana de hueso no se han apreciado imágenes sugestivas enfermedad metastásica ósea.
+
+- RM cerebral (7/09/2015). No existen lesiones intraparenquimatosas ni que afecten a las meninges.
+
+INTERVENCIONISMO
+
+- Anatomía patológica biopsia core masa abdominal residual (con control ecográfico) 11/09/16:
+BIOPSIA INSUFICIENTE PARA DIAGNÓSTICO CONSTITUIDA POR TEJIDO FIBROADIPOSO, CON PRESENCIA DE MACRÓFAGOS Y CAMBIOS INFLAMATORIOS. Comentario: No se han identificado signos morfológicos de malignidad.
+
+Diagnóstico
+- INGRESO EN PLANTA POR:
+1. Hiponatremia profunda, sintomáticamente severa y de carácter crónico y dos episodios graves documentados de somnolencia, confusión y convulsiones, por probable SIADH asociado a carboplatino.
+2. Proteinuria y tendencia a la hipertensión arterial seguramente secundaria a toxicidad por Bevacizumab.
+3. Masa abdominal de unos 8-9 cms de densidad grasa en raíz de mesenterio que ha crecido de forma aislada y que parece de etiología diferente al adenocarcinoma diagnosticado previamente.
+- PATOLOGÍA BASAL: Adenocarcinoma seroso G3 de ovario estadio IV en RP tras 4 ciclos de Carbo-Taxol-Beva (corroborada en TAC de reevaluación y con descenso muy importante de marcadores séricos).
+
+Tratamiento
+TRATAMIENTO AL ALTA DE PLANTA
+- Dieta normal.
+- Retirada de tratamiento de primera línea con Carbo-Paclitaxel-Bevacizumab.
+- Ingesta de líquidos sin restricciones (no tomar mas de 2 litros diarios)
+- Tratamiento hipotensor con Losartán 50: 1-0-0 y si presiste TA elevadas (> 160/80 mmHg), añadir manidipino 10: 0-0-1.
+- Omeprazol 20 mgrs al día vía oral.
+- Dexametasona 4 mgrs cada 12 horas vía oral. Seguir pauta descendente.
+- Lorazepam 2 mgrs por las noches.
+- Levotiroxina 50 mcgrs al día (por las mañans).
+- No precisa tratamiento con Tolvaptán.
+
+Evolución
+La evolución de la paciente durante el ingreso fue, al principio, bastante tórpida por persistencia del estado de sopor y de bajo nivel de conciencia y por presentar episodios de agitación intermitentes a pesar de la normalización progresiva y lenta de los nivels de sodio sérico. Si bien lo anterior, no presentó en más ocasiones crisis convulsivas, manteniéndose en todo momento afebril y sin otros déficits neurológicos. Además poliuria con natriuresis normal y con creatinina sérica y ácido úrico normales. Por fin, tras elevación de la osmolalidad plasmática progresiva y tratamiento con dosis moderadas de dexametasona además de restricción de aporte liquidos, mejoró de forma ostensible a nivel neurológico, permaneciendo en los últimos días del ingreso consciente y cada vez más orientada y alerta, mejorando progresivamene su estado general. No obstante, durante su ingreso se ha objetivado de forma progresiva tendencia a la hipertensió arterial ademá de proteinuria discreta, siendo bien controladas con Losartán. Al alta de con sodio plasmático normal y con estado general conservado, afebril y tolerando dieta oral ademas de ausenxcia de deficits neurologicos.
+En cuanto a la causa de la hiponatremia, la pacinete fue valorado por Nefrología (continúa en sus consultas), siendo diagnosticada de SIADH en relación a Carboplatino (diagnóstico de exclusión) vs SIADH como síndrome paraneoplásico en relación al tumor. Inicia nueva línea de QT con adriamicina liposomal en Noviembre/15 (recibe únicamente 1 ciclo). Dado que el SIADH se relaciona poco con un adenocarcinoma de pulmón, se decidió tomar muestra de la masa residual retroperitoneal (dado que parecía de una estirpe diferente), por lo que la paciente se comentó en Comité de Tumores. Se decide resección de la masa: Intervención Quirúrgica (Enero/16): exéresis de la masa mesentérica, ooforectomía bilateral, omentectomía con implante tumoral peritoneal.
+Anatomía patológica de adenocarcinoma de origen ovárico. Posteriormente continúa con QT basada en adriamicina liposomal, y recibe un total de 3 ciclos (contando con el previo a la cirugía), decidiéndose STOP en Abril/15 por astenia importante. En la reevaluación de Mayo/15 se objetiva respuesta completa por imagen y por marcadores. Desde la retirada del carboplatino, no ha vuelto a presentar hiponatremia.
+- TC tórax-abdomen Mayo/15: Tórax: Persiste nódulo pulmonar milimétrico en segmento apicoposterior de LSI, estable respecto al estudios previos, asi como en segmento laterobasal del LID, sin cambios también. No hay aparición de nuevos nódulos. No hay derrame ni engrosamiento pleural. Múltiples nódulos calcificados en ambas mamas. Resto del tórax sin hallazgos de interés. Abdomen: Hígado de tamaño normal y contorno liso. LOE hepática de aspecto benigno y pequeño tamaño ya conocida. Vía biliar intra y extrahepática de calibre normal. Vesícula biliar sin alteraciones.
+Bazo, pancreas, adrenales y riñones sin hallazgos de interés. Estómago, asas de intestino delgado y colon sin dilataciones ni engrosamientos murales.
+Vejiga urinaria bien replecionada sin engrosamiento de la pared. Histerectomizada con doble anexectomía, sin imágenes de recidiva. Resto del abdomen sin hallazgos de interés. Conclusión: Nódulos pulmonares estables. Nódulos mamarios calcificados. LOE hepática de aspecto benigno y estable. Ausencia quirúrgica de genitales internos.
+- Evolución de Ca 125: 46852 U/ml (diagnóstico) --> 19.4 U/ml (Mayo/16).

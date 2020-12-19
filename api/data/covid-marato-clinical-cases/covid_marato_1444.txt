@@ -1,0 +1,24 @@
+Anamnesis
+Paciente varón de 40 años de edad sin antecedentes personales de interés, nunca fumador y sin criterios de bronquitis crónica, comienza estudio en Neumología tras presentar cuadro catarral de lenta resolución de 3 meses de evolución. No síndrome constitucional acompañante. Desde Atención Primaria se solicita radiografía de tórax (Rx) y ante los hallazgos de ensanchamiento mediastínico es derivado al Servicio de Neumología de nuestro hospital
+
+Exploración física
+Se encuentra hemodinámicamente estable con saturación de oxígeno basal del 98%. Presenta buen estado general. Vigil, orientado y colaborador. Normohidratado, normoperfundido y normocoloreado. Eupneico en reposo. No presenta adenopatías periféricas palpables. Auscultación cardiaca: rítmica, sin soplos. Auscultación pulmonar: murmullo vesicular conservado con algunos roncus escasos dispersos.
+Abdomen: globuloso, blando, depresible, no doloroso a la palpación, sin masas ni megalias palpables, sin signos de irritación peritoneal. En extremidades inferiores no hay edemas ni signos de trombosis venosa profunda, los pulsos pedios están presentes y simétricos.
+
+Pruebas complementarias
+Al ingreso no había alteraciones significativas a nivel analítico. En la Rx de tórax destacaba un ensanchamiento mediastínico en el probable contexto de conglomerado adenopático. Se solicita un Tac toracoabdominal (10.04.15) con el hallazgo de múltiples adenopatías mediastínicas patológicas en espacio prevascular, paratraqueal derecho, ventana aortopulmonar y conglomerado adenopático subcarinal, las de mayor tamaño de 8 cm (conglomerado subcarinal) y 3,8 cm (ventana aortopulmonar).
+Nódulo pulmonar sólido lobulado y bien circusncrito de 2,4 cm, localizado en língula, paracardiaco y en contacto con pericardio. No otras alteraciones a nivel abdominal.
+Se solicita broncofibroscopia donde se visualiza la afectación del árbol bronquial izquierdo y se toman biopsias que resultan compatibles con cáncer no microcítico de pulmón, con inmunohistoquímica positiva para TTF-1 y negativo para p40, concordante con histología de adenocarcinoma.
+Se completa estudio con la realización de PET-TC (20.04.15) que sugiere afectación tumoral en lóbulo superior izquierdo y a nivel ganglionar (supraclavicular derecho, mediastino, hilio pulmonar izquierdo).
+
+Diagnóstico
+Con el diagnóstico de Adenocarcinoma de pulmón estadio IV es derivado a Consultas de Oncología Médica.
+
+Tratamiento
+El pacientes es valorado en nuestras consultas y dadas sus características clínicas (paciente joven, nunca fumador) e histológicas del tumor (adenocarcinoma) resulta imprescindible la determinación de alteraciones moleculares (EGFR, ALK) para decidir estrategia terapéutica. Al no disponer de muestra suficiente se solicita mediastinoscopia y valoración en un hospital madrileño para, en función de resultados, valorar la posible inclusión en ensayo clínico.
+
+Evolución
+Mientras se espera la realización de esta prueba para el diagnóstico molecular definitivo el paciente comienza con empeoramiento del estado general, disnea de reposo, tos intensa y fiebre acudiendo al Servicio de Urgencias donde se evidencia tromboembolismo pulmonar bilateral masivo. Cursa ingreso en el Servicio de Neumología, iniciando tratamiento con heparina de bajo peso molecular con mejoría progresiva.
+Finalmente se reciben resultados de mediastinoscopia diagnóstica con determinación de EGFR negativo, ALK negativo, ROS-1 positivo. Ante estos hallazgos y la evidencia científica disponible se decide finalmente inicio de tratamiento en nuestro hospital con crizotinib vía oral, 250 mg cada 12 horas, solicitado mediante uso compasivo con inicio el día 10.06.15.
+El paciente va experimentando progresiva mejoría clínica con escasa toxicidad. Se realiza primera reevaluación mediante Tac toracoabdominal el 25.08.15 donde se evidencia importante disminución de la afectación ganglionar mediastínica y del nódulo localizado en língula, paracardiaco. Última prueba de reevaluación solicitada, PET-TC del 10.02.16 donde no se objetivan focos hipermetabólicos ni lesiones que sugieran la existencia de enfermedad neoplásica activa a ningún nivel, es decir, respuesta completa.
+El paciente continúa con tratamiento hasta la actualidad realizando vida normal y activa, asintomático, acudiendo a nuestras consultas una vez al mes y sin evidencia de enfermedad actual a nivel radiológico.

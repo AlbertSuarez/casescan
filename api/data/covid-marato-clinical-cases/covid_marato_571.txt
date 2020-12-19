@@ -1,0 +1,22 @@
+Anamnesis
+Varón de 37 años de edad, sin alergias medicamentosas conocidas y sin antecedentes médicos o quirúrgicos de interés, salvo historia de litiasis renal, que, en marzo del 2011, consulta por clínica persistente de dolor lumbar irradiado a las extremidades inferiores que no mejoraba con tratamiento analgésico, de tres meses de duración. En relación con dicho dolor presentaba limitación a la deambulación.
+
+Exploración física
+El paciente se encontraba hemodinámicamente estable y afebril, consciente y orientado en espacio, tiempo y persona. Presentaba un ECOG de 1, en relación con la limitación por el dolor. No se palpan adenopatías cervicales. Las auscultaciones cardíaca, pulmonar y abdominal estaban dentro de la normalidad y presentaba dolor a la palpación de las apófisis espinosas de las vértebras lumbares.
+
+Pruebas complementarias
+• Bioquímica: glucosa 125,0 mg/dL; urea 34,0 mg/dL; creatinina 1,4 mg/dL; ácido úrico 5,1 mg/dL; calcio 8,4 mg/dL; sodio 136,0 mEq/L; potasio 3,9 mEq/L.
+• Hematimetría: leucocitos 6,56 x 10^9/L; eritrocitos 3,88 mill/mm³; hemoglobina 10,7 g/dL; hematocrito 32,6%; VCM 83,9 mm³; HCM 27,6 pg; CHCM 32,9 g/dL; plaquetas 215,0 x 10^9/L; MPV 8,1%; linfocitos % 10,1%; monocitos % 6,6%; neutrófilos % 72,3%; eosinófilos % 9,6%; basófilos % 0,2%; LUC/LYC 1,3%; linfocitos 0,66 X 10^9/L; monocitos 0,43 X 10^9/L; neutrófilos 4,74 X 10^9/L; eosinófilos 0,63 X 10^9/L; basófilos 0,01 X 10^9/L.
+• Coagulación: T. protrombina (cociente) 1,15; TTPA (cociente) 1,03. corticomedular posterior de la región interpolar del riñón izquierdo se visualiza una tumoración sólida poco vascularizada de unos 2,5 cm. Lesión parcialmente calcificada, que puede corresponder o no a un cálculo, situada en la pelvis renal izquierda, de 1,1 cm.
+Adenopatías retroperitoneales a la altura del hilio renal, la mayor de 2 cm. Grandes metástasis osteolíticas que afectan al cuerpo vertebral de L5, pedículo y apófisis transversa derecha. Metástasis en ilíaco derecho que transgrede la articulación sacroilíaca y afecta al ala sacra. El estudio torácico muestra dos nódulos subcentimétricos en el pulmón izquierdo, inespecíficos. El paciente fue intervenido quirúrgicamente mediante nefroureterectomía izquierda.
+• Anatomía patológica de la pieza quirúrgica de la nefrectomía y ureterectomía izquierda: carcinoma de ductos colectores de 2 cm, con extensión hacia los cálices y pelvis renal, afectando focalmente a las paredes de la unión ureteropélvica. Los bordes quirúrgicos están libres. Adenopatía hiliar izquierda es un conglomerado de ganglios linfáticos, todos ellos metastatizados por carcinoma de ductos colectores.
+
+Diagnóstico
+Carcinoma renal de Bellini estadio IV por afectación metastásica ósea.
+
+Evolución y tratamiento
+Tras la cirugía y con el diagnóstico de carcinoma de los ductos colectores estadio IV es remitido a consultas externas de Oncología. Se decide iniciar tratamiento citostático con el esquema aprobado en primera línea para el manejo del cáncer de células transicionales, basado en un doblete de platino (carboplatino AUC 6 + gemcitabina 1.250 mg/m2). Tras el segundo ciclo precisó la asociación de aprepitant, en relación con náuseas y vómitos grado 3.
+Asociado al régimen citostático se administró ácido zoledrónico a dosis de 4 mg cada 28 días en relación con la enfermedad ósea.
+Como incidencias, tras el segundo ciclo presentó ingreso hospitalario en relación a tromboembolismo pulmonar, por lo que inició tratamiento anticoagulante con tinzaparina.
+Tras cinco ciclos de tratamiento y con respuesta objetivable a nivel de la lesión ósea tras el tercer ciclo, se realiza una nueva TC de control donde se objetiva una progresión de la enfermedad con aparición de metástasis a nivel de ambas glándulas suprarrenales, de 1,8 cm en la suprarrenal izquierda y de 7,8 x 6,7 cm en la suprarrenal derecha. La enfermedad ósea se mantuvo estable y en ningún momento presentó alteraciones del metabolismo fosfocálcico.
+Se decide iniciar segunda línea con vinflunina a dosis de 280 mg/m2, de la que recibió un total de tres ciclos hasta nueva progresión de la enfermedad tumoral, en esta ocasión con aparición de enfermedad a nivel pulmonar. En este punto y dado el deterioro clínico del paciente, quien presentaba un ECOG 3, se decide tratamiento sintomático, siendo éxitus a los 15 meses del diagnóstico.

@@ -1,0 +1,25 @@
+ANAMNESIS
+Mujer de 58 años, sin antecedentes patológicos ni familiares de interés. Ex-fumadora desde hacía 10 años, (Índice paquetes/año: 10).
+Fue diagnosticada en marzo de 2011 de un adenocarcinoma (ADC) de pulmón, estadio IV (cT2bN2M1b), con afectación metastásica pulmonar bilateral difusa y lesiones blásticas en cuerpos vertebrales y arcos costales. Recibió quimioterapia sistémica (QTS) en primera línea con paclitaxel 175mg/m2, carboplatino AUC 5 y bevacizumab 7.5mg/kg c/21 días por 6 ciclos, con respuesta parcial (RP). Continuó con bevacizumab trisemanal de mantenimiento con enfermedad estable durante 8 meses más.
+En mayo de 2012, se apreció la aparición de pápulas acuminadas amarillentas en la piel de la mama derecha. La biopsia realizada fue compatible con metástasis de ADC de pulmón y el estudio molecular detectó deleción del exón 19 de EGFR (receptor del factor de crecimiento epidérmico) e inició tratamiento con erlotinib a 150mg/día. Presentó toxicidad dérmica grado III, por lo que fue necesario disminuir la dosis a 100mg/día desde el segundo mes de tratamiento. En las reevaluaciones sucesivas se objetivó respuesta completa de las lesiones dérmicas y RP a nivel pulmonar y óseo.
+En mayo de 2014 la paciente presentó un cuadro de un mes de evolución de cefalea frontal bilateral y sensación de inestabilidad sin giro de objetos. También refería acúfenos en oído izquierdo y diplopía binocular intermitente. Presentó además una crisis comicial tónico-clónico generalizada de segundos de duración, por lo que acudió a urgencias.
+
+Exploración física
+La paciente presentaba un ECOG PS (Eastern Cooperative Oncology Group Performance Status) 2 y destacaban los hallazgos de la exploración neurológica: paresia del recto externo del ojo izquierdo e inestabilidad de la marcha.
+
+Pruebas complementarias
+- La tomografía computarizada (TC) cerebral no reveló hallazgos patológicos y se decidió el ingreso hospitalario, donde se completó el estudio con:
+- Resonancia magnética cerebral que detectó una lesión de 4mm hiperintensa en T1 a nivel periventricular frontal izquierdo y tras administración de contraste se visualizó una hipercaptación meníngea difusa.
+- Análisis de líquido cefalorraquídeo (LCR).
+- Se realizó una evaluación completa, con una TC tóraco-abdomino-pélvica y gammagrafía ósea en la que se objetivó respuesta parcial mantenida de la enfermedad a nivel sistémico.
+
+Diagnóstico
+Carcinomatosis leptomeníngea por ADC de pulmón EGFR-mutado
+
+Tratamiento
+Se inició tratamiento anticomicial con levetiracetam y bolos de dexametasona a altas dosis para el control de síntomas. Considerando que la paciente presentaba progresión exclusiva a nivel meníngeo se decidió continuar tratamiento con erlotinib, escalando dosis a 150 mg/día y administrar quimioterapia intratecal (QIT) simultáneamente a través de un reservorio Ommaya con metotrexate 12mg e hidrocortisona 20mg dos veces por semana.
+
+Evolución
+Después de sólo dos semanas de tratamiento todos los síntomas neurológicos desaparecieron y la citología del LCR se negativizó. Se realizó una pauta descendente de corticoides hasta suspenderlos y se espació la administración de la QIT; en esquema semanal durante el segundo mes y, posteriormente mensual, durante 6 meses. El análisis repetido de LCR fue negativo y continuó tratamiento únicamente con erlotinib, sin toxicidad significativa.
+
+En julio de 2015, presentó recurrencia de la clínica neurológica, confirmándose nuevamente afectación metastásica en LCR y nódulos en mama derecha de nueva aparición. Se realizó biopsia de uno de ellos, cuyo resultado fue metástasis de ADC de pulmón, el estudio molecular detectó deleción del exón 19 y la mutación T790M de EGFR de forma simultánea. Hasta ese momento, la supervivencia libre de progresión (SLP) a nivel sistémico con erlotinib fue de 38 meses y de 14 meses desde la CLM. Se decidió iniciar QTS con pemetrexed 500mg/m2 c/21 días y QIT con el mismo esquema anteriormente descrito. Se objetivó RP a nivel sistémico, mejoría neurológica y negativización del LCR por segunda ocasión (Tabla Nº1). Actualmente (mayo/2016), la paciente continúa en tratamiento, la supervivencia global es de 5.3 años; 2 años desde el diagnóstico de la CLM.

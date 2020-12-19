@@ -1,0 +1,40 @@
+Anamnesis
+Escenario clínico
+Varón de 75 años que acude por segunda vez durante la última semana al Servicio de Urgencias por deterioro del estado general y clínica respiratoria. Desde el Servicio de Urgencias se solicita valoración por parte del equipo de guardia de Medicina Interna bajo sospecha de infección respiratoria que no ha respondido a antibioterapia.
+
+Antecedentes personales
+Paciente exfumador desde hace un año (IPA 70) e hipertenso. Actualmente jubilado, vida activa, independiente para todas las actividades básicas de la vida diaria.
+Anamnesis
+La anamnesis se presenta complicada. Paciente poco colaborador, malhumorado, irritable e inapetente.
+El paciente acude al Servicio de Urgencias el día 12 de febrero de 2018 por deterioro del estado general y clínica respiratoria. Refiere dificultad respiratoria, tos y expectoración blanquecina, e incluso, hemoptisis. Recibe el alta sin ingreso con diagnóstico de infección respiratoria, e inicia antibioterapia con levofloxacino en domicilio.
+Dos días más tarde, el día 15 de febrero, vuelve a acudir a dicho servicio por persistencia del deterioro de su estado basal. No ha percibido mejoría clínica, sino, al contrario, se encuentra tan debilitado que "no tiene fuerzas para caminar". El paciente insiste en que su deterioro tiene un desencadenante claro: una fractura de clavícula derecha que sufre mientras trabajaba en su huerta hace un mes y medio.
+Refiere que, desde ese momento, la posición que debe adoptar por dicha fractura de clavícula le impide conciliar el sueño y que, además, comienza a ocasionarle dolor lumbar postural. Este dolor se intensifica con el paso de los días, sobre todo por la noche, al tener que dormir sobre un lateral.
+Consulta en varias ocasiones en su centro de salud, recibiendo tratamiento analgésico que le alivia sólo parcialmente.
+El paciente refiere que la imposibilidad de descansar adecuadamente ha deteriorado su estado general. Se encuentra muy cansado, debilitado, apenas come, por lo que refiere haber perdido algo de peso, no sale de casa. La debilidad es tal que hace días que "no tiene fuerzas para caminar". Además, desde hace varios días se le ha añadido el cuadro respiratorio descrito anteriormente para el cual está recibiendo tratamiento antibiótico.
+
+Exploración física
+La exploración física es poco llamativa. Paciente estable, eupneico, tolerando decúbito. En la auscultación pulmonar únicamente se detectan crepitantes finos bibasales. Destaca edema con fóvea leve a la presión hasta raíz de muslo.
+Dada la clínica de "debilidad" que refiere el paciente, se realiza exploración neurológica en la que destaca: miembros inferiores (MMII) con paraparesia proximal de predominio derecho, con miembro inferior derecho (MID) a II/V proximal y miembro inferior izquierdo (MII) a III/IV proximal. Fuerza distal conservada a V/V de forma simétrica. Se objetivan fasciculaciones aisladas de localización proximal en MID. Sensibilidad tacto-algésica disminuida en muslo izquierdo.
+
+Pruebas complementarias
+En el análisis destaca una plaquetopenia de 63.000/mm3 , tiempo de protrombina 66 %, aumento fibrinógeno (551 mg/dl), leve aumento de bilirrubina total (1,5 mg/dl), elevación transaminasas (GOT/GPT 179/240 U/l), LDH 6.460 mg/dl y PCR 60,9 mg/l.
+En la radiografía de tórax, se objetiva un ensanchamiento mediastínico.
+
+Diagnóstico
+Dada la clínica y alteraciones analíticas debemos plantearnos un diagnóstico diferencial más allá de una infección respiratoria que no ha respondido a antibioterapia.
+El paciente presenta clínica de deterioro del estado general progresivo, que relaciona directamente con descanso insuficiente, secundario al dolor lumbar que le provoca la postura antiálgica que debe adoptar tras la fractura de clavícula.
+Sin embargo, puede que el aparente factor desencadenante, la fractura de clavícula, nos esté enmascarando el diagnóstico. Eliminando dicho componente, destaca como síntoma clave un dolor lumbar de difícil control con analgesia convencional que empeora por la noche, seguido de "dificultad para caminar" de menor tiempo de evolución, que en la exploración neurológica se traduce en alteración motora de la musculatura proximal de MMII y alteración sensitiva. En un paciente con una radiografía de tórax con ensanchamiento mediastínico y alteración de la función hepática, nuestra primera sospecha diagnóstica es un proceso neoplásico con afectación metastásica que debuta con un síndrome de compresión medular.
+En este caso, el diagnóstico diferencial incluimos:
+» Aneurisma aórtico: ensanchamiento mediastínico y disnea. No obstante, el nivel de la masa mediastínica no se relaciona con el nivel del dolor dorso/lumbar ni con la clínica motora y sensitiva, se palpan pulsos femorales y pedios normales y, aunque puede justificar el deterioro del estado general y la pérdida de peso, no justifica las alteraciones objetivadas en el análisis.
+» Miastenia gravis: ensanchamiento mediastínico que podría corresponder a neoplasia tímica y debilidad proximal en MMII. Sin embargo, esta debilidad no presenta fluctuaciones ni mejoría con el descanso. Tampoco presenta afectación de oculomotores ni clínica bulbar. No justifica el dolor lumbar invalidante.
+» Síndrome de Eaton Lambert: ensanchamiento mediastínico que podría corresponderse con proceso neoplásico y debilidad proximal. Sin embargo, ésta se mantiene constante durante el día sin mejorar con la actividad. Los reflejos osteotendinosos (ROT) resultaron normales. No justifica el dolor lumbar invalidante.
+» Esclerosis lateral amiotrófica: debilidad muscular con fasciculaciones aisladas. El resto de la exploración (ROT conservados, alteración sensitiva en MII, etc.) no orienta a dicha enfermedad.
+
+Tratamiento
+Ante la alta sospecha de síndrome de compresión medular iniciamos tratamiento corticoide con 10 mg endovenoso de dexametasona y, dado que nuestro centro carece de resonancia magnética (RM) en Urgencias, solicitamos RM a primera hora de la mañana.
+En el informe de la RM se describe infiltración metastásica difusa de la médula ósea de todo el esqueleto axial visualizado, así como una masa de partes blandas en el agujero de conjunción izquierdo y receso lateral izquierdo del espacio D11-D12. Además, se ve afectada la raíz D12 izquierda. La masa de partes blandas contacta con el saco tecal y con la médula, aunque sin datos de mielopatía en el momento actual.
+
+Evolución
+Ante estos resultados, el paciente ingresa a cargo de Oncología Médica para completar estudio de extensión y diagnóstico histológico. El caso es comentado con el servicio de Oncología radioterápica que, dada la afectación radicular sin datos de mielopatía y la ausencia de diagnóstico histológico, desestima radioterapia urgente.
+El paciente presenta una evolución tórpida muy precipitada, con empeoramiento progresivo de la función hepática, tendente al sueño, en situación de apatoabulia. El día 21 de febrero, el paciente presenta un cuadro de marcada dificultad respiratoria, con desconexión del medio. Se presenta sin respuesta estímulos, taquipneico, con importante trabajo respiratorio, cianótico, con edema en esclavina. Todo ello compatible con un episodio de síndrome de vena cava superior (SVS).
+Dada la inestabilidad hemodinámica y datos de sufrimiento, en un paciente con signos de neoplásica metastásica avanzada se acuerda con la familia iniciar sedación paliativa. El paciente fallece sin haber podido iniciar estudio de extensión ni obtener diagnóstico histológico.

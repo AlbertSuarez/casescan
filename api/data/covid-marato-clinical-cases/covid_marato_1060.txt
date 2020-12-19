@@ -1,0 +1,32 @@
+Anamnesis
+Se trata de una mujer de 60 años, natural de Ibiza, sin alergias medicamentosas, sin hábitos tóxicos, con antecedentes de fractura de tibia-peroné en 2010, intervenida de varices de miembro inferior derecho en 2005 y con antecedentes familiares de padre fallecido de neoplasia de pulmón.
+Como antecedente relevante, hace tres años tuvo una cirugía con exéresis de lesión cervical y, hace un año y medio antes, se había realizado exéresis de lesiones cutáneas, de las que no disponemos de anatomía patológica ni informes médicos.
+Su historia oncológica comienza en noviembre de 2011, momento en el que consulta por palpitaciones y adenopatía axilar derecha, siendo derivada a consultas externas de Medicina Interna donde se completa estudio.
+
+Exploración física
+Se palpan adenopatías axilares derechas múltiples, la de mayor tamaño es de 2 cm aproximadamente: duras y adheridas a planos profundos. No se palpan lesiones sobre la mama ni tampoco en otras localizaciones.
+No hay lesiones a nivel cutáneo sospechosas y en el resto de exploración no hay nada reseñable.
+
+Pruebas complementarias
+Se realiza mamografía y ecografía (22/12/2011) donde se describe un patrón mamario fibroglandular simétrico, sin nódulos espiculados ni agrupación de microcalcificaciones, con presencia de alguna microcalcificación aislada en cuadrante supero externo de mama izquierda y una adenopatía axilar derecha.
+Se completa el estudio con una ecografía axilar (22/12/2011) donde se visualiza un ganglio en axila derecha aumentado de tamaño con medidas de 2,5 por 2,1 cm, redondeado y con pérdida del centro graso normal, con aumento de flujo Doppler y contenido parcialmente quístico.
+En la TC (04/05/12) se evidencia una adenopatía significativa de 32 mm a nivel axilar derecho con una imagen nodular de 45 mm que impresiona sólida dependiente de suprarrenal derecha, sin otras lesiones significativas.
+En la PET TAC (04/06/2012) destaca el hipermetabolismo en múltiples adenopatías infiltrativas a nivel cervical, axilar bilateral e intraabdominal; también, masa suprarrenal derecha, compatible con metástasis, lesión en cuerpo vertebral de D9, que podría corresponder a metástasis ósea.
+Se realiza, además, una gammagrafía ósea de cuerpo completo (07/06/2012) que evidencia dos focos osteoblásticos de leve intensidad en quinto arco costal derecho y D9, que se corresponden con las lesiones descritas en PET. No se evidencian otras lesiones.
+Se lleva a cabo biopsia exéresis de la adenopatía axilar derecha, con resultado histológico compatible con metástasis por melanoma maligno, con proteína S-100 positiva, citoqueratinas negativas y mutación del gen BRAF mediante análisis de mutación V600 positivo.
+
+Diagnóstico
+Melanoma metastásico BRAF mutado con metástasis ganglionares múltiples supra e infradiafragmáticas, óseas y suprarrenal derecha.
+
+Tratamiento
+El 07/06/2012 inicia tratamiento según esquema vemurafenib 960 mg cada 12 horas, incluida en el ensayo clínico MO25515.
+Evolución
+Al finalizar el primer ciclo, se señala toxicidad hepática grado cuatro, con valores de bilirrubina total de 1,3 mg por ml, GOT de 882 unidades por litro (U/l) y LDH de 698 U/l, así como toxicidad cutánea entre grado dos y tres, en forma de lesiones características de queratoacantomas, fiebre y astenia severa, decidiéndose suspender el tratamiento.
+Tras cuatro semanas de descanso, normalización de la función hepática y buena respuesta clínica a nivel axilar, se reanuda el tratamiento disminuyendo dosis a 480 mg cada 12 horas, con buena tolerancia clínica, pero nuevamente toxicidad hepática grado tres, por lo que se suspende nuevamente el tratamiento.
+Tras cuatro semanas, normalización de función hepática y dada la respuesta clínica a nivel axilar, se decide reintroducir tratamiento a la misma dosis.
+En la TC de control 03/08/12, se describe disminución de la adenopatía axilar derecha (pasa de 30 a 20 mm), sin cambios significativos en masa pararrenal derecha y sin evidenciar lesiones óseas.
+Se orienta como respuesta parcial y al encontrarse asintomática, con ECOG 0 y excelente toxicidad, por lo que se decide continuar con el mismo tratamiento.
+Previo al ciclo 13, destaca neurotoxicidad grado uno, respuesta clínica completa a nivel axilar y respuesta radiológica parcial en TC de control (14/02/2013) donde se describe adenopatía de 9 mm axilar derecha (medía 10 mm), ausencia de adenopatías mediastínicas y masa pararrenal derecha de 37 por 9 mm (medía 51 por 26 mm), sin otras lesiones a destacar.
+La paciente sigue tratamiento, con muy buena tolerancia, presentando como toxicidades más destacables, artralgias y fotosensibilidad grado uno.
+Tras un intervalo libre de progresión de 2 años y 8 meses, en TC de control del 12/02/15 no se objetivan cambios sobre las adenopatías. No se ven otras adenopatías de tamaño significativo. Aparecen micronódulos pulmonares subpleurales en lóbulo inferior derecho, sin cambios. Disminución del tamaño de la lesión residual pararrenal derecha, ahora mide 18 por 8 mm. Hígado, bazo, páncreas, riñones y suprarrenales sin alteraciones.
+En último control por Oncología, la paciente se mantiene asintomática, sin toxicidad al tratamiento, destacando en la última TC de valoración (05/05/17) realizada tras ciclo 46, adenopatías axilares bilaterales de pequeño tamaño (no significativas por tamaño, la mayor de 7 mm) y lesión residual pararrenal derecha, sin cambios significativos.

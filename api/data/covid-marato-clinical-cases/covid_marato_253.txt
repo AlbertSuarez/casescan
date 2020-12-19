@@ -1,0 +1,53 @@
+Anamnesis
+Paciente de 44 años, sin alergias medicamentosas conocidas ni antecedentes médicos de interés. En diciembre de 2013 acude a urgencias por cefalea frontal muy intensa, asociada a náuseas con vómitos.
+A su llegada se aprecian cifras de Tensión Arterial de 220/100. Se administra captopril 50mg y furosemida IV sin presentar mejoría significativa de las cifras tensionales. Durante la anamnesis el paciente refiere dolor abdominal en hipocondrio derecho de varios días de evolución. No otra clínica acompañante.
+
+Exploración física
+Paciente consciente, orientado, normohidratado y normocoloreado. Eupneico en reposo. TA 220/100 con FC 79 lpm y SatO2 97%. ECOG: 0.
+- Exploración neurológica: pupilas isocóricas, normorreactivas, pares craneales normales. No alteración de reflejos campimétricos. Fuerza y sensibilidad conservada en extremidades superiores e inferiores.
+No se aprecian dismetrías. Rombreg negativo. Marcha normal. Reflejos osteo-tendinosos presentes y simétricos. No rigidez de nuca. Signos meníngeos negativos.
+- Cardio-pulmonar: tonos rítmicos sin soplos, normoventilación en campos pulmonares.
+- Abdomen: blando, depresible, ligero dolor en hipocondrio derecho a la palpación profunda de características mecánicas. No dolor en otras localizaciones. No se palpan masas ni megalias. No irritación peritoneal. Peristaltismo conservado.
+
+Pruebas complementarias
+Ecografía abdominal (diciembre 2013): Masa retroperitoneal derecha de grandes dimensiones que desplaza riñón derecho. Probable dependencia suprarrenal, sin poder descartar otras posibilidades.
+Hígado, riñón izquierdo, área pancreática y bazo dentro de la normalidad.
+TAC cerebral urgente (diciembre 2013): No se observan signos de patología vascular isquémica aguda. No se visualizan imágenes evidentes de hemorragia intra o extraaxial.
+TAC toraco-abdomino-pélvico:
+» Conglomerado adenopático mediastínico que ocupa mediastino anterior, prevascular y paraaórtico se visualiza compresión extrínseca de vena innominada sin llegar a visualizar defectos de repleción que sugieran trombosis como buen paso de contraste
+» En parénquima pulmonar no se aprecian nódulos pulmonares significativos.
+» Gran masa abdominal retroperitoneal dependiente de glándula suprarrenal derecha, heterogénea con amplias zonas hipodensas necróticas e importante neo vascularización, visualizando grandes vasos en su interior, la masa presenta unas dimensiones aproximadas de 16 cm x 13 cm x 15 cm, desplaza inferior y anteriormente al riñón derecho. Se visualizan múltiples nódulos satélites secundarios tumorales, existe importante desplazamiento de vena cava superior probablemente infiltrada.
+Conglomerado adenopático intercavo-aórticas de 5cm.
+» Esteatosis hepática difusa sin visualizar lesiones ocupantes de espacio. Vía biliar intra y extrahepática dentro de la normalidad. Glándula pancreática, bazo, glándula suprarrenal izquierda y riñón izquierdo dentro la normalidad. Bazo accesorio. No se aprecia líquido libre peritoneal. Con ventana osea, espondilosis dorsal.
+Gammagrafía suprarrenal medular (MIBG): Probable feocromocitoma suprarrenal derecho con metástasis ganglionares cervico-mediastínicas e interaorto-cavas, hepáticas (segmento IV y más dudoso en segmento VIII) y óseas (L2 y fémur derecho).
+Analítica hormonal: dentro de los rangos de la normalidad
+
+Catecolaminas en orina:
+Metanefrinas: 4748.85 μg/24h (20 - 374 )
+Normetanefrinas: 80233.95 μg/24h (30 - 778)
+Acido Vanilmandélico: 10.1 mg/24h (1 - 7.3)
+
+Diagnóstico
+Feocromocitoma maligno metastásico Estadio IV (metástasis ganglionares cervico-mediastínicas e interaortocavas, hepáticas, óseas y pulmonares)
+
+Tratamiento
+Se realiza cirugía citorreductora en 2 tiempos con control de cifras tensionales mediante fármacos alfabloqueantes.
+Inicia tratamiento con 131I-MIBG por parte del Servicio de Medicina Nuclear en dosis fraccionadas de 100 mCi.
+Ante progresión se inicia tratamiento de quimioterapia con esquema Ciclofosfmida + Vincristina + Dacarbacina recibiendo un ciclo, ya que se suspende por toxicidad y se decide iniciar tratamiento con Sunitinib.
+
+Evolución
+Se inició tratamiento con alfa-bloqueantes y se propuso para cirugía citorreductora en 2 tiempos y posterior ingreso en UCI para control postoperatorio con dificultad en el control de las cifras tensionales con drogas vasoactivas.
+En enero de 2014 se realiza resección de masa suprarrenal derecha de 16 cm y suprarenalectomía radical con nefrectomía ipsilateral y resección de un nódulo hepático.
+Resultados de Anatomía Patológica:
+» Región interaortocava: Feocromocitoma de comportamiento agresivo. no se observa tejido linfoide residual.
+» Nódulo hepático: Metástasis de Feocromocitoma
+» Masa suprarrenal: resección de masa suprarrenal derecha: feocromocitoma (16 cm), que infiltra capsula suprarrenal y tejido adiposo periadrenal. necrosis: extensa. se observan frecuentes imágenes de invasión vascular sanguínea. parénquima renal: sin evidencia de neoplasia.
+» la presencia de invasión vascular, necrosis, pleomorfismo e invasión de cápsula y tejido adiposo periadrenal, confieren a la neoplasia un muy probable comportamiento agresivo, con capacidad metastatizante.
+En mayo de 2014 se realiza la segunda intervención mediante esternotomía media para resección de masa mediastínica de 19 cm y de nódulo pulmonar en el LSI de 1.5 cm, ambos correspondientes a metástasis de feocromocitoma.
+Se remite al paciente a Medicina Nuclear para tratamiento paliativo con 131I- MIBG que se le administra en dosis fraccionadas de 100 mCi. En septiembre de 2014 se le administra la segunda dosis de 131I MIBG.
+Mantiene posterior seguimiento en consultas externas con mejoría clínica y reducción de metabolitos adrenérgicos en orina.
+En febrero de 2015 ingresa en Oncología Médica por cuadro de náuseas y vómitos persistentes objetivándose por TAC progresión de la enfermedad a nivel laterocervical y hepático. Presenta cuadros de hipertensión arterial, así como flushing fácil y sudoración profusa de difícil manejo.
+
+Se decide en comité de tumores iniciar tratamiento QT con esquema CICLOFOSFAMIDA 750 mg/m2 + VINCRISTINA + DACARBACINA 600 mg/m2 (días 1 y 2) cada 21 días recibiendo el primer ciclo en Marzo de 2015 con toxicidad: Emesis G4, Astenia G4, pancitopenia febril.
+Dada la mala tolerancia a la quimioterapia, se decide en mayo de 2015 iniciar tratamiento con Sunitinib.
+En mayo de 2015 el paciente ingresa en Oncología médica por cuadro de hipertensión refractaria a medicación, flushing facial y sudoración profusa. Se inicia tratamiento con labetalol IV en perfusión continua sin presentar mejoría de las cifras tensionales. Ante empeoramiento clínico el paciente fallece en el mes de mayo de 2015.

@@ -1,0 +1,26 @@
+Anamnesis
+Presentamos el caso de una mujer de 52 años, sin alergias medicamentosas ni hábitos tóxicos, con antecedentes familiares de 2º grado (tíos paternos) de cáncer de mama y de colon y antecedentes personales de hipertensión arterial esencial, bocio multinodular (BMN) tóxico tratado mediante tiroidectomía total en 2009 con hipotiroidismo e hipoparatiroidismo iatrogénicos. Como tratamiento habitual toma eutirox 112 mg, calcitriol, calcio y olmesartan/hidroclorotiazida 40 mg/0.5 mg.
+
+Encontrándose en estudio por hipertransaminasemia leve en Mayo de 2014, se solicita ecografía abdominopélvica con hallazgo de LOE hepática compatible con hemangioma y lesión pseudoquística anexial, y así RMN de pelvis que objetiva dicha formación pélvica, de consistencia quística, de unos 10 cm en su eje máximo, englobando anejo derecho, tabicada y con componente sólido. Se completa estudio con MTs normales (CEA, CA-125 y CA 19-9). La paciente no presentaba clínica de síndrome constitucional, dolor abdominal, u otra sintomatología acompañante.
+En Junio de 2014 es intervenida por Ginecología con sospecha de patología tumoral anexial, con hallazgo de forma intraoperatoria de diseminación peritoneal por implantes de aspecto gelatinoso - mucoide cubriendo asas intestino delgado, útero y anejos, pelvis y fondo de saco de Douglas, junto a una tumoración en apéndice de unos 6 cm. Se realiza apendicectomía y lavado cavidad abdominal para estudio citológico sin biopsia peritoneal. Con resultado histopatológico de adenocarcinoma apendicular mucinoso invasivo bien diferenciado y citología liquido ascítico negativa, valorada por Cirugía General se amplia estudio de extensión con TC de T-A-P y PET-TC destacando la presencia de un nódulo pulmonar cavitado en lóbulo inferior derecho, una lesión quístico-sólida en segmento VIII hepático e infiltración de la grasa mesentérica en pelvis menor, captando en PET-TC las lesiones pulmonar y hepáticas. Se propone tratamiento con citorreducción completa (CCRS) + HIPEC, que se realiza en Septiembre de 14. Con un PCI de 13 y ecografía intraoperatoria que pone de manifiesto 2 LOEs hepáticas en segmentos VIII y III, se continua con metastectomía de ambas lesiones, hemicolectomía derecha oncológica, omentectomía y pelviperitonectomía con resección de recto-sigma, útero, y anejos.
+Como quimioterapia (QT) intraperitoneal se aplica Oxaliplatino durante 30 min, a 43º C y con administración previa de 5-FU/LV intravenoso. El resultado histopatológico de las lesiones hepáticas fue de hemangioma cavernoso, con afectación por mucina en peritoneo diafragmático y colónico y en vasos gonadales izquierdos, sin afectación ganglionar y con hiperplasia mesotelial reactiva en pieza de colon derecho.
+Posteriormente se realiza resección atípica pulmonar del nódulo pulmonar descrito mediante toracotomía por Cirugía Torácica en Octubre de 14, con diagnostico histológico de bronquiolitis folicular linfoide. Desde entonces, inicia revisiones por Oncología Médica, con determinación de MTs y TC T-A-P cada 3 y 6 meses respectivamente. La primera en Enero de 15, encontrándose oligosintomática por leve sensación disneica y astenia y con un CEA normal (3.86 ng/ml), se objetiva la aparición de adenopatías hiliares y mediastínicas de características patológicas.
+
+Exploración física
+ECOG 1. En el examen físico general no se encontró focalidad a ningún nivel, con una auscultacion cardiopulmonar dentro de la normalidad y sin semiología abdominal.
+
+Pruebas complementarias
+» PET-TC (3.02.2015): Adenopatías en torno al centrímetro mediastínicas, paratraqueales derechas (SUVmáx 4.1) ,prevasculares (SUVmáx 6), precarinales (SUVmáx 4.3), en ventana aortopulmonar, subcarinales (SUVmáx 6), hiliar derecha ( SUVmáx 5) e izquierda (SUVmáx de 4.6). Captación metabólica focal (SUVmáx 7.8) en región anatómica de colon derecho.
+» Estudio de autoinmunidad: ANA, ENA y Ac anti-SSA positivos, con VSG y PCR normales.
+» Mediastinoscopia diagnóstica (19.03.2015)
+
+Diagnóstico
+Linfadenitis granulomatosa no necrotizante tipo sarcoideo, compatible con Sarcoidosis pulmonar estadío 1.
+
+Tratamiento
+Valorada por Neumología en Noviembre de 2015, que amplia estudio con ecocardiograma, analítica completa y pruebas funcionales respiratorias, sin hallazgos relevantes. Por encontrarse estable desde el punto de vista respiratorio, se consensua finalmente estrategia de vigilancia seriada.
+
+Evolución
+La paciente retoma seguimiento por parte de Oncología Médica. Se detecta elevación de CEA (7.43 ng/ml) en Agosto de 2015, aumento que se sucede de forma progresiva a lo largo de las siguientes determinaciones trimestrales: 16.84 ng/ml--> 23.20 ng/ml --> 55.10 ng/ml en Abril de 2016. Se realiza colonoscopia en Diciembre de 2015 con toma de biopsias de las anatomosis ileocólica y rectocólica sin hallazgos compatibles con neoplasia pero con fragmentos de mucosa con hiperplasia glandular reactiva, TC T-A-P en Marzo de 2016 con adenopatías en hilio hepático estenosando parcialmente la vena porta y finalmente PET-TC con permanencia y aumento de intensidad de la captación focal en región anatómica de colon derecho (SUVmáx 9.7).
+
+Actualmente se encuentra pendiente de realización de ecoendoscopia para toma de biopsia del conglomerado adenopático en hilio hepático y así su filiación etiológica.

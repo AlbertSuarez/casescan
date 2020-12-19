@@ -1,0 +1,23 @@
+Anamnesis
+Paciente mujer de 34 años, sin otros antecedentes de interés que se inteviene de un nevus en el área escapular izquierda en el año 2008. La anatomía patológica fue de un nevus de Spitz y se le indicó ampliación de los márgenes quirúrgicos, que no se realizó, ni posteriormente hizo seguimiento.
+En septiembre de 2013 acude a Urgencias por dolor en el hemitórax derecho, por lo que se realizó una angio-TC para descartar un tromboembolismo pulmonar, que no tenía. En esta TC se evidenciaron múltiples adenopatías mediastínicas y se derivó a las consultas de Medicina Interna para su estudio.
+Un mes más tarde, aún sin diagnóstico, la paciente se palpa un bulto supraclavicular izquierdo asociado a astenia, anorexia y pérdida ponderal no cuantificada, por lo que se decide su ingreso en Medicina Interna.
+
+Examen físico
+Performance status (ECOG) 1. Destaca la presencia de adenopatías laterocervicales infra y supraclaviculares a nivel izquierdo palpables, la mayor de unos 3 x 2 cm, móvil y de consistencia elástica. Resto de la exploración dentro de la normalidad.
+
+Pruebas complementarias
+- Se realiza una biopsia (25/10/2013) del ganglio supraclavicular izquierdo con afectación de melanoma maligno.
+- TC cuello-tórax-abdomen-pelvis (4/11/2013): múltiples adenopatías laterocervicales izquierdas en unión nivel III-IV de 2 cm y conglomerado adenopático en niveles IV y V de 2,5 cm. Múltiples adenopatías en el mediastino anterior y superior, paratraqueales derechas y en la región axilar izquierda alta de 3 cm.
+- Tras la biopsia positiva para melanoma maligno se remite al Servicio de Oncología.
+
+Diagnóstico
+Mujer de 34 años, con melanoma maligno estadio IV (por afectación ganglionar, TxNxM1a).
+
+Tratamiento
+Tras valorar el estado general de la paciente, el estadio y la afectación ganglionar exclusiva, se le propuso tratamiento con IL-2 a altas dosis4.
+
+Evolución
+Se inicia tratamiento con IL-2 el 11 de noviembre de 2013, sin llegar a completar el primer ciclo de inducción por mala tolerancia y por presentar edema agudo de pulmón secundario al tratamiento.
+Se realiza una nueva TC (2/12/2013), que evidencia progresión de la enfermedad (aparición de derrame pleural bilateral, derrame pericárdico y persistencia de múltiples adenopatías a nivel cervical y torácico). Se solicita mutación BRAF, con resultado positivo en noviembre 2013. Este resultado coincide de forma temporal con la posibilidad de entrar en el uso compasivo de dabrafenib y trametinib.
+El 9 de enero de 2014 inicia este tratamiento a dosis plenas (dabrafenib 150 mg/dos veces al día y trametinib 2 mg una vez al día, continuo), con buena tolerancia y obteniendo una clara mejoría sintomática, con reducción de tamaño de las adenopatías supra e infraclaviculares y con respuesta parcial en la TC de reevaluación a los 2 meses. Actualmente, tras 4 meses del inicio del tratamiento, hace controles en consulta de Oncología, donde sigue en tratamiento con inhibidor de BRAF asociado a inhibidor de MEK, sin reducción de la dosis.

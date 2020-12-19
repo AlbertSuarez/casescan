@@ -1,0 +1,31 @@
+Anamnesis
+Varón de 29 años de edad, que consulta en marzo de 2010 por dolor abdominal de 48 horas de evolución, intenso, focalizado en cuadrante inferoexterno, acompañado de vómitos biliosos. Asocia estreñimiento, sin expulsión de gases, y peristaltismo abdominal aumentado con ruidos metálicos. Como único antecedente, clínica de epigastralgia y anemia microcítica de un año de evolución.
+La sospecha de obstrucción intestinal se confirma mediante radiografía simple abdomen. La TC abdominopélvica objetiva, además, una masa yeyunal de 51 mm, con invaginación intestinal secundaria a tumor. Con estos hallazgos, se interviene de forma urgente, realizándose una resección segmentaria de yeyuno y linfadenectomía locorregional.
+El informe anatomopatológico muestra infiltración por células indiferenciadas de mediano tamaño que por inmunohistoquímica son positivas para lisozima, vimentina y mieloperoxidasa focal, siendo negativas para el resto de marcadores. Bordes de resección libres y una de 33 adenopatías infiltrada por tumor.
+Completamos estudio de extensión con biopsia de médula ósea (normal) y TC toracoabdominopélvica sin evidencia de enfermedad.
+Con estos datos se llega al diagnóstico de sarcoma granulocítico (cloroma) primario y se decide iniciar quimioterapia intensiva según protocolo para leucemia mieloide LMA-PETHEMA 2007, administrándose entre mayo y agosto de 2010 los ciclos de inducción y primera fase de consolidación.
+Sin embargo, en septiembre de 2010, presenta cuadro de dolor abdominal difuso, con aumento perímetro abdominal y astenia, con deterioro del estado general.
+
+Exploración física
+Regular estado general. Abdomen globuloso, distendido, doloroso a la palpación profunda de forma difusa, con empastamiento a nivel mesogastrio. Ascitis, casi a tensión. A la auscultación pulmonar: hipoventilación bibasal. Miembros inferiores edematizados.
+
+Pruebas complementarias
+• Paracentesis diagnóstica/evacuadora. Citología líquido ascítico: presencia de células malignas compatibles con tumor maligno indiferenciado. Técnicas de inmunocitoquímica no concluyentes.
+• Biopsia hepática (26 de octubre de 2011): células tumorales en cordones sólidos con amplios citoplasmas eosinófilos y núcleos pleomórficos, hipercromáticos con atipias y mitosis. Por inmunohistoquímica: expresión difusa de vimentina, CD99, y EMA. Son negativos los marcadores de líneas B y T, CD138, mieloperoxidasa, lisozima, CD117 y las técnicas musculares y neurales. Índice de proliferación mayor al 30%.
+Tumor maligno de partes blandas de niños y jovenes, similar al tumor rabdoide renal. El diagnóstico diferencial incluye: adenocarcinomas con fenotipo rabdoide, tumor del estroma gastrointestinal con fenotipo rabdoide, sarcomas con fenotipo rabdoide y tumor rabdoide maligno puro primario.
+• TC toracoabdominopélvica (30 de septiembre de 2010): masa mesentérica de tamaño significativo, con áreas hipodensas en su interior con infiltración de asas de yeyuno proximal y tercera y cuarta porción duodenales, principalmente del asa con sutura por cirugía previa. Extensa infiltración peritoneal con gran cantidad de líquido abdominal. Hígado con múltiples lesiones tumorales, la de mayor tamaño en segmento 5-6.
+
+Diagnóstico
+El diagnóstico definitivo es de tumor con fenotipo rabdoide que sugiere sarcoma indiferenciado con fenotipo rabdoide más que tumor rabdoide extrarrenal primario.
+
+Tratamiento
+Se decide iniciar quimioterapia de inducción con nuestro esquema asistencial de combinación para sarcomas de partes blandas, basado en doxorrubicina-ifosfamida a dosis altas, con soporte de factores granulocíticos e hiperhidratación con MESNA.
+
+Evolución
+Inicialmente presenta excelente tolerancia al tratamiento y resolución de la sintomatología asociada (ascitis y síndrome constitucional). En la evaluación tras tres ciclos de quimioterapia, se objetiva franca mejoría clínica y respuesta parcial mayor en la TC toracoabdominopélvica.
+Desgraciadamente, tras seis ciclos de tratamiento en la TC toracoabdominopélvica se evidencia progresión peritoneal y ósea de enfermedad.
+Ante esta progresión, se pauta quimioterapia de segunda línea con esquema gemcitabina-docetaxel, con escasa respuesta clínica. Tras el segundo ciclo, requiere ingreso por deterioro estado general, mal control del dolor, toxicidad gastrointestinal (emesis grado 3, diarrea grado 2) y hematológica (anemia y trombopenia grado 2).
+Durante la hospitalización, se realiza otra TC toracoabdominopélvica de evaluación, apreciándose progresión de la enfermedad por crecimiento de las lesiones hepáticas y de lesión mesentérica en zona de anastomosis quirúrgica.
+Dado la nueva progresión y mala tolerancia, al alta se plantea quimioterapia de tercera línea con trabectedina.
+Lamentablemente, tras la administración del primer ciclo, acude con clínica de parestesias y pérdida de fuerza en el miembro superior izquierdo. La TC craneal muestra una lesión en el lóbulo parietal derecho.
+Ingresa para estudio y la RM cerebral objetiva múltiples focos seudonodulares, sugestivos de infartos de origen cardioembólico, estando el de mayor tamaño en territorio de cerebral media derecha. Progresivamente presenta deterioro clínico y neurológico y, finalmente, fallece.

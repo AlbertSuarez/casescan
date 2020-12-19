@@ -1,0 +1,24 @@
+Anamnesis
+El paciente en 2010, a raíz de hematuria macroscópica, se realiza una ecografía en el centro de especialidades y se diagnostica de una masa renal izquierda, la TC de extensión muestra una masa de 6 x 6 cm sin evidencia de afectación metastásica. Se realiza una nefrectomía total izquierda cuya histología habla de un carcinoma renal de células claras (CRCC) grado 3 de Fuhrman sin extensión extrarrenal con algunas imágenes de invasión vascular venosa, se trataría de un pT1bN0M0.
+El paciente sigue controles anuales con TC, donde se observa nódulo milimétrico en lóbulo inferior izquierdo de crecimiento lento hasta junio de 2016, cuando se comenta en comité de tumores de tórax y se decide realizar exéresis quirúrgica de la lesión que se informa como lesión de 1,2 cm compatible con metástasis de CRCC, por lo que es derivado a consultas externas de Oncología Médica: se trataría de un paciente oligometastásico por lo que se decide seguimiento semestral con TC.
+En la primera TC de control (octubre 2017), se observa aparición de lesiones hipervasculares en cabeza: proceso uncinado del páncreas remanente. El caso se comentó en el comité de tumores hepatobiliopancreáticos y se decidió descartar por PET afectación otros niveles y realizar biopsia dirigida mediante ecoendoscopia. En la PET no se observó evidencia de enfermedad metabólicamente activa; sin embargo, la biopsia dirigida mediante ecoendoscopia fue positiva para carcinoma sin poder descartarse un origen renal por lo que, en febrero de 2018, se realizó pancreatectomía tipo Whipple: la pieza quirúrgica presentó cuatro lesiones metastásicas para CRCC, sin evidencia de afectación ganglionar en los 28 ganglios de la pieza.
+Antes de realizarse la TC de control, el paciente precisa de ingreso en la planta de digestivo por dolor abdominal y hemorragia digestiva alta, la endoscopia digestiva alta revela una lesión ulcerosa redondeada con bordes irregulares cuya anatomía patológica resulta positiva para CRCC. Se trataría de un riesgo intermedio según los criterios International Metastatic RCC Database Consortium (IMDC)1 por la neutrofilia.
+
+Exploración física
+ECOG 0, en la exploración física únicamente destacaba la cicatriz costal izquierda de la toracotomía e hipoventilación en la base del hemitórax izquierdo.
+
+Pruebas complementarias
+» En la primera TC de control (octubre 2017) se observa aparición de lesiones hipervasculares en cabeza: proceso uncinado del páncreas remanente.
+» En la PET no se observó evidencia de enfermedad metabólicamente activa.
+» La biopsia dirigida mediante ecoendoscopia fue positiva para carcinoma sin poder descartarse un origen renal.
+» En la TC de control realizada a los 6 meses tras cirugía Whipple, se observan adenopatías paraaórticas y aortocavas de lento crecimiento, por lo que, tras comentar el caso en el comité de Urología, se decide wait and see y control precoz en 3 meses.
+» La endoscopia digestiva alta durante ingreso en Digestivo revela una lesión ulcerosa redondeada con bordes irregulares cuya Anatomía Patológica resulta positiva para CRCC.
+
+Diagnóstico
+Carcinoma renal de células claras pT1bN1M1 (afectación metastásica gástrica, pulmonar y pancreática).
+
+Tratamiento
+Pazopanib 400 mg durante 2 ciclos de 28 días, posteriormente pazopanib 800 mg.
+
+Evolución
+El paciente presenta excelente tolerancia al tratamiento con pazopanib, como única toxicidad presenta náuseas grado 1, no ha vuelto a presentar hemorragia digestiva alta. La primera TC tras comenzar tratamiento muestra estabilidad de la enfermedad.

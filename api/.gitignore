@@ -114,3 +114,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data
+data/
+!data/.gitkeep
+!data/covid-marato-clinical-cases/
+!data/db.pkl

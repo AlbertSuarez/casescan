@@ -1,0 +1,44 @@
+Anamnesis
+Mujer de 67 años con antecedente de alergia a Lamotrigina, hipertensa, dislipemica, obesa, con antecedentes quirúrgicos de adenectomia tiroidea derecha por adenoma folicular de tiroides en 1980, hemitirodectomia derecha en 2002 con anatomía patológica de adenoma de células de Hurthe quedando hipotiroidea desde entonces y paratiroidectomia superior derecha, inferior izquierda e inferior derecha en 2002 con anatomía patológica compatible con hiperplasia de paratiroides. Pielolitectomía en riñón izquierdo en 1983.
+
+Historia oncológica:
+Tras cuadro de tos que no mejoraba a pesar de varios ciclos de antibioterapia ni con aerosolterapia, fue diagnosticada en noviembre 2015 de Adenocarcinoma de pulmón. Grado histológico 1.
+
+Exploración física
+En primera consulta externa de Oncologia Medica:
+Peso: 75 kg. Talla: 155 cm. Superficie: 1,8 m2. Indice Masa Corporal: 31. Estado general: 1 (ECOG). Sat 87% Tac 122/76 FC 101 Regular estado general Orientado temporo-espacialmente. Buen estado de hidratación y nutrición. Cabeza y cuello: Motilidad ocular conservada. Pupilas isocóricas y normorreactivas. No alteraciones de pares craneales. No adenopatías laterocervicales ni supraclaviculares palpables. Tórax: Auscultación cardiaca: tonos cardiacos rítmicos. A. pulmonar murmullo vesicular conservado sin ruidos sobreañadidos. No adenopatías axilares. Abdomen: No puntos dolorosos. No organomegalias ni masas abdominales. No ascitis. No adenopatías inguinales.
+Extremidades: Fuerza, tono, sensibilidad conservados. No edemas maleolares. No signos de trombosis venosa profunda.
+
+Pruebas complementarias
+Biopsia pulmonar percutánea (11/2015): Parénquima pulmonar con adenocarcinoma bien diferenciado.
+Estudio inmunohistoquimico (11/2015) TTF1: positivo CK7:positivo P63:negativo CK20:negativo.
+Se solicita determinación de mutación EGFR y reordenamiento ALK.
+Estudio de extensión al diagnostico:
+TAC toraco-abdomino-pelvico (11/2015): Adenopatías mediastínicas e hiliares derechas patológicas con manguito tumoral alrededor del bronquio principal derecho y del bronquio intermediario sugerente de proceso neoformativo pulmonar central con nódulos en diferentes lóbulos del pulmón ipsilateral y probable foco metastático hepático. Estadificación: (T4, N3) RMN hepática (12/2015): Quistes hepáticos y otras LOEs hepáticas de pequeño tamaño inespecíficas.
+Afectación tumoral ganglionar retroperitoneal, suprarrenal izquierda y esplénicas.
+PET-TAC (01/2016): Pequeñas adenopatías en región supraclavicular con aumento del metabolismo patológico con un SUVmax de 4,27 la derecha y 2,6 la izquierda. Conglomerado adenopático paratraqueal derecho con SUVmax de 11,53, adenopatías en región precarinal con SUVmax de 9,43, subcarinal con SUVmax de 8,71, en VAP con SUVmax de 8, en espacio graso prevascular con SUVmax de 10,39, en cadena mamaria interna con SUVmax de 7,73 y en hilio pulmonar izquierdo con SUVmax de 3,37. La lesión de partes blandas adyacente a pared derecha del esófago distal que impresiona de conglomerado adenopático con SUVmax 7,73 así como paraesofágica distal izquierda con SUVmax 3,31. Lesión de partes blandas en región hiliar derecha con SUVmax de 10,28. Nódulos en LSD y otro en LID con SUVmax de 4,25. Parénquima hepático sin metástasis. Conglomerado adenopático en tronco celíaco con SUVMax de 12,35. Glándula SR izquierda con SUVmax de 3,61.
+Lesión nodular en cola de páncreas con SUVmax de 5,53, sin poder diferenciar entre adenopatía o lesión pancreática. Adenopatías retroperitoneales con SUVmax de 5,82. Leve depósito de radiotrazador en sexto arco costal izquierdo con un SUVmax de 2,58 y depósito en 5ª vértebra dorsal con SUVmax de 4,28. Estadificación: (T4, N3)
+Marcadores tumorales al diagnostico (01/2016): CEA: 144,2, SCC 0,9.
+
+Diagnóstico
+Diagnostico oncológico:
+Adenocarcinoma de pulmón T4 N3 M1b, Estadio IVB (metástasis ganglionares supra e infradiafragmáticas, suprarrenal izquierda y esplénicas). EGFR wild type. ALK pendiente.
+
+Tratamiento
+Tratamiento Oncológico:
+Dado que la paciente era no fumadora, se decidió esperar al resultado de las mutaciones para iniciar el tratamiento sistémico. Primero llegó el resultado de EGFR no objetivándose mutaciones, pero el resultado del primer análsis de traslocación ALK fue inválido, no valorable.
+Dado que la paciente se encontraba muy sintomática, con accesos de tos que limitaban mucho la vida de la paciente, sin poder apenas movilizarse y ni siquiera dormir, se decidió ir iniciando tratamiento sistémico con quimioterapia.
+Inicia en 27/1/2016 tratamiento oncológico paliativo con el esquema Cisplatino + Pemetrexed cada 21 días del que recibió 1 solo ciclo. Tras este primer ciclo ingresó por toxicidad y no presentó apenas mejoría clínica de la tos, y llegó la nueva determinación de reordenamiento de ALK, siendo positiva, por lo que ante la toxicidad presentada con la QT y que la paciente seguí muy sintomática con accesos de tos muy limitantes, se decidió suspender la QT e iniciar tratamiento oncológico paliativo con Crizotinib 250mg vía oral cada 12h, con intención de aumentar la velocidad de respuesta de cara a mejorar la calidad de vida de la paciente.
+En el TC basal realizado al inicio del tratamiento con Crizotinib, se objetivaron 2 metástasis cerebrales de manera casual, y se solicitó estudio completo con TC y RMN craneal.
+TAC craneal (03/2016): LOES en hemisferio cerebrales y hemisferio cerebeloso izquierdo, de mayor tamaño en lóbulo frontal izquierdo y hemisferio cerebeloso izquierdo, sin evidencia de claro sangrado-hematoma intra o extraaxial, aunque de alta atenuación (sin CIV), que se corresponde con metástasis hemorrágicas. No se objetiva efecto de masa significativo sin evidencia de desplazamiento de línea media ni del sistema ventricular. RMN cráneo (03/2016): Numerosas lesiones ocupantes de espacio intraaxiales supratentoriales hemisféricas bilaterales y en hemisferio cerebeloso izquierdo compatibles con depósitos secundarios.
+Se consideró que dichas metástasis cerebrales, dado que fueron halladas de manera casual, ya las presentaba al diagnóstico y antes de comenzar con el Crizotinib, pero como eran múltiples y una de ellas tenía un componente hemorrágico, se decidió remitir a RT y recibió RT holocraneal paliativa.
+Desde el momento que la paciente inició tratamiento con Crizotinib, presentó una mejoría muy importante de la clínica respiratoria con disminución progresiva de los accesos de tos, mejorando su calidad de vida, siendo cada vez menos incapacitantes.
+
+Evolución
+Resumen de situación clínica e historia oncologica: Mujer de 67 años con diagnostico adenocarcinoma de pulmón T4 N3 M1b, Estadio IVB (metástasis ganglionares supra e infradiafragmáticas, suprarrenal izquierda, esplénicas, óseas y cerebrales). EGFR negativo. Inicio de tratamiento quimioterapico con Cisplatino + Pemetrexed (inicio 27/01/16). Tras obtener resultado de mutación ALK positivo se cambió a crizotinib (28/02/2016) por urgencia clínica.
+Ante el hallazgo casual de metástasis cerebrales, se añade RT holocraneal paliativa. Respuesta clínica importante.
+
+INGRESO MAYO 2016:
+La paciente acude a urgencias por malestar general, tos, expectoración y sensación diatérmica. A su llegada a urgencias, la paciente se encuentra en situación de shock (TA: 73/46, FC: 116, FR: 16, saturación de oxigeno basal 75% y temperatura de 37. 6ºC). Analíticamente destaca leucocitosis (11.52 10^3/μL), alcalosis respiratoria con hipoxemia y proteína C reactiva de 263. No se aprecian consolidaciones pulmonares en la radiografía de tórax. Se realiza nuevo TAC craneal sin novedades respecto a previo. Durante la estancia en Urgencias y tras inicio de antibioterapia empírica y sueroterapia y oxigenoterapia la paciente mantiene tensiones bajas, taquicardica, taquipneica, mal estado general y saturación por debajo de 90% con Vmask a alto flujo, requiriendo aumento de dosis de diuréticos, broncodilatadores y corticoides en bolo sistémico, logrando cierta estabilidad clínica y hemodinámica. Presenta un cuadro de sepsis de probable origen respiratorio con shock séptico e insuficiencia respiratoria con situación respiratoria muy comprometida.
+
+En urgencias surge la duda acerca de la indicación de consultar con la Unidad de Cuidados Críticos del hospital para valoración de dicha paciente; ante lo cual surge la siguiente pregunta: ¿Es candidata una paciente con carcinoma no microcitico de pulmón estadio IV con tratamiento activo reciente con terapia dirigida (crizotinib) a ingreso en UCI?

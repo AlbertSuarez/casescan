@@ -1,0 +1,18 @@
+Anamnesis
+Varón de 65 años, con antecedentes de hipertensión arterial, enfermedad pulmonar obstructiva crónica secundaria a tabaquismo y exposición a asbesto, es diagnosticado en noviembre del 2013, a raíz de un derrame pleural masivo, de un mesotelioma estadio IV (T4N0M0), destacando en estudio de extensión múltiples engrosamientos nodulares sugestivos de implantes pleurales sin evidencia de enfermedad diseminada (por TC y PET), que se confirma mediante biopsia pleural, con resultado de proliferación mesotelial con inmunohistoquímica positiva para CK5/6 y calretinina. Requiere toracocentesis evacuadora y pleurodesis, iniciando primera línea paliativa con esquema cisplatino/pemetrexed (fin en mayo 2014) con buena tolerancia y respuesta parcial. Tras 6 ciclos, inicia seguimiento con enfermedad controlada hasta que, en enero del 2016, progresa a nivel pleural y con masa de partes blandas, por lo que se inicia segunda línea con carboplatino/pemetrexed (fin en abril 2016). En septiembre de 2016 presenta nueva progresión pleural e infiltración de la pared del hipocondrio izquierdo con masa de partes blandas, iniciando tercera línea con vinorelbina (fin en diciembre 2016), consiguiendo estabilidad de la enfermedad. En septiembre del 2017, nueva progresión a nivel pleural, ganglionar, infiltrando esófago distal, pared torácica, décimo segundo arco costal izquierdo, músculos oblicuos y cuadrado lumbar ipsilateral. Se decide incluir en estudio fase I, recibiendo primer ciclo de anetumab ravtansina el 06 de septiembre del 2017.
+Tras recibir el quinto ciclo de anetumab ravtansina, presenta cuadro clínico de 3 días de evolución caracterizado por una erupción dolorosa a modo de máculas, placas y lesiones habonosas en miembros superiores, palmas y cuero cabelludo que se asocian a fiebre y artralgias generalizadas.
+
+Exploración física
+ECOG 1, buen estado general, eupneico en reposo, presenta máculas y placas eritematosas, dolorosas y sobreelevadas en cara, brazos, tronco y palmas. En pared torácica izquierda, presenta tres masas estables en relación con progresión de la enfermedad de 5, 8 y 12 cm. No tiene adenopatías palpables. Auscultación pulmonar con hipofonesis de 2/3 inferiores de hemitórax izquierdo, ruidos rítmicos sin soplos. Abdomen sin alteraciones, masas ni megalias. Exploración neurológica normal.
+
+Pruebas complementarias
+En la analítica destacan neutrófilos 14.400 y, en la anatomía patológica, de un punch de piel se observa infiltrado neutrofílico en panículo adiposo, compatible con síndrome de Sweet profundo.
+
+Diagnóstico
+Cumple los criterios diagnósticos para el síndrome de Sweet inducido por drogas: placas o nódulos eritematosos y dolorosos de aparición súbita asociado a fiebre > 38°C, con hallazgo histopatológicos de infiltrado neutrofílico denso sin evidencia de vasculitis. Cumpliendo criterios menores como una relación temporal entre la toma del fármaco y la aparición de las lesiones y la resolución después del tratamiento con corticosteroides, sin recidivas.
+
+Tratamiento
+Se indica prednisona 50 mg al día durante 5 días, y después se indica una pauta descendente de corticoides, reduciendo un tercio de la dosis cada 5 días hasta suspender.
+
+Evolución
+A las 48 horas de iniciado el tratamiento, desaparecen todas las lesiones cutáneas. Se decide reducción de dosis de anetumab ravtansina y el paciente se mantiene libre de recaídas cutáneas, recibiendo actualmente el séptimo ciclo con enfermedad estable.

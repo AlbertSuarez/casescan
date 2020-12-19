@@ -1,0 +1,25 @@
+Anamnesis
+Varón de 68 años sin antecedentes médico-quirúrgicos de interés, nunca fue fumador, que consulta en agosto de 2016 por cuadro de tos y disnea progresiva de dos meses de evolución, que se hace de mínimos esfuerzos en la semana previa a su llegada a Urgencias y sin otros síntomas asociados.
+
+Exploración física
+ECOG PS 1, sin alteraciones relevantes en el examen físico excepto taquicardia de 120 lpm y taquipnea ligera de 24 rpm.
+
+Pruebas complementarias
+A su llegada a Urgencias, se realiza hemograma y bioquímica que son normales, la gasometría arterial evidencia hipoxemia y la radiografía de tórax muestran una masa pulmonar hiliar izquierda asociada a patrón retículo nodular bilateral con compromiso de todos los lóbulos pulmonares. Ingresa para estudio en Medicina Interna.
+Se realiza una TC toraco-abdominal que confirma la presencia de una masa en lóbulo pulmonar superior izquierdo que afila las arterias segmentarias del mismo lóbulo, y rodea al bronquio principal, asociándose a una extensa afectación intersticial sugestiva de linfangitis carcinomatosa, nódulos milimétricos pulmonares con distribución aleatoria, derrame pleural derecho y afectación metastásica en esqueleto axial.
+Se solicita broncoscopia en la que se observa engrosamiento de la carina e infiltración mucosa del bronquio principal izquierdo; se toman de muestras para estudio microbiológico y se biopsia la masa hiliar izquierda. Los cultivos descartan proceso infeccioso, incluidas infecciones por micobacterias.
+Citología de líquido pleural: adenocarcinoma compatible con origen pulmonar (napsina y TTF-1 positivos).
+Biopsia pulmonar: adenocarcinoma de pulmón con mutación en EGFR (deleción del exón 19 y S768I en exón 20).
+Se realiza biopsia líquida en sangre y líquido pleural que confirma la presencia de la mutación en ambos.
+
+Diagnóstico
+Adenocarcinoma de pulmón cT4cMxpM1b (estadio IVb-TNM 7ª ed.), con mutación en EGFR tipo deleción del exón 19.
+
+Tratamiento
+El paciente inicia en septiembre de 2016 tratamiento de primera línea con afatinib 40 mg/día.
+
+Evolución
+Tras dos semanas del inicio del tratamiento con afatinib, el paciente presenta resolución completa de los síntomas basales, lo que le permite retirar el oxígeno domiciliario y en la radiografía de tórax de control se objetiva una importante mejoría de la afectación intersticial pulmonar bilateral y disminución de la masa hiliar izquierda.
+El paciente presenta toxicidad cutánea grado 2 (dermatitis acneiforme) e intestinal grado 2 (diarrea), por lo que se reduce la dosis de afatinib a 30 mg/día y se resuelve completamente la toxicidad, manteniendo la respuesta clínica y radiológica confirmada por TC y disminución en sangre de las copias de ADN tumoral circulante.
+Se mantiene seguimiento con controles clínicos, TC y biopsia líquida en sangre sin incidencia hasta abril de 2017, cuando se objetiva una discreta progresión radiológica de la afectación pulmonar y ósea, coincidiendo con la detección en sangre periférica de la mutación de resistencia T790M del exón 20 con una fracción del alelo mutado del 0,4 % y, por tanto, una supervivencia libre de progresión de 8 meses. Considerando que la progresión es mínima se mantiene afatinib; sin embargo, el paciente ingresa por neumonía bilateral FINE V y aumento del derrame pleural derecho que requiere tratamiento antibiótico de amplio espectro, posterior drenaje del derrame pleural y pleurodesis.
+Se realiza estudio de biopsia líquida en líquido pleural, detectándose un aumento de la fracción de T790M en éste con ausencia de detección de la mutación S768I, por lo que tras la resolución del proceso infeccioso se inicia tratamiento con osimertinib 80 mg/día el 10 de mayo de 2017 con excelente tolerancia, resolución completa de la sintomatología y mejoría radiológica determinada por TC, con un tiempo libre de progresión de al menos 2 meses con osimertinib en el momento de la descripción de este caso.

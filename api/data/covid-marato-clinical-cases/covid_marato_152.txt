@@ -1,0 +1,20 @@
+Anamnesis
+Paciente de 54 años, sin alergias conocidas, fumador activo de 1 paquete al día; sin criterios de broncopatía, y sin antecedentes personales o familiares de interés. En diciembre de 2010 consulta a su médico de cabecera por cambio del ritmo deposicional y dolor abdominal de características cólicas, de 4 meses de evolución, sin asociarse síndrome tóxico ni otros síntomas.
+
+Examen físico
+En la exploración física destaca hepatomegalia de 4 traveses de dedos y leve dolor a la palpación en hemiabdomen derecho. Sin signos de irritación peritoneal y con peristaltismo conservado. Auscultación cardiorrespiratoria dentro de los límites de la normalidad. Sin focalidad neurológica y sin evidencia de adenopatías palpables.
+
+Pruebas complementarias
+Se realizaron las siguientes exploraciones complementarias:
+Analítica general: CEA 71 ng/ml, sin otras alteraciones.
+Fibrocolonoscopia (enero de 2011): lesión estenosante que no permite el paso del endoscopio a 80 cm del margen anal, realizando biopsias que resultaron positivas para adenocarcinoma, KRAS nativo, sin otras alteraciones en en el intestino explorado. Se completó el estudio con colo-tomografía computarizada (TC), TC toracoabdominal y tomografía por emisión de positrones (PET) (febrero de 2011): múltiples lesiones ocupantes de espacio y hipercaptantes en los segmentos II, III, IVb, V, VI, VII y VIII hepáticos, con engrosamiento de las paredes del colon transverso a nivel del ángulo esplénico (SUVmáx 15) y adenopatías locorregionales.
+
+Diagnóstico
+Se orienta como paciente portador de adenocarcinoma de colon transverso estadio IV, cT3N1M1 (hepáticas múltiples y bilobares). Comentado caso en Comité Multidisciplinar, las metástasis hepáticas se consideran irresecables.
+
+Tratamiento
+Se incluye en Ensayo Clínico Fase II, iniciando tratamiento con FOLFOX4m + cetuximab bisemanal. Tras 4 ciclos, se observó respuesta radiológica parcial según criterios RECIST. Tras 8 ciclos, en julio de 2011 se objetivó respuesta parcial mantenida y normalización del CEA a 3,3 ng/ml. Tras completar el 30.º ciclo, se presentó nuevamente en Comité con resultados radiológicos y de PET, observándose desaparición de las lesiones hepáticas y disminución de la lesión colónica (SUVmáx 13), considerándose candidato a cirugía hepática. En octubre de 2012, se realizó bipartición hepática en dos tiempos. Anatomía patológica: adenocarcinoma de bajo grado metastásico, con grado de regresión tumoral de >90 %.
+
+Evolución
+En enero de 2013 se realizó hemicolectomía derecha.
+Anatomía patológica: adenocarcinoma de bajo grado que infiltra tejido adiposo, con 0 ganglios afectos de 37 resecados, ypT3 N0, CEA postquirúrgico 2,83 ng/ml. Completó adyuvancia con fluoracilo-cetuximab. Actualmente sin evidencia de recidiva.

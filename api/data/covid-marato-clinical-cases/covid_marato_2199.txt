@@ -1,0 +1,22 @@
+Anamnesis
+Se presenta el caso de una mujer de 39 años, administrativa en paro, casada y con un hijo de 10 meses de edad. No presentaba antecedentes médicos de interés. Tomó anticonceptivos orales durante años. Menarquia a los 13 años. Fecha de última regla el 07/02/2013. G1A0P1, fecha de parto 30/04/2012. Operada de forúnculos en ambas mamas. No presentaba antecedentes familiares oncológicos.
+Dos meses antes de dar a luz comenzó a notar una tumoración en mama derecha por lo que acudió a su ginecólogo, quien le recomendó esperar para ver la evolución tras el parto. Una vez dio a luz, la tumoración siguió aumentando de tamaño por lo que su ginecólogo le solicitó una mamografía y una ecografía.
+
+Exploración física
+Durante la exploración física, destacaba un nódulo de 8 cm de diámetro máximo en cuadrante superior externo de mama derecha, doloroso, adherido a planos profundos y sin infiltración de piel.
+
+Pruebas complementarias
+Se realizó una ecografía de mama derecha, donde se identificó una masa hipoecoica con microcalcificaciones de márgenes irregulares, mal definidos, de tamaño indeterminado alcanzando al menos 6 cm de diámetro máximo que ocupaba la unión de los cuadrantes superiores, parte del cuadrante superior externo y parte del interno. Presentaba nódulos satélite y una adenopatía en axila derecha con cortical marcadamente engrosada.
+El estudio anatomopatológico de dicho nódulo mediante biopsia fue descrito como carcinoma ductal infiltrante con PAAF axilar positiva, receptores de estrógeno (RE) +++, receptores de progesterona (RP) +++, HER-2 +++.
+En la TC que se realizó como parte del estudio de extensión se objetivaron múltiples metástasis hepáticas en ambos lóbulos, las de mayor tamaño de entre 3 y 4 cm, ubicándose en los segmentos IV y VIII.
+En la gammagrafía ósea no se visualizaron metástasis óseas.
+Posteriormente, se objetivaron por TC lesiones blásticas en la apófisis transversa de D7 y en el cuerpo vertebral D10 que no estaban presentes en estudios previos.
+
+Diagnóstico
+Carcinoma ductal infiltrante de mama derecha, cT3N1M1, estadio IV, RE+++, RP+++, HER-2+++.
+
+Tratamiento
+En febrero de 2013, la paciente se incluyó en el ensayo clínico PERUSE (estudio fase IIIb, abierto, multicéntrico, que se activó en mayo de 2012 y cuyo objetivo primario fue analizar la seguridad y eficacia de pertuzumab y trastuzumab en combinación con quimioterapia con taxanos en primera línea de tratamiento, en un amplio grupo de mujeres con cáncer de mama HER-2+ localmente recurrente o metastásico12), e inició quimioterapia con el esquema docetaxel-pertuzumab-trastuzumab. Tras el primer ciclo la paciente presentó mucositis grado III y toxicidad hematológica, por lo que continuó con paclitaxel-trastuzumab-pertuzumab entre abril y junio de 2013, suspendiéndose finalmente por mucositis grado III y neurotoxicidad grado III. Desde julio de 2013, hasta la actualidad la paciente ha permanecido con trastuzumab-pertuzumab cada 21 días y tamoxifeno 20mg/día-goserelina trimestral.
+
+Evolución
+A los ocho meses del inicio del tratamiento, ya se pudo comprobar por TC la regresión de dichas metástasis hepáticas hasta convertirse en lesiones milimétricas. Así mismo, las lesiones óseas se describían como lesiones escleróticas puntiformes. Hasta el momento, la paciente ha permanecido con enfermedad estable, describiéndose todas sus pruebas complementarias de control como la descrita en octubre de 2013, sin cambios. Actualmente, la paciente presenta un ECOG 1 por mucositis grado I y dolor crónico mixto que está siendo controlado por la Unidad de Cuidados Paliativos. En la exploración física destaca un nódulo

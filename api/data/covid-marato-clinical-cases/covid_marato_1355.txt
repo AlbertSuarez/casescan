@@ -1,0 +1,29 @@
+Anamnesis
+Mujer de 54 años con antecedentes de hipertensión arterial e hipotiroidismo, no portadora de mutación germinal BRCA 1/2.
+Su historia oncológica se inicia en Abril de 2014 cuando es diagnosticada de un carcinoma seroso papilar de ovario de alto grado, estadio IIIC de la FIGO 2014 no tributaria de cirugía de citorreducción primaria tras realización de laparoscópia diagnóstica. Inicia tratamiento con carboplatino AUC6-paclitaxel 175 mg/m2 (CBDCA-TXL) con intención neoadyuvante, completa 3 ciolcos de tratamiento de abril a mayo de 2014. En Julio de 2014 se realiza cirugía reglada de intérvalo óptima (sin enfermedad macroscópica residual, TR0).
+El resultado de anatomía patológica concluye que se trata de un carcinoma seroso papilar de alto grado de ovario con infiltración uterina, peritoneal y afectación de ganglios pélvicos (1/7) y paraórticos (1/8).Tras la cirugía completa 3 ciclos de CBDCA-TXL que finaliza en septiembre de 2014.
+En junio de 2015 con un intervalo libre de platino de 9 meses presenta recidiva radiológica a nivel hepático y peritoneal, con CA 125 de 261.2. Dada la sensibilidad intermedia al platino realiza 6 ciclos de tratamiento con CBDA AUC6-TXL 175 mg/m2 (desde junio de 2015 a octubre de 2015), obteniendo una respuesta parcial radiológica y serológica (disminución >75% del marcador, nadir de 38). Durante el tratamiento la paciente presenta una neurotoxicidad G2 con requerimientos de reducción de dosis de paclitaxel.
+La paciente realiza controles periódicos objetivando una elevación progresiva del CA-125 pero sin presentar progresión clínica ni radiológica.
+La paciente acude a urgencias en enero de 2016 por debilidad muscular asociado a lesiones cutáneas y disfonía.
+
+Exploración física
+En la exploración se objetiva a nivel facial rash eritematoso en heliotropo, con edema palpebral asociado. En el tórax presenta lesiones eritematosas y telangiectasias. En ambas manos se objetivan lesiones papulosas compatibles con pápulas de Gottron. A nivel muscular presenta debilidad, simétrica y proximal de predominio en cinturas escapular y pélvica. La paciente también refiere disfagia y disfonía leve, con empeoramiento progresivo y sin visualizarse lesiones evidentes a nivel de la faringe.
+
+Pruebas complementarias
+- Electromiograma: signos de miopatía en la musculatura proximal de extremidades superiores e inferiores pero sin signos de destrucción muscular.
+- Analítica con autoinmunidad: analíticamente presenta discreta anemia normocítica con Hb de 11.5 g/dL, función renal conservada (creatinina de 0.58 mg/dL) y creatin kinasa de 300. Los Ac Antinucleares son positivos a título 1/80 presentando patrón clapeado, siendo los anticuerpos antimúsculo liso (ASMA), antimitocondriales (AMA), antimicrosoma hepático y renal (LKM) y anticélulas parietales gástricas así como el anticoagulante lúpico, todos ellos negativos. Por otro lado, destaca la positividad (fuerte) del anticuerpo anti TIF1 gamma. Se realiza también perfil tiroideo sin objetivarse alteraciones de la tiroxina ni de la tirotropina.
+- Biopsia muscular: en la que se describe atrofia perifascicular, infiltrado perivascular y perimisial por linfocitos CD4 y Linfocitos B, hallazgos que confirman el diagnóstico de dermatomiositis.
+
+Diagnóstico
+El resultado de las pruebas incluyendo el informe de a biopsia muscular y la positividad del anti-TIF1 gamma resulta compatible con el diagnóstico de DERMATOMIOSITIS PARANEOPLÁSICA.
+
+Tratamiento
+Ante el diagnóstico de dermatomiositis paraneoplásica se inicia tratamiento con prednisona 60 mg/día, ciclosporina 150 mg/12 horas e inmunoglobulina 30 gr/día durante 5 días cada 28 días. En cuanto a su enfermedad oncológica, la paciente se encuentra asintomática, con progresión serológica pero manteniendo respuesta parcial mantenida radiológica, motivo por el que no se inicia tratamiento oncológico y continúa controles.
+
+Evolución
+En los primeros días, tras iniciar el tratamiento, la astenia y la disfagia presentaron una franca mejoría en comparación con la debilidad muscular y las lesiones cutáneas que fueron mejorando progresivamente, resolviéndose de forma completa en el segundo mes de tratamiento.
+Sin embargo, en marzo de 2016 al realizarse nueva revaloración de la enfermedad oncológica mediante TC toracoabdominal se objetiva progresión hepática, peritoneal y engrosamiento de la pared colorrectal.
+Se trata de una progresión con criterios de platino resistencia dado que el ILP es de 5 meses. Teniendo en cuenta que el tratamiento inmunosupresor es criterio de exclusión para múltiples ensayos clínicos, la paciente inicia tratamiento con doxorrubicina liposomal pegilada (PLD).
+Dado que la paciente estaba realizando tratamiento con ciclosporina, fue necesario valorar el riesgo de interacciones farmacológicas entre el tratamiento inmunosupresor y la quimioterapia:
+Las inmunoglobulinas no presentan interacciones farmacológicas con la PLD. En cuanto al efecto concomitante de la ciclosporina y la PLD, puesto que esta última es un sustrato de la glicoproteina P, siendo la ciclosporina un potente inhibidor de la misma podría aumentar la concentración plasmática de la doxorrubicina con su consecuente toxicidad. Por este motivo, y a pesar de que la dosis de ciclosporina que recibía la paciente era relativamente baja (3.5 mg/kg/día), se disminuyó la dosis de PLD un 20%, buscando evitar posibles efectos adversos de la doxorrubicina.
+Actualmente la paciente presenta discretas mialgias, bien toleradas, secundarias a la dermatomiositis, con resolución del resto de síntomas. Como toxicidades a la PLD ha presentado mucositis G2 y náuseas y neurotoxicidad G1 tras los 3 primeros ciclos de tratamiento.

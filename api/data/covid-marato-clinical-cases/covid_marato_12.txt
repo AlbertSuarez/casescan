@@ -1,0 +1,65 @@
+ANAMNESIS
+Varón de 58 años con antecedentes personales de tabaquismo activo con un consumo acumulado de 40 años/paquete, consumo habitual de cannabis y cocaína, y fibrilación auricular paroxística anticoagulada con Enoxaparina 80mg cada 12 horas. El paciente es valorado por primera vez en consultas externas de Neumología en agosto de 2018 por detección de hallazgo incidente de masa pulmonar en lóbulo inferior derecho. Desde consultas externas de neumología, se completa estudio con TC y biopsia con aguja gruesa (BAG) pulmonar quedando pendiente de resultado anatomopatológico. Acude a Urgencias en septiembre de 2018 por aumento de disnea habitual, ortopnea y dolor torácico de características pleuríticas. No tos, expectoración ni autoescucha de ruidos respiratorios. No otra sintomatología de interés.
+
+EXPLORACIÓN FÍSICA EN URGENCIAS
+- ECOG: 2, frecuencia respiratoria: 24 respiraciones por minuto, normotenso y afebril, SatO2: 83%.
+- Auscultación cardíaca: Arrítmico sin soplos.
+- Auscultación pulmonar: Disminución del murmullo vesicular en hemitórax derecho.
+- Extremidades inferiores: Edemas grado 2 en ambos miembros inferiores.
+
+PRUEBAS COMPLEMENTARIAS
+Análisis de sangre
+Bioquímica: Proteína C Reactiva: 27.1 mg/L, NT-proBNP: 339 pg./mL, resto normal.
+Hemograma y Hemostasia normal.
+Radiografía de tórax
+Opacificación de campo pulmonar derecho completo con desplazamiento de mediastino hacia la izquierda.
+
+ECG
+Ritmo sinusal a 80 latidos por minuto. No otras alteraciones significativas.
+
+TC toracoabdominal (agosto de 2018)
+Masa en lóbulo inferior derecho con extensión a lóbulo medio de 116x86x83 mm de aspecto heterogéneo con aspecto quístico-necrótico. Contacto con pleura costal. Pequeños nódulos satélite en lóbulo inferior derecho, el mayor subpleural de 25mm. Derrame pleural derecho leve. La masa se extiende proximalmente hacia el hilio derecho alcanzando la vena pulmonar inferior derecha y se insinúa en aurícula derecha como un trombo tumoral.
+Masa en segmento apicoposterior de lóbulo superior izquierdo de 45x34x35mm. Contacto con pleura costal. Nódulo satélite en el mismo lóbulo de 14mm.
+Adenopatías subaórticas y paraórticas quístico-necróticas sugestivas de malignidad. Pequeñas adenopatías sospechosas de malignidad a nivel retroperitoneales y en ligamento gastrohepático. No otras lesiones sospechosas de malignidad
+
+PET-TC (septiembre de 2018)
+Lesiones de características metabólicas malignas en gran masa de pulmón derecho que se extiende por lóbulo inferior derecho y lóbulo medio llegando hasta región subcarinal, masa en lóbulo inferior izquierdo y nódulo adyacente. Implantes pulmonares derechos.
+Derrame pleural derecho ametabólico. Lesión en seno piriforme izquierdo hipercaptante. Lesión hipermetabólica en aurícula izquierda en contexto de trombo versus metástasis a valorar mediante ecocardiografía.
+
+Ecocardiografía transtorácica
+Masa heterogénea de 44x23cm en techo de aurícula izquierda con extensión hacia plano valvular sin interferencia con la movilidad que parece proceder de la vena pulmonar sin dependencia del septo interauricular. Origen tumoral como primera posibilidad diagnóstica.
+
+RMN Craneal
+Angioma venoso frontal derecha. Enfermedad isquémica de pequeño vaso. Ausencia de lesiones ocupantes de espacio (LOEs) sugestivas de metástasis
+
+
+ANATOMÍA PATOLÓGICA
+BAG de lesión de lóbulo inferior derecho
+Proliferación neoplásica que representa menos del 10% del material remitido, correspondiendo el resto a necrosis tumoral. Celularidad poco cohesiva con núcleos de pleomorfismo moderado, hipercromáticos, sin presencia de nucléolo y con frecuentes imágenes de apoptosis Positividad focal para vimentina, pan-citoqueratina, ALC, EMA y S100. No es posible filiar con los datos en la muestra el origen primario de la neoplasia pudiendo ser pleural (mesotelioma), de partes blandas (sarcoma) o epitelial (carcinoma sarcomatoide) como principales opciones diagnósticas.
+
+BAG de lesión de lóbulo superior izquierdo
+Escaso tejido valorable. Proliferación de células epiteliales neoplásicas grandes, de citoplasma claro, sobre estroma sarcomatoide. Carcinosarcoma o carcinoma escamoso de células claras como opciones diagnósticas más probable sin ser posible poder confirmar el diagnóstico dada la alta probabilidad de que se trate de un tumor heterogéneo. 80% de células tumorales positivas para PD-L1.
+
+Biopsia de masa pleural derecho obtenida por cirugía torácica asistida por vídeo (VATS)
+Infiltración pleural por neoformación maligna con doble componente celular neoplásico. Principal componente de células indiferenciadas con positividad en inmuhistoquímica para p63, p40 y Vimentina que abarca el 85% de la muestra y segundo componente mesenquimal con positividad en inmunohistoquímico para Vimentina, Pan-citoqueratina, AML y AME. Dicha estructura es compatible con carcinosarcoma. Ki67 del 80%.  Negativo para expresión de PD-L1
+
+JUICIO DIAGNÓSTICO
+Carcinosarcoma pulmonar estadio IV (pulmonares, ganglionares y auriculares)
+Derrame pleural derecho
+Masa en lóbulo superior izquierdo PD-L1 80%
+Masa en lóbulo inferior derecho PD-L1 negativa
+
+TRATAMIENTO
+Quimioterapia de primera línea con Carboplatino y Paclitaxel
+O2 domiciliario durante 24 horas
+
+EVOLUCIÓN
+A su valoración en Urgencias, dada la presencia de desaturación y derrame pleural derecho masivo en radiografía de tórax se procede a colocación de pigtail torácico con extracción de 3 litros de líquido de consistencia serohemática con mejoría de su sintomatología. Se cursa ingreso del paciente a cargo de Neumología.
+El resultado de BAG pulmonar informa de la presencia de un tumor indiferenciado con dificultad para la obtención de un diagnóstico definitivo, recomendándose la obtención de más material para mejor caracterización. Se realiza segunda BAG sobre lesión del lóbulo superior izquierdo sin obtener muestra suficiente para estudio. Se comenta el caso en comité de tumores torácicos y se decide contactar con hospital de referencia de nuestro centro en cirugía torácica para realización de biopsia mediante VATS.
+Tras realización de esta última, el paciente pasa a cargo del servicio de oncología siendo este el primer contacto del paciente con nuestro servicio.
+Dada la presencia de foco hipermetabólico en seno piriforme izquierdo que podría corresponder al tumor primario, ya que la histología obtenida en la muestra de la masa pulmonar del lóbulo superior izquierdo era más compatible con un origen primario en hipofaringe, solicitamos valoración por ORL. No obstante, no se objetiva lesión en exploración ORL directa que explique causa de foco metabólico por lo que no es posible realización de biopsia.
+Tras alta del paciente, comentamos el caso en sesión conjunta. Se decide finalmente inicio de tratamiento con quimioterapia con carboplatino y paclitaxel. Iniciamos tratamiento antineoplásico el día 10 de octubre de 2018.
+No pautamos tratamiento con anti-PDL1 por ausencia de expresión de PD-L1 en masa pulmonar derecha (masa de mayor tamaño), y sospecha de tumoración con doble componente celular neoplásico en la que el componente de “supuesta”mayor agresividad presentaba negatividad para PD-L1.
+La TAC de reevaluación tras 2º y 4º ciclo de tratamiento informa de disminución del tamaño de ambas masas pulmonares (respuesta parcial). Adicionalmente, el paciente ha presentado mejoría clínica con disminución del grado de disnea y menores necesidades de oxígeno domiciliario. El paciente ha presentado buena tolerancia al tratamiento presentando únicamente astenia, artralgias y neurotoxicidad grado 2. Recibió un total de 5 ciclos de tratamiento con este régimen quimioterápico.
+A finales de enero de 2019 el paciente presenta progresión de enfermedad a nivel de sistema nervioso central con aparición de metástasis parietal derecha con contenido hemático volviendo a ingresar a cargo de Oncología. Durante su ingreso presenta rápido deterioro neurológico siendo subsidiario de tratamiento sintomático exclusivo.
+Finalmente, el paciente fallece en febrero de 2019.

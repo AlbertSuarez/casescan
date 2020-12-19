@@ -1,0 +1,25 @@
+Anamnesis
+Paciente varón de 50 años en 2009, natural de China, residente en España hace más de 10 años.
+Como antecedente relevante en agosto de 2009 a raíz de rectorragias es diagnosticado de un adenocarcinoma mucinoso de recto bajo cT4N2M0, ( CEA: 2.5 μg/l ), realiza neoadyuvancia con quimioradioterapia (Capecitabina-oxaliplatino) en diciembre de 2009 que finaliza en febrero de 2010.
+La resonancia magnética de respuesta muestra enfermedad estable, se procede a resección anterior ultrabaja en mayo de 2010 , grado de regresión 2 ( ypT3pN1); Completa adyuvancia con 3 ciclos de capecitabina - oxaliplatino en junio de 2010. El paciente abandona controles.
+En octubre de 2015 , acude a urgencias por náuseas, vómitos y deterioro del estado general de pocas semanas de evolución.
+
+Exploración física
+Alerta, orientado, sin focalidad neurológica, hemodinámicamente estable, afebril y eupnéico; destaca ictericia cutánea y hepatomegalia no dolorosa.
+
+Pruebas complementarias
+En urgencias:
+En la analítica se evidencia anemia macrocítica severa con rasgos hemolíticos no autoinmunes (Hg 4.2 g/L, VCM 111 fL, LDH 1300 U/L, Test de coombs directo negativo, Bilirrubina total 101 umol/l , Bilirrubina conjugada 18 umol/l, haptoglobina 0.14 g/l, esquistocitos en sangre periférica y reculocitosis 18%), trombocitopenia progresiva (inicialmente 112000/ml luego 80000/ml) y deterioro de la función renal ( 178 umol/l - 2.01 mg/100ml); perfil hepático y coagulación en rangos normales. El estudio microbiológico de orina y heces no muestra ninguna bacteria; la ecografia abdominal objetiva un quiste en lóbulo hepático derecho y una lesión sólida en el Izquierdo, sin dilatación de la vía biliar.
+En planta de oncología: Se realiza un TAC tóraco- abdominal en el que se encuentrauna lesión metastásica ósea escapular derecha, múltiples lesiones hepáticas , infiltración de la grasa del lecho quirúrgico y adenopatia obturatriz , así como múltiples lesiones en cuerpos vertebrales dorsales y lumbares. Posteriormente se realiza Biòpsia la lesion escapular que es compatible con metástasis del adenocarcinoma rectal previamente conocido, el estudio molecular no muestra mutaciones en RAS ( KRAS exones 2,3 y 4 , ni en NRAS exones 2,3 y 4) ni BRAF.el CEA inicial fue de 239,40 μg/l.
+
+Diagnóstico
+Probable síndrome hemolítico urémico atípico (SHUA) paraneoplásico.
+
+Tratamiento
+En urgencias requiere transfusión de varios concentrados de hematies, sueroterapia y dada la sospecha inicial de hemólisis autoinmune se inicia tratamiento corticoideo de que se suspende al tener los resultados del Coombs.
+Ingresa en sala de oncología médica en donde se decide iniciar tratamiento sistémico de primera línea con FOLFOX6m (no se contaba con estudio molecular en ese momento). Primer ciclo en noviembre de 2015, realizando un total de 11 ciclos (último en abril de 2016).
+
+Evolución
+Como complicaciones presenta un episodio de fiebre neutropénica G3, astenia y plaquetopenias progresivas. El tratamiento se suspende tras el 11º ciclo por plaquetopenia que obligó a reducciones de dosis (al 80% desde 3º ciclo , 7º ciclo oxaliplatino al 60% y desde 8º 5FU en monoterapia ). Con el tratamiento se consigue una respuesta parcial (enfermedad ósea y adenopática estables , mejoría de las lesiones hepáticas) tras 6 ciclos, que se mantiene tras l ciclo 11 (TAC de mayo de 2016).
+Desde el inicio de tratamiento presenta mejoría progresiva de la hemoglobina , requiriendo cada vez menos transfusiones, normalización de la función renal, correción de los parámetros hemolíticos y descenso progresivo del CEA hasta un nadir de 4.5 μg/l. 
+El 25 de mayo de 2016 (1 mes tras de fin de quimioterapia) acudie a urgencias por astenia diagnosticándose un nuevo episodio de anemia (Hg 67 g/l) y se evidencia posteriormente aumento de la LDH, bilirubina y CEA, sin alteración en la función renal o número de plaquetas. Actualmente se encuentra a la espera de nuevo de TAC de revaloración de la enfermedad.

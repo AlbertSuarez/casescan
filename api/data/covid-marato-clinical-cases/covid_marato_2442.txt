@@ -1,0 +1,33 @@
+Anamnesis
+Paciente de 49 años, sin antecedentes de interés ni hábitos tóxicos que, en mayo de 2007, comienza a ser estudiado por presentar una masa laterocervical derecha palpable de varios meses de evolución sin ninguna sintomatología asociada.
+
+Exploración física
+ECOG 0. Masa laterocervical derecha polilobulaba de consistencia pétrea de 10 cm. Auscultación cardiopulmonar: rítmica sin soplos, murmullo vesicular conservado, no se auscultan ruidos sobreañadidos. Abdomen blando y depresible, sin masas. Miembros inferiores sin alteraciones.
+
+Pruebas complementarias
+Se realiza una tomografía computarizada (TC) cervical en la que se evidencia una masa de 6 cm en el lóbulo tiroideo derecho, así como un conglomerado adenopático derecho de 12,5 cm que se extiende de los niveles II a IV, de densidad heterogénea y con áreas de necrosis en su interior. También se solicita una biopsia guiada por ecografía, que informa de carcinoma papilar de tiroides.
+
+Diagnóstico
+Carcinoma papilar de tiroides cT3N1b, estadio IV.
+
+Tratamiento
+Se interviene, realizándose tiroidectomía total y toma de biopsia del conglomerado adenopático informando esta como positiva para malignidad. Posteriormente, se realizó rastreo con radioyodo en el que no se apreciaba ninguna captación. Se inicia aquí, además, tratamiento con levotiroxina 100 mcg diarios, con el que sigue actualmente, estando en todo momento la TSH suprimida.
+
+Ante un paciente con adenopatías metastásicas cervicales irresecables de carcinoma papilar tiroideo con rastreo negativo, se decide realizar tratamiento con doxorrubicina 10 mg/m2 semanal concomitante a radioterapia.
+
+Evolución
+En un control radiológico realizado tres meses después de finalizada la concomitancia, presenta progresión de la enfermedad a nivel pulmonar evidenciándose nódulos de hasta 13 mm distribuidos por todo el parénquima pulmonar, así como estabilidad de la lesión ganglionar cervical.
+
+En este momento, conociendo la escasa respuesta de estos tumores a la quimioterapia convencional y a falta de otras opciones terapéuticas, se solicita el uso compasivo de sorafenib, basándose en la reciente publicación entonces de un ensayo clínico fase II con dicho fármaco en esta neoplasia. Se consiguió una respuesta parcial, reduciéndose el conglomerado adenopático cervical hasta a 63 mm de diámetro máximo en la TC solicitada a los seis meses de iniciado el tratamiento. Desde noviembre de 2008 la enfermedad se mantuvo estable en las reevaluaciones sucesivas.
+
+El paciente ha estado en tratamiento con sorafenib a dosis de 800 mg diarios hasta febrero de 2013, fecha en la que precisó una reducción de dosis a 400 mg al día tras presentar crisis hipertensivas
+
+Además, se prescribió telmisartán 80 mg diarios con buen control posterior de las cifras tensionales.
+
+En mayo de 2014 se observa en la TC de control lesión cavitada de pared fina en el lóbulo superior derecho que informan como posible aspergiloma. El paciente se encontraba asintomático. Una vez confirmado este diagnóstico con precipitinas séricas, inicia tratamiento con itraconazol oral 100 mg, que ha mantenido hasta la actualidad.
+
+En octubre de 2014 se evidencia en la TC craneocervical, realizada para el seguimiento de la enfermedad ganglionar cervical, una lesión de 5 mm a nivel subcortical frontal izquierdo de dudosa significación. Se amplía el estudio con la petición de una resonancia magnética nuclear (RM) craneal que confirma la existencia de una lesión única a ese nivel de 6 mm compatible con enfermedad metastásica.
+
+Ante este hallazgo, y dado que se trata de una lesión única milimétrica en un paciente con el resto de la enfermedad metastásica en otras localizaciones controladas, se decide enviar a radiocirugía, recibiendo dicho tratamiento en noviembre de 2014 con una fracción única de 14 Grays (Gy).
+
+Desde entonces el paciente se encuentra asintomático, persiste su excelente calidad de vida y en la última reevaluación de mayo de 2015 la enfermedad permanece estable.

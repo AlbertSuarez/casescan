@@ -1,0 +1,27 @@
+Anamnesis
+Paciente varón de 51 años, de origen extranjero, con antecedente de sarcoma testicular estadio I en 2005, diagnosticado y tratado en su país de origen mediante orquiectomía izquierda con control posterior mediante tomografía axial computarizada de tórax-abdomen-pelvis (TC TAP) sin hallazgos de enfermedad. Sin otros antecedentes personales ni familiares referidos.
+En junio de 2014, acude a la consulta de nuestro centro por dolor en la primera articulación carpo-metacarpiana de la mano izquierda de dos meses de evolución, de intensidad progresiva, que no responde a tratamiento analgésico de primer escalón (paracetamol 1 g/ 8 horas). Es valorado por el Servicio de Traumatología donde e inicia estudio con radiografía simple, gammagrafía articular y resonancia magnética (RM) de la mano izquierdam, definiéndose una lesión lítica en hueso escafoides, con destrucción ósea y pérdida de planos con huesos adyacentes, sin poder discernir si se trata de una lesión ósea primaria o de tejidos blandos adyacentes al hueso.
+En septiembre de 2014, se presenta el caso clínico en el Comité Multidisciplinar de Tumores Óseos y Sarcomas de Partes Blandas (CMTOSPB) tras toma de Biopsia con Aguja Gruesa (BAG) de la lesión escafoidea con resultado anatomopatológico de Tumor maligno indiferenciado de células redondas inclasificable, motivo por el que se deriva al Servicio de Oncología Médica.
+
+Exploración física
+El paciente presenta un performance status (PS) de 0. Tumoración sólida de 2 cm de diámetro en la región dorsal de la mano izquierda, adherida a planos profundos, dolorosa durante la palpación superficial y la movilización activa y pasiva de la muñeca con limitación parcial de la movilidad.
+Orquiectomía izquierda, con exploración testicular derecha normal. El resto de la exploración física completa por órganos y aparatos estaba dentro de la normalidad.
+
+Pruebas complementarias
+» Analítica completa: hemograma; bioquímica con función renal y hepática, iones, lactado deshidrogenasa, gonadotropina coriónica Humana (betaHCG), alfa fetoproteína (aFP) y antígeno prostático específico dentro de rango normal.
+» Ecografía testicular derecha: sin hallazgos de interés patológico.
+» TC TAP y tomografía por emisión de positrones (PET): describen múltiples metástasis óseas, ganglionares supra e infradiafragmáticas, pulmonares bilaterales, de partes blandas, renal y suprarrenal izquierda, sin poder identificar un tumor primario.
+» Anatomía patológica de BAG de lesión renal izquierda: probable tumor neuroendocrino (TNE) de primario desconocido versus (vs.) recidiva tumoral de sarcoma testicular con un Ki-67: 30-40 %.
+
+Diagnóstico
+Tumor maligno indiferenciado de células redondas inclasificable estadio (E) IV vs. TNE de primario desconocido E IV vs. recidiva de sarcoma testicular E IV.
+
+Tratamiento
+Se decide inicio de tratamiento quimioterápico según esquema cisplatino (90 mg/m2 el día 1) con etopósido (150 mg/m2 los días 1 al 3) endovenoso cada 21 días, con buena tolerancia.
+
+Evolución
+Tras tercer ciclo quimioterápico, con buena tolerancia, se realiza TC TAP de control que describe enfermedad estable, con probable progresión a nivel abdominal.
+Se solicita test genético (CUPRINT) que resulta no concluyente. Ante la duda diagnóstica de probable sarcoma, se decide inicio de tratamiento quimioterápico según esquema VAC (vincristina 1,5 mg/m2; actinomicina D 1,5 mg/m2; ciclofosfamida 1.200 mg/m2) cada 21 días, con buena tolerancia salvo astenia grado 2.
+Tras tercer ciclo de tratamiento, el control de imagen con TC TAP objetiva enfermedad estable. Sin embargo, aparece masa sólida indurada de 0,5 cm de diámetro en cuero cabelludo, indurada, no dolorosa. Se realiza biopsia de dicha lesión, con resultado anatomopatológico compatible con TNE, por lo que se decide reinicio de tratamiento quimioterápico con esquema cisplatino-etopósido cada 21 días.
+A su inicio, el paciente presenta un PS de 1 y, tras el primer ciclo, realiza toxicidad hematológica con anemia y leucopenia grado 3 y trombocitopenia grado 3-4 mantenida que, después del estudio hematológico, se diagnostica de tóxico-inmune, por lo que inicia tratamiento con inmunoglobulinas, logrando estabilización de cifras plaquetarias hasta grado 1 de trombocitopenia. Sin embargo, en menos de 48 horas, el paciente desarrolla gran lesión excrecente palpebral izquierda que, tras biopsia, se describe anatomopatológicamente como no compatible con TNE: probable tumor de corteza suprarrenal.
+Paciente con un PS de 2 en dicho momento, nueva línea de tratamiento basada en adriamicina a dosis metronómicas (20 mg/m2) semanal; sin embargo, el paciente inicia rápido y progresivo deterioro clínico hasta su fallecimiento en abril de 2016.

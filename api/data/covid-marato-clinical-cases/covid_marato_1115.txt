@@ -1,0 +1,27 @@
+Anamnesis
+Acude a consulta de Oncología Médica una mujer de 66 años, con antecedentes de hipercolesterolemia e hipertensión arterial controlada con tratamiento médico y fractura de L3 tras caída tratada con vertebroplastia en 2013. No refiere hábitos tóxicos ni antecedentes familiares de interés oncológico.
+La paciente presenta desde febrero de 2017 un cuadro de parestesias y mialgias a nivel de ambas extremidades inferiores estudiado en un centro externo, por lo que se le realiza una resonancia magnética (RM) donde se aprecia una lesión a nivel de cuerpo vertebral de L3, y por tanto se procede a exéresis del soma de L3, siendo la Anatomía Patológica concluyente de hemangioma. En julio de 2017 presenta intenso dolor lumbar y por RM se objetiva recidiva a nivel de L3. Se trata con radioterapia con intención antiálgica con dosis única presentando buena respuesta clínica.
+En enero de 2018 ante progresivo deterioro, aumento del dolor a nivel dorsolumbar y cuadro de bicitopenia hemolítica autoinmune, es estudiada por Servicio de Hematología y se remite a Servicio de Oncología Médica de nuestro centro. Tras la valoración inicial, la paciente refiere dolor lumbar y costal izquierdo controlado con tercer escalón analgésico en combinación con antiinflamatorios y la bicitopenia es controlada con dosis de prednisona 10 mg/día.
+
+Exploración física
+Paciente consciente y orientada. Leve palidez de mucosas y normohidratada. Eupneica. ECOG 1. Karnofsky 70 puntos.
+Auscultación cardiaca: rítmica: no se auscultan soplos ni extratonos. Auscultación pulmonar: Normofonesis en todos los campos. Exploración abdominal anodina. No se palpan adenopatías.
+
+Pruebas complementarias
+» RM lumbar (enero 2018): alteración del canal medular en L3 y L4, con lesiones osteolíticas a nivel de cuerpos de D12, L2, L3 y S1.
+» Analítica de sangre: anemia G2 y trombopenia G4. Fibrinógeno 1,6g/l (rango 2-4g/l), dímero D 12.200 μg/l (rango de 0-500 μg/l)
+» Aspirado de médula ósea (MO): hiperplasia de serie roja, megacariocitosis, test de Coombs positivo.
+» PET-TC (enero 2018): múltiples lesiones hipermetabólicas líticas en C5, D6, D10, D12, costilla derecha, clavícula derecha, ala sacra derecha, pala ilíaca izquierda, isquion y acetábulo izquierdo.
+» Biopsia vertebral de L3 (enero 2018): tumor vascular de bajo grado compatible con angiosarcoma de bajo grado o hemangioma multicéntrico.
+
+Diagnóstico
+Angiosarcoma óseo multicéntrico y anemia hemolítica autoinmune en relación a neoplasia primaria.
+
+Tratamiento
+Ante dicho diagnóstico, la paciente es tratada con paclitaxel días 1, 8 y 15 a 80 mg/m2 durante 12 ciclos junto con ácido zoledrónico cada 28 h días entre abril y julio de 2018. Durante todo el tratamiento, requiere en repetidas ocasiones tratamiento complementario con darbepoetina a 0,45 mg/kg, transfusiones de plaquetas y hematíes. Como principal toxicidad presenta neuropatía periférica G2.
+En PET-TC de reevaluación realizado en julio de 2018, presenta reducción en la tasa de captación de las múltiples lesiones óseas de predominio lítico localizadas en esqueleto axial, sin aparición de nuevas lesiones metastásicas a otros niveles.
+En agosto de 2018, ante neuropatía periférica G2 y múltiples interrupciones durante el tratamiento, se decide iniciar pazopanib 800 mg/día. La paciente en el día +7 de tratamiento presenta insuficiencia renal G2 con filtrado glomerular de 32ml/min/1,73, proteinuria, diarreas G2 y nuevos episodios de trombopenia G3 y anemia G2, por lo que se opta por reducción de dosis de pazopanib a 400 mg/día. A pesar de esta desescalada, persiste bicitopenia G3 y gran toxicidad por lo que, en octubre de 2018, se decide iniciar tercera línea de tratamiento.
+
+Evolución
+En octubre de 2018, inicia nueva línea de tratamiento con gemcitabina 800 mg quincenal y propranolol 40 mg/12 h, con buena tolerancia inicial; por tanto, a los 15 días se aumenta a 80 mg/12 h. Como principales toxicidades presenta trombopenia G4 y anemia G3 requiriendo descenso de gemcitabina hasta 2 escalones, así como astenia G2 y dolor óseo controlado con tercer escalón analgésico. Tras un mes de tratamiento, la paciente se recupera parcialmente de la bicitopenia, con trombopenia G1 y anemia G1 sin requerir nuevas transfusiones o tratamiento sustitutivo; así mismo, no presenta toxicidades aparentes al tratamiento administrado.
+En enero de 2019, se realiza PET-TC de reevaluación que informa de respuesta metabólica completa, por lo que la paciente ha continuado con el mismo tratamiento hasta la actualidad, llevando en la actualidad 9 meses de supervivencia libre de progresión.

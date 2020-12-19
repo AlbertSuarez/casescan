@@ -1,0 +1,35 @@
+Antecedentes personales
+- Miocarditis en 2006 complicada con DVI, con normalización posterior de FEVI.
+- Fibrilación auricular permanente con cardioversión eléctrica en 2011 y en tratamiento con amiodarona y acenocumarol de forma crónica
+- Cirrosis hepática secundaria a virus de hepatitis C genotipo 1b. Sin respuesta a tratamiento con telaprevir. Tratamiento erradicador en octubre de 2015 con simeprevir y sofosbuvir, no satisfactorio. En seguimiento estrecho por Medicina Digestiva
+
+Anamnesis
+Paciente de 59 años con los antecedentes descritos que consulta en el Servicio de Urgencias en diciembre de 2015 por cuadro de aumento de disnea basal a moderados esfuerzos hasta hacerse de reposo, edemas en miembros inferiores y del perímetro abdominal de un mes de evolución; refiriendo además disminución de la diuresis habitual. No dolor torácico ni palpitaciones, sin ortopnea aunque sí disnea paroxística nocturna. No tos ni expectoración ni clínica infecciosa por aparatos asociada. No dolor abdominal, no síndrome miccional, heces sin productos patológicos. Refiere toma de AINEs en las últimas semanas por cuadro de lumbalgia de características mecánicas.
+
+Exploración física
+- Consciente y orientado, normohidratado, normocoloreado, no se objetiva ingurgitación yugular.
+- Constantes vitales: PA 135/71 mmHg, FC 140lpm, SaO2 96% (FiO2 21%)
+- Auscultación cardiaca: arrítmico, no soplos audibles
+- Auscultación pulmonar: murmullo vesicular conservado, crepitantes bibasales
+- Abdomen: globuloso, distendido, timpanismo en epigastrio y dudosa matidez en flancos, no dolor a la palpación, no se palpan masas ni megalias, ruidos hidroaéreos conservados. Importante edema de pared
+- Miembros inferiores: edemas con fóvea hasta raíz de miembros, pulsos pedios conservados, sin signos de trombosis venosa profunda.
+- Neurológico: sin focalidad neurológica
+
+Pruebas complementarias
+- ECG: fibrilación auricular con respuesta ventricular media 120 - 130 lpm, eje normal, QRS estrecho, mala progresión del vector septal, bajos voltajes en plano frontal, aplanamiento de onda T en V4-V6 y derivaciones frontales
+- Radiografía tórax postero-anterior: se observa infiltrado algodonoso de predominio periférico, sugestivo de imagen en suelta de globos. Silueta cardiaca aumentada de tamaño. No se observa derrame pleural
+- Ecocardiografía: imagen ecogénica de aspecto trombótico que ocupaba vena cava inferior y protruía hacia aurícula izquierda; con una FEVI del 50% e hipocinesia de segmentos basales
+- TC tórax-abdomen-pelvis + angio-TC torácico: tromboembolismo pulmonar y lesión hepática en segmentos VI y VII de 94x65mm sugestiva de hepatocarcinoma que condiciona trombosis de suprahepáticas con extensión a la cava inferior intratorácica y a la aurícula derecha con voluminoso trombo intracavitario, diseminación metastática pulmonar
+- Analítica sanguínea: destaca plaquetas 93000, índice de Quick 38%, I.N.R. 1.99, Urea 93.7, Creatinina 2.01 y bilirrubina total 1.78
+
+Diagnóstico
+Trombosis paraneoplásica con sospecha de hepatocarcinoma por imagen, sobre hígado cirrótico, en paciente con índice Child-Pugh B.
+
+Tratamiento
+Ante diagnóstico y situación intercurrente, se inició tratamiento anticoagulante con heparinas de bajo peso molecular ajustadas al peso del paciente (bemiparina ajustada a peso: 10000 UI)
+Se solicitó valoración por parte de Cirugía Cardiaca, que ante el mal Performance Status del paciente, con dependencia de oxigenoterapia con FiO2 28%, y a la situación de la enfermedad (hepatocarcinoma no subsidiario de tratamiento activo dado PS e índice Child Pugh B), descarta intervención quirúrgica que adema´s requeriría circulación extracorpórea. Se recomendó anticoagulación permanente para alcanzar I.N.R. 2,5 - 3.
+Ante situación de sospecha de sospecha de hepatocarcinoma sobre hígado cirrótico en un paciente con PS 3 con gran dependencia de oxigenoterapia e índice de Child-Pugh B, sin poder llegar a concretarse diagnóstico definitivo mediante biopsia hepática por alto riesgo de sangrado dada la anticoagulación terapéutica, el paciente no fue subsidiario de tratamiento activo por parte de Oncología; siendo dado de alta a domicilio con el apoyo de la Unidad de Hospitalización a Domicilio para tratamiento sintomático exclusivo en enero de 2016.
+
+Evolución
+Durante su estancia en domicilio el paciente presenta una evolución tórpida, con persistencia de necesidad de oxigenoterapia las 24 horas del día y dependencia para las ABVD. En febrero de 2016 comienza con dolor costal izquierdo con un EVA basal constante de 7 y episodios de dolor irruptivo con EVA 10; asociando insuficiencia respiratoria aguda en domicilio. Ante este cuadro es derivado para ingreso en la Unidad de Cuidados Continuados para tratamiento sintomático paliativo.
+Durante el ingreso, a pesar de mejoría inicial de síntomas, comienza con anuria a pesar de ajuste de tratamiento, así como sintomatología compatible con encefalopatía hepática. Finalmente el paciente fue éxitus a finales de febrero de 2016.

@@ -1,0 +1,53 @@
+Anamnesis
+Varón de 40 años que consultó por tos a su médico de Atención Primaria, que lo derivó a consultas de Neumología. Como antecedentes personales destacaba que el paciente era exfumador desde hacía 4 meses con un IPA (índice de paquete-año) de 24. Natural de Marruecos, llevaba viviendo en España 11 meses y hacía 2 años de su último viaje a su país natal. El paciente trabajaba de jardinero, en contacto con fertilizantes y pesticidas. No había presentado enfermedades importantes en la infancia, por lo que no tomaba tratamiento habitual.
+
+El paciente refería tos sin expectoración desde hacía 2 meses junto con sensación distérmica, pero sin fiebre termometrada. Presentaba astenia, anorexia y pérdida de 3 kg de peso aproximadamente desde el inicio del cuadro. No comentaba dolor torácico, hemoptisis ni otra sintomatología. El paciente no había realizado viajes al extranjero recientemente ni había estado en contacto con enfermos.
+
+Exploración física
+A la exploración el paciente se encontraba eupneico con saturación basal del 93% y estable hemodinámicamente. Destacaba la presencia de adenopatías axilares bilaterales de 1 cm de diámetro máximo, dolorosas a la palpación y no adheridas a planos profundos. A la auscultación el murmullo vesicular estaba conservado en ambos campos pulmonares y sin presencia de ruidos añadidos.
+
+Pruebas complementarias
+» En la radiografía de tórax se evidenciaba una afectación intersticial bilateral con patrón reticulonodular compatible con infección pulmonar atípica como primera posibilidad.
+» En la espirometría presentaba una FVC (capacidad vital forzada) de 3,17 (74,8%), FEV1 (volumen espiratorio forzado) de 2,45 (69,4%) y un volumen residual de 77,27. Se realizó una prueba broncodilatadora sin corrección de los valores tras ella.
+» Tras la sospecha infecciosa del cuadro se recogieron tres muestras de esputo, en las que no se evidenciaron bacilos ácido-alcohol resistentes con la tinción de Ziehl-Nielsen, y en el cultivo creció flora habitual del tracto respiratorio superior. Se inició tratamiento de forma empírica con azitromicina 500 mg un comprimidos cada 24 horas durante 3 días, sin mejoría.
+
+Ante la persistencia de la tos, el paciente acude a Urgencias y se decide su ingreso para estudio.
+
+» En la analítica sanguínea presentaba alterado el perfil hepático [bilirrubina total 1,20 mg/dl (0,3-1,1), ALT (GPT) 117 UI/l (6-40), AST (GOT) 70 UI/l (6-40), gamma-glutamiltransferasa 207 UI/l (8-61)] y en el hemograma destacaba una trombopenia de 97.000 plaquetas/microl (150-400), sin agregados plaquetarios en el frotis.
+» Se repitió la radiografía de tórax, sin cambios respecto a la previa, con persistencia del patrón reticulonodular intersticial bilateral. Se inició tratamiento empírico con ceftriaxona 1 g/día intravenoso (i.v.) y azitromicina 500 mg/día vía oral.
+
+Tras 24 horas de ingreso, el paciente comienza con dolor abdominal focalizado en el hipocondrio derecho con signo de Murphy, febrícula y vómitos. Ante la sospecha de colecistitis aguda se solicitó una ecografía abdominal urgente, en la que no se evidenciaron alteraciones patológicas.
+
+El paciente presenta empeoramiento clínico en las siguientes 48 horas con persistencia del dolor abdominal, fiebre de 38 ºC, leucocitosis y elevación de los reactantes de fase aguda. Por ello, se solicita una tomografía computarizada (TC) abdominal urgente para descartar complicaciones intraabdominales. En dicha exploración se evidencian múltiples zonas de hipocaptación de contraste intravenososo de forma triangular en ambos riñones y bazo que sugieren áreas de infarto. En los cortes inferiores del tórax en la base pulmonar izquierda se halló un nódulo espiculado de 2,63 cm sugestivo de neoplasia y derrame pericárdico de hasta 1 cm de espesor.
+
+Tras 5 días de ingreso, el paciente refiere visión borrosa y mareo con giro de objetos de una semana de evolución que no había referido antes por no considerarlo relevante. Se solicita una TC de cráneo urgente, detectándose una zona hipodensa en el vérmix cerebeloso parasagital derecho sugestiva de patología isquémica, sin datos de transformación hemorrágica. Se realiza interconsulta a Neurología, completándose el estudio con una resonancia magnética (RM) de cráneo, en la que se hallan múltiples focos de isquemia aguda y subaguda supra e infratentorial de predominio subcortical.
+
+Ante el cuadro clínico con afectación isquémica renal, esplénica, neurológica y pulmonar, se plantea el diagnóstico diferencial con una vasculitis de Wegener o un síndrome paraneoplásico secundario a la masa pulmonar evidenciada en la TC. Se realiza analítica completa con complemento C3 y C4, proteinograma, anticuerpos antinucleares y p-ANCA, que fueron normales, siendo los c-ANCA positivos.
+
+Para confirmar la sospecha se realizó una biopsia del septum nasal y posteriormente se inició tratamiento esteroideo. La biopsia no mostró necrosis, granulomas, vasculitis ni signos de malignidad, por lo que se descartó el diagnóstico de vasculitis. A pesar del tratamiento antibiótico y corticoideo, el paciente persistía con empeoramiento del estado general, trombopenia, desaturación y aparición de coagulopatía [tiempo de protrombina 16,8 s (11-15,3), actividad de protrombina 61% (70-120), INR 1,39 RN (0,8-1,2), APTT (T. cefalina) 29,2 s (29,2-39). Fibrinógeno 367 mg/dl (150-450). Antitrombina 76% (70-120). Dímero-D (inmunoturbidimetría) 65,34 μg/ml (0,1-0,5)].
+
+Se solicitó valoración por Hematología, con el diagnóstico de coagulación intravascular diseminada crónica con componente fibrinolítico predominante en probable relación con masa pulmonar en estudio.
+
+Se inició tratamiento con vitamina K intravenosa con vigilancia estrecha de signos de sangrado y analítica diaria.
+
+Para el diagnóstico histológico de la masa pulmonar se realizó una broncoscopia, tomándose muestras para cultivo, lavado broncoalveolar y broncoaspirado. En el broncoaspirado se observaba un material con un fondo mucoide con grupos tridimensionales de células epiteliales con signos de malignidad, siendo todo esto compatible con adenocarcinoma de pulmón.
+
+Dada la confirmación de malignidad de la masa pulmonar, se solicitan una TC de tórax y una PET-TC para la estadificación. Además de la masa pulmonar basal izquierda, se identifican múltiples adenopatías con aumento de captación de 18-fluorodesoxiglucosa sospechosas de malignidad en el mediastino superior derecho, hiliar bilateral, paratraqueales derechas, subcarinales, supraclavicular izquierda e infraclavicular izquierda.
+
+Durante el estudio el paciente comenzó con dolor torácico opresivo, sin irradiación y que aumentaba con la tos. Ante la sospecha de taponamiento cardíaco se avisa a Cardiología, que realizan un electrocardiograma (ECG) con mínima elevación del segmento ST de 1 mm en la cara inferior y V3-V4 de nueva aparición. En la analítica presentaba elevación de la troponina I hasta 3,31 μg/l (0-0,06). En el ecocardiograma urgente no se observaban alteraciones, descartándose el taponamiento cardíaco. Con todos estos datos es diagnosticado de miopericarditis, instaurándose tratamiento sintomático con antiinflamatorios no esteroideos (AINE). Los niveles de troponina fueron descendiendo hasta su normalización y el dolor torácico fue disminuyendo de forma progresiva hasta su desaparición.
+
+Diagnóstico
+Paciente de 40 años diagnosticado de un adenocarcinoma de pulmón cT2 cN3 cM0 (estadio IIIB) de debut con coagulación intravascular diseminada con afectación renal, cardíaca, esplénica y neurológica.
+
+Tratamiento
+Dado que la muestra diagnóstica era insuficiente para realizar un correcto diagnóstico molecular y debido a la importancia pronóstica y terapéutica del mismo, decidimos realizar una biopsia con aguja gruesa (BAG), aunque finalmente se realizó una punción-aspiración con aguja fina (PAAF) de la adenopatía supraclavicular izquierda para determinar el estado mutacional del EGFR (epidermic grown factor receptor), no siendo posible la determinación de ALK (anaplastic lymphoma kinase) por no quedar muestra suficiente.
+Ante la florida sintomatología del paciente, con empeoramiento progresivo, se decide iniciar tratamiento con cisplatino y vinorelbina, a la espera de los resultados del análisis molecular del EGFR.
+Se administró el primer ciclo a dosis reducidas por la trombopenia que mantenía el paciente: cisplatino 50 mg/m2 i.v. día 1 y vinorelbina 25 mg/m2 i.v. días 1 y 8, cada 21 días. Tras la primera administración se produjo la normalización de la coagulación, pero persistía la trombopenia, siendo esta de grado 4.
+Posteriormente se valoró al paciente en consultas externas, con evidente mejoría clínica. En ese momento teníamos el resultado del estudio molecular, detectándose la mutación en L858R del exón 21 del EGFR. Iniciamos entonces tratamiento con erlotinib 150 mg/día vía oral.
+
+Evolución
+Tras un mes de tratamiento, el paciente acude a control clínico, evidenciándose rash facial de tipo acneiforme grado 1. Se pautó una crema de prednicarbato 2,50 mg/1 g una aplicación cada 12 horas y una solución tópica de clindamicina al 1% una aplicación cada 12 horas. A pesar del tratamiento tópico, empeora el rash a grado 2 y se pauta doxiciclina 100 mg 1 comprimido cada 24 horas. Se realizó una PET tras un mes desde el inicio del tratamiento con erlotinib que mostraba disminución del tamaño y captación de la masa, que medía 2,9 x 2 cm, con disminución de la captación de las adenopatías mediastínicas y desaparición de adenopatías sospechosas a nivel supraclavicular e infraclavicular izquierdo.
+
+Tras una semana de tratamiento antibiótico sistémico, además del tópico, el rash empeoró a grado 4, por lo que se discontinuó el tratamiento durante una semana, con disminución del rash a grado 3, por lo que se mantuvo suspendido.
+
+Tras dicho descanso la afectación cutánea disminuyó a grado 1, por lo que se reintrodujo el erlotinib a dosis de 100 mg/día.

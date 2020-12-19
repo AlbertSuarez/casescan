@@ -1,0 +1,31 @@
+Anamnesis
+Paciente varón de 61 años, exfumador (80 paquetes/año), ex hábito enólico moderado, sin alergias medicamentosas conocidas y con antecedentes de diabetes mellitus tipo II, enfermedad de Dupuytren, catarata de ojo izquierdo y esplenectomizado por traumatismo hace 36 años, que ingresa remitido desde Urgencias para completar su estudio en febrero de 2008 por clínica de disfagia a sólidos y pérdida de peso de 7 kg en los últimos 4 meses.
+
+Exploración física
+Buen estado general. ECOG 0, consciente y orientado. Normocoloreado y normohidratado. Constantes vitales normales. Auscultación cardiopulmonar sin alteraciones. Abdomen: blando y depresible, no doloroso, no se palpan masas ni megalias. No edematización de los miembros inferiores. Neurológico: no signos de focalidad ni de irritación meníngea.
+
+Pruebas complementarias
+» TC toracoabdominal (18/2/2008): engrosamiento irregular de las paredes del tercio inferior del esófago que se extiende hacia la cavidad gástrica en relación con proceso neoformativo. LOE en el segmento VIII hepático sugestiva de granuloma. No adenopatías.
+» Gastroscopia (20/2/2008): de 35 cm a 42 cm de la arcada dentaria se aprecia una tumoración vegetante que abarca toda la circunferencia y estenosa la luz, dejando un orificio de 5 mm de diámetro.
+A nivel subcardial se aprecian pliegues irregulares, de aspecto infiltrativo.
+» Biopsia (20/2/2008): adenocarcinoma gástrico que infiltra el esófago.
+» Marcadores tumorales: CEA 5, CA 19.9: 3,2.
+
+
+Diagnóstico
+Adenocarcinoma de la unión gastroesofágica estadio II B c (T3N0M0).
+
+Tratamiento
+En febrero de 2008, ante el adenocarcinoma de la unión gastroesofágica localmente avanzado E II B cT3 cN0 M0, inicia quimioterapia perioperatoria con esquema DCF (docetaxel 75 mg/m2, cisplatino 75 mg/m2 y 5-FU 750 mg/m2 en infusión continua días 1-5) cada 21 días. Recibe tres ciclos, con buena tolerancia y sin complicaciones, remitiéndose a Cirugía para la resección del tumor primario.
+En espera de la intervención quirúrgica, el paciente sufre una caída casual, con traumatismo craneal fortuito, por lo que se realiza una TC cerebral en Urgencias, que evidencia una lesión frontoparietal derecha. Se completa el estudio con una RM cerebral (22/4/2208), confirmándose la lesión frontoparietal derecha de 1,6 x 1,8 x 2 cm con importante edema perilesional, sugestiva de lesión metastásica.
+Comentado el caso en Comité multidisciplinar de tumores, se decide radioterapia (RT) holocraneal, intervención del tumor primario y de la lesión cerebral única metastásica.
+El 3/6/2008 se interviene mediante esofaguectomía subtotal + gastrectomía parcial. Linfadenectomía D1. Con resultado de anatomía patológica: adenocarcinoma de tipo intestinal que afecta al tercio distal del esófago, la unión gastroesofágica y el estómago bien diferenciado, que llega hasta la adventicia (pT3). Se aíslan 13 adenopatías libres de infiltración tumoral. Her-2 no realizado.
+El 11/7/2008 se realiza una craneotomía parietal derecha y exéresis de la lesión, con resultado de anatomía patológica: metástasis de adenocarcinoma de tipo intestinal intensamente necrosado.
+Posteriormente a la intervención quirúrgica se completa tratamiento con quimioterapia con tres ciclos de DCF, finalizando tratamiento el 30/9/2008.
+
+Evolución
+Se inicia seguimiento trimestral de acuerdo con el protocolo y en diciembre de 2010 se evidencia en la TC de control una nueva LOE cerebral de localización parasagital parietal posterior izquierda de 11 x 7 mm que se confirma con RM cerebral (16 mm), sin evidenciarse enfermedad a otro nivel.
+Además, se realiza endoscopia y ecoendoscopia, sin signos de recidiva local.
+El paciente no presentaba focalidad neurológica, solo leve tendencia a la irritabilidad, y dado que se trataba de una nueva metástasis cerebral única con el tumor primario controlado, se comenta el caso en Comité de tumores y se decide exéresis de la tumoración.
+El 16 de diciembre de 2010 se realiza craneotomía y exéresis de la lesión parietal izquierda, con resultado de anatomía patológica de metástasis por adenocarcinoma moderadamente diferenciado de tipo intestinal extensamente necrosado; y ante adenocarcinoma de unión gastroesofágica estadio IV NED yp (T3N0M1) (dos metastasis cerebrales metacrónicas resecadas) se decide observación y no recibe más tratamiento complementario.
+Actualmente se encuentra clínicamente bien, salvo por leve deterioro cognitivo (enlentecimiento, alteración de la memoria y labilidad emocional) y sigue revisiones cada 6 meses con TC y analítica con marcadores tumorales, sin evidencia de progresión de la enfermedad. Hasta la fecha presenta un intervalo libre de progresión de 4 años y 5 meses.

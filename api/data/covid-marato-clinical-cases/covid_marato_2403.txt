@@ -1,0 +1,58 @@
+ANAMNESIS
+
+ANTECEDENTES PERSONALES
+
+Paciente, mujer de 62 años con antecedentes personales de legrado uterino a los 31 años exclusivamente. Nunca fumadora ni bebedora. Sin antecedentes familiares de interés. En Abril de 2015, consulta en urgencias en varias ocasiones por epistaxis por fosa nasal derecha que precisa varios taponamientos por lo que inicia estudios en centro privado. Se realiza un TC (tomografía computarizada) de senos paranasales en que se objetiva una masa polipoidea en fosa nasal derecha.
+Ante la sospecha de proceso neoformativo , se realiza biopsia que se informa como melanoma mucoso (Inmunohistoquímica Melan A y HMB 45 +. extensa positividad para CD117. Mutación del gen BRAF negativo.
+Ante los hallazgos, se realiza TC craneal completo que objetiva que la lesión es expansiva con afectación de pared medial de maxilar y extensión a coana. Resto de estudio de extensión negativo.
+Finalmente, el 28/7/16 se interviene mediante maxilectomía radical de maxilar superior derecho más exanteración orbitaria derecha y reconstrucción con colgajo de músculo temporal (márgenes quirúrgicos libres, sin invasión vascular ni perineural en el estudio de la muestra). La paciente entonces inicia seguimiento por Otorrinolaringología y Oncología, detectándose por RNM y PET-TC en Diciembre de 2015, recidiva tumoral con signos de invasión extra-axial de fosa cerebral anterior. Estudio de extensión negativo.
+Se remite al Servicio de Oncología de nuestro hospital tras desestimar posibilidad de cirugía R0 donde se realiza resonancia magnética (RM) basal en Enero de 2016 que objetiva gran masa de comportamiento agresivo maligno con epicentro a la región hemifacial derecha que muestra invasión intracraneal con probable infiltración de la meninge de la región frontal derecha.
+Conglomerado adenopático necrosado laterocervical derecho ocupando el nivel II A que alcanza 3 cm.
+A la exploración presentaba edema, eritema y extensas áreas de necrosis con frialdad al tacto en zona de frontaorbitaria y mejilla derecha. Clínicamente, refería dolor y sangrado a nivel la lesión por lo que recibe cinco sesiones de 4 Gy con Fotones de 6 Mv con intención hemostática.
+Tras ampliar inmunohistoquímica a cKIT (muy positivo), en febrero de 2016 se decide inicio de Imatinib el 08/02/2016 a dosis de 400 mg/24 horas tras informar a la paciente correctamente de interacciones medicamentosas (P450 CYP3A4) y efectos secundarios. Se amplió estudio molecular del c-KIT y se contemplaron y revisaron otras posibilidades como quimioterapia e inmunoterapia (escasos datos publicados en este subtipo).
+El 15/02/16 se encontraba subjetivamente mejor al presentar menor dolor e inflamación local, realizándose curas por parte de Cirugía Plástica con buena evolución. La última visita, fue la del ciclo 3 el día 7/3/16 donde la paciente mantenía mejoría progresiva.
+
+MOTIVO DE CONSULTA
+
+El día 1/04/16 a las 13h de la tarde, la paciente que acude a urgencias por presentar sangrado abundante por la lesión y dolor en epigastrio irradiado en cinturón. Niega fiebre, traumatismo en la zona, cefalea ni ninguna otra sintomatología en la anamnesis dirigida por aparatos.
+
+Exploración física
+Estable hemodinámicamente. Afebril.
+Auscultación: Tonos rítmicos a buena frecuencia. Buen murmullo vesicular.
+Abdomen blando y depresible, doloroso a la palpación a nivel de epigastrio.
+Gran hepatomegalia palpable y dolorosa. Nos signos de irritación peritoneal.
+Miembros inferiores sin edemas ni signos de trombosis venosa profunda
+
+Pruebas complementarias
+- Analítica 01/04/16: función renal e iones normales. Bilirrubina y amilasa normal. GGT 148 mU/ml (10-50), GOT 347 mU/ml (10-40), GPT 347 mU/ml (10-37) (previas normales). Hemograma: leucocitos normales con neutrofilia leve, Hemoglobina 85g/dl (110-130), 79000 plaquetas (110.000-440.000).
+Alargamiento de todos los tiempos de la coagulación: INR 1.84 (0.8-1.2) tiempo de protrombina 19 segundos (9-13.5), tiempo de protrombina 33.7 segundos (19-27), TPTA 50.8 (22-40). Consumo de fibrinogeno 0.38 (1.5-4). Aumento de dímeros D 554.000 mcg/L (0-500)
+- Frotis de sangre periférica: trombopenia comprobada, algunos esquistocitos.
+- Ecografía abdomen urgente 01/02/16: hepatomegalia con múltiples LOEs hepáticas no conocidas, una de ellas en el lóbulo hepático derecho (segmento IVB) con posible complicación hemorrágica.
+Resto del abdomen sin alteraciones.
+- Hemocultivos sin fiebre: negativos.
+
+Diagnóstico
+- Signos de CID aguda en paciente con melanoma mucoso nasal y progresión masiva metastásica a nivel hepático.
+- Hipertransaminasemía sin datos de insuficiencia hepática y función renal conservada.
+
+Tratamiento
+Se contacta con cirugía maxilo facial y hematología para manejo conjunto y se inicia tratamiento con:
+- Interrupción de imatinib
+- Curas tópicas con apósitos de ácido tranexámico
+- Transfusión de plaquetas cada 8 horas y de sangre a demanda analítica y clínica.
+- Plasma a 15 ml /Kg (60 Kg) cada 12-24 horas
+- Vitamina K intravenosa cada 8 horas.
+- Acido tranexámico 500mg cada 8 horas intravenoso
+- Sueroterapia.
+- Heparina 40 mg subcutáneo (dosis profiláctica)
+
+Evolución
+Tras 2 horas en la sala de tratamientos cortos, la paciente continúa con sangrado abundante en sábana por la lesión y comienza a hipotensarse. A las 17h pasa a Observación de Críticos donde es monitorizada, se intensifica tratamiento con sueroterapia y se continúan medidas instauradas. En ningún momento se objetiva fiebre ni foco infeccioso pero se instaura tratamiento con meropenem 1gramo intravenoso cada 8 horas.
+A las 21.00h la paciente se encontraba taquipneica, con saturación de oxígeno al 86%. A la exploración, crepitantes bilaterales e ictericia de piel y mucosas no presentes previamente. Se realiza nueva analítica donde ya existe deterioro de la función renal, con creatinina 1.7 mg/dl (0.5-1.1), hiperbilirrubinemia a expensas de directa 3mg/dl (0-0.35), aumento de las enzimas hepáticas, 39.000 plaquetas, hemoglobina 8.8 postransfusional y empeoramiento de la coagulación. Se realiza radiografía de tórax donde se objetiva infiltrado alveolo-intersticial bilateral compatible con hemorragia pulmonar. Se inicia oxigenoterapia y se continúa tratamiento, añadiendo diuréticos por posible componente de sobrecarga de volumen.
+A las 00.00h la paciente se encuentra agitada, desorientada y obnubilada, disneica a pesar de mascarilla reservorio de oxígeno y con aparición de flapping. Explicamos a sus familiares situación de alta mortalidad de las CID independientemente de la causa, añadiendo a todo ello una enfermedad descontrolada de base (melanoma mucoso en progresión) y la escasa respuesta a medidas instauradas. Se inicia una perfusión de cloruro mórfico para control sintomático.
+
+Juicio clínico evolutivo
+- Signos de CID aguda en fase hemorrágica refractaria tras casi 12 horas en paciente con melanoma mucoso nasal y progresión masiva metastásica a nivel hepático.
+- Insuficiencia respiratoria hipoxémica secundaria a probable de hemorragia alveolar
+- Datos clínicos y analíticos de fallo hepático secundario.
+A las 10.00h del día 2/4/16 tras casi 24 horas de tratamiento persiste mala situación clínica y analítica con sangrado tumoral activo e insuficiencia respiratoria con saturación O2 75%. Ante la falta de respuesta, la paciente ingresa en la Unidad de Cuidados paliativos y tras sedación terminal es éxitus a las 13.00h

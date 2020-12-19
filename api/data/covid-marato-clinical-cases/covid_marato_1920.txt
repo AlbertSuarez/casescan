@@ -1,0 +1,33 @@
+Anamnesis
+Mujer de 54 años en la actualidad, con antecedentes relevantes de tiroidectomía por microcarcinoma papilar en noviembre de 2010, actualmente con tratamiento sustitutivo, fumadora de 20 cigarrillos-día durante 30 años con un índice paquete año (IPA) de 30, sin otros antecedentes de interés.
+No presenta antecedentes familiares relevantes.
+Consulta por primera vez en Urgencias en octubre de 2015 por parestesias de ambos miembros superiores, motivo por el cual se solicita una tomografía computarizada (TC) craneal.
+
+Exploración física
+» Buen estado general, eupneica en reposo sin signos de trabajo respiratorio, bien hidratada y perfundida.
+» Hemodinámicamente estable y afebril.
+» Neurológico: consciente y orientada en las 3 esferas, pupilas isocóricas y normorreactivas, no alteraciones de pares craneales, fuerza y sensibilidad preservadas en las 4 extremidades; no dismetrías ni disdiadococinesia.
+» Auscultación cardiopulmonar: sin hallazgos relevantes.
+» Exploración abdominal normal: no se palpan adenopatías ni visceromegalias.
+
+Pruebas complementarias
+Se realiza una TC craneal urgente que objetiva una lesión supratentorial paramedial frontal izquierda con edema vasogénico y efecto de masa que determina herniación subfacial y desplazamiento de la línea media. Se completa el estudio con una resonancia magnética (RM) cerebral que confirma los hallazgos de la TC, además de visualizar una segunda lesión a nivel cerebeloso derecho, así como con una radiografía de tórax donde se objetiva una lesión en hemitórax izquierdo, por lo que finalmente la paciente ingresa en Medicina Interna para completar estudio.
+Durante el ingreso, se realiza una TC toracoabdominal donde se objetiva una masa pulmonar en língula con extensión hiliar, nódulos pulmonares bilaterales y adenopatías de tamaño significativo en región paratraqueal bilateral.
+Así mismo, se realiza una broncoscopia obteniendo biopsia de la masa del lóbulo superior izquierdo (LSI) y adenopatía paratraqueal derecha con diagnóstico anatomopatológico de adenocarcinoma, por lo que se solicita estudio mutacional.
+
+Diagnóstico
+Finalmente, se diagnostica de un adenocarcinoma de pulmón cT2b N3 M1b (estadio IV TNM 8ª edición por afectación cerebral y pulmonar bilateral), con mutación de EGFR (del 19).
+
+Tratamiento
+Durante el ingreso en Medicina Interna, la paciente es valorada por Oncología Radioterápica y dada la afectación del sistema nervioso central (SNC) con herniación e importante edema vasogénico asociado, con clínica neurológica secundaria, se decide comenzar con tratamiento radioterápico.
+Se realiza radiocirugía de la lesión cerebelosa el 3/11/2015 administrando una dosis de 18Gy así como radioterapia (RT) estereotáxica sobre la lesión frontal administrando una dosis de 35Gy.
+Ante los hallazgos de la mutación en EGFR (del 19) se inicia tratamiento con afatinib 40 mg/día el 18/11/2015, precisando reducción de dosis por diarrea grado 2, con buena tolerancia posterior, manteniendo una respuesta parcial en las pruebas de imagen de reevaluación.
+
+Evolución
+Durante el seguimiento, tras 20 meses de tratamiento dirigido con afatinib 30mg/24 horas, sin evidencia de progresión, en julio de 2017 la paciente presenta mínima progresión radiológica a nivel pulmonar en la TC de reevaluación. Se realiza biopsia líquida que no muestra mutación de resistencia, por lo que se decide realizar una biopsia mediante broncoscopia, con resultado de adenocarcinoma de pulmón con mutación EGFR positiva (del 19), así como mutación de resistencia T790M positiva. Dado que se mantenía asintomática, se decide por el momento mantener tratamiento con afatinib.
+De nuevo, en febrero de 2018 en TC de reevaluación, se objetiva progresión a nivel pulmonar con afectación del SNC estable, por lo que se solicita estudio mutacional en biopsia líquida, con resultado negativo para mutaciones. Ante los datos de oligoprogresión, se deriva a Oncología radioterápica para valorar tratamiento local, pero en la PET de planificación se objetiva mayor progresión a nivel local, así como, sistémica con afectación en glándula suprarrenal izquierda.
+Se decide, en ese momento, nueva biopsia líquida con resultado negativo para la mutación de resistencia T790M, motivo por el cual se solicita biopsia de tejido mediante broncoscopia que se realiza el 23/4/2018, con resultado anatomopatológico de carcinoma de células pequeñas.
+Ante los datos de transformación histológica del tumor y la evidencia de progresión, el 9/5/2018 se inicia tratamiento con carboplatino AUC-5 + etopósido 100 mg/m2, suspendiendo el tratamiento tras 3 ciclos por progresión a nivel del SNC. Se deriva de nuevo a la paciente a Oncología Radioterápica recibiendo, en agosto de 2018, RT holocraneal 30 Gy con un fraccionamiento de 3 Gy.
+Se realiza de nuevo biopsia líquida con detección de la deleción del exón 19, pero no de la mutación de resistencia T790M, por lo que se realiza nueva biopsia de tejido con resultado de adenocarcinoma de pulmón positivo para mutación EGFR (del 19) y con aparición de la mutación de resistencia adquirida T790M.
+Ante los hallazgos, el 7/11/18 inicia tratamiento con osimertinib 80 mg, que mantiene durante 2 meses con evidencia de progresión en la TC de reevaluación, por lo que se decide nueva biopsia de tejido con resultado anatomopatológico de neoplasia con áreas de carcinoma de células pequeñas y de adenocarcinoma con mutación en EGFR (del 19) pero no mutación T790M.
+Ante estos hallazgos, dado que se trataba de una paciente joven con ECOG 0, se decide iniciar tratamiento con carboplatino AUC-5 + gefitinib 250 mg el 5/2/2019, habiendo recibido hasta la fecha 4 ciclos con buena tolerancia y enfermedad estable.

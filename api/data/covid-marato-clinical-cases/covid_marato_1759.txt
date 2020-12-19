@@ -1,0 +1,29 @@
+Anamnesis
+Mujer de 34 años que acude a Urgencias por dolor abdominal suprapúbico. Sin antecedentes familiares. Antecedentes patológicos: fumadora IA 10 paquete/año. No bebedora. FUR: 6/1/2014. No alergias medicamentosas conocidas.
+
+Exploración física
+ECOG 1. Cabeza y cuello: no adenopatías cervicales palpables. AC: rítmico, no soplos. AP: murmullo vesicular conservado, no ruidos sobreñadidos. Abdomen: blando, depresible, no doloroso a la palpación, herida quirúrgica de laparotomia en buen estado. Miembros inferiores: no edemas.
+
+Pruebas complementarias
+» Se realiza IQ el 24/2/2013, observándose tumoración oen el vario izquierdo de 10 cm, se realiza anexectomía izquierda y tumorectomía, con resultado anatomopatológico de cistoadenocarcinoma seroso papilar de 11 cm limitado al ovario (pT1a).
+» Tras los hallazgos se realiza una TC-TAP con resultado de masa pulmonar sólida con áreas hipodensas a nivel del LSD espiculado de 5 x 3 x 4 cm, masa suprarrenal derecha de 3 cm sospechosa de metástasis, adenopatías patológicas en el espacio portocava, retroperitoneales, paraaórticas.
+» Dada la posibilidad de tumoración sincrónica, es valorada por Neumología, realizándose el 31/12/2013 una broncoscopia, en la que se observa una lesión endobronquial a nivel del LSD.
+» Se toman biopsias, con resultado de carcinoma infiltrante pobremente diferenciado y perfil inmunohistoquímico compatible con adenocarcinoma de pulmón (TTF-1 +, p63 negativo, queratina CK56: negativo, CEA, cromogranina y calcitonina positivo, tiroglobulina: negativo).
+» Se realiza una PET-TC, donde se observan áreas de hipercaptación a nivel del LSD, cutánea, ganglionar, ósea, subcutánea y suprarrenal derecha, con el diagnóstico de cistoadenocarcinoma de ovario E IC y adenocarcinoma de pulmón E IV, y es enviada a la consulta de Oncología Médica.
+» Se solicita EGFR y ALK (resultado negativo) y se realizan biopsias del nódulo SC, con resultado de metástasis cutánea de carcinoma neuroendocrino moderadamente diferenciado.
+» Dados los resultados, se solicita ecografía de tiroides, objetivándose en el hemitiroides derecho un área irregular mal delimitada de 1,3 x 1,5 x 0,9 cm, así como adenopatías en la cadena yugulo-carotídea contralateral. Calcitonina: 776 .
+» Dada la duda diagnóstica, se solicita biopsia de tiroides, con resultado de carcinoma medular de tiroides. Debido a la afectación suprarrenal se sospecha posibilidad de feocromocitoma y se solicitan catecolaminas en sangre y orina, que resultan positivas. PTH: normal.
+» Protooncogén RET: mutación gen RET de novo.
+
+Diagnóstico
+» Carcinoma medular de tiroides metastásico.
+» Sospecha de feocromocitoma en relación con síndrome MEN 2B.
+» Cistoadenocarcinoma de ovario e IC.
+
+Tratamiento
+Con el resultado de probable medular de tiroides se inicia tratamiento (enero de 2014) con vandetanib 300 mg/24 h. Acude al mes a control, con mejoría de su situación funcional, disminución de nódulos subcutáneos. En el control de marzo refiereaumento del perímetro abdominal y dolor lumbar, por lo que se realiza una RM, donde se observa síndrome de cola de caballo, se realiza IC a RT realizando tratamiento con 30 Gy. Dada la sospecha de progresión, se adelanta la TC-TAP, observándose progresión de la enfermedad con aumento de adenopatías supraclaviculares bilaterales, aumento de nódulos pulmonares, aumento de masa suprarrenal derecha y aparición de masa suprarrenal izquierda, aparición de masa a nivel del ovario derecho, calcitonina 1.455 (previamente 776). Dada la duda diagnóstica y la progresión de la enfermedad a vandetanib (primera línea en medular de tiroides) se presenta el caso en sesión de Oncología y se decide iniciar tratamiento con carboplatino + taxol (primera línea de origen desconocido). La paciente recibe tres ciclos de carbo-taxol y en la TC de valoración de respuesta a la progresión de la enfermedad se constata aumento de adenopatías supraclaviculares, aumento de la masa pulmonar del LSD, aumento de la masa suprarrenal derecha e izquierda, aumento de la masa anexial derecha y aumento de metástasis oseas. Dado que el tumor tiene rasgos neuroendocrinos y la escasa respuesta a vandetanib, en marzo de 2014 se inicia tratamiento con gemcitabina + irinotecán al 80%. Recibe tratamiento durante tres ciclos y el 7/7/2014, en la TC de valoracion de la respuesta se observa disminución de adenopatías supraclaviculares, disminución de mestástasis cutáneas, disminución de la masa del LSD, disminución de las masas suprarrenales bilaterales, disminución de las adenopatías abdominopélvicas y disminución de la masa anexial derecha. El 18/7/2014 la paciente ingresa por síndrome febril y aparición de metástasis cerebrales múltiples bilaterales, recibiendo RDT holocraneal.
+
+Evolución
+Paciente con diagnóstico de carcinoma medular de tiroides metastásico con afectación suprarrenal. Se inició tratamiento de primera línea con vandetanib con progresión tras tres ciclos. Se cambia a línea de QT de origen desconocido, con nueva progresión. Se inicia tercera línea de tratamiento con gemcitabina + CPT 11, con respuesta tras tres ciclos y progresion a nivel del SNC.
+
+Ingresa el 26/8/2014 por deterioro neurológico, falleciendo durante el ingreso. Se solicita necropsia, pero la familia no lo desea.

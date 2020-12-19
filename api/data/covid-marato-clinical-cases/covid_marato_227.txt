@@ -1,0 +1,19 @@
+Anamnesis
+Presentamos el caso de una mujer de 77 años con historia familiar de cáncer de mama y cáncer de ovario (2 primas con cáncer de mama a los 35 y 57 años y 1 prima con cáncer de ovario a los 71 años, ambas por rama materna), sin antecedentes personales de interés, que ingresa a finales de enero de 2016 en Medicina Interna para estudio de dolor abdominal de larga evolución y ascitis de reciente aparición.
+
+Exploración física
+La paciente presentaba ascitis abundante, no a tensión, sin edemas en miembros inferiores ni otros hallazgos relevantes en la exploración física.
+
+Pruebas complementarias
+Su Médico de Atención Primaria le había solicitado una ecografía en la que se visualizaba ascitis y un engrosamiento omental sugerente de proceso neoplásico subyacente, sin evidenciarse el tumor primario en la exploración y ecografía ginecológica. Se realizó una biopsia guiada por TAC de un implante omental, que puso de manifiesto un carcinoma seroso de alto grado de probable origen ovárico, lo que se correspondía con la elevación en sangre del marcador tumoral Ca 125 hasta 631.10 UI/ml (normal < 35).
+
+Diagnóstico
+Tras completar el estudio de extensión (estadiaje final: estadio IIIC) se valoró la resecabilidad con una laparotomía exploradora, objetivándose una extensa afectación de toda la raíz del mesenterio, no considerándose resecable. Tras ello la paciente presentó un cuadro de suboclusión intestinal por la gran afectación tumoral peritoneal, por lo que se decidió traslado a la planta de hospitalización de Oncología Médica para iniciar tratamiento quimioterápico (QT).
+
+Tratamiento
+Dada la fragilidad en ese momento, con un ECOG 2 basal, en una paciente de edad avanzada y con un tumor muy quimiosensible, se inició tratamiento de inducción con paclitaxel 80mg/m2 y carboplatino AUC 2 semanal el día 2 de marzo de 2016. Además se realizó la extracción de sangre periférica para la determinación de mutaciones BRCA 1 y 2 en línea germinal y cuando hubieron pasado 4 semanas tras la laparotomía exploradora se añadió bevacizumab 10mg/kg cada 2 semanas ya que se trataba de un tumor de alto riesgo.
+
+Evolución
+Desde el inicio del tratamiento se observó rápido descenso de los niveles de Ca 125 hasta su negativización tras 8 semanas de tratamiento, lo que se correspondió con una clara mejoría clínica y desaparición de la ascitis en las primeras semanas. Como complicaciones presentó únicamente un episodio de diarrea grado 1 y un cuadro febril sin foco que cedió con antibioterapia con amoxicilina-ácido clavulánico.
+Una vez recibidas 12 dosis de paclitaxel-carboplatino (TC) semanal y 6 de bevacizumab cada 2 semanas, se repitieron las pruebas de imagen observándose una clara reducción de los implantes peritoneales y resolución del omental cake. Se discutió por tanto en el comité multidisciplinar de tumores ginecológicos la opción de realizar una cirugía de intervalo para el cáncer de ovario, que se llevó a cabo el día 8 de junio de 2016 sin complicaciones inmediatas.
+En la anatomía patológica de la cirugía no se evidenció infiltración neoplásica, tan solo aislados cuerpos de psamoma, lo que se traduce en una respuesta patológica completa (CRS-3) tras quimioterapia de inducción.

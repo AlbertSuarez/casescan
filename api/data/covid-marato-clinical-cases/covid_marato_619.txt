@@ -1,0 +1,53 @@
+Anamnesis
+Antecedentes personales: NAMC. Dislipemia en tratamiento dietético, pólipo endometrial hiperplásico resecado en enero/2010. No hábitos tóxicos. No tratamiento domiciliario.
+Antecedentes ginecológicos-obstétricos: nulípara. Menarquia a los 13 años. Menopausia a los 49 años.
+No anticoncepción hormonal.
+Antecedentes familiares: sin interés.
+Antecedentes sociales: natural de Brasil, en Canarias desde hace 7 años, vive sola aunque cuenta con buen apoyo social. Trabajaba como profesora.
+Historia oncológica: mujer de 66 años, con índice de Barthel 100, en el que se diagnostican dos tipos de cáncer de mama a lo largo de su historia natural:
+» Carcinoma indiferenciado de mama triple negativo con primario oculto en forma de metástasis cutánea en la zona dorsal en septiembre/2012 en Brasil. Se realiza exéresis de la lesión, con resultado anatomopatológico: infiltración dérmica por carcinoma pobremente diferenciado con características inmunofenotípicas que orientan con una alta probabilidad a que se trate de una metástasis por un carcinoma mamario. Citoqueratina 19 (CK19): positiva (+++). GCDFP-15: positiva (+++). Receptor de estrógenos (RE): negativo. Receptor de progesterona (RP): negativo. Ki-67: < 10%. Herceptest: negativo. Con este resultado, en Brasil se completan los estudios complementarios, sin objetivarse lesión a nivel mamario. Por ello, no recibe tratamiento de quimioterapia ni radioterapia y se decide su seguimiento.
+» Carcinoma lobulillar infiltrante (CLI) de mama derecha en diciembre/2012 en Canarias. A raíz del diagnóstico observado en Brasil, se realiza una mamografía de control en diciembre/2012, donde se objetivan microcalcificaciones agrupadas en el CSE de la mama derecha de 1,5 cm con ecografía de mama sospechosa de malignidad con categoría BIRADS 4 y ecografía axilar sin hallazgos significativos. Se realiza biopsia con aguja gruesa (BAG) con resultado: carcinoma lobulillar infiltrante, bien diferenciado (G1), con componente de carcinoma in situ de tipo lobulillar. CK 19: positiva (+++). RE: 100%. RP: 100%. Ki-67: < 10%. Herceptest: +1. Se completa el estudio de extensión con las siguientes pruebas:
+- TC tórax-abdomen (enero/2013): se evidencia una alteración de la trabeculación ósea del cuerpo de D7, que podría corresponder con un hemangioma. Sin otras particularidades a destacar.
+- Gammagrafía ósea (GGO) (enero/2013): hipercaptación focal localizada en D7-D8.
+Con diagnóstico de CLI de mama derecha estadio clínico I (T1cN0M0), la paciente decide regresar a Brasil para ser valorada por el grupo médico que la diagnosticó previamente.
+
+Allí, en marzo/2013 se realiza una tumorectomía derecha con biopsia selectiva de ganglio centinela con resultado: CLI de 1,8 cm, grado 1. Aislados dos ganglios centinelas con macrometástasis en ambos y extensión al tejido adiposo. Receptores hormonales positivos y Herceptest negativo.
+Con diagnóstico patológico de CLI de mama derecha estadio IIA (pT1cpN1M0) recibe tratamiento adyuvante de quimioterapia con esquema epirrubicina 90 mg/m2 y ciclofosfamida 600 mg/m2 (EC) x 4 ciclos, seguido de paclitaxel 100 mg/m2 x 8 ciclos, que completa entre abril-octubre/2013, con buena tolerancia y sin incidencias.
+Recibe su tratamiento adyuvante de radioterapia e inicia en noviembre/2013 hormonoterapia (HT) con exemestano. En febrero/2014 regresa a Canarias y continúa el seguimiento habitual. En junio/2014 se palpa una lesión sobreelevada e indurada a nivel de la cicatriz dorsal, por lo que se solicita estudio de extensión por sospecha de recaída cutánea sobre la cicatriz previa.
+» Radiografía de tórax (junio/2014): sin hallazgos patológicos.
+» Ecografía de abdomen (junio/2014): sin evidencia de metástasis.
+» GGO (junio/2014): aumento de actividad a nivel de D7-D8.
+» Resonancia magnética (RM) de columna dorsal (julio/2014): alteraciones de señal en la médula ósea del cuerpo vertebral de D7, posiblemente un foco angiomatoso, aunque no se puede descartar en este contexto que se trate de una metástasis.
+Con sospecha de recaída cutánea y una posible metástasis ósea frente a hemangioma sobre el cuerpo vertebral de D7, se decide primero resección de la cutánea y posteriormente tomar una biopsia de la lesión de D7.
+En agosto/2014 se realiza resección quirúrgica de la lesión dorsal con resultado en anatomía patológica: carcinoma de características histológicas similares a la biopsia previa cutánea del 2012, compatible con diagnóstico de metástasis de carcinoma con patrón de infiltración intersticial.
+» RE: negativo.
+» RP: negativo.
+» Herceptest: dudoso (+2). SISH: no amplificado.
+Sobre la lesión extirpada recibe tratamiento complementario de radioterapia. Tras este tratamiento, en octubre/2014 se realiza una biopsia quirúrgica del cuerpo vertebral de D7 compatible con hemangioma.
+Continúa el seguimiento habitual hasta que en enero/2105 refiere síntomas de poliuria aproximada de 6 litros/día, polidipsia de 4 litros/día asociado a una pérdida ponderal de 4 kg y una astenia grado 1 de un mes de evolución. En la exploración neurológica no se observan déficits ni alteraciones.
+Con sospecha de diabetes insípida, bien por un síndrome paraneoplásico o por una metástasis central, ingresa para estudio. En las pruebas complementarias se observa lo siguiente:
+» Analítica. Marcadores tumorales: CEA 347 (0-5 ng/ml), Ca 15.3 143 (0-33 ng/ml). Bioquímica: osmolalidad 298 (280-295 mOsm/l), Na 150 (135-145 mEq/l), AST 98 (5-32 UI/l), ALT 120 (7-33 UI/l), GGT 426 (10-55 UI/l), FA 417 (30-110 UI/l), LDH 327 (100-250 UI/l). Orina: osmolalidad 289 (300-1.200 mOsm/kg), Na 50 (40-220 mEq/l).
+» TC tórax-abdomen: múltiples lesiones focales hipodensas mal definidas y de pequeño tamaño en todo el parénquima hepático. Lesiones líticas y esclerosas que afectan prácticamente a todo el esqueleto, especialmente a nivel axial.
+» Trucut hepático: metástasis de carcinoma pobremente diferenciado.
+» RE: negativo.
+» RP: negativo.
+» GCPDF-15: positivo.
+» RM de silla turca: llama la atención la presencia de un pequeño nódulo hipercaptante, subcentimétrico, localizado en el hipotálamo, inmediatamente por detrás del quiasma óptico en el punto de inserción del tallo hipofisario.
+Una vez confirmada la sospecha de diabetes insípida se instaura tratamiento con DDVAP, con el cual se consigue un control sintomático.
+
+Exploración física
+.
+
+Pruebas complementarias
+.
+Diagnóstico
+Juicio clínico: carcinoma de mama, pobremente diferenciado, estadio IV por letálides cutáneas desde septiembre/2012 de un primario oculto de mama triple negativo en progresión por metástasis hepáticas y óseas múltiples.
+Carcinoma lobulillar infiltrante estadio IIA diagnosticado en diciembre/2012.
+Diabetes insípida secundaria a metástasis de carcinoma de mama.
+Tras informar a la paciente de los nuevos diagnósticos, antes de realizar cualquier tratamiento de quimioterapia o radioterapia, esta decide regresar a Brasil para consultar nuevamente con el grupo médico que ha seguido su caso.
+
+Tratamiento
+.
+
+Evolución
+.

@@ -1,0 +1,27 @@
+Anamnesis
+Se presenta el caso de un varón de 77 años, casado, encofrador retirado. Exfumador desde hace 20 años (índice 35-40 paquetes-año).
+Síndrome de Lynch tipo II, por lo que le realizan colonoscopias totales anuales desde año 2007. Última colonoscopia (agosto/16 diagnóstico: hemorroides) y gastroscopia (enero/17 diagnóstico: esofagitis péptica).
+En seguimiento por adenocarcinoma (ADC) de pulmón pT2pN0 de LSD resecado en septiembre de 2015, inmunohistoquímica (IHQ) (CK7+, CK20-, P40-, TTF1-); molecular: wtEGFR, ALK (-), ROS1 (-), sin signos de recidiva.
+ADC de próstata pT3b, Gleason 3 + 4 con márgenes positivos, realizada radioterapia (RT) con dosis total 66 Gy finalizando en octubre de 2009, sigue controles con cifras de PSA estables.
+Incidentaloma suprarrenal de 10 mm.
+Epilepsia desde la infancia, en tratamiento con fenitoína y fenobarbital (última crisis hace más de 40 años).
+Enfermedad pulmonar obstructiva crónica (EPOC) en seguimiento por Neumología y en tratamiento con aclidinio bromuro.
+Enfermedad de Alzheimer, en tratamiento con donepezilo.
+Acudió al Servicio de Urgencias refiriendo dolor abdominal difuso de predominio en epigastrio y mesogastrio de casi 1 año de evolución, que exacerbaba con la ingesta de alimentos y en ocasiones nocturno que lo despertaba. Pérdida de peso de 10 kg en un año, relacionada con disminución de la ingesta. Refería ritmo defecatorio 1 vez/día, Bristol 3-4, sin sangre. Presentaba además vómitos de contenido alimentario y biliosos, precedidos de nauseas de 1 semana evolución, incoercibles al momento de la consulta en Urgencias, lo que motivo su ingreso hospitalario.
+
+Exploración física
+El paciente presentaba Eastern Cooperative Oncology Group Performance Status (ECOG PS) 1, y destacaba deshidratación, hipertensión, abdomen doloroso en la palpación de epigastrio, hipocondrio derecho y mesogastrio, sin claros signos de abdomen agudo quirúrgico.
+
+Pruebas complementarias
+En AS se evidencio anemia normocítica-normocrómica, en radiografía de abdomen: dilatación leve de asas de intestino delgado.
+En el contexto de paciente con síndrome constitucional, dolor abdominal, vómitos y antecedentes de síndrome de Lynch, ADC pulmonar, ADC prostático, gastro-colonoscopia realizadas hacía menos de un año y sin hallazgos que justificasen el cuadro clínico, se solicitó tomografía computarizada (TC) toracoabdominal que objetivó intususcepción yeyuno-ileal, y un quiste esplénico inespecífico.
+
+Diagnóstico
+Oclusión intestinal por intususcepción yeyuno-ileal, en un paciente varón de 77 años, con antecedentes de síndrome de Lynch tipo II y un ADC pulmonar pT2pN0 resecado en 2015, sin diseminación a distancia valorada en controles realizados por Oncología Médica hasta ese momento.
+
+Tratamiento
+El Servicio de Cirugía procedió con la realización de laparotomía exploradora (03/02/17), evidenciando tumoración umbilicada en borde antimesentérico de intestino delgado, con resección segmentaria yeyuno-ileal + anastomosis latero-lateral. Posteriormente, en el posoperatorio, el paciente evolucionó satisfactoriamente y fue dado de alta.
+En resultado de anatomía patológica (AP) se obtuvo que la pieza de resección quirúrgica era compatible con metástasis de ADC de pulmón primario conocido, IHQ: (CK7+, CK20-, P40-, TTF1-, NapsinA-) (CDX2-, PSA-, MSH6, PMS2 y MLH1 +).
+
+Evolución
+Tres semanas más tarde, el paciente reingresa por síndrome diarreico, sin fiebre, sin vómitos o dolor abdominal, con coprocultivos negativos, toxina para C. difficile negativa y que finalmente es orientado como desfuncionalización temporal preoperatoria del íleon, distal a la zona de oclusión por la invaginación (descartándose intestino corto), controlado con tratamiento sintomático; sin embargo en PET-TC de control que tenía programado, se evidenció una lesión hipodensa (SUVmax. 9,7g/ml) en polo superior de bazo, sugestiva en primer lugar de malignidad, por lo que se le realizo TC-PAAF esplénica, la cual fue compatible con ADC. Posteriormente fue programado para esplenectomía laparoscópica (18/04/17), con AP definitiva de metástasis de ADC pobremente diferenciado de origen pulmonar de 3 cm de diámetro máximo, IHQ: (CK7+, CK20-, P40-, TTF1-). Actualmente el paciente sigue controles en nuestras consultas (último 20/06/17), sin presentar signos, ni hallazgos compatibles con enfermedad metastásica.

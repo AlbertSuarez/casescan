@@ -1,0 +1,27 @@
+Anamnesis
+Mujer de 62 años con antecedentes personales de linfoma tipo B de la zona marginal extraganglionar (MALT) con afectación gástrica y en la médula ósea, en revisiones periódicas, sin tratamiento en la actualidad. Intervenida en febrero de 2010 mediante histerectomía y doble anexectomía por un adenocarcinoma de endometrio tipo endometroide bien diferenciado en estadio IA, en seguimiento por Ginecología. Diagnosticada e intervenida en septiembre de 2010 mediante resección anterior y anastomosis término-terminal por un adenocarcinoma de recto medio en estadio IIIA, por el que recibió adyuvancia con oxaliplatino 130 mg/m2 D1 + capcecitabina 1.000 mg/m2 cada 12 horas D1-D14, y radioterapia concomitante con capecitabina 825 mg/m2 cada 12 h, finalizando en noviembre de 2011. Extirpación en 2013 y 2014 de dos lesiones cutáneas compatibles con epitelioma sebáceo y carcinoma epidermoide. Antecedentes familiares de madre fallecida por carcinoma de colon a los 53 años. Tras estudio genético de la paciente, se detecta una mutación del gen MSH2.
+
+En enero de 2015 ingresa en planta por un síndrome vertiginoso asociado a cefalea, náuseas y vómitos, de varios días de evolución. Durante el ingreso presenta episodios de crisis parciales facial y de la mano izquierda.
+
+Exploración física
+Tensión arterial 120/74 mmHg, FC 80 lpm. Afebril. Eupneica. ECOG 2 (inestabilidad en la marcha y afectada por el dolor). Exploración neurológica: pupilas isocóricas normorreactivas a la luz y a la acomodación, pares craneales normales. Fuerza y sensibilidad conservadas en las extremidades. RCP indiferente bilateral. No rigidez de nuca. Marcha inestable. No dismetría. Resto de la exploración normal.
+
+Pruebas complementarias
+» Analítica: glucosa 140 mg/dl. Neutrofilia sin leucocitosis. CEA normal.
+» TC craneal urgente: se observan al menos cuatro lesiones intraparenquimatosas, una temporal derecha, otra frontobasal derecha (ambas de 1 cm), otra frontoparietal derecha de unos 2,5 cm y temporoparietal derecha de unos 2 cm de diámetro, que presenta edema perilesional y ejerce presión sobre el parénquima cerebral adyacente con borramiento de surcos y desplazamiento de estructuras de la línea media en 3 mm, hipercaptantes e hipervasculares en probable relación con enfermedad metastásica.
+» Resonancia magnética cerebral (20/1/2015): varias lesiones cerebrales en el hemisferio derecho, tres mayores y dos-tres más pequeñas. La mayor en la región frontal (35 mm). Otra temporal insular (22 mm); las restantes de menor tamaño, todas con edema digitiforme y provocan borramiento de surcos.
+Estudio compatible con metástasis cerebrales.
+» TC toracoabdominopélvica (12/1/2015): múltiples infiltrados en ambos LLII, de probable origen infeccioso. Adenopatías mediastínicas paratraqueales subcentimétricas que han aumentado de tamaño.
+Esplenomegalia. Discreto engrosamiento de las paredes del fundus gástrico. Disminución de adenopatías en hilio hepático, ligamento gastrohepático y paraaórtica. Nódulo/adenopatía en el ligamento gastrocólico que ha disminuido de tamaño.
+» PET-TC (19/1/2015): lesiones de parénquima cerebral que sugieren tejido tumoral viable. Aumento de densidad e infiltrados hipermetabólicos en ambos parénquimas pulmonares que sugieren proceso infeccioso.
+» Biopsia de la lesión cerebral (15/2/2015).
+
+Diagnóstico
+Xantroastrocitoma pleomórfico grado II de la OMS.
+Neumonía nosocomial.
+
+Tratamiento
+Corticoterapia, anticomiciales, antibioterapia y radioterapia.
+
+Evolución
+Tras el inicio de los corticoides y terapia anticomicial, la clínica neurológica desaparece. Completa antibioterapia, con resolución de la neumonía nosocomial que padeció durante el ingreso. En febrero de 2015 se realiza biopsia de las lesiones cerebrales, y tras el diagnóstico anatomopatológico defintivo, la paciente recibe tratamiento de radioterapia, con hemiparesia izquierda residual.

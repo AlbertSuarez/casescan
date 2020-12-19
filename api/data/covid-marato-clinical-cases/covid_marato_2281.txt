@@ -1,0 +1,28 @@
+Anamnesis
+Varón de 73 años de edad, con antecedentes de talasemia minor, ictus isquémico sin secuelas en 1998 y adenocarcinoma de próstata (Gleason 4+3) intervenido mediante prostatectomía radical en 2007. En julio de 2009 inicia clínica de estreñimiento sin rectorragia ni síndrome constitucional, por lo que es valorado en septiembre de 2009 en consultas externas de Digestivo, realizándose una analítica sin datos de anemia, con serie blanca y plaquetas normales, CEA 4,0 ng/mL, ECG y radiografía de tórax sin alteraciones relevantes. Se realizó además una colonoscopia que objetivó una estenosis a 50 cm del margen anal con resultado de biopsia positivo para adenocarcinoma moderadamente diferenciado.
+El estudio de extensión (TC abdominal y colono-TC) no demostraron enfermedad metastásica. El 3 de diciembre de 2009 se realizó sigmoidectomía laparoscópica y anastomosis colorrectal, con resultado de adenocarcinoma colorrectal moderadamente diferenciado de 3,7 x 2,8 cm que infiltraba la capa muscular propia y alcanzaba focal y superficialmente la grasa periintestinal, con márgenes de resección distal, proximal y circunferencial libres de afectación neoplásica, pero con metástasis de adenocarcinoma en dos de los nueve ganglios linfáticos aislados en la grasa perisigmoidea, sin datos de invasión vascular.
+Con el diagnóstico de adenocarcinoma de colon estadio patológico pT3 N1 MO (estadio III) fue remitido a consultas externas de Oncología, donde se decidió inicio de tratamiento quimioterápico adyuvante según esquema MOSAIC por seis ciclos (oxaliplatino 85 mg/m2 153 mg, ácido folínico 200 mg/m2 362 mg; 5-FU bolus 400 mg/m2 724 mg, 5-FU en infusión continua 46 horas 2.172 mg), iniciada el 17 de enero de 2010. El 2 de febrero de 2010 reingresa para ciclo 1B, presentando hasta el momento en relación con el tratamiento náuseas y vómitos de tres días, y neurotoxicidad grado 1 de dos días de duración (parestesias en manos y pies), que reapareció con los ciclos siguientes. Cuando acudió a la consulta para inicio de ciclo 4B (mayo de 2010) el paciente refería la reciente aparición de episodios de segundos de duración de visión borrosa y diplopía vertical. No presenta dolor a la movilización ocular ni discromatopsias.
+Ninguna otra sintomatología acompañante.
+
+Exploración física
+Consciente, orientado en persona, espacio y tiempo. Normoconstituido, normal coloración mucocutánea.
+Eupneico. Estable hemodinámicamente.
+Auscultación cardiopulmonar normal. Abdomen con cicatriz media infraumbilical, blando, no doloroso, sin masas ni hepatomegalia o esplenomegalia palpable.
+Exploración neurológica normal. Sin alteración de nervios oculomotores.
+
+Pruebas complementarias
+• Analítica: plaquetas 89.000 mm3; resto normal.
+• Agudeza visual: 0,1 ojo izquierdo; 0,2 ojo derecho.
+• Fondo de ojo: normal.
+• RM cerebral: sistema ventricular de tamaño, morfología y posición normales. Áreas de alargamiento de la señal de resonancia en sustancia blanca periventricular y profunda, secundarias a desmielinización-gliosis de origen vascular isquémico crónico.
+Sin captaciones patológicas tras contraste. No se llegan a demostrar alteraciones en los nervios ópticos.
+• Potenciales evocados visuales: latencia de la onda P100 aumentada en los dos ojos. Amplitud del estado estable disminuida en los dos ojos. Signos compatibles con neuritis óptica severa bilateral.
+
+Diagnóstico
+Neuritis óptica severa bilateral en relación con neurotoxicidad por oxaliplatino.
+
+Tratamiento
+En ese momento (mayo de 2011) el paciente había recibido ya cuatro ciclos de quimioterapia, por lo que se decidió solicitar TC de control (sin alteraciones), y ante la persistencia de síntomas visuales, retirada de tratamiento adyuvante.
+
+Evolución
+El paciente mejoró clínicamente tras la suspensión del tratamiento, con resolución progresiva de la sintomatología en el transcurso de varios meses. En la última consulta en enero de 2012, el paciente se encontraba asintomático, con exploración y analítica normal y TC sin evidencia de recidiva.

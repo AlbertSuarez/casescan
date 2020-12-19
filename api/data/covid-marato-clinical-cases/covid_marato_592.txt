@@ -1,0 +1,22 @@
+Anamnesis
+Paciente varón de 46 años de edad, que en enero del 2000 es intervenido por un tumor testicular, realizándose orquiectomía derecha con resultados de seminoma puro pT2 por invasión de la rete testis sin afectación ganglionar ni de órganos a distancia; tras un año de seguimiento presenta aparición de nódulos pulmonares múltiples asociados a tumoración hiliar izquierda con oclusión del bronquio superior ipsilateral que, una vez biopsiado, resultan concordantes con un tumor de origen testicular, siendo tratado con esquema BEP (bleomicina, etopósido, cisplatino) durante 3 ciclos, con remisión completa. El paciente realiza el seguimiento indicado, sin evidencia analítica ni radiológica de recaída al menos hasta 2004, cuando dejó de asistir a las revisiones programadas.
+En marzo de 2014, el paciente consulta por un cuadro de disnea de esfuerzo y dolor de características pleuríticas, que fue tratado inicialmente como infección respiratoria con amoxicilina-ácido clavulánico durante 7 días, aunque sin mejoría clínica, por lo que se realiza una radiografía de tórax, que muestra una imagen en suelta de globos con afectación de todos los segmentos de ambos campos pulmonares.
+El estudio complementario muestra una ?-fetoproteína y ?HCG normales y una TC con lesiones metastásicas pulmonares múltiples y bilaterales de hasta 4,5 cm de diámetro máximo, adenopatías mediastínicas patológicas y una masa heterogénea de 6,5 cm suprarrenal izquierda sospechosa.
+
+Examen físico
+En la exploración física destaca el aspecto cushingoide con obesidad troncular, atrofia de la musculatura de los miembros inferiores, estrías abdominales y cifras tensionales elevadas.
+
+Pruebas complementarias
+- Se solicita un estudio endocrinológico completo dada la clínica de hipercortisolismo (ACTH basal < 0,5 pg/ml [9-55], cortisol basal 23,5 ?g/dL [4,3-22,4], cortisol a las 23 horas 25,8, androstendiona > 5,5 ng/ml [0,4-3,3], DHEAS 367,37 ?g/dl [80-560]), resultados compatibles con síndrome de Cushing adrenal, por lo que inicia tratamiento con ketoconazol 200 mg cada 8 horas.
+- Se realiza una broncoscopia con toma de biopsia de las lesiones peribronquiales, siendo los resultados negativos para malignidad, por lo que se realiza una biopsia con aguja gruesa de una lesión pulmonar guiada por tomografía, con similares resultados.
+- Finalmente, y con el objetivo de tener suficiente tejido tumoral para el estudio de anatomía patológica, se comenta con el Servicio de Cirugía de Tórax, que realiza una segmentectomía atípica del lóbulo inferior izquierdo por videotoracoscopia, informándose los resultados como cuña de pulmón con metástasis de carcinoma concordante con origen suprarrenal.
+- Se realiza una PET-TC que evidencia una captación con SUVmáx 9,4 en las múltiples lesiones pulmonares y de 7,7 en la masa suprarrenal, sin evidencia de tejido tumoral con afinidad por la FDG en otras localizaciones.
+
+Diagnóstico
+Carcinoma suprarrenal cT2 Nx M1 (estadio IV).
+
+Tratamiento
+Con diagnóstico de carcinoma adrenal diseminado con alta carga tumoral, se inicia tratamiento con esquema mitotane-EDP (etopósido, doxorrubicina, cisplatino), comenzando con la medicación oral y 5 días después la quimioterapia, de la que ha recibido un solo ciclo.
+
+Evolución
+Actualmente, tras el primer ciclo que quimioterapia, el paciente refiere mejoría de la sintomatología y analíticamente destaca el control del hipercortisolismo.

@@ -1,0 +1,26 @@
+Anamnesis
+Mujer de 63 años de edad con antecedentes de hipertensión arterial controlada con un fármaco y bocio multinodular normofuncionante, en el que se halla una masa renal derecha asintomática. Inicialmente se realiza una nefrectomía con exéresis de adenopatía interaortocava, siendo el diagnóstico definitivo de un carcinoma renal de células claras, grado 4 Fuhrman y estadio 3 de Robson, con metástasis ganglionar interaortocava, un estadio T2bN1M0. Continúa seguimiento.
+Once meses después refiere la aparición de una adenopatía supraclavicular izquierda y se objetiva en la TC, además, una adenopatía mediastínica y otra retrocava, todas ellas de tamaño significativo. Se considera un pronóstico intermedio porque presenta una hemoglobina 10 g/dL y un período de tiempo inferior a un año desde el diagnóstico hasta la recaída ganglionar. En esta situación, se inicia tratamiento con sunitinib 50 mg al día cuatro semanas seguidas con dos semanas de descanso. Se realizan controles periódicos de la función tiroidea.
+A los seis meses del inicio de tratamiento, encontrándose en situación de respuesta parcial mantenida, consulta por astenia, edematización progresiva y disminución de la diuresis de una semana de evolución.
+
+Exploración física
+A la exploración física, destaca una palidez generalizada con petequias en miembros inferiores y hematomas generalizados en alrededor de un 20% de la superficie corporal. Presenta cara y párpados edematosos, voz ronca con torpeza del habla, edema pretibial sin fóvea, todo ello compatible con mixedema.
+Asocia disminución del murmullo vesicular bibasal en la auscultación pulmonar. El resto de la exploración, incluido el examen neurológico, sin interés.
+
+Exploraciones complementarias
+Se realizaron las siguientes exploraciones complementarias:
+• Hemograma: leucopenia de 3.140/mmc; neutropenia de 2.130/mmc; hemoglobina de 9,5 g/dL; trombopenia de 24.000/mmc; 3,67% de reticulocitos.
+• Se realiza una extensión de sangre periférica que confirma la trombopenia y objetiva anisocitosis con presencia de 10% de esquistocitos
+• Bioquímica: creatinina de 2,95 mg/dL (el mes previo 1,46 mg/dL); urea de 87 mg/dL; ácido úrico 12,2 mg/dL; magnesio de 1,5 mg/dL; albúmina 2,5 mg/dL; proteínas totales 4,5 mg/dL; LDH 1.000 U/L; haptoglobina menor a 6 mg/dL.
+• TSH 179,2 mU/mL; tiroxina libre de 0,74 ng/dL. La determinación realizada dos meses antes era normal.
+• La autoinmunidad es normal (se solicitan anticuerpos antinucleares, anticardiolipina, anti-DNA de doble cadena, C-ANCA, P-ANCA, antimembrana basal glomerular) y el test de Coombs negativo.
+• Análisis de orina en el que hallamos microhematuria y proteinuria de 1 g.
+
+Diagnóstico
+Se diagnostica de una anemia hemolítica en contexto de una microangiopatía trombótica, con fracaso renal secundario, así como hipotiroidismo clínico todo ello secundario al tratamiento con sunitinib.
+
+Evolución
+La paciente es ingresada para tratamiento de soporte, fluidoterapia y control evolutivo. Se retira el tratamiento con sunitinib y se inicia tratamiento con levotiroxina. Se objetiva una rápida mejoría de la función renal hasta conseguir cifras estables en torno a 1,40 mg/dL a los diez días. La microangiopatía persiste inicialmente alcanzando cifras mínimas de plaquetas de 15.000/mmc, con empeoramiento de los parámetros analíticos de hemólisis durante la primera semana. Posteriormente, se objetiva mejoría progresiva de la microangiopatía hasta la resolución completa a las tres semanas del ingreso con plaquetas por encima de 190.000/mmc, hemoglobina en cifras habituales de 10,4 g/dL, un máximo de 2% de esquistocitos en la extensión de sangre periférica, normalización de la LDH y de la haptoglobina.
+Se objetiva, asimismo, un empeoramiento de la neutropenia grado 2 que la paciente presentaba desde el inicio de tratamiento con sunitinib alcanzado cifras mínimas de 900/mmc. En este contexto se realiza un aspirado de médula ósea que informa de una médula ósea discretamente hipocelular, con aumento de megacariocitos y sin evidencia de infiltración metastásica. Dos semanas después, la cifra de neutrófilos se estabiliza en torno a 2.000/mmc.
+Durante el ingreso se realiza una TC que descarta la progresión de enfermedad, pero se objetiva un derrame pericárdico y pleural atribuible al hipotiroidismo.
+Tras dos meses de la retirada del tratamiento con sunitinib y el inicio de tratamiento con levotiroxina, la paciente se encuentra asintomática, con normalización del hemograma, de las hormonas tiroideas y un filtrado glomerular de 50 mL/min.

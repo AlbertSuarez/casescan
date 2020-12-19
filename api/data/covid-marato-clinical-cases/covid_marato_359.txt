@@ -1,0 +1,26 @@
+Anamnesis
+Paciente mujer que comienza a los 52 años de edad, con antecedente de obesidad y, como antecedentes obstétricos, tres gestaciones, una de ellas aborto espontáneo. Sin antecedentes familiares de interés. Como medicación habitual, únicamente toma anticonceptivos orales. No ha presentado reacciones alérgicas medicamentosas conocidas.
+Comienza en agosto de 2018 con disnea de moderados esfuerzos que va empeorando progresivamente, hasta que, en octubre de 2018, acude a Urgencias, donde se realiza angio-TC para descartar tromboembolismo pulmonar, en la que se detectan áreas de parénquima pulmonar en vidrio deslustrado, así como lesiones óseas sugestivas de depósito secundario y nódulo en mama izquierda sugestivo de malignidad.
+Se completa el estudio de forma ambulatoria con una TC toracoabdominopélvica que se realiza en octubre de 2018, en la que se detectan adicionalmente nódulos espiculados pulmonares sugestivos de metástasis, así como imágenes compatibles con linfangitis carcinomatosa. A continuación, se realizan mamografía y ecografía de mama y axila, detectándose tres lesiones BIRADS5, dos de ellas en mama derecha y una de ellas en mama izquierda, así como ganglios axilares bilaterales de aspecto inespecífico.
+En la biopsia, todas las lesiones presentan histología de carcinoma ductal infiltrante grado histológico 2, con receptores hormonales altamente positivos, HER-2 negativo y Ki67 del 5 %.
+Con el diagnóstico de carcinoma ductal infiltrante bilateral luminal A estadio IV por enfermedad bilateral, ósea y pulmonar se decide inicio de tratamiento sistémico de primera línea con paclitaxel semanal, que comienza el 20 de noviembre de 2018.
+El 21 de noviembre de 2018 acude de nuevo a Urgencias por disnea de reposo que ha empeorado en los últimos días, no asociada a tos o expectoración, dolor torácico, fiebre o sensación distérmica, ni otros síntomas en la anamnesis por aparatos y sistemas.
+
+Exploración física
+En la exploración física destaca saturación de oxígeno basal del 89 %, con estabilidad hemodinámica. En la auscultación pulmonar, destaca hipoventilación bilateral y sibilancias aisladas, sin otros hallazgos significativos.
+
+Pruebas complementarias
+Analíticamente, muestra leucocitosis con 12.100 leucocitos con predominio de neutrófilos, sin elevación de reactantes de fase aguda, así como insuficiencia respiratoria parcial con presión parcial de oxígeno de 58 mm Hg, sin otras alteraciones asociadas.
+Se decide ingreso para continuar el estudio, realizándose TC de tórax en la que se observa derrame pericárdico de nueva aparición, así como aumento de derrame pleural de escasa cuantía con morfología irregular, que no permite descartar la presencia de implantes pleurales. Adicionalmente presenta opacidades en vidrio deslustrado y opacidades laminares bilaterales, y atelectasia del lóbulo medio y la língula.
+Se realiza ecocardiograma transtorácico en el que se evidencia derrame pericárdico leve que no justifica la insuficiencia respiratoria, con fracción de eyección normal.
+Dada la persistencia de la sintomatología, se decide continuar estudio con fibrobroncoscopia, en la que se observan lesiones blanquecinas hipervascularizadas en bronquio superior derecho y bronquio intermediario, que se biopsian, tomándose asimismo muestra mediante lavado broncoalveolar, que se envía para citología. Se envían muestras a Microbiología, resultando los cultivos de aerobios, micobacterias y hongos negativos, así como la determinación de Aspergillus y de citomegalovirus.
+En la Anatomía Patológica se confirma infiltración bronquial por adenocarcinoma con positividad para receptores de estrógenos y HER-2 negativo. En la citología también se detectan células sugestivas de malignidad.
+Diagnóstico
+La biopsia de mucosa bronquial confirma el diagnóstico de metástasis endobronquiales de origen mamario, lo que justifica la clínica de la paciente.
+
+Tratamiento
+Se decide continuar con la pauta de tratamiento sistémico administrando la segunda dosis del primer ciclo de paclitaxel, y se ajusta tratamiento sintomático con morfina oral y corticoterapia, pautándose oxigenoterapia domiciliaria, y la paciente puede ser dada de alta.
+
+Evolución
+La paciente presenta reacción alérgica al paclitaxel, lo que, sumado al empeoramiento progresivo desde el punto de vista respiratorio, habiendo requerido dos ingresos por episodios agudos de broncoespasmo con insuficiencia respiratoria, motiva el cambio de tratamiento a adriamicina a 75 mg/m 2 mensuales dividido en 3 dosis, que inicia el 28 de diciembre de 2018 y que recibe hasta el 8 de febrero de 2019.
+Presenta mejoría progresiva de la disnea, pudiendo retirarse oxigenoterapia, con mejoría radiológica en TC de febrero de 2019, por lo que se decide paso a letrozol asociado a palbociclib, tratamiento que continúa en el momento actual.

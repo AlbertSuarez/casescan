@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 16 años que acude a Urgencias por cuadro progresivo de 5 meses de evolución consistente en estrabismo divergente de ojo derecho con diplopía, acompañado de cefalea frontal ocasional y sensación de giro de objetos con inestabilidad y dificultad para la marcha.
+
+Examen físico
+Normal, salvo exploración neurológica: pupilas lentamente reactivas. Nistagmo horizontal bilateral. Limitación para la supraversión de la mirada y levoducción del ojo derecho. Dismetría índice-nariz. Romberg+. Imposibilidad para la marcha en tándem. Fondo de ojo: edema papilar bilateral.
+
+Pruebas complementarias
+Analítica: hemograma y bioquímica, incluida LDH, normales. AFP y B-HCG, normales.
+TC cerebral: masa en la glándula pineal que mide 37 x 87 x 32 mm. Importante efecto masa con dilatación de tercer ventrículo y ventrículos laterales.
+Ante el cuadro descrito, el paciente es ingresado en Neurocirugía donde se realiza una ventriculostomía endoscópica con toma de biopsias que confirman la presencia de germinoma puro de la glándula pineal.
+Se completan los estudios de extensión con:
+Resonancia magnética (RM) cerebral y de columna vertebral completa: lesión tumoral esférica de 3 cm de diámetro en la región pineal condicionando deformidad del mesencéfalo, tercer ventrículo y vérmix cerebeloso superior. Notable edema perilesional. El estudio del raquis no revela datos que sugieran alteración estructural
+Ecografía testicular, TC-TAP y punción lumbar con estudio citológico y marcadores tumorales en LCR, negativos.
+
+Diagnóstico
+Germinoma puro de la glándula pineal sin afectación de la médula espinal.
+
+Tratamiento
+Se comenta el caso con el Servicio de Oncología Pediátrica, y dada la localización e histología, y con el fin de evitar toxicidades tardías, se decide tratamiento combinado con quimio y radioterapia según el protocolo SIOP CNS GCT II.
+Previa criopreservación de semen, el paciente comienza tratamiento quimioterápico recibiendo 2 ciclos (1 y 3) de carboplatino 600 mg/m2 d1 y etopósido 100 mg/m2 d1-d3, alternando con 2 ciclos (2 y 4) de ifosfamida 1.800 mg/m2 d1-d5 y etopósido 100 mg/m2 d1-d3. Tras recibir el primer ciclo, el paciente recupera la posición y convergencia de la mirada y desaparece el nistagmo horizontal.
+La RM cerebral postquimioterapia muestra disminución de la masa pineal, midiendo ahora 1,8 cm. Ante la respuesta parcial obtenida, el paciente completa tratamiento radioterápico, administrándose una dosis de 24 Gy en ventrículos y boost de 16 Gy en lecho tumoral.
+
+Evolución
+El paciente completa el tratamiento radioterápico sin incidencias en agosto de 2012, pasando a seguimiento mediante revisiones periódicas normales hasta la redacción de este caso.

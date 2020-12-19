@@ -1,0 +1,28 @@
+Anamnesis
+La historia oncológica de nuestro paciente comienza en agosto de 2016, tras consultar debido a la persistencia de una tumoración cervical de partes blandas que le condicionaba disfonía y disfagia a sólidos. Como antecedentes personales, destacaban el ser fumador desde los 16 años con un consumo acumulado de 20 paquetes-año; el haber sido consumidor ocasional en su juventud de cannabis y cocaína; y una historia de hasta tres neumotórax espontáneos izquierdos, llegando a requerir intervención mediante cirugía vídeo-asistida (VAT) el último de ellos. Salvo un adenocarcinoma de próstata a los 70 años en su padre, no constaban otros antecedentes de interés.
+Tras el hallazgo por radiografía de tórax de una masa paratraqueal derecha, se inició el proceso diagnóstico correspondiente, consistente en: tomografía axial computarizada de cuello, tórax, abdomen y pelvis (TC), tomografía por emisión de positrones (PET-TC), broncoscopia, espirometría, biopsia por aguja gruesa (BAG) guiada por TC de nódulo mediastínico y resonancia magnética cerebral (RM).
+Finalmente, el paciente es diagnosticado de adenocarcinoma pulmonar de célula no pequeña cT4 cN2 cM0, estadio IIIB, EGFR y ALK negativos. Además, al diagnóstico, el paciente presentó un síndrome de vena cava superior y trombosis de vena yugular derecha que se controlaron tras el tratamiento con dexametasona y heparina de bajo peso molecular (HBPM), respectivamente.
+Ante esta situación clínica, se decide en el Comité de Tumores Torácicos el inicio de quimioterapia y radioterapia (RT) concomitante según el esquema cisplatino-vinorelbina, con intención radical. Recibe un total de cuatro ciclos, presentando como toxicidad: disgeusia grado 2, acúfenos grado 1, anemia grado 3, neutropenia febril grado 3 y astenia grado 2.
+En diciembre de 2016, en el primer control iconográfico tras fin de quimiorradioterapia concurrente, mediante TC se objetiva una lesión focal hepática sobre segmento II de 1,28 cm, se completa estudio diagnóstico mediante PET-TC y BAG hepática, que confirman la naturaleza metastásica de la lesión por adenocarcinoma pulmonar. Se amplía el estudio anatomopatológico, con resultado de ROS1 negativo, BRAF negativo y PD-L1 < 1 %. Inició en ese momento inmunoterapia con nivolumab del que recibió 8 dosis, presentando como toxicidad exclusivamente astenia grado 1.
+En mayo de 2017, ante el crecimiento de la lesión hepática evidenciado por TC, y habiendo descartado en sucesivos controles la posibilidad de una respuesta paradójica a nivolumab, se propone tercera línea con docetaxel. Recibe un total de cuatro ciclos, logrando enfermedad estable desde el segundo ciclo, y con un perfil de toxicidad consistente en astenia grado 1 y mucositis grado 2. Sin embargo, en agosto de ese mismo año el paciente presenta nueva progresión hepática iconográfica.
+
+Exploración física
+En el momento de la progresión hepática a nivolumab, el paciente presentaba un Índice de Karnofsky de 100. Durante la exploración del abdomen destacaba una hepatomegalia de aproximadamente 2 cm. Además, presentaba un aumento de diámetro de miembro superior derecho, en el contexto de una trombosis de vena subclavia ya descrita y en tratamiento. Las exploraciones cardiaca, pulmonar y neurológica no mostraban hallazgos de significación patológica.
+
+Pruebas complementarias
+» Análisis sanguíneo: HDL 36, GGT 263, FA 209, LDH 2575, Fe 27, Hb 11,7, resto normal.
+» TC de agosto de 2017. Crecimiento de la lesión metastásica hepática conocida (de 10 a 12 cm), asociada a trombosis portal izquierda.
+» PET-TC de agosto de 2017. Lesión sobre lóbulo hepático izquierdo de 86 por 128 mm, con un SUVmax de 17,53. El resto de estudio sin captaciones patológicas.
+
+Diagnóstico
+» » Metástasis única hepática de adenocarcinoma pulmonar en segmento II de 12 cm.
+» » Carcinoma de célula no pequeña cT4 cN2 cM0, estadio IIIB. EGFR y ALK negativos. B-RAF.
+» » Negativo. ROS-1 negativo. PD-L1 < 1%.
+» » Trombosis portal.
+
+Tratamiento
+En este punto, nos encontramos con un paciente con enfermedad diseminada en una única localización de 12 cm de tamaño, en progresión a tercera línea de tratamiento con un ECOG de 0. Tras descartar enfermedad a otros niveles mediante PET-TC, se propone para tratamiento RT sobre lesión hepática con intención de resección quirúrgica en caso de respuesta.
+El paciente recibe RT según el esquema 250 cGy/sesión 5 días a la semana, finalizando el 11 de septiembre de 2017, con mala tolerancia: anorexia y astenia grado 2 asociadas a pérdida ponderal acelerada (ECOG 2). Tras el tratamiento, se logra disminución de tamaño y captación en PET-TC de la lesión, por lo que se propone para resección quirúrgica que se realiza el 19 de febrero de 2018 satisfactoriamente.
+
+Evolución
+Posteriormente, en TC de reevaluación un mes posterior a la cirugía se objetivan lesiones esclerosas desde cuerpo vertebral T1 a T4 que se confirman como metastásicas por PET-TC. Además, el paciente presentaba enfermedad a otros niveles: hepática, suprarrenal, ganglionar abdominal e implante en colon. Dados los hallazgos, se propone inicio de pemetrexed en monoterapia, que inicia el 26 de marzo de 2018 y del que ha recibido en la actualidad un total de dos ciclos sin toxicidad referida.

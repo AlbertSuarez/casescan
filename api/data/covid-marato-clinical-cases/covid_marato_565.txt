@@ -1,0 +1,25 @@
+Anamnesis
+Paciente varón de 54 años, que ha trabajado durante más de 20 años en una cantera, exfumador desde hace 11 años y exbebedor, con antecedente de colitis ulcerosa (CU) sin tratamiento en la actualidad, consulta por expectoración hemoptoica intermitente.
+
+Examen físico
+Asintomático desde el punto de vista respiratorio, presenta 6-7 deposiciones diarias sanguinolentas en relación con CU.
+La auscultación pulmonar y el resto de la exploración son anodinas; no presenta adenopatías axilares ni supraclaviculares.
+
+Pruebas complementarias
+- Se realiza una TC de tórax y abdomen superior, en donde se ve una masa hiliar derecha de 2,5 cm, adenopatías mediastínicas, paratraqueales bilaterales y subcarinales mayores de 1 cm; también se describen adenopatías mesentéricas y en el ligamento gastrohepático subcentimétricas menores de 1 cm.
+- En el informe de la PET hacen referencia a la masa hiliar derecha que posee intensa actividad metabólica (SUV máx: 19,4); también se describen múltiples captaciones patológicas que corresponderían a adenopatías a ambos lados del diafragma, captación patológica a nivel cervical bajo-supraclavicular izquierdo y aumento difuso e irregular de la actividad metabólica a nivel de la médula ósea.
+- El resultado anatomopatológico de la lesión endobronquial obtenida por fibrobroncoscopia es carcinoma epidermoide.
+
+Diagnóstico
+El paciente llega remitido desde otro centro con carácter urgente-preferente con diagnóstico de carcinoma epidermoide de pulmón eIV para tratamiento citotóxico.
+Ante el patrón atípico de captación patológica en la PET y la ausencia de sintomatología, se decide solicitar más pruebas para completar la estadificación:
+- RM de columna: sin datos de infiltración de la médula o enfermedad metastásica ósea.
+- Se realizan EBUS, mediastinoscopia y punción de adenopatía supraclavicular, todas ellas con resultados negativos para malignidad.
+- Colonoscopia: evidencia de pancolitis ulcerosa leve.
+Se trata, por tanto, de un carcinoma epidermoide de pulmón cT1bN0-1M0.
+
+Tratamiento
+En abril de 2014 se realiza lobectomía pulmonar superior derecha con linfadenectomía hilio-mediastínica sistemática, con resultado final de carcinoma epidermoide moderadamente diferenciado de 3,1 cm de diámetro mayor, localizado a nivel hiliar, con infiltración de una adenopatía perihiliar; estadio pT2aN1.
+
+Evolución
+En la actualidad, el paciente presenta un excelente estado general y el plan es iniciar adyuvancia con cisplatino-vinorelbina.

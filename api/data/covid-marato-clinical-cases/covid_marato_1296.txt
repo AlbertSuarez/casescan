@@ -1,0 +1,30 @@
+Anamnesis
+Varón de 82 años, con antecedentes de diabetes mellitus tipo 2, hipertensión arterial e hiperlipidemia. Fumador ocasional en la adolescencia. Sin antecedentes familiares de neoplasia. En tratamiento habitual con rosuvastatina, valsartán e insulina detemir.
+
+Historia oncológica
+El paciente fue diagnosticado en diciembre de 2015 de un adenocarcinoma de pulmón T4N3M0 por afectación mediastínica y ganglionar mediastínica bilateral y supraclavicular izquierda, estadio IIIb. Se realizó estudio molecular de la pieza de anatomía patológica, detectándose un reordenamiento en ALK por fluorescencia por hibridación in situ (FISH).
+El 18 de diciembre de 2015 inició tratamiento con crizotinib, un inhibidor de la tirosina quinasa de ALK de primera generación, a dosis de 250 mg cada 12 horas. A los 8 días de empezar el tratamiento, se suspendió temporalmente y se reintrodujo a dosis de 250 mg cada 24 h, debido a una bradicardia sinusal yatrógena sintomática. Tras la colocación de un marcapasos de doble cámara, se restauró el tratamiento al 100 % de dosis con buena tolerancia. Después de 17 meses de respuesta parcial mantenida, se detectó una progresión local y la aparición de un nódulo satélite en el LSD en mayo de 2017, por lo que se suspendió el tratamiento.
+En situación de progresión con crizotinib; se inició tratamiento con alectinib, un TKI de segunda generación, en junio de 2017 a dosis de 600 mg cada 12 h. Alcanzó respuesta parcial a los 3 meses, que se mantuvo en los meses posteriores. Presentó toxicidad en forma de astenia grado 3, que obligó a disminuir progresivamente la dosis hasta el 25 %. Tras 7,5 meses de supervivencia libre de progresión, y coincidiendo con la reducción de dosis al 25 %, presentó progresión local en febrero de 2018. Se decidió intentar una nueva escalada de dosis al 50 %, con posterior reevaluación a los dos meses, confirmándose progresión de enfermedad local.
+Con el fin de constatar la progresión locorregional, se completó estudio con tomografía con emisión de positrones-tomografía computarizada (PET-TC) y TC del sistema nervioso central (SNC), para descartar enfermedad sistémica. En la PET-TC de abril de 2018 se objetivó captación en una adenopatía laterocervical izquierda, Maximum Standarized Uptake Values (SUVmáx) 5,3 y a nivel de una adenopatía supraclavicular izquierda, SUVmáx 3. Se procedió a realizar biopsia con aguja gruesa (BAG) de ambas adenopatías para confirmación histológica y secuenciación de vías de resistencia. Se obtuvieron, respectivamente, una Anatomía Patológica de linfadenitis granulomatosa e hiperplasia folicular. En relación con el hallazgo anatomopatológico de linfadenitis granulomatosa, se realizó diagnóstico y tratamiento de tuberculosis ganglionar.
+Se trató al paciente con radioterapia (RT) con 66 Greys (Gy) divididos en 34 fracciones desde julio a agosto de 2018 concomitantemente con alectinib. Hasta febrero de 2019, permaneció con enfermedad estable, momento en el que se le realizó otra TC y donde se objetivó nuevamente progresión local. Se valoró la posibilidad de biopsia de la lesión pulmonar, que se desestimó por la baja rentabilidad debido a la necrosis post-RT de la lesión. Se solicitó el uso de lorlatinib en uso expandido, un ITK de ALK de tercera generación; que se inició el 23 de marzo de 2019.
+
+Enfermedad actual
+El 24 de marzo de 2019 acudió a Urgencias por cuadro de 6 horas de evolución de disminución de fuerza en extremidad superior derecha (ESD).
+
+Exploración física
+ECOG 3. Hemodinámicamente estable. En la exploración neurológica, se observó paresia de ESD, parálisis facial central derecha y lateralización de la marcha hacia la derecha.
+
+Pruebas complementarias
+Se realizó en Urgencias una TC craneal (24/03/2019) donde se informó de la aparición de una lesión nodular corticosubcortical parietal izquierda con realce de contraste periférico e importante edema vasogénico compatible con metástasis.
+Durante el ingreso en planta de Oncología, se realizó una TC de cráneo (15/04/2019) donde se objetivó desaparición de la metástasis cerebral con disminución del edema vasogénico frontoparietal izquierdo. También se realizó una TC de tórax, abdomen y pelvis de control (TC-TAP) donde la masa en LSD medía 59 x 55mm, sin cambios respecto a la TC previa.
+
+Diagnóstico
+El diagnóstico en el ingreso fue de progresión tumoral en el SNC de adenocarcinoma de pulmón, estadio III-B (T4N3M0), con ALK traslocado tras tratamiento con crizotinib y alectinib.
+El diagnóstico al alta fue de respuesta completa (RC) cerebral y enfermedad estable pulmonar.
+
+Tratamiento
+Durante el ingreso en Oncología, se mantuvo el tratamiento con lorlatinib y requirió tratamiento de soporte con dexametasona intravenosa.
+
+Evolución
+El paciente acudió a Urgencias con un cuadro clínico que sugería una afectación del SNC a nivel cortical izquierdo. De acuerdo con la sospecha clínica, se solicitó una TC craneal que confirmó dicha sospecha. El paciente ingresó en la planta de Oncología para tratamiento de soporte con corticoides, mientras se mantuvo el tratamiento con lorlatinib. Con el tratamiento recuperó la funcionalidad de la ESD, desapareció la parálisis facial central y normalizó la marcha.
+A los 21 días del ingreso, se realizó estudio de reevaluación con TC craneal y TC-TAP donde se observó respuesta completa a nivel del SNC y enfermedad estable pulmonar. Desde el alta, el paciente ha tolerado bien el tratamiento y se ha mantenido en respuesta completa a nivel del SNC y en enfermedad estable pulmonar. La supervivencia global del paciente es de 3,4 años.

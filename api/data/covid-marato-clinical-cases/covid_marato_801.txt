@@ -1,0 +1,27 @@
+Anamnesis
+Paciente mujer de 35 años sin alergias medicamentosas conocidas ni hábitos tóxicos, con antecedentes de hipertensión arterial de más de 10 años de evolución con 2 episodios de preeclampsia grave que requirieron cesáreas urgentes, dislipemia, diabetes mellitus tipo 1 con regular control metabólico crónico (sin retinopatía ni microalbuminuria) e hiperparatiroidismo normocalcémico con déficit de vitamina D.
+Así mismo, presenta historia extrasistólica ventricular con ecocardiograma dentro de los límites de la normalidad en 2016 y a la anamnesis por aparatos la paciente refiere episodios de palpitaciones junto con episodios de diaforesis de predominio nocturno.
+La paciente consulta el 05/01/2018 en el servicio de Urgencias por episodio de dolor centro torácico opresivo, relacionado con el esfuerzo físico leve (levantar a su hija en brazos), irradiado a extremidad superior izquierda y asociando diaforesis importante.
+
+Exploración física
+A su llegada al Servicio de Urgencias, la paciente presenta una tensión arterial de 141/88 mm Hg; frecuencia cardiaca: 113lpm; saturación de oxígeno basal: 98 % y se encuentra afebril.
+Presenta regular estado general, consciente, orientada y diaforética. Piel caliente. Buena perfusión distal. Eupneica en reposo, tolerando el decúbito. Murmullo vesicular conservado bilateral. Ruidos cardiacos regulares, rápidos, soplo sistólico eyectivo 2/6 en mesocardio que no aumenta con Valsalva. Sin signos de insuficiencia cardiaca congestiva. Pulsos periféricos presentes y simétricos. Pulsos centrales normocinéticos y sin soplos. Abdomen blando y depresible, no doloroso durante la palpación, sin masas ni megalias palpables, peristaltismo conservado. Sin signos de TVP.
+
+Pruebas complementarias
+» ECG: taquicardia sinusal a 110 lpm, PR constante a 120 mseg, aQRS 30º, QRS 80 mseg con morfología de bloqueo incompleto de rama derecha en V1-V2, rectificación del ST en DI-aVL. QTc 416mseg (Bazett).
+» Radiografía de tórax: silueta cardiaca dentro de la normalidad sin signos de insuficiencia cardiaca.
+» Analítica: marcadores de daño miocárdico: CK 131 U/l, CK-MB 2,9 ng/ml, troponina 442,4 pg/ml. Hemograma y hemostasia normales. Bioquímica: función renal, sodio, potasio y perfil hepático normales. Tóxicos en orina negativos. THS y T4 normales.
+» Coronariografía: arterias coronarias sin lesiones significativas.
+» Ecocardiograma: ventrículo izquierdo (VI) de tamaño normal, fracción de eyección (FE) 64 %, hiperdinámico y gradiente mesoventricular.
+» Resonancia magnética cardiaca: VI normal con FE conservada y pequeña necrosis en territorio lateral. Como hallazgos extracardiacos se objetiva masa suprarrenal de 49 x 37 x 41 mm que parece depender de la glándula suprarrenal izquierda.
+Ante los hallazgos de la resonancia, se completa estudio con determinación de catecolaminas (1º determinación: noradrenalina 3007 ug/24 h (0-76), adrenalina 13 ug/24 h (0-18), dopamina 370 ug/24 h (0-390), A. vanilmandélico 5,5 mg/24 h. 2º determinación: noradrenalina 1.936 ug/24 h, adrenalina 16 ug/24 h, dopamina 169 ug/24 h), y metanefrinas en orina de 24 horas (excreción de 3-metoxiadrenalina 0,642 mg/24 h (0,020-0,350), excreción de 3-metoxinoradrenalina 11,112 mg/24 [0,030-0,440]) así como la realización de una RM suprarrenal que evidencia dicha tumoración a nivel suprarrenal izquierda bilobulada con alta señal en T2 y con pequeñas áreas quísticas.
+
+Diagnóstico
+IAMSEST minor Killip I con angina postinfarto en territorio lateral en contexto de situación hiperdinámica probablemente secundaria a feocromocitoma izquierdo.
+
+Tratamiento
+Ante la presunción diagnóstica de feocromocitoma suprarrenal izquierdo se inició tratamiento con α-bloqueantes (doxazosina) cuya dosis se fue aumentando de forma progresiva y posteriormente, por persistencia de la taquicardia, se asociaron ß-bloqueantes con resolución de la clínica y con buena tolerancia.
+Tras ser valorada por los servicios de Anestesia, Endocrinología y Cirugía General, la paciente es intervenida quirúrgicamente el 13/04/2018 mediante una suprarrenalectomía izquierda por vía laparoscópica posterior sin incidencias. El informe anatomopatológico definitivo es el siguiente: feocromocitoma, objetivándose dos nódulos de 45 y 35 mm con presencia de pleomorfismo celular, patrón difuso focal y extensión microscópica a partes blandas periadrenales; junto con presencia de invasión vascular y hemorragia; no se observan mitosis ni necrosis.
+
+Evolución
+Tras la suprarrenalectomía, la paciente presenta normalización de la tensión arterial, sin precisar tratamiento para ello, y descenso progresivo de las necesidades de insulina además de negativización de metanefrinas en orina. Como consecuencia de ello, la paciente presentó mejoría sintomática y de su calidad de vida.

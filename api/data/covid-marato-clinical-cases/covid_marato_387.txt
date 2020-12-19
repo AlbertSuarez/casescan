@@ -1,0 +1,33 @@
+Anamnesis
+Se trata de un varón de 60 años, sin alergias medicamentosas ni hábitos tóxicos, entre sus antecedentes médicos destaca hemocromatosis en heterocigosis y hepatopatía crónica por VHC en fase cirrótica con respuesta viral sostenida a tratamiento y carga viral indetectable.
+Intervenido en octubre de 2015 de prótesis de cadera.
+Consulta en enero 2016 por cuadro clínico de varias semanas de evolución caracterizado por dolor abdominal localizado en hipocondrio derecho irradiado hacia atrás, en cinturón, y alteraciones del hábito intestinal con diarrea de 3-4 deposiciones al día, sin vómitos ni otra clínica acompañante.
+
+Exploración física
+» Durante la exploración física, presenta buen estado general y constantes en rango. Ligera palidez cutánea.
+» Auscultación cardiaca: rítmica, sin soplos.
+» Auscultación pulmonar: ruidos respiratorios conservados.
+» Abdomen: dolor a la palpación profunda en hipocondrio derecho. No se palpan masas ni hepatomegalia. Ruidos hidroaéreos presentes. Murphy y Blumberg negativo. Puño percusión renal: bilateral negativa.
+
+Pruebas complementarias
+Se inicia estudio con ecografía abdominal en donde se visualiza en lóbulo caudado una lesión hipoecogénica, bien definida de 3 cm de diámetro no presente en estudios previos
+Se continúa estudio con TC toraco-abdominal objetivándose lesión hipodensa de bordes mal definidos de 3,4 x 2,6 cm en el lóbulo caudado sugestiva de colangiocarcinoma intrahepático, tres lesiones hepáticas hipodensas en el segmento VI y una en el segmento V a nivel subcapsular de aproximadamente 3 cm sugestivas de hemangiomas ya presentes en estudios previos. En contacto con la lesión de lóbulo caudado, en hilio hepático se evidenciaba conglomerado adenopático de 4,4 x 5,9 x 2,7 cm.
+La RM abdominal confirma los hallazgos de la TC.
+
+Diagnóstico
+El 15/2/16 se realiza ecoendoscopia visualizándose a nivel de lóbulo caudado una lesión redondeada de 25 x 33 mm hipoecoica en relación al parénquima hepático (muestra 1) y adyacente a la misma, a nivel de hilio hepático se observa también adenopatía redondeada de 41 mm de diámetro (muestra 2) y se biopsian ambas lesiones.
+El resultado anatomopatológico informa de células neoplásicas sugestivas de colangiocarcinoma de la muestra 1 y de metástasis de colangiocarcinoma en la muestra 2 de ganglio linfático.
+Con el diagnóstico de colangiocarcinoma Intrahepático se evalúa en Comité Multidisciplinar Hepatobiliar y se propone tratamiento quirúrgico.
+
+Tratamiento
+El 20/4/16 es intervenida mediante segmentectomía del lóbulo caudado más linfadenectomía extendida.
+La Anatomía Patológica informa de carcinoma combinado, hepatocarcinoma grado 2 y colangiocarcinoma grado 3, compatible con tumor de colisión de 4 cm, forma clásica, con bordes quirúrgicos libres e infiltración ganglionar por carcinoma combinado pT2pN1.
+Por técnicas de inmunohistoquímica presenta positividad para hepatocito, arginasa (1) y glipican en el componente de hepatocarcinoma y CK AE1/AE3, CK7, CK 20 en el componente de colangiocarcinoma
+Se evalúa nuevamente en Comité Multidisciplinar Hepatobiliar y se remite a Oncología para valoración de tratamiento complementario, desestimándose tratamiento con radioterapia por tratarse de un colangiocarcinoma intrahepático.
+Recibe tratamiento con quimioterapia con intención adyuvante según esquema gemcitabina 1.000 mg/m2 días 1, 8, 15 cada 28 días, recibiendo un total de 6 ciclos con buena tolerancia a excepción de trombopenia grado II que no precisó ajuste de dosis. Finaliza el tratamiento el 7/10/16.
+
+Evolución
+Una vez finalizado el tratamiento adyuvante con quimioterapia se inicia seguimiento con revisiones periódicas en Oncología Médica.
+Tras un Intervalo Libre de Enfermedad de 12 meses, en TC del 12/1/17 se objetiva un nódulo hepático en el segmento IVA de 22 mm con crecimiento respecto a control previo, así como adenopatías en el ligamento gastrohepático y en cadena celiaca de 12 y 14 mm respectivamente.
+Se evalúa en Comité Multidisciplinar y se desestima tratamiento quirúrgico y tratamiento local con radiofrecuencia por parte de Radiología Intervencionista.
+Ante progresión hepática y ganglionar, sin posibilidades de tratamiento radical se propone tratamiento con quimioterapia en 1ª línea con esquema cisplatino-gemcitabina días 1 y 8 cada 21 días, presentando respuesta parcial tras 3 ciclos y excelente tolerabilidad. Actualmente continúa tratamiento, pendiente de nueva reevaluación tras 6 ciclos.

@@ -1,0 +1,43 @@
+Anamnesis
+Presentamos el caso de una mujer de 61 años con diagnóstico de síndrome de Lynch (mutación en el gen MSH 6) desde el año 2015, en cuya historia oncológica destacan una doble neoplasia sincrónica de útero y ovario, tratada mediante cirugía y quimioterapia complementaria (2013) y un adenocarcinoma de colon tratado quirúrgicamente (2017).
+La paciente acude a control en Oncología Médica en octubre de 2017 donde refiere autopalpación de bultoma en mama derecha. La última TC T-A-P de control se realiza en septiembre de 2017, sin evidencia de enfermedad neoplásica.
+
+Exploración física
+Paciente con buen estado general. Consciente y orientada. Normocoloreada y bien perfundida periféricamente.
+Sin hallazgos reseñables en la auscultación cardiopulmonar.
+
+Exploración mamaria:
+» Mama derecha: área nodular bien delimitada de 1 cm en cuadrante superior externo.
+» Mama izquierda: no se palpan tumoraciones.
+» No se palpan adenopatías axilares, laterocervicales ni supraclaviculares.
+
+Pruebas complementarias
+Ante sospecha de posible neoplasia de mama derecha, se inicia estudio.
+» Mamografía inicial (06/10/2017): la mamografía muestra mamas de densidad heterogénea con distribución simétrica del tejido, sin observarse imágenes nodulares, distorsiones de parénquima ni microcalcificaciones que sugieran malignidad.
+» Ecografía (06/10/2017): en mama derecha, a nivel retroareolar y de unión de cuadrantes externos se identifica una dilatación ductal con engrosamiento de la pared, por lo que se decide, tras administrar anestesia local, realizar biopsia con aguja gruesa bajo control ecográfico. No se aprecian alteraciones en la mama izquierda ni adenopatías axilares de tamaño patológico.
+» Anatomía Patológica BAG mama derecha (17/10/2017): proceso linfoproliferativo B con morfología y fenotipo de linfoma difuso de célula grande B con fenotipo no centro germinal. Ante diagnóstico de LDCGB de mama derecha, se amplía estudio de extensión.
+» PET-TC estadiaje de linfoma (09/11/2017): el estudio no muestra alteraciones del metabolismo glucídico. La masa de mama derecha no muestra aumento de actividad metabólica y el resto de la exploración es compatible con la normalidad.
+» Biopsia de médula ósea (14/11/2017): médula ósea normocelular para la edad de la paciente, con presencia de las tres líneas hematopoyéticas celulares, sin evidencia de infiltración por linfoma.
+Coincidiendo con ausencia de metabolismo en PET, la paciente refiere que ya no se palpa el bultoma en mama derecha. Ante dudas diagnósticas, se decide reevaluar patología mamaria.
+» RM mama bilateral (21/11/2017): no se aprecia captación sospechosa en la mama derecha. Se observa sin embargo una captación de márgenes mal delimitados de 6 mm en CSE de la mama izquierda de la que se recomienda valoración con ecografía y biopsia.
+» Ecografía (22/11/2017): se revisan las imágenes de la RM y se realiza ecografía de mama izquierda sin identificarse ningún nódulo compatible con la imagen de 6 mm localizada en CSE. Se explora la mama derecha, identificando nuevamente varios ductos que confluyen dando una imagen pseudonodular hipoecogénica de 10 mm, que es compatible con la imagen biopsiada previamente (diagnostica de LDCGB), de la que se realiza rebiopsia.
+» BAG guiada por RM de lesión en mama izquierda (23/11/2017): se repite RM donde persiste captación nodular sospechosa en CSE de mama izquierda. Se decide realizar biopsia con aguja gruesa bajo anestesia local.
+» Anatomía Patológica BAG mama izquierda (29/11/2017): carcinoma infiltrante grado histológico I. Receptores estrogénicos 95 %. Receptores progesterona 85 %. ki67 14 %. HER-2 negativo.
+» Anatomía Patológica de rebiopsia por ecografía de lesión en mama derecha (04/12/2017): Mínimo infiltrado linfoide B periductal. No se evidencia el proceso linfoproliferativo observado en la muestra previa; los manguitos celulares descritos representan mínimo contenido celular, sin las características de la muestra anterior. No evidencia neoplasia epitelial.
+
+Diagnóstico
+Lesión en mama derecha compatible con linfoma difuso de célula grande B no centro germinal, que presenta remisión espontánea (no evidencia de metabolismo en PET y 2ª biopsia negativa para el proceso linfoproliferativo evidenciado anteriormente).
+Lesión en mama izquierda hallada de forma incidental: Ca infiltrante GI, cT1bN0.
+
+Tratamiento
+» Mama izquierda: IQ 29/12/2017: cirugía conservadora con ganglio centinela no detectado, por lo que se decide linfadenectomía axilar.
+=> AP. Carcinoma infiltrante mama izquierda estadio IA (pT1b [1 cm] N0sn, en estadio IA-RE 95 %. RP 85 %; ki67 14 %; HER-2 negativo.
+» Mama derecha: R-CHOP x 2-3 ciclos. Se decide no realizar tratamiento profiláctico a SNC por tratarse de mínima enfermedad con posibilidad de regresión espontánea.
+=> Linfoma no Hodgkin difuso de célula grande B no centro germinal estadio I-A.
+Tratamiento adyuvante planteado:
+» Radioterapia a ambas mamas.
+» Hormonoterapia con inhibidor de aromatasa.
+
+Evolución
+La paciente se encuentra actualmente en tratamiento, con buena tolerancia tanto a tratamiento quimioterápico hematológico como a hormonoterapia y radioterapia.
+Realizada última TC T-A-P de control el 13/03/2018 sin evidencia de neoplasia.

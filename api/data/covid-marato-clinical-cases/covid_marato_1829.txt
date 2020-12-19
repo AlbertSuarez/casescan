@@ -1,0 +1,32 @@
+Anamnesis
+Mujer de 54 años, casada, sin hijos. Como antecedentes familiares, destacar un padre fallecido de complicaciones de una diabetes y un sobrino fallecido de linfoma.
+
+Se trata de una mujer sin alergias medicamentosas conocidas, fumadora de un paquete al día, bebedora moderada de vino e hipertensa a tratamiento. Afectada de asma bronquial a tratamiento con inhaladores. Hepatitis A a los 13 años. Intervenciones: histerectomía por miomas.
+
+Exploración física
+Indice Karnofsky: 90%. Cabeza y cuello: sin adenopatías palpables. Masa cervical posterior compatible con lipoma. Boca en buen estado. Aucultación cardiaca: ruidos cardiacos rítmicos Auscultación pulmonar: murmullo vesicular conservado. Mamas sin nódulos. Abdomen: No presenta masas ni megalias. Peristalisis conservada. Extremidades inferiores: sin edemas, varices ni flebitis. Sin focalidad neurológica.
+
+Pruebas complementarias
+» Bioquímica, hemograma y coagulación: normales.
+» Marcadores: CEA, CA 19.9, normales. Cromogranina 1.432 ng/mL.
+» Tomografía computarizada (TC) abdominal: masa de 4,5 cm en cabeza de páncreas, sin dilatación de via biliar, múltiples metástasis hepáticas, adenopatías retroperitoneales en torno a 1 cm y en rodilla duodenal de 1,8 cm.
+» Ventriculografía isotópica (Multi Unit Gated Analysis [MUGA]): fracción de eyección del ventrículo izquierdo (FEVI) 57%.
+» Octreoscán: no muestra captación.
+
+Diagnóstico
+Se llevó a cabo una biopsia de las metástasis hepáticas con inmunohistoquímica fuertemente positiva para cromogranina y sinaptofisina. Ki67 >20% y más de 20 mitosis por 10 campos de gran aumento.
+Después de todos los estudios, y con los datos histológicos, fue diagnosticada de un tumor neuroendocrino de páncreas (TNEP) grado 3, estadio IV irresecable por la presencia de múltiples metástasis hepáticas y ganglionares.
+
+Tratamiento
+Adjuntado conjuntamente con evolución en el siguiente apartado.
+
+Evolución
+Dado que se trataba de un TNEP con un Ki-67 > 20%, se inició tratamiento en agosto del mismo año (2011) con quimioterapia, cisplatino 75 mg/m2 día 1 y etopósido 100 mg/m2 día 1,2 y 3 cada tres semanas, sin toxicidad, salvo alopecia.
+En total recibió seis ciclos y a los seis meses, en enero de 2012, se inició segunda línea con temozolamida 150 mg/m2 día 10 a 14 y capecitabina 1000 mg/m2 cada 12 horas día 1 a 14 cada 28 días debido a mínima progresión hepática en la TC de control. Se había confirmado presencia de metilación de O6-metilguanina-DNA-metiltransferasa (MGMT) en la biopsia hepática.
+Tras recibir deis ciclos con muy buena tolerancia, presentando únicamente mucositis grado 1, se realiza una TC de control donde se observa una respuesta casi completa a nivel del tumor primario y un mínimo crecimiento por criterios RECIST (Response Evaluation Criteria In Solid Tumors) del bloque adenopático a nivel de la rodilla duodenal. Se decide continuar con la misma pauta y repetir estudio de imagen en tres meses.
+Tras recibir dos ciclos más, es hospitalizada debido a una úlcera duodenal FOREST 3. Se realiza una TC que confirma progresión del bloque adenopático a dicho nivel, por lo que se inicia una tercera línea de tratamiento, en agosto de 2012, con estreptozotocina 1.000 mg/m2 y doxorrubicina 50 mg/m2 cada tres semanas, consiguiéndose estabilización de la enfermedad como mejor respuesta.
+En julio de 2013 se sustituye la doxorrubicina por antraciclina liposomal (caelyx) por haber sobrepasado la dosis acumulativa de riesgo de toxicidad cardiaca (450 mg/m2) tras 10 ciclos de tratamiento (dosis recibida 500 mg/m2).
+Tras cinco ciclos con este nuevo esquema, 15 ciclos totales de antraciclina y estreptozotocina, se solicita una TC (marzo de 2014), en la que se observa una mínima progresión a nivel de las lesiones hepáticas con estabilización de la enfermedad en las demás localizaciones. Es en este momento cuando se comienza a sospechar que el Ki-67sea más bajo, ya que la paciente lleva tres años con un Índice Karnofsky >80% y sin observarse progresión importante a ningún nivel. Por ello, se solicita una reevaluación de la biopsia, confirmándose que realmente se trataba de un TNEP con un Ki-67 del 11%.
+Se le comunica la opción de entrar en el estudio SALSUN-2011-01, aceptando y firmando el consentimiento informado, tras asegurarse que cumplía todos los criterios de inclusión.
+En mayo de 2014 comienza a recibir sunitinib a 37,5 mg/día que tras dos ciclos se tuvo que reducir hasta 25 mg debido a toxicidad cutánea, diarrea, mucositis e hipertensión arterial grado 2. En septiembre de 2014 la TC muestra enfermedad estable por criterios RECIST y respuesta por criterios CHOI. 
+Continúa con sunitinib hasta febrero de 2015 cuando se observa progresión a nivel hepático, tanto por criterios RECIST como CHOI, por lo que se inicia una quinta línea de tratamiento con everolimus 10 mg/día, con el que se mantiene en la actualidad habiendo alcanzado como mejor respuesta una reducción del 17%, es decir, no hay cambios por criterios RECIST.
