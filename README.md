@@ -46,6 +46,26 @@ Then, using the `extract_data.py` script, we generated a `pickle` file called `d
 
 So, as it can be seen above, most of the extracted clinical cases have structured section data.
 
+### Encode embeddings
+
+Once we have the `db.pkl` file contains the clinical cases' data, the next step was to extract the meaning of these texts. There are several approaches, but in this scenario we decided to move forward with a transformer.
+
+Firstly we decided to not train our own model, basically for time concerns given that this project is for a hackathons. So, we ended up in research of which is the model that would work better.
+
+We discovered the [sentence-transformers](https://github.com/UKPLab/sentence-transformers) tool, specialized in embedding retrieving from several sentences, as known as paragraphs; exactly what we wanted. Looking at the available pre-trained models in [their documentation](https://www.sbert.net/docs/pretrained_models.html), we finally decided to go for an **Average Word Embeddings Model**, more specifically, going for the 840B version of the GloVe model, the current State-of-the-Art.
+
+This model has an output embeddings size of **300** dimensions. So, given the 6 sections described in the previous step, we created 6 different datasets under an H5 file called `embeddings_full.h5` with the clinical cases text features saved. These 6 datasets has an extra 7 one representing the aggregation of every section, being then a dataset with **1800** dimensions.
+
+```text
+> Dataset aggregated: [(1306, 1800)]
+> Dataset assessment: [(1274, 300)]
+> Dataset evolution: [(1289, 300)]
+> Dataset medical_history: [(1294, 300)]
+> Dataset physic_exploration: [(1282, 300)]
+> Dataset supplementary_tests: [(1285, 300)]
+> Dataset treatment: [(1255, 300)]
+```
+
 ## Development
 
 ### Requirements
