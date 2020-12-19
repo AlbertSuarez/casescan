@@ -8,3 +8,4 @@ tqdm
 Unidecode
 sentence-transformers
 numpy
+h5py
