@@ -73,6 +73,19 @@ paths:
         default:
           $ref: '#/components/responses/Error'
 
+  /stats:
+    get:
+      tags:
+        - stats
+      summary: API endpoint to retrieve similarity stats
+      description: Endpoint for an end-user to retrieve similarity stats with detailed information
+      operationId: src.api.stats.get
+      responses:
+        200:
+          $ref: '#/components/responses/Stats'
+        default:
+          $ref: '#/components/responses/Error'
+
 components:
 
   requestBodies:
@@ -83,7 +96,7 @@ components:
         application/json:
           schema:
             $ref: '#/components/schemas/Sections'
-    
+
     ClinicalCaseSearch:
       required: true
       content:
@@ -106,7 +119,7 @@ components:
       required: true
       schema:
         $ref: '#/components/schemas/CaseId'
-    
+
     OptionalCaseId:
       name: case_id
       in: query
@@ -178,6 +191,22 @@ components:
                                 percentage:
                                   $ref: '#/components/schemas/Percentage'
 
+    Stats:
+      description: Successfully Stats response.
+      content:
+        application/json:
+          schema:
+            allOf:
+              - $ref: '#/components/schemas/BaseResponse'
+              - type: object
+                properties:
+                  response:
+                    type: object
+                    description: Contains the response data.
+                    properties:
+                      total_amount:
+                        $ref: '#/components/schemas/TotalAmount'
+
     Error:
       description: Error response with additional information.
       content:
@@ -240,3 +269,8 @@ components:
       properties:
         section_name:
           $ref: '#/components/schemas/SectionContent'
+    TotalAmount:
+      type: integer
+      description: Amount of clinical cases.
+      example: 2000
+      minimum: 0
