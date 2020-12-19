@@ -39,7 +39,33 @@ paths:
         default:
           $ref: '#/components/responses/Error'
 
+  /search/text:
+    post:
+      tags:
+        - search
+      summary: API endpoint to search similarities given a free-text input
+      description: Endpoint for an end-user to search similarities given a free-text input split in sections.
+      operationId: src.api.search.post_text
+      parameters:
+        - $ref: '#/components/parameters/AggregatedSearch'
+      requestBody:
+        $ref: '#/components/requestBodies/TextSearch'
+      responses:
+        200:
+          $ref: '#/components/responses/Search'
+        default:
+          $ref: '#/components/responses/Error'
+
 components:
+
+  requestBodies:
+
+    TextSearch:
+      required: true
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/Sections'
 
   parameters:
 
@@ -50,10 +76,17 @@ components:
       schema:
         $ref: '#/components/schemas/CaseId'
 
+    AggregatedSearch:
+      name: aggregated_search
+      in: query
+      required: false
+      schema:
+        $ref: '#/components/schemas/AggregatedSearch'
+
   responses:
 
     ClinicalCases:
-      description: Successfully condition analysis response.
+      description: Successfully Clinical cases response.
       content:
         application/json:
           schema:
@@ -76,6 +109,36 @@ components:
                               $ref: '#/components/schemas/CaseId'
                             sections:
                               $ref: '#/components/schemas/Sections'
+
+    Search:
+      description: Successfully condition analysis response.
+      content:
+        application/json:
+          schema:
+            allOf:
+              - $ref: '#/components/schemas/BaseResponse'
+              - type: object
+                properties:
+                  response:
+                    type: object
+                    description: Contains the response data.
+                    properties:
+                      results:
+                        type: object
+                        description: Section results.
+                        properties:
+                          section_name:
+                            type: array
+                            description: List of similar Clinical Cases, sorted by similarity
+                            items:
+                              type: object
+                              properties:
+                                case_id:
+                                    $ref: '#/components/schemas/CaseId'
+                                sections:
+                                  $ref: '#/components/schemas/Sections'
+                                percentage:
+                                  $ref: '#/components/schemas/Percentage'
 
     Error:
       description: Error response with additional information.
@@ -105,6 +168,11 @@ components:
       example: 1
       minimum: 1
       maximum: 2500
+    AggregatedSearch:
+      type: boolean
+      description: True if all the input has to be aggregated for the search, False otherwise
+      default: false
+      example: false
     Error:
       type: boolean
       description: Whether or not the request was successfully processed or not.
@@ -117,11 +185,16 @@ components:
       type: string
       description: Text representing the Clinical case section.
       example: 'Paciente de 31 años...'
-
+    Percentage:
+      type: number
+      format: float
+      description: Similarity percentage.
+      example: 92.5
+      minimum: 0.0
+      maximum: 100.0
     Sections:
       type: object
       description: Clinical Case sections.
       properties:
-        section_object:
+        section_name:
           $ref: '#/components/schemas/SectionObject'
-
