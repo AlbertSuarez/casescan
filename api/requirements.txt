@@ -6,3 +6,5 @@ uwsgitop
 requests
 tqdm
 Unidecode
+sentence-transformers
+numpy
