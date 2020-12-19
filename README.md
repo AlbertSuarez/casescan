@@ -19,6 +19,32 @@ _Coming soon..._
 
 _Coming soon..._
 
+## Similarity analysis procedure
+
+### Extract data
+
+Firstly, looking at the initial dataset of 2.500 clinical cases, we saw that a big portion of them contained headers during the clinical explanation (Like Assessment, Evolution...). So, given the length of every document, we decided to split every clinical case in different sections, being able then to have shorter fragments of text with more concise information.
+
+We did a first assessment of the different headers that could be found in the dataset, and we decided to group them all in these 6 different sections:
+
+```csv
+medical_history,physic_exploration,supplementary_tests,assessment,treatment,evolution
+```
+
+Then, using the `extract_data.py` script, we generated a `pickle` file called `db.pkl` where you can find enough structure data to start playing with it. So, given the initial 2.500 clinical cases, we ended up with the following ones:
+
+**Clinical cases extracted**: [1306 - _52.24%_]
+```
+> medical_history: [1294 - 99.08%]
+> physic_exploration: [1282 - 98.16%]
+> supplementary_tests: [1285 - 98.39%]
+> assessment: [1274 - 97.55%]
+> treatment: [1255 - 96.09%]
+> evolution: [1289 - 98.7%]
+```
+
+So, as it can be seen above, most of the extracted clinical cases have structured section data.
+
 ## Development
 
 ### Requirements
