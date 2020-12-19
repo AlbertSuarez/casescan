@@ -47,7 +47,7 @@ def __extract_item(file_content):
                         item_dict[mapped_section] = list()
                     item_dict[mapped_section].append(file_line.strip())
     # Join all results with end lines
-    return {k: '\n'.join(v) for k, v in item_dict.items()}
+    return {k: '\n'.join(v) for k, v in item_dict.items() if v}
 
 
 def _extract(input_data_folder):
@@ -64,7 +64,7 @@ def _extract(input_data_folder):
 
     log.info(f'Clinical cases extracted: [{len(db_dict)} - {round((len(db_dict) / len(file_list)) * 100.0, 2)}%]')
     for section_name in SECTION_LIST:
-        s_dict = [d[section_name] for d in db_dict.values() if section_name in d]
+        s_dict = [d[section_name] for d in db_dict.values() if section_name in d and d[section_name]]
         log.info(f'> {section_name}: [{len(s_dict)} - {round((len(s_dict) / len(db_dict)) * 100.0, 2)}%]')
 
     return db_dict
