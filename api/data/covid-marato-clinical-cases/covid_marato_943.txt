@@ -1,0 +1,28 @@
+Anamnesis
+» Mujer de 16 años sin antecedentes de interés.
+» Acude a Urgencias por cuadro de 3 semanas de evolución progresiva de diplopía oblicua binocular más marcada en la supraversión, primero de predominio vespertino-nocturno hasta hacerse constante y sin fluctuaciones.
+» Sin cefalea, náuseas ni vómitos; tampoco alteraciones sensitivo-motoras.
+» No tiene fiebre ni sintomatología a otro nivel.
+
+Exploración física
+» Midriasis arreactiva bilateral, sin ptosis, restricción bilateral para la supraversión que supera en maniobras oculocefálicas, con nistagmo de convergencia-retracción en dicha versión.
+» Resto de exploración neurológica normal.
+» Fondo de ojo con lente de 90º: papila normal y mácula normal.
+
+Pruebas complementarias
+» Tomografía computarizada craneal (TC): lesión en región pineal.
+» Resonancia magnética cerebral (RNM): tumoración pineal de unos diámetros aproximados de 21 x 16 x 25, siendo el diámetro mayor el craneocaudal. Discreto brillo en la secuencia difusión, aumento perfusión con valores máximos del triple a sustancia blanca normal, hipo o isointensa con el córtex en T2, con pequeños quistes en su interior.
+» Biopsia-escisión de tumor pineal: proliferación neoplásica de elevada celularidad, que se dispone en un patrón de crecimiento en sábana. Está constituida por células de tamaño grande y nucléolo eosinófilo evidente, con áreas de necrosis también evidente.
+» Inmunohistoquímica: positividad difusa e intensa para vimentina y EMA, positividad focal para CK AE1/AE3, positividad focal y parcheada para PFGA, positividad parcheada para sinaptofisina y neurofilamentos.
+» Índice proliferativo: 20 %.
+
+Diagnóstico
+Tumor rabdoide-teratoide atípico grado IV de la Organización Mundial de la Salud (OMS).
+
+Tratamiento
+La paciente es intervenida el 26/04/2016 mediante craneotomía y resección del tumor pineal. En la RM de control, se observan mínimos restos captantes en el margen inferior y, sobre todo, en el margen anterior del lecho quirúrgico, medial al tálamo derecho.
+La paciente inicia tratamiento según esquema de la clínica Dana Farber de investigación que combina radioterapia con quimioterapia intensiva (vincristina, cisplatino, doxorrubicina, ciclofosfamida, etopósido, dactinomicina, metotrexato, citarabina, leucovorina e hidrocortisona) tanto intravenosa como intratecal y de forma concomitante como secuencial a la radioterapia, repartidas durante 51 semanas de tratamiento (aproximadamente un año de duración). Este esquema de tratamiento se divide en 5 fases: preirradiación, quimiorradioterapia, consolidación, mantenimiento y continuación.
+
+Evolución
+La paciente inicia dicho esquema de tratamiento en mayo de 2016, presentando como únicas toxicidades neutropenia y trombopenia grado IV que requirieron retraso de una semana del tratamiento en 2 ocasiones.
+Tras 5 meses de tratamiento, la paciente presenta respuesta parcial por criterios RANO, que se mantiene en la actualidad.

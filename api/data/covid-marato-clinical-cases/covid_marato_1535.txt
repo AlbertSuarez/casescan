@@ -1,0 +1,47 @@
+Anamnesis
+Varón de 61 años, casado, padre de dos hijos, jubilado. Como antecedentes personales destacaba obesidad grado 1, bronquitis crónica diagnosticada en 2014 que asociaba insuficiencia respiratoria que precisaba oxigenoterapia domiciliaria desde 2016, colitis ulcerosa diagnosticada en 2007 en tratamiento médico y herpes zóster lumbar izquierdo con neuralgia postherpética desde noviembre de 2016.
+Exfumador, con un consumo acumulado de 50 paquetes-año, sin antecedentes familiares de relevancia.
+
+Exploración física
+» ECOG 1. Consciente, orientado y colaborador. Coloración e hidratación normales. Obesidad.
+» Cabeza y cuello: pupilas isocóricas y normorreactivas. Pares craneales normales.
+» Sin adenopatías laterocervicales, axilares ni supraclaviculares.
+» Sin ingurgitación yugular a 45º.
+» Auscultación cardiaca: tonos rítmicos sin soplos audibles.
+» Auscultación respiratoria: leve hipofonesis generalizada en ambos campos pulmonares con sibilantes ocasionales dispersos.
+» Puñopercusión renal bilateral negativa. Espinopercusión negativa.
+» Abdomen globoso, blando y depresible sin masas ni megalias. No puntos dolorosos en la palpación superficial ni profunda.
+» Lesión eritematosa residual de infección reciente por herpes zoster a nivel lumbar bajo izquierdo en proceso de curación.
+» Extremidades: sin edemas. Pulsos presentes, reflejos conservados.
+
+Pruebas complementarias
+Analítica
+» Bilirrubina total: 0,27 mg/dl; AST: 17 UI/l; ALT: 17 UI/l; FA: 69 UI/l; LDH: 186 UI/l; GGT: 39 UI/l.
+» Sodio: 137 mEq/l; potasio: 4,4 mEq/l; cloruro: 96 mEq/l. creatinina: 0,8 mg/dl; índice Cockroft: 151 ml/min; MDRD: >60 ml/min/1,73 mE2; CKD-EPI creatinina: > 90 ml/min/1,73 mE2.
+» ematíes: 4,49 10E12/l; Hb: 9,6 g/dl; Hto: 32,5 %; VCM: 72,4 fl; HCM: 21,4 pg; CHCM: 29,5 g/dl; RDW: 17,3 %; plaquetas: 427 10E9/l; VPM: 9,1 fl; PDW: 8,9 %; PTC: 0,4 %; leucocitos: 13,6 10E9/l; neutrófilos: 63,9 %; Neu: 8,7 10E9/l; linfocitos: 22,2 %; Lin: 3,03 10E9/l; monocitos: 7,6 %; Mon: 1,04 10E9/l; eosinófilos: 5,6 %; Eos: 0,77 10E9/l; basófilos: 0,7 %; Bas: 0,1 10E9/l.
+Radiología
+» RM cerebral (07/03/2017): leucoaraiosis grado 1 de la escala de Fazekas. Pequeño infarto crónico cerebeloso derecho.
+Otras pruebas complementarias
+» Estadio oncológico (08/03/2017): neoplasia pulmonar en LII, infiltración pleural izquierda y lesión tumoral en el músculo dorsal ancho izquierdo.
+» PAAF con ecografía musculoesquelético (09/03/2017): biopsia de nódulo hipoecogénico con hipercaptación en PET.
+» Informe anatomopatológico (09/03/17): metástasis de un carcinoma escamoso.
+
+Diagnóstico
+Carcinoma epidermoide de pulmón estadio IV en lóbulo inferior derecho por metástasis pleuropulmonares izquierdas y en músculo dorsal ancho izquierdo.
+
+Tratamiento
+» » Primera línea: cisplatino-gemcitabina.
+» » Segunda línea: docetaxel.
+» » Tercera línea: erlotinib.
+» » Cuarta línea: osimertinib.
+
+Evolución
+En mayo de 2016, durante la revisión médica por EPOC, se observó por TC un crecimiento de un nódulo en segmento apical del lóbulo inferior derecho. Se realizó PAAF (punción aspiración con aguja fina) guiada por TC con diagnóstico de carcinoma escamoso de pulmón. En el estudio de extensión por PET tan sólo se observó un nódulo de aspecto maligno de 2,6 cm en segmento posterior del lóbulo inferior derecho. Entre junio y julio de 2016 se sometió a tratamiento de radioterapia (SBRT).
+En agosto de 2016, se detectó por TC un nódulo sospechoso en lóbulo inferior del pulmón izquierdo. Se realizó PAAF en septiembre con diagnóstico de carcinoma epidermoide. En octubre se realizó PET/TC que mostró captación patológica en el tumor del pulmón izquierdo y en ganglios de mediastino. En noviembre se realizó PAAF transbronquial de adenopatías mediastínicas con resultado negativo para células malignas.
+Entre diciembre de 2016 y febrero de 2017, estando pendiente de iniciar radioterapia sobre el pulmón izquierdo, presentó disnea en relación con derrame pleural izquierdo, siendo necesaria la realización de varias toracocentesis evacuadoras (citología negativa para células malignas). En febrero de 2017, se realizó TC en la que se halló engrosamiento nodular pleural en hemitórax izquierdo sugestivo de afectación metastásica y consolidación de distribución peribronquial en lóbulo inferior izquierdo y língula sugestiva de carcinoma.
+En marzo de 2017 solicitó segunda opinión. Se realizó PET en la que se objetivó el carcinoma conocido en LII, infiltración tumoral de la pleura izquierda y una posible metástasis en el músculo dorsal ancho izquierdo. Se tomó PAAF de la lesión del músculo dorsal ancho izquierdo con diagnóstico de metástasis de carcinoma escamoso. Se realizó panel molecular Oncomine Focus Panel 52 genes, objetivándose deleción de los exones 2 al 7 de EGFR. Se completó estadificación con resonancia magnética cerebral en la que no se hallaron signos de diseminación.
+En abril de 2017 inició tratamiento de quimioterapia con cisplatino 50 mg/m2 y gemcitabina 800 mg/m2 en ciclos de 14 días. En mayo presentó cuadro de neumonía asociada a cuidados sanitarios, por la que precisó para tratamiento antibiótico. Días después, presentó cuadro de disnea aguda con desaturación hasta 65 % pese a oxigenoterapia permanente, con posterior pérdida de consciencia. En la angio-TC realizada se reveló la existencia de un tromboembolismo bilateral, por lo que se pasó a tratamiento anticoagulante a con heparina de bajo peso molecular (HBPM).
+En junio el paciente ingresó por disnea progresiva, fiebre y trombocitopenia grado 4. Requirió transfusión de plaquetas, ajustando dosis de anticoagulación con recuperación de las cifras analíticas. Continuó tratamiento de quimioterapia con reducción de la dosis total un 25 %, continuando con buena tolerancia al tratamiento. En julio el paciente presentó intenso tenesmo rectal con hematoquecia, asociado a síndrome febril. Solicitamos valoración al Servicio de Digestivo, por sospecha de posible brote de colitis ulcerosa.
+Se obtuvo aislamiento de Clostridium difficile, iniciando tratamiento con metronidazol. Además, presentó alteración de cifras glucémicas en contexto de tratamiento esteroideo, por lo fue valorado por el Servicio de Endocrinología, siendo diagnosticado de diabetes mellitus tipo 2 con mal control glucémico (hemoglobina glicosilada de 8,2 %), iniciando tratamiento con antidiabéticos orales e insulina. El paciente continuó tratamiento de quimioterapia hasta agosto por progresión de la enfermedad a nivel pulmonar y hepático, con aparición de nueva lesión sugestiva de metástasis. Se inició segunda línea de quimioterapia con docetaxel con buena tolerancia.
+Comprobada la nueva progresión de la enfermedad en octubre, se planteó iniciar nueva línea de tratamiento, iniciando erlotinib 150 mg (1 comprimido/día), debido a la comorbilidad y al estudio molecular, a pesar de no haber presentado una mutación clásica de sensibilidad. Los inhibidores de tirosina quinasa gefitinib y erlotinib han demostrado actividad antitumoral en el tratamiento del cáncer pulmonar de células no pequeñas con la mutación EGFRvIII. Presentó a continuación respuesta radiológica y química de la enfermedad.
+En enero de 2018 presentó progresión torácica. Se solicitó biopsia líquida para determinación en cfADN de mutación de resistencia T790M. Se inició tratamiento con osimertinib, inhibidor de la tirosina quinasa (TKI), indicado para el tratamiento del cáncer de pulmón no microcítico (CPNM) localmente avanzado o metastásico con mutación positiva del receptor del factor de crecimiento epidérmico (EGFR) T790M.

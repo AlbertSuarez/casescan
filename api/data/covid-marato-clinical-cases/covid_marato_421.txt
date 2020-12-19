@@ -1,0 +1,23 @@
+Anamnesis
+Varón de 66 años,exfumador desde hace 6, con una dosis acumulada de 40 años-paquete, que consulta en Traumatología por coxalgia derecha progresiva y severa y características mixtas, de 1 mes de evolución, sin relación con trauma previo, fiebre ni síndrome constitucional.
+
+Examen físico
+Buen estado general. Bien nutrido. Sin adenopatías accesibles. Auscultación cardiopulmonar sin hallazgos de interés.
+Abdomen sin masas palpables. Tacto rectal compatible con hipetrofia de próstata. Caderas móviles no dolorosas a la movilización pasiva ni activa. Lassegue negativo bilateral.
+
+Pruebas complementarias
+Ingresado para estudio por la severidad del dolor, se solicita: Radiografía de tórax: se aprecia una masa pulmonar en el lóbulo superior izquierdo.
+Analítica completa con hemograma y bioquímica básicas: sin hallazgos de interés. PSA sérico de 8 ng/ml (hiperplasia benigna de próstata ya conocida).
+Tomografía computarizada (TC) de tórax a pelvis y resonancia magnética (RM) pélvica: masa pulmonar de 38 mm. Lesión en rama iliopubiana derecha, de características osteolíticas y componente de partes blandas. En la RM infiltra paquete muscular y glándula prostática sin sugerir origen en la misma.
+Tomografía por emisión de positrones (PET)-TC: hipermetabolismo sugestivo de viabilidad tumoral (SUV 25,7 pulmonar, SUV 15,7 óseo), así como una adenopatía adyacente al cayado aórtico (SUV 15,7). 
+RM cerebral: sin hallazgos. Se realiza punción-biopsia de ambas masas con resultado de adenocarcinoma de origen pulmonar. EGFR indeterminado por muestra insuficiente.
+
+Diagnóstico
+Adenocarcinoma pulmonar estadio clínico IV-b (T2N2M1b) (lesión ósea única). Performance status (PS) 1.
+
+Tratamiento
+Se presenta el caso en Comité Multidisciplinar, decidiéndose abordaje radical de la lesión ósea con RT (40 Gy) y tratamiento QT-RT de la lesión pulmonar (CDDP 75 mg/m2 y pemetrexed 500 mg/m2 el día 1, cada 21 días, 4 ciclos + radioterapia externa, dosis total 66 Gy), seguido de pemetrexed de mantenimiento 500 mg iv cada 21 días.
+
+Evolución
+Tras tercer ciclo de pemetrexed, con un intervalo libre de progresión de 6 meses, el paciente ingresa por crisis comicial y se objetiva la aparición de nuevas lesiones, 1 ilíaca, 1 suprarrenal y 2 cerebrales (parietal 2,4 x 2 cm y occipital de 5 mm), con respuesta completa de las iniciales. Se biopsia la lesión muscular y se administra radioterapia estereotáxica fraccionada de ambas lesiones cerebrales (31,5 Gy y 25,5 Gy). Resultado genético: EGFR mutación exón 20 S7681.
+ALK: FISH positivo para reordenamiento. En espera de confirmación ALK en laboratorio central, se inicia erlotinib 150 mg/día, con respuesta completa metabólica tras el tercer ciclo y buena tolerancia (rash grado 2). Estable 19 meses tras el diagnóstico.

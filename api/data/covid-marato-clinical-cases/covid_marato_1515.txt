@@ -1,0 +1,35 @@
+Anamnesis
+Mujer de 59 años que presenta como antecedentes médicos hipotiroidismo en tratamiento con levotiroxina. Además, es fumadora de 40 paquetes-año. Es alérgica al ácido acetilsalicílico y a la penicilina.
+
+Antecedentes oncológicos familiares
+Madre diagnosticada de adenocarcinoma de endometrio a los 80 años y hermano de adenocarcinoma de pulmón a los 54 años.
+
+Historia oncológica personal
+En marzo de 2008 fue diagnosticada de adenocarcinoma de endometrio estadio IB (T1b N0 M0) tratado con histerectomía más salpingooforectomía bilateral.
+En agosto de 2016 fue diagnosticada de adenocarcinoma gástrico estadio III-C (T3 N2 M0) HER2 negativo. Recibió 3 ciclos de quimioterapia neoadyuvante con esquema CAPOX (capecitabina más oxaliplatino), observándose una respuesta parcial radiológica.
+En febrero de 2017 se realizó una gastrectomía subtotal con linfadenectomía D2, laparoscopia exploradora y una reconstrucción en Y de Roux con diagnóstico anatomopatológico de adenocarcinoma gástrico tipo intestinal, grado 3, estadio II-B (pT3 N1 (1/18) M0) HER2 negativo.
+Entre abril y mayo de 2017 recibió tratamiento adyuvante con capecitabina y radioterapia concomitante completando un total de 25 sesiones (50.4 Gy) con buena tolerancia al tratamiento.
+Tras un intervalo libre de enfermedad de 16 meses, en noviembre de 2018 consulta por cuadro de ictericia, dolor abdominal epigástrico y pérdida de peso por lo que se decide ingreso en Oncología.
+
+Exploración física
+» Paciente caquéctica con coloración ictérica de mucosas, deshidratación cutáneo-mucosa. IMC 18 kg/m2. PS2.
+» Exploraciones cardiopulmonar, abdominal y neurológica normales.
+
+Pruebas complementarias
+» Analítica completa: destaca aumento de bilirrubina (4,5 mg/dl), anemia (Hb 10 g/dl), hipoproteinemia (5,1 g/dl) e hipoalbuminemia (2,5 g/dl).
+» TC toracoabdominopélvica: se observó una tumoración a nivel de la encrucijada biliopancreática de 3 cm que ocasionaba dilatación de la vía biliar, y a nivel abdominopélvico pequeños implantes de carcinomatosis peritoneal con ascitis moderada.
+» Biopsia pancreática: infiltración por adenocarcinoma pobremente diferenciado de probable origen gastrointestinal con presencia de células en anillo de sello, con características histpatológicas similares a biopsia gástrica previa. Positividad para CDX2, CK19, CEA, CK20. Negativo para CK7 y p53.
+Detección de IMS por PCR y falta de expresión de las proteínas reparadoras por IHQ.
+
+Diagnóstico
+Recidiva de adenocarcinoma gástrico pobremente diferenciado estadio IV (carcinomatosis peritoneal), HER2-, IMS+.
+
+Tratamiento
+Quimioterapia esquema CAPOX como 1ª línea y pembrolizumab iv en 2ª línea de tratamiento.
+
+Evolución
+La paciente presentó una recaída a nivel local con tumoración pancreática de 3 cm que ocasionó una ictericia obstructiva secundaria. Ante una masa biliopancreática, se planteó un diagnóstico diferencial entre recidiva de un tumor gástrico o una neoplasia primaria de páncreas, por lo que se realizó una biopsia que confirmó la recaída del cáncer gástrico. Se colocó un drenaje biliar externo con resolución del cuadro de ictericia y normalización de la cifra de bilirrubina. Posteriormente, se decidió administrar quimioterapia esquema CAPOX como primera línea de tratamiento de enfermedad metastásica, dada la respuesta que presentó a dicho tratamiento en neoadyuvancia, y se dio el alta hospitalaria.
+La paciente presentó náuseas G3 y vómitos G2 (common toxitity criteria) secundarias a quimioterapia, con escasa ingesta de alimentos e importante desnutrición secundaria con repercusión en los parámetros analíticos que precisó de un nuevo ingreso en Oncología para nutrición parenteral. Después de 3 ciclos de CAPOX, y dada la mala tolerancia al tratamiento y al empeoramiento del estado general, se solicitó aprobación como uso especial de pembrolizumab. Al alta, se gestionó una nutrición parenteral cíclica nocturna y comenzó el tratamiento con pembrolizumab 200 mg iv cada 21 días.
+En febrero de 2019, debido a mejoría de la sintomatología, normalización de parámetros analíticos y al aumento adecuado de peso con buena tolerancia a la alimentación oral, se decide por parte de la Unidad de Nutrición retirar la nutrición parenteral. Además, debido a los antecedentes oncológicos, se decidió remitir a consulta de consejo genético por sospecha de síndrome de Lynch, ya que la paciente cumplía criterios de Bethesda al tener dos neoplásicas metacrónicas (endometrio y gástrico) de la esfera del síndrome de Lynch con alta IMS.
+En marzo de 2019 en la TC de reevaluación de enfermedad, tras tres ciclos de pembrolizumab se objetivó una respuesta completa al tratamiento sin evidencia de enfermedad, por lo cual se decidió continuar con inmunoterapia y se retiró el drenaje biliar externo.
+Actualmente, sigue en tratamiento activo con un buen estado general (PS0) y con una respuesta mantenida en la TC de junio de 2019.

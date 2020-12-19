@@ -1,0 +1,30 @@
+Anamnesis
+Varón de 49 años de edad, alérgico a la penicilina, exfumador desde hace 2 años (25 paquetes/año).
+Antecedentes de hipotiroidismo iátrogeno tras radioiodo por hipertiroidismo. Intervenciones quirúrgicas: amigdalectomía, apendicectomía, hernioplastía inguinal derecha, hemilaminectomía + discectomía L3-L4.
+En marzo de 2013 acude a Urgencias por dolor en hipogastrio y fosa iliaca izquierda de 4 días de evolución. Un pico febril de 38 ºC el día anterior. No hay alteración en el hábito intestinal, síndrome miccional, síndrome constitucional ni flushing.
+
+Examen físico
+Presenta estado general conservado, constantes vitales normales excepto temperatura de 38.1 ºC. Adenopatía supraclavicular derecha dolorosa, no móvil. Aparato cardiopulmonar sin alteraciones. En abdomen doloroso a la palpación profunda en fosa iliaca izquierda, sin peritonismo, no se palpan masas o megalias. Sin edemas. No presenta focalidad neurológica.
+
+Pruebas complementarias
+- Analítica sanguínea: leucocitos 15.000; neutrófilos 78,8%; bilirrubina total 1,62 mg/dl; PCR 16,3 mg/dl; VSG 64 mm/h; TSH 3,06 uUI/ml; hemocultivos y urinocultivos negativos; marcadores tumorales normales; serologías virales negativas.
+- Radiografías de tórax y abdomen: bronquiectasias basales, luminograma aéreo inespecífico.
+- Ecografía abdominal: múltiples LOE hepáticas hiperecoicas.
+- TC TAP: bullas en vértices pulmonares, discretos signos de enfisema, masa adenopática mediastínica, paratraqueal derecha con signos de necrosis. Hepatomegalia con múltiples LOE en todos los segmentos. Adenopatías perihepáticas y retroperitoneales. No hay dilatación de vías. Masa de aspecto infiltrante y necrosis interior (duda entre conglomerado adenopático versus masa yeyunal). Implantes peritoneales. Engrosamiento íleon terminal.
+- Tránsito intestinal: apertura del marco duodenal por desplazamiento debido a tumoración extrínseca.
+- Anatomía patológica de biopsia hepática: metástasis por carcinoma neuroendocrino bien diferenciado de probable origen gastroenteropancreático.
+- Inmunohistoquímica: CK7 +, CAM 5.2 +, sinfaptofisina +, CD 56 +, CDX2 +, CEA Policlonal +, Cromogranina +, CK20, TTF1 -, Tiroglobulina -. Ki 67 5%.
+- Octreoscán: múltiples depósitos patológicos en adenopatía supraclavicular derecha, mediastino, ambos lóbulos hepáticos, focos hipercaptantes abdominales e implantes peritoneales.
+- Ac. Vanil Mandélico, Ac 5-OH indolacético, Ac homovanílico y metanefrinas en orina normales. Cromogranina 1.945 ng/dl (normal hasta 100).
+
+Diagnóstico
+Tumor neuroendocrino de probable origen gastroenteropancreático bien diferenciado con metástasis hepáticas y ganglionares.
+
+Tratamiento
+Se inicia tratamiento con análogos de la somatostatina y se reevalúa en 3 meses con TC con empeoramiento radiológico con aumento de las lesiones hepáticas, peritoneales y adenopatías retroperitoneales. Control de cromogranina 438,7 ng/ml. Se presenta en Comité de Tumores y se decide asociar inhibidores de la tirosincinasa (sunitinib) a análogos de la somatostatina ante un tumor neruroendocrino bien diferenciado metastásico. Inicia sunitinib 37,5 mg cada 24 horas.
+
+Evolución
+Remitido a Dermatología por lesiones en la cavidad oral y dérmicas palmoplantares erosivas y descamativas tipo eritrodisestesia palmoplantar secundario a tratamiento con sunitinib. Además, se evidencia despigmentación del cabello, cejas y en regiones acrales.
+En TC de reevaluación (abril de 2014) se observa mejoría radiológica con reducción en el tamaño de los conglomerados adenopáticos mediastínicos y abdominales. Persiste la existencia de múltiples lesiones hepáticas, la mayoría de las cuales muestran una leve reducción de su tamaño, siendo su aspecto en la actualidad más necrótico que en la previa.
+La lesión mesentérica también presenta un diámetro inferior. Reducción de tamaño de la lesión suprarrenal izquierda (actualmente 18 mm).
+En octreoscán (mayo de 2014) se evidencia marcada disminución de la captación del trazador en hígado, abdomen, lo que está en relación con una respuesta parcial al tratamiento. Último control de cromogranina 142 ng/ml.

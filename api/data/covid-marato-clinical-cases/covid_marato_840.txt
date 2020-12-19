@@ -1,0 +1,29 @@
+Anamnesis
+Paciente varón de 21 años de edad con antecedentes quirúrgicos de herniorrafia inguinal bilateral. Sin antecedentes familiares oncológicos, hábitos tóxicos ni alergias medicamentosas conocidas.
+En noviembre de 2013 acudió al Servicio de Urgencias por padecer un cuadro clínico consistente en cefalea frontoparietal de predominio matutino, fotofobia, mareos y náuseas.
+
+Exploración física
+El paciente se encontraba consciente y orientado, escala de coma de Glasgow de 15, con pupilas isocóricas y normorreactivas, pares craneales indemnes, no manifestaba alteraciones visuales, ni tampoco alteraciones motoras de vías largas. Hoffman positivo bilateral con hiperreflexia generalizada de predominio izquierdo. Presentaba clonus inagotable izquierdo y clonus agotable derecho. Reflejo cutáneo-plantar indiferente bilateral. Se observó disdiadococinesia con leve disartria e inestabilidad en la marcha hacia la izquierda.
+
+Pruebas complementarias
+» Resonancia magnética urgente: masa de 5,4 x 4,3 x 4,2 cm de diámetro (AP x T x L) de localización central en la fosa posterior, con importante obliteración del cuarto ventrículo e hidrocefalia triventricular reactiva.
+» Punción lumbar con citología de líquido cefalorraquídeo: negativa para enfermedad tumoral.
+» Resonancia magnética postquirúrgica de control: no se aprecian imágenes que sugirieran recidiva tumoral.
+
+Diagnóstico
+Meduloblastoma grado IV de vermis cerebeloso.
+
+Tratamiento
+Se practicó resección urgente de la lesión. El resultado anatomopatológico de la pieza fue el siguiente: meduloblastoma grado IV con ki-67 positivo en el 90% de las células y alto índice de proliferación celular.
+Tras discutir el caso en el comité de tumores de sistema nervioso, se decidió instaurar tratamiento con quimioterapia y radioterapia concomitante seguida de quimioterapia de mantenimiento posterior.
+El tratamiento se administró de la siguiente manera: entre enero y marzo de 2014 recibió radioterapia sobre el neuroeje (36 Gy) y la fosa posterior (54 Gy) concomitante con siete ciclos de vincristina (1,5 mg/m2).
+
+Evolución
+Durante el tratamiento presentó toxicidad moderada consistente en astenia grado 3, emesis grado 3 y neutropenia grado 2. Por la mala tolerancia al tratamiento, el paciente decidió no continuar la quimioterapia de mantenimiento.
+La resonancia magnética cerebral de control posterior al tratamiento adyuvante no evidenció restos de neoplasia.
+Durante el seguimiento (noviembre de 2014), el paciente manifestó un cuadro de dolor lumbar irradiado a las extremidades inferiores de gran intensidad, por lo que se realizaron las siguientes pruebas complementarias:
+» PET-TC: captación ósea a lo largo de toda la columna vertebral y tercio proximal de ambos húmeros y fémures, con SUV máx. de hasta 6,8.
+» RM cerebral de reevaluación: modificaciones postquirúrgicas cerebelosas derechas, sin apreciar signos de recidiva tumoral local.
+» Analítica: trombopenia grado 4 persistente.
+Fue diagnosticado de recidiva a distancia, por lo que inició tratamiento quimioterápico paliativo con esquema cisplatino 80 mg/m2 día 1 y etopósido 100 mg/m2 días 1 y 3. Tras el primer ciclo de quimioterapia presentó mejoría de la trombopenia, que se normalizó tras el segundo. Completó el tratamiento con cinco ciclos de quimioterapia, con buena tolerancia.
+Para el estudio de reevaluación se solicitó una PET, en la que se objetivó una respuesta completa de las lesiones. Actualmente se encuentra libre de enfermedad y los hemogramas seriados se han mantenido en cifras estables hasta la fecha.

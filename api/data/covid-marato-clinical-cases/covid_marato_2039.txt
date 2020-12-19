@@ -1,0 +1,39 @@
+Anamnesis
+Paciente Varón de 71 años derivado en Abril de 2014 a consultas de Oncología para valoración de tratamiento.
+
+Antecedentes Familiares, no refiere, tres hijos sanos.
+Antecedentes personales: No alergias medicamentosas conocidas. Fumador de 30 paquetes-año. No bebedor habitual. Diagnosticado en 1985 de Artritis reumatoide en segumiento por Reumatología (ha recibido tratamiento con antiinflamatorios no esteroideos, coticoides, Metotrexato).Osteopenia femoral importante en tratamiento con Denosumab (previamente bifosfonatos). Insuficiencia renal crónica secundaria a nefropatía tubulointersticial crónica por AINEs, diagnosticada en 2009. Cardiopatia isquémica en segumiento por Cardiología desde 2010. Intervenciones quirúrgicas previas: Artroplastia de rodilla derecha y hernias inguinales. Fotoexposición solar por ocio, quemaduras solares en juventud.
+Fototipo III pelo castaño (ahora canoso) y ojos marrones, no efélides.
+
+Paciente que en Septiembre de 2013 comenzó a notar cambios morfológicos de una lesión pigmentada en región ilíaca derecha que tenía desde siempre. La lesión comenzó a sobre elevarse y a sangrar. Su médico de cabecera lo derivó a Dermatología donde ante la sospecha de melanoma intervienen al paciente el 09/10/2013, con resultado de Anatomía Patológica de Melanoma de extensión superficial, a 0.5cm del márgen de resección, Breslow de 4mm y 7 mitosis/mm2, estadio pT3b. Se completó la intervención con ampliación de márgenes y Biopsia selectiva de ganglio centinela el 13/12/2013 (en la ampliación no se evidenciaba neoplasia y el ganglio fue positivo) y posterior linfadenectomía el 14/02/2014. Estadio T3, N1b, M0.
+En este contexto es derivado a consultas de Oncología para valoración de tratamiento.
+
+Exploracion fisica
+El paciente presentaba un buen estado general con un ECOG de 0, consciente, orientado y colaborador, bien hidratado y perfundido. Las cicatrices a nivel de región iliaca derecha e inguinal derecha estaban en buen estado, no le producían dolor y no presentaba lesiones pigmentadas sospechosas. Auscultación cardiorrespiratoria: rítmico a buena frecuencia, sin soplos, murmullo vesicular conservado bilateral, sin ruidos sobreañadidos. Abdomen blando, depresible, no doloroso a la palpación, ruidos hidroaéreos presentes. Miembros inferiores sin edemas ni signos de trombosis venosa profunda. Sin adenopatías palpables a nivel inguinal, axilar ni cervical a nivel bilateral.
+
+Pruebas complementaria
+Anatomía Patológica de la primera intervención y de la linfadenectomía:
+Cirugía tumor primario: Melanoma de extensión superficial, con área central nodular ulcerada (fase de crecimiento vertical), de 4mm de invasión, que se sitúa a 0.5cm del margen lateral de resección.
+Mínima respuesta linfocitaria peritumoral. Ausencia de imágenes de invasión tumoral vascular y perineural. 7 mitosis/mm2. Estadio pT3b de la clasificación TNM.
+Linfadenectomía inguinal: metástasis de melanoma en 1 de los 7 ganglios linfáticos aislados (1/7) sin extensión extracapsular ni necrosis con predominio en área subcapsular.
+En consultas de Oncología se completa estudio de extensión con Tomografía por emisión de positrones y tomografía computerizada (PET-TC, donde no se mostraba afectación a distancia) y se solicita estudio de mutación BRAF.
+PET/TC 03/04/2014: Estudio que muestra probables secuelas de la cirugía en región inguinal-iliaca izquierda, imágenes de apariencia nodular/pseudonodular a nivel pleural/pulmonar de predominio derecho de baja tasa de proliferación celular, dudoso acúmulo del trazador en LSD y acúmulo del trazador en glándula parótida izquierda. Heterogénea distribución del trazador en parénquima hepático.
+Resto del estudio sin hallazgos patológicos significativos.
+El análisis mediante PCR en tiempo real detecta una mutación a nivel del exón 15 del gen BRAF.
+Mutación: c. 1799T>A: p. Val600Glu (V600E).
+
+Diagnósticos:
+Melanoma pT3bpN1b(2/8)M0 Estadio IIIC de alto riesgo, BRAF mutado.
+
+Tratamientos:
+Tras la cirugía el paciente por sus comorbilidades no se consideró candidato a recibir tratamiento con interferón y se decidió realizar una estrategia de seguimiento activo por parte de Dermatología y Oncología, con Ecografía y PET cada 6 meses. Este seguimiento activo no está claramente descrito en la literatura, la realización del PET semestral es algo que se está evaluando en nuestro centro en conjunto con Dermatología y Medicina Nuclear con resultados aún no publicados.
+Tras un intervalo libre de enfermedad tras la cirugía de 14 meses presentó una recaída extensa linfática que se puso de manifiesto en PET-TC del 26/05/2015 en región ilíaca externa izquierda. Ante estos hallazgos y al haber sido demostrada la mutación de BRAF (V600E) al paciente le propone iniciar tratamiento con un fármaco inhibidor de BRAF (paciente no candidato a inmunoterapia por su artritis reumatoide).
+El paciente inició tratamiento con Vemurafenib 960mg/12 horas el 17/06/2015 presentando como toxicidad rash cutáneo pruriginoso que mejoraba con corticoides y deterioro agudo de la función renal del paciente sobre su enfermedad renal crónica basal, que obligaron a suspender el tratamiento y reducir la dosis en dos ocasiones hasta finalmente suspender el tratamiento el 01/09/2015.
+Tras este tratamiento el paciente realizó una respuesta objetiva completa por PET y de momento se mantiene en seguimiento con una duración de la respuesta hasta la fecha de hoy de 11 meses.
+
+Evolución:
+La evolución del paciente ha sido satisfactoria ya que desde que respondió al tratamiento hasta la fecha no hay signos de que haya habido nueva progresión.
+En los tres meses que estuvo el paciente en tratamiento con Vemurafenib hubo que modificar la dosis del mismo en dos ocasiones debido a deterioro de la función renal del paciente, el cual ya presentaba una enfermedad renal crónica desde el año 2009 con una creatinina basal alrededor de 1.5mg/dl y que tras iniciar el tratamiento superó los 3mg/dl. Tras una semana de descanso los niveles volvían a su valor basal (alrededor de 1.5mg/dl) y al reintroducirlo aunque fueran dosis menores, primero se reintrodujo a dosis de 720mg/12 horas que al mes hubo que suspender durante una semana por deterioro similar y posteriormente dosis de 480mg al día que tras 10 días tiene que suspender finalmente.
+El tratamiento duró desde el 17/06/2015 al 01/09/2015. Se intentó continuar con el tratamiento dada la respuesta clínica y radiológica pero con la función renal tan deteriorada no fue posible. Tras finalizar el tratamiento recuperó las revisiones por Nefrología que tras la normalización de los valores de creatinina tras la retirada del fármaco no llevaron a cabo ninguna actuación especial salvo control dietético.
+Ya en la TC de Septiembre se ponía de manifiesto la respuesta de la enfermedad informada como gran disminución de tamaño de la afectación adenopática ilíaca externa izquierda y en PET-TC de reevaluación de Diciembre de 2015 se objetivó respuesta completa.
+Tras la respuesta completa tras los 2 meses de tratamiento con Vemurafenib el paciente continúa seguimiento, se encuentra asintomático y mantiene dicha respuesta con nuevo PET/TC realizado a finales de Abril de 2016 que no muestra recaída de la enfermedad.

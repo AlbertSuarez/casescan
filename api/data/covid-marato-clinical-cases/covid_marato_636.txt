@@ -1,0 +1,41 @@
+Anamnesis
+Mujer de 49 años, no fumadora, sin antecedentes reseñables. En julio de 2014 debuta con disnea de esfuerzo, tos, y dolor en costado izquierdo, por lo que se inicia estudio.
+
+Exploración física
+La paciente mantiene buen estado general con un PS ECOG 1. Consciente y orientada, eupneica en reposo. Constantes vitales normales con saturación basal del 96 %.
+En la exploración no se palpan adenopatías cervicales ni supraclaviculares, la auscultación cardiaca es rítmica y llama la atención hipoventilación en base izquierda, sin otros hallazgos.
+
+Pruebas complementarias
+» Analítica: sin hallazgos reseñables.
+» Body-TC: derrame pleural izquierdo que provoca atelectasia pasiva del lóbulo inferior.
+» Engrosamientos pleurales múltiples con realce del contraste de a nivel del lóbulo superior. Resto normal.
+» Broncoscopia: sin hallazgos reseñables.
+» Toracoscopia y biopsia pleural: macroscópicamente se aprecian nódulos en pleura parietal, visceral, diafragmática y líquido pleural serohemático.
+» Anatomía Patológica: adenocarcinoma metastásico. Morfología e inmunofenotipo compatible con origen pulmonar.
+» EGFR mutado: deleción exón 19.
+
+Diagnóstico
+Remitida a Oncología Médica en septiembre de 2014 con el diagnóstico de metástasis pleurales izquierdas de adenocarcinoma pulmonar. Se valora como un adenocarcinoma pulmonar (TXNXM1a). Estadio IVA según la 8ª edición AJCC. Estudio molecular con presencia de mutación en EGFR por deleción del exón 19.
+
+Tratamiento
+Dada la presencia de mutación de EGFR, la paciente inicia 1ª línea de tratamiento con gefitinib.
+
+Evolución
+1ª línea: gefitinib. 12/09/2014-16/07/2015. Progresión tras 10 meses a nivel pleural y aparición de adenopatías retroperitoneales.
+2ª línea: erlotinib: 17/07/2015-01/09/2015. Suspensión a los 2 meses por progresión de enfermedad en la 1ª evaluación de respuesta.
+3º línea: cisplatino + pemetrexed x 4 ciclos (04/09/2015-28/12/2015). Adecuada tolerancia con respuesta parcial. Se inicia pemetrexed de mantenimiento que se suspende tras 2 ciclos por mala tolerancia. Progresión de enfermedad a 1 mes de fin de tratamiento decidiéndose realizar biopsia líquida para tratar de detectar la presencia de la mutación de resistencia T790M (enero/2016): no detectada mutación de resistencia.
+4ª línea: gefitinib: 25/01/2016-16/03/2017. Dada escasa respuesta a QT y no evidenciar de mutación de resistencia, se decide intentar rechallenge con gefitinib. Hasta marzo/2017, momento en el que se observa aparición de adenopatías hiliares izquierdas.
+5º línea: afatinib: 17/03/2017-12/07/2017. Se consigue estabilización de enfermedad hasta progresión en julio/2017.
+En este momento, decide realizarse una nueva broncoscopia para obtención de muestra.
+(22/03/2017): observándose a nivel de bifurcación de bronquio LSI con LII un engrosamiento significativo, se realiza PAAF de adenopatía 11L con resultado AP: carcinoma no célula pequeña (material inválido para EGFR).
+Nueva biopsia líquida, 15/06/2017: EGFR mutado (Ex19 Del). No se detecta mutación de resistencia T790M.
+TC de 07/07/2017: adenopatías hiliares izquierdas y metástasis en pleura basal izquierda en situación estable. Masa de nueva aparición en ángulo cardiofrénico izquierdo sugestiva de metástasis. Dada la presencia de una masa de nueva aparición, que no encaja en la historia natural de la enfermedad pleural y ganglionar que estábamos tratando, se decide realizar biopsia con aguja gruesa.
+Biopsia BAG pulmón masa LII:
+» Carcinoma de célula pequeña.
+» IHQ: TTF-1 +, sinaptofisina +, Ki67 muy alta proliferación (> 90 %), CK -, CK7 -.
+6ª línea con quimioterapia para carcinoma microcítico CBDCA-Vp16 x 6 ciclos (26/07/2017-29/11/2017), manteniéndose al mismo tiempo tratamiento con gefitinib para el componente de adenocarcinoma EGFR mutado sin evidencia de mutación de resistencia. Se obtiene respuesta parcial importante con práctica desaparición de la masa situada a nivel de la língula y disminución de tamaño de las adenopatías hiliares izquierdas. Se realiza así mismo TC cerebral (15/12/2017) que no muestra enfermedad a nivel del SNC.
+Dada la buena respuesta obtenida mediante quimioterapia a nivel del componente de SCLC, se decide realizar RT torácica de consolidación con 60 Gy, 03/01-31/01/2018. Desde enero/2018, dolor lumbar: en TC, aplastamiento vertebral de L2, con lesión lítica subyacente, destrucción de la cortical y leve componente de partes blandas. Lesión compatible con metástasis, sin poder descartar mieloma. Se decide realizar biopsia true cut de L2, con resultado de infiltración por adenocarcinoma EGFR mutado (deleción del exón 19 y T790 exón 20 [mutación por sustitución]). Expresión PD-L1 3 %.
+Se realiza RT antiálgica L2, acetábulo derecho y C4 hasta el 2/05/2018.
+7º línea: osimertinib 80 mg/24 h: 23/05/2018-03/08/2018. Progresión de enfermedad pleural.
+8ª línea: CBDCA (AUC4)-VNR + ácido zoledrónico + osimertinib (03/08/2018-25/01/2019): fin por progresión de enfermedad a nivel pleural y ganglionar, con aparición de nódulos pulmonares subcentimétricos bilaterales.
+9ª línea: topotecán semanal + osimertinib (25/01/2019-04/03/2019): progresión a nivel de SNC y torácico, decidiéndose fin de tratamientos activos. La paciente fallece el día 30/04/2019.

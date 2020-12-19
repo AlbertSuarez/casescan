@@ -1,0 +1,24 @@
+Anamnesis
+Mujer de 78 años de edad, no fumadora, con artrosis como único antecedente a destacar. Sin antecedentes familiares de interés.
+Fue diagnosticada en junio de 2010 de un adenocarcinoma (ADC) de pulmón estadio IV por afectación nodular pleural y metástasis óseas (costales). Se inició tratamiento con quimioterapia (QT) en primera línea según esquema cisplatino (75 mg/m2)-pemetrexed (500 mg/m2) cada 21 días por 6 ciclos, con respuesta parcial (RP). Posteriormente continuó tratamiento de mantenimiento con pemetrexed, con enfermedad estable hasta noviembre de 2013, cuando se decidió la suspensión del tratamiento de mantenimiento debido a la toxicidad hematológica (anemia grado 2) y empeoramiento de la astenia que presentaba la paciente. En ese momento, llevaba un intervalo libre de progresión (ILP) de 2 años y medio.
+En los controles realizados durante el descanso terapéutico la paciente presentó mejoría de su estado general y se decidió mantener la misma actitud hasta la progresión de la enfermedad.
+En diciembre de 2015, la paciente acudió a Urgencias por presentar disnea de moderados esfuerzos y astenia intensa, de reciente aparición.
+
+Exploración física
+La paciente presentaba un Eastern Cooperative Oncology Group Performance Status (ECOG PS) 2 y destacaban la disminución del murmullo vesicular en base derecha y roncus dispersos en la auscultación pulmonar, junto con la presencia de adenopatías axilares derechas palpables, no dolorosas.
+
+Pruebas complementarias
+» Se realizó una radiografía de tórax que puso de manifiesto la existencia de un derrame pleural basal derecho y una lesión paramediastínica derecha.
+» Se efectuó una tomografía computarizada (TC) toracoabdominopélvica, coincidiendo con la fecha de revisión programada, donde se objetivó progresión a nivel pulmonar y ganglionar.
+» Se valoró el caso en el Comité de Tumores Torácicos y se decidió realizar biopsia de las adenopatías axilares derechas, por ser las más accesibles. La paciente hasta este momento llevaba un ILP de 4 años y medio con enfermedad estable (los últimos 2 años sin tratamiento de QT).
+» La biopsia confirmó que se trataba de un ADC de origen pulmonar.
+
+Diagnóstico
+Progresión de ADC pulmonar metastásico a nivel pulmonar y ganglionar.
+
+Tratamiento
+Se solicitó el estudio molecular (no realizado previamente por falta de material) y, a la espera de dichos resultados, en febrero de 2016, se programó tratamiento con erlotinib a 100 mg/día, teniendo en cuenta la histología y la evolución en una mujer no fumadora.
+
+Evolución
+El resultado de EGFR, ALK y ROS-1 fue negativo (sin mutaciones ni translocaciones detectadas), por lo que se suspendió el tratamiento con erlotinib, al que además no había presentado respuesta. Teniendo en cuenta el beneficio previo con pemetrexed, se decidió reintroducir dicho fármaco a 500 mg/m2, cada 21 días, en abril de 2016.
+En la TC de reevaluación realizada en julio de 2016, se objetivó progresión de la afectación parenquimatosa pulmonar, por lo que se decidió cambio de tratamiento a vinorelbina (25 mg/m2) días 1, 8 y 15 cada 28 días, que posteriormente precisó de reducción de dosis al 75 %. Desde entonces, la enfermedad ha permanecido estable y actualmente (junio de 2017) el ILP con vinorelbina es de 11 meses y la supervivencia global (SG) desde el diagnóstico de 7 años.

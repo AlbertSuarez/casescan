@@ -1,0 +1,33 @@
+Anamnesis
+Antecedentes personales: alergia al esparadrapo, pero sin reacciones alérgicas medicamentosas conocidas, HTA en tratamiento con enalapril 5 mg al día, hipertrigliceridemia familiar en tratamiento con fenofibrato 250 mg al día, síndrome ansioso depresivo en tratamiento con paroxetina, menarquia a los
+13 años, periminopáusica, FO: G3A0P3.
+
+Mujer de 53 años de edad que acude a consultas externas de Oncología con el diagnóstico de neoplasia de mama derecha en cuadrante súpero-externo del que se realiza tumorectomia más vaciamiento axilar el 14.4.2009. Se remite desde el comité de tumores de mama para valoración de tratamiento adyuvante. Se trata de un carcinoma ductal infiltrante G2 de 1.6 cm de diámetro, RE positivos (70%), RP positivos (80%), p53 negativo, Bcl21 negativo, Ki67 10%, C-ERB-B2 negativo (+/+++) en el que se observa infiltración perineural. De los 7 ganglios axilares afectos no se identifica enfermedad tumoral en ninguno de ellos. El resto de estudio de extensión no arroja evidencia de enfermedad diseminada.
+
+Nos encontramos, por tanto, ante una paciente con diagnóstico de carcinoma ductal infiltrante de mama derecha estadio pT1, pN0 (0/7), M0, Receptores E+ y P+ y C-ERB-B2 sobreexpresado.
+
+Se decide en Comité tratamiento con quimioterapia, radioterapia y hormonoterapia. Se pauta el día 07.05.2009 adriamicina+ciclofosfamida por 6 ciclos. El día 6.8.2009 se añade además tamoxifeno 20 mg al día durante 5 años que inicia el 15.9.2009.
+
+El día 7.6.2010 la paciente acude a Urgencias por dolor abdominal de 48 horas de evolución. Dicho dolor empeora en cuestión de minutos después de comer y beber, es de intensidad moderada, irradia hacia la espalda y aumenta de intensidad al acostarse boca arriba.
+
+
+Exploración física
+REG. NH. NC. Eupneica respirando aire ambiente. PS 1. Cabeza y cuello: no adenopatías, no mucositis, no meningismo, no inyurgitación yugular. Cicatriz de tumorectomía derecha buen aspecto, no signos de recidiva precoz. Auscultación cardiaca: rítmica sin apreciar roces ni soplos. Auscultación pulmonar: murmullo versicular conservado, no otros ruidos sobreañadidos. Abdomen: distendido, dolor a la palpación en mesogastrio e hipogastrio, ruidos hidroaéreos conservados, no masas ni megaleas a la palpación, no impresiona de signos de irritación peritoneal. Extremidades inferiores sin edemas y sin signos de trombosis venosa profunda.
+
+Pruebas complementarias
+Se realizan las siguientes exploraciones complementarias en el Servicio de Urgencias:
+» Analítica de sangre con hemograma, bioquímica y hemostasia que objetiva elevación de la amilasa sérica y lipasa.
+» Radiografia simple de tórax y abdominal que muestra distensión de las asas intestinales sin signos de perforación u obstrucción.
+» ECG: RS a 98 lpm, PR normal, QRS estrecho, no alteraciones agudas de la repolarización.
+» Ante dichos hallazgos y un alto índice de sospecha de pancreatitis aguda, se decide solicitar TAC abdominal con contraste que muestra los siguientes hallazgos: páncreas aumentado de tamaño, alteraciones de los márgenes, área de baja atenuación en cuerpo-cola de páncreas por necrosis, asocia múltiples colecciones peripancreáticas, abdominales, fascia lateroconal bilateral, sobre todo izquierda, se trata de pancreatitis grado E de Balthazar.
+
+Diagnóstico
+Todo ello es compatible con pancreatitis aguda grave grado E de Balthazar, realizándose el día 15.6.2010 una colicistectomía por vía laparoscópica. Más tarde, en junio de 2011 la paciente vuelve a presentar un ingreso en la Unidad de Cuidados Intensivos motivado por otra pancreatitis aguda grave, destacando suero lipémico con leucocitosis de 16.000 y amilasemia de 282 presentando la paciente oligoanuria, con diagnóstico al alta de pancreatitis grado E de Baltasar con vía biliar normal. Tras el segundo episodio de pancreatitis grave se decide suspender el tratamiento con tamoxifeno.
+
+Tratamiento
+El 15.6.2010 se realiza una colicistectomía por vía laparoscópica por parte del Servicio de Cirugía General.
+
+Evolución
+La pancreatitis aguda es un proceso inflamatorio agudo del páncreas, desencadenado por la activación inapropiada de los enzimas pancreáticos, con lesión tisular y respuesta inflamatoria local, y respuesta inflamatoria y compromiso variable de otros tejidos o sistemas orgánicos distantes. En el caso que nos ocupa, es de reseñar, que la mujer pese a tener hipertriglicidemia familiar (causa de pancreatitis) nunca ha tenido clínica alguna, y es al introducir el TAM cuando sufre dos episodios de pancreatitis aguda grave, requiriendo en uno de los casos el ingreso en UCI. En el primer episodio, no se sospecha del TAM como agente necesario causal, por lo que se realiza colecistectomía vía laparoscópica para eliminar el reservorio de litiasis y por tanto la supuesta causa de la pancreatitis. No es hasta un segundo episodio de pancreatitis (en el que ya no hay litiasis alguna que la pueda justificar) cuando se sospecha del TAM como causa necesaria para ocasionar el episodio de inflamación del páncreas. Además, tras la retirada del mismo en julio de 2011 la paciente no ha vuelto a presentar episodio alguno de pancreatitis hasta el momento actual.
+
+En nuestra paciente, se presentan dos factores reconocidos causantes de pancreatitis por separado. Por una parte la hipertrigliceridemia familiar y por otra parte el TAM (que contribuye a elevar los triglicéridos en plasma) y sin embargo, no es hasta la introducción del TAM cuando la paciente sufre dos episodios de pancreatitis grave separados por un año de diferencia, y tras su retirada, la paciente no ha vuelto a sufrir ningún episodio de pancreatitis aguda y permanece asintomática. Consideramos por tanto, que el TAM en nuestra paciente ha sido causa necesaria y probablemente suficiente de pancreatitis aguda grave.

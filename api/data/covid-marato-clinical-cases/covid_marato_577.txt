@@ -1,0 +1,35 @@
+Anamnesis
+Mujer de 30 años, con antecedente de poliartropatía inflamatoria seronegativa de 7 años de evolución, que debuta en septiembre de 2013 con un cuadro de astenia generalizada, pérdida de peso, disnea de moderados esfuerzos, xeroftalmia y tos, adenopatías laterocervicales y aumento de tamaño de la glándula tiroides. Se realizan una ecografía y una PAAF tiroidea, sugerentes de malignidad. Se completa el estudio de extensión con una PET-TC, apreciándose metástasis óseas y ganglionares.
+En octubre de 2013 se realiza rastreo corporal con yodo 131, con captación a nivel del lecho tiroideo, sin objetivarse focos de captación extratiroideos. En noviembre de 2013 es intervenida con tiroidectomía completa y vaciamiento ganglionar bilateral (en el lado derecho incompleto), siendo diagnosticada de carcinoma papilar de tiroides variante esclerosante difusa con metástasis óseas y linfáticas. Presenta además derrame pleural derecho (citología positiva para cáncer de tiroides), derrame pericárdico y tromboembolismo pulmonar (TEP) agudo con infarto pulmonar en diciembre de 2013.
+
+Examen físico
+Exploración al ingreso a cargo de Oncología Médica:
+Saturación 96% con oxígeno en gafas a 2 litros, 22 respiraciones por minuto.
+Palidez cutáneo mucosa, exploración neurológica normal, debilidad generalizada.
+No adenomegalias a nivel cervical ni axilar, cicatriz de tiroidectomía en buen estado.
+ACR: tonos ligeramente apagados, taquicárdicos, rítmicos sin soplos, disminución del murmullo vesicular en los campos pulmonares derechos.
+Abdomen blando, depresible, no doloroso a la palpación, no observándose masas ni megalias
+Miembros inferiores sin edemas, no signos de trombosis venosa profunda.
+
+Pruebas complementarias
+- Ecografía tiroidea (18/09/2013): ecoestructura dishomogénea, microcalcificaciones difusas, no se aprecian nódulos, adenopatía adyacente laterocervical izquierda.
+- PET-TC (21/9/2013): glándula tiroides hipermetabólica en ambos lóbulos, varios focos hipermetabólicos claramente sugerentes de metástasis óseas, afectando al esternón, húmero izquierdo, escápula izquierda y fémur izquierdo, además de cierta heterogeneidad de captación en la pelvis y el sacro. Múltiples adenopatías metabólicamente activas que afectan a las cadenas laterocervicales bilaterales y mediastínicas multinivel, resultando sospechosas de afectación metastásica.
+- Rastreo coporal I131: captación del trazador a nivel del lecho tiroideo, sin objetivarse captación a distancia.
+- Angio-TC (30/12/2013): tromboembolismo pulmonar de ramas arteriales segmentarias para el lóbulo inferior izquierdo con infarto pulmonar.
+- Ecocardiografía (30/12/2013): mínimo derrame pericárdico a nivel de las cavidades izquierdas. Ligera dilatación del ventrículo derecho, sin signos de repercusión hemodinámica.
+- Radiografía de tórax (7/2/2013): derrame pleural derecho, que alcanza hasta el tercio inferior del hemitórax derecho.
+- Rastreo corporal total posterapia I131 150 mCi: se evidencia captación de carácter leve a nivel cervical sugerente de restos tiroideos.
+- Ventriculografía isotópica (18/3/2014): no dilatación de cavidades ventriculares, curva de llenado ventricular levemente alterada, fracción de eyección del ventrículo izquierdo en el límite inferior de la normalidad (FEVI = 51%).
+
+Diagnóstico
+Carcinoma papilar de tiroides, variante esclerosante difusa. Estadio IV (metástasis ganglionares, óseas y pleurales).
+
+Tratamiento
+Se realiza en noviembre de 2013 tiroidectomía y vaciamiento ganglionar, toracocentesis evacuadora de derrames pleurales de repetición.
+En abril de 2014 se presenta el caso en comité de tumores tiroideos, conjunto de Endocrinologia, Cirugía, Medicina Nuclear y Oncología Médica y se decide:
+- Tratamiento con iodo radiactivo a pesar de la débil captación en el rastreo. Se traslada al Servicio de Medicina Nuclear para terapia con iodo 131, en dosis ablativas, sin presentar la lesion afinidad por iodo, con una captación débil.
+-Tratamiento oncológico con sorafenib. Tras comprobarse la FEVI y el seguimiernto favorable del derrame pericárdico se inicia tratamiento con sorafenib con el 50% de la dosis a 200 mg c/12 h el día 19/3/2014.
+
+Evolución
+Tras realizar terapia ablativa, la paciente se traslada al Servicio de Oncología Médica desde Medicina Nuclear para continuar el tratamiento, realizándose FEVI = 51%, inicia sorafenib a dosis de 200 mg/12 h, con buena tolerancia; ante la mejoría clínica y la estabilización de su disnea, se da el alta.
+En revisión en consulta de Oncología a los 12 días del inicio del tratamiento, la paciente presenta empeoramiento clínico, con intensa astenia, somnolencia, hipoperfusión, frialdad cutánea, hipersudoración, dolor abdominal y náuseas; con sospecha de crisis hipotiroidea la paciente es ingresada, presentando durante el ingreso un episodio de disnea súbita con saturación < 80% a pesar de mascarilla con reservorio e hipotensión, requiriendo el ingreso en la UCI; finalmente, la paciente fallece por hipoxemia severa refractaria a tratamiento secundaria a TEP.

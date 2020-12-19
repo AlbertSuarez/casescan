@@ -1,0 +1,63 @@
+ANTECEDENTES E HISTORIA PREVIA
+Presentamos el caso de un varón de 67 años sin antecedentes personales de interés, independiente para las actividades básicas de la vida diaria y vida activa, que es diagnosticado en marzo de 2012 de melanoma en región dorso lumbar izquierda (índice de Breslow de 4 mm y nivel 4 de Clark, con 12 mm de diámetro) con biopsia de ganglio centinela positiva. Se realiza exéresis de la lesión y linfadenectomía inguinal radical izquierda, con resultado de una adenopatía positiva para metástasis de melanoma en región obturatriz. Inicia tratamiento adyuvante con interferón en septiembre de 2012 concluyéndolo en septiembre de 2013 sin incidencias.
+En marzo de 2014 en tomografía computarizada (TC) de control se objetivan adenopatías superiores al centímetro a nivel inguinofemoral derecho, por lo que en junio de 2014 se lleva a cabo linfadenectomía con resultado de recidiva ganglionar de melanoma. Se lleva a cabo estudio de mutaciones BRAF siendo no mutado.
+En septiembre de 2016 se observa crecimiento de dos adenopatías de 1 y 1,6 cm de diámetro a nivel de mesenterio, decidiéndose seguimiento mediante pruebas de imagen. En TC de control de junio de 2017 se visualiza engrosamiento a nivel de intestino delgado con estabilidad de las adenopatías mesentéricas previamente descritas, por lo que se presenta en Comité de Tumores y se interviene con exéresis del segmento intestinal. La Anatomía Patológica resultante muestra recidiva intestinal de melanoma.
+Dada la evolución del paciente y el buen estado general, se propone nivolumab adyuvante durante un año. El paciente acepta e inicia tratamiento el 05/12/2017.
+
+Anamnesis
+Realiza 44 semanas de tratamiento hasta octubre de 2018 sin incidencias ni toxicidades destacables salvo astenia grado 2. En visita de control el 09/10/2018 con Oncología Médica para tratamiento de semana 45, el paciente refiere pérdida de visión de una semana de evolución con instauración rápida pero paulatina en el transcurso de 1-2 días. Así mismo, comenta requerir desde hace un mes bastón para caminar y haber iniciado tamsulosina una semana antes por prescripción de Urología por síndrome prostático. Se pauta tratamiento de semana 45 y, por dicha clínica, es derivado a consulta de Oftalmología, donde es valorado el 10/10/2018. En la exploración oftalmológica se objetiva edema papilar bilateral, siendo remitido a Urgencias para valoración neurológica urgente.
+Durante la exploración por Neurología de guardia, destaca déficit visual sin otras alteraciones destacables. Se realiza una TC de cráneo con contraste sin apreciarse lesiones focales. Se orienta como posible hipertensión intracraneal vs. afectación autoinmune del nervio óptico vs. menos probable farmacológico secundario a tamsulosina, ya que el papiledema bilateral va en contra de dicha etiología. Finalmente se cursa ingreso a cargo de Oncología Médica con fecha del 11/10/2018.
+
+Exploración física
+Buen estado general. ECOG1. Paciente consciente, orientado y colaborador. Eupneico en reposo:
+» Auscultación cardiaca: tonos rítmicos y regulares.
+» Auscultación pulmonar: MVC.
+» Exploración abdominal: gran hernia de pared abdominal tras cirugía. No es doloroso durante la palpación. No palpamos masas ni megalias. Sin signos de irritación peritoneal.
+» Extremidades inferiores: sin edemas. Sin empastamiento gemelar.
+» Exploración neurológica: lenguaje bien articulado, coherente en contenido con barrera idiomática. Sin alteraciones en la producción. Reflejo oculomotor derecho abolido, sin otras focalidad aparentes a nivel de pares craneales, vías sensitivas o motoras. Fuerza conservada simétrica bilateral 5/5 de las extremidades. Marcha con aumento de la base de la sustentación.
+
+Pruebas complementarias
+Presión de líquido cefalorraquídeo (LCR):
+» Dentro de los límites de la normalidad.
+Bioquímica de LCR
+» Leucocitos (recuento; LCR) 18 leu/Μ l.
+» Polimorfonucleares (porcentaje; LCR) 10 %.
+» Mononucleares (porcentaje; LCR) 90 %. » Hematíes (recuento; LCR) 3 hem/μl.
+» Glucosa (LCR) 50 mg/dl.
+» Proteínas (LCR) 77,9 mg/dl.
+» Lactato (LCR) 2,7 mmol/l.
+Resonancia magnética (RM) nuclear de cráneo con contraste
+» Se realiza RM cráneo sin y con contraste i.v. y angio-RM de senos venosos.
+» El paciente lee y firma el CI. Sin alergias.
+» En el estudio realizado se observa una hiperintensidad en secuencias T2-FLAIR de la porción medial de tálamos y comisura anterior bilateral. También están afectas ambas cabezas de caudado (más llamativo en el lado izquierdo) y parece que parte anterior de las cintillas ópticas. Las lesiones ni presentan una clara restricción a la difusión ni muestran captación de contraste i.v. Los hallazgos de imagen plantean como primera posibilidad que se trate de lesiones inflamatorias que en el contexto del paciente pudieran ser paraneoplásica o autoinmune.
+Potenciales evocados visuales
+Comentarios: PEV a la estimulación del ojo derecho e izquierdo de morfología normal, amplitud disminuida y latencia P100, para el ojo derecho prolongada y para el ojo izquierdo, en el límite de la normalidad.
+Conclusiones: los hallazgos en los PEV son compatibles con una alteración de conducción de ambas vías visuales, de tipo desmielinizante (con posible bloqueo de la conducción).
+Serología infecciosa de LCR
+» VDRL en líquido cefalorraquídeo negativo.
+» FTA en líquido cefalorraquídeo negativo.
+» Borrelia burgdorferi IgG negativo.
+» Borrelia burgdorferi IgM negativo.
+» Ac. anti citomegalovirus IgG negativo.
+» Ac. anti citomegalovirus IgM negativo.
+» Enzima convertidora angiotensina (LCR) 1,24.
+Cultivo y tinciones de LCR
+» Cultivo convencional negativo.
+» Tinción de Gram: no se observan gérmenes.
+» Cultivo de micobacterias negativo.
+» Tinción tinta china negativa.
+» Cultivo de hongos negativo.
+
+Diagnóstico
+» Papiledema bilateral probablemente secundario a autoinmunidad secundaria a inmunoterapia.
+» Síndrome autoinmune secundario a inmunoterapia.
+» Melanoma maligno Est. IV resecado en curso de tratamiento con nivolumab.
+
+Tratamiento
+Iniciamos en planta de Oncología Médica corticoterapia con dosis de 80 mg de metilprednisolona intravenoso cada 24 horas.
+
+Evolución
+Tras 48 horas de tratamiento refiere mejoría de la agudeza visual, leyendo tipografía de 2 cm a 1,5 m. Comentamos el caso nuevamente con Neurología, consensuando extraer anticuerpos onconeuronales y realizar potencias evocados visuales.
+El 19/10/2018, tras 8 días de ingreso y corticoterapia, el paciente presenta una franca mejoría, deambulando por la planta sin incidencias ni soporte y recuperación progresiva de la agudeza visual. Dada la buena evolución se consensua alta domiciliaria, realización ambulatoria de RM de control de neuroeje y revisión en consultas de Oncología Médica.
+Acude a consulta de revisión el 06/11/2018 indicando haber recuperado totalmente la visión. Se solicita TC de tórax, abdomen y pelvis y se decide finalizar tratamiento, habiendo completado un total de 45 de 52 semanas planificadas. El 23/11/2018 se lleva a cabo RM de control donde se objetiva desaparición total de las lesiones cerebrales previas.
+El paciente ha sido valorado por última vez el 03/05/2019 en consulta de Oncología Médica, encontrándose totalmente asintomático y estable de enfermedad.

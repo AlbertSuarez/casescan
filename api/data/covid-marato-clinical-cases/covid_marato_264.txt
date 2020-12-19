@@ -1,0 +1,42 @@
+Anamnesis
+Presentamos el caso de una mujer de 73 años con los antecedentes de HTA, DM2 y anemia de trastornos crónicos, que estaba en tratamiento por Endocrinología por un carcinoma de tiroides de células de Hürthle (CCH) desde octubre del 2016, que ingresó en Oncología por una complicación que resultó ser una entidad independiente más grave e infrecuente de lo que inicialmente se sospechó, y que finalmente le condicionó un pronóstico ominoso.
+Se trataba de un CCH estadio IVc (pT3NxM1 por metástasis pulmonares y en un arco costal, según la 8º edición TNM/AJCC) con mutación TERT positivo y BRAF negativo. Por Endocrinología se trató con: tiroidectomía total, levotiroxina (T4) a dosis supresoras, tratamiento ablativo con 131I (yodo 131) a dosis de 120 mCi posterior, en el cual se detectaron criterios de resistencia al yodo (el RCT o rastreo corporal total mostraba lesiones pulmonares y costal sin avidez por el 131 I). Fue derivada a consulta de Oncología. Entre tanto, se realizó un TC de cuerpo de reevaluación y se citó en consulta de Endocrinología con analítica de control el 19/12/2017 donde objetivaron hallazgos no presentes en las previas: creatinina (Cr) 2,60 mg/dl, urea 80 mg/dl y reagudización de la anemia (normocítica normocrómica de 8,1 g/dl). Además, la paciente refería que llevaba una semana con astenia, disnea, dolor en pared torácica anterior a punta de dedo, punzante, exacerbado con la palpación y un episodio autolimitado de diarrea.
+La paciente ingresó a cargo de Oncología bajo los juicios clínicos:
+» Fracaso renal agudo/subagudo probablemente multifactorial (contraste yodado iv, deshidratación, sobre posible nefroangioesclerosis y nefropatía diabética).
+» Dolor en pared torácica descontrolado.
+» Anemización progresiva.
+» Progresión morfológica y clínica de CCH.
+
+Exploración física
+» Presión arterial 147/91 mm Hg, frecuencia cardiaca 115 lpm, saturación de 02 basal 98 %.
+» Regular estado general, palidez cutánea generalizada, mucosa oral seca sin lesiones, cuello sin adenopatías palpables.
+» »Dolor durante la digitopresión en pared torácica anterior sobre esternón.
+» Auscultación cardiopulmonar, abdomen y extremidades sin hallazgos.
+
+Pruebas complementarias
+Ingreso el 19/12/2017:
+» Analítica: Cr 2,60 mg/dl sin diselectrolitemias. Anemia normocítica normocrómica de 7,5 g/dl. Sistemático de orina: hematuria 1+ y leucocitos 1+. Iones en orina: OSM, sodio y potasio en rango normal, Cr 17 mg/dl (VN 30-200).
+» Eco nefrourológica: riñones normales, aumento de la ecogenicidad cortical y pérdida de la diferenciación corticomedular.
+» Además, por el dolor torácico se realizaron pruebas que descartaron etiología anginosa, infecciosa y tromboembolismo pulmonar.
+
+Diagnóstico
+Carcinoma de tiroides de células de Hürthle (CCH) estadio IVc en progresión con:
+» Fracaso renal agudo/subagudo probablemente multifactorial.
+» Dolor en pared torácica descontrolado.
+» Anemización progresiva.
+
+Tratamiento
+Medidas generales para el fallo renal, hidratación intravenosa (iv) intensificada, transfusión de concentrados de hematíes (previa toma de muestra para estudio de anemia), analgesia pautada de primer escalón sin AINE.
+
+Evolución
+Tras 48 h de tratamiento, la paciente presentó mejoría parcial del dolor (EVA 5/previo al ingreso EVA 7) y mala evolución de la función renal con incremento de la Cr hasta 4 g/dl, asociando hiperpotasemia leve y manteniendo buen ritmo de diuresis. Se consultó caso con Nefrología y se añadieron medidas antipotasio, suplementos de fósforo y vitamina D, sospechando una necrosis tubular aguda (isquémico-tóxica) establecida de etiología múltiple. A las 72 h, requirió inicio de analgesia de tercer escalón por incremento del dolor (oxicodona/naloxona).
+La función renal no se normalizó, llegando a Cr máxima de 5,2 g/dl y alcanzando cifras meseta el 27/12/2017 (Cr 3,1 g/dl).
+El 03/01/2018 se objetivó en hemograma rutinario: linfocitos atípicos pequeños maduros, se amplió a citometría de flujo evidenciando 28 % células plasmáticas.
+
+PRUEBAS COMPLEMENTARIAS II
+Se solicitaron más estudios ante la sospecha de neoplasia de células plasmáticas. Orina de 24 h: proteinuria de 2 g. Cadenas ligeras en orina Bence Jones: positivas. Aspirado de médula ósea > MO < 60 % células plasmáticas. Pico monoclonal mínimo en sangre periférica > SP < (altamente sugestivo de mieloma escasamente secretor). TC de baja dosis para estudio de mieloma múltiple: dudosa lesión ósea en extremo distal de clavícula derecha.
+
+DIAGNÓSTICO, MANEJO Y EVOLUCIÓN FINAL
+Sumando los criterios clínicos (insuficiencia renal, dolor óseo, anemia normocítica y normocroma) y la confirmación mediante pruebas complementarias (especialmente el % células plasmáticas en SP y MO) se diagnosticó: mieloma leucemizante o leucemia de células plasmáticas, por lo que pasó a cargo de Hematología. Iniciaron tratamiento con bortezomib + lenalidomida (con reducción de dosis por FG de 11 ml/min/m2) y dexametasona (esquema VRD).
+Rápidamente, presentó deterioro del estado general, persistencia de dolor de difícil control a pesar de opioides y coadyuvantes, con reagudización de la anemia, haciendo necesaria más transfusiones.
+Finalmente, falleció tras un sangrado digestivo alto durante el ingreso el 01/02/2018.

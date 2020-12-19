@@ -1,0 +1,27 @@
+Anamnesis
+La protagonista de nuestro caso es una mujer de 48 años, originaria de Huelva con antecedentes personales de múltiples factores de riesgo cardiovascular (hipertensa, fumadora activa (con un consumo acumulado de 18 paquetes-año), dislipemia en tratamiento (con simvastatina). Talasemia minor sin repercusión clínica, enfermedad pulmonar obstructiva crónica grado moderado, en seguimiento por Neumología.
+
+Exploración física
+En todo momento, la paciente se encontró con buen estado general, independiente para las actividades de su vida diaria, con una puntuación 0 en la escala Eastern Cooperative Oncology Group (ECOG).
+Se objetivaba una masa a nivel de clavícula y espacio infraclavicular derecho, pétrea, de aproximadamente 5 cm de tamaño, no dolorosa durante la palpación.
+La paciente sí que refería dolor a nivel de articulación glenohumeral, con limitación de la movilidad en la aducción y extensión.
+
+Pruebas complementarias
+Fue valorada por el servicio de Traumatología en diciembre/2015 sin grandes hallazgos en la exploración física, solicitándose un estudio con resonancia magnética (RM) del hombro que pone de manifiesto una lesión entre la espina de la escápula y la musculatura del infraespinoso, de unos 7 cm de diámetro, hipointensa en T1 e hiperintensa en T2, con vascularización interior.
+En aras de definir mejor la lesión, se pide nueva RM con contraste de gadolinio (rechazando la paciente la infusión de contraste), mostrando la resonancia un tumor de partes blandas localizados en espesor del musculo infraespinoso, de comportamiento agresiva (con infiltración ósea en glenoides y muscular en infraespinoso, supraespinoso y margen posterior de subescapular); con marcada angiogénesis.
+Estos hallazgos son compatibles desde el punto de vista radiológico con un tumor de naturaleza vascular (hemangioendotelioma/hemangiosarcoma). Se deriva a la Unidad de Tumores Óseos del Hospital Universitario Virgen del Rocío, realizándose biopsia tru-cut el 25 de Julio de 2016 con informe de Anatomía Patológica compatible con sarcoma de Ewing, con expresión CD99 con patrón de membrana y el característico reordenamiento del gen EWSR-1.
+Se completa estudio de extensión con tomografía computarizada (TC) de tórax y abdomen el 5 de agosto del 2016 sin mayores cambios salvo el progresivo crecimiento de la lesión (en marzo/2016: 71 x 60 x 5,4 mm &rarr; agosto/2016: 91 x 72 x 10 mm).
+
+Diagnóstico
+Finalmente se diagnostica de sarcoma de Ewing de escápula derecha con enfermedad localizada.
+
+Tratamiento
+Comentado en Comité de Tumores Osteomusculares, se decide inicio de tratamiento neoadyuvante quimioterápico según esquema VAC/IE* alternos cada 21 días (C1 VAC, C2 IE, C3 VAC, etc.) con el objetivo de control de la enfermedad y facilitar manejo quirúrgico posterior, recibiendo 9 ciclos. Como toxicidad más reseñable, durante el tratamiento presentó mucositis, emesis y astenia G2, prácticamente a lo largo de todos los ciclos y requirió un ingreso tras el ciclo 9 (VAC) por toxicidad hematológica con neutropenia febril sin foco y trombopenia G2.
+Tras la neoadyuvancia, se objetiva en TC prequirúrgica una gran respuesta parcial, con una lesión alojada en escápula derecha que ha pasado de tener un importante componente de partes blandas con infiltración de músculos infraespinoso, supraespinoso, subescapular y aparente infiltración en glenoides ósea a un tumor localizado en escápula y limitado a la misma, sin infiltración de partes blandas.
+Finalmente se interviene, realizándose escapulectomía total + reconstrucción usando malla de polipropileno y suturando deltoides, subescapular, resto de manguito rotador y tríceps a la clavícula para centraje de la cabeza humeral.
+La intervención transcurre sin incidencias, analizándose en Anatomía Patológica la pieza que muestra márgenes libres (R0) y una respuesta patológica completa con un 100 % de necrosis en la pieza. Sin hallazgos de infiltración a nivel de cavidad glenohumeral.
+Esquema VAC/IE: VAC vincristina 1,5 mg/m2 (2 mg totales) + ciclofosfamida 1.200 mg/m2 (2.120 mg totales) + doxorrubicina 75 mg/m2 (133 mg totales) e IE con Ifosfamida a dosis de 1,8 g/m2/día por 5 d + etopósido 100 mg/m²/día x 5 días con soporte MESNA y G-CSF.
+
+Evolución
+Continúa tratamiento sistémico adyuvante con el mismo esquema, decidiéndose reducción de dosis del esquema IE al 80 % a partir de ese momento, dada la toxicidad hematológica que presenta y los antecedentes de neutropenia/trombopenia previos.
+Actualmente, la paciente ha cumplido 11 ciclos (dos de ellos posquirúrgicos), encontrándose con un ECOG 0. Como única clínica reseñable presenta déficit motor posquirúrgico en articulación glenohumeral derecha, con nula movilidad en la abducción y la rotación interno/externa. Dolor bien controlado con una valoración según la Escala Visual Analógica (EVA) de 0 con parche de fentanilo de 50 mcg/72 h.

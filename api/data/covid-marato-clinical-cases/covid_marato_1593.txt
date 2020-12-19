@@ -1,0 +1,34 @@
+Anamnesis
+Varón de 35 años, natural de Marruecos, que reside en España desde 2004. Como antecedentes personales solo destaca que fue fumador de 1 paquete al día durante 7 años y no tiene antecedentes familiares de interés.
+
+El paciente había acudido en diversas ocasiones a Urgencias durante los meses de julio y agosto de 2010 por lumbalgia, por lo que es valorado por Traumatología.
+
+Exploración física
+A la exploración, además del dolor en la columna lumbar irradiado a ambos muslos, asocia hipoestesia en la cara anterior de la pierna derecha.
+
+Pruebas complementarias
+» En la radiografía de raquis se objetiva una lesión blástica.
+» Se practica también una RM lumbar, en la que se observa una lesión blástica en el cuerpo vertebral de L2, con una masa de partes blandas pre y paravertebral e importante extensión al psoas derecho, así como ocupación de los agujeros de conjunción a nivel de L1-L3.
+» El estudio de extensión con TC toracoabdominopélvica y el rastreo óseo no muestran enfermedad a otro nivel.
+
+Diagnóstico
+En septiembre de 2010 se realiza biopsia planificada de dicha lesión, guiada por TC, conjuntamente por la Unidad de Raquis y Radiología, con lo que es diagnosticado de osteosarcoma convencional de alto grado a nivel de la segunda vértebra lumbar.
+
+
+Tratamiento
+Tras comentar el caso en sesión multidisciplinar se decide iniciar quimioterapia de inducción y plantear posteriormente la cirugía y la quimioterapia adyuvante.
+
+Entre el 26/10/2010 y el 5/1/2011 recibe quimioterapia de inducción según el protocolo COSS-86 que combina adriamicina, cisplatino, ifosfamida y metotrexato a altas dosis, con la que presentó importante mejoría del dolor, con una puntuación de 9 en la escala visual analógica del dolor (EVA) previa a la quimioterapia, y de 2 tras el tratamiento. Como complicaciones de la quimioterapia de inducción destacan la aparición de emesis y mucositis grado 2, y hepatotoxicidad grado 2 en la primera infusión de metotrexato; y encefalopatía grado 2 y hepatotoxicidad grado 3 en la segunda, con recuperación completa de las mismas.
+
+Para definir más claramente las características de la lesión previamente a la cirugía y determinar la respuesta al tratamiento, se practican una TC de columna dorsolumbar y una RM de columna lumbar con contraste, y se objetiva que la respuesta radiológica a la quimioterapia había sido escasa.
+
+Posteriormente se realiza cirugía radical en dos tiempos: en primer lugar (31/1/2011), por vía anterior, se practica una toracolumbofrenotomía izquierda y derecha con liberación de cuerpos vertebrales de L1-L3 y disectomía T12-L1 y L3-L4. En el segundo tiempo (2/2/2011), se realiza la resección del osteosarcoma y artrodesis de T10-L5. El diagnóstco anatomopatológico es de un osteosarcoma convencional de alto grado, pT2N0M0 (estadio IIB) en la clasificación de la American Joint Committee on Cancer (AJCC), y un estadio IIB según la clasificación de Enneking; con un 30% de necrosis, ausencia de invasión angiolinfática y con bordes quirúrgicos libres.
+
+Evolución
+Durante el postoperatorio aparecen grandes colecciones linfáticas en la cavidad abdominal y torácica que no se resuelven con manejo conservador y drenaje mediante radiología intervencionista, por lo que requiere revisión quirúrgica. Debido a estas complicaciones no se pudo iniciar quimioterapia adyuvante.
+
+En abril de 2011, se objetiva recidiva tumoral a nivel de T12 y se realiza exéresis parcial de la misma, quedando las raíces infiltradas por el tumor. Además, se practica una TC de extensión, encontrándose también progresión de enfermedad a nivel mediastínico.
+
+Ese mismo mes se decide iniciar quimioterapia paliativa con ifosfamida a altas dosis y etopósido. Debido a la persistencia de cefalea, relacionada con los cambios posturales, y que a la exploración se palpa una fluctuación a nivel paravertebral izquierdo, es valorado por la Unidad de Raquis, y se confirma, tras la revisión quirúrgica, la existencia de una fístula de LCR, con el trayecto fistuloso infiltrado por el tumor, que motiva la cefalea del paciente. Además, la TC craneal que se realiza en ese momento es normal.
+
+Presenta asimismo una paraparesia progresiva subaguda principalmente en el miembro inferior derecho, por lo que se decide administrar radioterapia paliativa sobre el lecho tumoral (entre el 31/5 y el 4/6 de 2011), administrando 4 Gy en cada sesión, durante cinco sesiones (total de 20 Gy). Inicia rehabilitación, con cierta ganancia de movilidad. El 20 de junio de 2011, tras actualizar la TC de extensión, que evidencia progresión de la enfermedad mediastínica, se inicia quimioterapia de segunda línea con gemcitabina-docetaxel, con progresión de la enfermedad tras dos ciclos del tratamiento, por lo que queda patente la quimiorrefractariedad del tumor y se decide conjuntamente con el paciente tratamiento exclusivamente sintomático. Finalmente, el paciente fallece el 31/8/2011.

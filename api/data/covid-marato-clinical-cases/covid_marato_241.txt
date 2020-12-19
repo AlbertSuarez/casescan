@@ -1,0 +1,23 @@
+Antecedentes familiares
+Sin interés. Antecedentes personales. No alergias medicamentosas conocidas. Dislipemia. Enfermedad de Meniere. Artrosis. Pendiente de intervención quirúrgica de cataratas. Tratamiento habitual: Simvastatina, Betahistina, Budesonida nasal, Tizanidina.
+
+Enfermedad actual
+Varón de 71 años que acude por cefalea, inestabilidad y deterioro del nivel de conciencia progresivo e insidioso de un mes de evolución. Según familiares añaden anorexia, pérdida de peso no cuantificada y lentitud para tareas habituales con tendencia al sueño inapropiado.
+Durante este último mes había estado con miorelajantes y betahistina sin notar alguna mejoría. No fiebre asociada. Tras interrogar al paciente sobre la cefalea, indica que hace un mes había tenido un episodio intenso de cefalea fronto-parietal izquierda que la definía como punzante junto con pérdida de visión en ojo izquierdo no recuperada que atribuía a catarata por la cual estaba pendiente de intervención quirúrgica; desde ese momento su situación basal había empeorado progresivamente.
+
+Exploración
+T 36.8ºC, TA 131/72, FC 70lpm, SatO2 97%. Aceptable estado general, Bien hidratado y perfundido, Consciente y orientado, Colaborador. Eupneico en reposo. Normocoloreado. Sin alteraciones cutáneas. ACP: rítmico sin soplos. Murmullo vesicular conservado. Abdomen: blando, depresible, no dolor a la palpación, no masas ni megalias. EE: no edemas ni signos de trombosis venosa profunda. Pulsos periféricos conservados y simétricos. Exploración neurológica: sin focalidad salvo bradipsíquico.
+
+Pruebas complementarias
+Hemograma: las tres series normales. Coagulación: sin alteraciones. Bioquímica: Glucemia 84mg/dl, urea 12 mg/dl, Creatinina 0.82 mg/dl, potasio 3.82 mEq/l, sodio 110 mEq/l, Omsp 224mOsm/Kg, Proteínas totales 7.7g/dl. Orina: sodio 96 mEq/L, potasio 50mEq/L.
+Gasometría venosa: normal. ECG: RS a 64lpm. Rx tórax: normal. Tc Cráneo: sin hallazgos significativos. Ante un paciente con un cuadro de clínica neurológica junto con una hiponatremia hipotónica euvolemica y con sodio en orina mayor de 20mmol/L; debemos plantearnos los siguientes diagnósticos diferenciales.
+- Hipotiroidismo
+- Déficit de mineralocorticoide: primario, secundario (panhipopituitarismo), terciario (administración crónica de corticoides: paciente en tratamiento con Budesonida nasal que a pesar de ser baja la dosis la utilizaba de forma crónica, afectación hipotalámica por tumores, infección y RT)
+- SIADH
+El paciente ingresa en Medicina Interna para estudio de hiponatremia con Bioquímica en planta: sodio 131mEq/l, Omsp250 mOsm/Kg, TSH normal con T4libre 0.47. Cortisol basal de 2.86. Ecografía Abdomen: sin hallazgos significativos. Al hallar un hipotiroidismo secundario y un déficit de cortisol junto con la clínica del paciente, ampliamos bioquímica con perfil hormonal, solicitando Campimetría y Resonancia magnética silla turca, e instaurando tratamiento sustitutivo con Tiroxina y tratamiento con Hidrocortisona. Bioquímica: TSH: 1.37. LH: 0.21 (1.7-8.6).FSH: 0.95 (1.5-12.4). PRL: 37.9 (2.7-16.9).Testosterona: 0.03 (2.8-8).Aldosterona: 2.35 (1.76-23.6). Resto de parámetros normales. Campimetría: Defecto casi total de ojo izquierdo y parcial superior del derecho. RM silla turca: Silla turca ocupada por imagen lobulada, de señal similar al líquido cefalorraquídeo, que presenta crecimiento supraselar, que nos sugiere quiste aracnoideo.
+
+Diagnóstico
+Se contactó con Hospital de referencia donde fue diagnosticado de Craneofaringioma Adantinomatoso e intervenido quirúrgicamente. 
+
+Evolución
+Actualmente está en Seguimiento por el Servicio de Endocrinología de nuestro hospital con tratamiento sustitutivo de Desmopresina nasal, Hidrocortisona, Eutirox, Testogel, presentando una buena evolución.

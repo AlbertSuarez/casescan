@@ -1,0 +1,27 @@
+Anamnesis
+Varón de 58 años sin alergias, exfumador con índice acumulado de 50paquetes/año. ECOG 0. Barthel de 100. Antecedentes de Diabetes Mellitus tipo II en tratamiento con antidiabéticos orales y síndrome depresivo en tratamiento con citalopram y lormetazepam.
+» HISTORIA ONCOLÓGICA:
+Diagnosticado inicialmente en febrero de 2006 de Adenocarcinoma de pulmón TxN3M0, estadio IIIB, con estudio molecular que demostró ALK no traslocado, EGFR exones 18, 19, 20 y 21 nativo y KRAS Mutado en codón 12. Inicia tratamiento con cisplatino 75 mg/m2 día 1 y gemcitabina 1250 mg/m2 días 1 y 8 cada 21 días (total de 2 ciclos) con intención neoadyuvante sin respuesta radiológica. Por ello, se decide continuar el tratamiento con radioterapia mediastínica e hiliar izquierda con una dosis acumulada de 60Gy (finaliza en abril de 2006), concomitante a quimioterapia con carboplatino AUC2 y pacliatxel 20 mg/m2 semanal. Presenta una respuesta parcial como mejor respuesta al tratamiento.
+En marzo de 2007 por progresión ganglionar axilar izquierda se realiza vaciamiento axilar seguido de cisplatino 75 mg/m2 día 1 y gemcitabina 1250 mg/m2 días 1 y 8 cada 21 días (total de 4 ciclos). A los 8 meses de finalizar el tratamiento (febrero 2008), presenta progresión ganglionar subclavia izquierda por PET-TC, realizándose reirradiación sobre territorio mediastínico (dosis acumulada de 46Gy). Presenta respuesta completa por PET-TC en agosto de 2008.
+En octubre de 2008, por progresión de enfermedad a nivel ganglionar axilar y supraclavicular derecho se inicia tratamiento sistémico dentro de ensayo clínico con la combinación de dazolutumab, un inhibidor de IGFR1 a dosis de 10 mg/kg/21 días, y erlotinib a dosis de 150 mg/día.
+
+Presentando como mejor respuesta una respuesta parcial.
+En julio de 2010, presenta nueva progresión ganglionar hiliar derecha y subcarinal, iniciándose nueva línea de tratamiento sistémico con cisplatino 75 mg/m2 y pemetrexed 500 mg/m2 día 1 cada 21 días (total de 6 ciclos) seguido de pemetrexed 500 mg/m2 cada 21 días de mantenimiento (total de 8 ciclos), recibiendo el último en junio de 2011 con respuesta completa como mejor respuesta. En abril de 2015, el PET de control demuestra la presencia de adenopatías retroperitoneales y una masa pulmonar apical en lóbulo superior izquierdo compatible con primario pulmonar que se biopsia mediante biopsia con aguja gruesa guiada por TAC con resultado patológico compatible con adenocarcinoma de origen pulmonar. Se propone nueva línea de quimioterapia con carboplatino AUC5 y pemetrexed 500 mg/m2 cada 21 días (total de 4 ciclos) seguido de pemetrexed 500 mg/m2 cada 21 días de mantenimiento hasta octubre de 2015, fecha en que el TAC de control muestra progresión de enfermedad por crecimiento de la masa pulmonar izquierda y de las adenopatías retroperitoneales. Se inicia nueva línea de tratamiento con docetaxel 75 mg/m2 día 1 y nintedanib 200 mg/12h días 2 a 21 con progresión tras 2 ciclos de tratamiento.Se propone la posibilidad de nueva línea de tratamiento sistémico dado el excelente estado general del paciente y se solicita la autorización de uso compasivo con tratamiento con nivolumab, que inicia en enero 2016. Ha completado 8 ciclos de tratamiento con respuesta parcial como mejor respuesta.
+» ENFERMEDAD ACTUAL
+Estando previamente asintomático, con un ECOG 0 y sin haber presentado efectos adversos en relación con el tratamiento de inmunoterapia después de la administración de 8 ciclos con nivolumab, el paciente acude a control en consultas externas de Oncología Médica el día 10 de mayo de 2016, refiriendo astenia grado 2 de una semana de evolución, anorexia, pérdida de peso y dolores articulares politópicos.
+
+Exploración física
+La exploración física no demuestra ningún hallazgo relevante.
+
+Pruebas complementarias
+Bajo la sospecha clínica de una alteración hormonal en relación con nivolumab se realiza una analítica completa que demuestra los siguientes parámetros anormales: alteración de la función renal (Crea 1.78mg/dL) con ionograma normal, patrón de colestasis disociada (FA 130U/L, GGT 276U/L y Bi 0.74mg/dL), niveles de tiroxina disminuidos (T4 0.58ng/dL) con tirotropina normal (TSH 3.9uUI/mL), y disminución de cortisol (0.1ug/dL) sin alteración de los niveles de corticotropina (ACTH 8.1pg/mL).
+Se realiza RM que muestra leve aumento de tamaño de la glándula hipofisaria (11x6x10,5 mm LLxCCxAP), con realce de contraste levemente heterogéneo y captación del tallo hipofisario compatible con signos de hipofisitis en grado leve.
+
+Diagnóstico
+Se orienta de insuficiencia suprarrenal y hipotiroidismo subclínico por probable hipofisitis secundaria a tratamiento con inmunoterapia.
+
+Tratamiento
+Es valorado por el servicio de Endocrinología y ante la necesidad de altas dosis de corticoides (1mg/kg/24h mantenidas mínimo 3 meses) y la intención por parte de Oncología Médica de mantener tratamiento con nivolumab por buena respuesta tumoral, se decide iniciar tratamiento hormonal sustitutivo con hidrocortisona 60mg/día (en pauta descendiente) y levotiroxina 100mcg/día con mejoría clínica y resolución de la sintomatología.
+
+Evolución
+Posteriormente el paciente ha continuado el tratamiento con nivolumab con buena tolerancia hasta el momento actual y ha realizado controles con Endocrinología precisando iniciar tratamiento con testosterona por insuficiencia gonadal secundaria a la hipofisitis, así como incremento de la pauta de levotiroxina a 150mcg/día por disminución de T4 en la analítica de control.

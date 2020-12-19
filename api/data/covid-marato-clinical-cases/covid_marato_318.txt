@@ -1,0 +1,34 @@
+Anamnesis
+Varón de 55 años, exfumador de 20 cigarrillos al día, sin otros antecedentes de interés que consulta en julio de 2013 por disfagia progresiva de un mes de evolución para sólidos y para líquidos y aparición de una tumoración supraclavicular derecha que había aumentado de tamaño en las últimas semanas, sin síndrome constitucional asociado.
+
+Examen físico
+Paciente consciente y orientado, con buen estado general. Cavidad oral sin alteraciones. Conglomerado adenopático supraclavicular derecho de 5 cm de diámetro máximo, pétreo, no doloroso a la palpación. Adenopatía supraclavicular izquierda de 2 cm. Resto de exploración sin hallazgos significativos.
+
+Pruebas complementarias
+Inicia estudio en un centro privado, solicitando valoración por Otorrinolaringología,m que tras la exploración descarta la presencia de lesiones biopsiables. Se completa el estudio solicitando las siguientes pruebas complementarias:
+- Analitica: hemograma y bioquímica normales. Destaca Ca 19.9 de 126. CEA de 56.
+- TC cérvico-tóraco-abdominal: adenopatías supraclaviculares derechas de hasta 35 mm. Existen adenopatías mediastínicas superiores, paratraqueales derechas altas y bajas, paratraqueales izquierdas bajas de hasta 30 mm.
+También se evidencian adenopatías paraesofágicas (11 mm), paravertebrales izquierdas (10 mm), retrocrurales (23 mm) en la región del tronco celiaco, interaortocavas, en el hilio hepático de hasta 12 mm y de escasos milímetros paraaórticas izquierdas. Resto sin hallazgos significativos.
+- Gastroscopia y colonoscopia sin hallazgos significativos.
+- Gammagrafía ósea sin captación sugerente de metástasis.
+- PET-TC: conglomerado adenopático de 50 x 50 mm en la región laterocervical derecha con SUV máxima 16,6.
+Conglomerado adenopático laterocervical izquierdo con SUV máximo 10. Conglomerado en nivel paratraqueal superior e inferior, hacia el mediastino de 50 x 70 cm en el lado derecho y 50 x 20 cm en lado izquierdo y en las regiones prevasculares con SUV 13 máxima. Conglomerados a nivel de la ventana aortopulmonar y región retrocava pretraqueal de diámetro 22 mm SUV 13,7. Adenopatías paraesofágicas izquierdas, y paravertebrales de 17 mm y SUV 9,5.
+Adenopatías retrocrurales bilaterales, 12 mm SUV 10,4. Adenopatías en el hilio hepático, 16 mm SUV 8,9. No otras captaciones (ni esófago, páncreas ni parénquima hepático). Conclusión: adenopatías supra e infradiafragmáticas con elevada actividad metabólica, sugiriendo proceso linfoproliferativo como primera posibilidad, sin otros hallazgos significativos en el resto del estudio.
+- Ante la sospecha de proceso linfoproliferativo como primera posibilidad se realiza una biopsia de ganglio supraclavicular derecho.
+- Anatomia patológica: metástasis ganglionar de carcinoma sólido de origen desconocido. IHQ: CK7 positivo, CDX2 positivo, CK 20, TTF-1, PSA, S-100 y sinaptofisina negativos.
+El paciente acude a nuestro hospital para continuar el estudio y el tratamiento. Aporta una muestra de biopsia, siendo nuevamente valorado en Anatomia Patológica de nuestro centro, que describe morfología compatible con adenocarcinoma de patrón indiferenciado con CK7, CK9 y CEA positivos sugerentes de patología biliopancreática como primera posibilidad, sin poder descartar origen gástrico.
+
+Diagnóstico
+Adenocarcinoma de origen desconocido, probablemente de origen biliopancreático, estadio IV por afectación ganglionar supra e infradiafragmática.
+
+Tratamiento
+Con el diagnostico por inmunohistoquímica de probable origen biliopancreático, y teniendo en cuenta la elevación del Ca 19,9 progresiva (último control de 1.397), se presenta el caso en sesión multidisciplinar y se decide tratar como tumoración de la vía biliar.
+Inicia tratamiento en agosto de 2013 con esquema cisplatino 25 mg/m2 día 1 y gemcitabina 1.000 mg/m2 días 1 y 8 cada 21 días.
+
+Evolución
+Tras el inicio del tratamiento presenta mejoría progresiva de la disfagia y la disfonía, objetivando a la exploración física reducción de tamaño de la adenopatía supraclavicular derecha y una marcada disminución de Ca 19.9 hasta 121 en el control analitico 2 meses más tarde del inicio.
+Se realiza TC tóraco-abdominal de control tras tres ciclos de tratamiento, en la que destaca respuesta parcial con disminución de tamaño de las adenopatías retrocrurales, retroperitoneales y de las adenopatías en el mediastino superior, observando abundante circulación colateral con síndrome de vena cava superior por probable trombosis de vena cava superior y vena subclavia derecha.
+Se inicia tratamiento con heparina de bajo peso molecular y se continúa con el tratamiento citotóxico. Tras seis ciclos de tratamiento, se repite la TC, en la que se continúa objetivando respuesta con disminución de tamaño de las adenopatías infradiafragmáticas y estabilización de la adenopatía supraclavicular derecha (de 4 cm).
+Recibe 8 ciclos de tratamiento, que finaliza en febrero de 2014 con excelente tolerancia al mismo, y pasa a revisiones.
+Tres meses más tarde, en mayo de 2014, acude a consulta presentando a la exploración física una masa en la región supraclavicular derecha de más de 9 cm de diámetro máximo, pétrea, no dolorosa a la palpación, junto con TC cérvico-tóraco-abdominal en la que se objetiva progresión ganglionar sin afectación visceral.
+Se propone como tratamiento de segunda línea esquema con carboplatino-paclitaxel, pendiente de iniciar.

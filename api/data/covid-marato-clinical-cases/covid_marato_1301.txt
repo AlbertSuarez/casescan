@@ -1,0 +1,27 @@
+Anamnesis
+Mujer de 54 años, sin alergias medicamentosas conocidas y exfumadora desde 2006 (IPA 20). Como antecedentes quirúrgicos, destaca únicamente intervención de ligadura de trompas a los 37 años. No refiere otros antecedentes patológicos ni familiares de interés. Acudió a Urgencias en julio de 2016 por dolor torácico de características pleuríticas con disnea progresiva de dos semanas de evolución.
+Además, asociaba tos sin expectoración, de varios meses de duración.
+
+Exploración física
+ECOG 0, hemodinámicamente estable, consciente, orientada en las tres esferas, colaboradora. Eupneica, con Sat.O2 98 % basal (sin aporte de oxígeno).
+Presentaba edema en esclavina y circulación colateral a nivel torácico anterior. Auscultación cardiaca rítmica a 80 lpm sin soplos, y auscultación pulmonar con hipoventilación generalizada en el hemitórax izquierdo, sin estertores. El abdomen no era doloroso y no se palpaban masas ni visceromegalias
+
+Pruebas complementarias
+La analítica basal no presentaba alteraciones relevantes. El hemograma era normal en todas las series. CK, LDH y D. dímeros. En Urgencias se realizó radiografía de tórax objetivándose aumento de densidad retrocardiaca con incremento de la silueta mediastínica de predominio izquierdo, sugestivo de masa mediastínica anterior.
+Se realizó TC toracoabdominopélvica donde se apreció una masa heterogénea de 7,7 x 7,4 x 10 cm de contornos lobulados, localizada en mediastino anterior, con calcificaciones en su interior, que producía compresión de vena cava superior en un segmento de 5 cm. Defecto de repleción en tronco braquiocefálico, vena subclavia y yugular izquierdas, compatible con trombosis y además derrame pericárdico con un grosor de 1,8 cm. A nivel abdominal, se objetiva densidad micronodular que conformaba lesión retroperitoneal paraaórtica izquierda desde hilio renal izquierdo hasta área de bifurcación aortoiliaca.
+Se realizó un ecocardiograma, objetivándose derrame pericárdico leve, sin datos de taponamiento cardiaco, con una FEVI del 78,7 %. Los marcadores tumorales fueron normales salvo el Ca 72,4 ligeramente elevado.
+Debido a la alta sospecha diagnóstica de timoma, y su relación con la miastenia gravis, se solicitaron ac. antirreceptor de acetilcolina, obteniéndose niveles normales.
+Para esclarecer un diagnóstico histopatológico, se realizó una BAG de la masa mediastínica guiada por TC, obteniéndose escaso material, por lo que se recurrió a la realización de un procedimiento más invasivo, una mediastinoscopia con toma de biopsia siendo la anatomía patológica: carcinoma indiferenciado, no microcítico, índice de proliferación (MIB1, Ki67): alto y abundante necrosis.
+Marcadores neuroendocrinos CD56 y sinaptofisina (-), cromogranina + (muy focal). Citoqueratinas CAM5, 2 +, AE1-AE3 +, CK7+, CK 20+ (focal). Marcadores linfoides ALK -, CD20 -, CD2 -, vimentina -. Compatible con carcinoma tímico.
+
+Diagnóstico
+» Síndrome de vena cava superior.
+» Carcinoma tímico estadio IV B (clasificación de Masaoka) debido a la afectación retroperitoneal.
+
+Tratamiento
+Como medidas generales se indicó la elevación del cabecero de la cama y oxigenoterapia condicional a disnea. Asimismo, se pautaron diuréticos y dexametasona 4 mg cada 6 horas. A pesar de todo ello, la paciente no mejoraba clínicamente, por lo que recibió 10 sesiones de radioterapia local con una dosis diaria de 3 Gy alcanzando mejoría clínica significativa.
+
+Evolución
+En julio de 2016, comenzó tratamiento quimioterápico según esquema paclitaxel-carboplatino del que recibió 4 ciclos, finalizándolo en octubre 2016, cuando se procedió a la reevaluación mediante TC, alcanzando una importante disminución del volumen de la masa mediastínica (6,7 x 5 x 10 cm) con derrame pericárdico de escasa cuantía y desaparición de la afectación retroperitoneal.
+Se comentó el caso en comité de tumores torácicos, no siendo posible tratamiento quirúrgico debido a la importante afectación locorregional y a la invasión de la vena cava superior. También fue valorada por el servicio de Oncología Radioterápica, pero se desestimó administrar radioterapia por la elevada toxicidad pulmonar.
+En esta situación, ante la imposibilidad de realizar tratamiento local, se decidió continuar tratamiento quimioterápico con paclitaxel-carboplatino, recibiendo 4 ciclos más, con posterior reevaluación en marzo de 2017, objetivándose estabilización de la enfermedad. Dado que la paciente se encuentra estable clínicamente, presentando ECOG 0, se decide continuar con el mismo tratamiento de quimioterapia (paclitaxel-carboplatino).

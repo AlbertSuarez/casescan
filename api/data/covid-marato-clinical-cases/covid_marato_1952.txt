@@ -1,0 +1,28 @@
+Anamnesis
+Varón de 72 años que, en contexto de valoración en Urgencias por omoalgia derecha, inicia estudio por hallazgo, en radiografía simple de tórax, de nódulo pulmonar en lóbulo superior izquierdo (LSI).
+Como antecedentes médico-quirúrgicos, destacan un consumo de alcohol diario (3 unidades básicas enólicas [UBE] al día); cardiopatía hipertensiva, con episodios de descompensación e ingreso por edema agudo de pulmón en el año 2001, con una fracción de eyección de un 45 %; bronquitis crónica; hiperplasia benigna de próstata y dilatación piélica del riñón derecho por quiste renal de gran tamaño, requiriendo colocación de catéter doble "J", retirado 5 meses más tarde por ausencia de mejoría y, principalmente, enfermedad renal crónica de origen mixto (nefroangioesclerosis [NAE] y uropatía obstructiva), que cursa con hiperparatiroidismo secundarios y anemia nefrogénica, actualmente en curso de hemodiálisis 3 veces por semana (lunes, miércoles y viernes).
+
+Exploración física
+Presión arterial (PA) 159/88 mm Hg; frecuencia cardiaca 89 lpm; saturación de oxígeno (SatO2) 96 %, temperatura 36,4 ºC.
+Buen estado general, consciente y orientado, bien hidratado y perfundido, normocoloreado y eupneico. Auscultación cardiopulmonar anodina. Dolor a la palpación en hombro, musculatura del brazo, musculatura de espalda y zona escapular derechas, reproducible con los movimientos. Sin lesiones cutáneas, ni edemas. Pulsos arteriales palpables.
+
+Pruebas complementarias
+» Radiografía de tórax (15/01/2019): catéter venoso central derecho con punta en aurícula derecha.
+Nódulo en LSI de unos 34 mm.
+» Tomografía computarizada (TC) toracoabdominal (28/01/2019): masa a nivel del LSI de diámetro máximo aproximado de 3,8 cm. Nódulo pulmonar de contornos mal definidos adyacente a cisura a nivel de LSI, inferior al centímetro de diámetro. Nódulo pulmonar a nivel de lóbulo superior derecho (LSD) de contornos espiculados de diámetro máximo de 1,9 cm. Pequeña imagen nodular inferior a 0,5 cm a nivel de lóbulo inferior derecho. Granuloma calcificado puntiforme en lóbulo inferior derecho (LID). Masa supraclavicular derecha sugestiva de conglomerado adenopático de 4,9 cm. Adenopatías mediastínicas a nivel 2 R, 5, y 7, pequeñas adenopatías a nivel 4R y 4L y adenopatías hiliares bilaterales a nivel 10 R y 11L. Mínimo derrame pericárdico. Cuadro radiológico sugestivo de neoplasia de pulmón estadio radiológico T2aN3M1a. Como segunda posibilidad, podría tratarse de una doble neoplasia sincrónica pulmonar, estadiaje radiológico Tx (por nódulo indeterminado ipsilateral) N3 M0 en el lado derecho y T2aN2M0 en el lado izquierdo.
+» Tomografía por emisión de positrones (PET)-TC (01/02/2019): masa hipermetabólica en LSI sugestiva de malignidad. Lesión hipermetabólica espiculada en LSD sin poder descartar tumor sincrónico. Focos hipermetabólicos laterocervical derecho; supraclavicular derecho; mediastínicos e hiliar izquierdo, todo ello, en probable relación con metástasis. Dudoso nódulo infracentimétrico y ametabólico en LID. Resto sin alteraciones.
+» Resultado anatomopatológico de punción-aspiración con aguja fina supraclavicular positivo para células epiteliales malignas, compatible con metástasis de carcinoma no célula pequeña metastásico.
+» Estudio molecular: EGFR y BRAF nativos; ALK negativo; ROS-1 material insuficiente; PD-L1 expresión en el 80 % de las células tumorales.
+» Resonancia magnética (RM) cerebral (11/02/2019): sin lesiones sospechosas de metástasis ni otros hallazgos significativos.
+Analítica (22/02/2019): creatinina 6,26 mg/dl, FG 9 ml/min, iones en rango de la normalidad y resto de bioquímica y hemograma anodinos.
+
+Diagnóstico
+Se cataloga como carcinoma pobremente diferenciado de probable origen pulmonar en lóbulo superior izquierdo, cT2aN3 (por afectación supraclavicular) M1c (por afectación laterocervical derecha, nódulo LSD), en estadio IVa según la clasificación de la TNM 8ª edición.
+
+Tratamiento
+Valorado el 20 de febrero de 2019 en primera visita en Oncología Médica, se informa al paciente, en presencia de familiares (mujer e hija), de la extensión de la enfermedad e indicación paliativa del tratamiento sistémico, que entienden.
+Tras revisar los datos de "compatibilidad" de terapia anti-PD-1 en pacientes en hemodiálisis, inicia tratamiento con pembrolizumab el 28 de febrero, a dosis de 200 mg cada 3 semanas.
+
+Evolución
+Hasta el momento actual, el paciente ha recibido 4 ciclos de tratamiento con immune-checkpoint inhibitor, según el esquema previsto, con buena tolerancia inmediata y cifras de creatinina, urea y filtrado glomerular estables a lo largo del mismo. Ha precisado ajuste de analgesia por el dolor ya conocido en hombro derecho, con reducción de la misma en los últimos controles.
+En la última consulta, el pasado 22 de mayo, comenzaba a presentar toxicidad tiroidea, que se vigilará en sucesivas revisiones. Ese mismo día, se realizó TC de control de enfermedad, valorado, en global, como respuesta parcial, al presentar estabilidad de las adenopatías supraclaviculares; disminución de tamaño del nódulo pulmonar en LSD, masa de LSI e imagen nodular adyacente a cisura mayor derecha, así como de adenopatías 2R y ligero aumento de tamaño de las adenopatías 3A y a nivel 5.

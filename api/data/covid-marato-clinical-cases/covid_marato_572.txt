@@ -1,0 +1,30 @@
+Anamnesis
+Varón de 71 años de edad, con antecedentes médico-quirúrgico de hipertensión arterial, enfermedad pulmonar obstructiva crónica, papilitis en ojo derecho y colecistectomía. Tras hallazgo analítico de PSA de 30 ng/dL, fue diagnosticado en febrero de 2009 por Urología, de un adenocarcinoma de próstata en lóbulo derecho, Gleason 2+3. Desde entonces, en seguimiento por dicho Servicio, tratándose con bloqueo androgénico completo.
+Tras elevación progresiva de PSA hasta valores de 567 ng/dL, junto con dolor a nivel rectal y glúteo, en octubre de 2011 se solicitó una RM pélvica, que reveló una próstata aumentada de tamaño con infiltración capsular, del músculo elevador del ano, grasa, pared anterior del recto y vesícula seminal derecha, así como adenopatías ilíacas derechas y dos lesiones hepáticas, en segmentos II y V, sospechosas de metástasis.
+Se remitió al Servicio de Oncología Médica desde el Servicio de Radioterapia en noviembre de 2011 con el diagnóstico de adenocarcinoma de próstata estadio IV refractario a tratamiento hormonal, para inicio de tratamiento sistémico y control analgésico. En ese momento, el paciente presentaba unos niveles de PSA de 934 ng/mL, DHEA de 25 ng/dL y testosterona de 0,07 ng/mL. Se solicitó una TC toracoabdominopélvica para completar la estadificación, en la que se evidencian múltiples nódulos pulmonares, adenopatías mediastínicas, retroperitoneales, ilíacas comunes, inguinales, y una masa prostática heterogénea de 5 cm de diámetro, que pierde márgenes diferenciadores con pared anterior rectal. No se evidencian metástasis óseas ni hepáticas. Se amplió el estudio con la realización de una ecografía abdominal, para valoración hepática, no detectándose lesiones compatibles con metástasis y con una gammagrafía ósea que no evidenció afectación secundaria.
+Se inicia en noviembre de 2011 radioterapia paliativa antiálgica, con dosis total de 30 Gy sen volumen prostático más márgenes. Posteriormente, en diciembre de 2011, comienza quimioterapia con intención paliativa, según esquema docetaxel 75 mg/m2 + prednisona 10 mg/día.
+Acude a Urgencias en enero de 2012 por presentar dificultad respiratoria de tres días de evolución a mínimos esfuerzos y de comienzo subagudo.
+En ese momento había recibido dos ciclos de docetaxel, con un descenso de los niveles de PSA a 300 ng/mL. Ante la sospecha de tromboembolismo pulmonar o progresión pulmonar, se decide ingreso para estudio y tratamiento.
+
+Exploración física
+ECOG 3. Consciente y orientado. Normocoloreado, normohidratado, normonutrido. Eupneico con mascarilla de alto flujo al 50%, Saturación de O2 89%. Auscultación cardíaca: rítmica, sin soplos audibles.
+Auscultación pulmonar: destaca disminución del murmullo vesicular junto con crepitantes medios e inferiores en ambos campos pulmonares. Resto de la exploración normal.
+
+Pruebas complementarias
+• Analítica: leucocitos 11.290 mmc; hemoglobina 9,7 g/dL; plaquetas 20.6000 mmc; glucosa 185 mg/dL; urea 47 mg/dL; sodio 147 mmol/L; potasio 3,8 mmol/L; dímero D 4,28 mg/dL.
+• Gasometría arterial: ph 7,40; pO2 70; pCO2 33; bicarbonato 20,5; saturación O2 93%.
+• Radiografía de tórax: patrón de fibrosis pulmonar con afectación difusa y bilateral.
+• Electrocardiograma: rítmico a 90 lpm, sin alteraciones en repolarización.
+• Angio-TC: se visualiza un pequeño defecto de repleción compatible con tromboembolismo que afecta a una rama segmentaria y subsegmentaria para el lóbulo inferior derecho. Destaca la aparición de importantes cambios bilaterales de tipo fibrótico, que afectan principalmente a campos pulmonares superiores y medios, con presencia de densidades lineales irregulares, junto con distorsión de la arquitectura pulmonar, con áreas de panalización y en vidrio deslustrado. Práctica desaparición de los nódulos pulmonares descritos en estudios previos.
+• TC alta resolución de tórax: patrón compatible con fibrosis pulmonar bilateral y difusa.
+• Ecocardiografía: cavidades de tamaño normal.
+Contractibilidad segmentaria normal. Válvulas morfológicamente normales. FEVI conservada.
+• Broncoscopia: no alteraciones en epiglotis, cuerdas vocales, tráquea, carina, secreciones densas blanquecinas desde la entrada a ambos bronquios principales, normal árbol bronquial izquierdo y derecho. Se realiza un mini BAL de la língula, no es posible realizar un BAL completo por desaturación del paciente.
+• Citología pulmonar: contenido de macrófagos, celularidad inflamatoria y material mucoide. No hay evidencia de malignidad.
+• Test de difusión pulmonar: disminución de la difusión muy severa que corrige ligeramente. TLCO SB 20,4%, TLCO/VA 44,9%.
+• Espirometría: FVC 46,2%; FEV 43,9%; FEV/FVC 72,1. Alteración ventilatoria mixta.
+
+Tratamiento y evolución
+Durante su estancia hospitalaria se instaura tratamiento con oxigenoterapia, enoxaparina a dosis terapéuticas, broncodilatadores y antibióticos de amplio espectro, cubriendo gérmenes atípicos, sin una mejoría clara. Tras un estudio exhaustivo para descartar otras etiologías (infecciosa, tumoral, tromboembolismo leve), ante la sospecha de que el cuadro clínico se debiera a toxicidad pulmonar secundaria a fármacos2, se decidió añadir corticoterapia a altas dosis (metilprednisolona 80 mg/día), con mejoría paulatina a lo largo del ingreso, requiriendo menor aporte de oxigeno. Finalmente, tras estabilización clínica y hemodinámica se procede a alta hospitalaria con oxigenoterapia domiciliaria.
+Se suspendió definitivamente el tratamiento con docetaxel por la aparición de fibrosis pulmonar y se sustituyó por acetato de abiraterona 1.000 mg/día en el momento que presenta progresión por PSA (tres ascensos consecutivos).
+Actualmente el paciente presenta mejoría de su sintomatología respiratoria, pudiendo deambular en domicilio sin oxígeno y presentando unos niveles de PSA de 45,4 ng/mL.

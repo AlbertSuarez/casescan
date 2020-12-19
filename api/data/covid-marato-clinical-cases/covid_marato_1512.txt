@@ -1,0 +1,43 @@
+Anamnesis
+Se trata de una paciente de 54 años como antecedentes destaca fumadora habitual de 1 paquete de tabaco al día. Consulta por primera vez en el servicio de urgencias, en febrero de 2016, por cefalea frontal que la despierta por la noche y que se acompaña de fotofobia. Ha realizado tratamiento analgésico habitual, sin conseguir control del dolor. Además comenta la paciente de forma tangencial sensación de hormigueo a nivel cervical. La sintomatología presenta una cronología de dos semanas de evolución.
+
+Exploración física
+Tensión arterial 136/75mmHg, afebril, eupneica (11rpm), saturando el 96% sin aporte de oxígeno Auscultación cardiopulmonar: ritmo cardiaco a buena frecuencia sin soplos, ni roces. Buen murmullo vesicular
+Abdomen: blando, no doloroso a la palpación, no se palpan ni masas ni visceromegalias. No hay datos de irritación peritoneal.
+Exploración neurológica: Consciente y orientada en las tres esferas. Pupilas isocóricas normorreactivas, no aparece alteración en la mirada horizontal, sin datos de desviación forzada de la misma, ni nistagmo.
+No alteraciones en campo visual explorado por confrontación. Pares craneales normales, sin asimetrías faciales. Fuerza conservada en los cuatro miembros, sin claudicación ni en Barreé ni en Mingazzini.
+Sensibilidad tactoalgésica disminuida en área retroauricular, con parestesias, resto sin alteración. No aparece afasia, ni disartria. No alteración de la marcha. No dismetrías exploradas por dedo-nariz y talón-rodilla. No disdiadococinesias.
+No signos de irritación meníngea.
+
+Pruebas complementarias
+Tomografía axial computerizada (TAC) sin contraste: Se describe lesión ocupante de espacio (LOE ) frontal derecha, que afecta a la mayoría del lóbulo frontal, de predominio quístico/necrótico, de 60x58x45mm con edema vasogénico perilesional, con desviación de la línea media anterior en 4mm hacia la izquierda.
+Rx de tórax: Estructura ósea sin alteraciones, índice cardiotorácico en el rango de normalidad. No se observan imágenes de condensación a nivel pulmonar, ni datos de ocupación de senos costofrénicos.
+No se aprecian alteraciones a nivel de mediastino.
+Resonancia magnética cerebral (RM): Describe lesión única, solidoquística con contenido hemorrágico y alta celularidad en su parte anterosuperio, con valores muy elevados de volumen sanguíneo cerebral en dichas zonas que sugieren neoplasia de alto grado de malignidad, y que por sus características morfológicas orientan a tumor astrocitario de alto grado, planteando como diagnóstico diferencial metástasis única.
+TAC toracoabdominal: imágenes compatibles con neoplasia central pulmonar probable Ca microcítico con infiltración ganglionar ipsilateral.
+Fibrobroncoscopia:
+» ausencia de células neoplásicas, si se observan abundantes colonias bacterianas compatibles con actinomices.
+» Anatomía patológica (AP): del cepillado bronquial, hallazgos compatibles con carcinoma microcítico. Se realiza estudio inmunohistoquímico que muestra CD56, sinaptofisina y cromogranina positivos, t ALC negativos.
+
+Diagnóstico
+Carcinoma microcítico de pulmón hiliar derecho, con metástasis única cerebral.
+
+Tratamiento
+Intervención quirúrgica de LOE cerebral, por parte del equipo de neurocirugía: Cranectomía parasagital derecha con 2 trépanos en línea media, se localizó la lesión con ecografía y se realizó corticotomía sobre el quiste y disección. Se realiza la extirpación completa de la cápsula por microcirugía.
+Radioterapia holocraneal de consolidación, 30 Grey(Gy) en total, planificando 3Gy por sesión Radioterapia en campo pulmonar, se planifican 66Gy en total.
+Quimioterapia: cisplatino + etopósido
+
+Evolución
+Durante el ingreso la paciente fue intervenida por parte de microcítico de pulmón mestastásico, con lo cual el tratamiento de elección de acuerdo con las guías sería tratamiento quimioterapico con intención paliativa.
+Pero al tratarse de una lesión metastásica única, bien delimitada, con una enfermedad pulmonar limitada a un hemitórax, se decide contactar con neurocirugía para valoración por su parte.
+Se decide en Comité de tumores el día 22.02.2016 intervención quirúrgica que se lleva a cabo el día 24.02.2016, describiendo intraoperatoriamente quiste con salida de material purulento, recogiendo el parte quirúrgico una resección completa de la cápsula por microcirugía.
+La paciente presentó un postoperatorio sin incidencias, se realiza TAC postcirugía, que en la cual se describe cambios en relación a la cirugía y en área quirúrgica restos hemáticos con discreto efecto masa y desviación de la línea media en 4mm.
+Una vez superado el postoperatorio, se decide ingreso para inicio de quimioterapia según esquema con cisplatino-etopósido, además de programarse tratamiento radioterapia tanto a nivel pulmonar 66Gy concomitante con quimioterapia y a nivel cerebral que se programan 30Gy de consolidación (se programan 10 sesiones 3 Gy por sesión).
+Tras primer ciclo de quimioterapia administrado durante el ingreso, se decide alta, continuando con el tratamiento quimioterapia y radioterápico de forma ambulatoria.
+Durante las sucesivas revisiones la paciente refiere parestesias en el área auricular y sensación de taponamiento ótico.
+Durante el seguimiento la paciente ha acudido en tres ocasiones al servicio de urgencias, destacando que en abril de 2016, consulta por crisis de ausencia, con perdida del habla de entorno a 6 minutos de duración, sin otra localidad, pérdida del nivel de conciencia o movimientos tanico-clónicos. Se decide observación, objetivados episodios similares a los descritos en varios ocasiones, por lo que se decide reajuste del tratamiento que la paciente venía realizando desde el alta: Levetiracetam 1000mg/12h y fenitoína 100mg/8h.
+Dado aparición de estos episodios se realiza nuevo Tac y RM que descartan recidiva tumoral a nivel craneal.
+A las 48horas de ingreso aparece como proceso intercurrente un proceso febril, durante el cual se extraen hemocultivos por vía periférica y catéter con aislamiento de Stafilococo aureus meticilinsensible. Ante este hallazgo dado el potencial patogénico y potenciales complicaciones se realiza tratamiento intravenoso durante 14 días, y ecocardiografía, que descarta datos de endocarditis.
+Previo al alta se confirma negatización de los cultivos.
+
+El seguimiento se completa nuevamente en las consultas, hasta el momento actual ha completado el tercer ciclo quimioterápico, ha recibido nueve sesiones de radioterapia en campo pulmonar de las 33 programadas y ha completado la radioterapia craneal. Queda pendiente reevaluación de enfermedad.

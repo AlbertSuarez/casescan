@@ -1,0 +1,24 @@
+Anamnesis
+Se trata de un varón de 76 años de edad, fumador habitual de 20-30 cigarrillos al día (IPA 62). Como antecedentes médicos destaca una neumonía por LEGIONELLA en 2006, hipertensión arterial, criterios de bronquitis crónica e hipertrofia benigna de próstata.
+En febrero de 2013, consultó por tos y dolor en región escapular derecha. Por este motivo se realizó una radiografía de tórax observándose una opacidad en lóbulo superior derecho (LSD).
+
+Exploración física
+Muy buen estado general con un Eastern Cooperative Oncology Group Performance Status (ECOG PS) de 0. Auscultación pulmonar sin alteraciones, sin adenopatías palpables cervicales ni hallazgos significativos en el resto de exploración.
+
+Pruebas complementarias
+PET-TC (18/2/13): evidencia imágenes nodulares coalescentes extensas que ocupan casi la totalidad del segmento posterior del LSD. El índice metabólico de los nódulos es bajo. Nódulo hipermetabólico de 14 mm de diámetro en segmento posterior de LSI. Hipercaptación en adenopatías mediastínicas múltiples.
+Biopsia bronquial: carcinoma pulmonar de células no pequeñas. Tipo escamoso. Grado: G2 moderadamente diferenciado. Reacción inflamatoria asociada. TTF-1: negativo. P63: positivo (90 %). Estudio molecular: mutación EGFR negativa y no existe translocación ALK.
+
+Diagnóstico
+Diagnóstico final: carcinoma escamoso de pulmón T3 N3 M1a, estadio IV.
+
+Tratamiento
+Para la primera línea de tratamiento se incluyó dentro del ensayo clínico (EC) GO27820, recibiendo onartuzumab + carboplatino + paclitaxel durante 4 ciclos. La tolerancia fue buena, con toxicidad consistente en: alopecia G2 y astenia G1. Se realizó una TC tras el 8º ciclo (3 sólo con onartuzumab) que mostraba una respuesta completa según criterios RECIST 1.1. Tras 10º ciclo, se objetivó una franca progresión pulmonar y ganglionar mediastínica. La supervivencia libre de progresión (SLP) de la primera línea fue de 7 meses.
+
+Evolución
+El paciente conservaba muy buen estado general y prácticamente ninguna toxicidad residual de la primera línea, por lo que inició una segunda línea dentro del EC Lux Lung 8 y recibió afatinib 40 mg vía oral cada 24 horas. Efectos adversos: rash G2, mucositis G1 y diarreas G1, que se manejaron con tratamiento sintomático manteniendo la dosis completa. Los controles radiológicos mostraban enfermedad estable. Continuó el tratamiento hasta marzo de 2014 cuando progresa a nivel pulmonar (aumenta la lesión en el LSI), tras 6 meses de SLP.
+Se inició una tercera línea con vinorelbina oral 60 mg/m2 días 1 y 8 cada 21 días. Toxicidad destacada: astenia G1. Recibió 6 ciclos hasta agosto de 2014, que se suspende por progresión pulmonar. SLP: 6 meses. En septiembre 2014 inició una cuarta línea con topotecán oral 3,75 mg cada 24 horas 3 días cada 21 días y en la TC de revaluación tras 3 ciclos se objetivó una lenta progresión pulmonar. La tolerancia al tratamiento fue excelente. En noviembre de 2014 inició una quinta línea con gemcitabina
+1.500 mg/m2 cada 14 días, recibiendo 13 ciclos hasta mayo de 2015 cuando progresó a nivel pulmonar. El paciente no presentó prácticamente ninguna toxicidad salvo astenia G1. SLP: 7 meses.
+Posteriormente, comenzó la sexta línea de tratamiento con erlotinib oral 100 mg cada 24 h. Los efectos secundarios relacionados con el tratamiento fueron rash facial y torácico G2, y eccema en cuero cabelludo. En agosto de 2015, progresó a nivel pulmonar y clínicamente presentaba molestias torácicas mecánicas, limitando su actividad diaria. Entró en el EC Checkmate 171 e inició tratamiento en séptima línea con nivolumab 3 mg/kg intravenoso cada 14 días. Recibió 25 ciclos con enfermedad estable (sin llegar a respuesta parcial por RECIST pero con disminución de carga tumoral) y mejoría clínica.
+Toxicidad única secundaria: rash G1 facial. En octubre de 2016, se objetiva de nuevo progresión de la lesión en LSI tras 14 meses de SLP.
+Comenzó entonces con la octava línea de tratamiento con vinorelbina oral pauta metronómica 50 mg cada 24 horas. Como efecto adverso a destacar presentó astenia G2 que obligó a reducción de dosis a 40 mg cada 24 horas. Mantiene enfermedad estable en las pruebas de control radiológico. En el momento actual, el paciente continúa este tratamiento con el 7º ciclo, una SLP de 7 meses y sin toxicidad asociada tras la reducción de dosis, manteniendo un estado general conservado con ECOG = 1 y a la edad actual de 80 años. La supervivencia global (SG) hasta el momento es de 50 meses.

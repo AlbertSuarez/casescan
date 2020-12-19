@@ -1,0 +1,35 @@
+Anamnesis
+Paciente de 71 años, con antecedentes de hipertensión, derivado a Urología por hallazgo casual en analítica de rutina de PSA 8 en septiembre de 2010. Está asintomático desde el punto de vista urológico. Se realiza biopsia prostática con resultado de adenocarcinoma Gleason 8 (3 + 5). Se solicita estudio de extensión con TC toracoabdominal y RM pélvica que no evidencian metástasis a distancia, por lo que se somete a prostatectomía radical en noviembre de 2010. El estudio de la pieza mostró un adenocarcinoma de próstata Gleason 8 (3 + 5) con extensión al tercio medio y craneal de ambos lóbulos y con afectación de la cápsula, pero respetando la grasa periprostática. Múltiples imágenes de invasión perineural.
+Se deriva a Oncología Radioterápica, quien inicia bloqueo androgénico completo con bicalutamida y goserelina y radioterapia externa. en el primer control, PSA en 0 por lo que inicia revisiones periódicas. En junio de 2014, estando el paciente asintomático, se detecta PSA en 0,35 por lo que se retira bicalutamida. A pesar de ello, continúa aumento PSA con unos niveles en diciembre de 2014 de 0,76. Se solicita TC y gammagrafía ósea, evidenciando múltiples adenopatías cervicales, mediastínicas y retroperitoneales, así como múltiples imágenes blásticas en prácticamente todo el esqueleto en relación con metástasis. El paciente es derivado a la consulta de Oncología Médica en marzo de 2015, momento en el que los niveles de PSA ya estaban en 2,95, lo que arroja un periodo de doblaje del PSA menor de 3 meses. Aunque el paciente se encontraba asintomático en ese punto, se propone tratamiento con docetaxel-prednisona. Se administra también denosumab por la alta carga de enfermedad en huesos de carga.
+Inicia tratamiento en abril de 2015 con un PSA basal de 5,01. Recibe 6 ciclos con muy buena tolerancia con descenso progresivo del PSA hasta 2,54 con respuesta parcial de la enfermedad. Completa 10 ciclos con estabilización de la enfermedad y de los niveles de PSA que quedan en 2,52 en diciembre de 2015. Asintomático, desde el punto de vista de la enfermedad metastásica en todo momento. Se decide seguir tratamiento con goserelina y denosumab.
+En febrero de 2016 y con incontinencia como única clínica, PSA 6,33. Se repite analítica al mes y se encuentra PSA 15,21. Se repite TC y gammagrafía ósea que no ven cambios significativos respecto a estudio previo, si bien alguna adenopatía presentaba leve aumento.
+Inicia abiraterona-prednisona y, tras 2 meses de tratamiento, en abril de 2016 se evidencia PSA 45,9 así como Hb 8,9, leucocitos totales 2.260 con 1440 polimorfonucleares y 75.000 plaquetas. Asociaba aumento del dolor óseo, astenia y anorexia. Se mantiene el tratamiento y se repite analítica con PSA 44, Hb 7,5, leucocitos totales 2.600 con 1.700 polimorfonucleares y 68.000 plaquetas. Se transfunde al paciente y se mantiene tratamiento con abiraterona, aunque se cambia el corticoide a dexametasona y se aumenta la dosis de cara a intentar control del dolor óseo.
+Al siguiente control, discreta mejoría del estado general, PSA 32, Hb 8,4, leucocitos totales 2.100 con
+1.100 polimorfonucleares y 60.000 plaquetas. Ante el descenso en los niveles de PSA, se mantiene el tratamiento a dosis plenas y se asume que, dada la elevada carga de enfermedad ósea, puede justificar las cifras del hemograma.
+En septiembre de 2016, acude a Urgencias por deterioro del estado general, astenia, disnea de moderados esfuerzos y diarrea que relacionaba con un cuadro de gastroenteritis.
+
+Exploración física
+» Paciente en regular estado general, palidez mucocutánea y deshidratación mucosa marcada.
+» Afebril. TA 109/59 mm Hg. FC 90 lpm. SatO2 basal 96 %. Diuresis en las últimas 12 horas: 300 cc.
+» EVA basal 2/10.
+» Auscultación cardiorrespiratoria normal.
+» Exploración abdominal: normal.
+» Sin edemas periféricos.
+
+Pruebas complementarias
+Analítica:
+» » Hemograma: Hb 7,7, leucocitos 890 con 440 polimorfonucleares; plaquetas 43.000.
+» » Bioquímica: creatinina 1,52 (previa normal), GOT 26, GPT 12, GGT 113, fosfatasa alcalina 1.580, perfil iónico normal, LDH 1.198, PCR 24. » PSA 17,9.
+Ecografía abdominal: hígado levemente aumentado de tamaño sin LOE. Resto sin hallazgos relevantes.
+Ante los hallazgos del hemograma, se somete al paciente a biopsia de médula ósea. El informe anatomopatológico informa de abundantes nidos de células tumorales con expresión de cromogranina, sinaptofisina y enolasa y negatividad para receptores de andrógenos y PSA.
+
+Diagnóstico
+Pancitopenia secundaria a infiltración de médula ósea por carcinoma de próstata con diferenciación neuroendocrina.
+
+Tratamiento
+Se suspende tratamiento con abiraterona y se procede a tratamiento de soporte con fluidoterapia intensiva y transfusión de concentrados de hematíes. Se solicita reevaluación de la enfermedad con gammagrafía ósea que mostraba progresión de la enfermedad ósea a múltiples niveles con afectación de prácticamente todo el esqueleto axial.
+
+Evolución
+Tras una inicial mejoría clínica, el paciente comienza con deterioro del nivel de conciencia y febrícula sin foco infeccioso aparente. Se inicia antibioterapia con cefepima con desaparición de la fiebre, pero sin mejoría del estado general. La disminución del nivel de conciencia progresivamente empeora y comienza con episodios de agitación psicomotriz por lo que se solicita TC de cráneo.
+En el mismo, se aprecia imagen de unos 8 cm extraaxial en probable relación con hematoma subdural evolucionado con una imagen de realce de alrededor de 1 cm compatible con foco hemorrágico subagudo sin poder descartar la presencia de metástasis.
+La situación del paciente se deteriora rápidamente y sobreviene es exitus a los 6 años del diagnóstico inicial y los 19 meses del diagnóstico de la enfermedad metastásica.

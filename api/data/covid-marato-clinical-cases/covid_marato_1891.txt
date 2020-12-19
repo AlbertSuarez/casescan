@@ -1,0 +1,36 @@
+Anamnesis
+Varón de 59 años sin reacciones alérgicas medicamentosas conocidas, fumador de dos puros al día, sin otros hábitos tóxicos y con antecedentes de HTA en tratamiento con enalapril e intervenido de herniorrafia inguinal. No presenta historia oncológica previa.
+El paciente consulta por ciatalgia de más de un año de evolución refractaria a tratamiento con analgesia habitual, por lo que su médico de atención primaria solicita en enero de 2016 una RNM lumbar donde se objetiva una tumoración rectal y se remite al paciente a consultas externas de cirugía general.
+Refiere cambio en el hábito intestinal, pérdida de 10 kg de peso, rectorragia ocasional y proctalgia que le impide la sedestación desde finales de 2015.
+
+Exploración física
+Buen estado general, PS 0, auscultación cardiopulmonar sin hallazgos patológicos, abdomen blando y depresible, doloroso a la palpación en hipogastrio, al tacto rectal gran tumor que ocupa casi toda la circunferencia a 4 cm del margen anal, sin identificación del puborrectal al tacto.
+
+Pruebas complementarias
+Se realiza una RNM de estadiaje donde se identifica una gran masa de 9x10 cm de diámetro dependiente de la pared posterior del recto, con crecimiento excrecente hacia vertiente posterior de mesorrecto ocupando todo el espacio presacro. La masa muestra importante componente necrótico, con nivel hidroaéreo en su interior, que sugiere fistulización/abscesificado. En contacto de forma prácticamente circunferencial con la fascia mesorrectal, situándose por debajo de la reflexión peritoneal. Existe afectación de la vertiente lateral izquierda del pubo rectalis, no observando afectación de la línea interesfintérica ni del esfinter externo. Despalazamiento del músculo elevador del ano de forma bilateral, con áreas focales de infiltración del mismo. Se visualizan múltiples adenopatías patológicas peritumorales así como en relación con los vasos rectales superiores, no identificando crecimientos ganglionares iliacos ni retroperitoneales.
+INFORME DE ESTADIFICACIÓN FINAL: T4 N2b Mx.
+
+Se completa el estudio de extensión con TC toracoabdominopélvico donde además de la masa ya conocida, se observa un nódulo pulmonar en LSI de 19 mm y múltiples lesiones hepáticas sugestivas de quistes simples.
+PET/TAC confirma gran masa rectal (SUV máximo 18.9) en relación con primario conocido con implantes presacros (SUV máximo 3). Nódulo pulmonar superior izquierdo ametabólico y lesiones de aspecto quístico en hígado sin repercusión metabólica.
+
+En la colonoscopia se observa a 5 cm de margen anal neoplasia vegetante, ulcerada, friable al roce que ocupa toda la circunferencia sin estenosar de la luz, se toman múltiples biopsias.
+
+Anatomía patológica: Tumor fusiforme sugestivo de GIST. Realizado estudio IHQ se encuentra positividad de las células tumorales frente a CD117 y h-caldesmon y vimentina, con un índice de proliferación ki67 del 15%. Las células tumorales muestran negatividad frente a desmina, actina músculo liso, S-100, HMB45, CKAE1-AE3, CK5/5, cromogranina y sinaptofisina. Este perfil apoya el diagnóstico de tumor del estroma gastrointestinal (GIST).
+
+GEN KIT: secuenciación directa de los exones 9,11 y 17 del gen del receptor tirosin kinasa KIT. [Secuencia de referencia genómica NT022853.14(Gene Bank)].Detección negativa de mutaciones estudiadas.
+
+GEN PDGFRA: Secuenciación directa de los exon 18 del gen del receptor del factor de crecimiento derivado de plaquetas (polipéptido alfa).[Secuencia de referencia genómica NT022853.14(GeneBank)].
+Detección negativa de mutaciones estudiadas.
+
+Ecocardiograma y analítica dentro de la normalidad.
+
+Diagnóstico
+GIST rectal localmente avanzado wild type (WT).
+
+Tratamiento
+En febrero de 2016 se presenta el caso en comité de tumores colo-rectales. Dado que se trata de un tumor irresecable de inicio se programa para tratamiento con imatinib con intención neoadyuvante (400 mg c/24 horas) y reevaluación de respuesta precoz para valorar resecabilidad posterior.
+
+Evolución
+A la semana de iniciar tratamiento el paciente refiere franca mejoría clínica con normalización del ritmo intestinal, desaparición de la proctalgia y de las resctorragias. Buena tolerancia a Imatinib con mínimo edema palpebral como única toxicidad, que no requiere tratamiento.
+En RNM de control en marzo de 2016 se observa reducción volumétrica tumoral rectal de aproximadamente un 40% respecto al examen previo (diámetro mayor 60 mm). Reducción volumétrica de las adenopatía mesorrectales con desaparición de parte de ellas.
+Se continúa con tratamiento sistémico con imatinib, en mayo de 2016 se repite RNM de control donde no se aprecia reducción tumoral significativa. Se vuelve a presentar al paciente en comité de tumores, se decide remitir a cirugía teniendo en cuenta las características moleculares del tumor, que ha alcanzado la respuesta máxima y que éste es resecable. Se mantiene tratamiento con imatinib hasta la intervención y posteriormente se completará 3 años de tratamieto en caso de cirugía óptima.

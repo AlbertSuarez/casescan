@@ -1,0 +1,23 @@
+Anamnesis
+Presentamos a un varón de 57 años, sin historia familiar relevante, fumador, hipertenso y dislipémico. Desde 2004, a sus 43 años, ha estado en seguimiento por Dermatología por lesiones cutáneas generalizadas y progresivas a nivel facial y centrotorácico que han ido mejorando con corticoterapia tópica. En varias biopsias, únicamente se ha observado dermatitis atópica crónica.
+
+Exploración física
+Durante la exploración presenta buen estado general, con placas sobreelevadas y eritematosas repartidas por cara y tronco. No se palpan adenopatías patológicas en ningún área. Auscultación cardiaca y respiratoria normal.
+Pruebas complementarias
+En octubre de 2008, tras empeoramiento de las lesiones, se decide repetir biopsia de las lesiones. Se realiza TC toracoabdominopélvica, donde no se evidencian lesiones destacables. En la analítica, únicamente destacaremos ß2 microglobulina 2,14.
+
+Diagnóstico
+Linfoma cutáneo primario T tipo micosis fungoide, con reordenamiento clonal positivo para el receptor de células T (TCR) gamma (VJ-A). Por afectación de < 10 % de la superficie corporal, se cataloga como un T1N0M0 al resultar el estudio de extensión negativo.
+
+Tratamiento
+El paciente durante 5 años recibe tratamiento con corticoides tópicos y fototerapia tipo PUVA, con control parcial de la enfermedad.
+
+Evolución
+En diciembre de 2013 comienzan a aparecer placas faciales eritematosas y sobreelevadas en área peribucal y nasal, que se biopsian nuevamente informándose como linfoma cutáneo primario T tipo micosis fungoide con nódulos de transformación a células grandes CD30 + (fase tumoral). Inicia metotrexato 2,5 mg 6 comprimidos un día por semana con respuesta parcial durante 6 meses.
+En agosto de 2014, sufre progresión clínica, por lo que es derivado a nuestro Servicio comenzando gemcitabina 1.250 mg/m2 cada 2 semanas con estabilización de la enfermedad durante 6 meses.
+En enero de 2015 sufre una nueva progresión, iniciando esquema CHOP a dosis de 650 mg de ciclofosfamida y 50 mg de doxorrubicina por m2 así como 2 mg de vincristina cada 21 días, con práctica respuesta completa de la enfermedad durante 6 ciclos y presentando astenia grado 1 únicamente.
+A los 12 meses, en diciembre de 2015, progresa nuevamente a nivel facial y dorsal, iniciando nueva línea con doxorrubicina hidrocloruro a dosis de 25 mg/m2 cada 4 semanas, esquema que recibe hasta diciembre de 2016 (12 meses).
+En marzo de 2017, por nueva progresión a nivel facial y cervical, inicia brentuximab vedotina a dosis de 187 mg cada 3 semanas. Dicho tratamiento lo recibe durante 16 ciclos con toxicidad leve consistente en neuropatía periférica (mano-pie) grado 1 y náuseas grado 1 y respuesta parcial.
+En enero de 2018, sufre empeoramiento de las lesiones faciales, por lo que de deriva a Oncología Radioterápica recibiendo radioterapia externa (RTE) sobre mentón (8 Gy en fracción única) y entrecejo (8 Gy en dos fracciones), así como braquiterapia (BQT) sobre ala nasal (7 Gy en fracción única), a nivel supraciliar (5 Gy en dos fracciones), cuello (5 Gy en dos fracciones) y área preauricular izquierda (5 Gy en dos fracciones) recibiendo seguimiento estrecho posterior.
+En enero de 2019, el paciente ingresa en planta por disnea de mínimos esfuerzos evidenciándose en TC de tórax múltiples lesiones pulmonares cavitadas informadas como metástasis o infección. Se inicia de forma empírica trimetoprima-sulfametoxazol, con gran mejoría clínica. Se realiza biopsia guiada por TC, obteniéndose tejido pulmonar con infiltración linfoide compatible con linfoma T de células grandes (CD30, C45, CD3, CD5 y CD4 positivos).
+Se planifica para quimioterapia (QT) de inducción y posteriormente trasplante de progenitores hematopoyéticos (TASP), iniciando esquema GEMOX (oxaliplatino 85 mg/m2-gemcitabina 900 mg/m2) en marzo de 2019. Sin embargo, el paciente ha presentado una evolución tórpida con varios ingresos en planta por infecciones respiratorias de repetición sin aislamiento de ningún germen y gran deterioro del estado general, produciéndose finalmente el fallecimiento en mayo de 2019, tras tres ciclos de QT de inducción sin llegar al trasplante.

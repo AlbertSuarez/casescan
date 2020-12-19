@@ -1,0 +1,27 @@
+Anamnesis
+Mujer de 55 años, de raza blanca, fototipo II que en octubre de 2011 acudió a Dermatología porque notó cambios en un nevus localizado en el flanco derecho.
+Antecedentes familiares: padre fallecido de neoplasia de colon. Un tío paterno fallecido de neoplasia gástrica.
+Antecedentes personales: asmática. Fumadora de 20 cg/día desde los 16 años. Intervenida de apendicectomía y perforación timpánica izquierda. Hipotiroidismo subclínico. Sin medicación habitual.
+
+Exploración física
+Exploración sin alteraciones significativas, excepto cicatrices quirúrgicas.
+
+Pruebas complementarias
+» TC tórax-abdomen-pelvis al diagnóstico: negativo para diseminación a distancia.
+
+Diagnóstico
+En noviembre de 2011 se realizó biopsia excisional y el resultado de la anatomía patológica (AP) reveló un melanoma nodular, Breslow 3 mm, nivel de Clark IV, en fase de crecimiento vertical, con microsatélites, ulcerado, sin invasión vascular ni perineural, con leve infiltración linfocitaria, regresión tumoral presente en menos del 75%, así como 2-3 mitosis x mm. Perfil IHQ: S100, Hmb 45 y Melan A positivos. Ki-67 > 20%. Márgenes libres.
+En enero de 2012 se realizó biopsia selectiva de ganglio centinela (GC), 1 GC de mama derecha con metástasis de melanoma y 2 GC de la axila derecha sin evidencia de infiltración. Se realizó linfadenectomía derecha en febrero, confirmándose metástasis en 1/23 ganglios examinados e invasión vascular en la grasa adyacente. Un ganglio de la cadena subescapular y otro del nivel III, no presentaron evidencias de infiltración. Se concluyó: melanoma nodular pT3bpN2bM0. Estadio IIIb.
+
+Tratamiento
+En marzo de 2012 inició adyuvancia con Interferón mediante el esquema Kirwood y se suspendió a los 6 meses a solicitud de la paciente debido a la toxicidad consistente en sensación distérmica, artralgias, astenia grado 2 y empeoramiento de los valores analíticos de función tiroidea, diagnosticándose de hipotiroidismo autoinmune e iniciando tratamiento con eutirox 100 mcg/24 h.
+Un mes después aparecieron 2 pápulas en la areola derecha de 0,8 cm de diámetro mayor. Se realizó biopsia-extirpación que confirmó que se trataba de metástasis cutánea de melanoma. En el escáner de reevaluación se informó de la presencia de un conglomerado adenopático en la fosa supraclavicular (FSC) derecha. Se envió la muestra para estudios moleculares resultando ser BRAF no mutado.
+Inició tratamiento en noviembre de 2012 con dacarbacina 1000 mg/m2, d1 c/21 días. Recibió 5 ciclos y se suspendió por progresión de la enfermedad a nivel cutáneo periareolar. La TC informó además la desaparición del conglomerado adenopático en FSC derecha.
+Desde abril de 2013 hasta junio de 2013 recibió tratamiento de 2.ª línea con Ipilimumab 3 mg/kg c/21d (4 dosis). Se evaluó la respuesta mediante TC y se confirmó con PET TC, informando la presencia de una lesión maligna única, localizada en complejo areola-pezón de la mama D, sin evidencia de enfermedad metabólicamente activa a otros niveles. Se realizó mastectomía simple con intención sanitaria el 19 de julio de 2013 confirmándose la presencia de metástasis múltiples de melanoma en piel, pezón y areola, la mayor de 6,5 cm que infiltran el tejido subcutáneo y el parénquima mamario con márgenes libres.
+Se optó por realizar seguimiento activo con estudios de imagen y exploración clínica que resultaron negativos hasta el PET TC de 12/2013 que informó de recidiva tumoral localizada en la mama derecha.
+Dado que la progresión fue a nivel local, en enero de 2014 se realizó mastectomía derecha y reducción de la mama contralateral. El resultado de AP confirmó la presencia de 3 nódulos metastásicos intraparenquimatosos de 2, 0,9 y 0,8 cm de diámetro respectivamente, este último era un ganglio linfático infiltrado y con invasión periganglionar. Se mantuvo en seguimiento clínico hasta julio/2014 en que recibimos una PET-TC que informó la presencia de un nódulo metastásico en la cicatriz de la mama derecha que invadía el tejido subcutáneo.
+Se inició 3era línea el 11.08.2014 con Pembrolizumab a 200mg c/21d, dentro del programa de uso compasivo. Tras el 1er ciclo, el nódulo de la cicatriz mamaria D disminuyó dramáticamente de tamaño, pasando de 4 cm a medir apenas 1,5 cm. Después de 2 ciclos se realizó PET/TC que confirmó una respuesta parcial.
+
+Evolución
+Se continuó tratamiento y, dado que se mantuvo en respuesta parcial tanto clínica como radiológica, el 16 de febrero de 2015 se extirpó el nódulo captante y el resultado de AP informó de melanosis nodular con acúmulo de histiocitos pigmentados e inflamación crónica sin evidencia de malignidad. Compatible con melanoma en regresión y se recibió PET-TC de marzo de 2015 que confirmaba la respuesta completa.
+Hasta la actualidad la paciente ha recibido 14 ciclos de pembrolizumab. La tolerancia al fármaco ha sido excelente, solo astenia grado 1. En la última consulta la paciente presentaba lesiones cutáneas papulares en miembros inferiores que se biopsiaron con diagnóstico de estucco queratosis. Sin que existan reportes previos que relacionen esta patología con la terapia utilizada.

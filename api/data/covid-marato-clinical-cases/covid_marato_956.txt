@@ -1,0 +1,21 @@
+Anamnesis
+En este caso se presenta una mujer de 79 años, no fumadora ni bebedora, que, como antecedente destacable, presenta síndrome mieloproliferativo crónico, probable trombocitemia esencial con aumento ligero-moderado de megacariocitos en médula ósea, no displásicos, de disposición anómala paratrabecular en acúmulos, con ligero aumento de trama reticulínica. En tratamiento con indapamida retard, ispágula, omeprazol, ácido ibandrónico, alopurinol, hidroxicarbamida, ácido acetil salicílico y lorazepam. Vive con su marido.
+La paciente debuta con un nódulo sospechoso de 15 mm en mama izquierda en enero de 2017, por el que se le estudia con las correspondientes pruebas de imagen (TC y gammagrafía ósea) y examen histopatológico (biopsia por tru-cut), decidiéndose realizar tumorectomía con biopsia selectiva del ganglio centinela más radioterapia tras la negatividad en el estudio de extensión previamente realizado. En la Anatomía Patológica se diagnostica de carcinoma adenoide quístico grado 2, bordes quirúrgicos libres, con un ganglio linfático de un total de dos con micrometástasis y en la inmunohistoquímica se cataloga como triple negativo (pT2N1miM0). Comienza revisiones.
+En febrero de 2019, acude a Urgencias por comenzar con disnea progresiva sobre todo con ortopnea o esfuerzo moderado. En Urgencias objetivan derrame pleural derecho, por lo que se ingresa para estudio.
+
+Exploración física
+Durante la exploración física, no se palpaban adenopatías periféricas, masas ni nódulos mamarios. Auscultación respiratoria con hipoventilación en base derecha hasta tercio superior, izquierda normal. El resto de la exploración física por aparatos no tiene alteraciones.
+ignos de TVP
+
+Pruebas complementarias
+En las pruebas de imagen realizadas (TC-TAP y gammagrafía ósea) se objetiva derrame pleural derecho, nódulos pulmonares y pleurales bilaterales sugestivos de metástasis y nódulos diafragmáticos derechos anteriores en probable relación con adenopatías versus implantes tumorales. Se le realizó drenaje del líquido pleural más talcaje con resultado de líquido negativo para celularidad. Se decide realizar toracoscopia en la que se observa pleura visceral y parietal con lesiones sospechosas de metástasis. Se procede a la aspiración de líquido pleural y biopsia de lesiones de pleura parietal, obteniendo como resultado en la anatomía patológica de infiltración pleural compatible con neoplasia de origen mamario previa (adenoide quístico).
+
+Diagnóstico
+Finalmente, la paciente es diagnosticada de carcinoma adenoide quístico metastásico de origen mamario, con afectación pulmonar y pleural.
+
+Tratamiento
+Revisada la literatura, no existe evidencia sobre la actitud terapéutica sobre este tipo de tumor. Normalmente es un tumor con un curso indolente con una SLE a 10 años del 90-100 %, y las metástasis a distancia son raras y lentamente progresivas, sólo reportadas en forma de casos clínicos. Sin embargo, en este caso se presenta una recaída sistémica sintomática a los 2 años del primario, lo que es extremadamente infrecuente.
+No existe evidencia sólida sobre el tratamiento de quimioterapia más adecuado, si bien la recomendación es tratarlo como un carcinoma adenoide quístico de glándulas salivares. El esquema con una evidencia más sólida es el CAP (ciclofosfamida [500 mg/m2], doxorrubicina [50 mg/m2], cisplatino [50 mg/m2]) con una tasa de respuestas del 28 %. Pero al tratarse de una paciente frágil, se opta por un esquema de tratamiento en monoterapia con una toxicidad más manejable. El esquema en monoterapia con una mayor tasa de respuestas (15-44 %) es la vinorelbina, por lo que la paciente inicia el primer ciclo de vinorelbina oral a 60 mg/m2 días 1 y 8 cada 21 días, el día 11 de marzo de 20193,4.
+
+Evolución
+La paciente hasta el día de hoy sigue en tratamiento, habiendo recibido cuatro ciclos con muy buena tolerancia al mismo y sin evidencia de progresión clínica, sólo destacando como toxicidad asociada al tratamiento astenia G1. Dentro de unos días, antes del quinto ciclo, se realizará TC de valoración de respuesta.

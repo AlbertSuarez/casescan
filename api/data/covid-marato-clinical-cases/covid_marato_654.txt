@@ -1,0 +1,44 @@
+Anamnesis
+Se presenta el caso de un varón de 75 años que debuta con un cuadro de diabetes mellitus en noviembre de 2013.
+
+Como antecedentes personales destacaba dislipemia controlada con simvastatina 20 mg, alergia a la penicilina y había sido intervenido de apendicectomía con 40 años de edad. No era ni había sido fumador o bebedor, mantenía buena calidad de vida, independiente para actividades básicas de la vida diaria, jubilado actualmente, había ejercido como mecánico. No describe antecedentes familiares oncológicos de interés.
+
+En control analítico rutinario por su médico de Atención Primaria se objetivan cifras de glicemia en torno a 210 mg/dL (valores normales, VN, 75-105 mg/dL). Además, el paciente refiere poliuria, nicturia y polidipsia de tres meses de evolución, por lo que es diagnosticado de diabetes mellitus tipo 2. Inicia tratamiento con metformina 850 mg diarios con buen control de cifras de glicemia.
+
+En marzo de 2014, acude a Servicio de Urgencias por cuadro de dolor abdominal centrado en el mesogastrio-fosa iliaca derecha, meteorismo y cuadro de pérdida ponderal de peso (>15 kg en los últimos cinco meses), que motiva ingreso en Medicina Interna para estudio. Se solicita estudio de imagen con TC de abdomen1, hallándose una neoformación en la cabeza-cuerpo de páncreas junto con adenopatías patológicas y múltiples nódulos hipodensos hepáticos bilobares compatibles con metástasis.
+
+Dados los resultados, se presenta el caso en Comité Multidisciplinar de tumores hepatobiliares y se decide realizar biopsia percutánea de la lesión hepática. Esta se lleva a cabo en abril de 2104. El diagnóstico histológico fue compatible con metástasis de adenocarcinoma, compatible con origen pancreático.
+
+Exploración física
+IK: 80%, PS:1. Destaca dolor abdominal a la palpación en el mesogastrio y el hipocondrio derecho.
+Resto de la exploración dentro de la normalidad.
+
+Pruebas complementarias
+» TC con contraste IV de tórax, abdomen y pelvis (marzo/2014): Masa en cuerpo-cabeza pancreáticos de aprox 3,7 x 2,2 cm, de centro hipodenso y bordes mal delimitados, compatible con carcinoma pancreático. Engrosamiento nodular en cola de páncreas de 1,9 cm. Se observan múltiples nódulos hipodensos en ambos lóbulos hepáticos, el mayor en LHI de 1,6 cm, compatibles con metástasis. Adenopatías patológicas gastrohepáticas, paraaórticas, interaortocava y retrocrurales.
+
+Resto de estudio sin otros hallazgos reseñables.
+» Analítica (mayo/2014) destaca: Hb 9,8 g/dL; leucocitos 13.640 con 10.250 PMN; plaquetas: 223.000; FA 153 U/L (VN 34-104 U/L); GGT 195 U/L (VN: 5-85 U/L); Ca 19.9: 198 U/ml (VN 0,00-37,00U/mL).
+» TC con contraste IV de tórax, abdomen y pelvis (mayo/2014): comparativamente con estudio previo las lesiones hepáticas son mucho más numerosas y de mayor tamaño. Resto sin cambios significativos.
+» Analítica (junio/2014) destaca: GOT 95 U/L (VN 15-37 U/L); GPT 113 U/L (VN 12-78 U/L); GGT 799 U/L; bilirrubina total 0,3 mg/dL (VN 0,00-1,00 mg/dL).
+» Analítica (septiembre/2014) destaca: GGT 61 U/L; GOT 23 U/L.
+» TC con contraste IV de tórax, abdomen y pelvis (septiembre/2014): nódulo retrocrural derecho que en la actualidad presenta un diámetro de 13,4 mm (previo 19,3 mm). Las lesiones focales hepáticas en ambos lóbulos han disminuido tanto en número como en tamaño. Disminución del tamaño de la adenopatía paraaórtica izquierda que presenta unos diámetros aproximados de 9 x 17 mm (previo 29 x 16 mm). Resto sin cambios significativos respecto al estudio previo.
+» Analítica (febrero/2015) destaca: GGT 26 U/L; GOT 30 U/L; GPT 45 U/L; Ca 19.9 4,80.
+» TC con contraste IV de tórax, abdomen y pelvis (febrero/2015): disminución de tamaño del nódulo retrocrural derecho (en la actualidad diámetro de 8,5 mm, previo 13,4 mm). Persisten numerosas lesiones focales hepáticas en ambos lóbulos, aunque han disminuido tanto en número como en tamaño. Disminución del tamaño de la adenopatía paraaórtica izquierda (diámetro de 6.5 x 15 mm, previo 9 x 17 mm). Resto sin cambios significativos respecto al estudio previo.
+
+Diagnóstico
+Adenocarcinoma de cabeza-cuerpo de páncreas estadio IV.
+TVP de MII (mayo de 2014) anticoagulado con HBPM.
+
+Tratamiento
+Tras descartarse la cirugía, dada la extensión de la enfermedad, el paciente es derivado a Consultas Externas de Oncología Médica (mayo de 2014), solicitándose nuevo estudio de extensión.
+
+Lo volvemos a ver a finales de mayo, ya que ha estado ingresado por un cuadro de neumonía bilateral. Se encuentra más deteriorado (IK 50%-PS 2-3). Refiere astenia severa que limita su calidad de vida de forma importante (vida cama-sillón en las últimas dos semanas). En la exploraciones objetivamos aumento del perímetro del miembro inferior izquierdo (MII) con empastamiento a nivel de pantorrilla, por lo que solicitamos eco-coppler urgente que confirma la sospecha de trombosis venosa profunda (TVP) que afecta al segmento femoral y poplíteo del MII. Iniciamos tratamiento con heparina de bajo peso molecular (HBPM) a dosis terapéutica y reajustamos tratamiento sintomático. El estudio solicitado en la visita previa confirma progresión de enfermedad.
+
+Acude de nuevo a revisión en junio de 2014. Se encuentra mejor, ha recuperado autonomía, sale a la calle solo (IK 70% PS 2). Únicamente refiere astenia grado 2. A la exploración física solo destacar signos de síndrome posflebítico en MII y a nivel analítico destaca elevación de transaminasas. Ante la situación actual, proponemos tratamiento de quimioterapia con esquema gemcitabina 1.000 mg/m2 más nab-paclitaxel 125 mg/m2 días 1, 8 y 15 cada 28 días4. Pautamos primer ciclo con reducción del 20% de la dosis. Monitorizamos tolerancia y toxicidad con carácter semanal, de manera que escalamos dosis y tras dos semanas pautamos la tercera dosis al 100%. Tras el primer ciclo completo, el paciente presenta beneficio clínico evidente con mejoría de la situación funcional (PS 1) y reducción de la analgesia. Como efectos adversos objetivamos astenia, alopecia y anemia grado 1.
+
+Evolución
+En septiembre de 2014, tras tres meses de quimioterapia a dosis plenas, persiste el beneficio clínico (IK 90% PS 1). No refiere dolor, mantiene apetito y prosigue con astenia grado 1. Además, existe respuesta bioquímica, con descenso de los valores de transaminasas, y respuesta radiológica parcial con disminución en número y tamaño de las adenopatías y metástasis hepáticas. En diciembre de 2014, tras cinco ciclos, el paciente refiere como única toxicidad parestesias plantares grado 1.
+
+En reevaluación, tras seis meses de quimioterapia (febrero/2015) persiste el beneficio clínico. El paciente hace vida activa y refiere mínima astenia. Como toxicidad al tratamiento presenta alopecia grado 2, parestesias palmo-plantar grado 1-2 y anemia grado 1. A nivel bioquímico, continúa la normalización de las cifras de transaminasas y Ca 19.9; y a nivel radiológico, persiste reducción del número y tamaño de las metástasis hepáticas objetivándose una respuesta parcial mayor.
+
+Tras ocho ciclos, ha precisado reducción de dosis de nab-paclitaxel (100 mg/m2 ) por neuropatía grado 2 mantenida. Actualmente, ha completado nueve meses de tratamiento, hace su vida normal, dice encontrarse "muy bien" con buena tolerancia al tratamiento y desea continuar con el mismo. En última reevaluación (abril/2015) mantiene el beneficio clínico, bioquímico y respuesta radiológica.

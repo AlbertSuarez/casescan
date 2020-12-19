@@ -1,0 +1,34 @@
+Anamnesis
+ANTECEDENTES PERSONALES Y FAMILIARES:
+Varón de 53 años con antecedentes de alergia a betalactámicos y estreptomicina y exfumador de 40 paquetes/ año.
+Vida activa sin limitacion alguna para las actividades de la vida diaria.
+
+No refiere antecedentes familiares de interes.
+
+HISTORIA ONCOLOGICA:
+En enero de 2011 comienza estudio en el servicio de urología por presentar cuadro de hematuria intermitente sin síndrome constitucional ni otra sintomatología asociada al proceso. Se realiza estudio con pruebas complementarias donde se confirma la existencia de una masa renal izquierda de posible origen tumoral sin evidencia de enfermedad a otro nivel. En marzo de ese mismo año es intervenido mediante nefroureterectomía laparoscópica. El informe anatomopatológico de la pieza es de carcinoma renal de células claras de 6 cm de diámetro máximo, grado 2 de Fhurman, con enfermedad limitada al riñón y sin infiltración de márgenes. Tras la intervención sigue revisiones en el servicio de urología sin incidencias hasta enero de 2013 cuando presenta dolor e impotencia funcional en miembro superior derecho tras haber realizado un esfuerzo, motivo por el cual acude al Servicio de Urgencias.
+
+Exploración física
+Buen estado general.
+Exploracion Miembros superiores: impotencia funcional en brazo derecho. No se observan deformaciones ni perdida de sensibilidad. Miembro superior izquierdo sin alteraciones.
+Resto de la exploracion por organos y aparatos sin hallazgos relevantes.
+
+Pruebas complementarias
+» Radiografia miembro superior derecho (MSD): se objetiva una fractura a nivel de epífisis proximal de húmero derecho a nivel de cuello quirúrgico de posible origen patológico.
+» TAC toracobdominal y gammagrafía ósea: no evidencia de enfermedad a otro nivel.
+» Ecografia cardiaca: Fraccion de eyeccion del ventriculo izquierdo (FEVI) normal. No otras alteraciones de interes.
+» Analítica completa de control: no revelaron alteraciones significativas.
+» Resonancia magnética nuclear (RMN) de hombro y brazo derecho donde se aprecia la existencia de una lesión ósea expansiva, inmediatamente distal a la cabeza humeral con masa de partes blandas asociada de aproximadamente 59 x 50 x 61 mm, sin datos de infiltración de la musculatura asociada.
+
+Diagnóstico
+» El paciente es intervenido bajo anestesia general, realizándose reducción de la fractura y osteosíntesis con clavo T2 de húmero proximal. El resultado anatomopatológico de la biopsia de orificio cortical es de metástasis de adenocarcinoma de células claras de origen renal.
+» Ante esta situación, el paciente es derivado a nuestras consultas de Oncología Médica para valoración de tratamiento a seguir.
+
+Tratamiento
+» En Febrero de 2013 inicia tratamiento con pazopanib 800 miligramos diarios y bifosfonatos intravenosos. En el primer control a las dos semanas, el paciente presentaba buen estado general destacando como toxicidad únicamente astenia grado 1 y diarreas grado 1 muy ocasionales. En el segundo control, de nuevo a las dos semanas, mostraba persistencia de la astenia sin limitación para sus actividades básicas de la vida diaria y sensación de menor inflamación en el área intervenida en hombro derecho. No presentaba dolor articular ni limitación significativa de su movilidad.Tras comentar el caso en comité de tumores urológicos, dado que el paciente se encontraba asintomático, se decide realizar seguimiento clínico y radiológico estrecho y posponer la posible administración de tratamiento radioterápico para un futuro.
+
+Evolución
+En diciembre de 2013 comienza a presentar molestias de tipo neuropático en húmero derecho solicitándose valoración por el servicio de traumatología. Estos con vistas a valorar posible intervención quirúrgica para fijación ósea solicitan un nuevo estudio con RMN de la extremidad en la que se aprecia una lesión osteolítica de 61 x 74 mm de eje mayor. Además es reevaluado por el servicio de radioterapia planificándose entonces tratamiento previo a la cirugía. El paciente no presentaba en estos momentos toxicidad clínica al tratamiento con pazopanib y bifosfonatos, pero en la analítica de control se objetiva una ligera elevación de transaminasas (GPT 86 U/L) y un mínimo ascenso de creatinina (1,22 mgr/dl), por lo que se mantuvo la dosis de pazopanib y se inició tratamiento con denosumab subcutáneo mensual.
+En nuevo control con RMN de hombro y brazo derecho realizado tras finalizar 10 sesiones de radioterapia concomitantes a Pazopanib a dosis plenas, se siguen apreciando cambios postquirúrgicos, habiendo disminuido de tamaño de la masa de partes blandas de forma moderada respecto al estudio previo (dimensiones actuales de 52 x 54 x 72 mm). Se realizan además nuevos estudios con gammagrafía ósea, en la que sólo existía hiperfijación patológica del trazador en esta localización, sin evidencia de enfermedad metastásica en otras zonas; así como TAC de tórax y abdomen que no evidenció enfermedad a otro nivel. Ante esta situación, se vuelve a comentar el caso en el comité urológico decidiéndose valoración de resección de lesión única metastásica humeral con respuesta parcial a tratamiento con pazopanib y bifosfonatos, por el servicio de traumatología.
+Se suspende el tratamiento con pazopanib un par de semanas antes de la intervención, realizada en junio de 2014, mediante desarticulación de hombro derecho, osteotomía de tercio medio de diáfisis humeral a nivel distal del clavo endomedular, fresado y relleno con cemento endomedular del aloinjerto humeral de banco y fijación con placa. La anatomía patológica de la pieza es de una lesión de consistencia blanda de 7 x 6 cm de dimensiones máximas, que parece infiltrar sin romper la cortical compatible con metástasis de carcinoma renal de células claras con márgenes libres de tumor.
+Ante las circunstancias excepcionales de su caso y tras discutirlo en sesión intraservicio de oncología médica, se ha decidido mantener tratamiento con pazopanib y denosumab durante cuatro meses con posterioridad a la cirugía como "adyuvancia". Actualmente el paciente sigue revisiones en nuestra unidad sin evidencia de recidiva de su enfermedad

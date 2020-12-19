@@ -1,0 +1,22 @@
+Anamnesis
+Varón de 58 años hipertenso, diabético y fumador de 15 años/paquete que consulta por sensación de taponamiento nasal de más de 3 años de evolución con empeoramiento progresivo, sin epistaxis ni otra sintomatología acompañante.
+Presenta antecedentes familiares de hermano fallecido por cáncer de esófago y padre fallecido de neoplasia prostática.
+
+Examen físico
+IK 90. Rinoscopia: gran masa que ocupa toda la fosa nasal. El resto de la exploración física es rigurosamente normal.
+
+Pruebas complementarias
+- Analítica sanguínea: sin alteraciones.
+- Pruebas de imagen (TC y RM craneal): gran masa expansiva situada en la zona del seno etmoidal posterior y esfenoidal con extensión y ocupación de la cavidad nasofaríngea que adelgaza y desplaza la pared ósea adyacente.
+Engrosamiento mucoso de ambos senos maxilares. Seno frontal sin hallazgos. Resto de estructuras sin alteraciones.
+- Anatomía patológica de la muestra biopsiada: tumor maligno de células redondas, con patrón lobulado, rosetas verdaderas, mitosis escasas y sin evidencia de necrosis. Negativo para vimentina, migenina, S-100, CK 5/6, CD 49, CD 45, desmina, CK 7 y EMA. Positivo para enolasa, cromogranina y CD 56 compatible con neuroblastoma olfatorio grado 2 de Hymans.
+
+Diagnóstico
+Neuroblastoma olfatorio.
+
+Tratamiento
+En mayo de 2012 es intervenido por el Servicio de Neurocirugía, realizándose la resección tumoral mediante abordaje endonasal expandido con sospecha de infiltración de márgenes, sin posibilidad de nuevo abordaje quirúrgico. Se realiza el estudio anatomopatológico de la muestra extraída, que confirma la existencia de un neuroblastoma olfatorio con márgenes afectos.
+En junio de 2012 el paciente es valorado en un comité multidisciplinar, donde se decide la administración de radioterapia complementaria, por lo que se deriva a Oncología Radioterápica donde recibe IMRT del 9/7/2012 al 21/8/2012, con verificación diaria/semanal del posicionamiento mediante sistema OBI. Tratamiento administrado: CTV1 (lecho tumoral en la fosa nasal, más margen de seguridad): 54 Gy, CTV2 (lecho tumoral en la fosa nasal, más margen reducido): 60 Gy. Como principal toxicidad presentó mucositis G2, así como conjuntivitis G1 y dermitis G1. Tras finalizar la radioterapia se realiza una RM, en la que no se aprecian imágenes que hagan sospechar la existencia de restos tumorales o recidiva.
+
+Evolución
+El paciente permanece libre de enfermedad desde la finalización del tratamiento, realizando revisiones periódicas con RM cada 6 meses.

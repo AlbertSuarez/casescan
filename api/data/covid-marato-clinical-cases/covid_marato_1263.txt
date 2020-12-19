@@ -1,0 +1,44 @@
+Anamnesis
+En los últimos años, la inmunoterapia ha irrumpido como tratamiento estándar de muchos tumores, entre ellos el cáncer de pulmón no microcítico (NSCLC), demostrando mejoría en la supervivencia y en calidad de vida de los pacientes oncológicos. El perfil de toxicidad de la inmunoterapia, su manejo, la selección de los pacientes, así como la duración ideal de tratamiento son temas en desarrollo y que despiertan profundo interés. Presentamos un caso de cáncer de pulmón no microcítico que recibió tratamiento con nivolumab, la respuesta al mismo y las toxicidades relacionadas.
+Varón de 47 años fumador de 20 paquetes-año y sin otros antecedentes de interés con diagnostico tras lobectomía pulmonar superior derecha de un carcinoma adenoescamoso pobremente diferenciado con áreas de patrón sarcomatoide, EGFR no mutado ALK y ROS1 no reordenados, pT2a pN0 por infiltración de pleura visceral, con márgenes libres y sin infiltración vascular ni perineural.
+Tras valorar riesgo-beneficio con el paciente, con Performance Status del Eastern Cooperative Oncology Group (ECOG-PS) de 0, inicia en marzo de 2015 tratamiento con intención adyuvante. Recibe cisplatino 75 mg/m2 día 1 y vinorelbina 25 mg/m2 días 1 y 8 cada 21 días por 4 ciclos, con excelente tolerancia, sin retrasos del tratamiento y a dosis plena. Posteriormente inicia seguimientos.
+En la tomografía computarizada (TC) de marzo de 2016 se objetiva crecimiento de glándula suprarrenal izquierda, que se punciona, siendo positiva para malignidad e inmunohistoquímica compatible con primario pulmonar. A raíz de diagnóstico de enfermedad avanzada, el paciente comienza con incremento de consumo de bebidas alcohólicas, con alteración de pruebas de función hepática (PFH). Se indica necesidad de abstinencia alcohólica para adecuada adherencia de tratamiento oncológico. Asimismo, se diagnostica de hipertensión arterial y comienza tratamiento con amlodipino 5 mg y olmesartán 20 mg cada 24 horas.
+En abril de 2016 presenta ECOG-PS 1, iniciándose primera línea de tratamiento con intención paliativa con cisplatino 75 mg/m2 día 1 y gemcitabina 1.250 mg/m2 días 1 y 8 cada 21 días del que recibe 3 ciclos. Como toxicidades reseñables destacan náuseas grado 1, trombopenia grado 1 y astenia grado
+2. En TC de evaluación se informa de enfermedad estable. Por decisión del paciente, que rechaza seguir con tratamiento, se inician seguimientos.
+En noviembre de 2016, se objetiva progresión torácica y suprarrenal, con evidencia clínica y radiológica de síndrome de vena cava superior (SVCS). Recibe radioterapia (800 cGy en dosis única) y tratamiento con dexametasona, presentando mejoría clínica del SVCS, que permite disminución gradual de tratamiento esteroideo hasta la supresión del mismo. Se propone inicio de segunda línea de tratamiento con intención paliativa con nivolumab, tras conversación con el paciente en la que se le informa de los beneficios esperados y los efectos adversos posibles, entre ellos la hepatitis autoinmune, por lo que se aconseja que interrumpa o disminuya el consumo de bebidas alcohólicas. En la siguiente consulta, se objetiva mejoría de las PFH. Se inicia tratamiento con nivolumab a dosis de 3 mg/kg cada 15 días en segunda línea de enfermedad avanzada con ECOG-PS 1. En la primera TC de evaluación (febrero 2017), se evidencia respuesta parcial de masa mediastínica y suprarrenal, con aparición de derrame pleural. Se realiza toracocentesis diagnóstica, negativa para malignidad y se continúa con tratamiento con nivolumab.
+En abril del 2017, tras 11 infusiones de nivolumab, acude a consulta por empeoramiento del estado general.
+
+Exploración física
+» PS-ECOG 3. Astenia grado 3, anorexia grado 2 y vómitos grado 1.
+» Auscultación cardiopulmonar: sin hallazgos de interés.
+» Abdomen: hepatomegalia de un través de dedo, blando y depresible, sin signos de irritación peritoneal.
+» Miembros inferiores: dermatitis en extremidades inferiores, sin edema. Pulsos periféricos presentes.
+
+Pruebas complementarias
+Analítica de sangre
+» Hemograma: dentro de límites de la normalidad.
+» Cortisol basal: 1,8 mcg/dl (rango normal 5,27-22,45 mcg/dl).
+» ACTH: < 5 pg/ml
+» Sodio: 128 mmol/l (rango normal (137-148 mmol/l).
+» TSH: 15,05 mUI/l (rango normal 0,35-5,5).
+» T4: 0,74 ng/dl (rango normal 0,89-1,73).
+» Testosterona: 1,71 ng/ml (rango normal 2,85-7,75 ng/ml).
+TC (mayo2017)
+» Persiste respuesta parcial y mejoría del derrame pleural.
+
+Diagnóstico
+1. NSCLC estadio IV a tratamiento con nivolumab.
+1.1 Insuficiencia suprarrenal secundaria a lo anterior.
+1.1.1 Hiponatremia secundaria.
+1.2 Hipotiroidismo primario.
+1.3 Insuficiencia gonadal.
+1.4 Dermatitis.
+
+Tratamiento
+Se instaura tratamiento inmediato con hidrocortisona 100 mg inicialmente cada 8 horas y levotiroxina sódica, y se procede a ingreso para vigilancia. En sucesivos controles, hay mejoría y normalización de la natremia, así como del perfil hormonal (tanto eje adrenal como tiroideo). Permanece clínica y hemodinámicamente estable. Al alta, se pautó tratamiento oral con hidrocortisona 20 mg cada 8 horas y levotiroxina sódica 75 mg al día, manteniendo el resto del tratamiento domiciliario sin cambios.
+
+Evolución
+Ante toxicidad endocrina grave, se decide suspender nivolumab (última administración 10 abril 2016), continuando seguimientos y pauta descendente de corticoides. Tras el alta, el paciente acude al Servicio de Urgencias por astenia y malestar general. Reconoce en ese momento aumento de consumo de alcohol y se evidencia en la analítica de sangre empeoramiento de las cifras analíticas tiroideas, pero persistiendo dentro de la normalidad las cifras de cortisol basal. Al alta se aumenta dosis de levotiroxina sódica y se suspende definitivamente tratamiento antihipertensivo.
+En control clínico de julio de 2017, el paciente presenta ictericia cutáneo-mucosa, con hallazgos analíticos compatibles con hepatitis aguda, predominantemente colestásica , siendo ingresado manteniendo tratamiento sustitutivo tiroideo y sustituyendo hidrocortisona por dexametasona a dosis de 4 mg cada 8 horas, sospechando hepatitis autoinmune. En ecografía abdominal realizada no se identifican lesiones parenquimatosas focales, pero sí hepatomegalia difusa y esteatosis. Las serologías de virus hepatotropos son negativas. Se produce una mejoría de PFH tras tratamiento con corticoides, y es dado de alta con el diagnóstico de hepatitis aguda toxica o medicamentosa. Se muestra normalización analítica dos meses después del alta.
+En TC de seguimiento (septiembre de 2017 y diciembre de 2017) se objetiva mejoría de la respuesta parcial en la recidiva sobre cicatriz, así como del derrame pleural.
+Desde el 10 de abril del 2016 hasta la actualidad, el paciente no ha recibido tratamiento oncológico específico. Actualmente, a tratamiento con levotiroxina sódica 125 mg al día y progresiva y lenta disminución de dosis de corticoides estando en el momento actual con prednisona 5 mg al día, con un PS-ECOG 1, y persistiendo consumo de alcohol con alteración ligera y oscilante de PFH. En última evaluación realizada en abril del 2018, mantiene respuesta parcial.

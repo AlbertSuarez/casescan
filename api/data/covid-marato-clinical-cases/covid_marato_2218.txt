@@ -1,0 +1,27 @@
+Anamnesis
+Se trata de una paciente mujer de 31 años que consulta por la autopalpación de un nódulo en la mama derecha.
+La paciente tiene un antecedente familiar de madre afectada de cáncer de mama premenopáusica.
+La paciente es diagnosticada en 2015 en otro centro de un carcinoma de mama ductal infiltrante de mama derecha cT1N0M0. En el estudio inmunohistoquímico se informa de la presencia de receptores hormonales negativos, Ki 67 25 % y sobreexpresión del receptor HER-2.
+Dada la edad de diagnóstico y los antecedentes familiares, se realiza el estudio genético detectándose una mutación del p53, siendo diagnosticada de síndrome de Li-Fraumeni.
+De acuerdo con esto, la paciente es sometida a una mastectomía subcutánea bilateral profiláctica con colocación de prótesis. Tras los resultados de Anatomía Patológica, se concluye que se trata de un carcinoma ductal infiltrante de mama derecha pT1N1micM0 con receptores hormonales positivos, HER-2 positivo y Ki 67 20 %. Se plantea la administración de radioterapia complementaria, pero dado el antecedente de la paciente (síndrome de Li-Fraumeni) se rechaza dicha opción, por lo que se practica una linfadenectomía axilar derecha. Posteriormente, recibe quimioterapia adyuvante con esquema EC (epirrubicina 100 mg/m2 iv y ciclofosfamida 830 mg/m2) por 4 ciclos seguido de paclitaxel 80 mg/m2 iv semanal durante 12 ciclos junto a trastuzumab 600 mg subcutáneo semanal durante 18 ciclos.
+En septiembre de 2017, en una ecografía mamaria de control, se evidencia un nódulo hipoecoico en el lecho de la mastectomía de la mama derecha sospechoso de malignidad. Se realiza una biopsia guiada por ecografía con el resultado de Anatomía Patológica de un carcinoma ductal de mama infiltrante grado 3 con receptores hormonales negativos, sobreexpresión del receptor HER-2 y un índice de proliferación Ki67 15 %. Se realiza estudio de extensión con una ecografía abdominal y una gammagrafía ósea sin obtener hallazgos patológicos. Se realiza extirpación del complejo areola-pezón de la mama derecha y recibe quimioterapia adyuvante con paclitaxel 80 mg/m2 + trastuzumab 600 mg subcutáneo semanal por 4 ciclos.
+En mayo de 2018, la paciente presenta unas lesiones en área pectoral derecho confirmando mediante biopsia que se trata de una infiltración dérmica del cáncer de mama conocido. Inicia en junio de 2018 tratamiento con docetaxel 75 mg/m2 iv, pertuzumab 420 mg iv y trastuzumab 600 mg subcutáneo cada 21 días hasta agosto del mismo año (6 ciclos), alcanzando una respuesta clínica completa. Continúa trastuzumab + pertuzumab de mantenimiento.
+En noviembre de 2018, la paciente comienza con clínica de vértigo y cefalea de características orgánicas, por lo que se solicita estudio de imagen cerebral (RM cerebral 19/11/2018) en el que observa una lesión ocupante de espacio a nivel de vermis cerebeloso con edema vasogénico asociado sugestivo de metástasis cerebelosa única. Se decide realizar extirpación de la lesión (12/12/2018) mediante craneotomía y exéresis.
+
+Exploración física
+Consciente y orientada. Glasgow 15/15. Pupilas isocóricas normorreactivas. Movimientos oculares externos conservados. Fondo de ojo: papila óptica pálida amarillenta si elevación en ojo derecho. Resto de pares craneales conservados. Balance muscular global 5/5. Dismetría en maniobra índice-nariz bilateral (derecha > izquierda). Incapacidad para lograr la bipedestación.
+
+Pruebas complementarias
+Ante la aparición de la clínica neurológica previamente referida, se decide solicitar una resonancia magnética (19/11/2018) en la que se evidencia una lesión ocupante de espacio vermiano y cerebeloso izquierdo con componente quístico con realce anular, delimitando una lesión de aproximadamente 35 x 39 mm con polo sólido medial y superior con diámetro transverso máximo de aproximadamente 20 mm medible según criterios RANO.
+Durante el postoperatorio se realiza una tomografía computarizada (TC) (14/12/2018) ante la presencia de un deterioro neurológico en la que se describe una colección hemática en lecho quirúrgico de al menos 44 x 26 mm en el plano axial con presencia de componente hidroaéreo, así como colección hidroaérea subyacente al lecho quirúrgico laminar, de aproximadamente 8,8 mm. Se observa un colapso prácticamente completo del cuarto ventrículo con pequeña cuantía de restos hemáticos en su interior.
+Tras 3 ciclos de tratamiento de segunda línea con TDM1, se solicita TC (21/03/2019) sin signos de enfermedad local ni a distancia.
+
+Diagnóstico
+Se trata de un cáncer de mama pT1N1micM0 HER-2 positivo. Recidiva local en 2015 y 2018. Progresión de la enfermedad con metástasis cerebelosa única.
+
+Tratamiento
+En noviembre de 2018, la paciente es sometida a exéresis de la lesión cerebelosa única. Posteriormente, la paciente inicia tratamiento de segunda línea con trastuzumab emtansina 3,6 mg/kg cada 21 días.
+
+Evolución
+Como complicación postquirúrgica, la paciente presenta un deterioro neurológico en los días posteriores en el contexto de una hidrocefalia aguda obstructiva postquirúrgica que precisa de la colocación de un drenaje ventricular externo que se mantiene durante 14 días con buena respuesta.
+Ante la nueva recidiva, se decide iniciar segunda línea de tratamiento con TDM1 que continúa en la actualidad. Ha recibido 6 ciclos con respuesta completa hasta la fecha (TC de control tras 3 ciclos sin evidencia de enfermedad) manteniendo muy buen estado general, ECOG 1, con buena tolerancia al tratamiento.

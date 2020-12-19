@@ -1,0 +1,29 @@
+Anamnesis
+Varón de 75 años al diagnóstico, hipertenso, dislipémico, hipertrofia benigna de próstata, sin hábitos tóxicos ni otros antecedentes de interés, diagnosticado en 2003 de adenocarcinoma de sigma bien diferenciado (pT1N0M0), estadio I, tratado mediante resección anterior baja y anastomosis término-terminal, con seguimiento posterior llevado a cabo por el Servicio de Cirugía General y Aparato Digestivo.
+Es derivado a Consultas Externas de Oncología Médica en 6/2007 para valoración de tratamiento tras hallazgo de recaída pulmonar en pruebas de seguimiento.
+
+Exploración física
+Performance status ECOG 0. Buen estado general. Auscultación cardiopulmonar normal. Exploración abdominal anodina.
+
+Pruebas complementarias
+» TC de tórax-abdomen (4/2007): imagen nodular en el segmento superior del lóbulo izquierdo, de unos 2 cm, que se asocia a opacidad del mismo nódulo y es sugestivo de masa con atelectasia, todo ello compatible con proceso neoformativo.
+» PET/TC (5/2007): nódulo parahiliar en LSI (lóbulo superior izquierdo), así como en el segmento anterior del LSD (lóbulo superior derecho) sugestivos de viabilidad tumoral (SUVmáx 4,1).
+» Fibrobroncoscopia (5/2007): lesión neoformativa exofítica de aspecto maligno en un bronquio subsegmentario de segmento anterior del culmen.
+» Anatomía patológica (AP) (5/2007): adenocarcinoma CK-7, TTF-1 negativos, CK-20 positivo, orientando origen colorrectal.
+
+Diagnóstico
+Adenocarcinoma de sigma ,estadio IV, por afectación oligometastásica pulmonar.
+
+Tratamiento
+Valorado en Comité de Tumores Torácicos, se plantea abordaje quirúrgico pulmonar en dos tiempos, por lo que se realiza resección en cuña de 2 nódulos pulmonares derechos en 7/2007 y lobectomía superior izquierda más linfadenectomía mediastínica en septiembre de ese mismo año. La AP confirma la naturaleza metastásica de origen colorrectal de los nódulos y la ausencia de adenopatías mediastínicas afectas.
+Tras el tratamiento quirúrgico, proponemos tratamiento quimioterápico adyuvante con capecitabina en monoterapia, que mantenemos durante 8 ciclos, experimentando buena tolerancia al tratamiento.
+
+Evolución
+Se mantiene seguimiento estrecho desde la finalización del tratamiento con capecitabina. En 12/2009, tras un intervalo libre de enfermedad (ILE) de 24 meses, objetivamos en prueba de imagen una nueva recaída pulmonar localizada en el segmento anterior de LSD, por lo que se procede, tras nueva evaluación por Comité de Tumores Torácicos, a la realización de una lobectomía superior derecha. La AP de nuevo confirma el origen colorrectal.
+Tras la cirugía, volvemos a plantear tratamiento adyuvante con Capecitabina durante 8 ciclos, finalizando en 7/2010. En ese momento, se solicita el estudio molecular del gen KRAS con resultado KRAS mutado (7/2010).
+Mantiene seguimiento reglado hasta que en TC de 3/2014, tras ILEde 44 meses, se constata la aparición de un nódulo pulmonar en el LII de 8 mm y bocio multinodular endotorácico. Solicitamos PET/TC en 4/2014, que confirma la existencia de la lesión de 8 mm en dicha localización sugerente de malignidad (SUV 2,1). También se objetiva nódulo tiroideo con SUV 10,1 en el lóbulo tiroideo izquierdo (LTI).
+Presentado una vez más en Comité de Tórax, se decide derivar al Servicio de Oncología Radioterápica para realización de radiocirugía pulmonar (SBRT), recibiendo 8 fracciones, 7,5 Gy/fracción.
+Paralelamente, se solicita punción aspiración con aguja fina (PAAF) guiada por ecografía de tiroides que muestra un nódulo hipoecoico, mal delimitado y con aumento de vascularización. La citología sugiere la naturaleza metastásica de la lesión. Se realiza hemitiroidectomía izquierda en 7/2014, con AP que confirma la metástasis de adenocarcinoma de patrón enteroide.
+Después de la cirugía y de la SBRT pulmonar, iniciamos tratamiento adyuvante con capecitabina durante 8 ciclos hasta 1/2015, presentando buena tolerancia.
+Tras la finalización del tratamiento, experimenta una recaída precoz pulmonar bilateral y local en lecho quirúrgico tiroideo por lo que inicia en 2/2015 primera línea de tratamiento para enfermedad avanzada con esquema FOLFOX-Bevacizumab, que mantiene hasta la actualidad (6/2015), con RP pulmonar mantenida y enfermedad estable tiroidea con excelente tolerancia pese a su edad actual (87).
+El paciente está vivo y con buena calidad de vida 8 años después del diagnóstico de enfermedad metastásica gracias al manejo multidisciplinar de la enfermedad.

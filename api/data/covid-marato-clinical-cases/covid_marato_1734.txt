@@ -1,0 +1,38 @@
+Anamnesis
+Hombre de 54 años, casado y con hijos. Mecánico.
+Sin antecedentes familiares de interés.
+Hipertenso, fumador activo hasta 2013. No otros antecedentes personales de importancia.
+Intervenido de amigdalectomía en la infancia.
+A tratamiento con Enalapril 10 mg/día.
+En octubre de 2014 acude a urgencias por dolor abdominal intenso y estreñimiento, siendo intervenido de urgencia el 20.10.2014, en el que se resecó una masa intestinal en íleon, que condicionaba una obstrucción intestinal.
+
+Exploración física
+Índice de Karnofsky 70%
+Exploración Neurológica sin focalidad.
+Tórax normal.
+Abdomen globuloso, distendido, percusión timpánica, muy doloroso a la palpación.
+
+Pruebas complementarias
+Bioquímica: Glucosa 180 mg/dL, U 149 mg/dL, Cr 2.85 mg/dL, Urato 5.8 mg/dL, Na 133 mmol/L, K 2.5 mmol/L, Cl 95 mmol/L, Ca 2.60 mmol/L, Amilasa 104 U/L, Lipasa 70 U/L, FA 230 U/L, resto de pruebas hepáticas normales, Lactato deshidrogenasa 350 UI/l TSH normal, 1.9. Albúmina 28 g/L. Cromogranina A 550 U/ml, 5HIIA en orina de 24 horas elevada.
+Hemograma y coagulación: normal excepto fibrinogeno: 709.
+Tomografía Computerizada (TC) se observaban múltiples lesiones hepáticas bilobares hipervasculares, las mayores de 4,3 y 3,6 cm y la masa resecada en íleon de 3,3 cm, que ocasionaba una oclusión de la luz y dilatación preestenótica, sin evidencia de perforación.
+Ecocardiograma descartó valvulopatía derecha carcinoide.
+En el informe de anatomía patológica, se describía una neoformación maligna, con rasgos neuroendocrinos (IHQ+ para cromogranina, sinaptofisina y CDX2) y un KI67 del 15%.
+Asimismo, se realizó un octreoscan con muy alta captación (4/4 en la escala Krenning) de las lesiones hepáticas.
+
+Diagnóstico
+Tumor neuroendocrino grado 2 de íleon, estadio IV
+
+Tratamiento
+Comienza tratamiento de 1era línea con Octreotide lar 30 mg, que mantuvo desde diciembre de 2014 hasta septiembre de 2015 en el que se objetivó una progresión en el TC, periodo durante el cual la mejor respuesta al tratamiento fue enfermedad estable con desaparición de la diarrea.
+En septiembre de 2015 inicia 2º línea de tratamiento con Lanreotide + Everolimus 10 mg/día, que se suspendió en noviembre de 2015 por progresión radiológica. La mejor respuesta en este periodo fue una reducción de las lesiones hepáticas menor del 10 % y precisó en el 2º mes una reducción de dosis del 50% pasando a 5 mg/día de everolimus por mucositis grado 2-3.
+Comienza con una nueva línea de tratamiento consistente en interferon sc 9 mU/d los lunes, miércoles y viernes entre noviembre y diciembre de 2015 que se debe suspender por un grave deterioro del estado general, ECOG 2, con diarreas muy profusas.
+
+Evolución
+Este importante deterioro obligan al paciente a la hospitalización en la planta de Oncología Médica por la desnutrición calórico-proteica severa con desequilibrio hidroelectrolitico dominando la hipopotasemia.
+La diarrea fue refractaria a dieta astringente con harina de algarrobo, restricción del agua, suero oral, loperamida y pancreatina a altas dosis, tanagel, racecadotrilo.
+Durante dicho periodo, precisa nutrición parenteral total y perfusión continúa de análogos de la somatostatina.
+Valorado el caso en Comité de tumores neuroendocrinos, al tratarse de un tumor bien diferenciado, con captación intensa en octreoscan, no subsidiario de cirugía por infiltración difusa del hígado por las metástasis, se decide tratamiento con radionúclidos marcados 177Lutecio que se realiza, tras conseguir la aprobación, el día 22/01/16 sin incidencias ni complicaciones agudas. En los días posteriores el paciente experimentó una mejoría clínica progresiva desde el punto de vista digestivo, estando en el momento del alta a los 14 días del tratamiento, controlado sintomáticamente.
+Al alta presentaba una analítica con gran mejoría de todos los valores bioquímicos.
+Completó de forma ambulatoria la 2ª y 3ª dosis recibidas el 27 de febrero y 26 de abril respectivamente, con muy buena tolerancia. Como una complicación ligera elevación de pruebas de función renal en el mes de marzo 2016 que se corrigió a la semana sin necesidad de ninguna intervención.
+En el rastreo previo a las dosis 2 y 3 se observaba una gran disminución de la captación de las lesiones metastásicas hepáticas.

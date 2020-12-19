@@ -1,0 +1,20 @@
+Anamnesis
+Mujer de 32 años, diagnosticada de poliposis adenomatosa familiar, acude al Servicio de Urgencias por dolor abdominal de gran intensidad, unido a sensación de masa abdominal.
+
+Examen físico
+Regular estado general. Abdomen distendido, rígido, descompresión brusca dolorosa del abdomen, con sensación de masa dura a nivel del mesogastrio. Resto de la exploración clínica, normal.
+
+Pruebas complementarias
+Hemograma y bioquímica sin alteraciones.
+Ecografía abdominal: masa de 14 x 10 cm, de localización en hipogastrio y extensión a mesogastrio, que presenta zonas sólidas con vascularización, con área de burbujas en su interior que sugiere material gaseoso.
+Tomografía computarizada (TC) abdominopélvica: masa con gas en su interior en meso-hipogastrio con fuga de gastrografín de un asa de íleon terminal, sugiriendo perforación de asa de delgado.
+
+Diagnóstico
+Ante la sospecha de perforación intestinal, se intervino de urgencia, apreciándose un tumor dependiente del mesenterio de intestino delgado de 20 x 15 cm que lo engloba y perfora, realizándose una tumorectomía mesentérica completa asociada a una anastomosis intestinal. La biopsia de la pieza quirúrgica era compatible con mixofibrosarcoma de bajo grado.
+
+Tratamiento
+En este caso, al igual que para el resto de sarcomas peritoneales, la resección completa con márgenes negativos es el factor pronóstico más importante para la recaída local y la supervivencia, por lo que unido al bajo grado no se administró radioterapia ni quimioterapia adyuvantes, iniciando seguimiento.
+
+Evolución
+A los 11 meses de la intervención quirúrgica, estando la paciente asintomática, se observó en la TC una masa mesentérica de 4,6 cm adyacente a la zona de resección quirúrgica intestinal, unido a otros nódulos mesentéricos, sugestivos de recidiva tumoral. Por este motivo, y tras presentar en el Comité de Tumores Colónicos, se realizó una laparotomía exploradora valorando un rescate quirúrgico, apreciándose sarcomatosis peritoneal extensa, siendo, pues, irresecable. La biopsia de los nódulos mostró presencia de un tumor mesenquimal de grado e índice proliferativo bajos (Ki67 < 5%), compatible con mixofibrosarcoma.
+Se planteó tratamiento de primera línea de enfermedad avanzada con doxorrubicina, recibiendo tres ciclos, mostrando la TC de evaluación un aumento significativo del tamaño de la masa. Ante la progresión tumoral, se plantea tratamiento de segunda línea. La ausencia de ensayos clínicos abiertos en ese momento, la alta vascularización del tumor y la preferencia de la paciente por un tratamiento oral unido a los datos disponibles del ensayo PALETTE, nos hicieron decantarnos por el uso de pazopanib, tratamiento que sigue en estos momentos.

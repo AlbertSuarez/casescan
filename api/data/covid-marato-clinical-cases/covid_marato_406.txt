@@ -1,0 +1,32 @@
+Anamnesis
+Se trata de una mujer, de 77 años, que acude a Urgencias por dolor abdominal. Sin alergias medicamentosas conocidas. Presenta los siguientes antecedentes: obesidad, diabetes mellitus tipo 2, insulinodependiente, enfermedad renal crónica estadio IIIA. Intervenciones quirúrgicas: colecistectomía, apendicectomía.
+Ingresa en el Servicio de Medicina Interna el 15/3/2019 por cuadro de 15 días de evolución de distensión abdominal, asociado a dolor abdominal tipo cólico y estreñimiento. No asociaba náuseas o vómitos. Ausencia de síntomas constitucionales.
+
+Exploración física
+Performance status (PS) 2, TA: 168/67 mm Hg, FC: 93 lpm, T: 36,6 °C. Consciente, orientada, colaboradora. Palidez cutánea mucosa. Eupneica en reposo. Abdomen: distendido, depresible, blando, no doloroso, matidez en ambos flancos, ruidos hidroaéreos disminuidos. El resto de la exploración, sin hallazgos patológicos.
+
+Pruebas complementarias
+En Urgencias se realizan las siguientes pruebas complementarias:
+
+Analítica
+Hemograma: hemoglobina 8,6 g/dl, VCM 88 fl, plaquetas 109.000 x 103. Coagulación normal. Bioquímica: urea 110 mg/dl, creatinina 1,5 mg/dl, FG 33 ml/min, iones normales. Marcadores tumorales: CEA 57,7 ng/ml
+Radiografía de abdomen: abundantes gas y heces en marco cólico.
+Ecografía abdominal: parénquima hepático de pequeño tamaño, con contornos multilobulados, sin lesiones ocupantes de espacio. Abundante líquido ascítico. Conclusión: ascitis por probable hepatopatía crónica.
+Durante el ingreso la paciente presenta deposiciones melénicas por lo que se solicitan exploraciones digestivas complementarias:
+Gastroscopia: sin hallazgos patológicos.
+Colonoscopia: estenosis neoplásica de ángulo hepático que impide el paso del endoscopio, con mucosa irregular de aspecto infiltrativo.
+» Biopsia de colón: mucosa de intestino grueso con infiltración por adenocarcinoma pobremente diferenciado. Inmunohistoquímica: CK 20, CDX2, PAX 8 y receptores de progesterona negativos. CK 7, receptores de estrógenos y Gata 3 positivos.
+Se solicita una tomografía computarizada (TC) toracoabdominopélvica, como estudio de extensión, que informa nódulos en cuadrantes internos de mama derecha. Adenopatías axilares bilaterales sospechosas. Hígado polilobulado, cirrótico. Ascitis generalizada. Engrosamiento asimétrico en colon ascendente. Engrosamiento peritoneal con dudosa retracción de asas de intestino delgado en fosa iliaca derecha. Múltiples ganglios sospechosos de malignidad en todo el abdomen. Lesiones óseas mixtas sospechosas. Conclusión: probable neoplasia de colon, a descartas metástasis óseas.
+Basándonos en el informe inmunohistoquímico que orientaba la presencia de un tumor primario de mama y antes los hallazgos descritos en la TC, se solicita una mamografía, que informa en unión de cuadrantes inferiores de la mama derecha masa mal definida de 21 x 20 x 18 mm. En cuadrante superior externo de la mama izquierda se identifica nódulo espiculado de 23 x 16 x 11 mm. Ambas axilas se observan adenopatías patológicas. BI-RADS 5. Se realiza PAAF de ambos nódulos y adenopatías bilaterales.
+- Biopsia de nódulos bilaterales en mamas: carcinoma lobulillar infiltrante. Inmunohistoquímica similar en ambos nódulos: receptores de estrógeno 100 %, receptores de progesterona 80 %, Ki 67 10 %, HER2 negativo, cadherina E negativo.
+- PAAF de axila derecha: infiltración por carcinoma lobulillar de mama.
+
+Diagnóstico
+Carcinoma lobulillar de mama IV con afectación ósea, carcinomatosis peritoneal e infiltración colónica.
+
+Tratamiento
+Se realiza paracentesis evacuadora, extrayéndose 8 l, cuya citología reporta la presencia de células sospechosas de adenocarcinoma.
+Durante el ingreso, la paciente presenta hemorragia digestiva baja secundaria sangrado del implante tumoral en la pared del colon, por lo que precisa la trasfusión de hemoderivados y administración de hierro por vía parenteral. Es dada de alta tras control sintomático, y se remite a consulta externa del Servicio de Oncología Médica.
+
+Evolución
+Es valorada por primera vez en el servicio de Oncología Médica el 9/4/2019 con el diagnóstico de carcinoma lobulillar de mama IV y, teniendo en cuenta el PS de la paciente, se propone tratamiento con paclitaxel semanal a 60 mg/m2, días 1, 8 y 15 de cada 28 días. La paciente ha recibido dos ciclos de tratamiento, y pese a referir mejoría del estado general, presenta incremento progresivo del líquido ascítico, requiriendo nueva paracentesis evacuadora. Se ha solicitado nueva TC de reevaluación tras el tercer ciclo de tratamiento.

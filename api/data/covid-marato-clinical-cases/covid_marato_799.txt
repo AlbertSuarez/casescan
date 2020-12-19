@@ -1,0 +1,30 @@
+Anamnesis
+Varón de 72 años, diagnosticado de linfoma no Hodgkin B folicular de grado 3a, estadio IIIA, FLIPI = 4. Portador crónico asintomático del virus de hepatitis B. Comienza tratamiento profiláctico con tenofovir y quimioterapia esquema R-CHOP.
+Acude a Urgencias tras el 7.º ciclo por fiebre y deterioro del estado general de 3 días de evolución, detectándose una neutropenia febril de grado IV sin focalidad, motivo por el que ingresa.
+
+Examen físico
+Al ingreso, hemodinámicamente estable, eupneico, febril. Buen estado general. Candidiasis oral. Sin hallazgos relevantes en el resto de la exploración por aparatos.
+
+Pruebas complementarias
+Hemograma: leucocitos 0,32 x 10^3u/l, neutrófilos 0,08 x 10^3 u/l, linfocitos 0,2 x 10^3 u/l.
+Hemocultivos, urocultivo, coprocultivo y galactomanano: negativos.
+Serología de virus de inmunodeficiencia humana (VIH): negativa.
+PCR de citomegalovirus (CMV): 4.070 copias.
+Gasometria arterial al ingreso: normal.
+Radiografía de tórax: infiltrados alveolares bilaterales y difusos compatible con neumonía por gérmenes oportunistas, hallazgos similares a los de la tomografía computarizada (TAC) de tórax de alta resolución.
+Fibrobroncoscopia: normal. Lavado bronquioloalveolar del que se aislan quistes de Pneumocystis jirovecii y Haemophilus influenzae A.
+
+Diagnóstico
+Neutropenia febril.
+Neumonía bilateral por Pneumocystis jirovecii con coinfección por Haemophilus influenzae A. 
+Infección activa por CMV.
+
+Tratamiento
+Se inicia antibioterapia empírica habitual y factores estimulantes de colonias granulocitarias con buena recuperación hematológica, pero con persistencia de la fiebre a pesar de ampliarse cobertura para gérmenes Gram(+) y hongos.
+Tras los resultados microbiológicos y las pruebas de imagen, se inició tratamiento con trimetoprima-sulfametoxazol (TMP-SM) y ganciclovir i.v. permaneciendo el paciente con buen estado general y eupneico.
+
+Evolución
+A las 72 horas del inicio del nuevo tratamiento, la situación clínica empeora apareciendo disnea severa y rápido deterioro con insuficiencia respiratoria hipoxémica.
+Se establece el diagnóstico de síndrome de reconstitución inmune (SRI) en paciente inmunodeprimido no-VIH tras neutropenia febril e inicio de TMP-SM.
+Ante el empeoramiento clínico-radiológico, se traslada al paciente a la Unidad de Cuidados Intensivos donde recibe soporte ventilatorio no invasivo con BiPAP, terapia esteroidea, antibioterapia empírica y TMP-SM.
+Con ello presenta buena evolución, siendo trasladado de nuevo a planta a los 9 días y es dado de alta posteriormente con TMP-SM y lamivudina profilácticos. Actualmente ha iniciado mantenimiento con rituximab, permaneciendo en remisión parcial de su linfoma en la última TC realizada.

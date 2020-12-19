@@ -1,0 +1,41 @@
+Anamnesis
+Paciente de 60 años sin antecedentes de interés, de origen rumano con dificultad para la comunicación por este motivo.
+Consultó en Urgencias de otro hospital por dolor lumbar de un mes de evolución de intensidad progresiva. En dicho centro le pautan antiinflamatorios y solicitan resonancia magnética (RM) lumbar.
+En dicha RM detectan alteraciones óseas por lo que remiten a su centro de referencia para continuar estudio.
+En nuestro centro es valorado en medicina interna, donde refiere que el dolor lumbar es mas intenso y además asocia debilidad en miembros inferiores (MMII) con dificultad para la marcha. También refiere episodios de sudoración nocturna sin fiebre y pérdida de 3 Kg de peso desde que comenzó la clínica.
+Exploración física
+Buen estado general. Deshidratación leve, bien perfundido y normocoloreado. Eupneico.
+CyC: carótidas rítmicas y simétricas, no ingurgitación yugular, adenopatías < 1cm en cadena cervical derecha. No adenopatías supraclaviculares, axilares ni inguinales.
+AC: rítmico, no soplos.
+AP: mvc sin ruidos sobreañadidos.
+Abdomen: blando, depresible, doloroso a la palpación a nivel de hipocondrio derecho, con hepatomegalia de 2 traveses de dedo. RHA normales. No masas, no signos de irritación peritoneal.
+EII: no edemas ni signos de trombosis.
+
+Neurologica: consciente y orientado en las tres esferas. No afasias. Pares craneales normales. Fuerza en MMSS y en MMII conservada, sensibilidad conservada y simétrica. Marcha dificultada por la presencia de dolor. No dismetrías ni disdiadococinesias.
+Pruebas complementarias
+RADIOGRAFIA TÓRAX: Índice cardiotorácico dentro de límites normales, no derrame pleural ni infiltrados agudos.
+RADIOGRAFÍA ABDOMEN: aire y contenido intestinal de distribución normal. Disminución del espacio vertebral L4-L5.
+RM DORSO-LUMBAR: CONCLUSION: proceso medular proliferativo/infiltrativo. Masa de partes blandas T12, L4, L5, S1, S2 que condiciona estenosis del canal y obliteración foraminal bilateral de
+L4-L5-S1.
+TAC TORACO-ABDOMINO-PELVICO: CONCLUSION: Multiples LOEs hepáticas, que impresionan de metástasis como primera posibilidad, sin clara evidencia de neoplasia en otro órgano. Múltiples focos blasticos en columna dorsal, lumbar, esternón, parrilla costal y pelvis (¿metástasis?).
+BIOPSIA DE MÉDULA ÓSEA: medula que muestra una infiltración por una proliferación neoplásica formada por nódulos de células fusiformes AE1AE3+, EMA+, CD31, Vimentina-, CD56-, S100-, BCL2+,
+NF-, CKIT-, CD34-, CD99+, WT-, Calretinina, CK7-, TTF1-, Sinaptofisina-, P63+, FLI1-, PSA-,
+Cromogranina-, CK20-. Metastasis de carcinoma, a descartar origen urotelial.
+BIOQUÍMICA: destaca GOT 92, resto normal.
+HEMOGRAMA: Hb 12.1, Plaquetas 253000, Leucocitos 12500, Neutrofilos 9400, Linfocitos 1800.
+COAGULACIÓN: fibrinógeno 681, resto normal.
+CISTOSCOPIA: Vejiga trabeculada y ligeramente hiperemica sin neoformaciones ni lesiones inflamatorias.
+PET: CONCLUSION: Hallazgos compatibles con patología maligna en afectación metastásica difusa ósea y hepática conocida, además de lesiones en fosa nasal derecha y cavum (¿primario?) con afectación adenopática laterocervical bilateral.
+NASOFIBROSCOPIA: neoformación pediculada de porción inferior de etmoides anterior y neoformación a nivel de cavum con mucosa sangrante al tacto. Se realiza biopsia.
+ANATOMÍA PATOLÓGICA DE BIOPSIA DE NASOFARINGE: carcinoma no queratinizante, compatible con carcinoma nasofaríngeo. EBER-.
+Diagnóstico
+Carcinoma nasofaríngeo estadio IV con metástasis ósesas.
+
+Tratamiento
+El paciente inició tratamiento con Carboplatino AUC 6 y Paclitaxel 175 mg/m2.
+
+Evolución
+Con el diagnostico final de carcinoma nasofaríngeo estadio IV con metástasis óseas y hepáticas iniciarmos tratamiento QT con Carboplatino-Taxol a las dosis previamente comentadas, con buena tolerancias.
+El dolor óseo se controló con Oxicodona-Naloxona 40/20 mg + 10/5 mg cada 12h y rescates de fentanilo sublingual 100mcg a demanda.
+Tras 6 ciclos de CB-Taxol realizamos TAC TAP en el que se objetiva respuesta de las lesiones hepáticas tanto en número como en tamaño y persistencia de los focos blasticos oseos.
+El paciente actualmente continua con dicho esquema de tto.

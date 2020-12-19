@@ -1,0 +1,34 @@
+Anamnesis
+Mujer de 24 años, profesional en administración y finanzas, sin alergias medicamentosas conocidas, sin hábitos tóxicos, sin antecedentes personales de interés. No medicación habitual. Antecedentes familiares oncológicos: abuelo paterno con cáncer de laringe a los 56 años, abuela materna con cáncer de mama a los 47 años, primo paterno con cáncer de tiroides a los 11 años y madre con leucemia linfoblástica aguda a los 48 años.
+
+A los 14 años, en diciembre del 2003, tras una biopsia por punción hepática, fue diagnosticada de un hepatoblastoma embrionario con diferenciación colangiolar. La tumoración se localizaba en lóbulo hepático izquierdo, caudado y segmentos 5 y 8 del lóbulo hepático derecho, habiéndose descartado clínicamente de que se tratara de un nefroblastoma u otro blastoma de otro órgano.
+
+Se inició tratamiento con quimioterapia neoadyuvante con el esquema SIOPEL III para tumores de alto riesgo (Cisplatino a altas dosis alternando con Adriamicina-Carboplatino). El 24 de junio de 2004 fue intervenida quirúrgicamente, habiéndose realizado una hepatectomía de los segmentos II y III. El estudio patológico mostró un hepatoblastoma mixto: epitelial (embrionario y fetal), estroma sin rasgos teratoides. Bordes quirúrgicos respetados. No se observaba infiltración vascular, ni linfática ni de la cápsula. Sin embargo, la necrosis era menor del 10%.
+
+Se completó tratamiento adyuvante con el mismo esquema, que finalizó el 26 de agosto de 2004. Las dosis acumulativas de los tres fármacos fueron 2500 mg/m2, 300 mg/m2 y 400 mg/m2. para Carboplatino, Adramicina y Cisplatino, respectivamente.
+Inició seguimiento por parte de Oncología Pediátrica; fue portadora de catéter venoso centra (Port-a-Cath) hasta el 09/01/2009 que se retiró sin complicaciones.
+
+En 2010 se evidenció una lesión hepática cuyo diagnóstico radiológico (Ecografía y Resonancia Magnética Hepática) orientaba hacia una hiperplasia nodular focal, sin poderse descartar otros diagnósticos (recaída de hepatoblastoma; adenoma). Se decidió seguimiento. La lesión presentaba un patrón de crecimiento lento, pero en octubre de 2014 se observó un crecimiento significativo de la lesión, por lo que se realizó biopsia de confirmación que resultó en una recidiva hepática de hepatoblastoma. La paciente fue derivada a las consultas externas de Oncología médica, momento en el cual se encontraba asintomática, llevando una vida normal.
+
+Exploración física
+ECOG-PS 0.
+Muy buen estado general.
+Exploración por aparatos y sistemas sin hallazgos patológicos.
+
+Pruebas complementarias
+-Anatomía patológica (Diciembre de 2003): se observan grupos de células azules redondas y pequeñas en un estroma fibroso. En este estroma también se observa conductos revestidos por un epitelio monoestratificado, cúbico, de nucleos grandes e hipercromáticos. No se observan células que recuerden a los hepatocitos fetales o del adulto. No se observa eritropoyesis extramedular; compatible con hepatoblastoma embrionario con diferenciación colangiolar.
+-Ecografía hepática (22.10.2014): Crecimiento de la tumoración localizada en el segmento VIII del lóbulo hepático derecho respecto control previo de 2012. Vol. actual de aprox. 489 cc ( 98 x 87 x 109mm). Es una lesión ecogénica con un área central de morfología reticular hipoecoica sugestiva (no concluyente por ecografia) de HNF. No otras lesiones hepáticas. Estudio Doppler hepático dentro de la normalidad. Vesícula, riñones, bazo, vejiga, sin alteraciones morfológicas.
+-Resonancia magnética hepática (26.11.2014) (FIGURA 1): Aumento de tamaño de la lesión ya conocida localizada en segmento 8, que en la actualidad presenta unos ejes máximos de 101 x 66 x 82 mm de ejes máximos (craneocaudal, transversal, anteroposterior). A pesar de esta modificación, su comportamiento por imagen en las distintas secuencias y potenciaciones es estable, así como en el estudio dinámico tras administración de gadolinio. Sus contornos son bien definidos, no mostrando alteración del parénquima adyacente. Condiciona efecto masa, desplazando las estructuras vasculares adyacentes, sin infiltrarlas.
+- Biopsia percutánea de la masa hepática (26.12.2014): Hepatoblastoma embrionario. Las técnicas de Inmunohistoquímica realizadas (CK-7, CD99, y B-Catenina), apoyan el diagnóstico histológico.
+- Hemograma, bioquímica y hemostasia sin alteraciones. Alfafetoproteína dentro de la normalidad.
+- Estudio de extensión negativo.
+
+Diagnóstico
+Recidiva hepática tardía de Hepatoblastoma Embrionario.
+
+Tratamiento
+El caso fue comentado en el comité de tumores multidisplinar en enero de 2015 así como la valoración por parte de expertos en el manejo de tumores infrecuentes (SIOPEL: Liver Tumour Study Group of the International Society of Paediatric Oncology); se consideró que la tumoración era difícilmente resecable con márgenes seguros por lo que se decidió como tratamiento la administración de quimioterapia neoadyuvante de con Ifosfamida-Carboplatino-Etopósido por 3 ciclos con profilaxis primaria de la fiebre neutropénica con G-CSF pegilado, seguida de evaluación para cirugía o incluso trasplante hepático.
+
+Evolución
+La paciente inició tratamiento el 25 de febrero de 2015. Se administraron 3 ciclos de quimioterapia con evaluación posterior. En la TAC se evidenció enfermedad estable, sin cambios respecto a previa. Se valoró nuevamente el caso en el Comité de Tumores Hepáticos del 11 de mayo de 2015; dada la enfermedad estable tras tres ciclos de QT con Ifosfamida-Carboplatino-Etopósido se consideró a la paciente candidata a trasplante hepático, dada la dificultad en conseguir una resección R0. Se administraron dos ciclos más de quimioterapia (en total 5 ciclos, el último ciclo el 30 de junio de 2015).
+Destaca como toxicidad náuseas grado 1 y alopecia, muy bien tolerada. Se inició preoperatorio y fue incluida en lista de espera de transplante hepático desde el 24 de junio de 2015. Está actualmente en seguimiento, tanto por hepatología como por oncología médica, pendiente de transplante hepático. En resonancias magnéticas de control no se evidencias cambios significativos respectos a estudios previos.

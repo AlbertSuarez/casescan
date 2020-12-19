@@ -1,0 +1,31 @@
+Anamnesis
+Se trata de una mujer de 86 años, caucásica. Vive con su marido y es independiente para las actividades básicas de la vida diaria.
+Como antecedentes médicos relevantes tiene hipertensión en tratamiento con tres fármacos, dislipemia en tratamiento dietético e hipotiroidismo postiroidectomía por un nódulo tiroideo, en tratamiento con levotiroxina. Refiere menarquía a los 11 años y menopausia a los 46 años (sin terapia de reemplazo hormonal). Tuvo su primer embarazo a los 25 años y lactancia materna durante más de 6 meses. Tomó anticonceptivos orales tras su último embarazo durante un año.
+Como antecedentes familiares, su madre falleció por lesiones hepáticas metastásicas, aunque no conoce el diagnóstico principal, y su hermano fue diagnosticado de cáncer de colon a los 86 años.
+La paciente consulta en 2016 por molestias oculares, presentando diplopía, ambliopía y epífora y fue, inicialmente, diagnosticada de una úlcera corneal derecha. Posteriormente, ante la persistencia de la clínica volvió a consultar en otro centro diagnosticándose de parálisis del III nervio craneal derecho e hipoestesia del territorio de V1. Se realizó una resonancia magnética (RM) cerebral/orbitaria que no evidenció lesiones y se mantuvo a la paciente en estrecho seguimiento.
+En la RM realizada a principios de 2018 se objetivó una marcada asimetría de los planos blandos del margen superior y tercio externo de la órbita derecha, con marcado engrosamiento y pérdida de diferenciación de los músculos recto interno, oblicuo superior, recto lateral en su inserción distal y de la glándula lagrimal con hipercaptación homogénea al gadolinio, asociado a signos de sinupatía con engrosamiento mucoperióstico de senos paranasales, fundamentalmente frontales, y la ocupación parcial de celdillas etmoidales y senos maxilares. Con estos hallazgos la primera posibilidad diagnóstica era de proceso inflamatorio-infeccioso, como una mucormicosis, sin poder descartar que se tratara de un proceso tumoral.
+La paciente es remitida a la consulta de órbita donde se realiza una biopsia, con el resultado anatomopatológico de tejido orbitario con infiltración metastásica por carcinoma, con características morfológicas que sugieren origen mamario, probablemente carcinoma lobulillar infiltrante (CLI) triple negativo (receptores de estrógenos (RE) y de progesterona negativos (RP), HER-2 negativo, Ki67 1 %). El estudio inmunohistoquímico mostró positividad para CKAE1-AE3, CK7, GATA-3, E-cadherina, GCDFP-15 (BRST-2) y receptor de andrógenos, y negatividad para CK20, proteína S100, CD138, CD79a y CDX2.
+Con este diagnóstico la paciente es remitida a las consultas de Oncología Médica para completar el estudio.
+
+Exploración física
+» Paciente estable hemodinámicamente, con buen estado general y ECOG 1. Eupneica. Peso: 63,1 kg. Talla: 151 cm.
+» Auscultación cardiopulmonar normal. Abdomen blando, sin palpación de masas o visceromegalias, sin signos de irritación peritoneal. No se palpan adenopatías axilares ni nódulos mamarios.
+
+Pruebas complementarias
+De acuerdo con la sospecha de origen mamario de la lesión orbitaria, se realizan una mamografía diagnóstica bilateral y una RM mamaria que fueron normales (BI-RADS 2 y BI-RADS 1, respectivamente).
+La analítica sanguínea que no mostró hallazgos reseñables y los marcadores tumorales CEA y CA 15-3 fueron normales.
+Se realizó como prueba complementaria una TC de tórax-abdomen-pelvis sin afectación a distancia metastásica. En la RM craneal se objetivaron, además de los hallazgos descritos previamente, una reacción perióstica del techo de la órbita y una extensa afectación de la calota de forma difusa. No presentaba lesiones ni realces patológicos en el parénquima cerebral.
+En la PET-TC no se apreciaron lesiones intracraneales, pero sí un incremento metabólico difuso en la región periorbitaria derecha, en relación con la lesión ya conocida y la biopsia (SUVmax 4,13), sin adenopatías laterocervicales de tamaño o captación significativa. En el tórax tampoco se apreciaron adenopatías en regiones supraclaviculares ni axilares, ni en mediastino o en hilios de tamaño o actividad significativa. Es decir, en la PET-TC no había datos que sugirieran afectación tumoral a distancia.
+Se realizaron también una TC craneal y una gammagrafía ósea, en las que se describía la lesión orbitaria ya conocida, sin otros hallazgos.
+
+Diagnóstico
+Carcinoma lobulillar infiltrante estadio IV (por afectación orbitaria) triple negativo con receptor de andrógeno positivo.
+
+Tratamiento
+La paciente se presenta en la sesión de la Sección de Mama del Servicio. Debido a lo sorprendente de que se tratara del debut único de un cáncer de mama triple negativo sin primario conocido ni diagnosticado mediante las pruebas complementarias comentadas anteriormente, se decidió ampliar el estudio y solicitar la realización de EPICUP. Además, está pendiente la realización de una orbitotomía en los próximos días.
+
+Evolución
+Como he mencionado antes, debido a la discordancia de que fuera un tumor triple negativo con un Ki67 bajo (del 1 %) y a la clínica de la paciente, se decide solicitar la realización de EPICUP, y así poder descartar que se tratara de otro tumor, como un carcinoma primario lagrimal. El EPICUP es un test diagnóstico que, basándose en el análisis del perfil de metilación del ADN tumoral, ayuda a identificar el tumor primario en pacientes con cáncer de origen desconocido, con una sensibilidad 96,7 % y una especificidad del 99,9 %. Permite que aquellos pacientes de los cuales no se conoce el tumor primario reciban un tratamiento más específico, impactando positivamente en la evolución de la enfermedad (1).
+En el caso que presentamos, el resultado del test mostró como predicción principal que se trataba de un carcinoma de mama.
+Por otra parte, debido a que tanto la anatomía patológica como el comportamiento clínico del tumor parecen compatibles con un carcinoma lobulillar, y que éstos tienen en un alto porcentaje de receptores de estrógeno positivo (en nuestro caso resultó ser triple negativo), se ha decidido ampliar el estudio.
+Para ello se va a emplear una plataforma recientemente validada para la determinación cuantitativa de receptores hormonales, HER-2 y Ki67 (MammaTyper). En función del resultado se plantearán distintas opciones terapéuticas.

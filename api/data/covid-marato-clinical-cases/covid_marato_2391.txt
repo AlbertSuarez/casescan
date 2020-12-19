@@ -1,0 +1,48 @@
+Anamnesis
+Se trata de un varón de 69 años, con los siguientes ANTECEDENTES PERSONALES:
+-Sin alergias medicamentosas.
+-Diabetes Mellitus tipo 2.
+-Hipercolesterolemia.
+-Enfermedad pulmonar obstructiva crónica (EPOC) moderada.
+-Exfumador desde hace 14 años (60-70 paq/año) y bebedor de menos de 50gr al día de alcohol.
+-Diagnosticado en Mayo de 2013 de un adenocarcinoma de colon ascendente, intervenido mediante hemicolectomía derecha, en estadio pT3N0. No precisó tratamiento complementario y en seguimiento por Cirugía General.
+En enero del 2015 ingresa en Medicina Interna por cuadro de tos productiva con expectoración purulenta, disnea de reposo y fiebre de 39ºC.
+
+Exploración física
+El paciente presenta buen estado general, con las siguientes constantes: TA 147/79, FC 91 lpm, Tª
+36.3º SatO2 92% y frecuencia respiratoria de 28 rpm.
+Se encuentra consciente y orientado, bien hidratado y perfundido
+Refiere disnea de mínimos esfuerzos.
+En la exploración de cabeza y cuello se palpa una masa cervical derecha y se visualiza una candidiasis oral.
+A la auscultación cardio-pulmonar destacan roncus y crepitantes bilaterales dispersos.
+A la palpación abdominal presenta dolor en hipocondrio derecho, sin signos de irritación peritoneal.
+El resto de la exploración física es normal.
+
+Pruebas complementarias
+-RADIOGRAFÍA DE TÓRAX: neumonía en base derecha.
+-TAC TORACO-ABDOMINO-PÉLVICO (21.01.2015): Gran masa supraglótica izquierda compatible con neoplasia. Conglomerado adenopático laterocervical derecho. Pequeño infiltrado en lóbulo medio pulmonar en relación a neumonía en evolución. Hemicolectomía derecha con anastomosis ileocólica. Hígado: En segmento VI existe una masa polilobulada y heterogénea de aproximadamente 7 cm. Esta masa ya se observaban el control previo y se etiqueto como primera posibilidad de metástasis dado su el antecedente de adenocarcinoma de colon. Respecto a este control ha aumentado de tamaño. Adenopatía mesentérica de aproximadamente 12 mm por delante y a la derecha de la vena mesentérica superior, existiendo otra en su proximidad de 6 mm. Estas adenopatías existían con similares características en el control previo.
+-RMN HÍGADO (23.01.2016): Masa hepática en segmento V sospechosa de metástasis de adenocarcinoma de colon y menos probable carcinoma laríngeo. Adenopatía de 1 cm en espacio portocava. Adenoma suprarrenal izquierdo.
+-VALORACIÓN POR OTORRINOLARINGOLOGÍA: Adenopatía cervical derecha de unos 35mm de diámetro pétrea, no dolorosa, bien delimitada, que se desplaza en ambos ejes. No otras adenopatías.
+Fibroscopia: Lesión en RAE izquierda que afecta al área 3 de los repliegues, bien delimitada. Se extiende a parte altade pared lateral del seno piriforme. Fondo del seno piriforme y pared posterior libres. Plano glótico libre. Paresia de CVI sin fijación completa. Cavidad normal y orofaringe normales.
+Juicio diagnóstico: Neoplasia supraglótica izquierda con conglomerado adenopático derecho. Se toma biopsia.
+-ANATOMÍA PATOLÓGICA: Fragmentos de epitelio con displasia severa/carcinoma in situ.
+-BIOPSIA HEPÁTICA (trucut): Adenocarcinoma moderadamente diferenciado de patrón intestinal compatible con metástasis de primario colónico. Patrón inmunohistoquímico positivo para CDX-2, parcial positividad para CK20 y negativo para CK7. Determinación de la mutación en RAS: RAS nativo.
+-Analíticamente destaca un CEA (antígeno carcinoembrionario) de 50.4.
+
+Diagnóstico
+El paciente es diagnosticado de una neoplasia de hipofaringe en estadio cT3N2 con una metástasis hepática de primario colónico.
+
+Valorado en el Comité de Tumores Hepatobiliopancreáticos, la metástasis hepática se considera resecable, decidiendo iniciar tratamiento sistémico y posterior revaloración. Así mismo se presenta el caso en el Comité de Tumores del área ORL, y se decide iniciar tratamiento de quimio-radioterapia concomitante para la neoplasia de hipofaringe.
+
+Tratamiento
+Dado que nuestro paciente presenta de manera síncrona una neoplasia de hipofaringe candidata a tratamiento de quimio-radioterapia concomitante, y una metástasis hepática resecable de un adenocarcinoma de colon intervenido, RAS nativo, candidata a tratamiento neoadyuvante, se decide iniciar tratamiento sistémico según esquema Folfox-6 (al 80% de dosis) + Cetuximab + Radioterapia concomitante, tratamiento que inicia el día 6 de Marzo del 2015.
+
+Evolución
+Entre el 6 de Marzo y el 11 de Mayo de 2015 recibe tratamiento de quimioradioterapia concomitante (recibe dos ciclos de Folfox-Cetuximab + RT), con buena tolerancia, salvo mucositis grado-2, y con descenso del marcador tumoral (CEA 50 al diagnóstico, 2.2 tras 2º ciclo). El día 13 de Mayo se pauta 3º ciclo de Quimioterapia + cetuximab y se solicita TAC de valoración de respuesta. Al mes acude con un empeoramiento del estado general, vómitos, disnea y mucositis. En el TAC se visualiza respuesta parcial tanto a nivel del tumor primario, como a nivel ganglionar y hepático. Así mismo, en el TAC se evidencian multiples infiltrados pulmonares, compatibles con proceso infeccioso por aspiración. Con dichos resultados y dado el empeoramiento del paciente se decide ingreso para tratamiento de soporte.
+El paciente permanece ingresado entre el 12 de Junio y el 13 de Julio de 2016. A su ingreso se inicia tratamiento de soporte con antibioterapia, corticoides y broncodilatadores. Así mismo se deja a dieta absoluta y se pauta nutrición parenteral total, por odinofagia y atragantamientos. Por otro lado se asocia tratamiento con Aciclovir por aislamiento de Herpes Simplex tipo 1 en exudado oral. El día 23 de Junio presenta pico febril. Se realizan hemocultivos, con resultado positivo para Candida parapsilosis, por lo que se procede a retirar vía central (PICC [cateter central de inserción periférica]) y se añade al tratamiento Fluconazol. A pesar de todo el tratamiento el día 30 de junio presenta empeoramiento clínico con insuficiencia respiratoria y fiebre, aislándose en hemocultivos un Staphylococcus Aureus. Se contacta con la Unidad de Enfermedades Infecciosas y se ajusta antibioterapia, con mejoría posterior. A pesar de la mejoría de la mucositis, persisten episodios de tos con la ingesta, por lo que se solicita esofagograma, donde se informa de trastorno funcional faringolaríngeo. Se propone gastrostomía de alimentación, que se coloca el día 8 de Julio.
+Progresivamente el paciente presenta una mejoría del estado general, con resolución de la fiebre y la disnea y con buena tolerancia a la alimentación por la gastrostomía. Finalmente se decide alta a cargo de Hospitalización a Domicilio para completar pauta antibiótica de 4 semanas con Linezolid por gastrostomía.
+
+Tras mejoría clínica y recuperación completa, y dada la buena respuesta que había presentado tras la quimioradioterapia concomitante se decide intervención quirúrgica, tanto del primario de hipofaringe como de la metástasis hepática.
+-El día 28 de Agosto de 2015 se realiza hepatectomía con resección de segmento II y segmento V. La anatomía patológica del segmento V muestra un nódulo tumoral correspondiente a adenocarcinoma de patrón intestinal, metastásico, de 4.5 x 3.2 x 2.3 cm, sin imagenes de invasión linfovascular y con margenes libres. El segmento II muestra parénquima hepático normal sin evidencia de infiltración tumoral.
+-El día 7 de Octubre se realiza laringoscopia directa con toma de biopsias del tumor primario, con resultado negativo para malignidad. Valorado como una respuesta completa a nivel del primario y persistencia ganglionar, se decide realizar un vaciamiento ganglionar funcional cervical derecho. La anatomía patológica muestra una linfadenetis reactiva, sin evidencia de malignidad.
+En noviembre de 2015 se realiza un TAC post-cirugía, donde se evidencian cambios post tratamiento a nivel cervical, sin signos de recidiva tumoral y cambios post-quirúrgicos hepáticos. Progresivamente el paciente presenta una mejoría global, y comienza a tolerar alimentación por boca, sin dolor ni episodios de atragantamiento. En la actualidad sigue en controles en consultas externas de Oncología Médica, con el útimo TAC realizado en febrero de 2016 y sin evidencia de recidiva tumoral.

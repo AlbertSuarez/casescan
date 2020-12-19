@@ -1,0 +1,19 @@
+Anamnesis
+Varón de 43 años, sin hábitos tóxicos, con antecedente de TBC pulmonar tratada en 2007, consulta en febrero de 2009 por disnea progresiva, tos con expectoración, dolor costal y cuadro tóxico con impotencia coeundi de 6 meses de evolución. En TC se objetivaron dos masas de 5 cm a nivel parahiliar derecho y otra en segmento basal derecho. Se solicitó broncoscopia diagnóstica, PAAF y Tru-cut que fueron negativas para malignidad; ante la ausencia de diagnóstico, se le practicó minitoracotomía con toma de biopsias, siendo compatible con tumor miofibroblastico inflamatorio (TMI). Comentado en Comité de Tumores, se decidió tratamiento quirúrgico, no siendo posible por presentar afectación de la arteria pulmonar, por lo que se inició tratamiento con corticoides y posteriormente con crizotinib, que mantiene en la actualidad.
+
+Examen físico
+Karfnosky 90 %, auscultación cardiopulmonar con hipofonesis en base pulmonar derecha; resto de la exploración normal.
+
+Pruebas complementarias
+TC de tórax (marzo de 2009): masa hiliar de aproximadamente 5 cm en la región parahiliar derecha que engloba al bronquio del lóbulo superior. Existe otra masa de similares características de 5 cm en el segmento basal anterior derecho.
+
+Diagnóstico
+Minitoracotomía con biopsias (mayo de 2009): compatible con TMI. Engrosamiento fibroso, constituida por un infiltrado linfoplasmocitario, que muestran una tinción intensamente positiva para actina de músculo liso. Otros marcadores estromales, como desmina, S-100 y CD34, son negativos. La tinción con proteína ALK ha sido negativa.
+Biopsia transbronquial (diciembre de 2011): infiltrado inflamatorio de aspecto fibroblástico, que muestra una tinción intensamente positiva para vimentina y actina de músculo liso y negativa para proteína ALK. Posteriormente, mediante
+FISH sí demostró presencia de traslocación para el gen ALK.
+
+Tratamiento
+En noviembre de 2009 inicia tratamiento con prednisona, obteniéndose beneficio clínico y respuesta parcial en TC de valoración, manteniéndose el tratamiento hasta diciembre de 2011, momento en el que se evidencia aumento del tamaño de la masa pulmonar en TC y clínica de disnea de moderados esfuerzos, tos con expectoración, impotencia coeundi, y valorado como progresión de enfermedad se solicitó determinación de mutación ALK, siendo el FISH positivo, por lo que en marzo de 2012 inicia tratamiento con crizotinib 250 mg c/12 horas.
+
+Evolución
+Tras inicio de crizotinib presentó rápida mejora clínica tanto de la disnea como la disfunción eréctil, en TC de valoración tras 2 meses de inicio del tratamiento se objetivó respuesta parcial, que mantiene en la actualidad. La tolerancia al crizotinib ha sido buena, presentando apenas efectos secundarios.

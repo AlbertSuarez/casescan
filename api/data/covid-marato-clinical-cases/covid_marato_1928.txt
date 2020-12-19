@@ -1,0 +1,31 @@
+Anamnesis
+Se trata de una mujer de 61 años con antecedentes de obesidad e hipertensión arterial esencial en tratamiento con irbesartan 150 mg cada 24 horas y sin antecedentes oncológicos familiares de interés que, en octubre de 2010, consulta por una tumoración en mama derecha de 6 meses de evolución con cutánides y retracción mamaria.
+Se decide realizar una mamografía y ecografía con punción aspiración con aguja fina (PAAF) ante sospecha clínica de cáncer de mama localmente avanzado, siendo el diagnóstico radiológico de tumoración de 36 x 31 mm en CSE MD y adenopatías axilares derechas sospechosas de malignidad BI-RADS 5; y el diagnostico anatomopatológico de confirmación de carcinoma ductal infiltrante de mama (CDI) con invasión de dermis profunda e hipodermis, receptores estrógenos y progesterona negativos, C erb B2 positivos (más del 10 %), EGFR negativo y un Ki 67 del 25 %. Se completa estudio de extensión con TC de tórax-abdomen-pelvis (TAP) donde se observaban las adenopatías axilares derechas, y además metástasis pulmonares bilaterales y hepáticas. Con todo ello, se diagnosticó de CDI mama derecha HER-2 enriquecido estadio IV (cT4 cN2 M1).
+Se presentó en Comité de Mama y se decidió como tratamiento de primera línea doxorrubicina liposomal y paclitaxel concomitante con trastuzumab. En TC TAP de febrero de 2011 presenta mejoría radiológica de la enfermedad con disminución notable de las adenopatías axilares derechas, de la lesión de mama derecha (23 x 11 mm), así como de las metástasis pulmonares y hepáticas.
+La paciente recibe 8 ciclos presentando, como única toxicidad, aumento leve de transaminasas y ligeras parestesias en miembros inferiores y superiores sin otra toxicidad relevante; y en PET-TC de mayo de 2011 no presenta ninguna captación patológica, sin evidencia de enfermedad macroscópica, por lo que se decide realizar intervención quirúrgica de la tumoración primaria y seguir con trastuzumab intravenoso.
+En junio de 2011 se efectúa una mastectomía radical modificada más linfadenectomía de los 3 niveles de Berg y ganglio de Rotter y posterior radioterapia (RT) sobre pared costal (50 Gy 200 cGy/sesión; 5 sesiones/semana). En el informe de AP de la pieza no se observa tumor residual ni afectación ganglionar, habiéndose alcanzado respuesta completa patológica al tratamiento neoadyuvante (G5 en la clasificación de Miller y Payne), no siendo posible repetir la inmunohistoquimia en la pieza al no existir tumor residual.
+Desde entonces, en estadio NED, la paciente mantiene tratamiento con trastuzumab iv y controles bimensuales con pruebas de imagen y analíticas, buen estado general (PS 0) y exploraciones dentro de la normalidad, exceptuando ligero aumento de transaminasas. En marzo de 2015 después de 32 ciclos de trastuzumab intravenoso, se cambia la vía de administración a subcutánea debido a los menores efectos secundarios.
+En enero de 2018, 7 años y medio desde el diagnóstico inicial, la paciente refiere sensación de vértigo y mareos con los cambios de posición y la deambulación, así como dolor cervical desde hace un mes, por lo que se solicita resonancia magnética (RM) cervical y cerebral urgente así como una nuevo
+PET-TC.
+En la RM se observa una imagen compatible con una metástasis cerebelosa izquierda con signos de hidrocefalia activa y descenso amígdalas cerebelosas de 15 mm por debajo del plano del agujero magno, así como una de intensidad de señal en vértebras T1 a T3 sugestivas de afectación metastásica. En la PET TC no se observan lesiones tumorales. Ante estos hallazgos se comenta en Comité de Neurocirugía y se decide intervención quirúrgica consistente en craneotomía suboccipital retrosigmoidea izquierda y exéresis de tumor en febrero de 2018, tratamiento corticoide y posterior radioterapia holocraneal (500 cGy por fracción 3 veces durante una semana), presentando náuseas grado 1 resueltas como efecto secundario a la RT.
+Después del tratamiento, la paciente comenta desaparición de la inestabilidad y de las cefaleas.
+La AP de la biopsia de cerebelo es informada como metástasis por carcinoma extensamente necrosado con receptores estrógenos positivos +++, progesterona negativos y C erb 2 positivos.
+Ante la progresión ósea y en SNC, tras el tratamiento radical sobre la metástasis cerebelosa, se decide empezar tratamiento con TDM-1 trastuzumab emtansina como 2ª línea de cáncer de mama metastásico HER-2+.
+
+Exploración física
+ECOG-PS 1. Buen estado general, exploración cardiopulmonar, abdominal y de miembros inferiores anodina. Obesidad.
+
+Pruebas complementarias
+» Hemograma y coagulación normal. Bioquímica normal salvo GPT 57 U/l y GOT 47 U/l.
+» RM: imagen compatible con metástasis cerebelosa izquierda con signos de hidrocefalia activa y descenso de amígdalas cerebelosas de 15 mm por debajo del plano del agujero magno. Alteración de intensidad de señal en vértebras T1 a T3 sugestivas de afectación metastásica.
+» PET-TC: no se observan depósitos anormales del trazador en territorios ganglionares laterocervicales, en mediastino ni axilas. Adecuada fijación del trazador en parénquima pulmonar, sin nódulos pulmonares hipermetabólicos. Hígado y bazo normometabólicos. No se observan ganglios linfáticos con actividad metabólica anormal. Actividad intestinal difusa, sin detectar depósitos focales.
+» » Mamografía: BI-RADS 2.
+
+Diagnóstico
+Metástasis cerebelosa de carcinoma ductal infiltrante de mama HER-2+.
+
+Tratamiento
+TDM-1 (trastuzumab emtansina).
+
+Evolución
+La paciente presenta una evolución favorable sin clínica neurológica, sólo destacando náuseas matutinas sin llegar a vomitar con buena respuesta a metoclopramida.

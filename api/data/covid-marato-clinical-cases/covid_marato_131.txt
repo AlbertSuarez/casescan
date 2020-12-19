@@ -1,0 +1,22 @@
+Anamnesis
+Varón de unos 70 años que acude al hospital de día en abril de 2018 para iniciar tratamiento, diagnosticado de melanoma cutáneo en el cuero cabelludo, resecado en varias ocasiones y con evidencia de enfermedad a nivel loco-regional y metastásica a nivel pulmonar y óseo. Tiene estado de BRAF nativo, analizado en la muestra del tumor primario.
+Como antecedentes de interés, padece de hipertensión arterial y dislipemia de larga evolución. Niega consumo de alcohol y es exfumador desde hace más de 20 años. Presenta también historia de coxartrosis izquierda. Es de especial relevancia para nuestro caso el trasplante de riñón derecho en octubre de 2010, secundario a insuficiencia renal crónica grave en probable relación con una pielonefritis crónica, tras años en programa de diálisis, sin presentar ninguna complicación mayor postrasplante.
+Su tratamiento crónico consiste en tapentadol 100 mg dos veces al día, amlodipino 5 mg un comprimido diario, furosemida 20 mg al día, atorvastatina 20 mg por la noche y como tratamiento inmunosupresor antes de iniciar el tratamiento oncoespecífico: tacrolimus 1 mg dos comprimidos por la mañana, micofenolato 500 mg dos comprimidos al día y prednisona 30 mg cada dos días.
+
+Historia oncológica
+Fue diagnosticado de un melanoma de células fusiformes desmoplásico ulcerado con un margen basal de 0,45 mm y lateral cercano a 1,4 mm, a partir de una lesión cutánea en el cuero cabelludo en septiembre de 2017, sin evidencias de enfermedad metastásica en ese momento. Posteriormente, se hicieron dos nuevas intervenciones por reaparición de lesiones en torno a la primera cirugía, realizándose extirpación en febrero y marzo de 2018. La Anatomía Patológica de la resección de febrero de 2018 fue compatible con melanoma no desmoplásico, con márgenes libres, índice de Breslow de 1,2 cm, no contemplándose la posibilidad de metástasis cutánea. La Anatomía Patológica de marzo 2018 fue similar a la previa. El estudio de la mutación en BRAF en esta pieza fue negativo (wild type).
+
+Exploración física
+En la exploración física se observan nódulos compatibles con recaída a nivel del cuero cabelludo, sin otros hallazgos en la auscultación o exploración músculo-esquelética.
+
+Pruebas complementarias
+Se realiza estudio de extensión con tomografía de emisión de positrones con tomografía computarizada (PET-TC) en mayo de 2018, donde se describen captaciones patológicas en cuero cabelludo, pulmón y hueso iliaco izquierdo.
+
+Diagnóstico
+Melanoma con enfermedad metastásica en pulmón y hueso iliaco M1c (0) en paciente con trasplante renal.
+
+Tratamiento
+Tras comentar el caso con su nefrólogo y revisar la literatura, se ajustó el tratamiento inmunosupresor, pasando a tomar tacrolimus 3 mg diarios cuatro días por semana y 2 mg durante los tres días restantes, everolimus 2 mg diarios y tratamiento esteroideo a dosis de 10 mg cada 48 horas. Por tanto, en la consulta se le ofrece al paciente iniciar tratamiento con nivolumab, inhibidor de receptor de muerte programada 1 (PD-1) en monoterapia, explicando los objetivos y los posibles efectos secundarios (incluyendo la pérdida del injerto renal, en su caso), tras lo cual el paciente acepta el inicio de la misma.
+
+Evolución
+Tras seis dosis de inmunoterapia, se aprecia respuesta completa en PET-TC de agosto de 2018 en lesiones cutáneas y pulmonares, y parcial en hueso iliaco izquierdo que posteriormente ha pasado a ser respuesta completa en PET-TC de febrero de 2019, comparando con el de mayo de 2018, tras 18 dosis de nivolumab. Hasta el momento, no ha tenido toxicidad inmunorrelacionada grado III, a destacar únicamente astenia grado II, manteniendo sus cifras de creatinina previas al inicio del tratamiento.

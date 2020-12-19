@@ -1,0 +1,21 @@
+Anamnesis
+Mujer de 45 años con mamoplastia bilateral en 2012 sin otros antecedentes de interés y sin revisiones ginecológicas previas. Valorada en consultas de Ginecología en Marzo 2016 por úlcera cutánea en mama izquierda de un año de evolución. Refería además mastalgia bilateral, dolor abdominal, dorsalgia, oliguria y pérdida de peso de 10 kg en 1 mes
+
+Exploración física
+Lesión ulcerada pétrea en la areola de la mama izquierda de 2 cm, con retracción cutánea. Adenopatía palpable e indolora axilar izquierda de 0.5 cm y 2 nódulos rodadores de 1 y 1.5cm en el cuadrante superoexterno (CSE) de mama derecha.
+
+Pruebas complementarias
+En una analítica inicial se observó un calcio corregido de 13.9mg/dl, creatinina 1.85, hemograma con 10.700 leucocitos, hemoglobina 10g/dL y 40.000 plaquetas. Cuadro leucoeritroblástico en el frotis de sangre.
+
+Diagnóstico
+Ingresa en Oncología Médica por hipercalcemia severa y fracaso renal agudo de probable origen tumoral. Alta sospecha de cáncer de mama metastásico pendiente de completar estudio. Pancitopenia en probable contexto de infiltración medular ósea.
+Se llevó a cabo el manejo urgente de la hipercalcemia, estabilización hemodinámica y analgesia. No se inició anticoagulación profiláctica por trombopenia. Riesgo intermedio en la escala de Khonana (puntuación 1).
+Se completó el estudio con mamografía de alta resolución derecha (no izquierda por ulceración) y ecografía de mama y axila bilateral encontrando una masa retroareolar izquierda espiculada de 38x19 mm con microcalcificaciones, una adenopatía axilar izquierda patológica y área glandular sospechosa en CSE de la mama derecha, también con microcalcificaciones (BIRADS 5).
+Con PAAF bilateral y biopsia de la masa se le diagnostícó de carcinoma infiltrante de mama izquierda grado II de Nottingham, con receptores de estrógeno y progesterona positivos un 90 y 20% repectivamente. No sobreexpresaba p53. Ki-67 del 20%. Quedaba pendiente el resultado de la inmunohistoquímica (herceptest) para HER2.
+No se realizó biopsia de médula ósea por alta sospecha de infiltración medular sin condicionar actitud posterior a seguir. Para el estudio de extensión se realizó PET-TC FDG al cuarto día de ingreso: hallazgos de linfangitis pulmonar carcinomatosa y metástasis óseas de carcinoma de mama izquierda como tumor primario, con afectación axilar bilateral. Se observan defectos de repleción compatibles con tromboembolismo pulmonar (TEP) agudo en las arterias segmentarias del lóbulo inferior izquierdo. La paciente había sido valorada la tercera noche de ingreso por dolor torácico que impresionaba de pleuromecánico, con electrocardiograma normal y que cedió con analgesia, sin asociar otros signos o sintomas que hicieran sospechar de TEP.
+
+Tratamiento
+En la analítíca de control del quinto día de ingreso presentó una hemoglobina de 9g/dL y trombopenia de 35.000/mm3 por lo que se transfundieron hematíes y, ante la ausencia de otros riesgos de sangrado agudo, se inició anticoagulación con HBPM a dosis terapéutica previa transfusión de plaquetas (consiguiendo cifras de 45.000/mm3). Paralelamente se inició QT precoz con taxol semanal con dosis reducida (60mg/m2). Se mantuvo tratamiento de soporte con oxigenoterapia y antibioterapia 10 días por posible sobreinfección pulmonar y se consiguió buen control analgésico con morfina oral.
+
+Evolución
+En la tercera semana del ingreso se obtuvieron los resultados de la inmunohistoquímica con HER2 POSITIVO (+3). Tras comprobar una FEVI del 68% y con 99.000 plaquetas se administró el tercer ciclo de taxol semanal con misma reducción de dosis, añadiendo el primer ciclo de pertuzumab-trastuzumab trimestral. Habiendo conseguido mejoría clínica y manteniendo estabilidad en las analíticas de control la paciente fue dada de alta ese mismo día, con idea de completar los siguientes ciclos ambulatoriamente y pendiente de reevaluación radiológica.

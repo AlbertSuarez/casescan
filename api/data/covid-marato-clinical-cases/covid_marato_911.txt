@@ -1,0 +1,45 @@
+Anamnesis
+Mujer de 48 años, sin alergias medicamentosas conocidas, carnicera de profesión, fumadora de 5 paquetes/año con antecedentes médicos de rinitis alérgica y migraña con aura visual. Intervenida quirúrgicamente de fístula en sacro. En tratamiento médico diario con levonorgestrel/etinilestradiol.
+Diagnosticada en diciembre de 2017 de adenocarcinoma de cérvix uterino con crecimiento exofítico estadio IIB por episodio de metrorragias. Se realizaron las siguientes pruebas complementarias:
+» Ecografía transvaginal: útero en anteflexión con endometrio lineal. Se visualiza masa en cérvix de unos 50 x 32 mm.
+» Biopsia de cérvix: fragmentos de adenocarcinoma moderadamente diferenciado, de probable origen endocervical. Sin invasión linfovascular o perineural. Estudio inmunohistoquímico: RE: negativos, RP: negativos, P 16: positivo intensamente y difuso, vimentina: negativa.
+» Resonancia magnética de pelvis: adenopatías de aspecto patológico, siendo la de mayor tamaño en el eje iliaco izquierdo de hasta 20 mm.
+Presentado el caso en el comité de tumores multidisciplinar, se decide tratamiento concomitante de cisplatino y radioterapia.
+
+Enfermedad actual
+Encontrándose pendiente de iniciar tratamiento, la paciente acude al servicio de Urgencias por presentar cefalea intensa pulsátil, con náuseas y fotofobia de tres días de evolución, a la que posteriormente se asocia fotopsias junto con dolor EVA 9/10 y cuadrantanopsia temporal inferior izquierda.
+
+Exploración física
+ECOG-PS1. Auscultación cardiopulmonar sin hallazgos patológicos. Exploración abdominopélvica: no se palpan masas ni megalias, discreto dolor a la palpación en fosa iliaca izquierda sin signos de irritación peritoneal, ruidos peristálticos presentes. Exploración neurológica: consciente, orientada en las tres esferas. Pupilas isocóricas y normorreactivas. Alteración en campimetría por confrontación: destaca cuadrantanopsia temporal inferior izquierda. Ligera pronación de mano derecha en Marré. No hay otros signos de focalidad neurológica. Sin dismetrías ni disdiadococinesias. Romberg negativo.
+Marcha en tándem sin alteraciones.
+
+Pruebas complementarias
+Pruebas complementarias realizadas en Urgencias:
+» TC cerebral basal al ingreso (23/1/2018): no se evidencian imágenes compatibles con hemorragia intra o extraaxial ni con lesión isquémica aguda. No se identifican imágenes compatibles con proceso expansivo.
+» Analítica: bioquímica y hemograma sin alteraciones. Coagulación normal salvo fibrinógeno elevado 657 mg/dl (200-400 mg/dl).
+» Radiografía de tórax: sin alteraciones pleuroparenquimatosas de evolución aguda. ECG: ritmo sinusal a 84 lpm, sin alteraciones en la repolarización.
+
+Diagnóstico
+Alteración visual a estudio/adenocarcinoma de cérvix estadio IIB.
+
+Tratamiento
+Una vez ingresada la paciente en planta de Neurología, se llegó al diagnóstico etiológico mediante la realización de pruebas complementarias de: lesiones cerebrales múltiples compatibles con ictus isquémico de origen venoso por trombosis a múltiples niveles, secundarias a un síndrome de hipercoagulabilidad paraneoplásico: síndrome de Trousseau.
+Por ello, se decidió tratamiento con anticoagulación indefinida con heparina de bajo peso molecular.
+
+Evolución
+Ante los hallazgos descritos, se decide ingreso en Neurología para completar estudio. En cuanto a los hallazgos analíticos, destacan:
+» Perfil cardioembólico dentro de los límites de la normalidad excepto: lipoproteína A ↑69,7, LDL ↑ 107,4.
+» Analítica general dentro de los niveles normales excepto: albumina ↓ 2,93, VSG ↑30, leucocitosis hasta 20.300, con neutrofilia. LDH ↑565, GOT↑50, GPT↑48, PCR inicial ↑15,42, posteriormente 31,48, dímero D ↑↑36.449 que tras anticoagulación pasa a 14.398.
+» Marcadores tumorales: CEA, alfafetoproteína, Ca 15,3 normales, Ca 125 ↑85,7.
+» TC cerebral de control: áreas hipodensas localizadas a nivel parietal y occipital derecho, sugestivos de infartos venosos múltiples.
+» RM cerebral + angio-RM: área hiperintensa tanto en T2 como en Flair localizada a nivel cortico parietoccipital derecha, que presenta una restricción de la difusión hídrica, en relación con proceso isquémico agudo. Múltiples áreas de hiperseñal en T2 y Flair a nivel cortical bilateral, en relación con procesos vasculares agudos.
+» PET-TC: se aprecia lesión hipermetabólica en cuello uterino que se extiende al fondo del saco vaginal derecho, con contacto con pared posterior de vejiga, recto e infiltración mesorrectal. Múltiples adenopatías hipermetabólicas retrocrurales derechas, retroperitoneales y supraclaviculares.
+» Arteriografía cerebral: defectos de llenado de ambos senos venosos transversos y sigmoides a diferentes niveles y también en prensa de Herófilo.
+A los tres días, sufre de forma brusca un incremento de la cefalea acompañándose de ausencia total de la visión. El cuadro clínico es compatible con ceguera cortical. Desarrolla a su vez heminegligencia sensorial del hemicuerpo izquierdo. Durante su estancia en planta de Neurología, desarrolla una serie de complicaciones:
+» Dolor precordial intenso, por lo que se estudió un posible síndrome coronario. Presentaba elevación de enzimas cardiacas (troponinas) y fue valorada por Cardiología y se realizó electrocardiograma. El cuadro sugería más un tromboembolismo pulmonar, por lo que se realizó una angio-TC, cuyo resultado no fue compatible con dicho diagnóstico.
+» Dolor abdominal generalizado, con signos de irritación peritoneal, vómitos de contenido alimentario y fiebre de hasta 38 º. Se solicitó una nueva TC abdominal, apreciándose zona hipodensa en parénquima esplénico, en relación con área de infarto, así como colecciones peripancreáticas compatible con cuadro de pancreatitis aguda. Se inició tratamiento empírico con carbapenem y fue valorada por Cirugía General y Digestivo. Como primera sospecha diagnóstica: pancreatitis isquémica, que fue tratada con fluidoterapia, dieta y antibioterapia dado el pico febril.
+» Se estudió un síndrome paroxístico de despersonalización y desorientación transitoria que se consideró como posible crisis focal en el contexto de lesión cerebral y uso de antibioterapia que reducía el umbral epileptógeno.
+» Finalmente, se solicitó colaboración con el servicio de Oncología Médica: dado los últimos resultados del PET-TC, se diagnosticó de carcinoma de cérvix estadio IV (adenopatías supraclaviculares izquierda e infiltración mesorrectal), por lo que se decidió tratamiento con quimioterapia paliativa y administración de heparina de bajo peso molecular.
+Estudio etiológico: lesiones cerebrales múltiples compatibles con ictus isquémico de origen venoso por trombosis a múltiples niveles, secundarias a un síndrome de hipercoagulabilidad paraneoplásico: síndrome de Trousseau.
+En planta de Oncología Médica
+A su ingreso en planta, inicia tratamiento con radioterapia con intención hemostática sobre pelvis consiguiendo remitir sangrado. Durante su estancia, presenta episodios de cefalea y desconexión frecuentes que se interpretan como probable causa vascular. Progresivamente, presenta deterioro clínico y aparición de síntomas refractarios a tratamiento médico (dolor, agitación, desasosiego, etc.), por lo que finalmente y de acuerdo con la familia, ante situación clínica de gravedad y mal pronóstico, se inicia sedoanalgesia paliativa y tratamiento de confort y control sintomático. Finalmente fallece.

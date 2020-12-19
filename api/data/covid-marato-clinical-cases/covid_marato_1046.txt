@@ -1,0 +1,33 @@
+Anamnesis
+Varón de 70 años, con antecedentes médicos de hipertensión arterial en tratamiento con betabloqueante e inhibidor de la enzima convertidora de angiotensina, hernias cervicales y lumbares en tratamiento rehabilitador ocasional. Fumador de 10 paquetes/año. Intervenido de herniorrafia inguinal bilateral.
+
+Como antecedentes familiares, destaca una hermana fallecida por carcinoma de cérvix a los 70 años y un hermano, fumador, fallecido por carcinoma de pulmón a los 52 años.
+
+El paciente consultó en dos ocasiones en el Servicio de Urgencias por un dolor sordo y profundo en epigastrio e hipocondrio derecho (HCD) irradiado en cinturón y de comienzo gradual. Durante la anamnesis, el enfermo no refirió otros síntomas digestivos acompañantes tales como náuseas, vómitos, anorexia o alteración del ritmo intestinal; en cambio, sí comentó astenia y una mayor dificultad para realizar sus actividades cotidianas. Tras persistir dicho malestar con unas características compatibles con un EVA basal de 4-5, a pesar de haber recibido tratamiento con fármacos analgésicos de primer escalón, se decidió ingresó para estudio y control de los síntomas.
+
+Exploración física
+Al ingreso, el paciente presentó un ECOG de 1 con leve afectación del estado general y sudoración profusa. Buen estado nutricional. Normocoloreado, perfundido e hidratado. Rítmico y taquicárdico a 110 lpm sin soplos audibles. Abdomen blando y doloroso a nivel de epigastrio e HCD, hepatomegalia dolorosa de cuatro traveses de dedo por debajo del reborde costal sin presentar signos de irritación peritoneal. El resto del examen no mostró particularidades.
+
+Pruebas complementarias
+» Analítica al ingreso: hemoglobina de 11,2 mg/dL, hematocrito de 37,4% con volumen y cromía normal; leucocitos 11.700/mL (80,9% neutrófilos), actividad de protrombina de 69%, fibrinógeno de 630 mgr/dl, tiempo de protrombina de 14.9 y GOT 55 U/L, sin otras alteraciones bioquímicas y hematológicas. Serología viral para hepatitis B, C y VIH negativa. Marcadores tumorales (MT): (CEA, Ca-19.9, Ca 72.4, alfa-fetoproteína) normales.
+» Tomografía computarizada (TC) de abdomen y pelvis: múltiples lesiones hapáticas focales e hipodensas de distribución difusa por ambos lóbulos y con diámetros entre 10 y 25 mm, además de una lesión a nivel de la cola del páncreas sólida e hipercaptante de 34 x 29 mm. Presencia de mínima cantidad de líquido libre a nivel del fondo de saco recto-vesical sin otros hallazgos relevantes.
+» TC de tórax: a nivel de lóbulo inferior izquierdo existe un nódulo de 4 mm que no impresiona de malignidad.
+» Biopsia con aguja gruesa guiada por ecografía de lesiones hepáticas: Se obtuvieron varios cilindros y se enviaron en formol para estudio anatomo-patológico. El procedimiento surgió sin incidencias inmediatas.
+
+Diagnóstico
+Tumor vascular con crecimiento a expensas de los sinusoides hepáticos. Infiltra las venas de tamaño intermedio que se encuentran trombosadas y otras dilatadas con la luz ocupada por células tumorales las cuales son de tamaño intermedio con núcleos hipercromáticos, nucléolos pequeños y citoplasma eosinofílico. Abundante estroma mixoide. En cuanto al inmunofenotipo, destaca:
+» Marcadores vasculares positivos: CD34 y CD31. Vimentina (+).
+» Marcadores negativos: hepatocito 1, glypican 3, citoqueratina AE1-3, CK7, CK20, CEA, LC, p53.
+» Índice de proliferación celular (Ki-67): bajo.
+
+El resultado anatomo-patológico definitivo fue compatible con tumor vascular concordante con hemangioendotelioma epitelioide (HE) hepático.
+
+Tratamiento
+Se inició tratamiento con procinéticos, inhibidores de la bomba de protones y se continuó con analgesia de primer escalón (dexketoprofeno trometamol alternando con metamizol) evolucionando de forma favorable a un EVA basal de 0-1, y sin presencia de dolor irruptivo oncológico. La astenia persistió a pesar de tratamiento con dexametasona a dosis bajas y metilfenidato.
+
+Evolución
+Tras presentar el caso en Comité de Tumores, y de acuerdo a la literatura existente, se acordó con el paciente ante la mejoría clínica presentada, mantener una actitud expectante asociada a un seguimiento estrecho para poder plantear un tratamiento sistémico en el caso de alcanzar una progresión clínica o radiológica, a pesar de la falta de ensayos clínicos prospectivos publicados en este escenario.
+
+Tras un corto intervalo de tiempo, el paciente volvió a referir mal control analgésico (EVA 7), ictericia mucocutánea, aumento del perímetro abdominal con presencia de ascitis no a tensión, somnolencia leve y deterioro importante del estado general, presentando un ECOG de 3. En este momento analíticamente destacó: actividad de protrombina 40%, bilirrubina total 3,9 mg/dL a expensas del componente directo (3,68 mg/dL), lactato deshidrogenasa: 950 y GOT/GPT 561/289 U/L. Tras descartar mediante ecografía dilatación de las vías biliares, se inició tratamiento sintomático con opioides mayores, precisando varias rotaciones por mal control de la analgesia. Se realizaron paracentesis evacuadoras a pesar de lo cual el empeoramiento del paciente fue progresivo llevándole a desarrollar una encefalopatía hepática grado 3. En la TC de reevaluación se objetivó una progresión hepática importante con la presencia de una gran cantidad de líquido ascítico en la cavidad peritoneal.
+
+Dada la evolución del paciente se desestimó cualquier tipo de tratamiento dirigido a la enfermedad oncológica, incluido el tratamiento con quimioterapia. El paciente falleció a los 10 días del ingreso por insuficiencia hepática secundaria a su neoplasia de base.

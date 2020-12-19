@@ -1,0 +1,55 @@
+Anamnesis
+Motivo de ingreso
+Paciente de 67 años que refiere pérdida de peso en las últimas semanas asociado a astenia moderada, insomnio y dolor en la región inguinal derecha. Presenta en la analítica: Hemoglobina: 11.2 g/dl [13.5 – 18 g/dl] y el resto de hematimetría normal. Se deriva al Servicio de Hematología para estudio.
+
+Antecedentes personales
+Paciente exfumador. Hipertensión controlada con Hidroclorotiazida 25 mg/día y Losartán 100 mg/día. Clínica de isquemia coronaria. No diabetes mellitus, ni dislipemias.
+
+Evolución clínica y tratamiento
+El médico de atención primaria revisa y ajusta el tratamiento para su patología coronaria, se pauta: Nitroglicerina 5 mg parches transdérmicos, Ácido acetil salicílico 100 mg/día, Atenolol 50 mg/día, Omeprazol 20 mg/día, Ferroglicina sulfato 100 mg/día. Hidroclorotiazida 25 mg/día y Losartán 100 mg/día.
+
+Se inicia el estudio por parte del Servicio de Hematología, por sospecha de anemia normocítica y normocrómica de carácter regenerativo. Los hallazgos más importantes que se encuentran son:
+
+• Exploración física: Esplenomegalia de 17 cm.
+
+• Analítica: Hb: 11.2 g/dL, Ferritina 686 g/dl [30 – 400 g/dl], Lactato des-hidrogenada LDH: 1178 UI/L [135 – 214 UI/L]. Fosfatasa ácida (FA): 130 UI/L [2.5-11.7 UI/L], Antígeno prostático específico (PSA): 6.93 ng/ml [ 0.1 - 6.5 ng/ml].
+
+• Examen de sangre periférica: anisopoiquilocitosis, abundantes dacriocitos, esquistocistos y eritroblastos compatibles con síndrome mielodisplásico.
+
+• Estudio genético: mutación V617F del gen JAK2 positiva. Cariotipo 46XY, t (8;12) (q24;q22), grupo de riesgo desfavorable por tener la anomalía aislada +8.
+
+Se diagnostica Síndrome mieloproliferativo tipo mielofibrosis idiopática y se estadifica con riesgo intermedio-1 según el índice pronóstico Dynamic International Prognostic Scoring System (DIPPS). Debido a la edad del paciente y al grupo de riesgo no está indicado el transplante alogénico, se decide no iniciar ningún tratamiento al estar el paciente asintomático. Se realiza el seguimiento del paciente con periodicidad mensual.
+
+Durante un año el paciente se mantuvo estable, con una media de hemoglobina de 10.8 g/dl, LDH de 1122 UI/L y esplenomegalia asintomática.
+
+Tras dos años desde el diagnóstico lo más reseñable es anemia crónica con una media de hemoglobina, (9.64 g/dl), LDH aumentadas (1512 UI/L) y esplenomegalia en aumento.
+
+El paciente acude de nuevo a la consulta refiriendo astenia, diarreas e importante esplenomegalia sintomática de 14 cm. a la palpación, por lo que se decide la introducción de tratamiento citorreductor con Hidroxiurea ya que se muestra una importante leucocitosis 14.72 x10e3/mcl [4-10 x10e3/mcl], aunque debido a la importante diarrea, astenia y debilidad, se decide esperar seis meses hasta la mejoría de los síntomas, se le pauta 500 mg de Hidroxiurea dos veces al día.
+
+Tras un mes de tratamiento se sustituye a Lenalidomida 10mg/12 horas, el uso fuera de su indicación es debido a su efecto inmunomodulador y a que afecta menos a la serie roja que los citorreductores como la hidroxiurea pudiendo mejorar la anemia. Se mantiene durante 11 días, pero se decide suspender por efectos secundarios del fármaco que fueron, fiebre e infección de las vías aéreas bajas.
+
+Un mes después se retoma el tratamiento con Hidroxiurea 500 mg/12 horas, para reducir la esplenomegalia sintomática, intentando mantener la hemoglobina por encima de 10 g/dl.
+
+Dos años y medio desde el diagnóstico y seis meses después del tratamiento con Hidroxiurea, se revalúa al paciente. La analítica muestra: Hb 11.4 g/dl, plaquetas 276 x103/mcl. En el estudio de sangre periférica se observan mielocitos, metamielocitos, 22% eritroblastos y 8% blastos de aspecto mieloide. En la exploración física destaca esplenomegalia palpable y sintomática de 24 cm.
+
+Ante el aumento de blastos, se considera que el paciente se encuentra en el grupo de riesgo Intermedio 2 y se decide sustituir la Hidroxiurea por Ruxolitinib, medicamento aprobado por la FDA y EMEA para la mielofibrosis. 
+
+Se inicia el tratamiento con dosis iniciales de 15 mg/12h para comprobar su tolerancia. Tras un mes de tratamiento, la tolerancia al fármaco es buena, hay una reducción significativa del tamaño del bazo y mejoran los síntomas como la astenia y debilidad, se decide por ello aumentar la dosis hasta 20 mg /12 horas. Se cita al paciente cada tres semanas para seguimiento más estrecho.
+
+Han pasado tres años desde el diagnóstico de la enfermedad y seis meses desde que se comenzó el tratamiento con Ruxolitinib, en las últimas analíticas se observa un descenso en la Hb desde 11.8 g/dl hasta 8.8 g/dl, plaquetas desde 173 x10e3/mcl hasta 100 x10e3/mcl, LDH desde 2.800 UI/ml hasta 850 UI/ml. Además, el tamaño del bazo a la palpación muestra una reducción de 17 cm. hasta 8 cm.
+
+Debido al empeoramiento del cuadro hematológico se decide realizar una transfusión de concentrado de hematíes. Se añade a su tratamiento Eritropoyetina 40.000 UI cada diez días y profilaxis anti herpética con Aciclovir 800 mg/ día.
+
+Dos meses más tarde, el paciente acude al Servicio de Urgencias por evacuaciones líquidas sin productos patológicos, de aproximadamente 15 veces al día, sin asociación con ningún alimento o medicamento.
+
+En la analítica se observa: Hb 9.3 g/dl, Hto 26.9, Plaquetas 84 x10e3/mcl, leucocitos 5.14 x10e3/mcl, neutrófilos 37.2 x10e3/mcl, linfocitos 41.4 x10e3/mcl.
+
+El tratamiento con ruxolitinib puede causar reacciones adversas hematológicas, incluyendo trombocitopenia, anemia y neutropenia. Las dosis de ruxolitinib se ajustan en base a la seguridad y la eficacia. Según ficha técnica, se debe interrumpir el tratamiento cuando el recuento de plaquetas sea inferior a 50 x10e3/mcl. o el recuento absoluto de neutrófilos sea inferior a 0,5 x10e3/mcl. Si el recuento de plaquetas disminuye por debajo de 100 x10e3/mcl, se debe considerar una reducción de la dosis.
+
+Desde el Servicio de farmacia se recomienda disminuir la dosis de Ruxolitinib hasta 10mg/12 horas, se recomienda administrar un concentrado de hematíes y pautar Eritropoyetina 40.000 UI dos veces por semana.
+
+Al cabo de un mes el paciente presenta niveles Hb 11.1 g/dl, plaquetas 128 x10e3/mcl y leucocitos 8.490/mcl (2720 N). Se vuelve a aumentar la dosis de Ruxolitinib a 15mg/12 horas. Y se cita al paciente cada dos semanas con controles hematológicos.
+
+Actualmente el paciente lleva más de tres años y medio desde el diagnóstico y más de seis meses en tratamiento con Ruxolitinib bien tolerado. No ha presentado complicaciones a lo largo de este tiempo. La última analítica muestra: Hb: 12.1 g/dl, plaquetas 122 x103/mcl y LDH: 1111 UI. Continúa con una esplenomegalia asintomática y sigue en seguimiento por parte del Servicio de hematología cada tres semanas.
+
+El tratamiento actual consta de Ruxolitinib 15mg/12 horas; Eritropoyetina 40.000 UI cada 10 días; Nitroglicerina 5 mg parches transdérmicos; Ácido acetil salicílico 100 mg/día; Atenolol 50 mg/día; Omeprazol 20mg /día; Fesoterodina 4mg/día.

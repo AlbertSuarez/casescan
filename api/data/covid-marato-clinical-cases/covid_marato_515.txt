@@ -1,0 +1,41 @@
+Anamnesis
+Paciente varón 21 años diagnosticado con SRT, RECQL4 y MTHFR mutado, con afectación cutanea típicas y alteraciones oseas, que se diagnosticó en Abril 2013 de OS de bajo grado tratado con reseción quirúrgica oncológica y en seguimiento posterior.
+Segundo de tres hermanos, todos diagnosticados en edad infantil de SRT, y dos de los tres con desarrollo de osteosarcoma.
+El paciente consulta en octubre 2014 en nuestro centro por progresión a nivel de la zona de amputación de miembro inferior derecho.
+
+HISTORIA ONCOLÓGICA
+El paciente se diagnosticó en Abril de 2013, a raiz de dolor en tobillo derecho, de un Osteosarcoma de bajo grado en vertiente lateral epifiso-metafisaria distal de tibia y siendo intervenido mediante amputación de tercio medio proximal de tibia derecha. El resultado definitivo de anatomía patológica informa de un osteosarcoma de bajo grado (de 4x3 cm) fusocelular, esclerosante, con formación de matriz ósea, bien diferenciado La tumoración rompe cortical ósea y se extiende a tejidos blandos sin alcanzar tejido muscular. Bordes libres, R0.
+En Enero 2014, tras 7 meses de intervalo libre de enfermedad, se objetivó por TAC y PET-TAC sospecha no confirmada de recaida pulmonar en lóbulo inferior derecho y gemelo derecho. Se realiza biopsia del gemelo siendo compatible con tumor fibroso esclerosante de bajo grado y se practicó una resección trasegmentaria pulmonar siendo el infome de anatomía patológica de nódulo fibroso hialinizado con áreas de necrosis sin celularidad tumoral viable de 1.8 cm. La lesión alcanza pleura sin rebasarla, con bordes de resección libres, descartando así malignidad.
+En Octubre 2014, tras un intervalo de 3 meses consultó por aparición de dolor en la zona de resección y se realizaron las siguientes exploraciones:
+-RMN rodilla derecha: tumoración sólida de 29x29 mm en hueco poplíteo derecho con infiltración vascular, sugestivo de recidiva local.
+-TC de extension: nodulo pulmunar en lobulo superior izquierdo sugestivo de metastasis.
+Completandose el estudio con la biopsia de la lesion en región poplitea con celularidad compatible con sarcoma de alto grado, y se decidió entonces intervención mediante amputación supracondiela de miembro inferior derecho.
+En octubre 2014 el paciente consulta en nuestro centro. Tras una revisión de la biopsia en nuestro centro se confirma el diagnóstico histológico. Se solicita entonces un estudio de extensión que demuestra aparición de múltiples nodulos pumonares bilaterales con presencia de hipercaptación en el PET-TAC. Ante un paciente diagnosticado de SRT complicada con osteosarcoma resecado y posterior evidencia de un sarcoma pleomorfo indiferenciado de alto grado en estadio IV (metástasis pulmonares) se propone inicio de tratamiento quimioterápico paliativo.
+
+Exploración física
+Performance status(PS) 1, buen estado general, sin hallazgos destacables en la exploración por aparatos.
+Dolor en area de amputación a nivel de poplíteo derecho que controla con analgesia de primer escalón a demanda. Area de amputación con puntos de sutura sin signos de sobreinfección.
+
+Pruebas complementarias
+- Anatomía patológica de la amputación a nivel supracondileo de la lesión poplitea derecha (Octubre 2014): tejido fibromuscular con proliferación celular atípica, con extenso pleomorfísmo celular, con hábito sarcomatoide, que infiltra areas vasculares, con estudio inmunohistoquímico con vimentina, AML y desmina positiva. Ki67:50% Diagnóstico: Sarcoma pleomorfo indiferenciado de alto grado. Visión macroscópica neoformación típica sarcomatoide de partes blandas respetando capas oseas.
+
+- TAC craneal (Diciembre 2015): Masa de 38x33mm parietoocccipital izquierda. Nódulo satelites y múltiples lesiones en ambos hemisferios cerebelosos.
+
+Diagnóstico
+1. Sarcoma pleomorfo de alto grado avanzado
+» 1.1. Metastasis pulmonares
+2. Osteosarcoma bajo grado intervenido
+3. Sindrome de Rothmund-Thomson
+» 3.3. Portador mutación RECQL4 y MTHFR
+
+Tratamiento
+Se inició tratamiento de 1a linea con Adriamicina ( 75 mg/m2) + Ifosfamida (1.2 g/m2) x 5 dias en ciclos de 21 dias durante 6 ciclos, con buena tolerancia y sin toxicidades severas. La mejor respuesta obtenida fue enfermedad estable. En junio 2015 permanecía asintomático clinicamente y con estudios analíticos normales. Tras un intervalo de 8 meses se objetivó en TAC de seguimiento progresión de enfermedad pulmonar y aparición de nuevas lesiones hepáticas.
+Se decide entonces tratamiento de 2a linea con Pazopanib 800mg al dia durante 6 meses. Como toxicidades asociadas a esta terapia el paciente presento una marcada hipopigmentacion capilar. La mejor respuesta obtenida fue de respuesta parcial.
+Tras 6 meses de tratamiento con Pazopanib el paciente consulta por crisis comiciales parciales. Se realiza entonces un TAC craneal detectándose aparición de varias lesiones a nivel cerebral de hasta 3 cms de diametro. El TAC toraco-abdominal confirma además progresión hepática, pulmonar y osea.
+Se decide entonces administración de radioterapia holocraneal paliativa debido a que las lesiones cerebrales eran sintomáticas pues además de las crisis comiciales el paciente refería cefalea y mareos.
+Además se propuso en enero 2016, cuando mantenia buen estado clínico (PS1) tratamiento de 3a linea con Trabectidina, sin embargo sólo recibe un ciclo suspendiéndose tratamiento ante rápido deterioro clínico.
+Finalmente en marzo 2016 fue exitus con buen control de síntomas por insuficiencia respiratoria en relación de progresión de enfermedad a nivel pulmonar.
+
+Evolución
+Paciente 23 años con diagnostico de sarcoma de alto grado en progresión a nivel pulmonar, hepático, oseo y cerebral con evolución tórpida a tres lineas de tratamientos que presentó disnea refractaria a tratamientos e insuficiencia respiratoria parcial secundaria a la extensa progresión pulmonar.
+Finalmente en marzo 2016 fue exitus con buen control de síntomas.

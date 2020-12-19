@@ -1,0 +1,27 @@
+Anamnesis
+Se trata de una paciente mujer de 52 años que presenta un bultoma parotídeo izquierdo de varias semanas de evolución. Niega tos, expectoración o disnea. Niega fiebre o sensación distérmica. Entre sus antecedentes personales más importantes destacan el hábito tabáquico y cesárea y amigdalectomías previas.
+
+La paciente es remitida al Servicio de Otorrinolaringología para valoración de tratamiento, con sospecha de flemón parotídeo. Se le administra tratamiento antibiótico pero, ante la ausencia de mejoría del cuadro clínico, se decide realizar punción del bultoma, sin aparecer en la aspiración de contenido purulento. Se solicita resonancia magnética cervical y tomografía computarizada, que confirma los hallazgos a la exploración física. La anatomía patológica de la masa, obtenida por aspiración, revela carcinoma epidermoide intraparotídeo izquierdo. Se remite, pues, al Servicio de Cirugía Maxilofacial, realizándose paratiroidectomía radical, disección cervical funcional izquierda y reconstrucción con colgajo microvascularizado ALT izquierdo.
+
+Se confirma, pues, el diagnóstico de carcinoma epidermoide parotídeo pT4 N2 (18+/31) Mx intervenido.
+
+Exploración física
+La paciente presenta un performance status de 0. Se encuentra hemodinámicamente estable y con saturación de oxígeno basal del 96%. Está orientada en las tres esferas, normocoloreada, normoperfundida y normohidratada. A la exploración física de la cabeza y el cuello, se objetiva bultoma no pétreo, duro, doloroso a la palpación y de diámetro aproximado de 3 cm, en la región parotídea izquierda. En la cadena ganglionar laterocervical izquierda destacan dos adenopatías centimétricas, no pétreas ni dolorosas. La auscultación cardiopulmonar no revela alteraciones destacables. La exploración del abdomen y las extremidades es anodina.
+
+
+Pruebas complementarias
+» La analítica sanguínea no revela alteraciones importantes.
+» Se solicita estudio de extensión postquirúrgico con tomografía computerizada, donse se objetiva derrame pleural con atelectasia secundaria, infiltrado alveolointersticial en el lóbulo medio e inferior derecho, así como adenopatías de tamaño patológico en la ventana aortopulmonar y prevascualar.
+» Se solicita fibrobroncoscopia, sin obejtivarse malignidad endobronquial y con histología de broncoaspirado y toracocentesis negativas para malignidad.
+» Se solicita tomografía por emisión de positrones, que informa de adenopatías laterocervicales izquierdas, mediastínicas, axilares, derrame y engrosamiento pleural bilateral leve de comportamiento hipermetabólico compatible con etiología neoplásica metastásica.
+» Ante la ausencia de concordancia descrita en la literatura científica entre la historia natural del carcinoma epidermoide parotídeo y los hallazgos de imagen en el estudio de extensión en nuestro caso clínico, se decide contactar con el Servicio de Anatomía Patológica para revisar la histología tumoral. La pieza quirúrgica se reinforma como carcinoma epidermoide cutáneo que infiltra la parótida y los ganglios cervicales.
+
+Diagnóstico
+El diagnóstico definitivo es un carcinoma epidermoide cutáneo estadio IV (metástasis adenopáticas, pleurales, parotídea).
+
+Tratamiento
+Dada la situación de la paciente, el diagnóstico histopatológico y la enfermedad extendida, se decide iniciar tratamiento según esquema basado en cisplatino a 100 mg/m2 día 1, 5-FU 1.000 mg/m2 días 1-4 en IC, así como cetuximab 400 mg/m2 día 1 y después semanales a dosis de 250 mg/m2.
+
+Evolución
+La tomografía computarizada de reevaluación tras finalizar un total de seis ciclos del tratamiento propuesto revela respuesta completa radiológica.
+Actualmente, la paciente se encuentra recibiendo cetuximab de mantenimiento. Ha presentado con anterioridad episodios de rash grado 2-3, aunque en la actualidad se mantiene con buena tolerancia.

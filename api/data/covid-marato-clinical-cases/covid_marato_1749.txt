@@ -1,0 +1,24 @@
+Anamnesis
+Paciente mujer, de 36 años, que no presenta antecedentes médicos de interés, sin hábitos tóxicos. Refiere una clínica que inicia en mayo de 2013, de 3 semanas de evolución, consistente en vómitos, vértigo, pérdida de audición y pérdida de sensibilidad en la hemicara izquierda, a lo que se suma incapacidad para la mirada conjugada vertical (síndrome de Parinaud).
+
+Examen físico
+Paciente consciente, orientada en tiempo, espacio y persona. Afebril, hemodinámica y respiratoriamente estable.
+Lenguaje bien articulado sin elementos disfásicos. Sin déficit neurológico. Exploración cardiorrespiratoria y abdominal normal.
+
+Pruebas complementarias
+- Se realiza una TC urgente en el Hospital comarcal, que se informa como tumoración sólida de la región pineal.
+- Se decide su traslado a nuestro centro, donde se realiza una resonancia magnética (RM) cerebral en junio, objetivándose hidrocefalia triventricular con una pequeña exudación transependimaria, causada por un tumor de la región pineal, con un tamaño de 3 cm en todos sus diámetros, de aspecto sólido, con pequeñas zonas quísticas en su vertiente lateral, izquierda e inferior, con pequeños niveles líquido-hemosiderina. Esta masa presenta un halo periférico muy hipointenso en la secuencia "eco-gradiente" en su parte más inferior, también por depósitos de hemosiderina. La lesión tiene una captación intensa del contraste.
+
+Diagnóstico
+Dos días después de la RM se realiza una ventriculostomía endoscópica para el alivio sintomático de la hidrocefalia y toma de biopsia, con resultado de tumor pineal tipo pleomórfico grado II-III.
+
+Tratamiento
+La descripción intraoperatoria es "masa tumoral fuertemente adherida a todos los planos con abundante aporte vascular. Tras extirpación completa bajo microscopio óptico se procede a cerrar". El resultado anatomopatológico de la muestra fue tumor pineal parenquimatoso de diferenciación intermedia grado II-III. Durante el postoperatorio presenta como complicación una fístula de LRC por la herida quirúrgica, que no cede a pesar de punciones lumbares evacuadoras, por lo que se interviene para cierre de la duramadre y colocación de duramadre sintética. Se realizó citología en LCR, que fue negativa.
+
+Evolución
+En la RM posquirúrgica cráneo-espinal se objetiva un pequeño resto tumoral de 8,4 mm de diámetro mayor, localizado en la vertiente superior y derecha en la región talámica. No se evidencian datos de diseminación subaracnoidea.
+Se decide iniciar tratamiento "en sándwich" (quimioterapia-radioterapia-quimioterapia), iniciando el mismo con 3 ciclos de cisplatino (25 mg/m2, días 1 al 4), etopósido (40 mg/m2, días 1 al 4) y ciclofosfamida (1.000 mg/m2, día 4), repetidos cada 4 semanas, con soporte de GCSF (biosimilar de filgastrim), presentando trombopenia grado 1 tras el primer ciclo.
+Como hecho incidental, presentó un cuadro convulsivo (crisis tónico-clónica) a la semana de iniciar el tratamiento, que cedió con levetiracepam 500 mg c/12 horas. Se administró posteriormente tratamiento radioterápico, recibiendo una serie sobre lecho quirúrgico y holoventricular hasta 36 Gy y un "boost" sobre lecho de 19,8 Gy (dosis total a punto ICRU 55,8 Gy) con dermitis leve como única complicación. Completó 2 ciclos más de cisplatino, etopósido, ciclofosfamida.
+En el estudio de RM previa al inicio de la radioterapia, se objetiva la desaparición de la captación visible en la RM posquirúrgica, con criterios de respuesta completa, sin datos que sugieran diseminación en el cordón medular.
+Se mantiene respuesta en la RM tras finalizar el tratamiento.
+Actualmente, la paciente está en programa de seguimiento.

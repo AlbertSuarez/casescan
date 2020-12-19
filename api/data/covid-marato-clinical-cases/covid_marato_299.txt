@@ -1,0 +1,27 @@
+Anamnesis
+Mujer de 60 años diagnosticada de enfermedad pulmonar obstructiva crónica y trastorno bipolar de años de evolución, en tratamiento con carbamazepina hasta la fecha, sin otros antecedentes personales de interés. Exfumadora desde hace 9 años. Dependiente leve para las actividades de la vida diaria según la escala de Barthel, vive con su marido. En tratamiento con formoterol-fluticasona, salbutamol a demanda e inhibidor de la bomba de protones, además de la carbamazepina.
+Historia oncológica:
+En seguimiento en consultas externas de Oncología desde marzo 2012 por carcinoma epidermoide de pulmón estadio IIIB diagnosticado en 2008, tratado con cisplatino-vinorelbina oral (CDDP-VNR) con intervalo libre de progresión de 8 años.
+En mayo de 2016, fue diagnosticada de una segunda neoplasia pulmonar metacrónica compatible con adenocarcinoma T4N3M1b, estadio IV, EGFR wild type y sin reordenamiento de ALK. Entre junio y noviembre de 2016, recibió tratamiento con quimioterapia carboplatino AUC5 + paclitaxel 200 mg/m² + bevacizumab 7,5 mg/kg por 6 ciclos con respuesta parcial radiológica mantenida tras sexto ciclo, iniciando bevacizumab de mantenimiento.
+Tras 3 ciclos, presentó progresión de enfermedad hepática, ganglionar y ósea, solicitando expresión de PD-L1 que resultó negativo (menor del 1 %), por lo que inició tratamiento con quimioterapia de 2ª línea con docetaxel-nintedanib en febrero 2017.
+Enfermedad actual:
+El día +14 del primer ciclo, presentó disnea y fiebre. En Urgencias se objetivó neumonía, iniciando tratamiento con meropenem y amikacina. A las 48 horas de su hospitalización, persistía la fiebre y la linfopenia (0,4 x109/l), iniciando cotrimoxazol y voriconazol y aislando finalmente virus respiratorio sincitial B en fibrobroncoscopia. Durante el ingreso, presentó de forma súbita clínica neurológica.
+
+Exploración física
+Presentaba un performance status 3, con roncus y sibilancias dispersas en la auscultación pulmonar. En cuanto a la exploración neurológica, mostraba ataxia, disartria, disfonía, asterixis/mioclonías, ptosis en ojo derecho y nistagmo horizontal, además de astenia intensa y somnolencia, que se intensificaba a lo largo del día.
+
+Pruebas complementarias
+Con diagnóstico diferencial inicial de enfermedad cerebro-vascular aguda versus progresión tumoral, se solicitó tomografía computarizada (TC) cerebral urgente y posterior resonancia cerebral: sin hallazgos patológicos relevantes.
+Fue valorada por Neurología y Psiquiatría dado el antecedente de trastorno bipolar, planteando como diagnóstico diferencial síndrome paraneoplásico tipo miastenia gravis versus intoxicación por carbamazepina por interacción con voriconazol. Para descartar síndrome paraneoplásico, se solicitó TC toracoabdominal en la que se objetivó mínimo patrón intersticial residual de neumonitis previa y enfermedad tumoral estable.
+Además, se solicitó electroencefalograma: éste fue anodino; electromiograma con resultado negativo para afectación de placa motora, así como anticuerpos antineuronales.
+Fueron solicitados niveles de carbamazepina en rango normal.
+
+Diagnóstico
+Alta sospecha de intoxicación por carbamazepina por interacción con voriconazol.
+
+Tratamiento
+Dado el rápido empeoramiento clínico, independientemente de los resultados, sin tener una causa confirmada, se decidió iniciar bromuro de piridostigmina (únicamente se administraron dos dosis) e iniciar la retirada progresiva de carbamazepina.
+
+Evolución
+Tras la instauración del tratamiento para la miastenia gravis y la retirada de carbamazepina desapareció rápidamente la clínica neurológica, sin quedar aclarada la causa del cuadro, aunque un hallazgo que fundamentaba el diagnóstico de intoxicación por carbamazepina fue una pancitopenia que se resolvió espontáneamente tras la suspensión del fármaco.
+Posteriormente y de cara al alta, como estabilizador del trastorno bipolar, se instauró tratamiento con quetiapina, suspendiendo definitivamente la carbamazepina, y quedando la paciente asintomática.

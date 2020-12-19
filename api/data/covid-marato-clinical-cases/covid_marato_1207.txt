@@ -1,0 +1,37 @@
+Anamnesis
+Mujer de 71 años sin alergias a fármacos conocidas y, como antecedentes personales de interés, un hipotiroidismo 2º a bocio tratado con yodo marcado, un episodio de TVP en MII en 2014 e implantación de marcapasos por BAV completo en 2015. En tratamiento actual con metformina 1.000 mg/24 h, enoxaparina 60 mg/12 h, glargina 10 UI/24 h, bromazepam 1,5 mg/8 h, levotiroxina 137 mcg/24 h, mirtazapina 30 mg/24 h y omeprazol 20 mg/24 h.
+En 1998 es diagnosticada de un carcinoma ductal infiltrante en mama izquierda con componente in situ grado III asociado. Fue intervenida en un centro privado mediante mastectomía + linfadenectomía axilar ipsilateral. Con diagnóstico de estadio IIIA con una IHQ de RRHH positivos y HER2 negativo con un Ki67 +60 % (luminal B).
+El estudio de extensión fue negativo. Recibe quimioterapia adyuvante con esquema FAC x 6 ciclos seguido de radioterapia complementaria (50 Gy) y hormonoterapia con tamoxifeno, que finaliza en 2003 tras 5 años de tratamiento.
+En noviembre de 2007, ante la elevación de marcadores tumorales, con estudio de extensión negativo, se decide iniciar tratamiento con anastrozol, objetivándose a los 3 meses descenso de CEA pero elevación de CA 15.3, por lo que en su centro privado inician tratamiento con capecitabina en monoterapia. En este punto, habiendo recibido sólo un ciclo de capecitabina, solicita valoración en nuestro centro en abril de 2008.
+En nuestras consultas, tras completar estudio con pruebas de imagen y nuevo panel de IHQ a partir de muestra del centro de procedencia, se decide suspender el tratamiento hasta ver progresión por imagen y realizar seguimiento estrecho.
+En enero de 2009 se objetiva progresión ósea en TC y RM, por lo que inicia tratamiento hormonal con fulvestrant y zoledronato (suspendiendo este último en diciembre de 2009). En abril de 2010 se objetiva nueva progresión ósea e inicia tratamiento sistémico con docetaxel + bevacizumab x 6 ciclos con enfermedad estable. Continúa exemestano de mantenimiento.
+En 2013 y ante nueva elevación de MT sin clara progresión en imagen inicia everolimus + exemestano, teniendo que suspenderlo en abril de 2014 (en situación de enfermedad estable) por toxicidad pulmonar; pero, ante deterioro clínico, reinicia en mayo de 2014 capecitabina que se mantiene hasta febrero de 2015 con reducción de dosis ante intolerancia.
+De abril de 2015 a junio/2017 realiza tratamiento con eribulina tras presentar nuevo empeoramiento clínico por progresión en forma de derrame pleural en TC con mejoría clínica y enfermedad estable. Tras la administración prolongada de tratamiento, se decide descanso terapéutico y seguimiento.
+En enero de 2018, ante nueva progresión ósea y bioquímica, se plantea inicio de tratamiento con fulvestrant + palbociclib.
+En marzo de 2018 acude a Urgencias por un cuadro de una semana de evolución consistente en astenia, palpitaciones y disnea de mínimos esfuerzos sin tos ni expectoración asociadas, sin dolor torácico, ni fiebre.
+
+Exploración física
+Durante la exploración destaca, TA 162/75 mm Hg, FC 94 lpm, SatO2 basal 90 %, eupneica, palidez cutánea, AC rítmica y AP con hipoventilación en bases, MMII no edemas. Resto anodino.
+
+Pruebas complementarias
+TC donde se descarta TEP y se objetiva un patrón en vidrio deslustrado bilateral de predominio perihiliar, cardiomegalia y derrame pleural bilateral con signos de HTP, siendo sugestivo de insuficiencia cardiaca.
+Ecocardiograma transtorácico con FEVI conservada y datos de HTP sin otros hallazgos relevantes. Analítica destaca Hb 11,5 g/dl, GV sin alteraciones relevantes y D-dímero de 2.330.
+
+Diagnóstico
+Carcinoma ductal infiltrante de mama. Estadio III (1998). Quimioterapia adyuvante (FAC x 6). Radioterapia complementaria. Recidiva bioquímica noviembre de 2007. 1ª línea: anastrozol Progresión MT. 2ª línea capecitabina (en otro centro).
+Revaluación HFA: no evidencia de enfermedad. Seguimiento. Progresión ósea (enero de 2009). Hormonoterapia de 2ª línea (fulvestrant + zoledronato). Progresión ósea (abril de 2010). Docetaxel + bevacizumab paliativo x 6 ciclos enfermedad estable. Hormonoterapia de mantenimiento con exemestano. Elevación progresiva de Mt sin clara progresión por imagen. Cambio a everolimus + exemestano suspendido por toxicidad (neumonitis). Quimioterapia paliativa (capecitabina).
+Empeoramiento clínico con derrame pleural izquierdo en TC. Tratamiento paliativo (eribulina). Enfermedad estable. Progresión ósea (enero de 2018). Tratamiento paliativo (palbociclib + fulvestrant).
+
+Diagnóstico del ingreso
+» Insuficiencia respiratoria hipocápnica. Descartado TEP.
+» Datos radiológicos de insuficiencia cardiaca congestiva descompensada, sin claro desencadenante.
+
+Tratamiento
+Inicia tratamiento con diuréticos a altas dosis además de broncodilatadores y oxigenoterapia.
+
+Evolución
+Ingresa en Oncología y, tras inicio de tratamiento, presenta buena evolución y mejoría clínica, siendo dada de alta con juicio clínico de primer episodio de ICC e insuficiencia respiratoria secundaria y manteniendo tratamiento oncológico con palbociclib + fulvestrant.
+En abril de 2018 acude de nuevo a Urgencias por empeoramiento de la disnea hasta hacerse de reposo, autoescucha de sibilancias, sin fiebre ni clínica infecciosa ni otro tipo de sintomatología acompañante. Presentaba una TA 168/67 mm Hg, FC 74 lpm, SatO2 basal 83 %. Se encontraba taquipneica, pálida y sudorosa, AC rítmica con AP con hipoventilación sin ruidos. En la analítica destaca GAB con pH 7,49, pO2 54, pCO2 28 y HCO3 20, D-dímero 2.914 y elevación de RFA. Tras tratamiento sintomático con broncodilatadores y oxigenoterapia, ingresa en Oncología. De nuevo se realiza una TC sin datos de TEP, pero hay empeoramiento del patrón en vidrio deslustrado perihiliar y aumento del derrame pleural persistiendo cardiomegalia a valorar nuevo episodio de ICC según contexto clínico.
+Ingresa en Oncología con tratamiento broncodilatador, oxigenoterapia, diuréticos a altas dosis y corticoterapia sistémica ante sospecha esta vez de componente inflamatorio en forma de neumonitis dada la ausencia en la exploración física de datos de ICC (sin edemas, ni aumento de PVC, ni crepitantes). Presenta mejoría clínica progresiva siendo dada de alta con OCD y tratamiento oncológico suspendido hasta valoración en consulta.
+En mayo de 2018 acude a revisión, continúa con mejoría clínica progresiva manteniendo adecuada saturación de oxígeno (SatO2 > 95 %), mantiene disnea con los esfuerzos moderados y continúa tratamiento con furosemida y corticoides orales. A pesar de ello, y aunque se objetiva desaparición del derrame pleural (por lo que cierto componente de ICC podría existir), en la TC de control persisten las opacidades parcheadas difusas sin cambios.
+Continuó seguimiento estrecho en consulta manteniendo palbociclib suspendido y corticoides en pauta muy lentamente descendente con muy lenta pero progresiva mejoría clínica. Finalmente, en la TC de control de agosto de 2018 se aprecia la desaparición de los infiltrados pulmonares, sin derrame pleural y con la enfermedad tumoral sin datos de progresión. Ante esta evolución, se sospecha que el cuadro presentado ha podido estar en relación con toxicidad farmacológica inducida por palbociclib +/- HTP, ya que la mejoría ha sido progresiva desde la suspensión del fármaco, por lo que se decide dejar suspendido y únicamente mantener fulvestrant. En la actualidad, se mantiene dicha actitud presentado la paciente buen estado general, sin nuevo empeoramiento respiratorio ni nueva necesidad de ingreso.

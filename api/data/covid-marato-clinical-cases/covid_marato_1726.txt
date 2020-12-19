@@ -1,0 +1,35 @@
+Anamnesis
+Tras canalización del reservorio central el 17/10/2017, la paciente ingresa en planta de Oncología. A las 12 horas posintervención, la paciente presenta un episodio de malestar general con sensación de hipotermia extrema acompañado de marcada astenia, escalofríos y sudoración fría profusa.
+
+Exploración física
+Temperatura: 33 ºC, presión arterial: indetectable con esfigmomanómetro manual y eléctrico, saturación de O2 basal: indetectable con pulsioxímetro. Glucemia capilar: 26 mg/dl.
+ECOG 3, consciente orientada y colaboradora, eupneica en reposo. No focalidad neurológica. Auscultación cardiorrespiratoria normal y exploración abdominal anodina. Extremidades inferiores sin edemas ni signos de trombosis venosa profunda. Destacaba a la exploración marcada hipotermia, sobre todo en regiones acras.
+Ante este cuadro clínico, nos planteamos los siguientes diagnósticos diferenciales:
+» Reacción de hipersensibilidad al látex (paciente alérgica al mismo)
+» Sepsis poscanalización de port a cath.
+» Insuficiencia suprarrenal primaria o secundaria de etiología incierta.
+
+Pruebas complementarias
+Con el fin de filiar mejor el cuadro clínico y pautar el tratamiento más específico, se decide extraer analítica de sangre urgente, hemocultivos y muestra sanguínea para determinar perfil tiroideo y función suprarrenal.
+Resultado de las pruebas complementarias:
+» Analítica de sangre urgente (19/10/2017): hemoglobina 8,2 g/dl, plaquetas y serie blanca en rango normal. Glucosa 26 mg/dl, iones normales. PCR: 8,2.
+» Perfil tiroideo (23/10/2017): TSH 0,29 uUI/ml, T4L 5 pmol/l T3L 0,87pmol/l.
+» Hemocultivos (21/10/2017): negativos
+Ante estos resultados se sospecha cuadro de hipotiroidismo secundario, por lo que se solicita RM craneal con contraste:
+» RM cerebral con contraste (25/10/2017): glándula hipofisaria con alteración de su intensidad en secuencia T1, siendo hiperintensa la adenohipófisis, en relación hemorragia hipofisaria. Realce tras administración de gadolinio con captación significativa a nivel del tallo hipofisario. También se observa realce paquimeníngea difuso. Estos hallazgos plantean como primera posibilidad infiltración meníngea y de tallo hipofisario por su enfermedad de base, con hemorragia hipofisaria secundaria.
+Con estos hallazgos se decide contactar con Endocrinología para ajuste de tratamiento y completar el diagnostico:
+» Analítica de sangre con perfil hipofisario (25/10/2017): TSH 0,27 uUI/ml, T4 5,2 pmol/l, T3 1,50 pmol/l, Ac antiperoxidasa negativo, Ac antirreceptor de TSH normal, FSH 0,80 mUI/ml, LH 0,14 mUI/ml, prolactina 1,30 ng/ml, ACTH (muestra mal conservada), cortisol < 0,50 (debido a que fue extraída tras la pauta de dexametasona) GH 0,15 ng/ml, IGF-1 < 35ng/ml.
+
+Diagnóstico
+Hipopituitarismo secundario a hemorragia hipofisaria por carcinomatosis meníngea.
+
+Tratamiento
+Hidroaltesona 20 mg cada 8 horas, levotiroxina 50 mcg cada 24 horas y RT holocraneal.
+
+Evolución
+Ante los distintos diagnósticos diferenciales planteados y la gravedad asociada a los mismos, se decidió actuar de forma inmediata combinando medidas físicas para recuperar la temperatura corporal de la paciente (utilizando una manta antitérmica y un calentador de aire bajo las sábanas) asociadas a un tratamiento intravenoso empírico con 500 cc de suero glucosado, dexametasona 4 mg, y antibioterapia de amplio espectro asociando piperacilina-tazobactam 4 g/0,5g/8 horas a vancomicina 500 mg/6 horas.
+El cuadro mejoró considerablemente tras el inicio del tratamiento, recuperándose la temperatura corporal (Tª 36,6 ºC), incluso en las zonas más distales, las cifras de tensión arterial (110/75 mm Hg), de glucemia capilar (91 mg/dl) y desapareciendo la sensación subjetiva de hipotermia y astenia de la paciente.
+La ausencia de reacción urticariforme (característica de reacción de hipersensibilidad aguda) y la PCR en rango normal nos hizo descartar la reacción de hipersensibilidad al látex o una sepsis poscanalización de la vía central como etiología del cuadro.
+Se comenta el caso con Endocrinología, quienes, de acuerdo con nuestro juicio clínico, recomiendan asociar hidroaltesona 20 mg cada 8 horas y levotiroxina 50 mcg cada 24 horas al tratamiento prescrito. Por otra parte, Oncología con radioterapia revisa las imágenes de la RM cerebral y realizan la TC de simulación durante el ingreso para planificar la radioterapia holocraneal con fines paliativos.
+Dada la evolución favorable de la paciente durante los 7 días de ingreso, se decidió el alta hospitalaria continuando su tratamiento médico en domicilio, recibiendo el tratamiento de radioterapia de forma ambulatoria y con citas programadas en consultas externas de Oncología Médica y Endocrinología.
+Actualmente, la paciente ha recibido 7 ciclos de QT (esquema Nab-Paclitaxel semanal [153 mg]) (D1, D8 y D15 cada 28 días) y mantiene tratamiento sustitutivo con levotiroxina + hidroaltesona. Tiene un ECOG 0 y hace vida normal, incluso ha viajado a su país de origen a visitar a sus familiares sin presentar clínica neurológica ni de deprivación hormonal en ningún momento.

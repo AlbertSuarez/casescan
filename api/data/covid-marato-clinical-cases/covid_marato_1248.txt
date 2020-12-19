@@ -1,0 +1,21 @@
+Anamnesis
+Mujer de 70 años, con antecedentes de depresión, hipertensión y apendicectomía. Actualmente en tratamiento con venlafaxina, losartán/hidroclorotiazida y manidipino. Entre antecedentes oncológicos familiares, padre fallecido por neoplasia de colon.
+Fue intervenida en 1989 por melanoma coroideo, mediante enucleación. En julio de 2011, presentó recidiva hepática metastásica, realizándose resección de la metástasis de 4 cm, con confirmación anatomopatológica de infiltración masiva de los márgenes. Recibió posteriormente 8 ciclos de dacarbazina a dosis de 850 mg/m2 cada 21 días con buena tolerancia, finalizándolo en marzo de 2012.
+Continuó en revisiones periódicas en nuestro Servicio, sin evidencia de progresión tumoral hasta diciembre de 2015, cuando se objetivó en tomografía computarizada (TC) lesión ocupante de espacio (LOE) hepática de 2.2 cm en segmento II, que había aumentado de tamaño, y otra LOE de nueva aparición en segmento VIII, de 1,2 cm, compatibles con metástasis.
+
+Exploración física
+» La paciente presentaba un buen estado general, ECOG 0.
+» Sin hallazgos relevantes en la exploración.
+
+Pruebas complementarias
+Se solicitó estudio de BRAF, con resultado de no mutado.
+
+Diagnóstico
+Progresión tumoral de melanoma uveal.
+
+Tratamiento
+Ante esta situación, paciente con buen estado general, ECOG-0, diagnosticada de melanoma avanzado con afectación hepática, BRAF wild type, se decidió ofrecer tratamiento con inmunoterapia. No se planteó de nuevo tratamiento quirúrgico porque ya se había intentado previamente quedando residuo tumoral. Teniendo en cuenta que los resultados de eficacia, tanto en cuanto a respuestas como en cuanto a supervivencia, son superiores con un anticuerpo anti-PD-1 que con un anti-CTLA-4, se solicitó el uso de nivolumab, aprobado por la Agencia Europea del Medicamento (EMA) en esta indicación, a dosis de 3 mg/kg cada 2 semanas intravenoso.
+
+Evolución
+La paciente comenzó tratamiento con nivolumab en enero de 2016, con primera TC de reevaluación a los 4 ciclos, donde se objetivó estabilización de la enfermedad. Actualmente, continúa con la enfermedad estabilizada, con la última reevaluación en abril de 2017 y habiendo recibido un total de 39 ciclos, el último el 22 de junio de 2017.
+Como toxicidad secundaria al tratamiento, ha presentado un episodio de herpes simple tras el segundo ciclo y un episodio de diarrea grado 2 después del tercer ciclo que requirió ingreso hospitalario. El vigésimo tercer ciclo se retrasó hasta la resolución con tratamiento tópico con fluticasona de rash torácico en la pared torácica anterior. En repetidas visitas, la paciente ha manifestado astenia grado 1. El perfil de hormonas tiroideas, y tanto la amilasa como la lipasa, han permanecido en valores dentro de la normalidad a lo largo del tratamiento.

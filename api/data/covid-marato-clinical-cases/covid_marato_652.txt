@@ -1,0 +1,33 @@
+Anamnesis
+Antecedentes familiares: tío materno fallecido por cáncer de próstata con más de 70 años y otro por neoplasia faríngea. Tío paterno fallecido por cáncer de pulmón.
+Antecedentes personales: sin alergias medicamentosas conocidas. Exfumador desde hace 20 años (20 paquetes-año). Diabetes mellitus tipo II desde 2004, insulinodependiente desde hace 3 años.
+Hipercolesterolemia. Trabajador de una bodega. Niega consumo de tóxicos. Tratamiento habitual: simvastatina 20 mg, omeprazol 20 mg, naproxeno si tiene dolor, cinitaprida 10 mg antes de las comidas.
+Su historia oncológica comienza el 03/12/16, cuando el paciente acudió a Urgencias por fiebre de hasta 38,5ºC, pérdida de ponderal cuantificada en 7 kg en el último mes, disfagia a sólidos y a líquidos, con sensación de plenitud gástrica precoz, astenia intensa y dolor abdominal hipogástrico.
+Se realizó ecografía y TC abdominal urgente con contraste objetivando tumoración centro-abdominal de 17,2 x 7,7 x 7,5 cm, con importante componente hidroaéreo, engrosamiento mural marcado e irregular, contactando con asas de intestino delgado, probablemente en relación a GIST complicado. Se decidió realización de laparotomía exploradora urgente por sospecha de perforación intestinal, que objetiva cloaca centro abdominal, realizándose resección de tumoral con varias asas intestinales, y anastomosis laterolateral mecánica. Cirugía subóptima por bordes afectos.
+El informe anatomopatológico objetivó hallazgos compatibles con fibromatosis mesentérica de tipo desmoide, con estudio inmunohistoquímico positivo para actina de músculo liso y beta-catenina; y negativo para desmina, CD34, S100, CD117(C-KIT) y DOG1.
+Valorado por primera vez en consultas de Oncología Médica el 16/01/2017, se decidió seguimiento estrecho con control radiológico en 4 meses, así como colonoscopia por la asociación conocida de los tumores desmoides y la poliposis adenomatosa familiar (PAF).
+Un mes después de la intervención, acudió a Urgencias por dolor en fosa renal derecha con irradiación, realizándose TC abdominal que mostró ureterohidronefrosis derecha moderada y múltiples implantes peritoneales, compatibles con recidiva tumoral. Se desestimó nueva intervención por parte de Urología y Cirugía, por lo que ingresó en Oncología para completar estudio y se procedió a la colocación de nefrostomía percutánea derecha sin complicaciones.
+Previa al alta, se realizó colonoscopia descartándose PAF. Ante la discordancia clínico-patológica (necrosis tumoral, implantes peritoneales, evolución clínica, etc.) se solicitó una nueva revisión histológica en centro de referencia de tumores de partes blandas, emitiéndose un diagnóstico de linfoma B difuso de células grandes, inmunofenotipo germinal con inmunoexpresión positiva para BCL-6 y negativos para MUM-1, CD5, CD10, cMYC y EBER con un índice proliferativo (Ki67) del 80 %. Por consiguiente, el paciente continuó su evolución a cargo del Servicio de Hematología.
+Tras aparición de fiebre junto a ataxia, alteraciones del sensorio y síndrome emético, se realizó RMN cerebral que descartó afectación a este nivel. Se decidió realización de punción lumbar, detectándose antígeno Cryptococcus (+); iniciándose anfotericina liposomal y fludrocortisona (fecha de inicio del tratamiento: 17/03/17). A las 48 horas, se informó de serología para VIH (+) con viremia de 684.000c/ml y recuento de LCD4 en 38/ul.
+El paciente presentó evolución favorable, siendo el cultivo de control (-) y tras completar ciclo, se realizó desescalada a fluconazol oral. Tras cuatro semanas de tratamiento antifúngico, se inició tratamiento antirretroviral con raltegravir + FTC + TDF con buena tolerancia.
+Se completó estudio con PET que informó de extensa afectación a nivel abdominal y pulmonar, biopsia ósea (sin infiltración) y ecocardiograma con fracción de eyección conservada. En situación estable, se inició ciclo R-CHOP con buena tolerancia y respuesta.
+
+Exploración física
+ECOG 2. Boca seca sin aftas. Marcada caquexia. A nivel abdominal, destacó empastamiento en hemiabdomen derecho, así como dudoso en flanco izquierdo con dolor a la palpación de epigastrio e hipocondrio derecho. El resto, anodino.
+
+Pruebas complementarias
+» TC con contraste I.V. de abdomen (13/02/2017): progresión de la enfermedad con múltiples masas intraperitoneales compatibles con implantes metastásicos. Uno de ellos obstruye al uréter derecho y otro infiltra a un asa de delegado en la fosa iliaca izquierda.
+» LCR (17/03/17): 30 leucocitos (10 % PMN, 30 % MN), 0 hematíes, 97 glucosa, 125 proteínas, 22,3 ADA. Abundantes linfocitos. IF: sólo 4 % linfocitos B monoclonales, resto linfocitos T. Se detecta antígeno Cryptococcus.
+» Serologías (20/03/17): VIH (+), VHB y VHC (-), CMV IgG(+), VEB(-), VHS IgG(+),Sífilis (-), toxoplasma IgG(+). B2- microglobulina (21/04/17): 4,52, LDH: 473.
+» PET (24/04/17): informa de extensa afectación supra e infradiafragmática con predominio de grandes masas a nivel abdominal, así como pulmonar y sin hallazgos en el resto.
+
+Diagnóstico
+» Linfoma difuso de células grandes B (LCGB) tipo centrogerminal.
+» Infección por VIH categoría C3 (sida).
+» Meningitis criptocócica.
+
+Tratamiento
+Tras presentar el caso en sesión multidisciplinar, se decidió inicio de tratamiento con anfotericina liposomal y fludrocortisona, pasando a fluconazol vía oral. Pasadas 4 semanas, se instauró tratamiento antirretroviral con raltegravir + FTC + TDF y, por último, se inició quimioterapia sistémica según esquema R-CHOP.
+
+Evolución
+Paciente con los antecedentes descritos previamente, estable en el momento actual, en seguimiento por la Unidad de Hematología en Consultas Externas. Buena respuesta y tolerancia tras tercer ciclo de R-CHOP.

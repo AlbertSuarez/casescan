@@ -1,0 +1,36 @@
+Anamnesis
+Acudió a consulta de revisión de Oncología Médica en contexto de tumor de mama bilateral metacrónico estadio IV, por enfermedad metastásica ósea, a tratamiento con hormonoterapia. Relataba cefalea progresiva y, en la anamnesis dirigida, confirmaba tener polidipsia y poliuria con nicturia (apetencia por bebidas frías y con gas), cuadro de astenia intensa, náuseas, vómitos y malestar abdominal.
+
+Exploración física
+ Adenopatías y mamas: no se palpan adenopatías locorregionales. Lechos de mastectomía sin datos de recidiva locorregional. Cicatrices sin datos de recidiva ni lesiones sospechosas.
+ Auscultación cardiaca: rítmica, sin soplos.
+ Auscultación pulmonar: ruidos respiratorios conservados.
+ Exploración abdominal: ruidos hidroaéreos conservados. Blando, sin dolor en la palpación profunda. Murphy y Blumberg negativos. No hay datos de peritonismo. Puño percusión renal bilateral negativa.
+ Miembros inferiores: pulsos pedios presentes y simétricos. Sin edemas ni datos de TVP.
+ Exploración neurológica: pupilas isocóricas, normorreactivas. Alteraciones del campo visual con reducción del campo nasal izquierdo. Leve proptosis unilateral. Resto de pares craneales simétricos y conservados. Fuerza y sensibilidad conservadas y simétricas. Reflejo cutáneo plantas bilateral flexor. No hay datos de focalidad neurológica.
+
+Pruebas complementarias
+Se completó el estudio con las siguientes pruebas complementarias:
+ Analítica sanguínea completa en la que cabe destacar: T4 libre 0,60, TSH 0,455, cortisol basal de < 1,00 μg/100 ml.
+ TC cerebral: sin alteraciones significativas.
+ RM cerebral: lesión a nivel hipofisario que obligó a completar el estudio con RM hipofisaria.
+ RM hipofisaria: numerosos nódulos en la musculatura extraocular, engrosamientos a nivel de la duramadre y lesión a nivel hipofisario con sospecha de engrosamiento a nivel del tallo hipofisario.
+ Todos estos hallazgos son sugestivos de enfermedad metastásica.
+ TC toracoabdominopélvica y GGO que no describieron lesiones óseas de nueva aparición. Se descartó enfermedad a otros niveles.
+ Biopsia de médula ósea: estudio anatomopatológico compatible con infiltración por carcinoma ductal infiltrante de mama con receptores hormonales positivos.
+
+Diagnóstico
+Carcinoma ductal infiltrante de mama bilateral, metacrónico, estadio IV por múltiple enfermedad metastásica a nivel óseo, hipofisario, musculatura orbitaria, duramadre y en médula ósea.
+
+Tratamiento
+En contexto de carcinoma ductal infiltrante de mama izquierda, receptores hormonales positivos, Ki67 10 % y HER-2 negativo, estadio cT3 cN1 M1 (por enfermedad oligometastásica a nivel óseo) diagnosticado en octubre 2010.
+Se decidió administración de ácido zoledrónico y quimioterapia basada en antraciclinas, completando 4 ciclos, y seguidamente docetaxel completando 4 ciclos, obteniéndose respuesta radiológica parcial. En junio 2011, se decidió realizar mastectomía izquierda y linfadenectomía con radioterapia complementaria (60 Gy) y hormonoterapia, basada en tamoxifeno.
+En la consulta de control de enero 2012, se detectó un nódulo en la mama contralateral por lo que se realizó biopsia compatible con carcinoma ductal infiltrante de mama derecha con receptores hormonales positivos, Ki 67 12 % y HER-2 negativo. Se decidió realizar mastectomía derecha y biopsia selectiva de ganglio centinela, estadio pT2 pN0.
+Presentó cuadro álgico a nivel lumbo-sacro con gammagrafía ósea con lesiones compatibles con progresión, por lo que recibió radioterapia local antiálgica sobre región dorsal baja, sacro y pala iliaca derecha.
+Presentó progresión ósea evidente en diciembre de 2012, por lo que se cambió de hormonoterapia, de tamoxifeno a letrozol.
+Desde octubre 2013, inició cuadro de cefalea, diabetes insípida, hipotiroidismo e insuficiencia suprarrenal secundaria, por lo que se inició tratamiento sustitutivo con desmopresina, hormona tiroidea e hidroaltesona con buen control clínico y analítico. Recibió radioterapia holocraneal, incluyendo la base de cráneo y la zona posterior de las órbitas con dosis total alcanzada de 30 Gy.
+Tras la radioterapia presentó pancitopenia aguda grado 3-4 compatible con posible infiltración de médula ósea, por lo que se realizó biopsia compatible con infiltración por carcinoma ductal infiltrante de mama con receptores hormonales positivos.
+Se inició quimioterapia con esquema paclitaxel semanal al 80 % con buena tolerancia clínica y analítica.
+
+Evolución
+En el primer control presentó respuesta casi completa a nivel cerebral, hipofisario y en musculatura extraocular. Pero antes del segundo control, presentó progresión clínica con disnea y clínica neurológica progresiva por lo que se realizó TC que mostró progresión a nivel óseo y cerebral, siendo exitus letalis en noviembre 2014.

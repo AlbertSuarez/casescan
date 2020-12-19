@@ -1,0 +1,37 @@
+ANAMNESIS
+Paciente mujer de 67 años, sin alergias medicamentosas conocidas, ni hábitos tóxicos, sin factores de riesgo cardiovascular, ni intervenciones quirúrgicas de interés.
+No toma tratamiento habitual.
+
+Antecedentes familiares oncológicos: padre fallecido a los 67 años por cáncer de colon y madre fallecida a los 86 años por cáncer metastásico no filiado.
+
+Exploración física
+Consciente y orientada. Buen estado general. PS0.
+Lesión pigmentada de 8x3 mm en cara externa de 5º dedo del pie izquierdo.
+Auscultación cardiopulmonar: rítmica, sin soplos. Murmullo vesicular conservado sin ruidos sobreañadidos.
+Abdomen blando no doloroso. No se palpan adenopatías.
+
+Pruebas complementarias
+Véanse la Evolución.
+
+Diagnóstico
+Véanse la Evolución.
+
+Tratamiento
+Véanse la Evolución.
+
+Evolución
+En octubre 2014 la paciente acude a consulta de Dermatología por lesión pigmentada de 8x3mm de tamaño en 5º dedo del pie izquierdo, que se extirpa.
+Anatomía patológica de la lesión: Melanoma Maligno de extensión superficial de 0.8x0.3cm, no ulcerado, con un índice de Breslow de 1.5 mm y con un número de mitosis en mm2 de 1. El margen de resección profundo está afecto y no es valorable el nivel de Clark. No se realiza ganglio centinela. Se estadia en ese momento de T2aN0M0.
+Se comenta en comité de tumores y se decide dada la localización solicitar estudio de extensión con:
+- TC tórax-abdomen con contraste intravenoso: No se observan adenopatías mediastínicas ni axilares.
+Se evidencia una lesión nodular bien circunscrita en la aurícula izquierda en contacto con la vertiente superior de la pared que presenta alguna calcificación y es hipodensa, hallazgos en relación con trombo por lesión dependiente de pared, por lo que se recomienda RM cardíaca.
+- Ecografia de hueco popliteo y región inguinal izquierda: ausencia de adenopatías patológicas.
+- Analítica Sanguínea: hemograma y bioquímica sin alteraciones.
+
+Se comenta con el servicio de Cardiología y se realiza RM cardíaca: Masa intracavitaria dependiente de la pared superior de la aurícula izquierda, de morfología nodular y un diámetro máximo de 19 mm, con amplio anclaje a la pared aurícular, sin evidencia de movilidad significativa durante el ciclo cardíaco. Las características de intensidad de señal y el realce tras la administración de contraste plantean como primera posibilidad una lesión metastásica, sin poder descartarse otras etiologías menos probables (mixoma auricular). No se observan otras lesiones focales, ni derrame pericárdico.
+Se realiza la ampliación quirúrgica por margen profundo afecto con amputación del 5º dedo del pie izquierdo y tercios medio y distal de quinto metatarsiano del pie izquierdo, y en la muestra analizada por anatomía patológica se informa la misma como piel con fibrosis cicatricial sin existencia de restos tumorales.
+Posteriormente, se realiza Ecocardiograma transtorácico y transesofágico: Tamaño normal de cámaras cardiacas, sin alteraciones de la contractilidad segmentaria, con buena función sistólica biventricular. Válvulas morfologica y hemodinamnicamente normales. Ausencia de HTP. Masa de 19 x17 mm de morfologia redondeada con microdeposito de calcio y pequeñas areas de licuefacción, anclada a nivel de pared anterosuperior de auricula izquierda, sin comprometer desembocadura de venas pulmonares.
+Las características de la masa y el contexto de buena función ventricular sin razones de estasis sanguineo hacen poco probable que se trate de un trombo, de modo que habrá que descartar colonización miocardica de melanoma.
+Se completa estudio con PET-TAC. PET-TAC: No se objetivan signos metabólicos a nivel cardíaco ni en otras localizaciones sugestivos de viabilidad tumoral.
+Tras valoración por el Servicio de Cardiología, se decide independientemente de su origen, y al cumplir criterios para extirpar la masa auricular, remitirse al servicio de Cirugía Cardíaca donde se realiza la exéresis de la masa auricular izquierda en abril 2015. El informe de Anatomía Patológica de la Biopsia intraoperatoria es sugestiva de mixoma auricular y el resultado definitivo es de Tumor de estroma laxo mucoide.
+Sigue posteriormente controles por Dermatología, Oncología y Cardiología, permaneciendo libre de enfermedad tumoral y con síntomas leves secundarios a cirugía cardíaca mayor.

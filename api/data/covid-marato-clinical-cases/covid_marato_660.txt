@@ -1,0 +1,33 @@
+Anamnesis
+Mujer de 71 años, con los siguientes antecedentes personales de interés: exfumadora con un índice paquete acumulado de 30-40 paquetes/año, exbebedora de una copa de ginebra diaria, dislipemia, enfisema pulmonar, osteoporosis y artrosis lumbar y cervical, síndrome ansioso depresivo e hipotiroidismo secundario. Intervenida de quistes ováricos y varices.
+A raíz de sensación de masa abdominal que se vuelve dolorosa, consulta con su médico de familia que solicita ecografía abdominal, iniciando proceso diagnóstico.
+Ante los resultados ecográficos, se solicita una TC de abdomen donde se visualiza una masa sólida dependiente de mitad inferior del riñón derecho, de 6,5 x 6,3 x 5,7 cm. Con dichos hallazgos se decide intervención quirúrgica.
+En abril de 2016, es sometida a una nefrectomía laparoscópica simple derecha, con resultado anatomopatológico de carcinoma renal de tipo células claras.
+Inicia revisiones en el servicio de Urología, realizándose en junio de 2016 una PET donde se visualizan múltiples lesiones nodulares pulmonares infracentimétricas, así como adenopatías hipermetabólicas mediastínicas.
+En agosto de 2017 la paciente se traslada a otro centro para participar en un ensayo clínico, siendo aleatorizada al brazo de tratamiento estándar con sunitinib (50 mg durante 4 semanas y 2 semanas de descanso).
+La paciente precisó ingreso por toxicidad, en forma de hipertensión y mucositis grado 2, trombopenia e hiponatremia grado 3, suspendiéndose dicho fármaco y reiniciándose con reducción de dosis (37,5 mg/día). Debido a trombopenia grado IV se vuelve a realizar reducción de dosis de sunitinib (25mg/día).
+En diciembre de 2016, se produce progresión pulmonar de la enfermedad, por lo que la paciente sale del ensayo clínico y comienza tratamiento con nivolumab, recibiendo 5 ciclos con buena tolerancia.
+En febrero de 2017, se produce nueva progresión pulmonar significativa, con patrón en suelta de globo, por lo que se inicia tercera línea de tratamiento con axitinib (5 mg cada 12 horas). Desde el inicio del diagnóstico la paciente presenta hiponatremia mantenida que suplementa con 1 g de sal diarios según las indicaciones de nefrología.
+Mantiene axitinib con buena tolerancia, siendo reevaluada en mayo de 2017 donde se visualiza una respuesta parcial significativa.
+Precisó ingreso del 23 al 30 de junio de 2017 debido a diarrea grado 2-3 e hiponatremia sintomática con deterioro neurológico, suspendiéndose tratamiento con axitinib. Tras la rápida mejoría, quedando la paciente asintomática, se retoma axitinib sin ninguna incidencia.
+En julio de 2017, la paciente ingresa en UCI por crisis hipertensiva y crisis comicial tónico-clónico generalizada.
+
+Exploración física
+TA: 188/136 mm Hg. FC: 112 lpm. SatO2: 96 % basal.
+Inconsciente. ECOG 4. Rítmica, no soplos. Murmullo vesicular conservado con abundantes roncus bilaterales. Abdomen: blando, depresible, no doloroso durante la palpación, no hay masas ni megalias. No hay signos de irritación peritoneal. Blumberg negativo. Miembros inferiores: sin edemas ni signos de trombosis venosa profunda. Pulsos periféricos presentes. Exploración neurológica: ausencia de respuesta a estímulos. Desviación de la mirada conjugada a la izquierda.
+
+Pruebas complementarias
+RM con contraste IV de Cráneo: a nivel de la sustancia blanca subcortical y respetando la cortical, se aprecia aumento de señal en T2 y Flair sin traducción en las secuencias de difusión y sin realce de contraste. Se localizan principalmente en segmento posterior del lóbulo temporal izquierdo y ambos lóbulos parietales. Las otras alteraciones de señal se localizan en la corteza del lóbulo occipital derecho, donde se observa engrosamiento cortical con disminución de surcos, hiperintensidad en T2 y Flair con aumento de la señal en B1000 y caída de señal en mapa ADC.
+No presentan realce de contraste. Hallazgos compatibles con anoxia cortical focal. Las lesiones de la sustancia blanca pueden estar en relación con leucoencefalopatía posterior reversible secundaria a hipertensión arterial o tratamiento médico, y las lesiones corticales pueden ser causa/consecuencia del cuadro comicial. No se identifican lesiones nodulares ni realce patológico de contraste.
+
+Diagnóstico
+Leucoencefalopatía posterior reversible secundaria a hipertensión arterial farmacológica, en paciente con cáncer renal metastásico en curso de tercera línea con axitinib.
+
+Tratamiento
+Presentó una evolución favorable con tratamiento anticomicial (levetiracetam) con muy buena recuperación posterior, encontrándose posteriormente asintomática y realizando vida normal.
+
+Evolución
+Se interrumpe el tratamiento con axitinib y se inician revisiones con controles clínicos y analíticos estrechos.
+En noviembre de 2017, precisa ingreso por cuadro de mareos, náuseas, vómitos e hipotensión, siendo diagnosticada de insuficiencia suprarrenal precisando valoración por el servicio de endocrinología e inicio de tratamiento sustitutivo con hidrocortisona 20 mg.
+Dado el control de la enfermedad y el buen estado general de la paciente, con ajustes de tratamiento sustitutivo por parte del servicio de Endocrinología, continúa con el seguimiento, observándose respuesta completa en TC de reevaluación del 20/02/2018 en la que no se consiguen apreciar las lesiones nodulares descritas en los estudios previos.
+Actualmente, la paciente se encuentra con muy buen estado general, realizando vida normal. Continúa con tratamiento sustitutivo, mantiene ECOG 0 y respuesta completa de la enfermedad, siendo valorada por última vez el 08/02/2019.

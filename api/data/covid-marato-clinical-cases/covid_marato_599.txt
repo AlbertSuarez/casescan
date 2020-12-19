@@ -1,0 +1,30 @@
+Anamnesis
+Mujer de 53 años con antecedentes oncológicos de carcinoma ductal de mama izquierda hace 11 años (HERB-2 negativo, receptores hormonales positivos) tratada con tumorectomía y vaciamiento axilar ipsilateral y con posterior tratamiento adyuvante (quimioterapia, radioterapia y hormonoterapia).
+Presenta desde entonces linfedema crónico de extremidad superior izquierda como secuela al tratamiento.
+A principios de 2016, consulta en Dermatología por presentar unas lesiones tipo placas rojizas, no pruriginosas, indoloras, en brazo izquierdo sobre linfedema de un mes de evolución.
+
+Exploración física
+ECOG 1. Lesiones papulonodulares, eritematosas, infiltradas sobre linfedema crónico en extremidad superior izquierda. No se palpan adenopatías ni lesiones a otro nivel.
+
+Pruebas complementarias
+Se realiza estudio de extensión con TC cervicotoracoabdominal sin signos radiológicos de interés.
+A la vez, se realiza mamografía de la mama derecha sin apreciarse cambios mamográficos significativos, ni imágenes con sospecha de malignidad en el momento actual. Mama Bi-rads 2. Densidad mamográfica ACR-2.
+No se pudo realizar RNM de extremidad superior izquierda por claustrofobia.
+Se biopsia la lesión dónde se observa en dermis una neoformación de patrón sólido y angiomatosis. Las áreas angiomatosis se componen de una proliferación de espacios vasculares pequeños e irregulares, de endotelios prominentes. Tanto las células endoteliales, como las que constituyen las zonas sólidas, muestran evidentes atipias nucleares y un elevado índice Ki-67 (40-50 %). La epidermis no presenta lesiones relevantes. Presenta el siguiente inmunofenotipo: vimentina (+), CD45 (-), CKAE1/AE3 (+ débil focal); CD31 (+), factor VIII (+), D2-40 (+), CD34 (-), S-100 (-) y HHV8 (-).
+
+Diagnóstico
+Angiosarcoma pobremente diferenciado.
+
+Tratamiento
+Se le ofrece la posibilidad de amputación, que la paciente rechaza. Se programa para la realización de resección ampliada y reconstrucción con colgajo libre vascularizado de epigástrica inferior (DIEP), previa ecografía de partes blanda para delimitación de la lesión.
+La biopsia intraoperatoria demuestra bordes de resección superointerno y superoexterno más próximos a las lesiones, libres de neoplasia. Microscópicamente, la piel muestra de forma multifocal una proliferación neoplásica que infiltra dermis y tejido celular subcutáneo, constituida en zonas por canales vasculares revestidos por células atípicas, entremezcladas con otras más difusas y con predominio de células epitelioides, aunque también fusiforme. En la zona más inferior, se observa lesión inicial con proliferación fusocelular y canales vasculares que sólo infiltra dermis. Se observa abundante componente linfocitario. Mediante inmunohistoquímica las células expresan focalmente y débilmente CKAE1/AE3, y de forma intensa y difusa CD31 y factor VIII; más parcheada positividad para CD34 y D240. El resto de marcadores estudiados negativos (actina, CD45, HHV8). El índice proliferativo (ki67) es del 60-70 %. No se ha identificado necrosis. EL recuento mitótico es de 3 mitosis por CGA.
+Se remite a la paciente para valorar radioterapia (RT) adyuvante. La paciente presenta nueva lesión rojiza en antebrazo. Es valorada por Traumatología y Dermatología, realizándose una biopsia, que vuelve a ser positiva para angiosarcoma. Dada la claustrofobia de la paciente, se hace ecografía extremidad superior izquierda, donde se ven al menos 8 lesiones nodulares en antebrazo.
+Comentado en Comité de sarcomas, se decide pedir estudio de extensión de nuevo y derivar para iniciar tratamiento quimioterápico.
+En la TC cervicotoracoabdominopélvica de extensión se informa de estabilidad radiológica.
+Se inicia tratamiento con ifosfamida-adriamicina y dos ciclos de doxorrubicina posterior.
+
+Evolución
+Se realiza a los dos meses tras inicio de quimioterapia estudios de extensión con TC toracoabdominopélvica donde se visualiza un nódulo hipodenso de unos 18 mm en situación retrocrural derecha.
+Se realiza PET de control donde en las imágenes obtenidas se observa una imagen nodular hipermetabólica en el tejido subcutáneo de la pared abdominal de la fosa ilíaca izquierda (SUV máximo 3,3, de unos 12 mm en el eje transverso) correspondiente a implante tumoral. Se visualiza además aumento difuso del metabolismo en todas las estructuras óseas y también de forma difusa en el bazo (SUVmax 2,3). Respecto al pool hepático de referencia (SUVmax 1,8); sugestivo de origen reactivo por el tratamiento QT. En el miembro superior izquierdo, se visualizan varios focos hipermetabólicos cutáneos, fundamentalmente en la zona del antebrazo (SUV máximo 10,6) en relación con infiltración.
+Ante la progresión de enfermedad, se decide cambiar de línea de quimioterapia y empezar con gemcitabina-docetaxel.
+Actualmente, a la espera de nueva evaluación.

@@ -1,0 +1,61 @@
+Anamnesis
+Paciente de 48 años remitida a Oncología desde el Servicio de Radiodiagnóstico ante el diagnóstico de carcinoma de mama para valoración de tratamiento neadyuvante.
+
+ANTECEDENTES PERSONALES:
+- No alergias medicamentosas conocidas
+- No hábitos tóxicos
+- No hipertensión arterial, no diabetes mellitus, no dislipemia
+- No antecedentes quirúrgicos
+- No tratamiento farmacológico habitual
+- Antecedentes obstétrico-ginecológicos: Menarquia a los 14 años. Fecha de la última menstruación 10/12/12. Fórmula obstétrica: G4A2P2, edad del primer embarazo 20 años. Lactancia acumulada 6 meses. No toma de anticonceptivos orales
+* Hisotoria oncológica familiar: ninguna.
+
+HISTORIA ONCOLÓGICA:
+
+La paciente consultó en su médico de Atención Primaria por notar una lesión nodular en mama izquierda de 2 meses de evolución.
+Exploración física
+- Performance Status 0 según la Escala ECOG
+- Constantes vitales mantenidas dentro de la normalidad
+- En la exploración mamaria se observa simetría en ambas mamas, piel y complejo areola-pezón sin alteraciones; se palpa un nódulo en cuadrante supero-externo (CSE) de mama izquierda de 9 por 6 cm.
+No se palpan adenopatías axilares, supraclaviculares ni otros territorios ganglionares.
+- Auscultación cardiopulmonar: tonos cardiacos rítmicos sin soplos ni roces; murmullo vesicular conservado sin ruidos patológicos sobreañadidos, con adecuada entrada de aire bilateral en todos los campos pulmonares.
+- Abdomen anodino, no se palpan masas ni megalias
+- Miembros inferiores sin edemas ni signos de trombosis venosa profunda
+- Exploración neurológica normal
+
+Pruebas complementarias
+Ante los hallazgos exploratorios descritos y con la sospecha diagnóstica de neoplasia de mama se realizan las siguientes Exploraciones Complementarias:
+» Mamografía (12/12/12): se objetiva una agrupación de microcalcificaciones sospechosas en CSE de mama izquierda. Imágenes ganglionares axilares bilaterales no significativas.
+» Ecografía Mamaria (12/12/12): extensa afectación de todo el tejido glandular de CSE de mama izquierda, alcanzando unos diámetros de 58 por 28 mm. Se aprecian imágenes ganglionares axilares izquierdas de tamaño no significativo.
+» Biopsia con Aguja Gruesa (BAG), (12/12/12): compatible con Carcinoma lobulillar infiltrante de mama izquierda, Grado Histológico (GH) II. Inmunohistoquimia: Receptors de Estrógenos (RE) 100% Positivos (HScore 230/300, Allred 7/8), Receptores de Progesterona (RP) 80% Positivos (HScore 240/300, Allred 7/8), determinación de Her2 mediante FISH No amplificado. Ki67 21,6%.
+Ante el diagnóstico histopatológico de Carcinoma lobulillar infiltrante de mama izquierda se amplía estudio para valorar extensión de la enfermedad mediante:
+» Analítica sanguínea (27/12/12): Bioquímica y Hemograma Normales. Marcadores tumorales: CEA 2,6 ng/dl, CA 15.3 32 U/ml.
+» TAC torácico, abdominal y pélvico (27/12/12): sin evidencia de enfermedad a distancia.
+» Rastreo óseo (29/12/12): No se aprecian captaciones patológicas del radiotrazador.
+» Fracción de Eyección de Ventriculo Izquierdo (FeVi) (03/01/13): 67%, normal.
+
+Diagnóstico
+El Juicio Diagnóstico es de Carcinoma lobulillar infiltrante de mama izquierda, cT3 cN0 M0, Estadío IIB, GH II, Fenotipo luminal B.
+
+Tratamiento
+La paciente recibe tratamiento con intención neoadyuvante según esquema Taxol por 4 ciclos (con 3 infusiones de Taxol semanal 80 mg/m2 en ciclos de 21 días) seguido de FEC-100 por 4 ciclos (5-Flurouracilo 500 mg/m2 + Epirrubicina 100 mg/m2 + Ciclofosfamida 500 mg/m2 por ciclo de 21 días).
+Al finalizar el tratamiento con Taxol y previo al inicio de FEC-100 se realizó una ecografía mamaria de valoración de respuesta al tratamiento neadyuvante en la que se describe una disminución de la afectación glandular en CSE de mama izquierda con unos diámetros de 38 por 15 mm, midiendo previamente 58 por 28 mm, sin imágenes ganglionares axilares significativas.
+La paciente completa el tratamiento en las fechas comprendidas entre el 15/01/13 y 23/09/13, día en que recibe el último ciclo de FEC-100. Presentó adecuada tolerancia al tratamiento sin toxicidades significativas, salvo neurotoxicidad grado 1 relacionada con las infusiones de Taxol y neutropenia febril grado 4 de foco en infección respiratoria con el segundo ciclo de FEC-100 que obligó a retrasar el ciclo de tratamiento una semana, con resolución completa tras doble antibioterapia, y a administrar de forma profiláctica factor estimulante de colonias granulocíticas (G-CSF 300 mcg) durante 4 días en los ciclos restantes.
+El día 20/10/13 se interviene mediante cuadrantectomía más vaciamiento axilar, siendo el resultado anátomo-patológico de Carcinoma infiltrante mixto (lobulillar y sin tipo especial), ypmT2 ypN2 M0, GH II, Inmunohistoquimia: Receptors de Estrógenos (RE) 100% Positivos (HScore 230/300, Allred 7/8), Receptores de Progesterona (RP) 80% Positivos (HScore 240/300, Allred 7/8), determinación de Her2 mediante SISH No amplificado. Ki67 23%.Fenotipo luminal B.
+Ante bordes de resección quirúrgica afectos el día 05/11/13 se reinterviene quirúrgicamente mediante una mastectomía radical modificada; la anatomía ptológica informa de bordes de resección libres y ausencia de lesiones malignas en resto de tejido glandular mamario.
+Recibe tratamiento complementario con radioterapia e inicia Tamoxifeno 20 mg 1 comp via oral al día el 30/11/13, hasta completar 5 años de tratamiento.
+
+Evolución
+La paciente continúa controles trimestrales en consulta de Oncología, sin hallazgos clínicos ni radiológicos de recaída de enfermedad.
+Tras un intérvalo libre de enfermedad de 30 meses en analítica de control se evidencia elevación del marcador tumoral CA 15.3 de 103 U/ml. En la anamnesis dirigida por aparatos y sistemas la paciente refiere un dolor óseo de 1 mes de evocluión en cadera derecha, sin impotencia funcional, que controla parcialmente con antiinflamatorios no esteroideos y que cuantifica como 6/10 en la Escala Visual Analógica (Escala EVA).
+Se solicitan las siguientes exploraciones complementarias:
+- TAC torácico, abdominal y pélvico (22/04(16): cambios por mastectomía izquierda. Se identifican dos pequeñas áreas de consolidación en lóbulo pulmonar superior derecho en probable relación con patología infecciosa. No se observan adenopatías axilares, mediastínicas ni a nivel abdómino-pélvico.
+Se identifica en pala ilíaca derecha un área blástica y lítica que afecta a ambos márgenes destacando una erosión parcial de la cortical en el margen externo, siendo sugestiva de lesión metastásica. Sin otros hallazgos.
+- Rastreo ósea (27/04/16): captaciín intensa del radiotrazador en hueso ilíaco derecho en la proximidad a la articualción sacroilíaca, que no se apreciaba en exploraciones previas, en probable relación con metástasis.
+Se amplia estudio con PET-TAC para valorar si la lesión en pala ilíaca es única o existen otras lesiones:
+- PET-TAC (02/05/16): lesión ósea mixta en hueso ilíaco derecho, adyacente a la articulación sacroilíaca, con destrucción de la cortical interna y externa, asociando elevada actividad metabólica (SUVmáximo 5.9 g/mL). Se observan condensaciones pulmonares en lóbulo superio derecho con ligera actividad metabólica (SUV máximo 1,3 ng/mL) a correlacionar con la historia clínica y controlar evolutivamente.
+- Biopsia ósea (05/05/16): Metástasis por carcinoma compatible con origen mamario.
+Inmunohistoquimia: RE 90% Positivos (HScore 180/300, Allred 7/8), RP Negativos (HScore 0/300, Allred 0/8), determinación de Her2 mediante FISH Amplificado. Ki67 35%.
+- Fevi (18/05/16): 66%, normal.
+Ante una primera recaída de enfermedad a nivel óseo con Fenotipo Luminal B/Her2 Positivo, se suspende Tamoxifeno y se decide tratamiento de primera línea con esquema Taxol semanal (80 mg/m2 IV) más Pertuzumab (840 mg IV en dosis de carga el día +1 y 420 mg IV cada 21 días) y Trastuzumab (8 mg/kg IV el día +1 y 6 mg/kg IV cada 21 días) cada 21 días.
+La paciente inicia el primer ciclo el día 13/05/16, con adecuada tolerancia y sin toxicidades significativas. Tras el segundo ciclo, recibido el día 03/06/16, presenta desaparición completa del dolor referido en cadera derecha. Actualmente se encuentra pendiente de recibir el tercer ciclo de tratamiento el día 24/06/16 tras el cual se realizará un TAC de valoración de enfermedad, con la idea de realizar resección quirúrgica de la lesión ósea para alcanzar un estadío sin evidencia de enfermedad (estadío NED).

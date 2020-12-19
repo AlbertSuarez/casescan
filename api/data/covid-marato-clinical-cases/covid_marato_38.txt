@@ -1,0 +1,30 @@
+Anamnesis
+» Se trata de un paciente de 86 años intervenido en noviembre de 2016 de un adenocarcinoma de uraco estadio II, sin recibir tratamiento complementario.
+
+» Datos sociales: 83 años. Vive con su esposa y un hijo.
+
+» Enfermedades previas: hipertrofia prostática benigna. No tiene metabolopatías crónicas. Hipoacusia.
+
+» Medicación previa: omeprazol 20 mg si precisa, tamsulosina 0,4 mg.
+
+Exploración física
+Exploración física y analítica básica sin particularidades.
+
+Pruebas complementarias
+Los marcadores tumorales evidencian un CEA de 12 y un CA 19,9 de 9.404.
+Se realiza en agosto de 2017 una TC corporal en la que se evidencia abundante líquido libre intraperitoneal con realce de las hojas pleurales y múltiples implantes sólidos de distribución dispersa.
+La Anatomía Patológica de uno de los implantes peritoneales evidencia un adenocarcinoma mucinoso bien diferenciado, con aisladas células en anillo de sello.
+
+Diagnóstico
+Adenocarcinoma mucinoso de uraco estadio IV por afectación peritoneal.
+
+Tratamiento
+1ª línea de tratamiento sistémico: gemcitabina + capecitabina. 2ª línea de tratamiento sistémico: irinotecán + panitumumab. 3ª línea de tratamiento sistémico: oxaliplatino.
+
+Evolución
+Dadas las alteraciones genéticas presentes en este tipo de tumor, descritas recientemente en una serie de 70 casos por Reis H, van der Vos KE et al., publicada en 2018, se solicitan estudios concluyendo ausencia de amplificación del HER-2 y ausencia de mutación en KRAS y BRAF.
+Dada la buena situación funcional del paciente a pesar de su edad, se decide inicio de tratamiento sistémico ajustado a las características del paciente. No se considera adecuado el uso de tripletes ni de fármacos como cisplatino o doxorrubicina.
+
+Se inicia monoterapia con gemcitabina al que posteriormente, dada la excelente tolerancia clínica y analítica, se añade capecitabina.
+En diciembre de 2018, tras 14 meses desde el inicio del tratamiento, el paciente presenta progresión peritoneal, por lo que se inicia una segunda línea de tratamiento sistémico con irinotecán y panitumumab, que se mantiene durante 4 meses, hasta nueva progresión frente a la que se pautó una tercera línea con oxaliplatino.
+Dado el empeoramiento progresivo de la enfermedad, con palpación abdominal de diversas nodulaciones, se decide la suspensión de tratamiento activo y se mantiene exclusivamente el tratamiento sintomático, con seguimiento por la Unidad de Cuidados Paliativos.

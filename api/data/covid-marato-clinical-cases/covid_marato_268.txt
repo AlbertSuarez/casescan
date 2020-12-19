@@ -1,0 +1,30 @@
+Anamnesis
+Mujer de 33 años de edad, sin antecedentes familiares ni personales de interés. Acude derivada desde el Servicio de Dermatología por presentar durante el tercer trimestre de su primer embarazo cambio de coloración en lesión pigmentada a nivel interescapular de años de evolución, sin otra sintomatología acompañante.
+
+Exploración física
+Normocoloreada, sin hallazgos patológicos en la auscultación cardiorespiratoria ni anormalidades a la exploración abdominal. No se palpaban adenopatías periféricas en ninguno de los niveles explorados.
+A nivel interescapular presentaba lesión de 5 cm de diámetro, de coloración negruzca y bordes irregulares. Al tacto, la palpación de la lesión era rugosa. No presentaba zonas ulceradas ni sangrantes. Existían a nivel corporal un total de 16 lesiones pigmentadas, todas ellas sin datos de malignidad.
+
+Pruebas complementarias
+• Exéresis de la lesión cutánea, estudio anatomopatológico: melanoma maligno tipo histológico de extensión superficial, en fase de crecimiento vertical. Nivel III de Clark de 1,6 mm de grosor (Índice de Breslow) sin evidencia de ulceración (pT2A). Índice mitótico de 3 mm por cuadrado. Sin evidencia de regresión histológica, invasión vascular, invasión perineural ni satelosis, con infiltrado inflamatorio no intenso. Bordes quirúrgicos libres de infiltración (margen mínimo a 1,5 mm de la fase de crecimiento radial).
+• Bioquímica con marcadores tumorales: todos los parámetros dentro de la normalidad.
+• PET-TC: no existen datos de enfermedad a distancia de la neoplasia cutánea diagnosticada. Quistes renales simples. No otros hallazgos significativos en el estudio de imagen.
+• Ampliación de márgenes y estudio selectivo del ganglio centinela (BSGC):
+– Ampliación de márgenes: libres de neoplasia.
+– Ganglio centinela axilar derecho: negativo para enfermedad.
+– Ganglio en tránsito: micrometástasis de 0,3 mm en área capsular.
+
+Diagnóstico
+Melanoma maligno de tronco pT2a N2 M0. Estadio IIIB.
+
+Evolución
+Dado el estado de gestación de la paciente, se espera a completar el desarrollo fetal y el parto, naciendo un niño sano mediante parto eutócico que presenta nevus pigmentado en el cuero cabelludo de 14 x 9 cm de diámetro. Esta lesión fue estudiada por el Servicio de Dermatología Pediátrica con el diagnóstico de nevus de unión sin datos de malignidad.
+En revisiones posteriores la lesión fue disminuyendo de tamaño hasta desaparecer.
+La paciente es derivada a nuestro Servicio, y con el diagnóstico de melanoma maligno estadio IIIB se decide iniciar tratamiento con interferón según esquema de Kirkwood con finalidad adyuvante.
+
+Tratamiento
+Se inicia tratamiento con interferón-α-2b a dosis de 20 UM/m2 cinco veces por semana durante cuatro semanas, con planteamiento de continuar con interferón-α-2b 10 UM/m2 subcutáneo tres veces por semana por 48 semanas.
+A la tercera semana del tratamiento intravenoso, la paciente consulta en Urgencias por cuadro de hiperactividad, insomnio, aumento de energía y ánimo expansivo con verborrea, aumento de presión del habla y taquipsiquia, sin presentar sintomatología en rango psicótico. En el Servicio de Urgencias se pauto risperidona 6 mg al día y cloracepato 10 mg, 1 comprimido cada 8 horas, derivándose de manera urgente al Servicio de Oncología.
+En nuestro Servicio se solicitó TC de cráneo urgente que descartó lesiones metastásicas a nivel cerebral que justificaran el cuadro y bioquímica con hormonas tiroideas, vitamina B12 y ácido fólico que se encontraban en rango normal.
+Ante tales resultados, se deriva al Servicio de Psiquiatría donde es reinterrogada sobre los antecedentes familiares, comentando que dos de sus abuelos habían presentado síndromes depresivos mayores y una tía paterna estaba en tratamiento por esquizofrenia paranoide. Con el tratamiento pautado en el Servicio de Urgencias, se objetiva mejoría global, aunque con persistencia de la verborrea y aumento de energía, sin irritabilidad ni alteraciones del sueño, aunque con aumento de apetito y de ingesta de líquidos.
+La paciente es diagnosticada de episodio maníaco grave secundario al tratamiento con interferón-α-2b. Tras finalizar cuatro semanas de tratamiento intravenoso y por la gravedad del cuadro, se decide suspender el tratamiento adyuvante con interferón, manteniendo a la paciente en revisiones mensuales.

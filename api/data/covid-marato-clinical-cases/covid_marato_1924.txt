@@ -1,0 +1,48 @@
+Anamnesis
+Se trata de una paciente española, de 64 años de edad, con vida activa, sin deterioro cognitivo, que vive con su esposo en domicilio.
+No tiene antecedentes familiares de interés.
+Antecedentes personales: síndrome de Carney con mixomas auriculares cardiacos de repetición intervenidos en 1985 y 2008, acromegalia por macroadenoma hipofisario intervenido en 2010, confirmación genética en 2011 (presencia de deleción de 20 pares de bases en exón 7 del gen PRKAR1A). Crisis parciales complejas de difícil control farmacológico (año 1985) secundarias a ictus embólicos de origen cardiaco. Múltiples carcinomas basocelulares resecados.
+Historia oncológica:
+Intervenida en 1991 de cuadrantectomía de mama izquierda por tumor papilar intraquístico grado I de 2 cm, con 14 ganglios libres, seguida de 50 Gray (Gy) de radioterapia en lecho torácico. En 1998 presenta recidiva local, se realiza mastectomía izquierda, con diagnóstico de carcinoma ductal infiltrante de 8 mm, con receptores hormonales negativos y c-erb-b2 positivo, decidiéndose controles ambulatorios.
+En 2006 se realiza mastectomía derecha por presentar calcificaciones sospechosas, que en pieza quirúrgica se descarta malignidad.
+En junio de 2016 presenta dolor en extremidad inferior izquierda resistente a tratamiento analgésico y en resonancia magnética (RM) se objetiva una imagen sugestiva de metástasis en cuarta vértebra lumbar (L4) con signos de compresión de la raíz. La tomografía por emisión de positrones (PET) pone de manifiesto una lesión en nasofaringe y una lesión lítica en el cuerpo vertebral L4 que protruye hacia el canal medular. Se realiza biopsia a nivel de L4, siendo el resultado anatomopatológico metástasis de carcinoma de mama, con expresión intensa de citoqueratina 19, GATA-3 y estrógenos, siendo negativos la citoqueratina 20, CDX-2, progesterona y c-erb-b2. Recibe 50 Gy de radioterapia paliativa durante un mes a nivel de L4 con mejoría del dolor e inicia tratamiento con fulvestrant (500 mg intramuscular [im] de dosis de carga, 500 mg [im] a las 2 semanas de inicio y posteriormente 500 mg im cada 4 semanas) y zoledronato intravenoso (iv).
+En noviembre de 2016, se realiza una PET de control que objetiva persistencia de la lesión en nasofaringe y disminución de la captación en L4. Se estudia la lesión en nasofaringe mediante RM y biopsia, que resulta negativa para malignidad.
+En marzo de 2017 se solicita otra PET, que arroja mejoría de las lesiones, con disminución de la misma en nasofaringe y normalización de captación a nivel de L4.
+Durante once meses, la paciente continúa con el tratamiento de fulvestrant y zoledronato, con buena tolerancia al mismo, sin efectos secundarios reseñables.
+Historia actual:
+Tras la última dosis de fulvestrant y zoledronato, la paciente presenta dolor en muñecas y tobillos, que se achacan al tratamiento recibido, y se pauta ibuprofeno oral con mejoría del dolor. A los diez días, presenta empeoramiento del estado general, con tendencia a la somnolencia, con disminución del ritmo de diuresis, disnea de esfuerzos y edemas en extremidades inferiores. Niega fiebre, cefalea, cuadro catarral, dolor torácico, dolor abdominal, molestias urinarias, alteración en ritmo deposicional. No refiere clínica de disnea paroxística nocturna, ni de palpitaciones.
+Tratamiento habitual (sin cambios en los últimos meses): valproato sódico 500 mg (1-0-1), valproato sódico 300 mg (0-0-1), pregabalina 100 mg (1-0-1), carbonato cálcico/colecalciferol 1.250 mg/400 UI (0-2-0), perampanel 8 mg (0-1-0), octreótido 20 mg cada 2 meses (por su antecedente de macroadenoma hipofisario productor de hormona de crecimiento).
+
+Exploración física
+Presión arterial: 131/75 mm Hg, pulso: 59 x, temperatura axilar: 35,5 ºC, saturación de oxígeno: 96 % en aire ambiente.
+Regular estado general, adormilada.
+Cabeza y cuello: palidez de piel y mucosas, leve ingurgitación yugular.
+Tórax: cicatriz esternotomía en buen estado. Auscultación cardiaca: rítmica, soplo sistólico (ya descrito previamente). Auscultación pulmonar: mínimos crepitantes en bases. Mamas: presencia de prótesis bilaterales.
+Abdomen: blando, depresible, no doloroso, no se palpan masas ni visceromegalias, ruidos hidroaéreos presentes.
+Espalda: sucusión renal negativa. Espinopercusión de apófisis espinosas no dolorosa. Extremidades: pulsos pedios presentes y simétricos. Edemas con fóvea hasta rodillas ++/++++. Exploración neurológica
+ Nivel de consciencia: consciente, desorientada en tiempo, reconoce a acompañante. Lenguaje disártrico.
+» Tono muscular extremidades superiores: mantenido, claudicación en extremidad superior izquierda ya presente previamente.
+ Fuerza muscular: menor en extremidad superior izquierda (ya conocido), resto de extremidades normal. Sensibilidad conservada.
+ Reflejos: bicipital, estilorradial y rotuliano disminuidos.
+Pruebas complementarias
+Inicialmente se sospecha una descompensación de insuficiencia cardiaca, y se inicia tratamiento endovenoso con furosemida. La paciente presenta empeoramiento clínico en el transcurso de los días, consistente en mayor somnolencia, disartria, ataxia, por lo que se amplía el estudio, buscando causas que justifiquen este cuadro de encefalopatía.
+Analítica sanguínea de ingreso: hemoglobina de 9,9 g/dl (12-15), proteínas de 5,7 g/dl (6,4-8,3), calcio de 8 mg/dl (8,4-10,2), calcio corregido con proteínas totales 8,81 mg/dl, proteína c reactiva (PCR) de 189,6 mg/l (0-5), péptido natriurético B 299 pg/ml (0-119), siendo la fórmula leucocitaria, función hepática, renal, tiroidea, sodio, potasio, cloro, procalcitonina y sedimento de orina normales.
+Serologías de sífilis, herpes virus simple, herpes varicela zóster y citomegalovirus negativas.
+Analítica sanguínea posterior: hemoglobina de 9,9 g/dl, hipoproteinemia de 4,8 g/dl (6,4-8,3), hipoalbuminemia de 2,5 g/dl (3,5-5,2), hiponatremia de 131 mmol/l, osmolalidad plasmática de 265 mOsmol/kg (275-295), PCR máxima de 203,3 mg/l (0-5). Amonio, presión parcial de dióxido de carbono y niveles de valproato normales. Cabe decir que en otras ocasiones la paciente había tenido estos niveles de hiponatremia sin clínica neurológica asociada.
+TC craneal en la que se observan lesiones crónicas vasculares, sin datos de patología aguda intracraneal.
+RM craneal con contraste que objetiva lesiones vasculares similares a previas; no se encuentran hallazgos sospechosos de metástasis intraparenquimatosas o leptomeníngeas y se describe una lesión sospechosa de metástasis blástica en hueso parietal.
+Electroencefalograma que muestra una llamativa lentificación de la actividad de fondo, sin registrarse actividad epileptiforme.
+PET que objetiva reaparición de actividad metabólica en la lesión ósea localizada en la región posterior de L4 sugestiva de recidiva tumoral a dicho nivel, sin otros hallazgos. Ecocardiograma transtorácico, con resultado normal.
+Punción lumbar con extracción de líquido cefalorraquídeo (LCR) claro normal, con bioquímica, lactato deshidrogenasa (LDH), adenosina desaminasa normales y resultado negativo para células neoplásicas.
+Con estas pruebas complementarias, se descartan la encefalopatía hepática, carbónica, intoxicación por valproato, disfunción cardiaca, metástasis cerebrales, carcinomatosis leptomeníngea, infección sistémica como causa del cuadro clínico.
+
+Diagnóstico
+Síndrome paraneoplásico neurológico.
+Se llega a este diagnóstico por exclusión de las principales causas de encefalopatía y gracias a la mejoría clínica con el inicio de corticoterapia intravenosa.
+
+Tratamiento
+Se inicia metilprednisolona intravenosa, 20 mg cada 8 horas, con mejoría de la sintomatología hasta su situación basal.
+
+Evolución
+Se inicia metilprednisolona intravenosa, 20 mg cada 8 horas, con mejoría de la sintomatología hasta su situación basal.
+Inicialmente se orienta como una descompensación de insuficiencia cardiaca en el contexto de toma de antiinflamatorios pero, ante la no mejoría con el tratamiento diurético intravenoso y empeoramiento del cuadro clínico, se estudian otras opciones causales. Finalmente, y habiendo descartado otras causas, se sospecha un proceso inmunomediado en relación con su cáncer de mama, y se inicia empíricamente corticoterapia intravenosa (metilprednisolona 20 mg c/8h). El cuadro clínico revierte en menos de 24 horas hasta la situación basal de la paciente, y ésta es dada de alta a los nueve días, con corticoterapia oral (prednisona 30 mg 1-0-1) en pauta descendente. Acerca del tratamiento oncológico, días después del alta hospitalaria, se decide cambiar a una segunda línea de tratamiento debido a la progresión tumoral: vinorelbina 60 mg/m2 los días 1 y 8 cada 3 semanas.

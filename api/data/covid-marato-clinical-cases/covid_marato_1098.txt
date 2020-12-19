@@ -1,0 +1,35 @@
+Anamnesis
+Mujer de 20 años sin antecedentes médico-quirúrgicos de interés.
+Consultó en marzo de 2015 por pérdida de peso de hasta 30 kg y alteraciones del ritmo intestinal asociadas a hematoquecia y mucosidad. Se realizó ecografía abdominal, objetivándose en la misma ascitis y se decidió ingreso para estudio. Durante el mismo, se realizó TC abdominal con hallazgos de engrosamientos peritoneales múltiples, por lo que se realizó biopsia guiada con aguja gruesa de lesión peritoneal, con hallazgos en la anatomía patológica de carcinoma de alto grado con sospecha de origen ginecológico por presentación clínica. En abril se completó estudio con laparoscopia diagnóstica en la que se objetivó ovario derecho aumentado de tamaño e irregular con alguna parte sólida en su superficie; también presentaba epiplón en coraza engrosado e irregular, y múltiples implantes peritoneales.
+Ante la alta carga tumoral se consideró irresecable, por lo que se planteó quimioterapia neoadyuvante basada en carboplatino (6-AUC)-paclitaxel (175 mg/m2) día 1 cada 21 días, iniciándose en abril de 2015. Se añadió bevacizumab (15 mg/kg) el día 1 cada 21 días en el segundo ciclo completando tres ciclos, sin toxicidad relevante. Se evidenció respuesta parcial por lo que se planteó cirugía de intervalo. En julio de 2015, se realizó citorreducción de intervalo (que asoció esplenectomía, omentectomía radical, histerectomía y doble anexectomía, resección recto-sigma y apendicectomía). Al finalizar la intervención, se consideró enfermedad residual menor de 1 cm (R1). El resultado anatomopatológico fue de carcinoma seroso de ovario izquierdo pobremente diferenciado, con afectación de parénquima esplénico, epiplón mayor y menor, serosa de útero, ovario contralateral y superficie apendicular, estadio IIIC. Se solicitó la determinación de BRCA germinal, siendo ésta no patogénica.
+Posteriormente, completó la quimioterapia adyuvante basada en carboplatino (paclitaxel) bevacizumab adyuvante durante 5 ciclos hasta noviembre 2015, y se mantuvo el bevacizumab de mantenimiento hasta febrero de 2016 sin complicaciones.
+En la TC de reevaluación de febrero 2016 presentó progresión tumoral a nivel hepático, mediastínico y peritoneal, confirmada por citología guiada por EBUS. Dado que se trataba de una enfermedad platino resistente (intervalo libre de platino de 3 meses), se planteó en marzo 2016 tratamiento en monoterapia con gemcitabina (1.000 mg/m2 semanal, los días 1, 8 y 15 cada 28 días). Recibió 3 ciclos en total (última dosis el 6/6/2016) con necesidad de retraso en varios ciclos por toxicidad hematológica grado 3 y hepática grado 2.
+El 13/6/2016 acudió a consulta de Oncología Médica en la que se objetivó anemia (7,4 g/dl), trombopenia (20.000 mcl) e insuficiencia renal aguda (creatinina 1,7 mg/dl). Presentaba astenia, epistaxis leve autolimitada y edema en miembros inferiores de una semana de evolución, por lo que se derivó a Urgencias para su ingreso.
+
+Exploración física
+A su llegada a Urgencias:
+» Constantes estables. Tª 36,2 ºC; TA 130/90 mm Hg; FC 69 lpm; saturación basal O2 93 %, eupneica en reposo.
+» Regular estado general. Bien hidratada y perfundida. Palidez mucocutánea.
+» ACP: tonos rítmicos. No ruidos patológicos añadidos.
+» Abdomen: ruidos hidroaéreos positivos, globuloso, cicatriz laparotomía con buen estado, sin datos de irritación peritoneal, no es doloroso durante la palpación superficial ni profunda, Murphy negativo, PPRB negativa.
+» Miembros inferiores: edema bilateral hasta raíz de muslos, sin signos de TVP.
+
+Pruebas complementarias
+A su llegada a Urgencias:
+» Bioquímica: creatinina de 1,7 mg/dl, urea de 108 mg/dl, ionograma en rango. Alteración del perfil hepático (ALT 132 U/l, AST 185 U/l, GGT 131 U/l),
+» Hemograma: trombopenia (20.000 mcl) y anemia (7,6 mg/dl).
+» En análisis de orina se objetiva hematuria microscópica y proteinuria 1 g/l.
+» Se realiza ecografía urinaria urgente que descarta causa obstructiva, sin evidencia de dilatación de la vía urinaria.
+» Coombs directo: negativo.
+» Frotis sangre periférica: sin agregados plaquetarios. 9,2 % de esquistocitos.
+
+Diagnóstico
+Dada la presencia de la triada característica y su posible asociación con gemcitabina, se diagnosticó como síndrome hemolítico-urémico en probable relación con gemcitabina.
+
+Tratamiento
+Ingresó en UCI para iniciar tratamiento con plasmaféresis tras valoración por el servicio de Nefrología. Posteriormente, dada la mejoría analítica y el buen estado clínico de la paciente, se continuaron las sesiones de plasmaféresis en planta, completando un total de 9. Durante el ingreso, se transfundieron dos concentrados de hematíes, sin requerir transfusión de plaquetas.
+
+Evolución
+La evolución clínica y analítica fue favorable, con aumento progresivo de las cifras de plaquetas y hemoglobina y normalización de creatinina, siendo dada de alta tras dos semanas de ingreso.
+Posteriormente, la paciente progresó a varias líneas de tratamiento quimioterápico (doxorrubicina liposomal-trabectedina, topotecán, carboplatino-paclitaxel y ciclofosfamida), presentando buena tolerancia a los mismos y sin complicaciones hematológicas relevantes.
+En noviembre de 2017, presentó empeoramiento del estado general y se inició seguimiento por Unidad de Cuidados Paliativos domiciliario, falleciendo en diciembre 2017.

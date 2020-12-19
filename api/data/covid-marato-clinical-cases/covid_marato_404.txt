@@ -1,0 +1,31 @@
+Anamnesis
+Mujer de 45 años, sin antecedentes patológicos ni familiares de interés.
+En febrero de 2016, ingresa en el Servicio de Neurología para estudio por ptosis progresiva derecha, visión doble, síntomas sensitivos hemicraneales derechos y adormecimiento del brazo derecho.
+Durante dicho ingreso, se realiza estudio de imagen con TC y RMN craneal, llegándose al diagnóstico de quiste epidermoide de 3,8c m x 2,9 cm x 1,6 cm, que ocupa la cisterna prepontina y supraselar.
+Estando pendiente de decidir actitud terapéutica por parte de Neurocirugía, en junio de 2016 comienza con lumbociatalgia y clínica de síndrome de cola de caballo, con pérdida de control de esfínteres.
+Ingresa para estudio con sospecha de meningitis química por rotura del quiste. En el ingreso, se realiza punción lumbar en la que el líquido cefalorraquídeo muestra pleocitosis y se solicita RMN donde se describe captación que rodea al trayecto cisternal del III par derecho (trayecto caudal al habitual desplazado por el quiste) y captación leptomeníngea de la cola de caballo y parcheada rodeando la médula desde el cono hasta el nivel D8, planteándose posible origen tumoral.
+Ante estos hallazgos, se decide intervención quirúrgica del quiste, que tiene lugar en julio de 2016, consiguiéndose una amplia resección, así como la descompresión microquirúrgica del III par craneal que se encontraba íntimamente adherido. Sin embargo, no se consigue una resección completa. La anatomía patológica muestra únicamente material queratínico acelular. No se realiza más estudio ni tratamiento de las captaciones descritas a nivel de la columna.
+Tras dicha intervención, la paciente continúa con clínica de lumbociatalgia y necesidad de ayuda para caminar, hasta que, en septiembre de 2016, ingresa nuevamente por pérdida de control de esfínteres y lentitud psicomotriz. Se realiza nueva RMN que confirma persistencia de captaciones radiológicas a nivel meníngeo, que han aumentado con respecto al estudio previo.
+Dada la clínica de paraparesia progresiva, caídas frecuentes y dificultad para caminar a pesar de la resección del quiste previamente realizada, se decide nueva intervención quirúrgica para descompresión medular (laminectomía D11-12) que tiene lugar en octubre de 2016.
+La Anatomía Patológica de esta última intervención muestra infiltración meníngea por carcinoma escamoso probablemente originado sobre quiste epidermoide cerebral.
+Con este diagnóstico, es remitida a Consulta Externa de Oncología Médica. Revisadas las pruebas diagnósticas, se explica a la paciente el diagnóstico de neoplasia cerebral diseminada a nivel leptomeníngeo y la indicación de iniciar un tratamiento sistémico con intención paliativa.
+Tras revisar la bibliografía, se decide iniciar tratamiento sistémico con cisplatino-5-fluorouracilo a día 15 de noviembre de 2016. Tras primer ciclo de tratamiento, la paciente acude a Urgencias por deterioro neurológico con crisis convulsivas.
+
+Exploración física
+A su llegada a Urgencias, se encuentra en situación poscrítica tras haber sufrido crisis convulsiva tónico-clónica. Nivel de conciencia según la escala de Glasgow de 15. Mantiene adecuada mecánica respiratoria con saturación de oxígeno del 100 %, pero con hipotensión y pulso radial débil. El resto de la exploración física no presenta hallazgos significativos, salvo edemas en ambas piernas. No se objetiva focalidad neurológica.
+
+Pruebas complementarias
+Durante su estancia en Urgencias, se realizan analítica sanguínea que no presenta hallazgos reseñables, así como TC cerebral que muestra hidrocefalia, sin evidenciarse nuevas lesiones ocupantes de espacio o signos de sangrado intracraneal.
+La paciente ingresa en planta donde se realiza RMN cerebral que muestra respuesta tumoral con disminución de la extensión de las áreas captantes en pie de la unión ponto-mesencefálica derecha, trayecto cisternal del III par derecho y uncus temporal derecho respecto de estudio realizado en octubre de 2016. Así mismo, se objetiva hidrocefalia supratentorial (visualizada en TC) con signos de edema transependimario que se ha acentuado con claridad en relación a estudio previo. Lesión intramedular nodular a nivel D 11-D12 con leve incremento de su diámetro en relación a control previo.
+
+Diagnóstico
+» Quiste epidermoide con malignización a carcinoma escamoso y diseminación leptomeníngea, en tratamiento con cisplatino-5-FU.
+» Crisis convulsiva.
+» Hidrocefalia.
+
+Tratamiento
+Durante el ingreso, se instaura tratamiento con corticoterapia a altas dosis, así como tratamiento anticomicial. Ante hallazgos de hidrocefalia en RMN que pudiera ser el origen de las crisis convulsivas, se consulta con Neurocirugía, quien indica tratamiento conservador.
+
+Evolución
+Tras mejoría clínica, la paciente es dada de alta y citada para nuevo ciclo de quimioterapia de forma ambulante.
+Administrado el segundo ciclo de quimioterapia, ingresa el día 2 de enero de 2017 por disminución del nivel de conciencia, objetivándose hipotensión con taquicardia y deshidratación, así como datos analíticos que sugieren shock hipovolémico de causa no filiada con insuficiencia renal e hiponatremia. A pesar de iniciarse tratamiento con sueroterapia y vasoactivos, la paciente presenta un deterioro progresivo con hipotensión refractaria, insuficiencia respiratoria y desasosiego, falleciendo a las 24 horas del ingreso.

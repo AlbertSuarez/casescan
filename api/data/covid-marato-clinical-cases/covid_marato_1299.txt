@@ -1,0 +1,23 @@
+Anamnesis
+Varón de 62 años, sin alergias medicamentosas, ni hábitos tóxicos conocidos. Hipertensión arterial en tratamiento médico, e hiperplasia benigna de próstata en seguimiento. En diciembre de 2015 requirió sondaje vesical transitorio por retención aguda de orina. Control PSA 7,66 ug/L atribuido a patología de base y sondaje reciente.
+En abril de 2016 consulta a urgencias por cefalea, parafasia, síndrome confusional de 3 días de evolución.
+
+Exploración física
+ECOG 0, consciente, orientado, Glasgow 15. No focalidad neurológica en la exploración física.
+
+Pruebas complementarias
+TC cerebral urgente en el que se objetiva lesión temporal izquierda compatible con meningioma, y que por su densidad y edema circundante parece mostrar sangrado reciente periférico.
+Se realiza de forma programada RMN donde se aprecia lesión de aspecto sólido y extraaxial en fosa craneal media y ala mayor del esfenoides izquierdo, algo heterogénea aunque principalmente hipointensa en T1 con captación ligera de contraste. Signos compatibles con hematoma reciente, aparentemente extraaxial.
+
+Diagnóstico
+La sospecha principal, aunque las características en pruebas de imagen no son típicas, como primera opción se sugiere un meningioma. Se contacta con neurocirugía para resección.
+
+Tratamiento
+Se realiza craneotomía pterional + exéresis de metástasis invasiva. Hallazgos durante cirugía de voluminosa metástasis hemorrágica en punta del lóbulo temporal con infiltración de base de cráneo subyacente en fosa media, junto a la tercera rama del trigémino.
+
+En la anatomía patológica METÁSTASIS DE ADENOCARCINOMA e infiltración focal ósea por adenocarcinoma.
+Desde AP se resalta que el aspecto histológico junto a los datos clínicos y el perfil inmunohistoquímico (positividad para queratina AE1/AE3 y fosfatasa ácida prostática, así como positividad débil para PSA; negatividad para querastinas 7 y 20) serían compatibles con un ORIGEN PROSTÁTICO
+
+Evolución
+Tras intervención, nueva determinación de PSA 4,74 ug/L (ratio PSA libre 0,06), y biopsia prostática con ADK Gleason 4+5, grado pronóstico V en la escala de la OMS. Estudio con PET-TC que objetiva lesiones osteogénicas hipermetabólicas vertebrales, en rama iliopubiana izquierda e isquiopubiana izquierda sugestivas de metástasis. RMN del neuroeje sin otras alteraciones, y punción lumbar negativa para células malignas.
+Se valora como ADK prostático estadío IV, hormonosensible, con diseminación ósea y meníngea al debut, con estado general óptimo, tributario a bloqueo hormonal + tratamiento oncológico sistémico de primera línea esquema Docetaxel. Inició también RT sobre área craneal intervenida.

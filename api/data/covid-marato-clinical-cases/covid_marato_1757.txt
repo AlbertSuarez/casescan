@@ -1,0 +1,32 @@
+Anamnesis
+Se trata de una mujer de 54 años, ama de casa, sin alergias medicamentosas conocidas, fumadora en activo de dos paquetes de cigarrillos al día desde los 18 años (consumo acumulado de 72 paquetes-año) y bebedora ocasional. Como único antecedente patológico a destacar, la paciente presentaba taquicardia sinusal en tratamiento con bisoprolol.
+Respecto a su patología oncológica, la paciente fue estudiada en agosto de 2016 por un cuadro de vértigos de perfil periférico, encontrándose en una radiografía de tórax lesión sospechosa de malignidad. Se amplió estudio, siendo diagnosticada de adenocarcinoma de origen pulmonar en lóbulo superior izquierdo con afectación metastásica pulmonar bilateral y afectación linfática hiliomediastínica, estadio IV (T4, N2, M1a). El estudio del gen EGFR sobre muestra tumoral no mostró la existencia de mutaciones, y la translocación ALK fue negativa. Se decide inicio de tratamiento inmunoterápico dentro de ensayo clínico, correspondiéndole nivolumab 3 mg/kg cada 2 semanas e ipilimumab 1 mg/kg cada 6 semanas (primera infusión el 10/11/16).
+La paciente consulta el día 21/11/16 en el Servicio de Urgencias por un cuadro de 9 días de evolución, con malestar general y fiebre mayor de 38 ºC, inicialmente de predominio vespertino, precedida de escalofríos. Llevaba 4 días en tratamiento con levofloxacino. Inicialmente, presentó leve mejoría con desaparición de la fiebre, pero en las últimas 48 horas, había comenzado nuevamente con fiebre, tos sin expectoración, astenia y dolor costal derecho. Además, la paciente refería aparición de rash cutáneo, de predominio en tronco y miembros superiores, no pruriginoso. Se inició tratamiento empírico en el área de Urgencias con piperacilina/tazobactam + oseltamivir, y se cursó ingreso en la planta de Oncología.
+
+Exploración física
+Durante la exploración, la paciente presentaba un estado general aceptable, estando eupneica en reposo a pesar de saturar al 86 % sin oxígeno suplementario (aumentando a 92 % con gafas nasales a 3 lpm). Febril a 38ºC. La auscultación cardiopulmonar mostraba con crepitantes gruesos bilaterales, aunque más acentuados en hemitórax derecho.
+
+Pruebas complementarias
+En el área de Urgencias se realizó radiografía de tórax en la que se visualizaba un infiltrado intersticial bilateral con imagen de mayor condensación en base derecha. La analítica de sangre mostró como únicos hallazgos una discreta linfopenia (800 linfocitos), proteína C reactiva 210,9 mg/l, y fibrinógeno de 8,6 g/l (resto de bioquímica, hemograma y coagulación normales). Se extrajeron hemocultivos con fiebre que fueron negativos. PCR de gripe/VRS y antigenurias de neumococo y Legionella también negativas.
+Una vez en la planta de Oncología, se amplió el estudio con AGA en suero, PCR de CMV, elemental de orina, proteinograma con inmunoglobulinas y estudio de complemento, hemograma con reticulocitos y LDH.
+
+Diagnóstico
+Neumonitis bilateral como motivo de ingreso. El diagnóstico diferencial incluía las siguientes causas:
+» Inmunomedida por toxicidad a inmunoterapia recibida
+» Infecciosa (bacteriana o P. jirovecii, basándose en el patrón radiológico).
+
+Tratamiento
+Tras valorar el caso de forma conjunta con el Servicio de Enfermedades Infecciosas, se modificó el tratamiento antibiótico a cefepima + cotrimoxazol + esteroides a dosis altas, con mejoría progresiva y desaparición de la fiebre. Se suspendió oseltamivir por negatividad de PCR de virus respiratorios.
+Basándonos en las pruebas realizadas, y tras una semana de tratamiento, se retiró cotrimoxazol y se simplificó antibioterapia a levofloxacino, siendo la evolución clínica y radiológica favorable, por lo que la paciente fue dada de alta, continuando tratamiento antibiótico y esteroides en pauta descendente en régimen ambulatorio.
+
+Evolución
+Durante el ingreso se realizó fibrobroncoscopia (FB) con lavado broncoalveolar (BAL) que mostraba recuento citológico compatible con neumonitis tóxica. El cultivo aerobio y anaerobio, así como la tinción para P. jirovecii en el BAL, fueron negativos. El resto de pruebas complementarias solicitadas al ingreso no mostraron resultados patológicos, por lo que, dada la buena evolución, se decidió alta para continuar tratamiento oral en domicilio y seguimiento en consultas.
+Cuando se recibieron de forma ambulatoria los resultados del BAL, el AGA fue positivo con aislamiento de Aspergillus versicolor, estando el AGA en suero negativo. Aun suponiendo un posible falso positivo o colonización, dado que al alta persistían infiltrados pulmonares, y que la paciente iba a precisar esteroides y quimioterapia por un periodo prolongado, se decidió ingreso para repetir AGA en suero y realizar TACAR de tórax para aclarar el valor de estos hallazgos.
+El AGA fue repetidamente negativo y en la TACAR se objetivó un patrón de engrosamientos pleurales y del intersticio periférico subpleural en ambos pulmones, con engrosamientos septales compatible con neumonitis intersticial secundaria a tratamiento inmunoterápico. En el segundo BAL se aisló nuevamente Aspergillus versicolor. Teniendo en cuenta el patrón radiológico, la respuesta a esteroides, y el AGA sérico repetidamente negativo, se consideró como colonización de la vía aérea. En cualquier caso, dado que la paciente se encontraba con dosis elevadas de esteroides en ese momento, se pautó tratamiento con posaconazol como profilaxis primaria que se mantuvo hasta mayo de 2017.
+
+DIAGNÓSTICO FINAL:
+» Neumonitis intersticial por toxicidad secundaria a inmunoterapia, con probable sobreinfección secundaria.
+» Colonización de vía aérea por Aspergillus versicolor.
+
+SITUACIÓN ACTUAL:
+Tras el episodio de neumonitis tóxica la paciente salió del ensayo clínico y se suspendió el tratamiento con inmunoterapia. Se inició una segunda línea de tratamiento con carboplatino AUC 5 + pemetrexed 500 mg/m2 cada 21 días, con soporte de G-CSF, con aceptable tolerancia. recibió cuatro ciclos y actualmente se encuentra con pemetrexed en régimen de mantenimiento, con enfermedad estable en última TC de control realizada el 8 de junio.

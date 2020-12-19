@@ -1,0 +1,35 @@
+Anamnesis
+
+Antecedentes personales
+Hombre de 73 años sin alergias medicamentosas conocidas. Como antecedentes personales destaca una enfermedad pulmonar obstructiva crónica (EPOC), fibrilación auricular paroxística, síndrome de apnea obstructiva del sueño (SAOS), y claudicación intermitente de miembros inferiores.
+Tratamiento habitual: Tovanor Breezhaler® inh/24 h. Bisoprolol 5 mg/24 h. Simvastatina 20 mg ½/24 h.
+Enalapril 20 mg/24 h. Omeprazol 20 mg/24 h. Edoxabán 60 mg c/24 h. Parche de fentanilo 100 mcg TTS/72 h. Paracetamol 1 g/8 h. Metamizol en ampollas c/ 8h.
+Sin antecedentes familiares oncológicos de interés.
+
+Historia oncológica
+Paciente diagnosticado en febrero de 2018 de un carcinoma epidermoide de pulmón estadio IV por afectación suprarrenal izquierda y ósea a nivel de espina iliaca anterosuperior izquierda. PDL-1 + en el 40 % de las células tumorales y en el 5 % de las células inmunes (macrófagos y linfocitos). EGFR nativo, ALK no reordenado, ROS-1 no mutado. Recibió tratamiento con radioterapia antiálgica a nivel de pala iliaca izquierda. Se decide inicio de tratamiento sistémico quimioterápico según esquema cisplatino/vinorelbina con progresión ganglionar y pulmonar tras 4 ciclos. En julio de 2018, se inicia segunda línea de tratamiento con nivolumab 200 mg cada 2 semanas, del que recibe 13 ciclos. En TC de reevaluación en febrero 2019 se objetiva progresión con crecimiento de masa en LID, nueva lesión en pared costal derecha y aumento de la lesión en pala iliaca izquierda. Pendiente de inicio de nuevo esquema de tratamiento.
+
+Historia actual
+Acude a Urgencias presentando mal control analgésico a nivel de pala iliaca izquierda secundaria a su enfermedad de base, y refiriendo deposiciones melénicas de varios días de evolución.
+
+Exploración física
+» » El paciente presentaba un ECOG-PS 2. Con palidez de piel y mucosas.
+» » AP: hipoventilación global. AC: arrítmico a 89 lpm sin soplos.
+» » Abdomen: blando, depresible, no doloroso durante la palpación. Sin signos de irritación peritoneal. Tacto rectal: zona perianal eritematosa pero no sangrante. No doloroso. No se observa sangre fresca ni melenas. Sin coágulos.
+» » EEII: no hay edemas ni signos de TVP.
+
+Pruebas complementarias
+» Analítica: Hb: 6,9 g/dl; leucocitos: 11.340/mcl; neutrófilos: 9.190/mcl (81 %); plaquetas: 524.000/mcl. Cr: 1,48 mg/dl; PCR: 15.81. El resto sin alteraciones significativas.
+» Radiografía de tórax: masa en LID. No hay otros signos de condensación ni de derrame pleural.
+» Colonoscopia: mala preparación que sólo permite descartar alteraciones mucosas groseras.
+» Úlceras en colon derecho. Fragilidad capilar difusa en ciego y recto, sin llegar a constituir angiodisplasias. Pólipo a 60 cm. Polipectomía endoscópica.
+» » Gastroscopia: desde 15 cm de arcada dentaria hasta 30 cm de arcada dentaria, presenta mucosa esofágica con pérdida de sustancia, estigmas de sangrado, ulceración que ocupa el 75 % de la circunferencia sugestiva de necrosis esofágica. No es subsidiario de tratamiento endoscópico.
+
+Diagnóstico
+Necrosis del tercio superior del esófago. Anemia grado 3 secundaria a sangrado.
+
+Tratamiento
+Ante estos hallazgos, se procede al ingreso hospitalario del paciente. Se inició tratamiento de soporte, reposo digestivo, nutrición parenteral, soporte transfusional, inhibidores de la bomba de protones a dosis altas y antibioterapia de amplio espectro (piperacilina-tazobactam).
+
+Evolución
+Durante el ingreso, se solicita valoración por parte del Servicio de Cirugía General, desestimando intervención quirúrgica. A pesar de las medidas adoptadas, el paciente presenta un deterioro clínico progresivo, con aumento de los reactantes de fase aguda e insuficiencia respiratoria global, falleciendo finalmente por fallo multiorgánico a los 12 días del ingreso. Nos pusimos en contacto con el Departamento de Farmacovigilancia de Bristol-Myers Squibb España para informarle de lo sucedido, y del posible nuevo efecto adverso del nivolumab. La respuesta que nos dieron fue que no existían informes previos sobre la relación entre la necrosis esofágica y el tratamiento con nivolumab.

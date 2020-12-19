@@ -1,0 +1,31 @@
+Anamnesis
+Paciente de 56 años, sin antecedentes médicos ni quirúrgicos de interés, que acude a Urgencias por cefalea hemicraneal derecha de un mes de evolución. Describe la cefalea como pulsátil de localizaciónfrontal con intensificacionen los dos últimos dias asociandonáuseas matutinasy despertar nocturno.
+En la anamnesis por aparatos, la paciente negaba sintomatología acompañante a otro nivel.
+
+Exploración física
+Exploración general: buen estado general. Bien hidratada y perfundida. Normocoloreada. Eupneica en reposo. Orofaringe: no se aprecian signos de Muguet ni otros hallazgos. Cabeza y cuello: no presenta ingurgitación yugular. No se palpan adenopatías laterocervicales,supraclaviculares ni submandibulares.
+Auscultación pulmonar: murmullo vesicular conservado sin ruidos patológicos. Auscultación cardiaca: ritmica sin soplos ni extratonos. Abdomen: blando y depresible. Indoloro a la palpación. No se objetiva hepatomegalia ni masas abdominales. Miembros inferiores: no presenta edemas ni signos de trombosis venosa profunda.
+Exploración neurológica: consciente y orientada en las tres esferas. Funciones superiores sin alteraciones. Exploración de pares craneales dentro de la normalidad. Fuerza y sensibilidad sin déficit.
+Exploración cerebelosa normal. Marcha sin alteraciones.
+
+Pruebas complementarias
+» Hemograma, bioquimica básica y coagulación sanguinea sin alteraciones.
+» EKG: ritmo sinusal sin alteraciones en la repolarización
+» Radiografía de tórax: imágenes nodulares bilaterales a filiar.
+» Dadas las caracterísitcas de organicidad de la cefalea se decidió realizar una TC cerebral urgente que mostró los siguientes hallazgos:tumoración sólida y heterogénea en el seno esfenoidal con datos radiológicos de agresividad ya que erosionaba las paredes del seno y la pared del conducto para el nervio óptico derecho.
+
+Diagnóstico
+Con el diagnóstico de lesión a nivel del seno esfenoidal y lesiones pulmonares bilaterales a estudio, la paciente ingresó en neurocirugía para realizar una biopsia transesfenoidal.
+
+Tratamiento
+La paciente ingresó con tratamiento analgésico asociado a inhibidores de la bomba de protones.
+
+Evolución
+Durante su ingreso en Neurocirugía, se realizó una resonancia magnética cerebral preoperatoria que mostró los hallazgos que se reseñan en la imagen.
+Mediante acceso transnasal endoscópico se tomaron muestras a nivel del seno esfenoidal que resultaron positivas en el análisis intraoperatoro para adenocarcinoma. Ante la sospecha de enfermedad tumoral diseminada, se realizó una TC cérvico-tóraco-abdominal cuyos hallazgos se muestran en la imagen.
+La paciente fue remitida a la Consulta de Oncología tras recibir el diagnóstico de anatomía patológica procedente de la biopsia del seno esfenoidal de adenocarcinoma CK7-, CK20+, CEA+, sugestivo de origen digestivo.
+Presentaba ECOG 0, con buen estado de hidratacion y nutrición y sin datos a destacar en la exploración fisica.
+Se realizóuna PAAF de lesión hepáticaque resultó positivo para células malignas compatible con metástasis de adenocarcinoma de origen intestinal y en la muestra se realizó K-ras que resultó nativo.
+Por tanto, con diagnóstico de adenocarcinoma decolonestadio IV (características histológicas e inmunohistoquímicas de origen colónico), la paciente comienza con tratamiento de quimioterapia con intención paliativa con esquema FOLFOX6 (5-Fluorouracilo-leucovorín/oxaliplatino)-cetuximab a dosis habituales con una única reducción de dosis y con respuesta parcial tras 7 ciclos.
+Debido a la presencia de neuropatía grado 2-3 en las manos, se inició tratamiento con irinotecán/cetuximaba dosis habituales recibiendo un solo ciclo de tratamiento.
+La paciente posteriormente precisó ingreso hospitalario por cuadro de sepsis asociada a catéter con evolución tórpidaque produjo fracaso multiorgánico y que finalmente la condujo aser éxitus a los 8 meses del diagnóstico.

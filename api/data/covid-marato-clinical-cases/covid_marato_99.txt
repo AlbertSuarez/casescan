@@ -1,0 +1,29 @@
+Anamnesis
+Paciente de 62 años, fumador de 30 cig/día desde los 16 años y consumidor de 2-3 cervezas semanales, sin otros antecedentes médicos de interés ni antecedentes familiares de interés. ECOG 1.
+Acude a Urgencias en mayo de 2015 por cuadro de diarrea y rectorragia de 2-3 meses de evolución con empeoramiento progresivo del mismo.
+
+Exploración física
+En la exploración, destaca en tacto rectal tumoración vegetante de consistencia gomosa, con dedil con deposiciones de características normales
+
+Pruebas complementarias
+En colonoscopia larga se realiza extirpación de dos pólipos (uno en ángulo hepático de 5 mm y otro a 25cm de margen anal de 20 mm), con hallazgo a la altura entre 5 a 10cm del margen anal de una lesión que ocupa el 100% de la circunferencia, permitiendo el paso del endoscopio sin dificultad, de característica friables y con áreas de fibrina y necrosis sugerente de neoplasia de recto que se biopsia, con resultado de adenocarcinoma enteroide con KRAS y NRAS: No mutado (wild type)
+
+En analítica hemoglobina 11.1 gr/dL con V.C.M. 101.2, Plaquetas 347 Miles/mm3, Leucocitos 7.07 Miles/mm3, Hierro 26 ug/dL Transferrina 212 mg/dL Ferritina 23 ng/ml Saturación de Transferrina 10 %, con marcadores tumorales CEA 53.99 ng/mL CA 19.9 8.71 U/mL
+
+En TAC toracoabdominal 20.05.15 con hallazgo de neoplasia no obstructiva en recto medio, localmente infiltrante, con ganglios en mesorrecto no significativos. Lesión focal hepática que no se puede caracterizar correctamente, sin excluir metástasis. Con ampliación de estudio con RM hepática el 21.05.15 con lesión ocupante de espacio en segmento VI hepático con características de metástasis (3.3 cm) con pequeña lesión de naturaleza indeterminada en porción subfrénica, sin poder descartar metástasis, recomendándose su control.
+EnRM recto el 21.05.15 con tumor rectal situado a 5-6 cm del margen anal externo cT3N1.
+
+Diagnóstico
+Adenocarcinoma rectal T3N1M1, con metástasis hepática única en segmento VI, estadio IVa, Ras nativo.
+
+Tratamiento
+Tras discutir el caso en el Comité de Tumores Digestivos, el paciente inicia quimioterapia de inducción considerándose potencialmente resecable, recibiendo 6 ciclos con esquema FOLFOX-Panitumumab.
+Tras completarlo, inicia tratamiento con radioterapia en ciclo corto con una dosis total de 25 Gy.
+
+Evolución
+Se evidencia respuesta de las lesiones con TC toracoabdominal de Octubre de 2015, con disminución del volumen tumoral primario, sin adenopatías claramente significativas actualmente y con reducción de tamaño de la metástasis hepática (1.5cm).
+Se realiza amputación abdominoperitoneal el 29.10.15 desestimándose resección simultánea de LOE hepática por tiempo quirúrgico prolongado, objetivándose un adenocarcinoma residual de 2 cm que infiltra músculo y tejido adiposo perirrectal, con afectación 4/18 ganglios linfáticos, uno de ellos con afectación extraganglionar e infiltración perineural, con bordes libres de afectación neoplásica.
+Complicación postquirúrgica absceso perianal que requirió drenaje con buena evolución posterior. En TC toracoabdominal de Noviembre se observa cambios secundarios a cirugía de resección abdominoperitoneal y la colostomía terminal en fosa iliaca izquierda. Respecto a la lesión segmento VI hepática, sin cambios (1.5cm). En un segundo tiempo, se realiza intervención quirúrgica hepática con resección atípica por laparoscopia, con hallazgos de metástasis de adenocarcinoma de 2 cm de diámetro que contacta con el margen quirúrgico, con grado de regresión tumoral 3, según esquema de Mandart.
+En TC toracoabdominal postquirúrgico se observa una lesión en el segmento VI hepático hipodensa mal definida de 4.4 cm aproximadamente, sin otras alteraciones. Dada la buena respuesta al tratamiento con quimioterapia y tratamiento antiEGFR, tras seis meses sin recibir terapia sistémica, se reinicia tratamiento con QT con esquema FOLFOX-Panitumumab.
+Tras el 4º ciclo presenta reacción anafiláctica a Oxaliplatino, se mantiene QT con 5FU- Panitumumab.
+Completa tratamiento recibiendo 5 ciclos hasta la actualidad. En TAC de control actual, se encuentra metástasis derecha conocida en segmento V-VI que ha disminuido de tamaño (3.3cm) con atenuación predominantemente líquida que sugiere desvitalización al menos parcial.

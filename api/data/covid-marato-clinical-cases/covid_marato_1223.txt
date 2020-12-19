@@ -1,0 +1,21 @@
+Anamnesis
+Se trata de un hombre de 40 años sin antecedentes patológicos de interés, fumador de 20 cigarrillos/día durante 20 años. Como antecedentes familiares, su madre tuvo cáncer de páncreas/vía biliar a los 70 años y su padre un cáncer de próstata a los 75 años. El paciente consulta por primera vez en diciembre de 2009 pordos episodios de hematuria sin otra sintomatología asociada.
+
+Exploración física
+Buen estado general. Orofaringe sin lesiones. Aparato respiratorio: murmullo vesicular conservado. Aparato cardiovascular: ruidos cardiacos rítmicos, sin soplos. Pulsos conservados. Abdomen: blando, depresible, doloroso a la palpación profunda en flanco derecho. Sin peritonismo, sin visceromegalias. RHA conservados. Extremidades sin edemas.
+
+Pruebas complementarias
+» Analítica dentro de valores normales.
+» Ecografía vesical con hallazgos poco valorables.
+» En la TC de extensión, a nivel abdominal se aprecia masa sólida de 12 x 8 x 6 cm que capta contraste, muy heterogénea con áreas de necrosis con zona de infiltración de la grasa perirrenal adyacente al tumor, así como adenopatías hiliares y retroperitoneales de hasta 2,5 cm.
+
+Diagnóstico
+El paciente fue intervenido en marzo de 2010 mediante nefroureterectomía radical derecha y linfadenectomía preaórtica, interaortocava y paracava con desinserción ureteral. siendo el resultado de la anatomía patológica compatible con carcinoma renal papilar de células claras y eosinofílicas grado 3-4 de Furhman, de 10,5 cm de diámetro máximo, márgenes libres, con metástasis en 5 de 22 ganglios aislados, siendo un pT3aN1 (estadio III). En la pieza destaca la presencia de un patrón bifásico con perfil inmunohistoquímico de carcinoma renal asociado a translocación Xp11.2/TF3 fusión, que fue confirmado con la detección del anticuerpo TF3 en la muestra recibida.
+
+Tratamiento
+Se realizó la valoración del caso en sesión clínica y, considerando la edad y la potencial agresividad, dado el subtipo de carcinoma renal, se decidió ofrecer tratamiento complementario con un inhibidor tirosin-cinasa (ITK), iniciando por tal motivo, sunitinib 50 mg/día en abril del 2010. El estudio de extensión fue negativo para enfermedad metastásica.
+
+Evolución
+El paciente inicialmente tuvo buena tolerancia al tratamiento con sunitinib, presentando como efecto adverso, elevación de la tensión arterial que se controló con medicación y sin necesidad de suspender la ITK. Después de administrar seis ciclos de tratamiento en junio del 2011, el paciente estaba libre de enfermedad en la TC de reevaluación. En noviembre de 2011, se evidenció recidiva tumoral con lesión de componente quístico a nivel de polo superior de riñón izquierdo, siendo intervenido en otro centro mediante crioterapia y confirmándose el diagnóstico de recidiva. En noviembre de 2012 presentó recidiva ganglionar mediastínica, por lo que se decidió ofrecer tratamiento con una segunda ITK, pazopanib a 800 mg/día. Durante el tratamiento el paciente presenta toxicidad hepática grado 3 que remite completamente. Se decidió cambiar el tratamiento nuevamente a sunitinib 50 mg/día.
+
+Después de cinco meses de tratamiento, en abril de 2013, el paciente presentó progresión de su enfermedad con aumento en número y tamaño de adenopatías retroperitoneales, así como la aparición de nódulos pulmonares de dudosa caracterización. En tal situación clínica, se decidió ofrecer tratamiento con un inhibidor de mTOR, everolimus 10 mg/día. Tras cuatro meses de tratamiento, pese a la aparente progresión en TC de reevaluación (progresión de los nódulos pulmonares y estabilización de las otras lesiones) y manteniéndose el paciente asintomático, se decidió continuar el tratamiento. En octubre de 2013, el paciente comienza a referir tos seca, presentando en la radiografía de tórax un patrón intersticial bilateral sugerente de neumonitis como toxicidad secundaria al everolimus, confirmándose dicho diagnóstico mediante TC torácica de alta resolución. Se inició terapia con corticoides a altas dosis y al mes hay remisión completa del cuadro. Se reintrodujo everolimus con ajuste de dosis a 5 mg/día. En la última revisión de mayo 2015, el paciente se mantiene asintomático con estabilización de su enfermedad.

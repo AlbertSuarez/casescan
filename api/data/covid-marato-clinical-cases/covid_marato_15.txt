@@ -1,0 +1,37 @@
+Anamnesis
+Mujer de 38 años, remitida por el servicio de Medicina Interna ante hallazgos de sarcoma pleomórfico de alto grado avanzado en el diagnóstico.
+Sin antecedentes médicos de interés. No refiere consumo de tóxicos.
+Situación socio-funcional y familiar
+Trabajaba de personal docente en un ambiente rural. Madre soltera de una hija de 12 años. Familiares de primer grado sanos.
+
+Historia oncológica
+La paciente acude al médico en su país de origen, por cuadro de dolor lumbar desde enero de 2018, objetivándose, en la radiografía de tórax, múltiples nódulos pulmonares, motivo por el cual decidió trasladarse a España. En marzo, ingresa en el servicio de Medicina interna por síndrome constitucional a estudio.
+Se solicitó una TC-TAP con contraste en el que se objetivó una gran masa retroperitoneal derecha de 114 x 118 x 162 mm. Además, se observan lesiones compatibles con neurofibromas a nivel de mediastino superior derecho, agujero de conjunción T10-T11 derecho, y pared torácica anterior derecha.
+Dada la sospecha clínica de neurofibromatosis tipo 1, la paciente fue valorada por el servicio de Dermatología, observándose múltiples manchas café con leche, neurofibromas en el hombro derecho y otras localizaciones. Se palpaba un neurofibroma profundo en el antebrazo izquierdo. Fue valorada su hija de 12 años que presentaba desde el punto de vista cutáneo manchas de color café con leche en espalda lumbar, dorsal y escápula. Se realizó exploración oftalmológica con una agudeza visual de 0,6 en el ojo derecho y 0,4 en el ojo izquierdo, junto con ptosis izquierda congénita y un nódulo de Lish en el iris derecho. El fondo de ojo presentaba papilas de aspecto normal.
+La masa retroperitoneal fue biopsiada con los siguientes resultados de anatomía patológica: proliferación neoplásica de patrón fusocelular con extensa necrosis y con inmunofenotipo vimentina +, CD99+, S100-, actina -, desmina - CD34-, BCL2-, compatible con sarcoma fusocelular. Estudio inmunohistoquímico de c-Kit negativo.
+
+Exploración física
+» Mal estado general. Caquexia. Peso 43,7 kg. Talla 151 cm.
+» ACP: rítmica sin soplos. MVC sin ruidos sobreañadidos.
+» Abdomen: gran masa abdominal que ocupa todo el hemiabdomen derecho de consistencia pétrea.
+
+Pruebas complementarias
+» RM cerebral (abril de 2018):
+» Lesión fusiforme que sigue el recorrido del V par craneal en los segmentos correspondientes al cavum de Meckel e intracavernoso compatibles con neurofibroma del V par, que afecta fundamentalmente a rama V2 y en menor medida a la V1.
+» Se objetiva una lesión en la vertiente postero-izquierda del mesencéfalo y un foco de aumento de la intensidad de señal subcortical frontoparietal derecho que también realza tras la administración de contraste. Estas dos lesiones podrían corresponder a lesiones metastásicas.
+Estudio de catecolaminas en orina de 24horas:
+» Noradrenalina en orina 24 h: 5 μg/24 h.
+» Adrenalina en orina 24 h: 0,6 μg/24 h.
+» Dopamina en orina 24 h: 100 μg/24 h.
+» Volumen orina ácida 24 h hormonas: 0,20.
+
+Diagnóstico
+Se trata de una paciente de 38 años con sospecha clínica de neurofibromatosis tipo I asociada a la presencia de sarcoma retroperitoneal pleomórfico de alto grado con inmunofenotipo compatible con tumor maligno de vaina nerviosa periférica estadio IV por la presencia de metástasis pulmonares en suelta de globo y dos metástasis cerebrales.
+
+Tratamiento
+La paciente inicia el tratamiento sistémico con quimioterapia paliativa, esquema doxorrubicina-olaratumab completando un total de 2 ciclos. Presentó mejoría clínica del dolor lumbar tras el inicio del tratamiento asociado a analgesia de tercer escalón.
+Valorada por Oncología Radioterápica con objetivo de iniciar radiocirugía cerebral o SBRT, que se desestimó por progresión de enfermedad a nivel cerebral con aparición de múltiples lesiones cerebrales. En este contexto, la paciente inicio RT holocraneal, completando un total de 7 fracciones en junio del 2018.
+
+Evolución
+La paciente ingresa en el servicio de Oncología por deterioro clínico progresivo en las últimas semanas, con mayor postración y dolor abdominal (escala EVA > 8) irradiado a MID secundario a gran masa retroperitoneal y cuadro constitucional con síndrome caquexia-anorexia en el contexto de sospecha de progresión de enfermedad. Se realiza TC en la que se confirma el aumento de tamaño y número de metástasis pulmonares e implantes pleurales con gran implante en pleura derecha.
+Confirmada la progresión de enfermedad pulmonar y abdominal, considerándose que se trata de una enfermedad refractaria a antraciclinas y, por tanto, susceptible de tratamiento paliativo exclusivo dado el performance status y rápido deterioro clínico. Se ajusta el tratamiento de soporte con corticoides e infusor subcutáneo con cloruro mórfico para control del dolor. Progresivo empeoramiento clínico, por lo que se inicia sedación paliativa dada la refractariedad de los síntomas, falleciendo en agosto de 2018 acompañada por sus familiares.

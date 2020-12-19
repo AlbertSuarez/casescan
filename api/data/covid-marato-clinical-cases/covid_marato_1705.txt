@@ -1,0 +1,22 @@
+Anamnesis
+Varón de 66 años, exfumador, con antecedentes personales de hipertensión, dislipemia, hiperuricemia, síndrome de apnea e hipoapnea del sueño, diverticulosis colónica, hemorroides y miocardiopatía dilatada con disfunción sistólica grave.
+Consulta en marzo de 2016 por epigastralgia inespecífica.
+
+Exploración física
+Durante la exploración física destaca un ECOG-1; el resto, sin hallazgos.
+
+Pruebas complementarias
+Se realizan las siguientes pruebas complementarias: analítica sin datos relevantes; una TC: en la que se evidencia una masa en riñón derecho con unos diámetros de 8,9 x 7,5 cm en compatible con neoplasia renal primaria como primer diagnóstico, acompañada de un trombo en la vena renal. Sin lesiones en otra localización.
+
+Diagnóstico
+En marzo del 2016, es intervenido mediante nefrectomía radical siendo la anatomía patológica compatible con un carcinoma renal de células claras grado 4, de 12 cm, con invasión de la vena renal. La resección es R1.
+Con el diagnóstico, por tanto, de un carcinoma renal de células claras, pT3b cN0 cM0, grado IV, es valorado en la consulta de Oncología Médica, y se le ofrece seguimiento.
+
+Tratamiento
+Se inicia seguimiento y en mayo de 2016, acude a Urgencias por vómitos, realizándose una TC urgente en el que se evidencian nódulos pulmonares, y adenopatías hiliares bilaterales, todo ello sugestivo de metástasis.
+Con estos resultados, comienza tratamiento con pazopanib en primera línea a una dosis diaria de 800 mg cada 24 horas. Precisa varios retrasos y reducción de dosis por diarrea grado 3 e hipertransaminasemia. Se objetiva respuesta parcial mayor en TC toracoabdominal según criterios RECIST 1.1 a los 3 meses de iniciado tratamiento. Prosigue tratamiento a dosis ajustada, hasta octubre de 2017, fecha en la que, por TC de control, se evidencia progresión pulmonar y ganglionar mediastínica.
+Con un ECOG 0, se inicia 2ª línea de tratamiento con nivolumab a dosis de 3 mg/kg cada 2 semanas y posteriormente a 480 mg cada 4 semanas tras aprobación de dicha dosis en ficha técnica. Desde el inicio del tratamiento el paciente presenta una excelente tolerancia. No precisa retraso de dosis por efectos adversos. En pruebas radiológicas de control, como mejor respuesta se evidencia una respuesta clínica completa.
+
+Evolución
+Tras 34 ciclos, y manteniéndose la respuesta completa en TC, comienza con un cuadro de rectorragia, sin diarrea asociada de 24 horas de evolución. Acude a Urgencias en mayo del 2019, realizándose una analítica en la que se objetiva hemoglobina de 12,1 (previa = 14). Además, se realiza una colonoscopia, en la que se visualiza una afectación continua de la mucosa con pérdida completa del patrón vascular y erosiones, todo ello compatible con diagnóstico de colitis inmune asociada a inhibidores checkpoint. La Anatomía Patológica muestra distorsión de la arquitectura, presencia en la lámina propia de un infiltrado inflamatorio, marcada permeación de epitelio por neutrófilos con presencia de abscesos crípticos y focalmente alguna imagen de apoptosis. Estos hallazgos confirman la sospecha diagnóstica.
+El paciente ingresa a cargo del Servicio de Digestivo, instaurándose una pauta de corticoides a dosis altas, sueroterapia y antibioterapia. En el momento actual, se encuentra hemodinámicamente estable, con una hemoglobina de 12,6, y recibiendo una pauta descendente de corticoides. Está previsto ser valorado nuevamente en la consulta de Oncología Médica para valorar actitud terapéutica.

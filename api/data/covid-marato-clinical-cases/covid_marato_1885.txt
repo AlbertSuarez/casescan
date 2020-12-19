@@ -1,0 +1,48 @@
+Anamnesis
+Paciente de 28 años, que acude por primera vez a consultas de Oncología Médica en noviembre de 2013 para valorar inicio de tratamiento.
+
+Antecedentes familiares: abuela paterna y bisabuela paterna con cáncer de mama. Prima hermana del padre con cáncer de mama. Padre portador del gen BRCA1.
+Antecedentes personales: sin alergias alergias medicamentosas. No hábitos tóxicos. No diabetes mellitus, HTA ni dislipemia. Portadora de mutación de BRCA1. No cardiopatías, neumopatías ni hepatopatías conocidas. IQ: Niega. Menarquia a los 14 años. Mastalgia menstrual habitual.
+
+Se inicia estudio tras notar mediante autopalpación mamaria una induración en mama izquierda en Septiembre 2013 tras menstruación. Estaba seguimiento por Ginecología por ser portadora de mutación germinal BRCA 1. Tras la realización de ecografía y biopsia posterior de mama y axila izquierda es diagnosticada de carcinoma ductal infiltrante subtipo no especial (tipo inflamatorio) con metástasis ganglionar, triple negativo (RP, RE y Her-2 negativos, ki-67: Positivo en el 40-50%).
+
+Tras la realización de las pruebas complementarias ,la paciente se considera no candidata a cirugía de entrada y es derivada a consultas de Oncología Médica para valorar inicio de tratamiento neoadyuvante.
+
+Exploración física
+ECOG 0. Talla 169 cm. Peso 77 kg. Estable hemodinámicamente, buen estado general, consciente orientada y colaboradora, bien hidratada y perfundida. Eupneica, sin fiebre. ACR: rítmica a buena frecuencia sin soplos. Murmullo vesicular conservado bilateral. Abdomen blando, depresible, no doloroso a la palpación, ruidos hidroaéreos conservados.
+
+Miembros inferiores sin edemas ni signos de TVP. Exploración mamaria: la mama izquierda está ocupada totalmente por una lesión pétrea que ocupa todo el volumen (>10 cm) con piel de naranja y singnos inflamatorios. Mama derecha sin alteraciones. Sin adenopatías axilares palpables ni en otros niveles. Exploración neurológica: normal.
+
+Pruebas complementarias
+» Biopsia con aguja gruesa: carcinoma ductal infiltrante subtipo no especial(tipo inflamatorio) con metástasis ganglionar.
+» Perfil IHQ: receptores de estrógenos: negativo; receptores de progesterona: negativo. Índice proliferativo ki-67: positivo en el 40-50%. HER-2 (4B5 Pathway): negativo.
+» TC toracoabdominal como estudio de extensión: aumento del tamaño de la mama izquierda con engrosamiento de la piel y adenopatías axilares ipsilaterales en relación con existencia de un carcinoma inflamatorio. No se observa afectación metastásica en el estudio realizado.
+» Resonancia magnética: los hallazgos descritos sugieren una gran lesión sospechosas de malignidad que ocupa gran parte de la mama izquierda, mal definida, con signos de edema y posible afectación de linfáticos cutáneos con notable engrosamiento de la piel, no descartándose un componente inflamatorio, debiendo correlacionarse con los datos clínicos y exploratorios de la paciente y sus antecedentes, así como con los hallazgos mediante otras técnicas diagnósticas. No se observan imágenes que sugieran la presencia de adenopatías patológicas evidentes.
+» Ecocardio con fracción de eyección de 52-55%.
+
+Diagnóstico
+Carcinoma de mama ductal infiltrante (tipo inflamatorio) triple negativo y BRCA 1 mutado, estadio IIIA (cT4cNx).
+
+Tratamiento
+Tras la realización de las pruebas iniciales la paciente no se considera candidata a cirugía de entrada debido a la extensa lesión que presenta (T4D secundariamente inflamado). A la paciente se le propuso comenzar tratamiento neoadyuvante dentro del ensayo clínico ETNA1 (abraxane, vía intravenosa durante 4 ciclos seguido de 4 ciclos de antraciclinas vs. tratamiento estándar con paclitaxel, vía intravenosa durante 4 ciclos seguido de 4 ciclos de antraciclinas), comenzando el tratamiento dentro del brazo con paclitaxel en noviembre de 2013. Recibió 4 ciclos de taxol (12 infusiones semanales en total, bien tolerado, alopecia G3) más 2 ciclos de FEC hasta abril de 2014. Es intervenida en mayo de 2014 mediante mastectomía simple bilateral más vaciamiento axilar izquierdo con AP de carcinoma infiltrante de subtipo histológico no especial grado 3, de 5,5 cm (ypT3) que infiltra dermis superficial, con invasión vascular y metástasis en 8 de los 18 ganglios linfáticos axilares, estadio yIIIA según TNM.
+
+Tras cirugía se realizó TC toraco-abdominal de reevaluación en julio de 2014 en la que se apreció progresión ósea de la enfermedad, se suspendió valoración de RT y se propone iniciar tratamiento qumioterápico dentro del dentro de EC OLYMPIA2 (olaparib vs. mejor tratamiento de elección del investigador capecitabina, vinorelbina o eribulina) al ser portadora de mutación BRCA1 con enfermedad ósea, decidiéndose tratamiento con capecitabina, no iniciando tratamiento hasta septiembre de 2014 debido a la progresión de la enfermedad con carcinomatosis leptomeníngea que requirió ingreso en la planta de Oncología entre el 12 y el 24 de julio de 2014, con mejoría tras tratamiento corticoideo y RT holocraneal.
+
+Durante el tratamiento con capecitabina también recibió varias sesiones de RT antiálgica a nivel de columna lumbosacra y cadera bilateral.
+
+Recibió 11 ciclos de capecitabina entre septiembre de 2014 y abril de 2015 (con buena tolerancia salvo por síndrome palmoplantar G2) cuando sale del ensayo por progresión ósea de la enfermedad.
+
+Evolución
+Evolucionó favorablemente con el inicio del tratamiento neoadyuvante, con buena tolerancia, mejoría de los síntomas inflamatorios y mejoría subjetiva del tamaño de la tumoración mamaria. Dicha mejoría no quedaba demostrada en las pruebas de imagen donde el tumor seguía presentando unas dimensiones similares con respecto al inicio del tratamiento. En abril de 2014, se realiza RM mamaria donde sigue demostrándose esa falta de mejoría, por lo que se decide en Comité el tratamiento quirúrgico del tumor.
+
+La paciente se opera en mayo de 2014 sin complicaciones y en la TC de reevaluación previa al inicio de tratamiento radioterápico adyuvante, realizado el 1 de julio 2014, se registra progresión ósea de la enfermedad con múltiples imágenes nodulares osteoblásticas en columna vertebral y pelvis sugestivas de metástasis (no presentes en la TC de 4-11-2013). Con esto se decidió no iniciar tratamiento radioterápico y proponer de nuevo tratamiento quimioterápico.
+
+En ese mismo mes de julio de 2014 acude a Urgencias por cefalea holocraneal asociada a parestesias en la cara y en los brazos, erráticas que mejoraban tras el control del dolor. Se realizó RM craneal el 8 de julio con diagnóstico de extensa captación leptomeníngea a nivel de la fosa posterior y supratentorial que sugieren diseminación leptomeníngea de su neoplasia mamaria, precisando ingreso en la planta de Oncología con mal control del dolor (EVA7) y sin clínica neurológica salvo por las parestesias. Durante el ingreso recibió tratamiento con RT holocraneal 30 Gy en 10 dosis, manitol IV y tratamiento corticoideo con buena evolución, se realizó RM del neuroeje confirmando M1 óseas a nivel de la columna dorsal y lumbar sin afectación medular.
+
+Tras el alta inicio el tratamiento quimioterápico en Septiembre de 2014 con capecitabina 1.250 mg/m2 (2.300 mg cada 12 horas por 14 días continuos, dentro del EC Olympia). Durante el tratamiento con capecitabina la paciente presentó varios episodios de dolor no controlado en columna dorsal y cadera derecha con EVA de 7-8, que mejoraron tras ajuste de medicación analgésica y RT antiálgica.
+
+El inicio del tratamiento con capecitabina fue bien tolerado. En octubre se realizó RM craneal de reevaluación donde se registró una desaparición completa de los focos de captación leptomeníngea y TC toracoabdominal con estabilidad del resto de lesiones. Vista la respuesta, se mantuvo el tratamiento con capecitabina a la misma dosis presentando durante el seguimiento un Síndrome palmoplantar grado 2 como principal complicación que mejoró tras reducir dosis (del 15% en dos ocasiones). La respuesta leptomeníngea se mantuvo y en Febrero de 2015 nueva RM que mantiene respuesta completa.
+
+Tras la sorprendente desaparición de la enfermedad a nivel del SNC, se solicita PET para confirmar la respuesta. En este periodo la paciente comienza con deterioro progresivo del estado general, mal control del dolor y aparición de un nódulo sólido en la zona de la cicatriz de la mastectomía de rápido crecimiento. Se suspendió el tratamiento ante la sospecha de progresión, que se confirmó con una gammagrafía ósea el 21 de abril de 2015, por lo que salió del ensayo clínico.
+
+El 27 de abril ingresa de nuevo en planta de Oncología por mal control del dolor, EVA 8, a nivel de escápula derecha, dorso-lumbar y caderas. El dolor fue progresivamente en aumento a pesar de iniciar perfusión continua de cloruro mórfico, junto a rigidez intensa, precisando finalmente de sedación terminal y falleciendo el día 30 de abril.

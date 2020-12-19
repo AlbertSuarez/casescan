@@ -1,0 +1,35 @@
+Anamnesis
+HISTORIA ONCOLÓGICA
+Paciente de 58 años fumador hasta los 30 años de 1 paquete-día con abstención total desde entonces, sin antecedentes previos de interés.
+Diagnosticado a raíz de un episodio de inicio de hemoptisis, en noviembre 2016, de carcinoma microcítico de pulmón cT3 cN2 M0, estadio IIIA. Inició tratamiento dentro de ensayo clínico fase II Stimuli, completando 4 ciclos de CDDP-VP16 entre diciembre 2016 y marzo 2017 con radioterapia (RT) locorregional concomitante (33 sesiones hasta una dosis total de 66 Gy) con buena tolerancia sin incidencias, salvo astenia grado I y esofagitis grado I, sin requerimiento de retraso de dosis. Además, recibió tratamiento profiláctico estándar con RT holocraneal.
+Después, inició la fase de consolidación con ipilimumab 3 mg/kg en combinación con nivolumab 1 mg/kg cada 3 semanas para las primeras 4 dosis y posterior mantenimiento con 3 mg/kg de nivolumab cada 2 semanas.
+
+El paciente acudió en el día +7 del segundo ciclo de nivolumab en combinación con ipilimumab por cuadro clínico de 3 días de evolución de 6-7 deposiciones líquidas diarias acompañadas de mucosidad y sangre ocasional. Asociaba proctalgia y presencia de deposiciones nocturnas, con importante disminución de la ingesta. Sin náuseas ni vómitos. Sin fiebre ni sensación distérmica. Sin otra sintomatología por aparatos o sistemas.
+
+Exploración física
+» Regular estado general, deshidratado. Performance status (PS) 0.
+» Auscultación cardiopulmonar: sin hallazgos patológicos.
+» Abdomen: blando y depresible sin que se palpen masas ni megalias. Doloroso durante la palpación de forma difusa, sin defensa acompañante. Ruidos hidroaéreos presentes.
+» Tacto rectal: sin hemorroides externas, ni fisura; dedil manchado con restos mucosos.
+
+Pruebas complementarias
+» Bioquímica al ingreso: urea 39 mg/dl, creatinina 1,46 mg/dl, sodio 132 mmol/l, potasio 3,3 mmol/l, proteína C reactiva (PCR) 116,7 mg/l.
+» Hemograma al ingreso: sin alteraciones. Sin anemización.
+» Calprotectina fecal: 1.359,53 mg/Kg heces.
+» Coprocultivo: no se observan células inflamatorias ni hematíes en el examen microscópico directo.
+» El cultivo a las 48 horas ha permitido el aislamiento de flora habitual.
+» Colonoscopia durante el ingreso: desde recto hasta ciego, se aprecia edema difuso de la mucosa, con eritema, múltiples lesiones petequiales, ulceraciones superficiales y exudado mucoso. La afectación es continua, circunferencial y confiere marcada friabilidad a la mucosa a lo largo de todo el colon, provoca hemorragia espontánea y al roce. Diagnóstico: colitis hemorrágica en actividad grave.
+» Anatomía patológica: biopsia endoscópica de intestino delgado y de intestino grueso: Diagnóstico:ileítis linfocitaria erosiva. Colitis en actividad grave.
+
+Diagnóstico
+» Carcinoma microcítico de pulmón cT3 cN2 M0, estadio IIIA.
+» Tratamiento en fase de mantenimiento ipilimumab-nivolumab.
+» Colitis en actividad grave inmunorrelacionada.
+
+Tratamiento
+Ante un paciente con diarrea grado 3 que asocia insuficiencia renal aguda de origen prerrenal e hipopotasemia y deterioro clínico se decide ingreso. Se instauró tratamiento empírico con metilprednisolona intravenosa a 1 mg/kg (80 mg totales) y soporte con fluidoterapia.
+Tras tres días con persistencia de diarrea grado 2, se realizó exploración endoscópica compatible con el cuadro de colitis, aumentándose la dosis corticoide a 2 mg/kg (160 mg metilprednisolona iv.) y reposo digestivo absoluto, iniciándose nutrición por vía parenteral. Dada la ausencia de respuesta también a dosis más altas de corticosteroides sistémicos, consideramos la enterocolitis como refractaria a los esteroides. Tras la confirmación de la negatividad del QuantiFERON® y serología normal del paciente, se inició infliximab 5 mg/kg (425 mg), responsable del bloqueo del receptor alfa del factor de necrosis tumoral, y tras la mejoría se disminuyó la dosis de metilprednisolona a 1 mg/kg.
+
+Evolución
+La evolución fue favorable con rápida respuesta clínica y con disminución del número de deposiciones de forma significativa en las primeras 48 horas. Se reintrodujo nutrición y medicación enteral progresiva sin incidencias. Dada la buena evolución clínica, se continuó seguimiento de forma ambulatoria con control clínico en consultas y descenso paulatino de la corticoterapia hasta la retirada sin reaparición de la clínica.
+El paciente suspendió el tratamiento del ensayo clínico y se notificó como efecto adverso a los responsables de seguridad. Actualmente, continúa en seguimiento sin evidencia de recaída de enfermedad.

@@ -1,0 +1,40 @@
+Anamnesis
+Se trata de un varón de 78 años, casado, con cuatro hijos. Como antecedentes médicos presenta diabetes mellitus tipo II que controla con dieta. Fue intervenido de hernia inguinal bilateral en 2005. No es fumador ni bebedor. No tiene antecedente de transfusiones previas. No presenta antecedentes familiares de interés. No toma medicación habitual.
+A raíz de molestias abdominales difusas y síndrome constitucional con pérdida de peso (12-14 kg en 3-4 meses), con hiporexia y astenia de tres meses de evolución, acude a Urgencias derivado por su médico de Atención Primaria.
+
+Se realiza ecografía abdominal que muestra lesiones ocupantes de espacio en parénquima hepático, de distribución bilobar, compatibles con metástasis, y se decide ingreso para estudio. Se realiza tomografía computarizada (TC) toracoabdominal, donde se objetivan, además de las lesiones hepáticas, una estenosis en ángulo esplénico del colon. Se completa estudio con colonoscopia donde se visualiza a 40 cm de margen anal una lesión vegetante, estenótica, infranqueable, por lo que se coloca una prótesis metálica en dicha localización. Se biopsia la lesión tumoral, con histología de adenocarcinoma bien diferenciado, con proteínas de inestabilidad de microsatélites normales, RAS/BRAF nativo.
+Los marcadores tumorales eran de Ca 19,9 4.740 U/ml (valor normal [VN] 0-37), antígeno carcinoembrionario (CEA) de 9.375 ng/ml (VN 0-5).
+El paciente es valorado por Oncología Médica, e inicia tratamiento sistémico con XELOX (capecitabina 1.000 mg/m2/12 h días 1-14, oxaliplatino 130 mg/m2 d1, cada 21 días). La tolerancia al tratamiento es aceptable, con astenia grado 1 durante los primeros dos días, diarreas grado 1 que controla con loperamida, y neurotoxicidad grado 1 en dedos de manos.
+Tras recibir un total de 4 ciclos de tratamiento, estando pendiente de nueva TC de reevaluación, el paciente acude a Urgencias porque refiere aumento del perímetro abdominal, así como aparición de edemas en extremidades inferiores, de 15 días de evolución.
+
+Exploración física
+Durante la exploración física llama la atención el aumento del perímetro abdominal, matidez cambiante compatible con presencia de ascitis, y presencia de oleada ascítica. A su vez presenta edemas con fóvea en tobillos hasta raíces de miembros inferiores.
+No se objetiva ingurgitación yugular, la auscultación cardiopulmonar es normal, no se observa circulación colateral en abdomen ni presenta estigmas cutáneos de hepatopatía crónica.
+Con la orientación clínica de ascitis a estudio el paciente ingresa en Oncología Médica.
+
+Pruebas complementarias
+Desde el punto de vista analítico presentaba hemoglobina 13,3 g/dl, plaquetas de 89.000 x 109/l (VN 150-200), bilirrubina total de 2,3 mg/dl (VN 0,2-1,2), con bilirrubina esterificada de 0,9 mg/dl (VN 0-0,5), aspartato transferasa (AST) de 63 U/l (VN 5-34), fosfatasa alcalina (FA) de 176 U/L (VN 40-150), con normalidad de ALANINA TRANSFERASA (ALT) y gamma glutamil transferasa (GGT).
+Se realizó paracentesis diagnóstica, con salida de líquido claro, con proteínas < 0,8 g/dl, albúmina < 0,4 g/dl, con gradiente albúmina sérica-albúmina ascítica (GASA) calculado de 2, y con 134/mm3 leucocitos. El líquido era compatible con un trasudado, sin datos de infección, y con GASA > 1,1, orientando el diagnóstico diferencial a los procesos que cursan con hipertensión portal (HTP). En los días posteriores, se realizaron diversas pruebas que fueron aproximando el diagnóstico final:
+» Serologías de virus de hepatitis B y C, que fueron negativas, que descartó hepatopatía vírica. También se solicitó perfil férrico completo y medición de ceruloplasmina, que resultaron normales, descartando hemocromatosis y enfermedad de Wilson respectivamente.
+
+Ecografía Doppler hepática: se observaba permeabilidad y afilamiento de las venas suprahepáticas, con tendencia al aplanamiento de la onda de flujo, y permeabilidad de la vena porta con flujo hepatópeto, con velocidad del flujo hacia límite bajo de la normalidad, con esplenomegalia de 15 cm, todo ello compatible con signos indirectos de HTP.
+» TC toracoabdominal, que tampoco evidenció trombosis de las venas suprahepáticas, y que además mostraba una disminución significativa del tamaño de las lesiones hepáticas comparada con la TC inicial.
+» Ecocardiograma: se evidenció una fracción de eyección dentro de la normalidad, sin datos de insuficiencia cardiaca, con colectores venosos no dilatados.
+» Medición de TSH (tirotropina), y T4 (tiroxina) sanguíneas para descartar hipotiroidismo, que resultaron normales.
+» Medición de proteínas en orina, que fueron normales, por lo que tampoco se trataba de un síndrome nefrótico.
+» Citología del líquido ascítico fue negativa para células malignas.
+» Cultivo de líquido ascítico también fue negativo.
+Desde el punto de visto oncológico, el paciente presentaba disminución de las lesiones hepáticas, y disminución de los marcadores tumorales siendo: Ca 19,9 979 U/ml (previo de 4.740) y CEA 3.019 ng/ml (previo de 9.375).
+Por tanto, ante una ascitis de reciente comienzo, con datos de HTP, con resultados negativos de las principales causas de HTP, sin antecedentes previos de consumo de alcohol, se sospechó un origen tóxico de la quimioterapia, en concreto del oxaliplatino.
+Se realizó una biopsia hepática de parénquima hepático no afectado por el tumor donde destacaba la presencia de dilatación sinusoidal de distribución difusa. Mediante la técnica de Masson, se observaba fibrosis reticular pericelular y mediante la técnica de reticulina se observaba la presencia de algunas trabéculas de hepatocitos colapsados, con desproporción del núcleo-citoplasma que contrastaba con hepatocitos hipertróficos situados en proximidad, todo ello compatible con SOS e HNR.
+
+Diagnóstico
+Tras excluir otras causas de ascitis, se concluyó que el paciente había presentado una descompensación edemoascitica secundaria a toxicidad del oxaliplatino en forma de SOS e HNR, con el consecuente desarrollo de HTP, esplenomegalia y ascitis.
+
+Tratamiento
+Se realizó una paracentesis evacuadora de 8 l, y de manera paralela al estudio diagnóstico se pautó una dieta con restricción de sodio e hídrica de 1 l al día y tratamiento diurético con furosemida oral 40 mg/24 h y espironolactona oral 100 mg/24 h.
+
+Evolución
+La evolución durante el ingreso fue favorable, con buena evolución de la ascitis con los diuréticos orales y la restricción salina e hídrica. El paciente no precisó más paracentesis evacuadoras y fue dado de alta tras 9 días de ingreso.
+Dada la complicación desarrollada por el oxaliplatino, y a pesar de la respuesta tumoral de las lesiones hepáticas, se suspendió el tratamiento con este fármaco, manteniendo capecitabina.
+No ha precisado otros ingresos, ni ha requerido de otras paracentesis evacuadoras. Ha recibido un total de 8 ciclos desde el inicio del tratamiento, con aceptable tolerancia, estando pendiente de nueva reevaluación con TC.

@@ -1,0 +1,21 @@
+Anamnesis
+Mujer de 18 años sin antecedentes personales de interés que consulta en julio de 2018 por tumoración cervical de rápido crecimiento y obstrucción nasal derecha.
+
+Exploración física
+ECOG 0. Buen estado general, normohidratada, normocoloreada. Masa cervical derecha de aproximadamente 7 cm x 6 cm de diámetro, dura, adherida, no dolorosa a la palpación. Ruidos cardiacos rítmicos, sin soplos. Murmullo vesicular conservado, sin estertores. Abdomen blando, no doloroso a la palpación, sin megalias.
+
+Pruebas complementarias
+En eco cervical se objetivan múltiples adenopatías en los niveles IIA, IIB y III derecho teniendo la de mayor tamaño localizada en el nivel IIA un diámetro máximo de 4,8 cm.
+En TC, RM y PET se observa una lesión sólida tumoral agresiva de origen nasoetmoidal derecho con leve extensión contralateral, afectación marginal de orbita y seno maxilar derecho, así como seno esfenoidal y cranealmente fosa anterior, conglomerado adenopático cervical necrosado de 5,3 x 2,6 cm y una gran masa supraclavicular de 4 x 2,8 cm. Sin enfermedad a otros niveles.
+Biopsia de adenopatía cervical, material constituido en su mayor parte por una neoplasia maligna con rasgos histopatológicos e inmunofenotípicos compatibles con rabdomiosarcoma con positividad inmunohistoquímica para miogenina, myoD1, desmina y CD56, resultando negativas las inmunotinciones para CD45, CD2, CD3, CD20, citoqueratinas AE1-AE3, S100, actina de músculo liso y calretinina. Se observa reordenamiento del gen FOXO1 en todas las células tumorales evaluadas.
+Biopsia de médula ósea y citología de líquido cefalorraquídeo negativas.
+
+Diagnóstico
+Rabdomiosarcoma de cabeza y cuello. Probable alveolar (reordenamiento FOXO1). Localización nasoetmoidal (parameníngeo, desfavorable). Grupo III (enfermedad biopsiada no resecada). Tamaño no medido en TC ni RM. N1 cervical y supraclavicular derecho. Grupo alto riesgo.
+
+Tratamiento
+El 1 de agosto de 2018 recibe el primer ciclo de quimioterapia según esquema VAC (vincristina, adriamicina, ciclofosfamida), ya que el hospital no dispone de dactinomicina al momento del diagnóstico y la enfermedad tiene un comportamiento muy agresivo, posteriormente continúa con 3 ciclos más de IVA (ifosfamida, vincristina, dactinomicina) y vincristina semanal durante 7 semanas obteniéndose una respuesta completa. Al no quedar enfermedad residual que resecar se decide tratamiento con radioterapia, recibe 50,4 Gy sobre volumen tumoral inicial en PET, 1,8 Gy/día, 28 fracciones entre noviembre y diciembre de 2018 junto con el 5º y 6º ciclo en los que sólo se administra ifosfamida por neuropatía y concurrencia con radioterapia. Ya en el 7º, 8º y 9º ciclo se reanuda el esquema IVA, pero con reducción de dosis de vincristina al 50 % por neuropatía, finalizando el 28 de febrero de 2019. En las pruebas de imagen de control se mantiene la respuesta completa por lo que inicia tratamiento de mantenimiento con vinorelbina y ciclofosfamida oral el 31 de mayo de 2019.
+Esquema de tratamiento: IVA (x 3-4 ciclos), radioterapia, IVA (x 5 ciclos). Mantenimiento con vinorelbina y ciclofosfamida (x 6 ciclos).
+
+Evolución
+La paciente desde el primer ciclo de quimioterapia tuvo una muy buena respuesta clínica, disminuyendo considerablemente el conglomerado adenopático cervical y desobstruyéndose el orifico nasal. Como toxicidad al tratamiento presentó neuropatía grado II a partir del 3º-4º ciclo de predominio en manos que mejoró tras la reducción de dosis de vincristina y un episodio de neutropenia febril. Actualmente, está sin secuelas y lleva vida normal con el tratamiento de mantenimiento.

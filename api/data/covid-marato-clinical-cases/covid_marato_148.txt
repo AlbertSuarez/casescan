@@ -1,0 +1,19 @@
+Anamnesis
+A la espera de fecha para intervención quirúrgica, en octubre de 2017 acude a consulta en nuestro centro por cuadro de varias semanas de evolución de mareos, visión borrosa, desorientación, inestabilidad con marcha atáxica taloneante con aumento de la base de sustentación y deterioro cognitivo incipiente con episodios predominantemente nocturnos de agitación.
+
+Exploración física
+Paciente estable hemodinámicamente, normohidratada y normocoloreada, afebril y eupneica en reposo. ECOG 3. Auscultación cardiopulmonar sin alteraciones de interés. Abdomen anodino. No presenta edemas ni signos de trombosis venosa profunda. Consciente y orientada en persona y espacio, parcialmente desorientada en tiempo. Bradipsiquia y bradilalia sin clara disartria. Pupilas mióticas, pero isocóricas y normorreactivas. Destaca divergencia ocular con dificultad para la supraversión e infraversión. Fuerza y sensibilidad en EESS conservada. En EEII, fuerza disminuida 3+/5. Marcha atáxica con ampliación de la base de sustentación y bipedestación inestable.
+
+Pruebas complementarias
+La tomografía computarizada (TC) de cráneo no mostró alteraciones relevantes, realizándose RM cerebral que presenta aisladas lagunas inespecíficas de hiperseñal a nivel de sustancia blanca bilateral de posible origen vascular sin otros hallazgos. Ante la sospecha de carcinomatosis meníngea vs. síndrome paraneoplásico, se solicita colaboración al Servicio de Neurología que realizó una punción lumbar que resultó negativa para células malignas y positiva para anticuerpos onconeuronales tipo anti-Ri.
+
+Diagnóstico
+Síndrome paraneoplásico tipo encefalitis límbica por anticuerpos anti-Ri en paciente con cáncer de mama.
+
+Tratamiento
+Dada la positividad de receptores hormonales, se inicia letrozol durante el ingreso. En un principio se inicia tratamiento con corticoides sin mejoría de la clínica. Tras la obtención de resultados de las pruebas complementarias y ante la positividad de anticuerpos onconeuronales anti-Ri y clínica neurológica, cuadro compatible con síndrome paraneoplásico tipo encefalitis límbica paraneoplásica con afectación de fosa posterior y troncoencéfalo, por lo que se inicia tratamiento con inmunoglobulina humana intravenosa.
+
+Evolución
+Ante la sospecha de encefalitis límbica por anticuerpos anti-Ri como síndrome paraneoplásico de su neoplasia mamaria, se inicia tratamiento inmunomodulador con inmunoglobulina humana, presentando mejoría inicial de la clínica nocturna con rápida reaparición de episodios predominantemente nocturnos de agitación, inquietud y desorientación, asociado a deterioro rápidamente progresivo del cuadro neurológico.
+Se valoró tratamiento quirúrgico como tratamiento específico del cuadro intercurrente actual; sin embargo, en contexto de episodios de desorientación y agitación y ajuste de medicación, la paciente presenta una insuficiencia respiratoria aguda, sin poder descartar broncoaspiración. Se inició tratamiento con antibioterapia de amplio espectro y oxigenoterapia a altos flujos, objetivando en radiografía de tórax discreto aumento de densidad paracardiaca basal derecha, sin poder descartar afectación parenquimatosa subyacente.
+A pesar de ajuste de tratamiento, aparece empeoramiento neurológico rápidamente progresivo y clínica respiratoria de tórpida evolución, con exacerbaciones de la misma con la movilización e ingesta, con fallecimiento final de la paciente.

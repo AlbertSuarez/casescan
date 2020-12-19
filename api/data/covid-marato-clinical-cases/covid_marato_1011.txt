@@ -1,0 +1,35 @@
+Anamnesis
+Mujer de 27 años, ingeniera de profesión, sin alergias a medicamentos conocidas, ni antecedentes médico-quirúrgicos de interés, es diagnosticada en noviembre de 2013 de forma casual de una gran tumoración retroperitoneal; la paciente no presentaba cuadro clínico constitucional, dolor, pérdida de peso ni otra sintomatología asociada.
+
+Se realizó una biopsia guiada por ecografía, que informó de un posible sarcoma retroperitoneal de bajo grado, por lo que fue intervenida mediante laparotomía exploradora en diciembre de 2013, alcanzando una resección quirúrgica completa (R0). Los hallazgos intraoperatorios y la descripción de la anatomía patológica de la pieza quirúrgica revelaron una gran masa retroperitoneal, muy vascularizada, que rechazaba anteriormente el bazo y el páncreas e inferiormente el riñón izquierdo y el colon, sin llegar a infiltrarlos, aunque se encontraba en íntimo contacto con la cápsula del polo superior renal. La paciente presentó una recuperación postoperatoria satisfactoria, manteniendoun excelente estado general. Fue remitida a las consultas de Oncología Médica de nuestro hospital para valorar la necesidad de tratamiento adyuvante.
+
+Exploración física
+Excelente estado general, performance status (PS) 0. Cicatriz de herida quirúrgica en buen estado, resto de la exploración física anodina
+
+Pruebas complementarias
+» Tomografía comoputarizada (TC)-TAP (21/11/2013): masa heterogénea bien definida, de 15 x 10 x 12 cm, con áreas de necrosis, ubicada en la región de la glándula suprarrenal izquierda, que desplaza páncreas, grandes vasos y está en íntimo contacto con el polo superior del riñón izquierdo.
+» Anatomía patológica de la pieza quirúrgica: tumoración delimitada de 16 x 10 x 13 cm, heterogénea, con áreas fibrosas, carnosas y hemorrágicas. Proliferación celular constituida por nidos de células epitelioides monomorfas, con núcleos excéntricos separados por tractos fibrosos. Positividad difusa para vimentina, WT1 y CD-99. Se aprecia traslocación del gen EWRS positiva. Ki-67: 15%. Las citoqueratinas y los marcadores mieloides son negativos. Hallazgos compatibles con sarcoma retroperitoneal indiferenciado con traslocación del gen EWRS.
+» Hemograma, bioquímica y hemostasia: normales.
+
+Diagnóstico
+Sarcoma indiferenciado pleomórfico con fenotipo epitelioide/rabdoide (tumor desmoplásico de células redondas con fenotipo rabdoide y fusión de EWSR1-WT1).
+
+Tratamiento
+Con el diagnóstico de sarcoma retroperitoneal indiferenciado con traslocación del gen EWRS, y a falta del diagnóstico patológico y molecular definitivo, en una paciente joven, asintomática y en quien se ha alcanzado una resección quirúrgica R0, se procedió a la criopreservación de corteza ovárica, dado que existía un alto grado de incertidumbre sobre la posibilidad de necesitar tratamiento quimioterápico adyuvante.
+
+Una vez obtenido el diagnóstico anatomopatológico definitivo de fibrosarcoma epitelioide esclerosante (se realizaron las traslocaciones cromosómicas por técnica de reacción en cadena de la polimerasa [PCR], tanto del sarcoma de Ewing como del tumor desmoplásico de células redondas pequeñas con resultado negativo, aunque hubo un FISH positivo para el gen EWRS, menos específico, en la biopsia inicial) y al tratarse de un sarcoma de bajo grado, en cuyo caso no se ha demostrado beneficio de tratamiento quimioterápico adyuvante, se optó por mantener un seguimiento estrecho. La paciente continuaba asintomática y haciendo vida normal.
+
+Evolución
+En julio de 2014 (siete meses tras la cirugía), se objetiva en la TC de evaluación progresión de la enfermedad por la presencia de metástasis hepáticas, peritoneales y musculares (pared posterior tóraco-abdominal). La paciente continuaba asintomática y con PS de 0.
+
+El caso clínico fue presentado en el Comité de Tumores Músculo-Esqueléticos y, dada la atipicidad del cuadro, se decidió llevar a cabo una nueva revisión de la pieza de anatomía patológica inicial y se solicitó una nueva biopsia guiada con la idea de valorar el componente de desdiferenciación. Se eligió la metástasis muscular por ser el lugar más accesible.
+
+Una vez hecha la biopsia, se inició tratamiento sistémico con adriamicina liposomial pegilada durante tres ciclos, con aceptable tolerancia, pero con progresión radiológica hepática y peritoneal. En ese momento se recibe el resultado definitivo de la segunda biopsia, que informan de sarcoma indiferenciado pleomórfico con fenotipo epitelioide/rabdoide; los hallazgos morfológicos y moleculares orientaron a una forma de tumor desmoplásico de células redondas con fenotipo rabdoide y fusión de EWSR1-WT1.
+
+Nos encontrábamos ante un caso cínico excepcional, un tumor desmoplásico de células redondas con un fenotipo altamente atípico, donde el diagnóstico final lo ha dado un segundo análisis molecular. Si bien no se había obtenidorespuesta al tratamiento con adriamicina liposomial, la paciente mantenía buen estado general y se encontraba asintomática, por lo que se decidió iniciar una segunda línea de tratamiento con el esquemaVIDE (vincristina, ifosfamida, adriamicina y etopósido) con soporte de pegfilgrastimcomo profilaxis primaria de la fiebre neutropénica, similar a un sarcoma de Ewing.
+
+Aun así, tras el primer ciclo precisó de ingreso hospitalario por fiebre neutropénica, por lo que se decidió la reducción de dosis al 75% de etopósido, intentando mantener la intensidad de dosis de ifosfamida y adriamicina. Los ciclos posteriores se administraron sin incidencias ni retrasos, salvo por anemia grado 3, que precisó de transfusión en dos ocasiones más. La evaluación tras tres ciclos mostró enfermedad estable radiológica, y se mantenía el beneficio clínico, por lo que se completaron seis ciclos en total.
+
+En marzo de 2015 se realizó la evaluación final del tratamiento, donde persistía la actividad metabólica tumoral en metástasis hepáticas, implantes mesentéricos, retroperitoneales y de pared abdominal; la paciente continuaba con buen estado general, paucisintomática y manteniendo la independencia para sus actividades de la vida diaria. Por lo tanto, había enfermedad estable y el beneficio clínico se mantenía, de modo que se decidió continuar el tratamiento de mantenimientocon el esquema VACTcD (vincristina, actinomicina D y ciclofosfamida)en analogía al sarcoma de Ewing.
+
+A fecha de hoy se han administrado tres ciclos de mantenimiento, la tolerancia ha sido aceptable, siendo la anemia grado 3, la toxicidad hematológica más llamativa, pero que con el adecuado tratamiento de soporte (eritropoyetina trisemanal) se ha logrado controlar, hasta el punto de que la paciente se ha incorporado a su trabajo habitual y realiza vida normal.

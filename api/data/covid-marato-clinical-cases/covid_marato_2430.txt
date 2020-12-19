@@ -1,0 +1,26 @@
+Anamnesis
+En mayo de 2015, la paciente inicia con dolor en flanco izquierdo de forma intermitente con empeoramiento progresivo asociado a diarrea y síndrome constitucional con pérdida de 8 kg en 2 meses por lo que se inicia proceso diagnóstico.
+
+Exploración física
+Durante la exploración destacaba abdomen blando con masa entre flanco izquierdo e hipogastrio con leves molestias a la palpación profunda, sin otros hallazgos de interés.
+
+Pruebas complementarias
+Mediante TC toracoabdominopélvica realizada en agosto de 2015 se evidenciaron múltiples implantes sólidos en el peritoneo con pequeña cantidad de líquido libre perihepático sugestivos de diseminación peritoneal y omental metastásica con afectación extensa del meso que mediante biopsia guiada por TC dio como resultado carcinoma seroso de alto grado compatible con origen mülleriano con receptores de estrógeno y p16 positivos. La exploración ginecológica fue normal y el marcador Ca125 era igual a 284.
+El estudio genético fue negativo para mutaciones en BRCA 1 y 2.
+
+Diagnóstico
+Valorada como paciente de 66 años de edad diagnosticada de carcinomatosis peritoneal de probable origen ovárico estadio III al menos, se presenta en comité de Ginecología y se desestima cirugía de entrada proponiendo quimioterapia perioperatoria y posterior cirugía de intervalo.
+
+Tratamiento
+En septiembre de 2015 inicia el esquema carboplatino AUC 6/paclitaxel, realizando 3 ciclos y obteniendo respuesta parcial y posterior cirugía de intervalo con protocolo de ovario con resección R0, y posterior administración de 3 ciclos con el mismo esquema, finalizando quimioterapia postoperatoria en marzo de 2016. Como toxicidad destaca neurotoxicidad grado 2, digestiva grado 2 y neutropenia G3. La paciente finaliza el tratamiento en marzo de 2016, quedando sin evidencia de enfermedad desde el punto de vista radiológico y negativizando el marcador tumoral (Ca125) por lo que inicia seguimiento.
+
+Evolución
+En agosto de 2017, la paciente se encuentra asintomática, pero se observa elevación del marcador tumoral (Ca125 = 115) y progresión peritoneal por radiología en TC con implantes peritoneales múltiples en pelvis, periesplénico y en omento mayor, por lo que se decide iniciar segunda línea de tratamiento paliativa con carboplatino AUC 4/gemcitabina/bevacizumab del que recibe 6 ciclos con buena tolerancia al tratamiento, teniendo sólo astenia grado 2. Se obtiene respuesta parcial y finaliza la quimioterapia en noviembre de 2017, continuando con bevacizumab de mantenimiento en monoterapia del que realiza un solo ciclo en diciembre de 2017.
+En enero de 2018, acude a consulta con deterioro del estado general, refiriendo inestabilidad progresiva, desviación de la marcha y somnolencia de 4-5 semanas de evolución, y en la exploración física destaca reflejos osteotendinosos exaltados sobre todo en miembros inferiores, dismetría leve, disdiadococinesia bilateral y desviación de la marcha hacia el lado izquierdo con Romberg izquierdo, por lo que la paciente se ingresa en Oncología para estudio. Durante el ingreso se realiza interconsulta a Neurología y se realizan las siguientes pruebas complementarias:
+» RM craneal (enero/2018): numerosas lesiones hiperintensas en T2 y FLAIR en substancia blanca sin efecto masa compatible con isquémicas. No hay signos de metástasis en SNC ni realces meníngeos que sugieran enfermedad neoplásica.
+» Ab onconeuronales (enero/2018): negativos.
+» Serología VHS (enero/2018): negativa.
+» Bioquímica LCR (enero/2018): normal. Glucosa 80 normal. Proteína 47 normal (10-45). Sin leucos si hematíes.
+» RM neuroeje (enero/2018): cordón medular normal. Discopatía degenerativa L4-L5 y L5-S1 ya conocida, con protrusión posterior que contacta con las raíces L5-S1.
+Tras la estabilidad clínica y ante la ausencia de datos que sugieran diseminación meníngea, así como de cuadro paraneoplásico se atribuyó la sintomatología a posible toxicidad neurológica por bevacizumab, así que se suspendió el tratamiento con antiangiogénico y se procedió al alta con diagnóstico de cuadro de ataxia en probable relación con toxicidad neurológica por bevacizumab.
+La paciente acude a consulta externa de Oncología en marzo de 2018 para control clínico tras el ingreso en enero 2018, completamente asintomática sin ninguna sintomatología neurológica con marcador Ca125 normal y sin evidencia de progresión tumoral a ningún nivel.

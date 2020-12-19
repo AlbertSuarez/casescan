@@ -1,0 +1,20 @@
+Anamnesis
+Varón de 81 años, independiente y con buena calidad de vida, hipertenso con buen control e intervenido de cáncer de próstata en 2001 en revisión por su médico de familia. Desde hace varios años, realiza seguimiento por cirugía maxilofacial (CMF) por parotiditis derecha litiásica recurrente. Presenta múltiples antecedentes familiares de primer grado de cáncer de pulmón en dos hermanas, cáncer ORL en un hermano y cáncer ginecológico materno.
+
+Exploración física
+Buen estado general, bien hidratado y perfundido, afebril y normotenso. Sin adenopatías palpables a nivel cervical ni supraclavicular. Tumoración escapular derecha de unos 10 cm de diámetro, levemente dolorosa a la palpación, sin signos inflamatorios. Durante la auscultación, tonos rítmicos y regulares, sin soplos. Murmullo vesicular conservado sin ruidos patológicos. Abdomen blando y depresible, no doloroso durante la palpación. Ruidos hidroaéreos presentes. Miembros inferiores sin edemas ni signos de trombosis venosa profunda. Signos de insuficiencia venosa crónica.
+
+Pruebas complementarias
+En junio de 2016, acude a consulta de revisión en CMF, dónde en TC solicitada previa a intervención de parotiditis, se evidencia, además de un aumento del tamaño y la densidad de la glándula parótida derecha con adenopatía en su interior, una lesión expansiva y esclerosa en escápula derecha, afectando al cuerpo y la espina de la misma, con zonas osteolíticas y de esclerosis y reacción perióstica. Ante estos hallazgos, se decide ingreso en Traumatología para estudio.
+Se realiza RM escapular con contraste en julio de 2016, dónde se aprecia captación de contraste periférica de la lesión, con extensión a fosas supra e infraespinosas y unas dimensiones de 81 x 36 x 37 mm; así como gammagrafía ósea que evidencia, además, depósitos patológicos de radiotrazador en hemivértebra de D3, plano anterior de 4º arco costal izquierdo y acetábulo derecho. Se biopsia la masa escapular en quirófano, con resultado anatomopatológico de metástasis de adenocarcinoma con positividad para GATA-3, CK7, CK19, CKAE1/AE3, EMA, CEA y MUC1, sugestivo de origen urotelial o mamario.
+
+Diagnóstico
+Es derivado a nuestra consulta con el diagnóstico de adenocarcinoma sugestivo de origen urotelial o mamario con múltiples metástasis óseas.
+Se solicitan cistoscopia y ecografía mamaria que descartan enfermedad a dichos niveles; así como PAAF parotídea, que no evidencia células neoplásicas. Se realiza nueva RM cervical con contraste en septiembre de 2016, que muestra un aumento de tamaño de la glándula parótida derecha con múltiples lesiones en su interior de aspecto necrosado, así como adenopatías de aspecto patológico en nivel IV cervical derecho.
+
+Tratamiento
+En octubre de 2016, se realiza parotidectomía derecha, con resultado de Anatomía Patológica de carcinoma mucoepidermoide de alto grado que afecta a ambos lóbulos y a ganglio intraparotídeo; iniciándose tratamiento con carboplatino y paclitaxel semanal.
+
+Evolución
+Ante los resultados anatomopatológicos, se solicita revisión de la muestra, objetivándose que, además del GATA-3, la mamoglobina y la proteína S100 son positivas, por lo que finalmente se diagnostica de carcinoma secretor análogo al de mama (MASC), HER-2 mediante CISH. Se determinan así mismo, las mutaciones de NTRK-1/-2/-3, ALK y ROS-1 dentro de estudio STARTRK-2; un fase II con entrectinib para el tratamiento de tumores sólidos con dichas mutaciones, que resultan negativas.
+Recibe 4 ciclos de paclitaxel y carboplatino semanal, evidenciándose progresión de enfermedad en TC de enero de 2017, con aumento de lesión ósea escapular y aparición de nueva en cuerpo de D11. Ante la falta de respuesta a QT, recibe RT paliativa en columna dorsal y, en abril de 2017, inicia 2º línea de QT con epirrubicina semanal y zoledronato, habiendo recibido hasta la fecha 2 ciclos, con enfermedad estable pero mala tolerancia, con vómitos grado 4 que requirieron ingreso hospitalario.

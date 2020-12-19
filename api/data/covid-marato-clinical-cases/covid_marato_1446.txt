@@ -1,0 +1,22 @@
+Anamnesis
+Mujer de 45 años de edad, exfumadora con una dosis acumulada de 20 paquetes-año con antecedentes de infección por virus de la hepatitis C tratado con interferón y ribavirina en 2006 con negativización de la carga viral e insuficiencia renal crónica (IRC) estadio V secundaria a poliquistosis hepatorrenal en tratamiento sustitutivo con hemodiálisis desde enero de 2009. Sale de lista de trasplante en noviembre de 2009 ante la aparición en la citología vaginal de screening de una lesión intraepitelial escamosa de alto grado (HSIL, CIN III) positiva para VPH de alto riesgo (16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, 68) con sobreexpresión de proteína p16. Se realizan una colposcopia y una biopsia cervical, observando la aparición de carcinoma escamoso microinvasor de cérvix sobre extensas áreas de lesión escamosa intraepitelial de alto grado.
+
+Examen físico
+Paciente con buen estado general (ECOG-PS 1). Exploración ginecológica con presencia de tumor exofítico cervical de consistencia elástica-blanda, no friable, que llega hasta 2 cm del introito vaginal. Fondos de saco no afectados, tacto rectal negativo.
+
+Pruebas complementarias
+- Se completó estudio con RM pélvica (24/11/2009), que mostró la presencia de una masa cervical exofítica dependiente del margen antero-inferior del cérvix de 5 x 4,8 x 2,5 cm, que se extiende hacia la vagina sin infiltración de la pared y sin llegar al tercio inferior. No se observan adenopatías retroperitoneales ni pélvicas de tamaño patológico. Presencia de poliquistosis hepatorrenal conocida, con quistes hemorrágicos renales bilaterales.
+- Se realizó linfadenectomía paraaórtica laparoscópica (15/1/2010), sin presencia de enfermedad metastásica en 11 ganglios aislados.
+- Analítica (15/1/1200): IRC con filtrado glumerular renal de 6,88 ml/min, hemograma sin alteraciones.
+- Marcadores tumorales con CEA de 2,7 ng/ml, CYFRA 21.1 de 7,3 ng/ml y SCC de 20 ng/ml.
+- TC tóraco-abdominal (26/1/2010): sin evidencia de enfermedad a distancia.
+
+Diagnóstico
+Valorado el caso en Comité Oncológico multidisciplinar como carcinoma escamoso de cérvix estadio IB2 de la FIGO en un paciente con IRC en programa de hemodiálisis, se decide tratamiento con radio-quimioterapia concomitante con intención radical.
+
+Tratamiento
+Inicia radioterapia externa en enero de 2010, recibiendo un total de 50,4 Gy a 1,8 Gy/fracción.
+De manera concomitante, se administra cisplatino a dosis de 25 mg/m2 semanal durante 6 ciclos (03/02/2010-10/3/2010), coordinado a su vez con una sesión de hemodiálisis 1 hora tras la administración del citostático. La paciente presentó buena tolerancia al tratamiento, sin efectos adversos relevantes ni discontinuidad o ajuste de dosis. Finalmente, se realizó boost con braquiterapia de baja tasa a dosis total de 34 Gy. El examen físico y la RM pélvica tras finalizar el tratamiento (4/5/2010) mostraron respuesta completa de la enfermedad. Valorado el caso en Comité Oncológico Multidisciplinar, ante el mayor riesgo de recidiva secundario de una futura inmunosupresión, se realiza histerectomía laparoscópica (incluyendo rodete vaginal de 1 cm) y doble anexectomía (2/6/2010), comprobando una respuesta patológica completa sobre la pieza quirúrgica.
+
+Evolución
+Tras revisiones periódicas durante 2 años sin evidencia de enfermedad, se decide su reinclusión en lista de espera de trasplante. El 1 de noviembre de 2011 se realiza el trasplante renal, sin incidencias. Actualmente está en tratamiento inmunosupresor con micofenolato mofetil (500 mg/8 h) y tacrolimus (2,5 mg/12 h) y realiza seguimientos trimestrales en la Unidad de Trasplante Renal. Continúa controles oncológicos semestrales, sin evidencia de enfermedad hasta el momento (última visita el 19/5/2014).

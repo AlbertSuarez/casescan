@@ -1,0 +1,33 @@
+Anamnesis
+Ver a continuación
+
+Exploración física
+Ver a continuación
+
+Pruebas complementarias
+Ver a continuación
+
+Diagnóstico
+Ver a continuación
+
+Tratamiento
+Ver a continuación
+
+Evolución
+Se trata de una mujer de 52 años que trabaja de administrativa y vive con su marido. Tiene 2 hijos. Menarquia a los 13 años, con dos hijos nacidos vivos y ningún aborto. No presenta alergias y niega hábitos tóxicos. Sin antecedentes familiares oncológicos ni personales de interés.
+
+Fue diagnosticada de su primera neoplasia a raíz de la autopalpación de un nódulo en mama derecho en el 1997, realizándose una ecografía con PAAF que no fue concluyente. La RMN mamaria informó de una área de captación irregular de 2 cm situada en la unión de cuadrantes superiores de la mama derecha, por lo que se realizó BAG de la lesión que fue positiva por células de adenocarcinoma. En mayo del 1997, se realizó mastectomia derecha tipo Madden con vaciamiento ganglionar. La anatomía patológica informó de un carcinoma ductal infiltrante, grado I, pT1b N0M0, receptores hormonales de estrógenos y progesterona positivos, realizando tratamiento hormonal complementario con tamixifeno durante 5 años. Ha seguido controles sin evidencia de recidiva de la neoplasia hasta la actualidad.
+
+En diciembre de 2011 presentó cambio de ritmo deposicional y sangre en heces. En la exploración física, tacto rectal sangre en punta de dedo, no se palparon masas. Analíticamente no presentaba anemia, no alteración de la función renal ni hepática, ligera elevación del CEA 9.6ng/ml (límite de 5ng/ml). Se realizó una colonoscopia que informó de masa ulcerada de aspecto neoplásico en ángulo esplénico del colon. El resultado de la biopsia fue de adenocarcinoma infiltrante de bajo grado histológico (grado II) de probable origen colorectal con K-Ras mutado. Se completó el estudio de extensión con un TAC toracoabdominal que informó de unas lesiones focales metastásicas en el hígado. La lesión de mayor tamaño era de 29 mm entre los segmentos IVa y VIII, dos lesiones de menor tamaño, de 9 y 5 mm. Se completó el estudio con RMN hepática que confirmó el número y las características de las lesiones focales hepáticas y un PET-TAC que no mostro captación en otras localizaciones.
+
+Con estos hallazgos se valora como un adenocarcinoma de colon estadío IV (pTxNxM1) de debut, iniciándose quimioterapia primaria, esquema FOLFOX-6m (oxaliplatino, ácido folínico, fluoracilo) con bevacizumab y valoración posterior de rescate quirúrgico del tumor primario y de las lesiones hepáticas.
+
+Realiza cinco ciclos, el último sin bevacizumab, del diciembre de 2011 hasta febrero del 2012 con excelente tolerancia sin requerir retraso de tratamiento ni ajuste de dosis. Se realiza RMN hepática para valoración de respuesta en donde se observa reducción de la lesión de 29mm a 15mm, y no se visualizan las dos lesiones restantes. Dada la respuesta, se realiza rescate quirúrgico, hepatectomía izquierda y hemicolectomía derecha ampliada en mayo del 2012. La anatomía patológica informa de respuesta patológica completa. Posteriormente completa la quimioterapia con cuatro ciclos más de FOLFOX-6m y bevacizumab que finaliza en agosto 2012.
+
+A pesar de que la familia no cumplía criterios clínicos estrictos para el estudio de los genes BRCA1/2, considerando la edad joven al diagnóstico y la quimiosensibilidad se ofrece estudio genético, detectando la mutación c.7180A>T en el exón 14 del gen BRCA 2.
+
+Considerando la respuesta patológica completa de la neoplasia de colon, se informa a la paciente de la opción de una salpingooforectomía bilateral profiláctica que se realiza en marzo del 2014, sin evidencia de patología neoplásica en ovario ni trompas.
+
+Se ha realizado también estudio genético predictivo a sus familiares directos (ver árbol geneológico: Destacar que madre y tía materna de 80 y 83 años, son ambas portadoras de la misma mutación en el gen BRCA2, y no han desarrollado ninguna neoplasia, lo que nos recuerda el fenómeno de anticipación que se ha descrito en éstos genes, así como la influencia de otros factores modificadores del riesgo en portadoras de mutación en los genes BRCA1/2 (genéticos y ambientales).
+
+La paciente se mantiene libre de enfermedad hasta julio del 2013, cuando presenta dolor lumbosacro de nueva aparición, de características inflamatorias, por lo que se realiza RMN sacroilíaca que informa de lesión lítica que destruye la cortical anterior del ala ilíaca izquierda sugestiva de metástasis. Se completa el estudio con PET-TAC y gammagrafía, que descartan otras lesiones. Dado que se trata de una metástasis ósea única se realiza radiocirugía sobre la lesión con PET-TAC de control posterior donde presenta respuesta clínica y metabólica completa, sin evidencia de recidiva de enfermedad hasta la actualidad (3 años de seguimiento).

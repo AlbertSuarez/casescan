@@ -1,0 +1,29 @@
+Anamnesis
+Historia oncológica:
+Octubre/2011: realización de ecografía abdominal por cólico nefrítico donde se observan metástasis hepáticas. Explica aumento durante los últimos 6 meses del flushing habitual, diarrea y pérdida de peso. Inicia estudio diagnóstico ambulatorio.
+
+Exploración física
+ECOG 1. Índice de masa corporal (IMC) 30 mg/m2. Hallazgos destacables: hepatomegalia de 3 traveses y flushing en bipedestación.
+
+Pruebas complementarias
+En el análisis sanguíneo no había hallazgos remarcables. Destaca en orina de 24 h una elevación de 5HIIA de 89,4 mg/24 h (valores de referencia < 8,2 mg/24 h) y cromogranina A de 6.110 mg/ml (valores de referencia < 134 ng/ml).
+Como pruebas radiológicas, la TC mostraba una masa parahiliar izquierda de 18 mm e imágenes hepáticas hipodensas sugestivas de metástasis. En cuanto al Octreoscan®, únicamente captaban las lesiones hepáticas con expresión de receptores de la somatostatina.
+La biopsia hepática reveló la presencia de un tumor neuroendocrino bien diferenciado con positividad por cromogranina A y sinaptofisina, citoqueratina AE1, AE3. Con 3 mitosis y un Ki-67 del 8,2 %.
+Se realizó una broncoscopia donde se apreció una reducción de la entrada del segmento posterior del lóbulo inferior izquierdo. La biopsia pulmonar fue positiva para un tumor neuroendocrino (carcinoide atípico) con positividad para cromogranina, sinaptofisina y CD56.
+El ecocardiograma no fue relevante y la PET-TC observó baja captación de las lesiones hepáticas, del tumor pulmonar y de las adenopatías.
+
+Diagnóstico
+Nos encontramos ante un tumor carcinoide atípico pulmonar bien diferenciado con metástasis hepáticas. Paciente clínicamente sintomático, debido a síndrome carcinoide con flushing y diarreas. Se realiza seguimiento compartido por parte de Oncología Médica y Endocrinología.
+
+Tratamiento
+» Octubre/2011: análogos de la somatostatina (lanreótido intramuscular 120 mg cada 28 días) mejorando la sintomatología (flushing y diarrea).
+» Enero/2012: reaparición de síntomas cada 3 semanas por lo que se administra análogo cada 21 días.
+» Febrero/2012: lobectomía inferior izquierda.
+» Marzo/2012: embolización portal derecha. Se programa para hepatectomía, pero durante el acto quirúrgico se observa afectación vascular de las suprahepáticas y se decide que no es candidato a resección. Continúa tratamiento con análogos.
+» Enero/2013: progresión hepática por TC. Inicia everolimus 10 mg/d + lanreótido cada 3 semanas.
+» Octubre/2013: aumento de la sintomatología, por lo que se ajusta el análogo cada 14 días.
+» Noviembre/2014: empeoramiento del síndrome carcinoide que invalida vida diaria. En comité multidisciplinar, se replantea para embolización, pero se decide cirugía extrema con hepatectomía derecha y resección vascular. Cirugía R0. AP: 17 metástasis de tumor neuroendocrino bien diferenciado, Ki-67 10 %. Después de la cirugía, desaparece la clínica carcinoide. Sigue con el análogo.
+» Agosto/2015: reaparición de lesiones hepáticas irresecables, y adenopatías mediastínicas por lo que se reintroduce everolimus junto con análogo.
+
+Evolución
+Desde agosto de 2015 hasta la actualidad, el paciente ha seguido tratamiento con everolimus y análogo de la somatostatina. En TC de valoración de respuesta de febrero/2018 se observa progresión hepática, por lo que se deriva para ensayo clínico con inmunoterapia.

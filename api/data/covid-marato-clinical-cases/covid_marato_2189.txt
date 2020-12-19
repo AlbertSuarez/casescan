@@ -1,0 +1,22 @@
+Anamnesis
+Varón de 43 años, natural de China, sin antecedentes destacables de interés, acude a Urgencias de nuestro hospital por un cuadro de 72 horas de evolución de dolor abdominal en hemiabdomen derecho, acompañado de 3-4 deposiciones diarreicas, sin productos patológicos. Presenta sensacion distermica no termometrada desde la noche previa, sin otra sintomatología acompañante. A su llegada destaca febrícula de 37,8 ºC.
+
+Examen físico
+A la exploración abdominal destaca un abdomen blando, depresible, sin signos de peritonismo. Se palpa una masa a nivel de fosa ilíaca y flanco derechos dolorosa, pero sin defensa. Resto sin hallazgos destacables.
+
+Pruebas complementarias
+Analítica sanguínea: destaca proteína C reactiva de 234, sin alteraciones en el hemograma ni en el resto de la bioquímica.
+Radiografía de abdomen: se observa desplazamiento de las asas intestinales hacia la izquierda.
+Tomografía computarizada (TC) abdominal: a nivel de fosa ilíaca derecha, masa sólida heterogénea, de bordes bien delimitados, de unos 108 x 76 x 106 mm en intima relacion con la pared cecal y con multiples asas ileales, desplazandolas craneal y medialmente. Presenta un área central hipodensa, sugestiva de necrosis y/o abscesificación con adenopatias interaortocavas, la mayor de ellas de 14 mm de diametro.
+Laparotomía exploradora: masa de unos 10 x 9 cm, retroperitoneal, móvil, con adherencias laxas a los tejidos circundantes compatible con criptorquidia abdominal, procediéndose a la resección de la misma.
+Tras la intervención quirúrgica se solicitan marcadores tumorales con AFP 2.007 KU/. ( 0,00-9,00), HCG < 1 UI/l ( 0-5) y LDH 311.
+
+Diagnóstico
+El resultado anatomopatológico confirma la presencia de un tumor germinal mixto (50 % seminoma, 50 % tumor del saco vitelino).
+Se completa estudio de extensión con ecografía escrotal sin patología en el teste izquierdo y TC de tórax que descarta la presencia de patología torácica.
+
+Tratamiento
+Valorado como tumor germinal mixto con afectación adenopática (< 2 cm) sin poder estratificar grupo de riesgo por desconocer marcadores tumorales en el pretratamiento, se decide iniciar quimioterapia adyuvante según esquema BEP indiana (etopósido 100 mg/m2 días 1-5, cisplatino 20 mg/m2 días 1-5, bleomicina semanal x 9 semanas, ciclos c/21 d), por 3 ciclos. El paciente presenta negativización de marcador tumoral en el día +14 del primer ciclo (alfa-fetoproteína 12,20).
+
+Evolución
+Tras finalizar la quimioterapia, se solicita TC de valoración de respuesta que muestra desaparición de las adenopatías, valorándose como remisión completa de la enfermedad. El paciente sigue controles periódicos con Oncología Médica sin evidencia de enfermedad.

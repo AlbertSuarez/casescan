@@ -1,0 +1,19 @@
+Anamnesis
+Se trata de una mujer de 72 años, con antecedente únicamente de dislipemia, que acude al Servicio de Urgencias por dolor abdominal de meses de evolución, predominante en fosa iliaca derecha que se había agravado los últimos días. Asociaba también astenia, hiporexia e intolerancia alimentaria.
+
+Exploración física
+La paciente presenta un performance status de 2. En la exploración destaca distensión y dolor abdominal, con discreto empastamiento difuso pero sin palpación de masas. Los ruidos hidroaéreos son normales. La auscultación cardiopulmonar tampoco muestra alteraciones y no hay edema en miembros inferiores.
+
+Pruebas complementarias
+En el Servicio de Urgencias se realiza ecografía abdominal y, ante los hallazgos, se completa el estudio mediante tomografía computarizada (TC): se objetiva abundante material fluido intraperitoneal, de contenido denso y tabicado, probablemente mucinoso, con nodularidad peritoneal. Además, en la teórica topografía del apéndice se observa una lesión tubular de 2 cm de calibre con contenido mucinoso (en relación a mucocele) y una lesión quística en el ovario izquierdo de 10 x 13 cm. No existen otras anomalías a nivel abdominal.
+Se practica una endoscopia digestiva baja, y en el fondo cecal, junto al orificio apendicular se visualiza un área de 3-4 mm de aspecto velloso que se biopsia, con resultado anatomopatológico de cistoadenocarcinoma mucinoso de apéndice. En cuanto a la analítica, no existen alteraciones en hemograma, bioquímica ni coagulación, y el antígeno carcino-embrionario (CEA) es de 8,3 ng/ml y el CA 12,5, de 31,5 ng/ml.
+
+Diagnóstico
+Con todos estos datos, se llega al diagnóstico de pseudomixoma peritoneal secundario a neoplasia mucinosa apendicular con metástasis ováricas (estadio IV) y, tras evaluación del riesgo, se indica la cirugía. En este caso, se consideró indicada la intervención y posterior HIPEC por un peritoneal cancer index (PCI) bajo. El PCI se emplea para determinar la extensión de la afectación peritoneal por el tumor y consiste en la división de la cavidad abdominal en 9 cuadrantes y la adjudicación de distintas puntuaciones en función del tamaño de los implantes peritoneales presentes.
+
+Tratamiento
+Por lo tanto, en esta paciente, se realiza de forma programada una cirugía citorreductora, que consiste en una hemicolectomía derecha, peritonectomía, esplenectomía, colecistectomía, histerectomía y doble anexectomía. En el mismo acto quirúrgico se administra quimioterapia intraperitoneal hipertérmica (HIPEC) con oxaliplatino (760 mg) y posterior quimioterapia intravenosa con 5-fluorouracilo (660 mg)/levofolinato.
+El diagnóstico definitivo es de cistoadenocarcinoma mucinoso de apéndice con perforación e infiltración de la serosa, junto con probables metástasis ováricas bilaterales, un implante sólido en peritoneo y afectación múltiple por infiltración de material mucoide acelular (en epiplón, cápsula de Glison, vesícula, útero, trompas de Falopio, cápsula esplénica y peritoneo). El estadio final es de pT4a pN0 M1. Tanto KRAS como NRAS y BRAF son negativos.
+
+Evolución
+Tras recuperación de la cirugía, la paciente presenta un performance status de 1 y la exploración física no muestra hallazgos reseñables. Como única sintomatología refiere estreñimiento que controla con dieta y laxantes. No ha presentado ninguna toxicidad inmediata a la quimioterapia intraperitoneal ni a la quimioterapia intravenosa. Posteriormente se inicia seguimiento. Tras 24 meses de seguimiento, la paciente sigue libre de enfermedad.

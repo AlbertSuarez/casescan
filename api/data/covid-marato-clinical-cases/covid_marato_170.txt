@@ -1,0 +1,27 @@
+Anamnesis
+Presentamos a una mujer de 67 años de edad, sin alergias medicamentosas conocidas, con menarquia a los 13 años y menopausia a los 53 años, sin antecedentes familiares de interés y antecedente de un adenocarcinoma de endometrio en 2006 por el que se realizó histerectomía seguido de radioterapia externa y braquiterapia, y sin evidencia de recidiva en la actualidad.
+En 2013 es diagnosticada de un carcinoma ductal infiltrante de mama izquierda grado 3, luminal B (receptores de estrógenos positivo, receptores de progesterona negativo, índice de proliferación alto: Ki67 59 %), HER-2 negativo, estadio IV por metástasis ósea única en vértebra D6. Inicia en junio de 2013 primera línea de tratamiento paliativo con docetaxel, del que recibe 7 ciclos con aceptable tolerancia. En la TC de evaluación se demostró enfermedad estable. En noviembre de 2013 se inicia hormonoterapia con letrozol y, en diciembre del mismo año, se asocia ácido zoledrónico cada 4 semanas.
+En marzo de 2014 se realiza TC de evaluación en la que presenta enfermedad estable y áreas parcheadas en vidrio esmerilado en las porciones superiores y medias de ambos campos pulmonares, sugestivas de neumonitis intersticial. Clínicamente, la paciente se encuentra afebril, sin tos ni expectoración, pero presenta disnea de esfuerzos.
+
+Exploración física
+» PS ECOG 1. Astenia grado 1. Eupneica. Saturación de oxígeno basal: 98 %. Afebril.
+» Auscultación cardiopulmonar: rítmica, sin soplos. Murmullo vesicular conservado con ligeros crepitantes teleinspiratorios en campos medios.
+» Abdomen: depresible, no doloroso a la palpación, sin datos de irritación peritoneal y ruidos intestinales presentes.
+» Extremidades inferiores: sin edema ni datos de trombosis venosa profunda.
+
+Pruebas complementarias
+Análisis de sangre (marzo 2014):
+Hemograma y bioquímica: dentro de los límites de la normalidad.
+Marcadores tumorales: BR 27,29 (Ca 15,3) 37,1 U/ml. Al diagnóstico: BR 27,29 (Ca 15,3): 51,8 U/ml (valores de referencia 0,0-31,0 U/ml).
+TC marzo de 2014: persiste, sin cambios significativos, la lesión esclerótica en el lado izquierdo del cuerpo vertebral D6. En cuanto la lesión localizada en la mama izquierda, se observa una reducción del 25 % del diámetro máximo. Se evidencian múltiples áreas parcheadas en vidrio esmerilado en las porciones superiores y medias de ambos campos pulmonares, compatible con neumonitis intersticial probablemente por toxicidad. Pequeñas adenopatías en mediastino anterior prevascular, dentro de rango de la normalidad. Conclusión: enfermedad estable. Sospecha de neumotoxicidad.
+
+Diagnóstico
+- Carcinoma ductal infiltrante de mama estadio IV por metástasis ósea en D6 a tratamiento con letrozol + ácido zoledrónico.
+- Neumonitis intersticial por bifosfonatos.
+
+Tratamiento
+Con intención de tratar la toxicidad inflamatoria se inicia metilprednisolona 16 mg dos veces al día en pauta descendente y, ante la sospecha de toxicidad por bifosfonatos, se suspende el ácido zoledrónico.
+
+Evolución
+Ante la sospecha de neumotoxicidad por ácido zoledrónico se suspende dicho fármaco y se pautan glucocorticoides, presentando la paciente mejoría clínica. Se solicita TC pulmonar de alta definición al cabo de un mes con resolución completa de las lesiones parenquimatosas pulmonares, persistiendo lesión en mama izquierda sin cambios.
+Tras haber recibido 7 ciclos de docetaxel, inicia hormonoterapia con letrozol manteniendo enfermedad estable durante 38 meses. Posteriormente, progresa a varias líneas de tratamiento. En diciembre de 2018 se diagnostica de un adenocarcinoma de colon estadio IV por metástasis hepáticas, y se encuentra en la actualidad en tratamiento activo con capecitabina, con buena tolerancia. Cabe destacar que, tras haber suspendido el ácido zoledrónico, la paciente no presentó ningún evento esquelético relacionado con la enfermedad metastásica ósea hasta la actualidad.

@@ -1,0 +1,26 @@
+Anamnesis
+Mujer de 46 años de edad, sin patologías de interés y con antecedentes familiares de neoplasia maligna de mama presente en tres tías de línea materna. Diagnosticada en diciembre de 2014 de carcinoma ductal infiltrante de mama izquierda localmente avanzado E-IIIA (cT1cN2aM0) triple negativo (fenotipo RE, RP y expresión HER-2 negativos), Ki 67 10 %, y metástasis por carcinoma infiltrante en adenopatía axilar. Estudio de extensión negativo. Se decide quimioterapia (QT) neoadyuvante esquema FEC (5-FU 600 mg/m2, epirrubicina 90 mg/m2 y ciclofosfamida 600 mg/m2) cada 21 días por 4 ciclos, seguidos de paclitaxel 80 mg/m2 semanal por 12 semanas. Finaliza el tratamiento en julio de 2015, con RMN de mamas, mamografía y ecografía valoradas como respuesta completa. Se interviene en septiembre del mismo año, mediante mastectomía radical izquierda con linfadenectomía axilar ipsilateral. El resultado anatomopatólogo final fue de carcinoma ductal infiltrante de mama E-IIIA (yp T1c N2a [6/14] M0), triple negativo, Ki 67 15 %, con grado de respuesta patológica a la QT (Miller & Payne), local G3 y regional C. Se solicita radioterapia adyuvante por afectación ganglionar, en pared torácica y áreas ganglionares locorregionales, total de dosis 45Gy, que finaliza en noviembre de 2015, con buena tolerancia, y como toxicidad máxima, dermitis grado 1. En abril de 2016, presenta recaída cutánea a nivel de la cicatriz de herida quirúrgica, por lo que se solicita estudio de extensión, objetivando también, afectación pleuropulmonar, con derrame pleural que precisó de colocación de drenaje extratorácico y pleurodesis, iniciando tratamiento con QT esquema capecitabina 1.000 mg/m2 (días 1-14) + bevacizumab 15 mg/kg (d 1), como mayor toxicidad eritrodisestesia palmoplantar grado 2 e hiperbilirrubinemia grado 2. Tras 3 ciclos, progresión de enfermedad a nivel cutáneo, con tórax en coraza, no cumpliendo criterios de inclusión dentro de ensayos clínicos disponibles en nuestro centro, inicia segunda línea de tratamiento con nab-paclitaxel, con respuesta parcial tras 3 ciclos, con mejoría de las lesiones cutáneas y descenso del CA 15.3. Tras 6 ciclos, y antes de estudio de reevaluación, en enero de 2017 ingresa en el hospital por derrame pleural sintomático, en el contexto de progresión de enfermedad. Se realiza estudio de reevaluación, donde se aprecia mayor afectación pleuropulmonar, carcinomatosis peritoneal de nueva aparición y engrosamiento nodular a nivel de colon transverso, por lo que se solicita colonoscopia con resultado histopatológico e inmunohistoquímico de metástasis por carcinoma ductal infiltrante. En febrero, inicia nueva línea de tratamiento con eribulina.
+
+Exploración física
+» TA 115/70 mm Hg. FC 86 lpm. SATO2 92 % aire ambiente.
+» A nivel de pared torácica, presenta placas eritematosas en mama izquierda, con bordes difusos,
+» extensa, además de lesiones nodulares de tamaño variable, algunas de aspecto sobreinfectado con exudado purulento.
+» ACP: ruidos cardiacos rítmicos, sin soplos. Murmullo vesicular disminuido en las bases, con estertores crepitantes.
+» Abdomen: ruidos hidroaéreos presentes. Blando, depresible, no doloroso a la palpación. No reacción peritoneal.
+» Sin edemas en miembros inferiores
+
+Pruebas complementarias
+Analítica sanguínea: Hb 11,6. CA 15,3 279,6. CEA 0,6. Función hepática y renal normales.
+Radiografía de tórax: derrame pleural bilateral, predominio derecho. Infiltrado intersticial hemitórax izquierdo.
+TC tórax-abdomen-pelvis: patrón reticulointersticial pulmonar izquierdo. Derrame pleural bilateral. Engrosamiento nodular a nivel de colon esplénico de 37 mm. Engrosamiento nodular en peritoneo, compatible con carcinomatosis peritoneal.
+Colonoscopia: a nivel de ángulo esplénico del colon, se visualiza lesión mamelonada de aproximadamente 2,5 cm.
+Biopsia de colon: infiltración por carcinoma. Inmunohistoquímica: CK 20 negativo. CK 5/6 positivo. CK7 positivo. CK 14 positivo, CK 19 positivo, RE negativo, RP negativo. HER-2 negativo. Ki 67 20 %, lo que apoya el diagnóstico de metástasis por carcinoma ductal infiltrante triple negativo.
+
+Diagnóstico
+Carcinoma ductal infiltrante de mama E-IV triple negativo. Progresión de enfermedad. Metástasis en colon por carcinoma ductal infiltrante de mama.
+
+Tratamiento
+En resumen, ante el diagnóstico de cáncer de mama triple negativo localmente avanzado, la paciente recibió QT neoadyuvante, seguida de RT adyuvante por afectación ganglionar. Posteriormente, ante recaída de la enfermedad a nivel cutáneo y pleuropulmonar, recibió tratamiento con QT esquema capecitabina + bevacizumab, tras progresión de enfermedad cutánea y pulmonar, nab-paclitaxel; finalmente, tras dos líneas de tratamiento, ante progresión a nivel pulmonar, peritoneal y metástasis en colon, llevó tratamiento con eribulina.
+
+Evolución
+Después del primer ciclo de QT con eribulina, vuelve a ingresar por tromboembolismo pulmonar y derrame pleural masivo recidivante con colocación de drenaje extratorácico tunelizado. Tras 2 ciclos, presentó mayor deterioro de su situación funcional, con síntomas refractarios al tratamiento, por lo que se decide en consenso con los familiares, limitación de esfuerzo terapéutico, con desenlace fatal en abril de 2017.

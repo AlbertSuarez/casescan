@@ -1,0 +1,31 @@
+Anamnesis
+Paciente de 47 años, exfumadora desde hacía 15 años de 10 paquetes/año, y asma alérgica en tratamiento con salbutamol a demanda.
+Antecedente hacía 14 años de lesión cutánea en la región maleolar interna del pie derecho. Se realizó biopsia escisional en su hospital de referencia con huso cutáneo que incluía lesión nodular blanquecina de 1,2 cm. La histología consistía en células bien delimitadas, patrón difuso organoide, de citoplasma claro y núcleos vesiculosos con nucléolo prominente y de coloración basófila, con presencia de mitosis y con el margen claramente infiltrado. La inmunohistoquímica (IHQ) mostró vimentina +, S-100 +, queratina –. Todo ello compatible con sarcoma de células claras (SCC).
+Se derivó a nuestro centro y se reintervino con exéresis amplia con elipse cutánea de 3,5 x 5,3 cm y colgajo radial libre, y se practicó una linfadenectomía inguinal derecha. La anatomía patológica mostraba una lesión de aspecto cicatricial sin tumor residual, con márgenes libres. En la linfadenectomía, 0 de 8 ganglios afectados. El estudio de extensión con TC tóraco-abdominal resultó negativo.
+Dado el tamaño inferior a 5 cm y la cirugía de ampliación de márgenes libres, no se consideró candidata a recibir tratamiento con QT/RDT adyuvante.
+Siguió controles clínicos seriados con radiografías de tórax, sin evidencia de recidiva a los 10 años de seguimiento.
+La enfermedad actual se inicia en septiembre de 2013, cuando la paciente consultó en Urgencias de su hospital por dolor pleurítico izquierdo y disnea progresiva de 2 semanas de evolución, acompañado de síndrome tóxico.
+
+Examen físico
+Afebril y hemodinámicamente estable. Taquipneica a 24 rpm, con hipofonesis basal izquierda, taquicárdica a 115 lpm.
+No se palpaban adenopatías a nivel cervical, supraclavicular, axilar, ni inguinal. Exploración mamaria normal. No lesiones cutáneas sospechosas de malignidad.
+
+Pruebas complementarias
+- Se realizó una radiografía de tórax, donde se evidenciaba derrame pleural izquierdo basal con engrosamientos pleurales.
+- La TC torácica mostraba múltiples nódulos pleurales izquierdos sugestivos de metástasis y derrame pleural ipsilateral con atelectasia del lóbulo inferior, sin adenopatías hiliares ni mediastínicas.
+- Se practicó una toracocentesis diagnóstica y evacuadora con citología positiva para células malignas.
+- Posteriormente se realizó una toracoscopia con biopsia pleural y talcaje.
+- La anatomía patológica (AP) informaba de melanoma maligno con IHQ HMB 45 +, S-100 +, EMA +, Ki 67 30%.
+Se remitió a nuestro centro para manejo y tratamiento.
+
+Diagnóstico
+Dado el antecedente de sarcoma de células claras hacía 14 años, y sabiendo que se trata de una entidad a tener en cuenta en el diagnóstico diferencial histopatológico del melanoma maligno, se revisó la AP de la biopsia pleural, y se solicitaron técnicas de estudio molecular, concretamente un FISH de la traslocación del gen EWSR1 (22q12), característica del sarcoma de células claras.
+La AP informó de signos de infiltración por una tumoración sólida, constituida por células de citoplasma claro, con marcada atípia citológica y un elevado índice mitótico. Las células mostraron positividad inmunohistoquímica para HMB45 y S100. La translocación del gen EWSR1 (22q12) resultó positiva, confirmando el diagnóstico de sarcoma de células claras y descartando un melanoma maligno.
+En resumen, se valoró como recidiva de sarcoma de células claras a nivel pleural, a 14 años de la cirugía del tumor primario.
+
+Tratamiento
+Se planteó tratamiento de primera línea dentro del ensayo clínico TH-CR 406-SARC 021 (Fase III, que valora la primera línea de tratamiento en sarcomas de partes blandas con doxorrubicina + TH-302 versus doxorrubicina), y fue randomizada a la rama control (doxorrubicina 75 mg/m2 cada 21 días).
+
+Evolución
+Tras tres ciclos de tratamiento, la paciente presentó progresión clínica y radiológica, con aumento de la disnea y mal control del dolor. En la AC aparecieron adenopatías supraclaviculares bilaterales, metástasis óseas y progresión de las lesiones pleurales existentes. Dado el deterioro clínico rápidamente progresivo no fue tributaria a una segunda línea de tratamiento.
+Finalmente, la paciente fue exitus en marzo de 2013, a los 5 meses del diagnóstico de la recidiva.

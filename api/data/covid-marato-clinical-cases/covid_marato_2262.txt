@@ -1,0 +1,36 @@
+Anamnesis
+Ama de casa, con antecedentes familiares de un hermano con leucemia y una hermana con carcinoma papilar de tiroides y sin antecedentes personales de interés.
+En noviembre de 2015, la paciente es derivada a ginecología por sangrado vaginal de un mes de evolución. Se le practica colposcopia, ecografía transvaginal y biopsia de cérvix, diagnosticándose de carcinoma epidermoide no queratinizante. Se solicita resonancia magnética (RMN) de extensión, objetivándose afectación de cadenas iliacas, en cuyo caso se considera como estadio IIIC1 de la FIGO. Se presenta en comité de tumores ginecológicos y se desestima la cirugía, por lo que es derivada a consultas de Oncología Médica e inicia tratamiento radical basado en QT con cisplatino semanal 40 mg/m2, junto con RT a una dosis total de 50,4 Gy, seguido de 5 sesiones de braquiterapia endocavitaria a una dosis de 25 Gy, finalizando el 29 de enero de 2016.
+Posteriormente, en la RMN de reevaluación de abril de 2016 se confirma buena respuesta al tratamiento con disminución de tamaño de la masa cervical y de las adenopatías, pero aparece una lesión metastásica ósea de 3 cm en isquion derecho, la cual se confirma mediante gammagrafía ósea (GGO) y punción aspiración con aguja fina (PAAF) de la lesión. En este momento, se plantea nueva línea de QT según esquema carboplatino AUC 5-paclitaxel 175 mg/m2-bevacizumab 15 mg/m2 cada 21 días, presentando como efectos secundarios al tratamiento astenia, epistaxis y rectorragia autolimitadas, parestesias y neutropenia febril que supuso el retraso del quinto ciclo. Finaliza en septiembre de 2016 y continúa con bevacizumab de mantenimiento.
+En el mes de octubre, acude a consulta refiriendo dolor inguinal derecho, y en la GGO de reevaluación se detecta un incremento de la actividad osteoblástica en la lesión metastásica de isquion derecho, que podría estar en relación con el fenómeno flare o de la llamarada. Además, debido a que había presentado proctalgia y rectorragias en varias ocasiones, se solicitó colonoscopia en la que se informa de una lesión ulcerada y fibrinada, sugestiva de proctitis actínica.
+A principios de diciembre de 2016, es valorada en Ginecología por metrorragia y se objetivan signos de infiltración en vagina con posible fístula recto-vaginal, con biopsia y citología negativas. Ante progresión clínica y bioquímica por aumento del marcador del antígeno del carcinoma de células escamosas (SSC) a 16,0 ng/ml (valores normales [VN] de 0-2), se suspende el tratamiento con bevacizumab y se inicia nueva línea con topotecán 3 mg/m2 y denosumab mensual.
+
+Exploración física
+ Al inicio del diagnóstico: Eastern Cooperative Oncology Group (ECOG 0), dolor en hipogastrio con extensión a ambas fosas iliacas y a región sacra, con sangrado vaginal leve.
+ Ingreso en enero de 2017: ECOG 1, hipotensión, palidez mucocutánea, leve deshidratación de mucosas, dolor a la palpación en región suprapúbica con endurecimiento de dicha zona, que no impresiona de globo vesical. Sin edemas en miembros inferiores.
+ Ingreso marzo 2017: ECOG 2, palidez cutáneo-mucosa, bolsa de colostomía funcionante, leve dolor a la palpación en hipogastrio, con puño percusión renal bilateral negativa.
+
+Pruebas complementarias
+1- Ingreso enero 2017:
+ Analítica: destaca hemoglobina 6,7 g/dl, leucocitos 17,940/L con 97 % de polimorfonucleares, actividad de protrombina del 45 %, creatinina 1,61 mg/dl, aspartato aminotransferasa 251 U/l, alanina aminotransferasa 208 U/l y proteína C reactiva 177 mg/l.
+ RMN pelvis: se objetiva ausencia de tabique rectovaginal en 5 cm de eje longitudinal, con imagen de partes blandas a nivel del cérvix en probable relación con persistencia tumoral.
+ Colonoscopia: a 2-3 cm distales del recto inferior se aprecia una lesión necrosada-ulcerada que afecta a la línea pectínea con bordes eritematosos y friables, que parecen corresponder a una fístula rectovaginal, sin poder descartar infiltración neoplásica.
+2- Ingreso marzo 2017:
+ Analítica: destaca hemoglobina 8,2 g/dl, plaquetas 53.000/l y proteína C reactiva 67 mg/l.
+ Urocultivo y cultivo de drenaje del absceso intraabdominal: positivo para Enterococcus faecium.
+ Tomografía computarizada (TC) de abdomen y pelvis: se observa una colección multiloculada en gotiera paracólica derecha que se extiende desde espacio subhepática hasta región pélvica de un diámetro mayor aproximado de 22 cm.
+ Cistoscopia: se aprecia zona fistulosa eritematosa en fondo hacia cara lateral izquierda, así como posible infiltración tumoral en fondo.
+
+Diagnóstico
+1- Carcinoma de cérvix estadio IIIC-1.
+2- Rectorragia y hematuria secundarias a fístula recto-vagino-vesical.
+3- Infección del tracto urinario inferior y absceso intraabdominal por Enterococcus faecium.
+
+Tratamiento
+En el primer ingreso, ante la detección de una fístula rectovaginal secundaria tanto a tratamiento radioterápico como antiangiogénico, se realizó colostomía paliativa de descarga con el objetivo de mejorar la calidad de vida de la paciente.
+En el segundo ingreso, tras confirmarse la progresión de la fístula rectovaginal hacia vejiga, se desestimó tratamiento quirúrgico dado el mal pronóstico a corto plazo. Se decidió actitud conservadora con sonda urinaria permanente y antibioterapia dirigida con vancomicina, permaneciendo posteriormente en tratamiento sintomático.
+
+Evolución
+En enero de 2017 ingresa en planta por shock séptico de origen urinario, rectorragia y dolor mal controlado a nivel pélvico y rectal en relación con sospecha de fístula rectovaginal que se confirma durante la hospitalización tras realización de colonoscopia y RMN de pelvis. Se comenta el caso en comité de tumores colorrectal y se decide realizar colostomía transversa derecha de descarga, mejorando la paciente del dolor y la rectorragia en los días sucesivos procediéndose al alta.
+En marzo de 2017, reingresa a cargo de Oncología por hematuria y disuria de dos semanas de evolución. Tras colocación de sonda de lavado, con urocultivo positivo a E. faecium y tratamiento antibiótico dirigido, desaparece el síndrome miccional. Se presenta el caso en el comité de tumores genitourinarios ante la sospecha clínica y por TC de que la fístula recto-vaginal haya progresado a vejiga. Tras valoración por los servicios de Urología y Ginecología se confirma lo anterior, descartando actitud quirúrgica en este momento dada la situación general y el pronóstico de la paciente.
+Además, por TC de abdomen y pelvis se detecta hallazgo casual de una gran colección intraabdominal, la cual se drena por Radiología Intervencionista con salida de contenido purulento y positividad a E. faecium.

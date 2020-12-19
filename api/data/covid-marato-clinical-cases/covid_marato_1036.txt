@@ -1,0 +1,27 @@
+Anamnesis
+Se trata de un varón de 67 años sin antecedentes familiares de interés, ni reacciones adversas medicamentosas conocidas. Fumador de 15 cigarros diarios y no bebedor.
+
+Como antecedentes personales presenta hipertensión arterial (HTA) de buen control con enalapril 20 mg/hidroclorotiazida 12,50 mg diario y hemorragia digestiva alta por ulcus duodenal intervenido hace 25 años, sin complicaciones posteriores.
+El paciente acude a consulta en noviembre del 2017 en Urgencias por rectorragia intermitente, tenesmo rectal y proctalgia de cuatro meses de evolución, asociado a astenia y pérdida de peso no cuantificada, sin otros síntomas diana.
+
+Exploración física
+Aceptable estado general con performance status (PS) 1 y estabilidad hemodinámica.
+Abdomen blando y depresible con ruidos hidroaéreos presentes, no es doloroso en la palpación, sin apreciarse masas ni megalias. En el tacto rectal, se palpa una masa mamelonada desde el mismo margen anal, con dedil manchado de sangre.
+
+Pruebas complementarias
+Inicialmente se realiza analítica con antígeno carcinoembrionario (CEA) normal y radiografía de abdomen sin hallazgos patológicos relevantes. Posteriormente, se realiza colonoscopia diagnóstica que explora hasta colon ascendente y objetiva en el recto, desde margen anal hasta 8 cm del mismo, una lesión excrecente, mamelonada que ocupa más de la mitad de la circunferencia con Anatomía Patológica que confirma adenocarcinoma (ADC) infiltrante.
+Se realiza resonancia magnética (RM) de pelvis con contraste intravenoso que describe a unos 2,5 cm del margen anal un engrosamiento circunferencial irregular de la mucosa del canal anal y recto inferior de intensidad de señal intermedia que restringe significativamente en difusión de unos 15 mm de grosor máximo y longitud de unos 7,5 cm, con focos en su margen anterior de infiltración superficial de la grasa mesorrectal sin llegar a invadir la cápsula prostática. Así mismo, se aprecian signos de infiltración del esfínter interno izquierdo y en el margen izquierdo se visualiza un engrosamiento del elevador del ano a la altura del músculo puborrectal con signos de probable infiltración neoplásica. Por último, se visualizan múltiples ganglios presacros, los mayores en torno a 6 mm de eje corto, algunos de ellos sospechosos de malignidad. La tomografía computarizada (TC) de extensión de tórax y abdomen objetiva hallazgos de CRLA, sin evidencia de M1 a distancia.
+
+Diagnóstico
+ADC infiltrante de recto inferior cT4 cN2a M0, estadio III.
+
+Tratamiento
+Se discute el caso en comité de CCR, considerándose candidato a tratamiento con QTRT neoadyuvante. En diciembre 2017, inicia tratamiento con XELOX (capecitabina + oxaliplatino), previo al inicio de QTRT.
+
+Evolución
+Tras dos ciclos de inducción de QT según XELOX, y a la espera de inicio de tratamiento concurrente con RT, recibió QTRT con capecitabina alcanzado la dosis de 50.4 Gy en total desde el 12 enero 2018 hasta el 23 febrero 2018, sin toxicidad relevante y mejoría de los síntomas diana (desaparición de rectorragia y tenesmo rectal).
+Se programa para cirugía en abril de 2018 mediante amputación abdominoperineal extensa que el paciente rechazó; sin realizarse la RM prequirúrgica e interrumpiendo el seguimiento en nuestra unidad.
+Un año más tarde, el paciente solicita valoración urgente en Oncología por dolor abdominal de dos meses de evolución, asociado a incontinencia fecal. En consulta se ajusta analgesia y se inicia nuevo estudio para valorar estado actual de neoplasia.
+En la RM pélvica, se aprecia significativa reducción de la neoplasia de recto inferior descrita en estudio de 2017, visualizándose engrosamiento asimétrico del margen derecho de la pared del recto inferior, de unos 10 mm de espesor máximo y 3 cm de extensión, localizada a unos 3 cm del margen anal, sin signos de extensión subserosa. En el estudio actual, no se identifica clara infiltración del esfínter anal externo ni pérdida de señal en los planos grasos interesfinterianos. Hiperintensidad de señal en T2 difusa de las paredes del recto inferior, así como de la grasa del espacio mesorrectal, en probable relación con cambios por respuesta a radioterapia. En la TC de tórax y abdomen destacan numerosas formaciones ganglionares retroperitoneales, la mayor de ellas de 12,4 mm en región paraaórtica izquierda, estables desde el diagnostico. La tomografía por emisión de positrones (PET) descarta malignidad de dichas adenopatías retroperitoneales.
+Tras presentar el caso nuevamente en comité de tumores, se cataloga como una neoplasia de recto inferior, al menos cT2cN0; a pesar de un año tras el fin de QTRT de inducción. Se decide por tanto CIA, y en abril del 2019 se realiza amputación abdominoperineal laparoscópica sin complicaciones. El diagnóstico histopatológico definitivo fue de ADC de recto inferior bien diferenciado (G1) con infiltración de la pared intestinal alcanzando la capa muscular propia sin signos de invasión vascular, pT3, pN0, R0.
+Tras la CIA, el paciente se encuentra asintomático, con PS 1 y pendiente de comenzar adyuvancia con capecitabina por 6 meses.

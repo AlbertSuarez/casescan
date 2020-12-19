@@ -1,0 +1,36 @@
+Anamnesis
+Mujer de 58 años, asintomática. Acude a consulta de Oncología Médica derivada del Servicio de Dermatología, con diagnóstico de angiosarcoma de cuero cabelludo parietal derecho, para valoración de tratamiento.
+
+No refiere alergias a medicamentos. Hipotiroidismo subclínico. Independiente para las actividaes básicas de la vida diaria. Sin otros antecedentes de interés ni tratamiento habitual en este momento
+
+Historia oncológica: desde agosto de 2014 presenta mácula de aspecto vascular en la sien derecha con dos zonas más oscuras en la parte anterior, blanquea a la presión, no palpable, no pulsátil. Se deriva al Servicio de Dermatología para el estudio de dicha lesión.
+
+Exploración física
+PS 0. Exploración física sin alteraciones. Mácula en la sien derecha polícroma, rojácea, que blanquea a la presión, no pulsátil ni palpable, de 8 cm de diámetro aproximadamente.
+
+Pruebas complementarias
+» Analítica sanguínea: sin alteraciones.
+» Anatomía patológica: en la dermis profunda se aprecia celularidad intersticial atípica vascular con presencia de máculas intracitoplasmáticas. En la dermis superficial a nivel subepitelial presencia de estructuras vasculares de paredes delgadas, irregulares, dilatadas y tapizadas de células endoteliales con núcleos grandes, hipercromáticas y pleomórficas que hacen prominencia en la luz. Se observa extravasación hemática y un infiltrado linfoplasmocitario perivascular: no necrosis ni aumento del número de mitosis.
+» Inmunohistoquímica: CD31 (+), CD34 (+), VHH8 (-), S-100 (-).
+» Infiltración celular difusa con inmunofenotipo compatible con angiosarcoma.
+» TC cérvico-toracoabdominopélvica (19/1/2015): estudio sin afectación ganglionar locorregional ni metastásica a distancia.
+» RM cerebral (30/12/2014): alteraciones en la piel y el tejido celular subcutáneo de la región parietal derecha compatibles con edema, inflamación, hipervascularización e hipercelularidad inespecíficos que pueden ser manifestación del proceso proliferativo maligno diagnosticado anatomopatológicamente. Sin signos de posible exensión tumoral local ni intracraneal.
+
+Diagnóstico
+Angiosarcoma de cuero cabelludo parietal derecho, estadio II.
+
+Tratamiento
+Con el diagnóstico anatomopatológico y el estadiaje se comenta el caso con el centro de referencia para plantear cirugía radical de Mohs, la cual se rechaza por la gran extensión de la lesión. Tras descartar cirugía radical, se revisa la bibliografía de series de casos y se decide tratamiento con QT-RT concomitante con intención radical.
+
+La paciente inicia tratamiento con paclitaxel 80 mg/m2 semanal concomitante con RT del 28 de enero de 2015 hasta el 25 de marzo de 2015, habiendo recibido siete ciclos.
+
+El tratamiento con radioterapia consistió en administrar braquiterapia de contacto, con una fuente de iridio-192, entre el 9 y el 19 de febrero de 2015, irradiando la lesión superficial del cuero cabelludo con un margen lateral de 4 cm y calculado a 1 cm de profundidad. La dosis administrada fue de 48 Gy administrados en fracciones de 3 Gy diarios en régimen de hiperfraccionamiento.
+
+Además, entre los días 11/3/2015 y 25/3/2015 se administra RT externa sobre un nódulo de nueva aparición con un campo directo, incluyendo los márgenes laterales y la superficie de este. La dosis administrada fue de 20 Gy en 10 fracciones de 2 Gy.
+
+Evolución
+Durante el tratamiento la paciente presentó buena tolerancia a la quimioterapia, sin que apareciera ningún tipo de toxicidad causada por la misma. En cambio, desarrolló una epitelitis grado III a la semana de haber concluido el programa de braquiterapia de contacto sobre la región supraciliar derecha. Además, presentó una tumefacción fibroelástica que motivó su control ecográfico y determinó la presencia de una imagen de aumento de partes blandas en el tejido celular subcutáneo, con lesión hipoecoica, ovalada, de 32 x 8 x 17 mm, con importante realce de su patrón vascular. Al analizar dicha zona con la dosimetría de la braquiterapia, se observó que esta lesión dependía de una zona de gradiente distributivo crítico que solo alcanzó el 60% de la dosis prescrita, por lo que, tras evaluar cuidadosamente la situación, se decidió complementar el tratamiento braquiterápico con un componente de radiación externa.
+
+Tras recibir tratamiento con RT externa, la lesión tratada desapareció desde un punto de vista macroscópico. Persistía el cuadro de epitelitis grado III con áreas de IV que precisaron de cuidados específicos de enfermería hasta su total resolución.
+
+Una vez solucionada la epitelitis desarrollada durante el tratamiento y con evidencia clínica de respuesta completa, se realizó biopsia de la zona tratada, RM craneal y TC cérvico-toracoabdominopélvica para evaluar la respuesta al tratamiento en abril de 2015, con resultados de respuesta completa patológica y radiológica que se mantiene en la actualidad.

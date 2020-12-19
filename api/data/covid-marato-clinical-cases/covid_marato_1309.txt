@@ -1,0 +1,47 @@
+Anamnesis
+Mujer de 47 años sin antecedentes médico-quirúrgicos ni familiares de interés.
+Consultó en enero de 2010 por dolor abdominal, diarrea y rectorragia de un mes de evolución. Se realizaron una colonoscopia, una gastroscopia, una tomografía computarizada (TC) de tórax-abdomen-pelvis y una resonancia magnética (RM) abdómino-pélvica con hallazgo de colitis ulcerosa, carcinomatosis peritoneal y tumoraciones ováricas bilaterales sugestivas de neoplasia primitiva.
+Se realizó intervención quirúrgica: histerectomía con doble anexectomía, omentectomía, linfadenectomía pélvica e ileostomía de descarga. El resultado anatomopatológico de la pieza informó de afectación ovárica bilateral por adenocarcinoma con células en anillo de sello en el 75% del tumor, siendo compatible con tumor de Krukenberg de origen colónico estadio IV.
+Se repitió la colonoscopia, que confirmó el origen primario de la neoplasia tras la resolución del proceso inflamatorio. En postoperatorio inmediato presentó un tromboembolismo pulmonar bilateral, por lo que se anticoaguló con heparina de bajo peso molecular.
+Inició tratamiento quimioterápico paliativo según el esquema FOLFOX-4 (5-fluorouracilo, leucovorín y oxaliplatino), con respuesta parcial tras 6 ciclos, por lo que continuó tratamiento, y las toxicidades: neutropenia grado 4, anemia grado 2, mucositis grado 2 y neuropatía periférica grado 1.
+Consultó a los 7 días tras la infusión del noveno ciclo por un cuadro de cefalea frontoparietal izquierda opresiva (EVA 8/10) y visión borrosa en el ojo izquierdo. No refería dolor a la movilización ocular ni traumatismo previo. No había presentado episodios similares anteriormente.
+
+Examen físico
+Valoración por Oftalmología:
+- Pupilas isocóricas normorreactivas. Reflejos pupilares conservados. Córnea, conjuntiva y cámara anterior sin hallazgos.
+- Agudeza visual: ojo derecho 1. Ojo izquierdo visualiza dedos a 30 cm.
+- Presión intraocular 16 cm H2O.
+- Fondo de ojo bilateral: no edema de papila. No signos de vasculitis ni hemorragia. Integridad retiniana. Mácula y fibras nerviosas sin signos patológicos.
+Valoración por Neurología:
+- Sensibilidad vibratoria ausente en el pie izquierdo, resto sin signos de focalidad neurológica.
+
+Pruebas complementarias
+- Tomografia de coherencia óptica: mácula y papila dentro de la normalidad.
+- Análisis de sangre: proteína C reactiva 14 mg/dl (< 5), velocidad de sedimentación globular 120 mm/h (< 25), ECA 58 UI/l (8-55), proteínas totales 6,05 g/dl (6,3-8,2), gamma glutamiltranspeptidasa (GGT) 103 UI/l (12-43), fosfatasa alcalina 198 UI/l (38-126), lactato deshidrogenasa 452 UI/l (313-618), hemoglobina 10,4 g/dl (12-15,5), hematocrito 32,5% (35-45), leucocitos 17,42 x 10³/?l con 69% de neutrófilos (4-11). Resto dentro de la normalidad, incluyendo factor reumatoide, función tiroidea, vitamina B12 y ácido fólico.
+- Autoinmunidad: ANCA, anti-ENA, anti-DNA, Ac. antineuronales, anti-Hu negativos.
+- EEF suero: descenso de albúmina y alfa-lipoproteína, aumento de alfa-1 antitripsina y haptoglobina.
+- Punción lumbar: presión de salida 5 cm H2O. Bioquímica: leve hiperproteinorraquia de 64 mg/dl.
+- Serologías para Llúes, herpes 1 y 2, enterovirus, Epstein-barr, CMV, Borrellia, Brucella negativas en líquido cefalorraquídeo.
+- Electrocardiograma: ritmo sinusal a 80 lpm, sin alteraciones en la repolarización.
+- Radiografía de tórax: dentro de la normalidad.
+- TC craneal: sin alteraciones significativas.
+- RM craneal: mayor grosor del nervio óptico izquierdo que no realza con gadolinio respecto al derecho. Resto sin hallazgos significativos.
+- RM columna cervical: rectificación del eje vertebral con mínimos cambios degenerativos discovertebrales en C3-C4.
+- Potenciales evocados: respuestas polifásicas disgregadas de latencias incrementadas y amplitudes descendidas en el ojo izquierdo. Estudio compatible con afectación de tipo mixto vía óptica procedente del ojo izquierdo, con mayor afectación de fascículos maculares en grado actual severo.
+
+Diagnóstico
+Neuritis óptica posterior izquierda secundaria a tratamiento citostático.
+
+Tratamiento
+Tras el diagnóstico inicial de neuritis óptica, se instauró tratamiento con corticoterapia sistémica con dosis altas de metilprednisolona intravenosa y pauta oral descendente posterior.
+
+Evolución
+La paciente presentó progresión del déficit visual a pesar de la corticoterapia instaurada precozmente. Con el diagnóstico de neuritis óptica posterior secundaria a quimioterapia, se decidió retirar el oxaliplatino y continuó con 5-fluorouracilo en monoterapia.
+En control 3 meses después del inicio del cuadro a la exploración por Oftalmología destacaba:
+- Pupilas isocóricas normorreactivas. Reflejos pupilares conservados. Córnea, conjuntiva y cámara anterior sin hallazgos.
+- Agudeza visual: ojo derecho 1,2. Ojo izquierdo no percibe ni proyecta luz: amaurosis.
+- Reflejos pupilares: ojo derecho conservados. Ojo izquierdo: indirecto abolido con presencia del consensuado.
+- Fondo de ojo: ojo derecho dentro de la normalidad. Ojo izquierdo con signos de atrofia de la papila óptica, sin otros hallazgos.
+Sin otros signos de focalidad neurológica. En la RM craneal no se objetivaron diferencias entre ambos nervios ópticos ni a otros niveles.
+Continuó el tratamiento con 5-fluorouracilo hasta progresión a nivel del colon derecho y peritoneal, 20 meses tras el inicio del tratamiento. Se suspendió el tratamiento antineoplásico específico y continuó tratamiento sintomático.
+Presentó un episodio de obstrucción intestinal maligna, para el cual se instauró tratamiento médico, sin resolución del cuadro, y falleció en enero de 2012, 2 meses tras la progresión de la enfermedad.

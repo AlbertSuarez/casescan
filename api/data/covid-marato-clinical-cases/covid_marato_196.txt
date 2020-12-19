@@ -1,0 +1,32 @@
+Anamnesis
+Paciente varón de 42 años, sin alergias medicamentosas conocidas, ni factores de riesgo cardiovascular, ni enfermedades relevantes conocidas. Profesor de música de profesión, independiente para las ABVD. Niega medicación habitual. Niega hábitos tóxicos. Sin antecedentes oncológicos familiares.
+Ingresa en el servicio de UEI de nuestro centro el 08/11/2018 por diagnóstico tardío de VIH y lesiones cutáneas compatibles con sarcoma de Kaposi.
+
+Exploración física
+A nivel de piel, lesiones violáceas sobreelevadas en cuello, mejilla derecha, punta de nariz, tronco, espalda, abdomen y extremidades sin signos de sobreinfección. A nivel de orofaringe: placas blanquecinas adheridas a pilares faríngeos sugestivos de muguet. Exploración cardiopulmonar, abdominal y neurológica sin hallazgos relevantes.
+
+Pruebas complementarias
+Dentro de las analíticas solicitadas destacan los siguientes puntos:
+» Hemograma hemoglobina 7,7 g/dl, leucocitos 2,3 10*9/l, neutrófilos 1,4 10*9/l, linfocitos 0,6 10*9/l.
+» Poblaciones linfocitarias: linfocitos T (CD4+) 46,9 cels/ul, linfocitos T (CD8+) 492,3 cels/ul, cociente CD4/CD8 0,1.
+» Ácido anti-VIH 1 y 2 y Ag p24 positivo. WB VIH positivo. Carga viral 351.000 cp/ml Log carga 5,54 LgC/MI.
+» Tipaje HLA B5701 positivo. Estudio de resistencia a antirretrovirales es negativo.
+» Serología para VHB, VHC, VHA, Treponema pallidum, CMV, toxoplasma negativo.
+» Ácido antiherpes virus 8 IgM 1/20, IgG negativo.
+Se realiza estudio de TC de extensión 09/11/2018: poliadenopatías a nivel submaxilar bilateral, axilares bilaterales, en tronco celiaco, mesentéricas, retroperitoneales e inguinales bilaterales. Bronquiectasias los lóbulos inferiores y lóbulo medio.
+
+Diagnóstico
+» Infección por VIH estadio C3.
+» Sospecha de sarcoma de Kaposi.
+
+Tratamiento
+Inicia tratamiento antirretroviral con tenofovir/emtricitabina/darunavir/cobicistat, con buena tolerancia.
+
+Evolución
+El 15/11/2018 se realiza biopsia de lesión cutánea con resultado confirmatorio de sarcoma de Kaposi, herpes virus 8 positivo.
+Al aparecer disfagia, persistir signos de muguet y presentar anemia con necesidad transfusional, el 16/11/2018 se realiza gastroscopia y colonoscopia donde destaca a nivel esofágico abundantes grumos blanquecino-amarillentos adheridos a pared de esófago sugestivo de candidiasis, a nivel de cuerpo y antro 3-4 lesiones sobreelevadas nodulares de coloración rojiza de tamaño de 2-3 cm sugestiva de sarcoma de Kaposi, duodeno normal hasta segunda porción. En colonoscopia se aprecian desde recto hasta 40 cm del margen anal, lesiones nodulares rojo-cereza sobreelevadas similares a las vistas en cavidad gástrica sugestivas de sarcoma de Kaposi.
+Resultado de Anatomía Patológica de lesión gastroesofágica: cambios inflamatorios crónicos y vasos muy focales de morfología disecante que sugieren sarcoma de Kaposi, HHV8 positivo. Abundantes hifas y esporas compatibles con candidiasis.
+El paciente pasa a cargo de Oncología Médica, donde se completa estudio por presentar pancitopenia, descartándose leishmaniasis visceral por PCR y mediante biopsia de médula ósea. Ante el diagnóstico de infección por VIH estadio C3 y sarcoma de Kaposi con afectación cutánea y mucosa, se inicia tratamiento con doxorrubicina liposomal el 22/11/2018 con buena tolerancia, tras lo cual paciente es dado de alta y continúa controles en consultas externas.
+Tras 6 ciclos de quimioterapia, presenta importante mejoría clínica con negativización de lesiones cutáneas y disminución de las lesiones enterales. Punch cutáneo de lesión sospechosa: sin evidencia histopatológica de sarcoma de Kaposi. HHV8 negativo. Gastroscopia: esófago normal sin hallazgos sugestivos de candidiasis. Estómago: 3-4 lesiones nodulares, sobreelevadas y rojizas de 1-1,5 cm de diámetro que han disminuido de tamaño respecto a gastroscopia anterior. Colonoscopia: se llega hasta 40 cm de margen anal, evidenciando 4-5 lesiones de pequeño tamaño más evidentes a nivel rectal.
+En la última analítica de mayo 2019, destaca hemoglobina 12,8 g/dl, leucocitos 3,1 10*9/l, neutrófilos 1,3 10*9/l, linfocitos 1,4 10*9/l. Poblaciones linfocitarias: linfocitos T (CD4+) 235,5 cels/ul, linfocitos T (CD8+) 999,7 cels/ul, cociente CD4/CD8 0,2. Función renal y hepática normal. Carga viral < 20 cp/ml Log carga 1,30 LgC/MI.
+El paciente continúa controles de manera conjunta por el servicio de Oncología y la Unidad de Enfermedades Infecciosas de nuestro centro, manteniendo TAR hasta la fecha actual. De acuerdo con el paciente, ante negativización de HHV8 en lesiones cutáneas, buena respuesta a nivel de mucosas y reconstitución del sistema inmune, se decide suspender tratamiento con quimioterapia y continuar controles estrechos en consultas externas.

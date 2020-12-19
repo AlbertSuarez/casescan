@@ -1,0 +1,27 @@
+Anamnesis
+Varón de 68 años, exfumador de 60 paquetes-año, diagnosticado de adenocarcinoma bronquioloalveolar mucinoso T3N0M0, Estadio IIB, en 2010. Practicada lobectomía inferior derecha extendida a la pleura parietal y quimioterapia adyuvante con cuatro ciclos de cisplatino/vinorelbina. Los análisis moleculares de la pieza (mutación EGFR, EML4-ALK y k-ras) resultaron negativos.
+Una hermana falleció a los 67 años por un adenocarcinoma pulmonar.
+En seguimiento trimestral tras el tratamiento complementario.
+Acudió en mayo de 2012 para la revisión.
+
+Examen físico
+ECOG 0. Eupneico en reposo. A la ascultación cardiopulmonar mostraba disminución de murmullo vesicular en la base pulmonar derecha. Resto de la exploración sin hallazgos relevantes.
+
+Pruebas complementarias
+TC torácica: imagen nodular de bordes irregulares polilobulada de 12 mm en la región apical del LSD ya apreciada previamente, con discreto crecimiento. Numerosas imágenes nodulares en ambos hemitórax de entre 3 y 14 mm, compatibles con metástasis.
+PET-TC: captación de F18-FDG en el campo superior derecho, en relación con la lesión referida en la TC, con SUV máximo de 2, de probable naturaleza maligna. Captación de F18-FDG en la región prostática con intensa actividad metabólica.
+El paciente refirió cuadro prostático, y ante estos hallazgos se realizó:
+Tacto rectal: próstata de volumen II/IV, de consistencia dura.
+Determinación de PSA: 34.
+Biopsia prostática ecodirigida.
+
+Diagnóstico
+Anatomía patológica: adenocarcinoma de próstata, índice combinado de Gleason 7.
+Planteado el diagnóstico diferencial de los nódulos pulmonares (el paciente había sido diagnosticado de dos tumores primarios, pulmón y próstata), se decidió realizar biopsia nodular pulmonar dirigida por TC con resultado histológico compatible con adenocarcinoma de origen pulmonar. Estudio inmunohistoquímico: Ck7 (+); TTF-1 (+); PSA (-); p540s (-).
+
+Tratamiento
+El paciente inició bloqueo hormonal completo con bicalutamida y leuprolide.
+Se decidió iniciar tratamiento, con probada quimiosensibilidad para los dos tumores, con docetaxel 75 mg/m2 d1 y cisplatino 75 mg/m2 d1 cada 21 días y se reenvió la muestra histológica de la metástasis pulmonar para el estudio EGFR. El resultado fue de mutación con deleción en el exón 19. Ante esta circunstancia, se modificó el tratamiento, suspendiendo la quimioterapia e iniciando tratamiento con erlotinib 150 mg cada 24 horas.
+
+Evolución
+Actualmente presenta buena tolerancia al tratamiento, con rash cutáneo de grado I. Ha mejorado el cuadro prostático y el PSA es de 0,06. Tras dos meses de tratamiento con erlotinib, en TC de control se ha descrito respuesta parcial.

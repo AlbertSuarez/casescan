@@ -1,0 +1,35 @@
+Anamnesis
+Paciente de 53 años, sin antecedentes médicos de interés que, a raíz de un episodio de rectorragia y pérdida de peso objetivada de 4-5 kg en los últimos 4 meses, es diagnosticado de un adenocarcinoma de recto inferior, estadio IV (2 metástasis hepáticas) (cT3N0M1) en noviembre de 2003.
+
+Exploración física
+Consciente, orientado en las 3 esferas, Performance Status (PS) 1. Auscultación cardíaca: rítmica sin soplos ni roces. Auscultación pulmonar: murmullo vesicular conservado. Abdomen: blando, depresible, doloroso a la palpación profunda en hipogástrio. Miembros inferiores: pulsos presentes, sin edemas.
+
+Pruebas complementarias
+.
+
+Diagnóstico
+Adenocarcinoma de recto inferior, estadio IV (2 metástasis hepáticas) (cT3N0M1).
+
+Tratamiento
+Se decide tratamiento "neoadyuvante" con RT pélvica (50 Gy 16/12/2003-21/1/2004) + QT FOLFOX 4 x 4 ciclos. Tras esto, se realiza una intervención de Miles (amputación abdominoperineal) el 4/3/2004.
+
+AP: adenocarcinoma de origen colorrectal ypT3N0 (0/17)M1.
+
+A continuación, se administraron 4 ciclos más de FOLFOX (abril de 2003-junio de 2003) con buena tolerancia (astenia grado 1, toxicidad neuropática periférica grado 1).
+
+En julio de 2003, es valorado por la Unidad de Cirugía Hepática, decidiéndose la resección de las 2 metástasis que presentaba; tras esto, en estadio NED (no evidencia de enfermedad), se prosigue al seguimiento del paciente por Oncología Médica.
+
+Evolución
+A los 3 meses tras la resección hepática, en el primer control, se objetiva, mediante TC, 2 nódulos pulmonares bilaterales, por lo que se decide pedir una PET-TC como estudio de extensión complementario y es remitido a Cirugía Torácica para valoración, decidiéndose resección de forma escalonada durante los meses de febrero y marzo de 2004, siendo la anatomía patológica (AP) de ambos nódulos positiva para adenocarcinoma de origen intestinal; tras esto, se decide continuar con el seguimiento de manera estricta.
+
+Continúa controles en estadio NED hasta octubre de 2012, cuando mediante TC, se objetiva una pequeña masa redondeada, endobronquial que no aparecía en anteriores controles, situada en el bronquio principal izquierdo, no correctamente definida, por lo que se recomienda la realización de una broncoscopia.
+
+El 13/11/2012 se realiza broncoscopia, donde se observa la lesión, visualizada mediante la TC torácica, que estenosa parcialmente el bronquio principal izquierdo que se biopsia, siendo compatible con adenocarcinoma de origen intestinal CK-20 y CDX-2 positivo, CK-7 negativo (metástasis de recto/colon).
+
+Con el resultado positivo para metástasis de adenocarcinoma de colon, se pide PET-TC como estudio de extensión, donde se objetiva la captación de contraste a nivel de la lesión descrita anteriormente, sin evidenciarse más focos hipermetabólicos, por lo que se comenta en Comité de Tumores torácicos para valoración.
+
+Dado que se trataba de un paciente metastático, con varias progresiones a nivel pulmonar, se decide realizar un tratamiento paliativo sobre la lesión con braquiterapia intracavitaria con una dosis total de 25 Gy entre los días 24/12/1202 y 14/1/2013, alcanzando una respuesta completa, que se mantiene hasta octubre de 2013, cuando aparece una nueva recidiva única a dicho nivel y, tras nuevamente comentar el caso en Comité, se decide resección quirúrgica.
+
+En diciembre de 2013 es intervenido mediante la técnica sleeve (resección en manguito) del bronquio principal izquierdo y posterior anastomosis. La anatomía patológica de la pieza confirmó el origen metastásico de la lesión.
+
+Desde entonces continúa en seguimiento por parte de Oncología Médica y Cirugía Torácica; la última broncoscopia realizada fue en septiembre de 2014, biopsiándose de nuevo la cicatriz de la zona intervenida, sin hallazgos representativos y la última visita en diciembre de 2014, con TC toraco-abdomino-pélvica, sin evidencia de enfermedad.

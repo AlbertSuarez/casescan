@@ -1,0 +1,25 @@
+Anamnesis
+Varón de 61 años de edad que presenta desde 2010 diarrea crónica, estudiada por el Servicio de Digestivo, con microbiología y analítica de celiaquía negativas y biopsias por gastroduodenoscopia y colonoscopia que muestran inflamación inespecífica. En marzo de 2012, a raíz de una infección respiratoria, se realiza una radiografía de tórax que muestra ensanchamiento mediastínico.
+Se continúa el estudio mediante TC torácica que informa de masa en mediastino anterior. Posteriormente se solicita PET-TC en la que la masa presenta un SUVmáx = 3 g/ml; no se observan adenopatías. Se procedió a biopsia de aguja gruesa guiada por TC que se informó de timoma tipo AB.
+El día 19/06/2012 se practicó exéresis de timoma y grasa de compartimento tímico mediante esternotomía. El examen de la pieza quirúrgica confirmó el diagnóstico de timoma tipo AB.
+Durante el año 2012 el paciente ha presentado hasta cinco infecciones de vías respiratorias que han requerido tratamiento antibiótico. En diciembre de 2012 ingresó en planta de enfermedades infecciosas por septicemia por C. coli, objetivándose neutropenia, que se atribuyó a la toma de rifaximina.
+Además, el paciente está en seguimiento en consultas de Hematología para estudio de linfocitosis puntual, constatándose hipogammaglobulinemia (IgG, IgM e IgA), además de alteraciones de subpoblaciónes linfocitarias.
+En este contexto el paciente consulta el día 2/03/13 en urgencias de nuestro hospital por síndrome febril con tiritona, sin foco aparente.
+
+Examen físico
+Regular estado general, febril (38,6 ºC). Auscultación respiratoria sin alteraciones. Abdomen levemente distendido, peristaltismo aumentado, no doloroso a la palpación, no se palpan masas ni megalias. No existen signos de peritonismo.
+Puño-percusión lumbar bilateral negativa.
+
+Pruebas complementarias
+Analítica con fórmula leucocitaria: leucocitos 2,4 x 10 E9/l [3,9-10], neutrófilos 1,3 x 10 E9/l [1,9-6,4], linfocitos 1x10 E9/l.
+Análisis de gammaglobulinas: proteína 58 g/l, gammaglobulina 1,6 % [11,1-18,8], IgG 274 mg/l [6.900-14.000], IgA <264 mg/l [880-4.100], IgM <169 mg/l [340-2.100].
+Subpoblaciones linfocitarias: cociente CD4/CD8 0,37 [1,05-2,15], linfocitosB CD19 0 % [6-12].
+
+Diagnóstico
+Timoma asociado a inmunodeficiencia combinada (síndrome de Good).
+
+Tratamiento
+Se decide iniciar tratamiento con gammaglobulinas intravenosas (0,4 g/kg) y factor estimulador de colonias de granulocitos 300 mcg/día.
+
+Evolución
+Con el tratamiento se ha conseguido normalizar la cifra de neutrófilos, por lo que el paciente no ha requerido ingreso por causas infecciosas desde el inicio del mismo.

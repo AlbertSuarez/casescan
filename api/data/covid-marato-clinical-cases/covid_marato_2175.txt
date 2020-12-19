@@ -1,0 +1,32 @@
+Anamnesis
+Varón de 65 años que consulta en aAgosto de 2013 por dolor cervical, acudiendo al médico de Atención Primaria, que comienza pauta de antiinflamatorios. Presenta mala evolución clínica pese a la analgesia, comenzando en diciembre con parestesias en los miembros superiores y alteración de la sensibilidad en las extremidades inferiores, por lo que se inicia estudio.
+Como antecedentes personales presenta hipertensión arterial en control con IECA, hipercolesterolemia en tratamiento con estatinas, e hiperuricemia con episodios de gota en tratamiento con alopurinol. Refiere meningitis bacteriana a los 17 años de edad con parálisis facial residual.
+Como antecedentes quirúrgicos destaca una intervención de un lipoma en el flanco izquierdo en el año 2000, y una polipectomía con asa de diatermia de adenoma tubular de colon y recto en octubre de2013, actualmente en control endoscópico.
+Sin antecedentes familiares oncológicos de interés.
+
+Examen físico
+Indice de Karfnosky 100. Normocoloreado y normoperfundido. No adenopatías palpables. Eupnéico en reposo.
+Conjuntivas normocrómicas y escleras anictéricas. Auscultación cardiopulmonar normal. Dolor a la puñopercusión en las apófisis espinosas cervicales. Abdomen indoloro, sin masas ni megalias palpables a la exploración.
+Dentro de la exploración neurológica destacaba, parálisis facial izquierda residual, con resto de pares craneales dentro de la normalidad. No alteraciones en la comprensión ni construcción del lenguaje, así como una correcta orientación temporoespacial. Fuerza conservada en las cuatro extremidades, con reflejos osteotendinosos presentes y simétricos.
+Reflejo cutáneo-plantar flexor bilateral. Mínima alteración de la sensibilidad con parestesias distales en la extremidad superior izquierda y marcha estable sin aumento de la base de sustentación.
+
+Pruebas complementarias
+- Radiografía simple de columna cervical (15/12/2013): destrucción de cuerpos vertebrales cervicales (C6 y C7).
+- TC tóraco-abdómino-pélvica (17/12/2013): lesión lítica, multiloculada en C6 y C7. Resto del estudio sin hallazgos.
+- RM columna cervical (18/12/2013): lesión lítica expansiva en los cuerpos vertebrales C6 y C7, que condiciona estenosis del canal y compresión de la médula cervical.
+- EMG (21/2/2014): electromiograma y electroneurograma compatibles con datos de afectación neurógena de características crónicas en la musculatura dependiente del nivel C6-C7 bilateral, más marcado y evidente en C7 izquierdo.
+- Potenciales evocados (21/2/2014): potenciales evocados motores patológicos con estímulo cervical bilateral con respuestas retrasadas en ambas extremidades superiores y con estímulo cortical central, con respuestas retrasadas en ambas extremidades inferiores, de morfología disgregada y polifásica.
+
+Diagnóstico
+El 14/2/2014 es intervenido mediante abordaje anterior de la columna cervical y extracción de muestra de tumoración expansiva para diagnóstico (anatomía patológica intraoperatoria: tumor de estirpe cartilaginosa). Se diagnostica de afectación tumoral por condrosarcoma, decidiéndose realizar intervención quirúrgica.
+Condrosarcoma óseo de cuerpo vertebral C6-C7.
+
+Tratamiento
+El 2/4/2014 se realiza corpectomía de los cuerpos vertebrales C6 y C7 y descompresión del canal medular, colocando un implante y una placa cervical anterior. Anatomía patológica: infiltración ósea por condrosarcoma de bajo grado.
+A nivel intraoperatorio, presenta potenciales evocados somestésicos en el límite alto de la normalidad durante toda la intervención, así como al finalizar la misma, y potenciales evocados motores con latencias y amplitudes mantenidas desde el inicio de la intervención, sin modificaciones al finalizar la misma.
+
+Evolución
+Durante el postoperatorio inmediato, el paciente presenta disfonía por lesión del recurrente laríngeo y disfagia para sólidos por manipulación esofágica, con lenta mejoría pese a la rehabilitación por foniatría. Presenta mejoría clínica, con desaparición de la focalidad neurológica sensitiva y dolor cervical controlado con analgesia pautada en el postoperatorio.
+Valorado por el Servicio de Oncología Médica, se desestima la quimioterapia adyuvante dadas las características anatomopatológicas del tumor, así como la adecuada intervención quirúrgica realizada con escisión en bloque de la lesión tumoral (R0).
+Como complicaciones intercurrentes presenta extrusión de material sustituto de cuerpo vertebral y placa cervical anterior, siendo reintervenido con éxito el 19/5/2014.
+Recuperado del postoperatorio, es valorado por el Servicio de Oncología Radioterápica, que no indican tratamiento adyuvante dada la escasa evidencia de respuesta en un condrosarcoma de bajo grado.

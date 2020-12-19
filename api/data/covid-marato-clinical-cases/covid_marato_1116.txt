@@ -1,0 +1,27 @@
+Anamnesis
+Varón de 67 años que consulta por cuadro de diarrea con deposiciones líquidas, sin productos patológicos, en número de 5-7 al día, de 2 semanas de evolución. Asocia dolor abdominal tipo cólico y síndrome constitucional.
+
+Examen físico
+Regular estado general. Sequedad de piel y mucosas. Auscultación pulmonar: murmullo vesicular disminuido en hemitórax izquierdo. Abdomen normal. Edema en extremidades inferiores.
+
+Pruebas complementarias
+Analítica: insuficiencia renal aguda (Cr 1,8 mg/dl; FG 40 ml/min), hipoproteinemia (Prot Tot 4,17 g/dl y Alb 1,7 g/dl) y proteinuria en rango nefrótico (21 g/24 horas), siendo la proteinuria de Bence-Jones negativa. Anemia (Hb 11,1 g/dl) microcítica e hipocrómica.
+Radiografía de abdomen: normal.
+Radiografía de tórax: masa en hemitórax izquierdo.
+Coprocultivo y toxina C. difficile negativos.
+Colonoscopia: normal.
+TC toracoabdominopélvica: masa pulmonar compatible con neoplasia primaria en LSI. Contacta con cayado aórtico y pared costal. Derrame pleural izquierdo. Opacidades nodulares parenquimatosas en LII y hemitórax derecho, compatibles con metástasis. Riñón en herradura. Resto normal.
+Biopsia endobronquial: carcinoma epidermoide.
+
+Diagnóstico
+Carcinoma epidermoide de pulmón estadio IV y síndrome nefrótico.
+
+Tratamiento
+Quimioterapia.
+
+Evolución
+Durante el ingreso existe deterioro progresivo de la función renal (Cr 3,34 mg/dl); se realiza manejo conjunto con el Servicio de Nefrología, que determina la existencia de fracaso renal agudo junto a proteinuria en rango nefrótico.
+Precisaría de biopsia renal para filiar origen, pero no se realiza ante el riesgo existente por riñón en herradura. Se asume la presencia de síndrome nefrótico secundario a probable glomerulonefritis membranosa de origen paraneoplásico, iniciándose tratamiento con IECA.
+Al mismo tiempo persiste la diarrea, conllevando un trastorno de malabsorción.
+Se trata de un paciente con carcinoma epidermoide de pulmón diseminado, síndrome nefrótico y diarrea con trastorno de malabsorción; en este momento se decide solicitar PAAF de grasa abdominal para descartar amiloidosis, cuyo resultado es negativo. Sin embargo, la biopsia de la mucosa rectal muestra depósitos de amiloide y Rojo Congo positivo. El diagnóstico definitivo es amiloidosis secundaria con afectación renal y digestiva.
+El paciente presenta ECOG 3. Comentado en sesión clínica, se decide iniciar tratamiento de la causa desencadenante: la neoplasia pulmonar (evitando los platinos debido a la insuficiencia renal). Recibe el primer ciclo de quimioterapia según esquema de vinorelbina y gemcitabina. Pese a las medidas terapéuticas adoptadas, el paciente evoluciona de manera tórpida, siendo finalmente éxitus.

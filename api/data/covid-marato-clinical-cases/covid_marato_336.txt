@@ -1,0 +1,30 @@
+Anamnesis
+Varón de 65 años de edad, sin alergias medicamentosas conocidas, fumador de 30 cigarrillos al día desde los 30 años y enolismo moderado. Sin antecedentes patológicos de interés.
+Su historia oncológica se inicia en diciembre de 2010 con la aparición de un nódulo doloroso en mucosa yugal acompañado de tumefacción facial. Se orienta el cuadro como un flemón, y se inicia antibioticoterapia empírica. Ante el aumento progresivo del tamaño de la tumoración y de la clínica de dolor acompañante, se decide derivar al Servicio de Cirugía
+Maxilofacial de nuestro centro.
+
+Exploración física
+Buen estado general. Índice Karnofsky 90%.
+Cavidad oral: ausencia de algunas piezas dentarias.
+Tumoración de 5 cm en la mucosa yugal derecha.
+Adenopatía submaxilar derecha de, aproximadamente, 5 cm. Resto de la exploración física anodina.
+
+Pruebas complementarias
+• Biopsia de mucosa yugal (24 de diciembre de 2010): con diagnóstico anatomopatológico de carcinoma indiferenciado de célula pequeña con patrón inmunohistoquímico positivo para sinaptofisina y CAM 5.2 y negativo para CD3, CD20 y vimentina.
+• RM de cabeza y cuello: muestra una lesión expansiva de espacio bucal derecho originada en mucosa yugal con diámetros de 3 x 4,2 x 3,4 cm, en contacto con el trígono retromolar derecho, con pérdida de la cortical ósea de la rama mandibular, además de una adenopatía en cadena submaxilar derecha de más de 4 cm.
+• Ante la posibilidad de realizar un tratamiento radical y la agresividad de este tipo de tumor, se decide realizar estudio de extensión con PET-TC que confirma la existencia de una lesión yugal derecha tumor primario, un conglomerado adenopático hipermetabólico ( SUV 10 g/mL) metastático submandibular y yugular superior derecho, un pequeño nódulo yugular medio derecho compatible con origen metastático y múltiples lesiones óseas metastásicas en cuerpos vertebrales de D11, L2, íleon izquierdo y tercio proximal del fémur.
+Se solicita una gammagrafía ósea para realizar el seguimiento donde no se observan imágenes hipercaptantes patológicas atribuibles a metástasis, indicando una escasa reacción blástica.
+Ante la alta incidencia de metástasis cerebrales en lesiones de esta histología, se realiza una RM craneal que descarta diseminación a este nivel.
+
+Diagnóstico
+Se orienta como carcinoma indiferenciado de célula pequeña de mucosa yugal T4aN2bM1, estadio IV por metástasis óseas.
+
+Tratamiento
+Se inicia primera línea de quimioterapia con el esquema cisplatino 75 mg/m2 día 1 y etopósido 100 mg/m2 días 1, 2, 3 cada 21 días, con realización de seis ciclos, que completa el 18 de mayo de 2011.
+Como complicaciones del tratamiento presenta astenia grado 3, anemia grado 3 que precisa soporte transfusional, alopecia grado 2 y neutropenia afebril grado 3 en dos ocasiones que requiere retrasos en la administración del 4.º y 5.º ciclo, por lo que se administran factores estimulantes de colonias de granulocitos desde el 5.º ciclo. El paciente presenta respuesta clínica local desde el primer ciclo. La valoración tras el 6.º ciclo mediante RM de cabeza y cuello objetiva una práctica respuesta completa del tumor primario y respuesta parcial a nivel ganglionar. La PET-TC objetiva respuesta completa del tumor primario y de la diseminación ósea y respuesta parcial ganglionar submandibular derecha.
+Debido al franco beneficio clínico obtenido, y a la alta incidencia de metástasis cerebrales en este tipo de tumores, se decide realizar radioterapia holocraneal profiláctica, con una dosis total de 25 Gy en diez fracciones que recibe desde el 7 de julio de 2011 al 21 de julio de 2011.
+
+Evolución
+En el control realizado en septiembre de 2011 se observa una lesión exofítica blanquecina pétrea en mucosa yugal derecha de 2 x 2 cm, que se extiende a tejidos blandos de la musculatura masetera, sin clara presencia de adenopatías a la palpación, compatible con progresión. La RM de cabeza y cuello confirma una progresión de la enfermedad tanto local como ganglionar y la PET-TC objetiva la progresión de la enfermedad a nivel local y ganglionar pero persiste la respuesta completa de las metástasis óseas. Inicia quimioterapia de segunda línea con paclitaxel y carboplatino en pauta semanal debido a la importante mielotoxicidad previa, con respuesta parcial tras dos meses de tratamiento. Como complicaciones presenta neurotoxicidad periférica grado 2 y toxicidad hematológica (anemia y plaquetopenia) grado 3, que requiere reducción de la dosis un 50%
+En noviembre de 2011 se objetiva una nueva progresión local y ganglionar. Debido a la mielotoxicidad persistente de la quimioterapia, se decide realizar radioterapia 30 Gy en diez fracciones sobre mucosa yugal derecha y adenopatía submaxilar que finaliza el 28 de diciembre de 2011 con respuesta parcial, presentando como complicación una mucositis grado 3.
+En marzo de 2012, ingresa en nuestro centro por deterioro del estado general y encefalopatía con alteración de la función hepática. Se objetiva progresión de la neoplasia con presencia de múltiples lesiones a nivel hepático, adenopatías mesentéricas, retroperitoneales, pélvicas, nódulos pulmonares, y aparición de nuevas lesiones óseas. El paciente presenta una evolución rápidamente desfavorable y fallece el 7 de marzo de 2012.

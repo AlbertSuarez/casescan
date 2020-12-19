@@ -1,0 +1,33 @@
+Anamnesis
+Paciente de 24 años, con antecedentes personales de fibromiomas mamarios. Soltera. Vive con sus padres. No toma medicación habitual. Antecedentes gíneco-obstétricos: Menarquia a los 11 años.
+Gestaciones 2, Partos 0, Abortos 2 (el primero interrumpido de forma voluntaria y el segundo, el proceso actual). Fecha de última regla (FUR): Noviembre de 2015.
+La paciente fue intervenida mediante legrado obstétrico bajo control ecográfico el 12.1.2016 siendo el diagnóstico anatomopatológico compatible con MOLA HIDATIFORME. La paciente continuó con niveles elevados de la subunidad β de la gonadotropina coriónica humana (β-HCG) tras el legrado, aumentando > 10 % en 3 determinaciones a lo largo de 3 semanas, por lo que se establece el diagnóstico de ENFERMEDAD TROFOBLÁSTICA GESTACIONAL. Se realiza estudio de extensión que descarta enfermedad extrauterina.
+El sistema de estadificación de este tipo de neoplasias está basado en el sistema de la Federación Internacional de Ginecología y Obstetricia (FIGO), aunque también disponemos de una escala pronóstica de la Organización Mundial de la Salud (WHO) basado en 8 factores de riesgo para predecir una posible resistencia al tratamiento de monoterapia estándar con Metotrexate ó Actinomicina D.
+La paciente presentaba un estadio I, definido cómo elevación persistente de niveles de βHCG (última determinación de 30136 mUl/ml) con tumor confinado al cuerpo uterino. Con respecto a la escala WHO presentaba un score de 4 puntos, lo que le sugería un bajo riesgo de resistencia a la monoterapia (alto riesgo en caso de puntuación ≥ 7).
+
+Se decide, por tanto, inicio de tratamiento de primera línea con Metotrexate en combinación con Ácido Folínico para disminuir la mielotoxicidad, a dosis de 50mg/m2 i.m administrado semanalmente, pautando el ácido folínico 24 h tras cada dosis de Metotrexate. La tolerancia al tratamiento fue excelente.
+La paciente recibe 7 ciclos de dicho esquema, con inicial descenso de los niveles de β-HCG, pero presenta un aumento en dos determinaciones consecutivas separadas en un intervalo de 2 semanas, (descenso progresivo hasta 2043mUl/ml, y posterior ascensos a 2221 y 3470mUl/ml), por lo que se considera refractaria al mismo.
+Se comenta el caso en subcomité de tumores ginecológicos de nuestro centro y se decide inicio de tratamiento con esquema EMA/CO (Etopósido 100mg/m2 i.v días 1 y 2, Metotrexato en bolos seguido de 200mg/m2 durante 12 h el día 1, Actinomicina D 0.5mg i.v en bolos día 1 y 2, Ciclofosfamida 600mg/m2 i.v día 8 y Vincristina 1mg/m2 i.v día 8) cada 2 semanas.
+
+Exploración física
+Paciente con buen estado general. Performance status 0. Peso 58kg. Talla 152 cm. IMC 25.1.
+Superficie corporal 1.54. Exploración por aparatos anodina salvo abdomen discretamente distendido sin masas palpables.
+
+Pruebas complementarias
+» RNM ABDOMEN Y PELVIS 15/2/2016: Mola hidatiforme invasiva con quistes tecaluteínicos ováricos bilaterales.
+* Se identifica una lesión en la cavidad endometrial que infiltra al miometrio a nivel del cuerpo uterino izquierdo en practicamente toda su extensión; la lesión está mal definida midiendo aproximadamente 41 x 45 mm, es heterogénea con áreas hiper e hipoecogénicas en su interior, y muestra vascularización heterogénea mayor que el miometrio en el estudio dinámico, con áreas de zonas de lavado, siendo compatible con MOLA HIDATIFORME INVASIVA.
+* Ovarios localizados en zona media del abdomen aumentados de tamaño, midiendo el ovario derecho 11 cm y el izquierdo 12cm, presentando lesiones quísticas multiseptadas en relación con QUISTES TECALUTEÍNICOS (ver imágenes adjuntas). Resto sin alteraciones.
+» Evolución de las cifras de βHCG tras inicio de tratamiento QT con esquema EMA/CO: 3470 mUL/ml => 649 mUL/ml => 108.4 mUL/ml => 4.2 mUL/ml (valores normales <5) => 1.7 mUL/ml => 0.9 mUL/ml => 0.1 mUL/ml.
+
+Diagnóstico
+ENFERMEDAD TROFOBLÁSTICA GESTACIONAL (ETG) REFRACTARIA A METOTREXATE
+
+Tratamiento
+Tras 3 ciclos de tratamiento la paciente había presentado como toxicidad astenia grado 2 y presenta tras éste ciclo anemia grado 2 (Hemoglobina 9 g/dl). En los controles de βHCG seriados semanalmente, presenta normalización de los mismos, por lo que decidimos continuar con tres ciclos más de tratamiento como terapia de consolidación con el fin de reducir el riesgo de recaída en base a los limitados datos en la literatura en este escenario.
+Iniciamos soporte con Eritropoyetina y hierro oral y continuamos quimioterapia con el mismo esquema de tratamiento. El día 8º del 5º ciclo, la paciente continúa con niveles normales de βHCG pero comienza con cefalea refractaria a analgesia de primer escalón. Se solicita TAC craneal muy preferente y en espera del mismo la paciente ingresa en nuestra Unidad por hemiparesia izquierda de instauración subaguda.
+
+Evolución
+Se realiza Angio-Resonancia venosa craneal y RNM craneal con contraste, que visualiza signos de TROMBOSIS VENOSA INTRACRANEAL CON AFECTACIÓN EXTENSA, por lo que se inicia anticoagulación con heparinas de bajo peso molecular cediendo la cefalea de forma gradual y mejorando el déficit neurológico progresivamente tras 48 h del inicio del tratamiento.
+Se solicitó valoración por Neurología que recomendó repetir RNM craneal en 15 días, para ver evolución de la trombosis.
+Dada la recuperación clínica completa, la paciente fue dada de alta, y actualmente estamos en espera del resultado de la resonancia craneal de control, que probablemente visualice mejoría de los hallazgos trombóticos, dada la mejoría clínica presentada.
+Con respecto a la enfermedad residual a nivel del endometrio, ésta ha desaparecido por completo en el TAC de control realizado recientemente, lo que pone de manifiesto una excelente respuesta al tratamiento combinado de EMA/CO, usado por primera vez en nuestro centro.

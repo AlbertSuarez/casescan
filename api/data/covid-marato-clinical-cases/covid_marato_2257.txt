@@ -1,0 +1,39 @@
+Anamnesis
+Se trata de un varón de 61 años de edad sin alergias medicamentosas conocidas.
+En el 2005 es diagnosticado de carcinoma epidermoide de hipofaringe-seno piriforme pT4N1M0, tratado con laringuectomía y vaciamiento cervical bilateral, sin tratamiento adyuvante.
+En el 2008 es diagnosticado de carcinoma de células grandes de pulmón cT1N1M1, estadio IV por 3 LOES cerebrales (temporal izquierda, la más grande, lóbulo frontal derecho y lóbulo temporal derecho).
+Recibe tratamiento con radioterapia holocraneal con respuesta parcial, posteriormente quimioterapia sistémica con esquema carboplatino-paclitaxel por 4 ciclos seguido de quimiorradioterapia concomitante con esquema cisplatino-etopósido, alcanzando respuesta completa.
+En septiembre de 2008 ingresa por embolismo pulmonar masivo, presentando además osteonecrosis de platillos tibiales.
+En el 2010 recidiva supraclavicular derecha con confirmación anatomopatológica tratada con erlotinib con respuesta completa precoz, manteniendo tratamiento hasta Mayo de 2011, suspendido a petición del paciente por toxicidad ungueal.
+En julio de 2011 presenta radionecrosis sintomática tratada con corticoides y oxígeno hiperbárico con excelente respuesta.
+En julio de 2013 nueva recidiva supraclavicular derecha retratada con erlotinib con respuesta completa precoz, manteniendo tratamiento hasta diciembre 2013, suspendido nuevamente por incumplimiento terapéutico del paciente.
+Desde entonces sin evidencia de recidiva En octubre del 2015 comienza con dolor progresivo en rodilla derecha por lo que es derivado al servicio de Traumatología para completar estudio. El paciente no refiere aumento de disnea ni otra sintomatología.
+
+Exploración física
+A la exploración presenta un ECOG PS 1. Traqueostomizado. Acude en silla de ruedas por dolor en MID que aumenta a la palpación de rodilla derecha. Resto de la exploración dentro de la normalidad.
+
+Pruebas complementarias
+Con esta clínica se realiza RMN rodilla el 09/11/15 donde se observa una lesión de aspecto infiltrante que afecta a la región metafisaria proximal de la tibia adyacente al margen anterior de la zona de osteonecrosis con irregularidad del margen perióstico anterior y ligera afectación de las partes blandas anteriores.
+Posteriormente se solicita PET-TC que confirma gran foco de hipermetabolismo en región metafisaria proximal de tibia derecha de unos 8 cm de diámetro transversal.
+Se realiza biopsia de región proximal de tibia con anatomía patológica compatible con sarcoma pleomórfico indiferenciado, grado 3 (FNCLCC) con positividad para marcadores fibroblásticos e histiocitarios.
+
+Diagnóstico
+» Sarcoma pleomórfico indiferenciado de alto grado en tibia proximal derecha sobre localización de osteonecrosis previa, en 2015.
+» Carcinoma de células grandes de pulmón cT1N1M1 (M1 cerebral) en 2008, en remisión completa.
+» Carcinoma epidermoide de hipofaringe-seno piriforme pT4N1M0 en 2005, sin datos de recidiva.
+
+Tratamiento
+En esta situación de remisión completa de los tumores previos se propone la siguiente secuencia de tratamiento:
+1. Quimioterapia neoadyuvante con esquema cisplatino-doxorrubicina por 3 ciclos.
+2. Cirugía: resección amplia intraarticular de tibia proximal derecha y reconstrucción con prótesis tumoral de rodilla y tibia proximal y cobertura de la prótesis con gemelo ipsilateral por Cirugía Plástica.
+3. Quimioterapia adyuvante por 3 ciclos, inicialmente con mismo esquema de tratamiento que la neoadyuvancia.
+
+Evolución
+Tras el primer ciclo presenta hipoacusia neurosensorial brusca secundaria a toxicidad por cisplatino, por tanto se suspende tratamiento con cisplatino por ototoxicidad y también por neutropenia febril que precisó ingreso hospitalario.
+Continúa hasta completar 3 ciclos con doxorrubicina en monoterapia.
+En abril 2016 consulta por disnea brusca. A la exploración presenta TA de 90/60 mmHg y saturación de O2 de 65% con reservorio.
+Se realiza AngioTC donde se objetiva extenso defecto de replección afectando tronco de la arteria pulmonar, arteria pulmonar principal izquierda y múltiples ramas segmentarias y subsegmentarias.
+Con el diagnóstico de TEP masivo con inestabilidad hemodinámica ingresa en nuestra planta. El paciente presenta mejoría clínica y recuperación hemodinámica, dado de alta a los 15 días con HBPM.
+Posteriormente, tras el alta hospitalaria, se solicita PET para reevaluación donde se evidencia la lesión en extremo epifisario de tibia derecha que muestra reducción en actividad al menos de un 35% (SUVmax 15.6 g/ml) y focos de hipercaptación en músculo trapecio derecho (SUVmax 4.2 g/ml) y en músculo peroneo largo izquierdo (SUVmax 5.2 g/ml) y dudoso foco de hipercaptación en duodeno pancreático (SUVmax 3.5 g/ml).
+Con estos hallazgos se realizan pruebas dirigidas (USE alta centrada en marco duodenal y glándula pancreática y ecografía de partes blandas) sin detectarse lesiones sospechosas a esos niveles.
+Tras estos resultados se retoma la cita en la Unidad de Sarcomas, y actualmente se encuentra en espera de ser intervenido.

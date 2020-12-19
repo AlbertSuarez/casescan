@@ -1,0 +1,36 @@
+Anamnesis
+Varón de 60 años, exfumador desde hace 25 años, durante 20 años aproximadamente ( ICAT 40 paq-año), sin otros antecedentes personales de interés, que acude a urgencias en Julio de 2014, por dolor abdominal generalizado y en recto de unas semanas de evolución, junto con alteración del hábito intestinal ( estreñimiento alternante con deposiciones de consistencia líquida con moco).
+
+Exploración física
+En la exploración abdominal se objetiva empastamiento en hipogastrio y dolor importante en fosa iliaca izquierda
+
+Pruebas complementarias
+-Se realiza TAC abdominal en urgencias con contraste iv donde se observa engrosamiento y captación parietal de un segmento de colon sigmoides con aumento de densidad de la grasa circundante e imagen de 6x4cm sugerente de porceso neoformativo.
+-Tras los resultados, se solicita TAC torácico ambulatorio, analítica completa y cita preferente en el sevicio de Digestivo.
+-Se realiza colonoscopia preferente encontrando a 18 cm del margen anal, una masa mamelonada, friable, que sangra al roce del colonoscopio, que ocupa casi toda la circunferencia dejando una pequeña luz que es totalmente infranqueable. Se toman biopsias de la zona.
+-En el TAC torácico no se objetivan metástasis
+
+Diagnóstico
+El resultado anatomopatológico : Lesión adenomatosa con displasia de alto grado.
+
+Tratamiento
+Dados los resultados delas pruebas complementarias, el paciente se deriva a cirugía
+
+Evolución
+A la espera de intervención, el 4 de Agosto acude nuevamente a urgencias por distensión abdominal, acompañado de nauseas y estreñimiento y ausencia de flatulencias de 3 días de evolución.
+En la radiografía de abdomen se observa dilatación de todo el marco cólico desde sigma de hasta 8 cm en ciego con contenido aereo-fecal con valvula ileocecal competente, por lo que se ingresa en planta de cirugía y se coloca una prótesis no recubierta, (transitoria), con salida inmediata de heces semilíquidas.
+Finalmente, al día siguiente se realiza sigmoidectomía con anastomosis T-T e ileostomía fantasma.
+El resultado anatomopatológico fue: Adenocarcinoma de unión rectosigmoidea estenosante (con endoprótesis), moderadamente diferenciado con células en anillo de sello que infiltra la pared sobrepasándola ( pT4). Infiltración perineural y vascular linfática con afectación en de las 24 adenopatías aisladas ( pN1). Límites quirúrgicos libres.
+Tras los resultados, el paciente se deriva a consulta de Oncología, con juicio clínico : Adenocarcinoma de colon pT4pN1, estadio III, por lo que se pauta tratamiento adyuvante con quimioterapia esquema FOLFOX x 12 ciclos.
+Se solicita nuevo estudio de extensión con TAC toracoabdominopélvico negativo para enfermedad metástásica y analítica con marcadores tumorales ( CEA y Ca 19.9 )normales.
+Inicia Folfox adyuvante en Septiembre de 2014 con excelente tolerancia.
+En Febrero de 2015, tras la administración del último ciclo de FOLFOX, el paciente acude a urgencias tras la aparición de disnea de reposo de instauración brusca, con tos seca persistente e insuficiencia respiratoria severa, sin asociar dolor torácico, ni ruidos torácicos ni síndrome febril.En lo días previos asintomático desde el punto de vista respiratorio.
+A la exploración el paciente presentaba taquipnea en reposo a 26 rpm con satO2 88-90% con aporte de 2 lpm. La auscultación respiratoria presentaba hipofonesis marcada en ambos hemitorax con algunos crepitantes secos en ambas bases y campo medio derecho plano postero-lateral.
+Se realizó angioTAC al ingreso tras obtener un dimero D alto en el que se descarta TEPA y tras revisar las imagenes, se evidencia un patron alveolar (en vidrio deslustrado) difuso con zonas confluentes, de predominio periferico sublpleural con broncograma aereo; bilateral pero con mayor afectacion en pulmon derecho. Ademas signos de HTP moderada.
+Durante su ingreso se extraen Hemocultivos, cultivos de esputo, antigenuria de Neumococo y Legionella, PCR de virus respiratorias y serologías con resultado negativo. El paciente a pesar de antibioticoterapia empírica, corticoides y oxigenoterapia con VM al 31% presentaba taquipnea 30 rpm y sat 89%, sin fiebre ni expectoración mucocupurulenta ni aumento de reactantes de fase aguda por lo que dada la no mejoría clínica del paciente se solicita valoración por Neumología.
+Finalmente el paciente se traslada al servicio de Neumología con juicio clínico : ``insuficiencia respiratoria aguda grave secundaria a neumonitis aguda por quimioterapia (neumonitis quimica )``ya que revisando la literatura se encuentra que las sales de platino se pueden asociar con la aparición de fibrosis pulmonar por fármacos.
+Además, comparando con estudios radiologicos previos, destaca que el TAC toracico de julio 2014 era rigurosamente normal sin alteraciones pleuropulmonares ni adenopatias mediastinicas.
+Durante su ingreso el paciente fue tratado con corticoides iv a dosis altas, broncodilatadores y acetilcisteína 600/8horas, evolucionando lenta pero favorablemente, no obstante con mala tolerancia a mínimos esfuerzos (caminar en habitación).
+Finalmente se decide alta hospitalaria con gasometría arterial basal con p02 63 y con necesidad de oxigenoterapia domiciliaria y pasa a revisiones tanto en consulta de Neumología como de Oncología.
+Tras más de un año en revisiones el paciente está mejorando lentamente, sin necesidad de oxigenoterapia durante las 24 horas del día, y con 10 mg de prednisona cada 24 horas, tolerando realizar algún ejercicio. En la próxima revisión en Neumología se valorará la retirada de oxigenoterapia.
+En cuanto a las revisiones por parte de Oncología, la última el pasado mes de Mayo de 2016 con TAC toracoabdominal y colonoscopia sin evidencia de enfermedad y analítica con marcadores tumorales normales, sólo a destacar persistencia de neurotoxicidad en miembros inferiores grado-II.

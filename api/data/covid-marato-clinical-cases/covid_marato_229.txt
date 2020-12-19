@@ -1,0 +1,37 @@
+Anamnesis
+Antecedentes personales:
+Se trata de un varón de 65 años natural de Uruguay, exfumador de 5 cigarrillos al día desde el año 2015, hipertenso y con esteatosis hepática, en tratamiento con valsartán/hidroclorotiazida, furosemida y omeprazol.
+Vive en su domicilio con su familia, lleva una vida activa y ha trabajado como empleado de mantenimiento.
+Entre sus antecedentes familiares, destaca un tío diagnosticado de un tumor gastrointestinal en edad avanzada y un primo diagnosticado de un tumor cerebral a los 60 años.
+
+Historia Oncológica:
+El paciente es valorado por urología en enero 2011 por hematuria. Se realiza estudio con ecografía donde destaca un contenido hiperecogénico en la vejiga en probable relación con cálculos. Presenta dos citologías negativas para malignidad, pero en la cistoscopia se observa un área de necrosis, por lo que en noviembre de 2011 se realiza una resección transuretral (RTU) encontrando lesiones en las caras lateral derecha, lateal izquierda, anterior y cúpula de la vejiga de aspecto necrótico, y se realiza una resección incompleta. El resultado de la anatomía patológica fue concordante con fragmentos de adenocarcinoma de patrón mucinoso, con presencia de células en anillo de sello, y focalmente enteroide, entremezclados con fragmentos de carcinoma urotelial de bajo grado, que infiltraban la lámina propia.
+El estudio inmunohistoquímico demostró expresión de CDX2, por lo que era preciso descartar una infiltración por adenocarcinoma de origen digestivo.
+Se realizó un TC abdominopélvico en enero de 2012, donde presentaba una masa pélvica de 10,4 x 7,8 cm, dependiente de la pared anterior y de la cúpula vesical. Presentaba un componente anterosuperior, de naturaleza quística y otro posteroinferior a nivel de la pared vesical engrosada, con múltiples calcificaciones que indicaban cambios necróticos. La masa se extendía cranealmente hacia la cavidad abdominal, contactando con los rectos anteriores y con el sigma, sin datos de afectación ganglionar ni a distancia.
+
+Se realizó una colonoscopia para descartar neoplasia en el colon, y no se vio ninguna lesión sospechosa, sólo algunos pólipos hiperplásicos en ciego y sigma.
+El 29 de febrero de 2012 se realiza cistoprostatetcomía radical con linfadenecotmía iliaco obturatriz bilateral y derivación urinaria tipo Bricker.
+El resultado del estudio anatomopatológico fue el de una pieza de cistoprostatectomía radical, ampliada con tejido fibroadiposo y muscular que unía la cúpula vesical y el ombligo, además de piel umbilical, con adenocarcinoma mucinoso (coloide) que se localizaba en la grasa perivesical de la cúpula de la vejiga, en cara anterior y lateral de la vejiga. La afectación era transmural, lo cual explicaba la hematuria.
+Infiltraba el uraco en la zona de implantación de la cúpula vesical, no observándose remanentes uracales no tumorales. Se apreciaba invasión perineural pero no vascular, sin estar afectos los ganlgios resecados, la próstata, el margen uretral o radial ni el músculo esquelético de la pared abdominal. Se trataba por tanto de un estadio pT3b pN0 cM0.
+Revisado el caso en sesión multidisciplinar con el servicio de anatomía patológica, se consideró que lo más concordante era que se tratase de un adenocarcinoma de origen uracal, a pesar de que no se observaban remanentes de uraco en el cordón fibroso que unía la vejiga con el ombligo. La positividad para la Beta catenina apoyaba un origen primario vesico-uracal y no por afectación secundaria colónica.
+El paciente continúo seguimiento por urología sin evidencia de enfermedad hasta julio de 2015, cuando acude a urgencias.
+
+Exploración física
+Presentaba edema en miembros inferiores, sin datos de insuficiencia cardiaca.
+A la exploración destacaba un ECOG PS 0, y una llamativa distensión abdominal con palpación de una masa o conglomerado pétreo a nivel pélvico.
+
+Pruebas complementarias
+Presentaba una creatinina 1.15 mg/dl y un filtrado glomerular > 60 mL/min/1.73m2.
+Descartada la trombosis venosa profunda mediante ecodoppler, y realizado un TC abdomino-pélvico, se observó una carcinomatosis peritoneal a nivel de todos los compartimientos abdominales con implantes que coalescían conformando una gran masa pélvica, sugestivo de recidiva y condicionando una ureterohidronefrosis grado III-IV /IV izquierda secundaria, sin otros datos de afectación a distancia.
+El paciente precisó una nefrostomía izquierda y se completó estudio con un TC de tórax donde se evidenciaba derrame pleural derecho y adenopatías de nueva aparición en región prevascular, espacio cardiofrénico derecho e hiliares derechas inespecíficas. El análisis de los marcadores tumorales mostró elevación del antígeno carcinoembrionario (C.E.A.) 5.8 ng/ml (0.0 - 3.0), antígeno CA 19-9 45.0 U/ml (0.0 - 40.0) y del antígeno CA 125 96.0 U/ml (0.0 - 35.0).
+Se realiza PAAF de la afectación peritoneal el 24 de julio de 2015, siendo concordante con adenocarcinoma mucinoso (coloide) con componente de células "en anillo de sello".
+
+Diagnóstico
+Con diagnóstico de adenocarcinoma de uraco estadio IV por recaída peritoneal, se le remite al servicio de oncología médica para valorar tratamiento
+
+Tratamiento
+Ante la escasa experiencia publicada en estos pacientes, se considera principalmente dos esquemas: 5-FU + Leucovorin + Gemcitabina + Cisplatino o FOLFOX 6.
+Inicia el tratamiento el 6 de agosto de 2015 según esquema XELOX (Oxaliplatino 130 mg/m2, Capecitabina 1000 mg/m2) con respuesta parcial tras tres ciclos, y completó hasta 8 ciclos en enero de 2016 iniciando mantenimiento con capecitabina con una evolución favorable.
+
+Evolución
+Ha presentado buena tolerancia al tratamiento de quimoterapia, con algún episodio intercurrente de infección del tracto urinario complicada con sangrado por el Bricker en paciente portador de doble J (tras cierre nefrostomía) que se resolvió con antibioterapia.

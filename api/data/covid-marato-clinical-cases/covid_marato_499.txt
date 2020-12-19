@@ -1,0 +1,46 @@
+Anamnesis
+Mujer de 78 años, natural de China, residente en España desde 2016, con los siguientes antecedentes personales:
+» Sin reacciones alérgicas medicamentosas conocidas.
+» Factores de riesgo cardiovascular: dislipemia. No es hipertensa ni diabética. No tiene hábitos tóxicos.
+» En seguimiento por Nefrología por enfermedad renal crónica estadio IV de etiología no filiada con filtrado glomerular de 26 ml/m sin microalbuminuria urinaria, en situación de prediálisis.
+» Hiperuricemia
+Tratamiento habitual: paracetamol 650 mg 1 comprimido cada 12 horas, simvastatina 10 mg 0-0-1, calcitriol 0,25 mcg 5 comprimidos a la semana, sulfato de ferroglicina 100 mg 1 cápsula al día, alopurinol 100 mg medio comprimido al día, eritropoyetina 2.000 UI una vez a la semana.
+Enfermedad actual: paciente con cuadro de tos productiva con expectoración no purulenta, disnea de moderados esfuerzos y autoescucha de sibilancias, de dos meses de evolución. Valorada en dos ocasiones previas en Urgencias por este motivo, con diagnóstico de bronquitis aguda con hiperreactividad bronquial, fue dada de alta con tratamiento broncodilatador y corticoterapia.
+Acude de nuevo a Urgencias por este motivo. Niega clínica cardiológica, sensación distérmica, tiritona, no "termometra" temperatura.
+
+Exploración física
+» Tensión arterial 191/97 mm Hg, frecuencia cardiaca 91 lpm. Saturación de oxígeno capilar basal 97 %. Barrera idiomática, consciente. Buen estado general. Bien hidratada y perfundida. Taquipneica en reposo a unas 24 respiraciones por minuto, estridor laríngeo.
+» Faringe: sin alteraciones, no aprecio exudados ni edema de úvula.
+» Auscultación cardiopulmonar: abundantes roncus y sibilancias dispersas. Tonos cardiacos rítmicos, sin soplos.
+» Abdomen: blando, depresible, no doloroso en la palpación superficial ni profunda. Ruidos hidroaéreos normales. Sin signos de irritación peritoneal. No se palpan masas ni visceromegalias.
+» » Miembros inferiores: sin edemas ni signos de trombosis venosa profunda.
+
+Pruebas complementarias
+Urgencias 19/01/2019
+Analítica: destaca neutrofilia (89,7 % [normalidad -N-: 40-75 %]), proteína C reactiva 27,8 (N: <= 5).
+Anemia normocítica normocrómica estable en relación con enfermedad renal crónica con hemoglobina de 11 (N: 12-15). Creatinina de 2,23 (N: 0,5-1,10), urea 157 (N: 10-50). Sin coagulopatía, ni alteraciones gasométricas.
+Radiografía de tórax: tráquea y vía aérea con zonas estenóticas similar a las previas, pero sin infiltrados ni consolidaciones.
+Ante estenosis objetivada en radiografía, se solicita valoración por otorrinolaringología (ORL), que realiza fibroscopia se objetiva estenosis traqueal.
+Tomografía computarizada (TC) cervicotorácica: glándula tiroides aumentada de tamaño con compresión extrínseca y disminución del calibre de la tráquea secundario, así como adenopatía patológica en nivel III derecho, sugestiva de neoplasia tiroidea.
+Dados los hallazgos, se solicita valoración por Cirugía Torácica para completar estudio y tratamiento.
+Se realiza tiroidectomía total urgente el 20/01/2019, con resultado anatomopatológico: carcinoma anaplásico de tiroides (indiferenciado) con márgenes quirúrgicos de lóbulo derecho e izquierdos afectos, invasión perineural y de tejido peritiroideo presente, pero sin invasión vascular. Perfil Inmunohistoquímico: tiroglobulina, TTF1+. P63 (+). HBME (+). Estadio patológico pT3Nx.
+
+Diagnóstico
+Carcinoma anaplásico de tiroides estadio IVb (pT3NxM0).
+
+Tratamiento
+Tras tiroidectomía total urgente el 20/01/2019, la paciente evoluciona favorablemente. Se realiza fibroscopia control (07/02/2019) con visualización de cuerdas vocales en posición paramediana no móviles, con buen espacio glótico, pero con estenosis traqueal.
+
+Evolución
+A pesar de la buena situación clínica inicial, ingresa el 06/03/2019 por cuadro de estridor laríngeo en relación con recidiva local objetivada en una TC cervical: masa de 36 x 30 x 34 mm que engloba la tráquea estenosando su luz (3,7 x 11 mm) e infiltra esófago en la transición faringoesofágica; además, persistencia de adenopatía parcialmente necrosada en nivel III derecho, con aparición de una adenopatía paraesofágica y otra paratraqueal derechas; sin signos de diseminación a distancia en TC toracoabdominopélvica.
+Se inicia corticoterapia a altas dosis y antibioterapia empírica para cubrir eventual componente infeccioso, con control sintomático parcial. Se valoraron diferentes opciones para mantener la integridad de la vía aérea, no siendo la paciente candidata a traqueostomía por la localización del tumor, y tampoco a intubación orotraqueal, dadas las escasas posibilidades de destete. Ante esta situación clínica se remite a la paciente para radioterapia y se solicita lenvatinib como medicación en situaciones especiales, con aprobación por parte de farmacia hospitalaria. Inicia el tratamiento el 13/03/2019 ajustado a función renal (14 mg al día).
+Como toxicidades iniciales del tratamiento, cursa con diarrea grado 1 que remite con loperamida a demanda; hipertensión arterial grado 3 que requiere manejo en conjunto con Nefrología, con buen control tensional con medicación hipotensora.
+
+Por otra parte, comienza el 15/04/2019 tratamiento con radioterapia de intensidad modulada (IMRT), pendiente de finalizar tratamiento.
+La paciente presenta mejoría clínica franca con remisión del estridor laríngeo, por lo que es dada de alta el 21/03/2019.
+El 3 de abril reingresa por neumonía nosocomial en lóbulo inferior izquierdo con bacteriemia por Streptococcus pneumoniae multisensible secundaria, con alta el 12/04/2019.
+Una semana después, ingresa de nuevo por reinfección respiratoria de origen nosocomial, sin aislamiento microbiológico, que requiere antibioterapia de amplio espectro con posterior desescalada.
+Durante este ingreso, la paciente presenta trombopenia progresiva hasta alcanzar el grado 2. Se asume origen por lenvatinib (posible efecto potenciador por radioterapia), además de mucositis grado 2. Dicha toxicidad motiva la suspensión del fármaco a día 22 de abril. Ambas toxicidades se corrigen tras la suspensión.
+Por otra parte, presenta disfagia progresiva, por lo que es valorada por ORL, que confirma disfagia grave para líquidos, y leve para sólidos y texturas espesas, recomendando realizar estudio baritado de deglución. Durante este estudio, la paciente presenta broncoaspiración de bario. Requiere antibioterapia de amplio espectro con resolución del cuadro. Se completa el estudio con una TC cervical y una endoscopia digestiva alta, para descartar una posible fístula traqueoesofágica que contraindicarían continuar con el tratamiento. Ambas pruebas descartan dicha complicación. Se realiza gastrostomía endoscópica percutánea el 09/05/2019 con buena tolerancia a nutrición enteral.
+La TC cervical (14/05/2019) muestra respuesta parcial, con remisión de las adenopatías patológicas descritas y disminución de la masa tumoral.
+La paciente evoluciona paulatinamente hacia la mejoría, por lo que es dada de alta para completar tratamiento radioterápico de manera ambulatoria, con posterior planteamiento de reinicio de lenvatinib.

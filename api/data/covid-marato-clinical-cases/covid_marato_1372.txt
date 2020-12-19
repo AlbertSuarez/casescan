@@ -1,0 +1,26 @@
+Anamnesis
+Presentamos a una paciente de 50 años, residente en Castellón. Pediatra de profesión.
+En sus antecedentes personales destaca cirugía de varices en ambas extremidades inferiores en 2004. Entre sus antecedentes gineco-obstétricos cabe mencionar menarquia a los 10 años, 3 embarazos, 3 partos (1 por cesárea), lactancia materna acumulada de 27 meses y fecha de última regla el 28 de junio de 2016. En los antecedentes familiares, destaca una hermana de abuelo materno diagnosticada de carcinoma de mama y muerta con enfermedad a los 42 años.
+HISTORIA ONCOLÓGICA
+En marzo de 2016, la paciente presentó eccema en pezón de la mama derecha realizando mamografía en la que se identificaron microcalcificaciones retroareolares mamarias derechas y una ecografía mamaria que objetivó una lesión sólida de 2,6 cm en mama derecha y adenopatía axilar homolateral de 8 mm con características BIRADS-4. En la mama izquierda se apreciaron dos lesiones sólidas de 6 mm y 8 mm en cuadrante supero externo y unión de cuadrantes internos de características benignas. La biopsia cutánea de la lesión de la mama derecha fue compatible con carcinoma ductal infiltrante, por lo que el 3 de junio de 2016 se realizó mastectomía derecha con biopsia selectiva de ganglio centinela. El resultado anatomopatológico fue de carcinoma ductal infiltrante grado 2 de 4,7 cm con invasión vásculo-linfática y márgenes libres, asociada a enfermedad de Paget del pezón. Además, se observaron focos de carcinoma ductal infiltrante de mama, tipo sólido y comedocarcinoma. El resultado de las biopsias de 3 ganglios centinelas dio como resultado la afectación de 2 de ellos por macrometástasis y a nivel inmunohistoquímico el tumor expresaba 100 % de receptores de estrógeno, menos del 1 % de receptores de progesterona, HER-2 sin amplificación y ki67 del 25 %. Debido a la afectación axilar el día 20 de junio de 2016, se realizó linfadenectomía resecando 6 ganglios axilares y hallando micrometástasis en 1 de ellos.
+Ante el diagnóstico de carcinoma ductal infiltrante de mama estadio IIB (pT2 pN1 Mx) compatible con perfil inmunohistoquímico luminal B, se inició tratamiento de quimioterapia adyuvante con adriamicina (60 mg/m2) y ciclofosfamida (600 mg/m2), comenzando en julio de 2016. Tras el primer ciclo de quimioterapia, se realizaron estudios de extensión observando metástasis en D5 en la gammagrafía y metástasis pulmonares bilaterales. Se realizó biopsia del pedículo vertebral en D5 que fue compatible con metástasis de carcinoma de mama. Se administraron seis ciclos con el esquema de antraciclina, observando estabilización por pruebas de imagen, y finalizando dicho tratamiento en noviembre de 2016. Se complementó el tratamiento con tres fracciones de radioterapia externa sobre D5.
+Posteriormente, se llevó a cabo anexectomía bilateral en septiembre de 2016 y en diciembre de 2016 inició tratamiento con fulvestrant 500 mg mensuales y denosumab mensual que inició en marzo de 2017.
+Acude a consulta de revisión en junio de 2017. La última dosis de fulvestrant la recibió el 31 de mayo de 2017. Presenta buen estado general. Anamnesis por aparatos anodina. Realiza vida activa.
+Actualmente se encuentra en situación de estabilización de la enfermedad.
+
+Exploración física
+Durante la exploración física, presenta un buen estado funcional (ECOG 0), sin hallazgos de interés.
+
+Pruebas complementarias
+En una analítica realizada en mayo de 2017, persistían niveles elevados de estradiol (45 pg/ml), tratándose de una paciente con doble anexectomía. Se solicita una analítica completa un mes más tarde, observando que los niveles de estradiol se encuentran actualmente en 92 pg/ml.
+
+Diagnóstico
+» Carcinoma ductal infiltrante de mama subtipo luminal B, estadio IV por afectación ósea.
+Actualmente, está en tratamiento de mantenimiento con fulvestrant y denosumab. Estabilización de la enfermedad.
+» Niveles de estradiol elevados en paciente doble anexectomizada, compatibles con falso positivo en el inmunoensayo por reactividad cruzada con fulvestrant.
+
+Tratamiento
+Actualmente sigue tratamiento con diosmina 500 mg un comprimido diario, calcifediol 1 ampolla bebida mensual y fulvestrant 500 mg una inyección mensual.
+
+Evolución
+Se solicita una nueva medición del estradiol mediante cromatografía de masas, y el resultado está pendiente de informar en la fecha de redacción de este caso clínico.

@@ -1,0 +1,30 @@
+Anamnesis
+Paciente de 49 años, exfumador de 20 cigarros al día desde hace 8 años y bebedor de medio litro de cerveza al día, sin otros antecedentes de interés.
+En marzo de 2012 consulta en Urgencias por presentar disfagia progresiva hasta hacerse a líquidos, con sensación de cuerpo extraño y vómitos continuos de 24 horas de evolución. Refiere presentar clínica de disfagia a sólidos y vómitos posprandriales de 6 meses de evolución, que ha empeorado en el último mes, con pérdida de aproximadamente 2 kg de peso.
+
+Examen físico
+Buen estado general, ECOG: 0. Peso: 75 kg. Talla: 170 cm. Piel bien hidratada y perfundida. Normocoloreado.
+Eupneico en reposo. Consciente, orientado y colaborador. Auscultación cardiopulmonar con tonos rítmicos a buena frecuencia, sin soplos. Murmullo vesicular conservado. No ruidos respiratorios sobreañadidos. Abdomen blando y depresible, no doloroso a la palpación, no signos de peritonismo. No edemas ni signos de trombosis en los miembros inferiores.
+
+Pruebas complementarias
+- Analitica al ingreso. Bioquímica: función renal, hepática e iones normales. Hemograma: normalidad de las tres series.
+CEA: 21,7 ng/ml; CA 19.9: 627,7 U/l. Coagulación: normal.
+- Radiografía de tórax (16/3/2014): silueta cardiomediastínica de tamaño normal, imágenes en ''suelta de globos'' diseminadas en ambos pulmones, no derrame o infiltrados.
+- TC de tórax y abdomen (20/3/2012): múltiples nódulos pulmonares bilaterales en ''suelta de globos'' compatibles con metástasis, los mayores de hasta 27 mm. Patrón de broncopatía crónica. Engrosamiento de la unión gastroesofágica con posible infiltración del ligamento gastrohepático. Diverticulosis en el colon.
+- Fibrogastroscopia (16/3/2012): apreciamos bolo cárneo impactado en el esófago distal que se extrae con cestilla de Roth. Tras su extracción reintroducimos el gastroscopio para evaluar el resultado y apreciamos que a unos 35 cm de la arcada dentaria existe estenosis infranqueable muy irregular y anfractuosa compatible con neoplasia esofagica distal. Procedimientos: biopsia de esófago.
+- Anatomía patológica (16/3/2012). Mucosa esofágica (biopsia): adenocarcinoma infiltrante.
+
+Diagnóstico
+Adenocarcinoma de la unión gastroesofágica, estadio IV (M1 pulmonares).
+
+Tratamiento
+Con fecha 29 de marzo de 2012 inicia primera línea de quimioterapia con intencionalidad paliativa con esquema ECF (epirrubicina 50 mg/m2 día 1, cispaltino 60 mg/m2 día 1 y 5-fluorouracilo 200 mg/m2 en perfusión continua de 24 horas), ciclos cada 21 días.
+Se consiguió respuesta completa iconográfica tras 6 ciclos, pasando a seguimiento.
+
+Evolución
+En enero de 2103, tras 4 meses libre de enfermedad, se realiza reevaluación por clínica de disfagia, objetivándose en la fibrogastroscopia recidiva local (biopsiada) y en la TC lesiones pulmonares bilaterales. Se planteó quimioterapia de segunda línea con docetaxel 75 mg/m2 y se solicitó nueva FEVI para valorar introducir trastuzumab, obteniéndose una FEVI del 42%, no considerando al paciente adecuado para recibir terapia dirigida anti-HER2.
+Tras 5 ciclos de tratamiento presenta clínica de dolor lumbar irradiado al miembro inferior izquierdo, por lo que se solicitan una RM y una gammagrafía ósea, que objetivan actividad osteogénica incrementada en el macizo trocantéreo derecho sugestiva de lesión infiltrativa de origen tumoral.
+Ante esta nueva progresión ósea, en mayo de 2013 se plantea una tercera línea de quimioterapia esquema ECX (epirrubicina, cisplatino, capecitabina), añadiendo ácido zolendrónico en ciclos cada 21 días. Además, recibió radioterapia paliativa sobre el fémur derecho (10 sesiones de 30 Gy).
+El paciente presentaba buen control del dolor con fentanilo transdérmico 75 mcg y rescates con fentanilo 100 mcg comprimidos bucodispensables.
+Tras 3 ciclos de ECX (en julio de 2013) el paciente presenta toxicidad renal con creatinina de 2,89 y AC Cr de 30 ml/min, por lo que se decide suspender el tratamiento y se deriva para colocación de endoprótesis por clínica de reestenosis.
+El paciente presentaba un mal estado general progresivo, con un ECOG 2-3 y anorexia con pérdida importante de peso, no siendo candidato a nueva línea de tratamiento, por lo que, de acuerdo con el paciente y la familia, pasó a seguimiento por la Unidad de Cuidados Paliativos, falleciendo a los 2 meses.

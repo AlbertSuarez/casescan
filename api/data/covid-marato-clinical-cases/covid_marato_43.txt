@@ -1,0 +1,30 @@
+Anamnesis
+Nos encontramos ante un varón de 63 años sin alergias medicamentosas conocidas ni hábitos tóxicos; sin otros antecedentes personales de interés ni tratamiento habitual. Como antecedentes familiares tiene un padre fallecido por neoplasia de origen desconocido con metástasis pulmonares.
+Comienza su sintomatología en marzo de 2017 cuando acude a Urgencias por un cuadro de 5 días de evolución de dolor epigástrico asociado a náuseas e ictericia progresiva. Es ingresado en Digestivo para su estudio.
+
+Exploración física
+- El paciente presentaba un ECOG 0.
+- Buen estado nutricional.
+- Normoperfundido.
+Ictericia cutánea y conjuntival.
+- Cabeza y cuello sin adenopatías laterocervicales.
+- Auscultación cardiopulmonar: rítmica, sin soplos, con murmullo vesicular conservado.
+- El abdomen era blando, con molestias durante la palpación en el hipocondrio derecho.
+Murphy y Blumberg negativos.
+- Sin signos de irritación peritoneal.
+- Peristaltismo normal.
+
+Pruebas complementarias
+En la analítica muestra como hallazgo destacable una bilirrubina total de 9,7 a expensas de directa 7,1, ligera transaminasemia con hemograma y coagulación normal.
+Durante el ingreso se le realiza una TC abdominal con hallazgos de dilatación de vías biliares intra y extrahepáticas con necesidad de filiar causa con RM. En ella se objetivó un engrosamiento mural estenosante con una masa endoluminal de vía biliar extrahepática a 1 cm de la confluencia del conducto hepático común sugestivo de colangiocarcinoma, tumor de Klatskin tipo I, sin extensión extraductal. Con tal diagnóstico, se solicita una TC torácica para valorar la enfermedad a distancia sin hallazgos patológicos.
+El 22/3/2017 se le somete a resección de vía biliar con linfadenectomía perihepática periportal y retroportal R0.
+La anatomía patológica de la pieza quirúrgica de la vía biliar extrahepática concluyó adenocarcinoma pobremente diferenciado (G3) de 1,4 cm de diámetro que sobrepasa la pared del conducto biliar, infiltrando focalmente el tejido fibroadiposo circundante (pT2); además de múltiples imágenes de invasión perineural. El resto de estudios sin evidencia de malignidad.
+
+Diagnóstico
+Colangiocarcinoma extrahepático GHIII con invasión perineural, pT2pN1M0-R0.
+
+Tratamiento
+Se comienza tratamiento con intención adyuvante con gemcitabina. Tras 3 ciclos, y ante el aumento progresivo del marcador Ca 19.9 que llega a 414, se solicita RM con la aparición de 3 LOE hepáticas sólidas que sugieren metástasis y adenopatías de tronco celiaco e hiliar indeterminadas. Dado el hallazgo, se le propone comenzar primera línea de quimioterapia paliativa con cisplatino + gemcitabina, en general con buena tolerancia, teniendo únicamente toxicidad hematológica con neutropenia G3 afebril por lo que se retrasa el tratamiento de algún ciclo. La TC tras el tercer ciclo mostraba una respuesta parcial importante, por lo que se continuó con los siguientes 3 ciclos. El resultado de TC y RM tras el sexto ciclo fue de respuesta completa con resolución de todas las lesiones que se mantiene desde noviembre de 2017 hasta la actualidad.
+
+Evolución
+El paciente continúa con controles analíticos y por imagen cada 4 meses, presentando una respuesta completa en la actualidad.

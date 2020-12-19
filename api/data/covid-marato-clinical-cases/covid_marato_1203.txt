@@ -1,0 +1,26 @@
+Anamnesis
+Acude a Urgencias al 4º día del 1er ciclo, por cuadro de 24 horas de evolución consistente en palpitaciones y disnea progresiva hasta hacerse de reposo. Afebril en domicilio, sin dolor torácico, ni otra sintomatología acompañante.
+Ante hipotensión marcada, precisa la instauración de aminas en Urgencias (noradrenalina y dobutamina) para mantener la tensión arterial. Se avisa a Cardiología y UCI para valoración, realizando ecocardiograma donde se evidencia disfunción biventricular grave, decidiéndose ingreso en UCI.
+
+Exploración física
+Destaca mal estado general y mala perfusión periférica con relleno capilar lento. TA 85/45 mm Hg, taquicardia sinusal a 170 lpm, febril con Tª 39 ºC, SatO2 94 % con gafas nasales 2 lpm.
+
+Pruebas complementarias
+En la analítica realizada en Urgencias existía un ligero aumento de transaminasas (GPT 102), incremento de marcadores de insuficiencia cardiaca (proBNP 27885), mínima alteración de enzimas cardiacas (TnTus 59), leucocitosis con neutrofilia, coagulopatía con TP 61 % y gasometría arterial sin hallazgos. En el electrocardiograma se muestra taquicardia sinusal a 180 lpm, sin signos de isquemia aguda ni alteraciones de la repolarización.
+En cuanto a los estudios de imagen, la radiografía de tórax mostraba derrame pleural derecho. Se solicita una angio-TC por la sospecha de TEP ante la aparición de disnea súbita, que se descarta, destacando en dicha TC derrame pleural derecho junto con infiltrados en lóbulo superior derecho, medio y língula.
+Respecto al ecocardiograma de Urgencias, destaca FEVI estimada visualmente de 10-15 % con hipocinesia-aquinesia difusa, presentando cierta contractilidad únicamente en segmentos basales. Se extrajeron hemocultivos y se realizó toracocentesis derecha diagnóstica con resultado de líquido trasudativo.
+
+Diagnóstico
+Se trata de un shock cardiogénico asociado a disfunción biventricular grave secundaria a cardiotoxicidad aguda en probable relación a infusión de fluorouracilo; además de disfunción hepática secundaria a congestión hepática por fallo de ventrículo derecho más bajo gasto cardiaco.
+
+Tratamiento
+A su llegada a UCI se procede a monitorización, vitamina K y canalización ecoguiada para monitorización con catéter de arteria pulmonar. Se realiza ajuste de aminas vasoactivas, diuréticos, sueroterapia con ajuste de iones y antibioterapia empírica con meropenem y linezolid.
+
+Evolución
+Mejoría hemodinámica en las primeras 24 horas de evolución en UCI, con soporte con dobutamina y noradrenalina, manteniendo buenos niveles tensionales y diuresis conservada con balance negativo diario.
+En primera eco-cardio de control, función sistólica global ligera-moderadamente deprimida FEVI 40 % con hipoquinesia generalizada. En analíticas de UCI, destaca elevación de enzimas hepáticas, llegando a un pico de GPT de 4.282, LDH 6.041, TP 29 % y TTPA30.
+Se planteó la posibilidad de traslado a otro centro con disponibilidad de extracorporeal membrane oxygenation (ECMO) como sistema de asistencia mecánica circulatoria de corta duración, pero finalmente se desestimó.
+Se colocó Pleurocath®, por presencia de derrame pleural en estudios de imagen, con salida de 1 l de líquido pleural seroso retirado a las 24 h con descenso de taquipnea sin llegar a precisar ventilación mecánica.
+Los resultados de los hemocultivos fueron negativos, con leucocitosis en descenso, por lo que, tras un ciclo corto de cobertura empírica con meropenem y linezolid, se suspenden. Mejoría progresiva de enzimas hepáticas (GPT 302), ausencia de leucocitosis (5.980 con 49 % neutrófilos) y coagulopatía corregida (INR: 1,1; TTPA 32,5 s). La citología de líquido pleural fue negativa para células tumorales malignas.
+Dada la estabilidad hemodinámica, se traslada a planta de Cardiología donde se ajusta tratamiento con IECA, beta-bloqueantes y espironolactona con buena tolerancia clínica. Ecocardiograma con recuperación de FEVI (60 %), por lo que se procede al alta.
+Valorada de nuevo en consulta de Oncología, se muestra asintomática con controles y ajuste de tratamiento por Cardiología. Dada la toxicidad grave desarrollada, con shock cardiogénico tras primera infusión de fluorouracilo, que descarta su utilización posterior, se pide TC de reevaluación sin adenopatías macroscópicas ni otros hallazgos de enfermedad activa; se da por finalizada la adyuvancia, y pasa a control estrecho. Está pendiente de los resultados del Consejo Genético.

@@ -1,0 +1,29 @@
+Anamnesis
+Varón de 45 años. En tratamiento con carbamacepina desde 2007, tras una intervención quirúrgica para la exéresis de un cavernoma cerebral, sin otros antecedentes de interés. En un análisis rutinario se detecta elevación de las transaminasas, por lo que se deriva a consultas de Aparato Digestivo para su estudio. Asintomático.?
+
+Examen físico
+Sin hallazgos.
+
+Pruebas complementarias
+- Analítica: perfiles simple, renal, lipídico, hemograma, estudio de la coagulación, proteinograma, VSG, hormonas tiroideas y marcadores tumorales dentro de la normalidad. Perfil hepático con GGT 232 UI/l, resto normal.
+- Ecografía de abdomen: masa hipoecogénica de 4,5 cm en el cuerpo pancreático con calcificaciones en su interior, de aspecto neoplásico.
+- TC tóraco-abdominal: tórax sin hallazgos patológicos. Neoplasia de cuerpo pancréatico sugestiva de cistoadenocarcinoma. Adenopatías peripancreáticas de aspecto reactivo. Imagen hipodensa de 1 cm en el segmento hepático VIII sugestiva de metástasis.
+- RM de abdomen: pequeña lesión hepática derecha compatible con hemangioma. Masa pancreática sólida compatible con adenocarcinoma, que no afecta a las estructuras vecinas.
+
+Diagnóstico
+Neoplasia pancreática localizada sugestiva de adenocarcinoma.
+
+Tratamiento
+Se realiza esplenopancreatectomía corporo-caudal + linfadenectomía de arteria hepática, retroportal, retroperitoneal, tronco celíaco y arteria mesentérica superior. En el acto quirúrgico se visualiza un tumor de cuello pancreático que respeta el eje mesentérico-portal, identificándose una LOE hepática en el segmento VIII, compresible y no sugestiva de metástasis.
+La anatomía patológica confirma un carcinoma de células acinares de patrón sólido de 5,5 cm, que se extiende a tejidos blandos peripancreáticos sin afectar el plano de resección. Ganglios linfáticos sin evidencia de neoplasia (0/16).
+Estadio IIA (pT3 N0 M0).
+El paciente es remitido a consultas de Oncología Médica. Tras el estudio posquirúrgico negativo, realiza quimioterapia adyuvante con gemcitabina x 6 ciclos, que finaliza en junio de 2012 e inicia seguimiento.
+
+Evolución
+Tras un intervalo libre de enfermedad de 12 meses, el paciente presenta en una TC de control un nódulo pulmonar de 8 mm en el LSD y adenopatías mediastínicas, la mayor de 2 cm subcarinal. Se realiza entonces una PET-TC, que demuestra captación metabólicamente positiva ganglionar supraclavicular e hiliomediastínica, pulmonar izquierda y en el cuerpo vertebral C7, sin poder especificar origen inflamatorio o neoplásico. El nódulo pulmonar derecho visible en la TC presentó baja tasa de proliferación celular.
+Clínicamente, el paciente presentaba cervicalgia irradiada a ambas escápulas, sin alteraciones neurológicas ni otros síntomas añadidos. Se realiza además un estudio gammagráfico, que muestra como único hallazgo un aumento de la actividad osteoblástica muy intenso en el cuerpo vertebral C7, con imagen de destrucción, no pudiendo descartar origen metastásico.
+Se decidió el ingreso del paciente en la planta de Oncología para el estudio exhaustivo del caso, dada la complejidad del diagnóstico diferencial que planteaba: progresión de su tumor pancréatico con afectación sistémica atípica, segunda neoplasia de probable origen pulmonar, o etiología no tumoral con posible origen inflamatorio/ infeccioso.
+El seguimiento del paciente fue realizado conjuntamente por Oncología Médica, Neurocirugía y Enfermedades
+Infecciosas, ya que incluyó analítica y serología bacteriana y vírica completa, estudios de imagen y biopsia vertebral cervical con estudio anatomopatológico y microbiológico.
+Finalmente, tras las pruebas realizadas, el paciente fue diagnosticado de tuberculosis diseminada: espondilodiscitis cervical C6-C7 (anatomía patológica compatible, PCR positiva y cultivo de biopsia ósea con aislamiento de Mycobacterium tuberculosis sensible a todos los tuberculostáticos mayores); y probablemente ganglionar (adenopatías mediastínicas, cervicales profundas e intraabdominales); pulmonar (nódulo de 8 mm en el segmento anterior del LSD) y hepática (dos lesiones hipodensas con realce patológico en el segmento VIII; colostasis disociada en los meses previos).
+Inicia entonces tratamiento con rifampicina, isoniacida y etambutol, que mantiene en la actualidad. Como incidencia, presentó toxicidad hepática por isoniacida, que requirió cambio de tratamiento a moxifloxacino. En la actualidad, continúa en seguimiento sin evidencia de enfermedad neoplásica.

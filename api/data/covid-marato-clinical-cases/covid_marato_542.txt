@@ -1,0 +1,23 @@
+Anamnesis
+Mujer de 50 años exfumadora con un índice de exposición tabáquica de 5 paquetes-años y sin otros antecedentes personales ni familiares de interés. En el estudio preoperatorio por miomas uterinos se realiza una radiografía de tórax y se observa una opacidad nodular mal definida en lóbulo superior derecho, por lo que se remite a Neumología para estudio.
+
+Exploración física
+La paciente presenta muy buen estado general y ECOG 0. La auscultación cardiopulmonar y la exploración abdominal no muestran alteraciones relevantes. No existe focalidad a la exploración neurológica.
+
+Pruebas complementarias
+Se inicia el estudio en Neumología mediante TC toracoabdominal (02/02/2015) que muestra una condensación en lóbulo superior derecho y pequeños nódulos peribroncovasculares bilaterales, alguno de ellos cavitado, con sospecha por imagen de sarcoidosis. En la broncoscopia (18/02/2015) no se consigue diagnóstico histológico por lo que se comenta en comité multidisciplinar y se decide realizar biopsia quirúrgica por parte de Cirugía Torácica (22/03/2015).
+El diagnóstico histológico es de adenocarcinoma de origen pulmonar con traslocación de ALK. EGFR nativo y ROS-1 no traslocado. Se realiza nuevo estudio de extensión actualizado con TC toracoabdominopélvica (TAP) que muestra sólo enfermedad a nivel pulmonar.
+
+Diagnóstico
+Adenocarcinoma de pulmón estadio IVA por metástasis pulmonares bilaterales con traslocación de ALK.
+
+Tratamiento
+Con este diagnóstico inicia tratamiento de primera línea con crizotinib (dosis de 250 mg/12 h) el 28/5/2015. Como toxicidad destaca diarrea y molestias abdominales G2 por lo que se reduce la dosis a 200 mg/12 h, con buena tolerancia posterior manteniendo ECOG 0-1. Así mismo, presenta en la primera evaluación mediante TC TAP respuesta parcial de enfermedad (12/08/2015).
+
+Evolución
+La paciente continúa el tratamiento con dosis reducida y adecuada tolerancia, así como muy buena respuesta a nivel pulmonar consiguiendo la remisión completa en diciembre de 2016. Continúa con crizotinib durante 21 meses, pero en febrero de 2017 refiere cefalea de predominio occipital y cervicalgia de intensidad creciente. En la exploración en ese momento no hay focalidad neurológica pero, ante la cefalea llamativa, se solicita RM cerebral (02/03/2017) que muestra 10 lesiones cerebrales supra e infratentoriales < 1 cm y otra lesión con necrosis de 33 x 33 mm en hemisferio cerebeloso izquierdo que desciende a través del agujero magno con gran riesgo de compresión de tronco de encéfalo. Se actualiza en ese momento de nuevo el estudio de extensión mediante RM de raquis completo y TC-TAP que no muestran enfermedad a otro nivel.
+Ante el control de enfermedad a nivel extracerebral y el elevado riesgo de complicación grave, así como el distinto comportamiento de la lesión cerebelosa, se contacta con Neurocirugía y, tras comentar el caso en Comité de Tumores multidisciplinar, se decide realizar exéresis de la lesión cerebelosa y radioterapia holocraneal posterior. La cirugía se practica el 10/03/2017 y la AP corresponde a adenocarcinoma de origen pulmonar con traslocación de ALK. La paciente continúa mientras tanto tratamiento con crizotinib a la misma dosis.
+Tras recuperación de la cirugía y haber recibido radioterapia holocraneal paliativa (30 Gy en 5 sesiones entre el 26/04/2017 y el 08/05/2015) es valorada de nuevo en consulta y tras confirmar que persiste respuesta completa extracerebral se valoran opciones de tratamiento sistémico en ese momento.
+Dado que la progresión se había dado exclusivamente a nivel cerebral y debido a la escasa penetración de crizotinib en sistema nervioso central, se decide comenzar tratamiento de segunda línea con alectinib el 19/06/2017 (dosis de 600 mg/12 h). En ese momento, la paciente presenta ECOG 1 por molestias a nivel cervical que mejoran con paracetamol.
+Como toxicidad refiere astenia, mialgias ocasionales y fotosensibilidad cutánea, todo ello grado 1, por lo que se mantiene la dosis estándar. En la evaluación de enfermedad persiste la respuesta completa extracerebral y respuesta parcial a nivel cerebral en octubre de 2017.
+Continúa tratamiento hasta este momento sin efectos secundarios destacables manteniendo ECOG 1 y, en la última evaluación de enfermedad en abril de 2019, presenta respuesta completa tanto a nivel extracerebral como cerebral.

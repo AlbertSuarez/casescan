@@ -1,0 +1,32 @@
+Anamnesis
+Se trata de un varón de 69 años, sin alergias medicamentosas conocidas, con antecedente de ulcus duodenal e infección por Helicobacter Pylori erradicada en 2007 sin otros antecedentes médicos de interés. No toma ningún fármaco de forma habitual. Es fumador de 40 paquetes-año y bebedor de 3 UBE/día.
+Natural de Alicante, con un performance status (PS) de 0, jubilado actualmente, trabajó de funcionario.
+En cuanto a sus antecedentes familiares relevantes, su padre falleció por adenocarcinoma de colon a los 75 años.
+Su historia oncológica comienza el 17 de octubre de 2012 cuando se interviene de una lesión pigmentada de bordes irregulares de 1,7 x 1cm, localizado a nivel retroauricular izquierdo; dicha lesión estaría presente al menos el último año y en los últimos 2 meses había desaparecido parte de la misma, por lo que, ante sospecha de melanoma en regresión, se realiza exéresis de la misma. La anatomía patológica identifica un melanoma de extensión superficial en fase de crecimiento vertical, ulcerado, con índice de Clark IV (invasión de dermis reticular), espesor de 1,7 mm (pT2b) y con bordes quirúrgicos libres. El día 30 de noviembre de 2012 se realiza ampliación de márgenes de 2 cm siendo negativos, y se comienza seguimiento con anamnesis y exploración física por parte de Dermatología.
+Durante el seguimiento aparece nueva lesión pigmentada en región costal izquierda, interviniéndose mediante disección en huso de la misma el 5 de mayo de 2017, con resultado de infiltración dérmica por melanoma maligno siendo compatible citoarquitectural e inmunohistoquímicamente con metástasis de melanoma primario conocido. Ante esto, se procede a ampliación de márgenes el 27 de junio de 2017 que son negativos, realización de analítica completa con LDH sin hallazgos relevantes y con diagnóstico de melanoma retroauricular izquierdo pT2bNxM1a es derivado a Oncología Médica.
+En Oncología se realiza estudio de extensión con PET-TC sin objetivarse evidencia de enfermedad metastásica y se propone para inclusión en ensayo clínico CA209-915. Se trata de un estudio fase III que aleatoriza a los pacientes con melanoma resecado estadio IIIb-IV en 3 ramas: nivolumab, ipilimumab y la combinación de ambos. Se inicia ipilimumab 10 mg/kg cada 3 semanas el 4 de septiembre de 2017, y se recibe el segundo ciclo el 25 de septiembre.
+El 10 de octubre comienza con cuadro de astenia grado 2 y visión doble, por el que acude días más tarde a consultas externas, realizándose analítica de sangre con pruebas de función hepática, hormonas tiroideas y cortisol: AST 111 U/l (límite superior de la normalidad 40), ALT 78 U/l, GGT 227 U/l, FA 310 U/l, LDH 533 U/l, resto normal.
+Ante hepatitis autoinmune grado 2 y cuadro de diplopía de causa no filiada, el paciente pasa a hospitalización de Oncología el día 17 de octubre.
+
+Exploración física
+Paciente con PS 1 por astenia, eupneico en reposo, aceptable estado general, con exploración física sin hallazgos relevantes salvo por la neurológica.
+Se encuentra vigil, orientado en las 3 esferas, lenguaje conservado, pupilas isocóricas y normorreactivas, diplopía binocular con fatigabilidad, siendo normal la visión a la exploración monocular, ptosis palpebral, motilidad ocular extrínseca conservada, fuerza 5/5, sensibilidad conservada, reflejos osteotendinosos normales, reflejo cutáneo-plantar flexor bilateral, no hay dismetría ni adiadococinesia, Romberg negativo, sin alteraciones en la marcha y signos meníngeos negativos.
+
+Pruebas complementarias
+Por el cuadro de hepatitis se realiza ecografía abdominal y analítica de sangre con pruebas de función hepática y serología de virus de hepatitis. En la ecografía se objetiva esteatosis hepática leve, colelitiasis múltiple sin signos de colecistitis, sin otros hallazgos importantes. En cuanto a la analítica: AST 45 U/l, ALT 133 U/l, GGT 367 U/l, FA 240 U/l, LDH 236 U/l, serología hepatitis A, B y C negativa.
+Ante el cuadro de diplopía, se realiza TC cerebral y posteriormente RM cerebral sin evidenciarse lesiones metastásicas. Ante la normalidad de pruebas de imagen cerebrales se pide valoración a Oftalmología y Neurología, quienes sugieren diagnóstico de miastenia gravis. Se realiza estudio de la unión neuromuscular mediante electromiograma con estimulación Jitter con hallazgos sugestivos de miastenia gravis, y se piden anticuerpos antirreceptor de acetilcolina: > 20 nmol/l (valor normal < 0,5).
+
+Diagnóstico
+» Melanoma retroauricular izquierdo pT2b resecado en octubre de 2012.
+» Recaída única cutánea en región costal izquierda M1a resecada en mayo de 2017.
+» Adyuvancia en ensayo clínico: rama ipilimumab 10 mg/kg cada 3 semanas (04/09/2017-25/09/2017).
+» Hepatitis grado 2 secundaria a ipilimumab.
+» Miastenia gravis secundaria a ipilimumab.
+
+Tratamiento
+Una vez en planta, se inicia tratamiento corticoide con prednisona a dosis de 1 mg/kg/día (peso 90 kg).
+
+Evolución
+Tras 7 días de tratamiento la ptosis palpebral ha desaparecido, la diplopía ha mejorado parcialmente y las pruebas de función hepática han mejorado (AST 33, ALT 87 U/l, GGT 289 U/l, FA 184 U/l, LDH 225 U/l, resto analítica normal). Finalmente es dado de alta el 17 de octubre con tratamiento corticoide y control clínico-analítico ambulatorio.
+Dos semanas más tarde, el paciente acude a consultas externas por claudicación mandibular habiendo mejorado el cuadro ocular, con buen cumplimiento terapéutico de los corticoides. Ante esto se plantea la posibilidad de aumentar dosis de corticoides versus inicio de piridostigmina, ya que éste es un inhibidor de la acetilcolinesterasa y aumenta la concentración sináptica de acetilcolina, finalmente se opta por iniciar piridostigmina manteniendo dosis de corticoides.
+Se reevalúa de nuevo a la semana refiriendo mejoría tanto de la diplopía como de la claudicación mandibular, por lo que se indica retirada progresiva de corticoides y mantener piridostigmina. Una vez retirados los corticoides dos semanas más tarde, las transaminasas se han normalizado, y la diplopía se ha resuelto salvo en algún momento al final del día. Finalmente se suspende la piridostigmina al mes siguiente y se inician seguimientos habituales de su enfermedad de base, permaneciendo asintomático hasta la actualidad.

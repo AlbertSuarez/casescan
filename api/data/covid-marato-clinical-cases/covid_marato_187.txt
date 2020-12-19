@@ -1,0 +1,29 @@
+Anamnesis
+Varón de 68 años con antecedentes de hipertensión arterial, dislipemia y cardiopatía isquémica. En 2015, colocación de prótesis por aneurisma de aorta abdominal. Fumador importante con criterios clínicos de bronquitis crónica y disnea a moderados esfuerzos.
+En abril de 2016, es diagnosticado de carcinoma microcítico de lóbulo inferior derecho (LID), estadio IV, con metástasis ganglionares y pancreáticas. Durante el diagnóstico, marcadores tumorales: CEA 7,5 y enolasa neuroespecífica 69.
+Inicia tratamiento quimioterápico de primera línea con carboplatino-etopósido mostrando respuesta parcial de la masa pulmonar y las metástasis pancreáticas y ganglionares en TC tras 3 ciclos con descenso de enolasa neuroespecífica. Tras 4º ciclo, se pauta esquema de tratamiento con reducción del 20 % por toxicidad hematológica: trombopenia G1 y anemia G3.
+En controles adicionales por la Unidad de Medicina Paliativa, se pauta dexametasona 4 mg al día como orexígeno y oxigenoterapia domiciliaria con gafas nasales a 2 l/minuto. Como consecuencia, desarrolla hiperglucemias secundarias a tratamiento corticoide, precisando inicio de insulina subcutánea.
+Previamente al 6º ciclo, valorado en Urgencias por aumento de disnea, se realiza una TC dere-evaluación que objetiva progresión ganglionar mediastínica e hiliar. Masa pulmonar estable. Se suspende administración del 6º ciclo de carboplatino-etopósido, y se plantea tratamiento de segunda línea con topotecán oral que inicia en octubre de 2016.
+Ingresa desde Urgencias en el 5º día del primer ciclo de topotecán por neutropenia febril con probable foco respiratorio. Aunque no se evidencia infiltrado en la radiografía de tórax, se inicia tratamiento con antibioterapia de amplio espectro intravenosa: cefepima.
+Durante los primeros días de ingreso, el paciente refiere molestias en cavidad oral y a la exploración: mucositis G1 y muguet añadiendo fluconazol intravenoso y nistatina oral al tratamiento antibiótico.
+El 22 de octubre 2016 inicia cuadro de dolor intenso en región mandibular izquierda asociando edema en región maxilar izquierda y palpebral inferior ipsilateral.
+
+Exploración física
+Durante la exploración: exoftalmos de 3 mm en ojo izquierdo. Limitación a la supraducción del ojo con pupilas isocóricas y reactivas sin defecto pupilar aferente. No hay disminución de la agudeza visual. En cavidad oral: escara negro-grisácea en hemipaladar duro izquierdo de 3 cm de diámetro anteroposterior y 2 cm de diámetro transverso. Sin otras lesiones en cavidad oral ni adenopatías cervicales palpables. Durante la anamnesis dirigida: la lesión de paladar ha aparecido en las 24 horas previas. En fibroscopia nasal realizada por Otorrinolaringología, se objetivan restos hemáticos y perforación septal con tejido negruzco que obstruye la fosa nasal izquierda.
+
+Pruebas complementarias
+Se añade clindamicina para cobertura de gérmenes anaerobios y se solicita valoración y biopsia urgente de la lesión necrótica en paladar por parte de Cirugía Maxilofacial. Se realiza una TC facial urgente: muestra signos de sinusopatía etmoidal con presencia de niveles gas líquido, aumento de partes blandas a nivel de región mandibular izquierda y discontinuidad del músculo platisma del cuello. Se suspende fluconazol y se inicia tratamiento con anfotericina B liposomal 5 mg/kg de peso cada 24 horas por sospecha de mucormicosis.
+
+Diagnóstico
+En el cultivo de biopsia de paladar se confirma aislamiento de hongo filamentoso compatible con Rhizopus.
+
+Tratamiento
+Es valorado por Otorrinolaringología, donde se plantea intervención quirúrgica urgente el 24 de octubre 2016.
+En el protocolo quirúrgico se describe: mucormicosis que afecta a 2/3 anteriores de paladar duro, maxilar izquierdo, tabique nasal, órbita izquierda y celdas etmoidales posteriores y anteriores ipsilaterales. Se procede a exenteración orbitaria en bloque con maxilar y palatino izquierdos, importante necrosis de pared lateral nasal y de lámina papirácea. Objetivada trombosis de arterias etmoidales y mínima impronta de Mucor en base de cráneo a nivel de etmoides posterior (TC posquirúrgica).
+Tras la cirugía, el paciente precisa nutrición enteral por sonda nasogástrica. Se mantiene tratamiento con anfotericina B a dosis de 6 mg/kg de peso añadiendo caspofungina, comprobada la sensibilidad al tratamiento antifúngico en el estudio microbiológico de la pieza quirúrgica.
+
+Evolución
+Evolución posquirúrgica desfavorable, con empeoramiento clínico los días posteriores a la intervención: aumento de sensación disneica y analgesia en perfusión continua por dolor a nivel craneofacial.
+Progresión de lesión necrótica sobre cicatriz quirúrgica de paladar, pese al tratamiento antifúngico mantenido.
+En TC craneal y toracoabdominal de control se objetivan cambios posquirúrgicos de maxilectomía izquierda y exenteración de órbita con ocupación de seno frontal izquierdo, etmoidal y esfenoidal. En tórax, se describe aumento de masa pulmonar y adenopatías mediastínicas con aparición de infiltrados bilaterales difusos y derrame pleural derecho en relación a edema pulmonar o proceso infeccioso. La TC informa progresión pulmonar de la enfermedad neoplásica.
+Persiste importante deterioro clínico, respiratorio y global y, en vista de la mala evolución, se aumenta perfusión analgésica limitando el esfuerzo terapéutico, falleciendo a los once días de la intervención quirúrgica.

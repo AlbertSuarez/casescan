@@ -1,0 +1,26 @@
+Anamnesis
+Mujer de 51 años sin antecedentes de interés y sin tratamiento habitual, que en Marzo de 2013 acude a urgencias por cuadro de 1 mes de evolución de dolor abdominal acompañado de ocasionales despeños diarreicos, por lo que ingresa en Medicina Interna para estudio.
+
+Exploración física
+Normal salvo leve dolor a la palpación profunda en flanco derecho
+
+Pruebas complementarias
+-Analítica: Normal. CEA, CA 19.9:normal
+-Ecografía abdominal: múltiples lesiones hepáticas bilobares.
+-TAC-TAP: Masa intraperitoneal en fosa ilíaca derecha, sólida de unos 7 cm, con probable dependencia de ileon. Múltiples lesiones hepáticas bilobares sugestivas de metástasis
+-Biopsia hepática: carcinoma neuroendocrino bien diferenciado con Ki 67 <1% de probable origen digestivo.
+-Octreoscan: hipercaptación moderada sobre masa abdominal y lesiones hepáticas que confirman la sobreexpresión de receptores de somatostatina.
+
+Diagnóstico
+Carcinoma Neuroendocrino de bajo grado de ileon con metástasis hepáticas irresecables. Estadio IV.
+
+Tratamiento
+No toma tratamiento habitual, únicamente uso ocasional de analgésico de primer escalon.
+
+Evolución
+Ante el diagnóstico de tumor neuroendocrino de bajo grado de ileon con metástasis hepáticas irresecables y sintomatología digestiva se decide realizar resección intestinal en Junio de 2013. El resultado de anatomía patológica reflejaba un carcinoma neuroendocrino bien diferenciado de ileon con nódulo mesentérico de 8 cm que parece corresponder a ganglio linfático metastásico. El tumor infiltra todas las capas hasta la subserosa. Ki 67 <1%.
+Tras intervención se inicia tratamiento con análogos de somatostatina 120mg/SC/28 días y se realizaron dos sesiones de quimioembolización hepática con doxorrubicina.
+En pruebas radiológicas sucesivas se observa enfermedad estable a nivel de enfermedad hepática pero en Febrero de 2015 progresión hepática y aumento de niveles de cromogranina, por lo que el 11/2/15 se añade al tratamiento Sunitinib 37,5mg/24h VO.
+El día 2/3/15 acude a urgencias por hematuria franca y aparición de hematomas en cara posterior de muslo derecho y ambos glúteos. Se realiza una analítica de urgencia donde se observa, Hb 8,3 g/dl, 2000 plaquetas, tiempo de protrombina <120 seg, INR >8, APTT 55 seg y fibrinógeno 0,17 g/l, por lo que ingresa para estudio y tratamiento.
+Durante el ingreso se realiza frotis de sangre periférica donde se observa la presencia de esquistocitos y esferocitos, compatible con microangiopatía.
+Ante cuadro de coagulación intravascular diseminada secundaria al tratamiento con Sunitinib, se decide suspender el inhibidor tirosin-kinasa y se inicia tratamiento de soporte con sueroterapia, vitamina K IV, transfusión de concentrados de hematíes así como plasma fresco congelado y lavados continuos con sonda vesical. Mejoría progresiva del estado general de la paciente, con resolución del cuadro de hematuria así como reabsorción progresiva de hematomas y mejoría de datos analíticos, por lo que la paciente fue dada de alta a domicilio tras un mes de ingreso. Actualmente la paciente se encuentra con muy buen estado general y en tratamiento con análogos de somatostatina.

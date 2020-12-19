@@ -1,0 +1,29 @@
+Anamnesis
+Mujer de 82 años con antecedentes personales de HTA, cardiopatía reumática con doble lesión mitral y fibrilación auricular. No alergias medicamentosas. Hipotiroidismo tras tratamiento con yodo radioactivo por nódulo coloide en LTD, en tratamiento sustitutivo con levotiroxina.
+Fue diagnosticada en enero de 2015, a raíz de cuadro de estreñimiento, de un adenocarcinoma de colon, localizado a 20 cm del margen anal, con estudio de extensión negativo. Se decidió intervención quirúrgica el día 17/03/2015 mediante sigmoidectomía. La anatomía patológica confirma la presencia de un adenocarcinoma de colon pT3N2a (4-6/20)M0 Status RAS no mutado. Se solicita estudio de extensión postquirúrgico, que objetiva aparición de lesión hepática en segmento VIII, lesión esplénica de 8 mm, cuando previamente medía 6 mm y nódulo milimétrico en lóbulo medio (este último de características indeterminadas).
+El 25/05/2015 se presenta el caso en Comité multidisciplinar, y se plantea iniciar tratamiento con quimioterapia y paralelamente continuar estudio mediante RM y ecografía para filiar dichas lesiones.
+La paciente inicia el día 26/5/2015 quimioterapia según esquema Capecitabina 1000mg/m2 cada 12 horas días 1-14 cada 21 días. Se realiza RM (01/07/2015) en la que no se objetiva la lesión esplénica por lo que se interpreta que pudiese ser un defecto de perfusión, y se visualiza disminución significativa de tamaño de lesión hepática en segmento VIII. Además, se realiza ecografía abdominal-hepática (21/07/2015) objetivándose desaparición de la lesión hepática vista en TC previos. En vista de la ausencia de datos de confirmación de las lesiones hepáticas y esplénicas, se decide seguimiento estrecho de las mismas y mantener capecitabina postoperatoria durante 8 ciclos.
+La paciente mantiene tratamiento y en analítica del sexto ciclo, el laboratorio nos avisa de que la muestra de sangre es muy lipémica. En este momento, la paciente comienza con astenia e hiporexia, se realiza analítica de control con perfil metabólico y tiroideo completo donde se objetiva desorden metabólico severo
+
+Exploración física
+ECOG 1. Hemodinamicamente estable, afebril. ACP: arrítmica, sin soplos. MVC, no ruidos. Abdomen: cicatriz de laparotomía media, sin otros hallazgos. MMII: no edemas. No signos de TVP.
+
+Pruebas complementarias
+- ANALÍTICA: Función renal normal, iones normales. Función hepática normal. No anemia, trombopenia ni neutropenia.
+En el perfil metabólico: glucosa 209 (70 - 110), colesterol total 497 (previo normal, <200), HDL 19 (>35), LDL 58 (<130), triglicéridos 4167 (25-200). Hemoglobina glicada (HbA1c) de 9.5% (4 - 6) y IFCC de 80 mmol/mol (20 - 42). TSH 10,552 (0.35 - 4.950) T4 1,04 (0.70 - 1.6) y T3 2.77 (1.71 - 4.53).
+- TAC body reevaluación (30/9/2015): Esteatosis hepática. No se visualiza la lesión hepática descrita en estudios previos. Estabilidad de la lesión esplénica. Nódulo subcutáneo a nivel de FID de nueva aparición, sugestivo de depósito secundario.
+No se identifican signos de recidiva local. Engrosamiento circunferencial focal de un segmento de 6cm del colon ascendente que convendría caracterizar con colonoscopia para descartar neoformación.
+- COLONOSCOPIA (24/10/2015): No se identifican cambios en la mucosa ni en el calibre del colon ascendente. La mucosa y el calibre de todo el trayecto explorado es normal.
+
+Diagnóstico
+- Hipertrigliceridemia grado 4
+- Hipercolesterolemia grado 3
+- Hipotiroidismo grado 2
+- Hiperglucemia grado 2
+- Desorden endocrino grado 2 en probable relación con Quimioterapia (Capecitabina)
+
+Tratamiento
+En vista del desorden metabólico grado 2 (necesidad de intervención no invasiva) con hipertrigliceridemia grado 4, hipercolesterolemia grado 3, hipotiroidismo grado 2 e hiperglucemia grado 2, se solicita valoración por Servicio de Endocrinología y Nutrición para ajustes en el tratamiento, iniciando tratamiento hipolipemiante (estatina y fibrato), intensificación de tratamiento tiroideo sustitutivo (levotiroxina) y dieta baja en grasas. En consultas de Oncología Médica, se revisa ficha técnica de Capecitabina, que describe la aparición poco frecuente de diabetes e hipertrigliceridemia, que puede ser grave y/o mortal y se decide suspensión del fármaco tras seis ciclos de tratamiento de los 8 previstos y conitnuar con seguimiento estrecho.
+
+Evolución
+En revisión en consultas a las 2-3 semanas, en analítica de control se evidencia normalización de los valores analíticos, con franca mejoría clínica y desaparición de los síntomas. Se solicita PAAF de nódulo subcutáneo en FID, que muestra linfadenitis reactiva (descartando naturaleza tumoral). Los marcadores tumorales se mantienen estables. En vista de la ausencia de datos de enfermedad a distancia, se decide continuar con seguimiento radiológico y marcadores tumorales, que se mantienen normales hasta la actualidad.

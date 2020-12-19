@@ -1,0 +1,23 @@
+Anamnesis
+Mujer de 56 años, sin alergias medicamentosas conocidas ni hábitos tóxicos. Como antecedentes personales, es diabética insulinodependiente y dislipémica con tratamiento médico. Presenta síndrome de apnea-hipopnea del sueño, en tratamiento con ventilación mecánica no invasiva nocturna. Fue colecistectomizada en 2008.
+No presenta antecedentes familiares oncológicos de interés.
+A inicios de 2011, comienza con clínica de tos y expectoración compatible con infección respiratoria. Ante la persistencia de la clínica a pesar de tratamiento antibiótico, se inicia en junio de 2011 estudio diagnóstico.
+
+Exploración física
+ECOG 1. Karnofsky 80 %. Buen estado general, eupneica en reposo. Durante la auscultación cardiopulmonar, presenta murmullo vesicular conservado, sin ruidos patológicos sobreañadidos. El resto de la exploración se encuentra asimismo dentro de la normalidad.
+
+Pruebas complementarias
+Analíticamente, destaca una anemia microcítica con hemoglobina de 9,8 g/dl. Se solicita una tomografía computarizada de tórax y abdomen (TC), evidenciando múltiples nódulos pulmonares bilaterales subcentimétricos sugestivos de metástasis, así como un nódulo hepático de 5 mm en el segmento VII, una lesión de 1,4 cm en el cuerpo del páncreas y un nódulo suprarrenal derecho de 3 cm compatible con adenoma no funcionante. Ante los hallazgos descritos, la primera opción diagnóstica que se plantea es una neoplasia de páncreas con metástasis pulmonares múltiples y hepática única, por lo que se realiza punción de la lesión pancreática mediante ecoendoscopia, con resultado anatomopatológico negativo para malignidad.
+Dado que, tanto las lesiones pulmonares como la hepática única eran de pequeño tamaño, y por tanto, difíciles de biopsiar, se procede nuevamente a realizar una ecoendoscopia para intentar tomar una muestra pancreática. Sin embargo, la paciente presenta parada cardiorrespiratoria durante la realización de la ecoendoscopia previamente a la toma de biopsia, por lo que se ha de interrumpir el proceso diagnóstico.
+Posteriormente, se plantea entonces biopsiar uno de los nódulos pulmonares. Al ser éstos subcentimétricos, el abordaje para la punción ha de ser mediante videotoracoscopia, realizando resección en cuña del lóbulo medio y lóbulo superior derecho. La anatomía patológica de la pieza quirúrgica revela la existencia de un tumor carcinoide y tumorlet asociado a una hiperplasia neuroendocrina difusa, con Ki 67 < 2 % y TTF1 positivo, confirmándose el origen pulmonar.
+Se completa el estudio con unas catecolaminas en orina, con elevación de noradrenalina; así como marcadores tumorales, con elevación de polipéptido pancreático basal. Además, se amplía el estudio de imagen con una gammagrafía con octreótido, que muestra captación de la lesión pancreática descrita en la TC con expresión de receptores de somatostatina, sin captación de las lesiones pulmonares ni de la lesión hepática.
+
+Diagnóstico
+Dados los hallazgos evidenciados en las exploraciones complementarias detallas anteriormente, el juicio diagnóstico es el de tumor carcinoide pulmonar sincrónico con tumorlet pulmonar (así como probable tumor neuroendocrino pancreático por captación en gammagrafía con octreótido pero sin confirmación histológica).
+
+Tratamiento
+Se desestima la enucleación por el riesgo quirúrgico de la paciente. Se decide iniciar tratamiento sistémico en diciembre de 2011 con análogos de la somatostatina (lanreótido mensual a dosis de 120 mg), que mantiene hasta la actualidad.
+
+Evolución
+Durante el seguimiento, se evidencia en gammagrafía con octreótido estabilidad de la lesión pancreática, que se mantiene hasta la actualidad sin cambios, así como de los nódulos pulmonares subcentimétricos y la lesión hepática.
+Debemos destacar el diagnóstico incidental de tromboembolismo de pulmón en pruebas de imagen en septiembre de 2013, por lo que recibió tratamiento anticoagulante con heparina de bajo peso molecular durante 6 meses.

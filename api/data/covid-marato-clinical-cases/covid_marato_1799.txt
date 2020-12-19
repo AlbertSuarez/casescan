@@ -1,0 +1,46 @@
+Anamnesis
+
+Paciente varón de 83 años.
+No reacciones adversas medicamentos conocidas.
+No presenta antecedentes familiares relevantes para episodio actual.
+
+Antecedentes personales: Diverticulosis colónica, gastritis crónica superficial, hernia hiatal por deslizamiento, hemorroides internas II, diabetes mellitus tipo 2.
+Sin hábitos tóxicos reconocidos.
+En octubre del 2011 es intervenido de un GIST en ileon terminal de 4,5 cm, 6 mitosis en 50 campos de gran aumento, por lo tanto según la clasificación de Miettinen y Lasota fue considerado de alto riesgo y se decidió tratamiento adyuvante con imatinib 400mg diario. Luego el paciente hizo una recurrencia metastásica por lo que se debieron utilizar otros inhibidores de tirosina quinasa.
+
+Exploración física
+Paciente en buen estado general, eupneico y colaborador
+A la exploración cardiopulmonar: Corazón rítmico a 80 latidos por minuto, sin soplos. Buena murmullo vesicular sin ruidos patológicos.
+Abdomen blando depresible. Con cicatriz de laparotomía sin signos de complicación, no visceromegalia.
+Miembros inferiores sin edemas ni signos de trombosis.
+
+Pruebas complementarias
+Hemograma: normalidad de las tres series
+Bioquímica: sin alteraciones
+Perfil abdominal: sin alteraciones
+
+Estudio anatomopatológico:
+Tumor del estroma gastrointestinal con bordes de resección proximal y distal libres de tumor. Neoplasia predominantemente fusocelular con moderada celularidad y moderada atipia nuclear con un índice mitótico de 6/50 campos de gran aumento.
+
+Estudio inmunohistoquímico:
+CD117 positivo, DOG 1 positivo, CD 34 positivo, PKC- teta positivo (focal), S100 negativo
+
+Patología molecular:
+No se detectaron mutaciones en los exones 9 y 11 del gen KIT ni en el exón 18 del gen PDGFRA.
+
+Diagnóstico
+GIST localizado de alto riesgo de recurrencia
+Recidiva con metástasis peritoneales
+
+Tratamiento
+Adyuvancia: Imatinib 400 mg 1 comp cada 24 horas (Octubre 2011 a Abril 2014)
+Primera línea paliativa: Sunitinib 50 mg 1 comp cada 24 horas durante 4 semanas y 2 semanas de descanso. (Abril 2014 a Marzo 2015)
+Segunda línea paliativa: Regorafenib 40 mg 4 comp cada 24 horas durante 3 semanas y 1 semana de descanso. (Marzo 2015 a febrero 2016)
+Tercera línea paliativa: Sunitinib 50 mg 1 comp cada 24 horas durante 4 semanas y 2 semanas de descanso. (Febrero 2016 hasta la actualidad)
+
+Evolución
+Luego de iniciar el tratamiento con imatinib el paciente lo toleró muy bien, sin embargo, en diciembre del 2013, antes de terminar los 3 años de adyuvancia, presentó en un TAC control una masa de 35,5mms sugerente de recidiva que es confirmada con una resonancia magnética.
+Ante esta situación se decidió iniciar tratamiento paliativo de segunda línea con sunitinib en abril del 2014 y se hizo una reintervención quirúrgica donde se pudieron evidenciar implantes peritoneales.
+Luego de recibir 7 ciclos de tratamiento, en TAC de seguimiento de marzo del 2015 se evidenció nueva recidiva regional por lo que se decidió iniciar tratamiento con regorafenib.
+En diciembre del 2015 presentó aumento de intensidad del dolor abdominal que presentaba habitualmente, motivo por el cual tuvo que ser hospitalizado y mediante ecografía abdominal se evidenció ureterohidronefrosis izquierda grado 2-3 sin compromiso cortical. La función renal empezó a empeorar por lo que finalmente se procedió a realizar nefrostomía.
+En TAC control en febrero del 2016 presentó nuevamente progresión de enfermedad y basándonos en el genotipo wild type del tumor se decidió reiniciar sunitinib que actualmente tolera muy bien, pudiendo mantener una calidad de vida aceptable.

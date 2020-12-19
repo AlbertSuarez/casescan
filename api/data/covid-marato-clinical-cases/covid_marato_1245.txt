@@ -1,0 +1,42 @@
+Anamnesis
+Mujer de 52 años de edad, sin alergias medicamentosas conocidas. Sin antecedentes médico-quirúrgicos de interés hasta la fecha. No refiere antecedentes de cáncer en la familia.
+Ingresa en Medicina Interna para estudio de dolor abdominal inespecífico y síndrome constitucional.
+
+Exploración física
+La paciente se encuentra consciente y orientada. Palidez cutánea, normohidratada, afebril y eupneica en reposo. A la auscultación cardiaca, presenta ruidos rítmicos sin soplos con una frecuencia de 90lpm. A la auscultación pulmonar, no se aprecian ruidos patológicos sobreañadidos. El abdomen es blando, depresible, no doloroso a la palpación, no se palpan masas ni megalias, peristaltismo presente.
+No se observan edemas ni signos de trombosis venosa profunda en las extremidades inferiores.
+
+Pruebas complementarias
+» Colonoscopia (noviembre de 2009): Ss explora hasta 35 cm, donde existe neoformación vegetante (se biopsia) que disminuye el calibre de la luz sin permitir el paso del endoscopio.
+» Ecografía abdominal: múltiples lesiones hepáticas ocupantes de espacio.
+» Marcadores tumorales: CEA 1.138.
+» Anatomía patológica de la biopsia: adenocarcinoma de colon.
+» Determinación K-RAS: wild-type.
+» TC tóraco-abdominal (noviembre de 2009): gran hepatomegalia a expensas fundamentalmente de lóbulo derecho (LD). Multitud de tumoraciones (hasta ocho medibles) de gran tamaño que afecta la práctica totalidad de LD, segmentos I y IV. Tumoración en colon descendente de la proximidad de ángulo colosigmoideo donde se ubica la tumoración primitiva que contacta con peritoneo parietal probablemente infiltrado, con un diámetro aproximado de 5 cm, produciendo estenosis. Presenta una longitud de, aproximadamente, 6 cm. Pequeña cantidad de líquido peritoneal.
+
+Diagnóstico
+Adenocarcinoma clásico de recto-sigma. Estadio IV.
+
+Tratamiento
+El caso se presenta en el Comité de Tumores Digestivos. Las lesiones hepáticas son consideradas irresecables, por lo que se decide iniciar tratamiento quimioterápico (QT) paliativo. Esta paciente se encuentra dentro del grupo 2 de la ESMO (Sociedad Europea de Oncología Médica).
+
+La paciente es incluida en noviembre de 2009 en el ensayo PLANET TTD 08-04 y se procede a la aleatorización, entrando en el brazo con esquema FOLFIRI (CPT-11 310 mg IV día 1 + leucovorín 680 mg IV día 1 + 5-FU 680 mg IV día 1 en bolus y 5-FU 4100 mg IV día 1 en infusión de 46 horas) + panitumubab 360 mg IV día 1. Durante el tratamiento la paciente presentó buena tolerancia, salvo trombopenia grado 1 mantenida.
+
+Evolución
+Durante el tratamiento se realizan controles periódicos mediante TC que muestran buena evolución y respuesta parcial de las lesiones hepáticas y negativización de los marcadores tumorales.
+
+Tras ocho ciclos de tratamiento, en junio de 2010, se realiza una TC toraco-adbominal de reevaluación, donde se aprecian lesiones hepáticas ocupantes de espacio en el segmento VIII y segmento VII subcapsular, que presenta una hialinización o necrosis central con áreas de hipercaptación de contraste periféricas, probablemente secundarias a la evolución tras tratamiento QT. Engrosamiento acusado de la pared del colon izquierdo, tercio medio y distal, con obliteración de la luz, afectación de la grasa pericólica. Conclusión: respuesta parcial de las lesiones hepáticas con persistencia de la afectación de la vena cava inferior retrohepática. Neoplasia de colon ya conocida.
+
+Se realiza una PET-TC previa a la cirugía, que evidencia enfermedad activa en colon descendente, lesiones hepáticas hipodensas en segmento VII subcapsular y segmento VIII sin signos de actividad mínima hipermetabólica. No se aprecian lesiones secundarias en otras localizaciones.
+
+En agosto de 2010, tras reevaluación por el equipo multidisciplinar, se decide realización de la cirugía del tumor primario mediante hemicolectomía izquierda laparoscópica con anastomosis término-terminal.
+
+Durante el acto quirúrgico, se realizó ecografía laparoscópica intraoperatoria donde se confirmó la ausencia de afectación del lóbulo hepático izquierdo, por lo que, en septiembre de 2010, se procede al tratamiento quirúrgico de las lesiones hepáticas. En el acto quirúrgico se realizó una hepatectomía derecha reglada con parte del segmento IV después de realizar una disección y el control de las venas supraheptica media e izquierda y, en continuidad, resección de la raíz de la vena suprahepática derecha junto con la cara anterolateral derecha de la vena cava inferior retrohepática.
+
+Informe anatomo-patológico: en pieza de tumoración primaria se aprecia adenocarcinoma de recto-sigma clásico tipo infiltrante con grado medio de malignidad. Estadio: ypT3 ypN0 (0/14) M1. En la pieza de hepatectomía derecha se aprecian seis nódulos metastáticos de tamaños entre 7 y 1,3 cm, con necrosis tumoral presente (no cuantificada).
+
+Siguiendo las pautas del protocolo del ensayo PLANET TTD 08-04 Se administra tratamiento adyuvante con esquema FOLFIRI + panitumumab (en idéntico esquema que durante los ocho ciclos anteriores) hasta completar un total de 12 ciclos.
+
+Se mantienen revisiones periódicas con pruebas de imagen y analíticas sanguíneas con marcadores tumorales, siendo dentro de los rangos de la normalidad hasta el momento actual tras 66 meses desde el diagnóstico.
+
+Última TC de control en abril de 2015: no se evidencian signos de enfermedad secundaria.

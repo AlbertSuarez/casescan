@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 22 años sin antecedentes de interés. En marzo de 2012 refería dolor en la rodilla derecha tras una patada jugando a fútbol y se diagnosticó de "rotura fibrilar", pautando analgesia y reposo. En mayo de 2012 consultó por aumento progresivo e inflamación hasta la aparición de "masa dolorosa" en la rodilla derecha, con limitación funcional y síndrome constitucional. Se realizó una radiografía simple de la extremidad inferior derecha (EID) que demostró la existencia de una lesión lítica en la cabeza-cuello peroné, siendo derivado a Traumatología.
+
+Examen físico
+Masa pétrea en la cabeza de peroné derecho, de 8 cm, y extensión 1/3 proximal gemelar, con limitación para la flexión y abducción. Resto normal.
+
+Pruebas complementarias
+Tomografía computarizada (TC) de EID (01.06.12): lesión ósea peronea en área proximal de características líticas con "destrucción moteada", que asocia masa de partes blandas.
+Resonacia magnética (RM) de EID: lesión tumoral en cabeza, cuello, metáfisis, extensión diafisaria e infiltración medular. Extensión extracompartimental, destrucción ósea y masa partes blandas de 85 mm: a descartar osteosarcoma vs. sarcoma de Ewing.
+Gamagrafía ósea en 3 fases: aumento de flujo en fase angiográfica en la porción proximal del peroné y partes blandas. Patrón atípico pero concordante con osteosarcoma.
+Biopsia abierta (11.06.12): neoplasia mesodérmica de alto grado pleomórfica fusocelular. Expresa vimentina y CD99, Ki67>80%, así como expresión focal de actina y BCL2. Desmina, AE1-3, CD31-34-68 y EMA negativos
+
+Diagnóstico
+Sarcoma pleomorfo óseo con metástasis pulmonares.
+
+Tratamiento
+En Comité multidisciplinar se decidió iniciar tratamiento análogo a osteosarcoma convencional basado en la escasa evidencia científica (1,2). Inició quimioterapia neoadyuvante el 09.07.12 con quimioterapia basada en ifosfamida-doxorrubicina alternando con metotrexato a altas dosis y cisplatino-doxorrubicina.
+
+Evolución
+Tras el primer ciclo, neutropenia febril de grado IV e infección del catéter, subyugado con antibioterapia, factores estimulantes de colonias y retirada de catéter.
+Finaliza tratamiento en septiembre de 2012, con RM EID (03/10/12) que demuestra una marcada reducción del volumen tumoral 27 x 13 mm y del edema peritumoral y TC tórax-abdomen (05/10/12) con respuesta parcial pulmonar.
+Ante estos hallazgos, se decidió cirugía mediante resección amplia peronea el 22/10/12, sin incidencias y que confirma el diagnóstico, con regresión del 85 % tumoral, no afectación de márgenes quirúrgicos ni evidencia de material osteoide en tumor viable.
+Inició quimioterapia adyuvancia el 10/12/12 según el mismo esquema de neoadyuvancia hasta el 18/02/13 con hepatotoxicidad secundaria a metotrexato como única toxicidad. En TC de tórax-abdomen se constata una respuesta completa pulmonar.
+Su última visita en CCEE de Oncología data del 26.04.13, sin evidencia clínica ni radiológica de enfermedad neoplásica.

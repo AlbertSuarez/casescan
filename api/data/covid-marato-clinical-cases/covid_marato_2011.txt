@@ -1,0 +1,39 @@
+Anamnesis
+Varón de 40 años de edad, sin antecedentes de interés, diagnosticado en agosto de 2011 de un tumor de células germinales no seminomatoso primario mediastínico, de mal pronóstico según clasificación IGCCCG (International Germ Cell Cancer Collaborative Group), en su mayoría por factores radiológicos. Recibió seis ciclos de quimioterapia de primera línea según esquema BEP (bleomicina, etopósido y cisplatino), sin presentar toxicidades importantes.
+Tras ello al continuar con masa tumoral viable realizó dosciclos según esquema TIP (cisplatino, placitaxel e ifosfamida). Ante la falta de respuesta, inició tercera línea con gemcitabina y oxaliplatino por tres ciclos. Posteriormente y ante la falta de respuesta recibió seis ciclos de doxorrubicina, continuando durante los cuatro meses posteriores con etopósido oral y radioterapia paliativa. Tras una nueva progresión de la enfermedad y elevación de marcadores tumorales, se plantea quimioterapia paliativa con bleomicina y metotrexato semanal, realizando solo dos dosis de este último.
+Ingresa en la planta de Oncología Médica en marzo de 2012 por mal control del dolor, deterioro del estado general y disnea en reposo, saturando al 60% sin oxígeno suplementario. Refiere que la disnea se instauró de manera progresiva desde 15 días antes, coincidiendo en el tiempo con la aparición del dolor en zona lumbar derecha.
+
+Exploración física
+ECOG 3. Tensión arterial 120/60 mm Hg. Temperatura 36 ºC. Saturación de oxígeno 90% con mascarilla con reservorio. Diuresis conservadas.
+Auscultación cardiopulmonar: corazón rítmico a buena frecuencia (90 lpm). Murmullo vesicular disminuido de forma bilateral, sin ruidos patológicos sobreañadidos.
+Abdomen: blando y depresible, sin masas ni megalias. No doloroso a la palpación. Miembros inferiores: sin edemas ni signos de trombosis venosa profunda. Masa clavicular izquierda, móvil, correspondiente a una posible fractura. Exploración neurológica sin hallazgos de interés.
+
+Pruebas complementarias
+• Analítica al ingreso: glucosa 163 mg/dL; urea 61 mg/dL; potasio 5,1 mg/dL; sodio 132 mg/dL; PCR 175,1 mg/dL; NT-ProBNP 1.640. Leucocitos 15.590 con 85% de polimorfonucleares; linfocitos 600; hemoglobina 9,9 g/dL; plaquetas normales; INR 1,39; fibrinógeno 4,8 mg/dL.
+• Radiografía de tórax al ingreso: infiltrado alveolo-intersticial bilateral, de mayor densidad en lóbulo superior derecho. Ensanchamiento mediastínico.
+• Gammagrafía ósea: disminución de la actividad osteoblástica en el hemicuerpo vertebral derecho de la D10.
+• Antigenurias del neumococo y legionella negativas.
+• Marcadores tumorales: LDH 863 U/L; FA 74 U/L; alfafetoproteína 30.751 ng/mL.
+• RM dorsolumbar: metástasis vertebrales dorsolumbares múltiples, las más significativas en D9 (fractura patológica sin abombamiento del muro ni masa epidural), D10, esta última con masa epidural de partes blandas que comprime significativamente el saco tecal y del margen posterosuperior izquierdo de la D12 con mínimo componente tumoral epidural. Las restantes metástasis están circunscritas al cuerpo vertebral.
+• TACAR de tórax: patrón en empedrado (opacidad alveolar en "vidrio deslustrado" y engrosamiento de los septos interlobulares) que ocupa la totalidad del pulmón derecho y extensa zona perihiliar del lóbulo superior izquierdo. Se trata de un hallazgo inespecífico que puede traducir infección, hemorragia alveolar, daño tóxico… a valorar según clínica. Tres nodulaciones pulmonares izquierdas compatibles con metástasis. Gran masa mediastínica anterior, ya diagnosticada de tumor germinal no seminomatoso.
+Lesiones óseas compatibles con metástasis en columna vertebral.
+• Ecocardiografía transtorácica: derrame pericárdico leve y fracción de eyección conservada.
+• PCR para citomegalovirus < 150 copias.
+• Radiografía de tórax a las tres semanas del ingreso: pulmón derecho sin signos de condensación actual. Se aprecia nueva densidad en lóbulo superior izquierdo que podría corresponder a hemorragia, progresión o neumonía.
+
+Evolución y diagnóstico
+Desde el ingreso del paciente se realizó diagnóstico diferencial entre las siguientes patologías:
+• Insuficiencia respiratoria por causa infecciosa.
+• Insuficiencia respiratoria por progresión de la enfermedad.
+• Insuficiencia respiratoria por toxicidad farmacológica.
+• Insuficiencia cardíaca de reciente diagnóstico asociada a patología tumoral.
+El paciente recibió tratamiento antibiótico intravenoso de amplio espectro, así como antifúngico, sin mejoría clínica ni radiológica. La negatividad de las pruebas complementarias, la ausencia de fiebre y otros signos de infección, descartó la opción de insuficiencia respiratoria por causa infecciosa. Del mismo modo, la ausencia de clínica por fallo de bomba y el resultado de la ecocardiografía normal, llevó a descartar también la causa cardíaca del proceso descrito.
+Por tanto, la probable etiología del cuadro se centraba en progresión de la enfermedad o toxicidad por la quimioterapia1. El fármaco que más probabilidad tenía de haber causado el cuadro era la bleomicina, tanto por características propias del fármaco, como por proximidad en el tiempo del mismo2-4. Por ello se decidió instaurar tratamiento sintomático con esteroides a dosis altas. Al mismo tiempo, el paciente recibió dos dosis masivas de radioterapia mediastínica de 4 Gy por sesión, suspendiéndola por intolerancia a la misma y empeoramiento de la clínica.
+Tras dos semanas de corticoterapia intensiva, la evolución del cuadro resultó tórpida y durante las dos semanas posteriores persistieron crisis paroxísticas de disnea y episodios de angustia. Ante la falta de beneficio sintomático, el paciente se trasladó a la Unidad de Cuidados Paliativos, manteniendo el mismo tratamiento y mejorando llamativamente de su clínica respiratoria, con saturación del 95% sin oxigenoterapia suplementaria. Se le realizó una radiografía de tórax que mostró una increíble mejoría del infiltrado pulmonar derecho.
+
+Tratamiento
+El paciente inicialmente, y al desconocerse el diagnóstico, fue tratado como una insuficiencia respiratoria de causa incierta, asociándose tratamiento con oxigenoterapia, corticoterapia intravenosa, diuréticos, aerosolterapia y antibioterapia empírica.
+Además se asociaron mórficos intravenosos en bolos a bajas dosis para aliviar la disnea y el dolor óseo asociado.
+Dado el planteamiento de alveolitis fibrosante secundaria a Bleomicina planteado, y dado que previamente ya había realizado tratamiento con corticoides a dosis bajas, realiza tratamiento con altas dosis de corticoides, realizando tres bolos: uno inicial de 1 g de metilprednisona y dos de 500 mg en los días posteriores.
+Tras la mejoría experimentada, el paciente volvió a presentar un episodio de disnea, en esta ocasión de instauración subaguda, acompañándose de hemoptisis intensa sin fiebre asociada. Dicho episodio fue catalogado como hemorragia pulmonar por probable progresión tumoral. Dichos episodios hemoptoicos incrementaron en número y cuantía.
+Dada la refractariedad de los síntomas, se decidió junto con la familia sedación terminal, falleciendo el paciente a las pocas horas del inicio de la misma.

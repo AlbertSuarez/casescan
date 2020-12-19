@@ -1,0 +1,35 @@
+Anamnesis
+Mujer de 39 años, alérgica a los contrastes yodados, antecedentes de asma e hipotiroidismo en tratamiento con levotiroxina. Antecedentes ginecobstétricos: menarquia a los 12 años. G6A3P3. Edad de primer embarazo a término: 22 años. Premenopáusica.
+
+Diagnosticada en julio de 2009 de carcinoma ductal infiltrante (CDI) de mama derecha T4cN3M1 (metástasis óseas y hepática única). Receptores estrogénicos (RE) 3+, receptores de progesterona (RP) 3+, Her2 +.
+
+Recibió tratamiento quimioterápico con docetaxel-carboplatino-trastuzumab por 8 ciclos con respuesta parcial (RP). Toxicidad máxima astenia grado 2, diarrea grado 2 y reacción de hipersensibilidad al carboplatino en el 8º ciclo por lo que recibió tres ciclos más solo con docetaxel-trastuzumab, posterior mantenimiento con tamoxifeno-bevacizumab-trastuzumab y ácido zoledrónico hasta diciembre de 2010, quedando solo con tamoxifeno y buen control de la enfermedad por 20 meses.
+
+En agosto de 2012 presenta dolor en cadera derecha que se corresponde con progresión ósea en iliaco derecho. Se indica radioterapia (RT) antiálgica y se cambia tratamiento a triptorelina-exemestano-trastuzumab y ácido zoledrónico.
+
+En junio de 2014 tratamiento solo con triptorelina semestral y exemestano. Enfermedad controlada, hace vida casi normal, actividad física moderada y cuida de sus hijos hasta octubre de 2014 cuando refiere dolor dorsolumbar EVA 8 en tratamiento con tapentadol y fentanilo nasal. En la TC se observa progresión ósea por aparición de lesiones líticas en columna dorsal. Se pauta tratamiento con fulvestrant y denosumab que mantiene hasta mayo de 2015.
+
+Enfermedad actual
+Ingresa desde el Servicio de Urgencias por perdida del conocimiento, movimientos tónico-clónicos, relajación de esfínteres y sialorrea de 3-4 minutos de duración; recuperación espontánea y ausencia de déficit neurológico posterior. En relación con lo previo, refiere episodios autolimitados de mareo y náuseas sin cefalea en las semanas previas, además de episodios de dismetropsia (aparente alteración del tamaño de los objetos). No cefalea, no diplopía.
+
+Exploración física
+TA 127/76; FC 75; FR 18; SatO2 97%. Consciente y orientada. Buena hidratación y perfusión.
+Obesidad. Cabeza y cuello: signos de mordedura en borde izquierdo de la lengua. No adenopatías.
+Cardiopulmonar: rítmica sin soplos. Pulmones bien ventilados sin ruidos anormales. Mamas: de consistencia blanda, sin masas ni nódulos. Axilas normales. Abdomen: ruidos peristálticos presentes; globuloso, sin masas ni megalias. No doloroso. Extremidades: sin edemas ni signos de trombosis venosa. Espinopercusión dolorosa en región dorsal. Neurológico: funciones superiores conservadas.
+Pupilas simétricas reactivas a la luz. Pares craneales normales. Fuerza muscular conservada y simétrica en las cuatro extremidades. No se observa déficit sensitivo. Reflejos tendinosos conservados.
+Marcha normal. No adidococinesia. Sin rigidez de nuca ni meningismo.
+Pruebas complementarias
+» Bioquímica, sistemático de sangre, coagulación y gases venosos rigurosamente: normales.
+» Punción lumbar: líquido cefalorraquídeo (LCR) claro a presión normal. Leucocitos 2/mm3; hematíes 50/mm3; glucosa 86 mg/dL; proteínas totales 70 mg/dL; LDH 163 mU/dL. Citología de LCR: se observan hematíes, no se observan leucocitos; negativa para células malignas.
+» TC craneal de urgencias sin contraste (CIV): hipodensidad subcortical en el lóbulo occipital izquierdo, en relación con edema vasogénico. No se observan signos de sangrado intra ni extraaxial.
+Línea media centrada. Surcos corticales conservados.Debido a la imposibilidad de aplicar CIV es preciso ampliar el estudio mediante resonancia magnética (RM) dado que la primera posibilidad diagnóstica es metástasis cerebral.
+» RM cerebral con contraste: lesión extraaxial occipital izquierda situada en el borde inferior del hemitentorio y la hoz cerebral izquierdos, de 35 x 20 x 34 mm, que produce edema vasogénico en el parénquima adyacente.
+
+Diagnóstico
+Los hallazgos observados en las pruebas de imagen, especialmente en la RM, sugieren como primera posibilidad una metástasis dural del carcinoma de mama, dados los antecedentes de la paciente; no obstante, los hallazgos también pueden corresponderse con un meningioma, incluso con abundante edema vasogénico asociado.
+
+Tratamiento
+Dada la necesidad de aclarar el diagnóstico, especialmente por las implicaciones terapéuticas y el pronóstico para la paciente, se comenta el caso con el Servicio de Neurocirugía, quienes intervienen el día 03/5/2015 mediante craneotomía occipital, logrando la resección macroscópica de la totalidad de la lesión dural sin complicaciones hemorrágicas, pero con abundante edema secundario que obliga a realizar una duroplastia y cierre cutáneo para posterior colocación del hueso occipital en un segundo acto quirúrgico.
+
+Evolución
+La biopsia intraoperatoria confirma el diagnóstico de metástasis dural de carcinoma de mama. La paciente se recupera actualmente sin secuelas visuales, motoras o sensitivas.

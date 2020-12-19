@@ -1,0 +1,27 @@
+Anamnesis
+Paciente mujer de 45 años de edad, sin antecedentes médico-quirúrgicos importantes, fumadora de 1 paquete de cigarrillos al día desde los 20 años de edad y sin antecedentes familiares oncológicos, que consultó por dolor en la mama izquierda, asociado a enrojecimiento y edema cutáneo, que inicialmente fue manejado como una mastitis con cloxacilina, sin mejoría clínica. Ante la refractariedad al tratamiento antibiótico, se decidió realizar biopsia cutánea.
+
+Exploración física
+A la exploración destaca una mama izquierda dura y nodular, con engrosamiento cutáneo acompañado de piel de naranja y eritema generalizado; en la axila ipsilateral se palpan adenopatías de unos 2 cm, duras y móviles. En la mama derecha se palpa un nódulo en el cuadrante inferoexterno móvil de 2 cm aproximadamente, sin palparse adenopatías a nivel axilar.
+
+Pruebas complementarias
+» Punch de piel de mama izquierda: cilindros cutáneos con múltiples émbolos linfáticos de carcinoma ductal pobremente diferenciado (carcinoma inflamatorio), con receptores hormonales negativos, Her-2 no amplificado y Ki-67 del 40%.
+» Resonancia de mamas: captación difusa de mama izquierda con edema y engrosamiento de la piel concordante con el diagnóstico histológico de carcinoma inflamatorio (BRADS6), asociado a adenopatías axilares sospechosas. En la mama derecha lesiones con distorsión del parénquima en el cuadrante superoexterno y probable fibroadenoma en el cuadrante ínfero externo.
+» BAG de mama derecha: CSE, carcinoma intraductal sólido de alto grado. CIE, tumor phyllodes, histológicamente benigno.
+» Se realiza estudio de extensión con TC y gammagrafía ósea, que son negativos.
+
+Diagnóstico
+Carcinoma ductal inflamatorio de mama izquierda pT4cN1M0 (estadio IIIB).
+
+Tumor phyllodes benigno de mama derecha, asociado a carcinoma intraductal sólido de alto grado.
+
+Tratamiento
+Con el diagnóstico de carcinoma ductal inflamatorio de mama izquierda pT4cN1M0 (estadio IIIB), inicia tratamiento de quimioterapia con intención neoadyuvante, con taxol semanal (80 mg/m2) por 12 ciclos, con neurotoxicidad grado 2 como evento adverso importante, seguido de cuatro ciclos de FEC (5-FU 600 mg/m2 + epirrubicina 90 mg/m2 + ciclofosfamida 600 mg/m2).
+
+Tras finalizar la neoadyuvancia, es intervenida quirúrgicamente con mastectomía bilateral y linfadenectomía axilar izquierda, con resultados de anatomía patológica de:
+» Mastectomía izquierda: persistencia postneoadyuvancia de carcinoma ductal infiltrante en toda la mama en forma de agregados dispersos (el mayor de 2,5 mm), con invasión tumoral linfática en el parénquima mamario y en la dermis del huso de piel incluido. Con un grado de regresión tumoral por quimioterapia neoadyuvante de al menos el 50% (categoría R1) y afectación de 3 de los 9 ganglios linfáticos aislados de la linfadenectomía axilar.Estadio tumoral AJCC/UICC, 7ª edición: ypT4d N1a.
+» Mastectomía derecha: alteraciones estromales compatibles con la administración de quimioterapia neoadyuvante. Estadio tumoral AJCC/UICC, 7ª edición: pT0 Nx. En la pieza de mastectomía derecha no se identifica lecho tumoral ni carcinoma intraductal de alto grado ni infiltrante, aunque sí se observan zonas con patrón fibroadenomatoide que pueden explicar el diagnóstico previo de tumor phyllodes benigno. Comparando la morfología de las lesiones observadas en la pieza de mastectomía con las biopsias iniciales de la BAG se evidencia que las imágenes de la pieza quirúrgica podrían ser compatibles con una extensión tumoral residual a los lobulillos que sería lo que, finalmente, queda del tumor original tras la quimioterapia neoadyuvante.
+Tras el tratamiento quirúrgico, la paciente recibe tratamiento de radioterapia sobre la pared torácica izquierda y áreas ganglionares supraclaviculares, interpectorales, infraclaviculares y niveles ganglionares axilares I a III con una dosis total de 50 Gy, con sobreimpresión de 10 Gy adicionales sobre el área de la pared torácica izquierda.
+
+Evolución
+Actualmente la paciente se encuentra realizando revisiones periódicas sin incidencias.

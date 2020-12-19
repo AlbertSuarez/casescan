@@ -1,0 +1,21 @@
+Anamnesis
+Varón de 48 años, administrativo de profesión, fumador activo de un paquete-día, sin alergias medicamentosas conocidas y sin antecedentes familiares ni personales de importancia.
+Diagnosticado en el 2015 de meningioma del seno cavernoso tratado mediante radiocirugía con gamma knife. En diciembre del 2017 se constató recidiva tumoral, por lo que se realiza resección quirúrgica que fue incompleta.
+La Anatomía Patológica (AP) fue compatible con meningioma transicional del seno cavernoso grado I de la OMS. Completó tratamiento posterior con radioterapia (25 Gy) y, desde entonces, se mantuvo en tratamiento anticomicial con levetiracetam.
+En julio de 2018, acudió a Urgencias de un centro externo por cuadro de 10 días caracterizado por desorientación y episodio de caída desde propia altura asociado a pérdida del nivel de conciencia y relajación de esfínteres. Una tomografía computarizada (TC) craneal urgente descartó patología aguda intracraneal y una analítica mostró elevación de creatina quinasa sin alteración del hemograma, ionograma, función renal o pruebas de función hepática. Durante su estancia hospitalaria, ante quejas de dolor en cadera derecha e irradiada hacia la extremidad inferior ipsilateral, se realizó una radiografía simple y posterior TC pélvica que informaron de una fractura patológica a nivel iliaco e isquiopubiano derechos, asociando 2 lesiones infiltrativas. Se realizó una biopsia con aguja gruesa (BAG) guiada por TC, cuyo informe histológico fue de "carcinoma no filiado", sin disponerse de inmunohistoquímica. Se deriva a nuestro centro para completar estudio.
+
+Exploración física
+A su llegada a la planta de Oncología Médica, el paciente presentaba un ECOG 2, con secuelas quirúrgicas en cráneo, una ptosis palpebral derecha secundaria a los tratamientos realizados, pero sin focalidad aguda, sin parálisis facial, encontrándose consciente, orientado en las tres esferas y con movilización de las cuatro extremidades sin déficits motores o sensitivos.
+Pruebas complementarias
+Se ampliaron los estudios con una RM pélvica y una TC toracoabdominal que mostró afectación ósea múltiple y se realizó una nueva BAG ósea/tejidos blandos de la lesión pélvica que informó de infiltración ósea por tumoración compatible con meningioma.
+Ante dicho hallazgo de invasión ósea por meningioma, se revisaron las histologías de la resección quirúrgica inicial como de la BAG ósea realizada en centro externo, confirmándose el diagnóstico. Sobre la muestra de la resección quirúrgica se intentó determinar la presencia de mutaciones del gen TERT, que no fue posible por mala calidad de ADN obtenido. El cribado de alteración de las proteínas de los genes reparadores de desapareamiento fue negativo. Buscando factores pronósticos y opciones terapéuticas, se realizó un Octreoscan® que presentó captación a nivel de todas las lesiones.
+
+Diagnóstico
+Valorado como un meningioma transicional del seno cavernoso grado I de OMS con metástasis óseas múltiples.
+
+Tratamiento
+Se decide iniciar primera línea de tratamiento metastásico con tamoxifeno, octreótido-LAR y ácido zoledrónico, debido a la captación positiva de Octreoscan® y presencia de receptores hormonales positivos. Asimismo, se decidió realizar radioterapia antiálgica (8 Gy en dosis única) en hombro izquierdo y (dosis total de 20 Gy) en pelvis derecha.
+
+Evolución
+Fue dado de alta a un centro sociosanitario para continuar el tratamiento y la rehabilitación. A los 3 meses se realizó control ambulatorio donde se objetiva a la exploración una parálisis facial y en las pruebas de imágenes se documentaba progresión de enfermedad a nivel intracraneal y extracraneal, con aparición de nuevas lesiones óseas líticas a nivel vertebral y una lesión en segmento IV hepático. Se decidió cambio a una segunda línea de tratamiento con hidroxicarbamida, el cual realizó de forma intermitente ante mala tolerancia.
+Posteriormente, presentó deterioro clínico, empeoramiento del estado general y mayor postración, por lo que se decide iniciar tratamiento de soporte. El paciente fallece a los nueve meses del diagnóstico, como consecuencia de progresión de la enfermedad.

@@ -1,0 +1,42 @@
+Anamnesis
+La paciente de nuestro caso clínico es una mujer de 20 años con antecedentes de alergia al contraste paramagnético, trastorno de la alimentación y depresivo en la adolescencia y varias intervenciones quirúrgicas enumeradas a continuación:
+a) Cirugía de cistoadenofibroma mucinoso ovárico a los 12 años.
+b) Extirpación de nevus congénito en MII y de nódulos compatibles con malformaciones vasculares venosas en ambos MMII a los 15 años.
+c) Resección de fibroma esclerótico en la región frontal a los 19 años.
+Como antecedentes familiares de interés, su madre fue intervenida de múltiples fibromas mamarios y en maxilar superior y su abuelo materno fue intervenido de múltiples epiteliomas basocelulares. Por la rama paterna, su padre falleció debido a un cáncer de laringe y su abuelo paterno por un cáncer de origen cutáneo.
+
+Exploración física
+Durante la exploración física, la paciente presentaba una evidente macrocefalia, con un perímetro cefálico de 62 cm. Por lo demás, a parte de la presencia de cordones varicosos en los MMII, no presentaba ninguna otra alteración, sin objetivarse las típicas lesiones cutáneo-mucosas (queratosis acral, papilomas orales o triquilemomas faciales) tras una exploración exhaustiva.
+
+Pruebas complementarias
+Tras analizar los antecedentes de la paciente desde el Servicio de Dermatología, se estableció un diagnóstico de sospecha de síndrome de Cowden, ya que la paciente cumplía varios de los criterios clínicos que indican la solicitud de un estudio genético dirigido al análisis de mutaciones en el gen PTEN.
+Dentro de los criterios clínicos que hay que analizar, para indicar la determinación de este estudio genético, encontramos a aquellos que son patognomónicos (presencia de la enfermedad de Lhermitte-Duclos del adulto, o presencia de lesiones mucocutáneas como los triquilemomas faciales, la queratosis acral y las lesiones papilomatosas localizadas en la región periocular y en el dorso de las manos); a los criterios mayores (desarrollo de cáncer de mama, de endometrio o cáncer folicular de tiroides, además de la presencia de macrocefalia); y a los criterios menores (presencia de otras lesiones tiroideas, retraso mental, pólipos intestinales hamartomatosos, fibroadenomas mamarios, malformaciones vasculares, lipomas, fibromas, cáncer de células renales, malformaciones genitourinarias y fibrosis uterina).
+El estudio genético deberá indicarse, por tanto, en las siguientes situaciones:
+1) Presencia de lesiones mucocutáneas patognomónicas combinadas con
+» Seis o más pápulas faciales (de las cuales tres compatibles con triquilemomas).
+» Pápulas faciales y papilomas en la mucosa oral.
+» Papilomas en la mucosa oral con queratosis acral.
+» Con la presencia de seis o más papilomas en la mucosa oral.
+2) Presencia de dos o más criterios mayores.
+3) Presencia de un criterio mayor con tres o más criterios menores.
+4) Presencia de cuatro o más criterios menores.
+En nuestro caso, la paciente cumplía solamente uno de los criterios mayores (macrocefalia) y dos de los menores (fibromas y malformaciones vasculares), por lo que la indicación del estudio estuvo un poco limitada a falta de cumplir un criterio menor más.
+Actualmente, tenemos a nuestra disposición calculadores de riesgo online que pueden determinar con más exactitud la probabilidad de que un estudio genético sea rentable, tras un análisis de los criterios clínicos de este tipo de síndromes y otros datos (edad, sexo, etc.).
+Los diagnósticos diferenciales con el SC deben tenerse siempre en cuenta antes de decidir qué estudio genético es el más adecuado, incluyendo los siguientes: el síndrome de poliposis juvenil y el síndrome de Peutz-Jeghers (caracterizados por la presencia de pólipos GI hamartomatosos), el síndrome de Birt-Hogg-Dubé (por su relación con el cáncer renal y la presencia de foliculomas en la piel), el síndrome de Gorlin (caracterizado por la presencia de múltiples carcinomas basocelulares y otras alteraciones cutáneas y alteraciones óseas, neurológicas y oftalmológicas), síndromes neurocutáneos (NF tipo 1 y ET) y entidades que forman parte del PTHS.
+
+Diagnóstico
+En nuestro caso, tras la realización del estudio genético, se detectó la presencia, en el gen PTEN, de una variante germinal patogénica en heterocigosis, concretamente la c.635-1G > C, confirmándose el diagnóstico de sospecha.
+Tras estos resultados, la paciente fue derivada a nuestra Unidad de Cáncer Familiar para un correcto asesoramiento postestudio y manejo diagnóstico-terapéutico.
+
+Tratamiento
+El tratamiento de las diversas manifestaciones relacionadas con este síndrome, así como su seguimiento, dependen de lo temprano que este se diagnostique. En nuestro caso, se podrán aplicar todas las medidas preventivas y de diagnóstico precoz relacionadas con el desarrollo de los tumores malignos más característicos descritos anteriormente, que son las siguientes:
+»Revisiones ginecológicas periódicas con exploración mamaria y ecografía vaginal desde el diagnóstico.
+»RM mamaria anual a partir de los 30 años.
+»Ecografía tiroidea anual desde el diagnóstico.
+Ecografía renal anual desde los 40 años.
+»EDB cada 5 años desde los 35 años.
+
+Evolución
+A lo largo del seguimiento de nuestra paciente, se valorará la cirugía profiláctica mamaria e histerectomía, una vez la paciente haya cumplido su deseo génico o tras la valoración de otras alternativas como la preservación de ovocitos.
+La cirugía de las lesiones benignas se valorará cuando se precise.
+Y nunca se debe olvidar el asesoramiento en el resto de sus familiares, que en nuestro caso se centró en su madre y en su único hermano, indicándose la realización del test genético a ambos.

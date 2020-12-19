@@ -1,0 +1,33 @@
+Anamnesis
+Paciente de 32 años procedente de Senegal que vive desde hace varios años en España. Es independiente para las actividades básicas de la vida diaria y, como antecedentes médicos relevantes, destacan una hepatitis crónica por el virus de la hepatitis B (tratada de 2011 a 2016) con una sobreinfección aguda por virus D por la que está actualmente en tratamiento con entecavir.
+
+Historia oncológica
+En febrero de 2019 acude a Urgencias por dolor en hemitórax izquierdo de características pleuríticas, acompañado de disnea de moderados esfuerzos. Al realizarse una radiografía de tórax, se objetivan imágenes multinodulares pulmonares bilaterales.
+
+Exploración física
+» En la exploración física presenta constantes vitales en rango de la normalidad. No se palpan adenopatías laterocervicales ni supraclaviculares. Auscultación cardiaca: rítmico a unos 70 lpm, sin soplos.
+» Auscultación pulmonar: murmullo vesicular conservado, sin ruidos sobreañadidos.
+» Abdomen: blando, depresible, no doloroso a la palpación, ligera hepatomegalia, ruidos hidroaéreos presentes, sin signos de irritación peritoneal.
+» No edemas en extremidades inferiores, ni signos de trombosis.
+
+Pruebas complementarias
+Dados los hallazgos encontrados, se decide ingreso en planta para ampliar estudio.
+Se realiza una tomografía computarizada (TC) toracoabdominal en la que se observan múltiples nódulos pulmonares redondeados y bien delimitados de hasta 20 mm de diámetro compatibles con suelta de globos. Hay presencia de tumoración de 90 mm de diámetro en hígado que afecta fundamentalmente al segmento IV, V y VIII, acompañándose de múltiples nódulos de hasta 25 mm, de similares características semiológicas y presentes en ambos lóbulos hepáticos. Las imágenes presentan tenue captación de contraste periférica con marcada atenuación central que se ve mínimamente modificada en fase portal, aumentando en esa densidad periférica. Como otros datos destacables se observa una moderada esplenomegalia y adenopatías retroperitoneales subcentimétricas
+A nivel analítico, destaca una bilirrubina total de 2,95, AST 215, ALT 126, GGT 232, fosfatasa alcalina 143, plaquetas 87.000, tiempo de protrombina 18 segundos e INR 1,61. En cuanto a los marcadores tumorales, se encontró una alfafetoproteína de 2.575, B-HCG < 1 y LDH de 321.
+Con el fin de obtener más datos acerca del comportamiento de las lesiones hepáticas, se realiza una angio-resonancia. En esta prueba, la tumoración se muestra predominantemente hipointensa en secuencias T1 e hiperintensa en T2, con restricción a la difusión hídrica, presentando realce periférico en fase arterial con mayor captación intratumoral en fases tardías.
+Analizando detenidamente los datos recogidos, tanto los antecedentes de hepatitis crónica del paciente como la elevación de la alfafetoproteína, nos orientan a un hepatocarcinoma como primera opción diagnóstica. Sin embargo, ni la morfología ni el comportamiento en las pruebas por imagen (no existe una hipervascularización en fase arterial con posterior lavado en fase venosa) son los típicos de esta entidad. Todo ello nos lleva a pensar en otros posibles orígenes primarios, como el colangiocarcinoma o un tumor germinal testicular extragonadal.
+En este sentido, se realiza un examen genital exhaustivo. Aparentemente no se palpan masas a nivel escrotal, ambos testes se encuentran en bolsas y simétricos, sin aumento de peso ni dismetrías, sin hernias inguinales ni crurales. Se realiza una ecografía escrotal que no pone de manifiesto ninguna alteración. Así mismo se reinterroga al paciente, que niega problemas testiculares o antecedentes de criptorquidia. El paciente únicamente refiere que, un año antes, presentó aumento de tamaño de un testículo por lo que acudió a Urgencias y fue tratado con antiinflamatorios, mejorando posteriormente el cuadro.
+Con todo ello, se realiza una biopsia hepática ecodirigida con el resultado de infiltración neoplásica maligna. Tras realizarse las técnicas inmunohistoquímicas, es sugestivo de tumor germinal: CKAE1/AE3 (+), SALL4 (+), CK19 positivo débil, Hepatocito (-), CK7 (-), CK20 (-), CD31 (-), CD30 (-),
+CD34 (-), CD10 (-), Pax8 (-), PSA (-), PLAP (-), C-KIT (-), AFP (-). Con este resultado se descarta probable origen hepático, pancreatobiliar, gastrointestinal, prostático, renal, vesical, pulmonar y vascular entre otros.
+
+Diagnóstico
+Tras el resultado anatomopatológico se diagnostica al paciente de tumor germinal con enfermedad secundaria a nivel pulmonar y hepática sin evidencia de tumor a nivel testicular TxNxM1b S2, estadio IIIC, mal pronóstico según la última clasificación IGCCCG.
+
+Tratamiento
+Una vez establecido el diagnóstico, el 26 de marzo de 2019, comienza tratamiento quimioterápico. Tal como recogen las guías clínicas en caso de alta carga tumoral y gran afectación pulmonar recibe primer ciclo con esquema etopósido y cisplatino (EP) para posteriormente seguir durante 3 ciclos más con etopósido, cisplatino y bleomicina (BEP).
+
+Evolución
+El paciente tolera adecuadamente el tratamiento sin presentar efectos adversos. El marcador tumoral disminuye en el control realizado tras el 2º ciclo de BEP a 1.674 (previo 2.575) y a 1.372 tras el 3er ciclo.
+Mientras está administrándose el 4º ciclo de BEP, el paciente consulta por distensión abdominal sin otra clínica reseñable. Durante la exploración se notifica aumento del perímetro abdominal, ligera hepatomegalia presente desde el diagnóstico y matidez en flancos.
+Se realiza una TC de control que describe progresión de la enfermedad con aumento de las lesiones pulmonares, aumento en número y tamaño de las lesiones hepáticas, así como líquido libre perihepático, periesplénico, en ambas gotieras, interasas y en pelvis menor con rarefacción de la grasa abdominal sugestiva de carcinomatosis peritoneal.
+Actualmente el paciente se encuentra en periodo de recuperación tras último ciclo de BEP, a la espera de plantear un esquema quimioterápico de 2º línea, y reconfirmar diagnóstico con una nueva biopsia debido a la refractariedad del tratamiento instaurado.

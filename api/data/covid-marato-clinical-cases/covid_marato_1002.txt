@@ -1,0 +1,31 @@
+Anamnesis
+Varón de 39 años con los antecedentes médicos de: ulcus gástrico desde los 24 años. Rinitis y asma bronquial extrínseco. No hábitos tóxicos.
+El paciente refiere clínica de astenia y anorexia con pérdida de 15 kg en 3 meses. Episodios febriles vespertinos bien tolerados sin foco infeccioso aparente. No sudoración. Clínica de dolor epigástrico que mejora con la ingesta de más de un año de evolución.
+
+Examen físico
+Cardiopulmonar: rítmico sin soplos.
+Abdomen: hepatomegalia de 3 traveses. Esplenomegalia.
+Extremidades: no edemas. Sin alteración motora ni sensitiva.
+Neurológico: pupilas isocóricas y normorreactivas. Sin déficits visuales.
+
+Pruebas complementarias
+- Analítica: hemoglobina 12,6 g/dl, leucocitos 7.260 x103/uL. LDH 145 UI/l. Beta-2m 1,24 mg/l.
+- Serología VIH, VHB, VHC, LUES: negativa.
+- TC total body: sin hallazgos de malignidad.
+- RM sistema nervioso central: hallazgos dentro de la normalidad.
+- Endoscopia: úlcera antral de 2 cm que respeta la submucosa compatible con linfoma B tipo MALT CD 20+,
+Helicobacter pylori positivo.
+
+Diagnóstico
+Linfoma tipo MALT gástrico estadio IE Helicobacter pylori positivo.
+
+Tratamiento
+Con diagnóstico de linfoma MALT estadio I-E inicia triple terapia erradicadora: omeprazol 20 mg cada 12 horas, amoxicilina 1 g cada 12 horas, claritromicina 500 mg cada 12 horas durante 7 días.
+
+Evolución
+El paciente es remitido a Oncología Médica con diagnóstico de linfoma tipo MALT gástrico CD 20+ estadio I-E, iniciando triple terapia erradicadora con omeprazol, amoxicilina y claritromicina durante 7 días. A los 15 días de iniciar el tratamiento comienza con pérdida sensitivo-motora de las cuatro extremidades, presentando a su ingreso ausencia de sensibilidad desde la raíz de los cuatro miembros e imposibilidad para la movilización de los mismos. Se realiza estudio por RM del SNC, sin evidencia de lesiones, y una electromiografía que evidencia polirradiculoneuritis sensitivo-motora desmielinizante crítica aguda de las cuatro extremidades, iniciándose tratamiento empírico con esteroides a altas dosis sin mejoría clínica alguna. Ante la ausencia de etiología evidente se reevalúa la enfermedad por TC con hallazgos no visibles un mes previo de adenopatías retroperitoneales y mediastínicas significativas, perfil autoinmune (ANA, ANCA, anti-Hu, anti-CV2, anti-Yo, anti-Ri, antifisina, anti-Jo-1, anti-La/SSB, anti-U1-RNP, anti-Sm, anticuerpos IgG-NMO): negativos; así como PAAF ganglionar y biopsia de médula ósea infiltrada por linfoma B de bajo grado.
+Dada la clínica aguda de tetraplejia y la evidencia de progresión de la enfermedad estadificada en estos momentos como estadio IV-E con R-IPI:2 (buen pronóstico), se inicia tratamiento quimioterápico según el esquema R-CHOP 21. A los 15 días el paciente presenta recuperación sensitivo-motora de las cuatro extremidades confirmada por electromiografía. Ante el beneficio clínico se decide continuar el tratamiento quimioterápico hasta completar 6 ciclos. En la reevaluación tras el tratamiento por TC, endoscopia y biopsia de médula ósea se evidencia respuesta completa de la enfermedad.
+Tras 4 años de seguimiento por parte de Oncología Médica, el paciente comienza con pérdida de peso de 5 kg, sudoración nocturna y clínica de 20 días de pérdida progresiva sensitivo-motora de las cuatro extremidades. Ante la sospecha de recaída del linfoma ingresa para estudio y control sintomático.
+En la reevaluación del paciente por TC no se evidencian lesiones ganglionares o parenquimatosas evidentes. La electromiografía objetiva hallazgos equiparables a los del diagnóstico con polirradiculopatía desmielinizante crítica aguda. Se completa el estudio con una endoscopia alta y baja, sin lesiones evidentes, estudio de autoinmunidad para anticuerpos anti-neuronales paraneoplásicos negativos, biopsia de médula ósea negativa y citometría de médula ósea negativa para malignidad. Ante la ausencia de recaída evidenciada de linfoma y la clínica aguda del paciente, se inicia tratamiento empírico esteroideo, plasmaféresis y administración de inmunoglobulinas.
+Un mes después el paciente presenta discreta mejoría de la neuropatía, por lo que se realiza una nueva gastroscopia que evidencia en este momento lesión antral de 0,8 cm con biopsia positiva para linfoma tipo MALT gástrico CD20+ Helicobacter pylori negativo. Por lo tanto, ante la recaída de linfoma tipo MALT gástrico estadio IE con R-IPI: 1 (buen pronóstico), se inicia tratamiento con rituximab semanal, completando únicamente 2 ciclos por empeoramiento clínico con pérdida de visión secundaria a neuritis óptica severa izquierda, confirmado por la realización de potenciales evocados visuales; optándose por un nuevo esquema de quimioterapia con rituximab-fludarabina-mitoxantrona, completando 4 ciclos con respuesta parcial de la neuropatía periférica tras finalizar el tratamiento completo del linfoma gástrico.
+Desde entonces, el paciente se encuentra en revisiones semestrales, sin evidencia de enfermedad. Como secuelas del proceso mantiene una neuropatía sensitivo-motora moderada en las cuatro extremidades que dificulta la deambulación, y pérdida completa de visión del ojo izquierdo como resultado de la neuropatía óptica.

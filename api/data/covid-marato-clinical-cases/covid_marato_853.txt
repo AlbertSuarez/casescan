@@ -1,0 +1,24 @@
+Anamnesis
+Mujer de 57 años, sin alergias medicamentosas ni hábitos tóxicos conocidos con antecedentes personales de obesidad y colecistectomía. Como antecedentes familiares destaca una neoplasia de endometrio materna a la edad de 70 años.
+Presentó, en su país de origen, en agosto de 2018, un cuadro de ictericia obstructiva con ecografía abdominal en la que se objetivó una dilatación de la vía biliar intrahepática junto a una lesión pancreática en el confluente biliopancreático y una adenopatía de aspecto neoproliferativo en el hilio hepático. Se decidió entonces colocación de prótesis biliar plástica tras obtención de biopsias porcolangiopancreatografía posretrógrada (CPRE). La citología en ese momento evidenció cambios inflamatorios crónicos en la mucosa del duodeno. La paciente realizó controles allí hasta que, por motivos familiares, decide trasladarse a España.
+
+Exploración física
+En noviembre de 2018, la paciente acude a Urgencias de nuestro hospital por dolor abdominal epigástrico de 3 días de evolución con fiebre, clínica bacteriémica y náuseas. Refiere también pérdida de 10 kg de peso en 4 meses, sin astenia ni anorexia y aparición de un cuadro similar hace aproximadamente 1 mes que mejoró con tratamiento analgésico convencional. Durante la exploración física, presenta ictericia de piel y mucosas y dolor en hipocondrio derecho. Analíticamente, destaca alteración mixta del perfil hepático con predominio de colestasis (bilirrubina total 33 μmol/l, bilirrubina conjugada 17 μmol/l, AST 226 U/l, ALT 123 U/l, FA518U/l, GGT 391U/l, LDH 403 U/l) sin leucocitosis ni elevación de reactantes de fase aguda. Se realiza despistaje de infecciones que resultó negativo y una ecografía abdominal que mostró dilatación de vía biliar extrahepática con una imagen hipoecogénica en cabeza pancreática. Se orienta el caso como colangitis aguda en paciente portadora de prótesis de plástico en contexto de una lesión en cabeza pancreática.
+
+Pruebas complementarias
+Durante el ingreso se realiza CPRE que evidencia migración de la prótesis biliar y estenosis de la vía biliar extrahepática, que requiere un recambio a prótesis metálica. También se realiza una ecoendoscopia que muestra una masa pancreática hipoecogénica de 35 x 25 mm con biopsias por punción aspirativa con aguja fina (PAAF) con células malignas compatibles con adenocarcinoma
+A continuación, se completa el estudio de extensión con TC toracoabdominopélvica que informa de tumor pancreático irresecable por afectación de la vena mesentérica con adenopatías peripancreáticas, múltiples metástasis hepáticas hipercaptantes y calcificaciones sugerentes de etiología neuroendocrina.
+Los marcadores tumorales típicos (CEA 2,2 ugl [0-5] y CA 19,9 < 2 kUI/l [0-37]) resultan negativos al igual que la enolasa neuroespecífica (ESN), cuyo valor es de 8,2 μ g/l (0-16,0). No obstante, la cromogranina A (CgA) es de 189,3 (0-100), encontrándose la paciente bajo tratamiento con omeprazol.
+
+Diagnóstico
+Dada discordancia historradiológica se discute el caso en Comité de Tumores Páncreas y se decide realizar Octreoscan®, el cual capta radiotrazador tanto en el tumor pancreático como en las metástasis hepáticas, sugiriendo un origen neuroendocrino.
+Tras revisión de las biopsias obtenidas inicialmente, se observan tinciones inmunohistoquímicas (IHQ) positivas para estirpe neuroendocrina con un Ki67 entre 3-20 % (baja fiabilidad por escasez de muestra).
+
+Tratamiento
+Finalmente se orienta el caso como pNET no funcionante grado 2 (G2), estadio IV (cT2cN1M1) y se inicia tratamiento con lanreótido en dosis de 120 mcg cada 4 semanas por vía subcutánea profunda.
+
+Evolución
+En la visita de control tras el primer ciclo de tratamiento, la analítica muestra empeoramiento del patrón colestásico respecto al previo. Se realiza entonces nueva TC abdominal para descartar progresión de enfermedad como principal sospecha, dadas las dificultades y dudas del diagnóstico inicial.
+En las imágenes se evidencia normoposición de la prótesis, estabilidad de la lesión pancreática y de las adenopatías con un significativo descenso del tamaño y número de las metástasis hepáticas, identificándose sólo una de ellas en el segmento VII de 13 mm de diámetro (previamente 15 mm).
+Se orienta dicha colestasis como nueva colangitis, iniciándose antibioterapia oral con resolución clínica y mejoría del perfil hepático.
+Tras el primer control postratamiento oncoespecífico, se considera estabilidad radiológica del pNET con remisión parcial de las metástasis hepáticas.

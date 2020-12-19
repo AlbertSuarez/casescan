@@ -1,0 +1,35 @@
+Anamnesis
+Paciente de 37 años sin alergias medicamentosas conocidas. Antecedentes de colón irritable, cataratas bilaterales. No hábitos tóxicos. No medicación habitual.
+En 2009 acude a consulta externa de Medicina Interna por pérdida de peso y astenia. El paciente refiere cansancio que mejora con el reposo, voz nasal, fatiga de voz, disfagia para sólidos junto con fatiga para masticar, debilidad cervical con tendencia a cuello caído junto con debilidad en extremidades que le dificulta para andar, levantarse de la silla, subir escaleras, etc...
+
+Exploración física
+Buen estado general. ECOG 1, consciente y orientado. Normocoloreado y Normohidratado. Constantes vitales normales. Auscultación cardiopulmonar sin alteraciones. Abdomen: blando y depresible, no doloroso,no se palpan masas ni megalias. No edematización de miembros inferiores.
+Neurológico: Diplopía que aparece con la mirada lateral bilateral, con MOE conservado. Debilidad de los músculos faciales superior e inferior leve. Voz nasal, fatigable. Debilidad en flexión del cuello 3/5, abdución hombros 4/5, flexor de cadera 4/5, extensión de rodilla 3-4/5. Fatigabilidad, sólo es capaz de mantener elevados los miembros superiores 5 segundos contragravedad.
+
+Pruebas complementarias
+-Pruebas Funcionales Respiratorias: dentro de la normalidad.
+-TAC Tórax-abdomen-pelvis: Masa de 66x33x77 mm sólida de márgenes lisos en mediastino anterior con adenopatías inespecíficas.
+-Radiografía de tórax: sin alteraciones.
+-ECG: ritmo sinusal a 80 lpm. No alteraciones de la repolarización.
+-Anticuerpo antireceptor de Acetil colina: 12.1
+-Electromiografía: 13/11/2009: Estudio de placa neuromuscular mediante estimulación nerviosa repetitiva sin anomalías pero con alteración del musculo frontal izquierdo patológico.
+-Punción Aspiración por Aguja Fina: 9/06/09: compatible con Timoma.
+
+Diagnóstico
+Timoma EIII resecado según estadiaje de Masaoka. Miastenia Gravis de debut como síndrome paraneoplásico.
+
+Tratamiento
+El 29-06-09 se realiza esternotomía medial con exéresis de masa independiente de grandes vasos, adherida a pericardio y pleura mediastínica derecha. La Anatomía Patológica (AP) intraoperatoria fue de Timoma linfocítico. Sección del nervio frénico por estar incluido dentro de la masa. El diagnóstico definitivo del estudio de la pieza operatoria fue de Timoma mixto linfocítico y epitelial.
+
+Presentado en comité se planifica para Radioterapia (RT). Inicia tratamiento con RT adyuvante el 12-08-09 y termina el 22-09-09 (recibe 180 cGy/sesión, 5 veces semana; Dosis total: 52,20 Gy)
+
+Evolución
+Posteriormente a RT adyuvante, el paciente se encuentra en seguimiento en Consulta Externa del Servicio de Oncología Médica.
+
+En el TAC de control posterior a cirugía (13/11/2009) presenta adenopatía de 16 mm en espacio subcarinal y adenopatías de menor tamaño en hilio derecho. Elevación del hemidiafragma derecho, y sin signos de recidiva tumoral.
+
+Desde el diagnóstico de Timoma ha presentado varios episodios de miastenia gravis que ha requerido ingreso hospitalario y tratamiento con corticoesteroides a dosis altas, inmunosupresores como ciclosporina y metotrexate, inmunoglobulina intravenosa y plasmaféresis ( tiene en promedio una crisis cada 2 años de miastenia gravis). Así mismo asocia varios ingresos hospitalarios por neumonía bilateral (01/2012), Tuberculosis pulmonar (02/2012) y Pneumocystis jiroveci (2013), secundarias a la condición de inmunosupresión provocada por los tratamientos recibidos
+
+Dado los episodios intermitentes de miastenia gravis se completa estudio con PET-TAC en 2011 donde se evidencia imagen hipermetabólica junto a saco pericárdico, con elevado consumo glicolítico (SUV máximo 4.5) sospechoso de recidiva. Se comenta en Cómite de Tórax y ante sospecha de recidiva se decide biopsia/resección de dicha lesión que no se llevó a cabo por decisión del paciente (dado los riesgos ante episodios frecuentes de miastenia gravis) y se decidió seguimiento. En PET/TAC de control (29/05/2012) presenta persistencia de la lesión tímica con SUV máximo de 3.2 que aumenta a 3.7 y nódulos pulmonares bilaterales. Valorado en Consultas externas de Oncología, Neumología y en comité de Tórax, se decide mantener controles de lesión tímica y de múltiples lesiones pulmonares residuales a proceso infeccioso (TBC y Pneumocystiis Jiroveci).
+
+El paciente está actualmente en controles cada 6 meses con TAC TAP y continua seguimiento en la Unidad de Neurología por miastenia gravis. En última visita en consulta externa de oncología (junio de este año) presenta empeoramiento de la clínica de miastenia gravis, está en tratamiento con inmunosupresores en el Servicio de Neurología. El TAC de control se mantiene como enfermedad estable (ocupación del espacio prevascular por tejido de densidad de partes blandas de aproximadamente 14 mm, similar de su morfología y tamaño al estudio previo, en relación con cambios postquirúrgicos. Múltiples lesiones nodulares milimétricas dispersas en todo el parénquima pulmonar, los cuales son residuales a TBC y Pneumocystis carinii.

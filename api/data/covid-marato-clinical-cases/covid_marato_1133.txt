@@ -1,0 +1,27 @@
+Anamnesis
+
+Historia oncológica
+Mujer de 59 años sin antecedentes de interés. Diagnosticada en octubre del 2016 de un adenocarcinoma de recto inferior estenosante con metástasis peritoneales, pulmonares, ganglionares y hepáticas (estadio IVC), RAS mutado. Precisó cirugía urgente por cuadro de obstrucción intestinal, realizándose colostomía de descarga.
+Es valorada en Oncología Médica, presentando PS de 1. Inicia primera línea de quimioterapia con esquema FOLFOX-bevacizumab, del cual recibe 8 ciclos, con buena tolerancia. Se evidencia disminución de marcadores tumorales y en estudios de imagen respuesta parcial. Completa 10 ciclos de tratamiento e inicia mantenimiento, hasta julio de 2017 que solicita descanso terapéutico. En septiembre de 2017, en tomografía computarizada (TC) se objetiva progresión de la enfermedad (PE). Inicia segunda línea de quimioterapia con esquema FOLFIRI-aflibercept, con respuesta parcial como mejor respuesta, tras el 8º ciclo. Se administran en total 20 ciclos hasta junio de 2018, donde se realiza nuevo descanso terapéutico, con criterios de estabilidad de la enfermedad. Tras un intervalo de 4 meses, progresa de nuevo reiniciando OLFIRI-aflibercept, hasta un total de 11 ciclos con enfermedad estable. En febrero de 2019, presenta nueva PE a nivel pulmonar y óseo, manteniendo un PS de 1, por lo que se inicia una tercera línea con regorafenib a dosis de 120 mg/día.
+
+Enfermedad actual
+A los diez días del inicio del tratamiento, acude a su médico de cabecera por la aparición de lesiones exantemáticas y pruriginosas en abdomen, iniciando metilprednisolona, 16 mg al día, con mejoría parcial. A las 48 horas, con la pauta descendente de corticoides presenta empeoramiento progresivo y generalización de las lesiones previamente descritas por toda la superficie corporal. El cuadro se acompañaba de astenia, anorexia y febrícula, por lo que acude al Servicio de Urgencias.
+
+Exploración física
+PS 3. TA 102/64 mm Hg. FC 91 lpm. T 37,9 ºC. Saturación de oxígeno 95 %. Dermatosis generalizada, compuesta por lesiones maculopapulares de base eritematosa, con bordes sobreelevados, mal definidos y confluentes, localizada en cara, tórax, abdomen y miembros, afectando a más del 90 % de superficie corporal total. El resto de la exploración sin hallazgos relevantes.
+
+Pruebas complementarias
+» Hemograma y coagulación: normales.
+» Bioquímica: FG 41 ml/min y Cr 1,39 mg/dl (previa al inicio de regorafenib 69 ml/min y 0,9 mg/dl, respectivamente).
+» Radiografía de tórax: sin hallazgos relevantes.
+
+Diagnóstico
+» Rash grado 3 secundario a regorafenib.
+» Insuficiencia renal aguda prerrenal.
+
+Tratamiento
+Debido al importante deterioro del estado general, con alteración de la función renal y por tratarse de una toxicidad refractaria al tratamiento con corticoides, se decide ingreso en Oncología Médica.
+En planta se instaura tratamiento de soporte con sueroterapia, antihistamínicos y antibioterapia sistémica. Tras 48 h, la paciente presenta mala evolución clínica, con aparición de nuevas lesiones y mal control del prurito, por lo que se asocia metilprednisolona 20 mg IV cada 12 horas.
+
+Evolución
+A las 48 h se evidencia mejoría progresiva del cuadro y recuperación de la función renal, así como del estado general. Es dada de alta tras 7 días de hospitalización, con pauta descendente de corticoides y antibioterapia sistémica. A los 15 días, acude a consulta externa, sin evidencia de ninguna lesión cutánea y con función renal normal.

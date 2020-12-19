@@ -1,0 +1,64 @@
+Anamnesis
+Paciente varón de 22 años de edad que acude a su Médico de Atención Primaria en febrero de 2010 por presentar nódulo indoloro en la zona perineal. Dicho nódulo había presentado un aumento progresivo de tamaño durante los 4-5 años previos. Tras valorarse el caso en su centro hospitalario de referencia, se interviene en enero de 2011 con diagnóstico anatomopatologico de carcinoma sólido papilar infiltrante grado 2 sobre hamartoma quístico retrorrectal (quiste de Tailgut) que afectaba a márgenes quirúrgicos con invasión vascular y perineural.
+
+Es derivado a nuestro centro para valorar tratamiento complementario. En la evaluación inicial se encuentra con buen estado general, asintomático, sin anorexia ni pérdida de peso.
+
+Como antecedentes familiares de interés, la abuela materna fue diagnosticada de un adenocarcinoma de colon a los 70 años. Además, el paciente tenía un tío paterno con un proceso linfoproliferativo no bien definido.
+
+En la entrevista clínica, el paciente no refería antecedentes alérgicos a medicamentos. Negaba hábitos tóxicos como tabaquismo o consumo excesivo de alcohol. Tampoco presentaba factores de riesgo cardiovascular, como hipertensión arterial, dislipemias o diabetes mellitus.
+
+En cuanto a los antecedentes médicos, únicamente había sufrido una mononucleosis infecciosa sin complicaciones a los 14 años y padecía además una hernia de disco cervical (C4-C5) asintomática. Por lo demás, no presentaba cardiopatía, broncopatía ni hepatopatía previa conocida.
+
+En el ámbito quirúrgico, no había sido intervenido en ninguna ocasión.
+
+El paciente era estudiante universitario y vivía con sus padres y hermanos en el domicilio familiar.
+
+Como tratamiento habitual, le había sido prescrito paracetamol 1 g/8 horas alternando con metamizol 575 mg/8 h si precisaba por dolor.
+
+Exploración física
+A la exploración física, el paciente presenta buen estado general, con un ECOG 0. Está consciente, orientado, bien hidratado y perfundido, normocoloreado y afebril.
+
+Se encuentra estable hemodinámicamente con TA 125/65 mm Hg y FC 75 lpm, eupneico y saturando al 98% sin aporte de oxígeno suplementario. En la auscultación cardiaca, se aprecian tonos cardíacos rítmicos a buena frecuencia sin soplos ni extratonos. A la auscultación pulmonar, tiene buen murmullo vesicular sin ruidos patológicos añadidos.
+
+La palpación muestra un abdomen blando y depresible no doloroso a la palpación, sin masas ni megalias y con ruidos hidroaereos conservados. Presenta herida quirúrgica en línea media abdominal con dehiscencia en uno de los extremos, aunque con buen aspecto y tejido de reepitelización sin supuración. A nivel perianal, la herida quirúrgica tiene buen aspecto y buena cicatrización.
+
+Se palpan ganglios en ambas regiones inguinales de unos 1,5 cm de consistencia gomosa, no adheridos a planos profundos. En miembros inferiores no se aprecia edema ni signos de trombosis venosa Ppofunda.
+
+Pruebas complementarias
+Antes de la cirugía, se realizaron diferentes pruebas de imagen para completar el estudio de extensión de la enfermedad:
+» Tomografía computarizada (TC) de abdomen: se objetivó masa quística de aproximadamente 8 x 5,4 cm de ejes anteroposterior y latero-lateral que tomaba contacto con la transición rectosigmoidea, desplazando el sigma hacia el lado derecho. Se visualizó además la nodulación perineal referida en rafe peneano, de 3,2 x 3,7 cm de ejes anteroposterior y látero-lateral. No se visualizaron adenopatías patológicas ni imágenes sugestivas de metástasis a distancia.
+» Resonancia magnética (RM) de abdomen: se visualizó la misma masa perirrectal izquierda sólido-quística que desplazaba el área rectal y próstata, midiendo 11 x 5 x 5,6 cm de ejes anteroposterior, látero-lateral y cráneocaudal respectivamente, sin infiltrar estructuras adyacentes.
+
+Tras la intervención quirúrgica se enviaron las diferentes piezas para estudio anatomopatológico:
+» Anatomía patológica (AP): carcinoma sólido papilar infiltrante grado 2 sobre hamartoma quístico retrorrectal (quiste de Tailgut) que afectaba a márgenes quirúrgicos con invasión vascular y perineural. Dicho diagnóstico fue confirmado en nuestro centro.
+» Inmunohistoquímica (IHQ): el estudio inmunohistoquímico mostró positividad para citoqueratina 7, EMA, y positividad focal para vimentina y Bcl2. Por el contrario, mostró negatividad para citoqueratina 20, CEA, Ca 99, PS100, cromogranina, P53 y calretinina.
+
+Diagnóstico
+Carcinoma sólido papilar sobre hamartoma quístico retrorrectal.
+
+Tratamiento
+Tras la cirugía y la reevaluación de la enfermedad mediante pruebas de imagen, que mostraron ausencia de enfermedad macroscópica en TC y RM de pelvis, el paciente recibió tratamiento radioterápico entre los meses de febrero-marzo de 2011. En total recibió una dosis de 50 Gy fraccionados en 25 sesiones sobre el lecho tumoral.
+
+Posteriormente, se decidió seguimiento por parte del Servicio de Cirugía, detectándose crecimiento de adenopatía inguinal izquierda que fue biopsiada. La AP demostró la presencia de carcinoma sólido-papilar moderadamente diferenciado. 
+
+En RM pélvica de enero de 2012 se objetivó recidiva local y adenopática bilateral, planificándose la reintervención del paciente en febrero de 2012 mediante una tumorectomía perineal + linfadenectomía bilateral. Las piezas quirúrgicas fueron enviadas para estudio AP, confirmando la recidiva tumoral.
+
+El paciente continuó en seguimiento por Cirugía, visualizándose en TC de septiembre de 2012 nueva recidiva local pararrectal izquierda, así como una lesión ósea osteolítica en la rama isqueopubiana izquierda. Dados estos hallazgos, se decide reintervenir de nuevo al paciente en octubre de 2012. Esta vez el estudio AP muestra áreas de diferenciación neuroendocrina con enolasa y CD 56 parcialmente positivas que en posteriores estudios fueron negativos.
+
+Tras una nueva recaída local radiológica, se interviene por cuarta vez al paciente en marzo de 2013 mediante hemipelvectomía interna tipo III sin reconstrucción, obteniendo con la resección una lesión necrosada sin evidencia de células tumorales.
+
+En RM de julio de 2013 se aprecia de nuevo la aparición de una tumoración presacra, interviniéndose el paciente por quinta vez en agosto mediante exéresis ampliada de la lesión.
+
+En la TC de diciembre de 2013 se demuestra la existencia de una posible recidiva locorregional en la fascia mesorrectal izquierda con dudosa lesión en el lóbulo prostático izquierdo. Se planifica para abril de 2014 exenteración pélvica, que finalmente de suspende por la intercurrencia durante la intervención de un shock anafiláctico por contacto al látex.
+
+En TC y RM de agosto de 2014 se confirma el crecimiento tumoral con una voluminosa recidiva infravesical izquierda de 7 x 6 x 5 cm de diámetro, un nódulo tumoral isqueoanal izquierdo, infiltración de musculatura pélvica y adenopatías patológicas retrocrurales.
+
+En noviembre de 2014, tras clínica de retención urinaria, se realiza resección trasureteral (RTU) prostática con AP compatible con infiltración por carcinoma papilar de morfología similar a la urotelial, con diferenciación parcial a adenocarcinoma.
+
+Por tanto, este punto obtenemos un nuevo diagnóstico anatomopatológico: hamartoma quístico retrorrectal con degeneración maligna y carcinoma papilar de morfología similar a urotelial recidivado.
+
+En enero de 2015 presenta un nuevo episodio de retención aguda de orina tras la retirada de la sonda vesical, con globo vesical y uropatía obstructiva bilateral, motivo por el cual se procede al resondaje. En la TC de ese mismo mes, previo al sondaje vesical, se aprecia una gran masa pélvica con ureterohidronefrosis bilateral moderada-severa.
+
+En febrero de 2015, el paciente es valorado por el Servicio de Oncología Médica, presentando como síntomas guía hematuria y dolor nociceptivo somático a nivel lumbar y pélvico. Ese mismo mes, tras revisar la escasa literatura existente sobre este tipo de tumores, se decide iniciar tratamiento con cisplatino + gemzitabina. Como efectos secundarios presenta astenia grado 1 y anemia ferropénica en tratamiento con EPO semanal más Fe, inicialmente oral y posteriormente intravenoso. Asimismo, el dolor en fosa iliaca izquierda fue tratado con analgésicos y antiinflamatorios habituales con buen control sintomático.
+
+En TC de marzo de 2015, tras dos ciclos de quimioterapia, se muestra estabilización de la enfermedad, por lo que continúa con el mismo esquema del que lleva un total de 4 ciclos con buena tolerancia y a la espera de nueva evaluación de la enfermedad.

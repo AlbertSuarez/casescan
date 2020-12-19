@@ -1,0 +1,47 @@
+Anamnesis
+Mujer de 55 años de edad, sin alergias medicamentosas conocidas y sin hábitos tóxicos. Profesión: administrativa.
+» Antecedentes familiares oncológicos: hermano fallecido de carcinoma pulmonar y primo diagnosticado de carcinoma de colon.
+» Antecedentes personales: bocio multinodular, dislipemia, carcinoma ductal infiltrante de mama a los 30 años (1992). Se realizó mastectomía bilateral con reconstrucción y recibió quimioterapia y radioterapia adyuvante. Intervenida quirúrgicamente de apendicectomía.
+En junio de 2009, consulta por clínica de dolor y distensión abdominal.
+
+Exploración física
+» ECOG 0. Consciente y orientada, normocoloreada y normohidratada, buen estado general.
+» Auscultación cardiopulmonar: tonos cardiacos rítmicos sin soplos audibles, murmullo vesicular conservado sin ruidos patológicos sobreañadidos.
+» Abdomen: destaca distensión abdominal y semiología de ascitis.
+» Extremidades inferiores: sin edemas ni signos de trombosis venosa profunda.
+
+Pruebas complementarias
+» TC torácica, abdominal y pélvica: derrame pleural dcho. Nódulos parenquimatosos pulmonares bilaterales (18 en hemitórax derecho y 12 en el hemitórax izquierdo). Abundante líquido libre peritoneal. Implantes peritoneales. Masas anexiales bilaterales de componente mixto con predominio quístico y aumento del realce por el contraste. Nódulos irregulares sobre la superficie convexa y anterior uterina.
+» Biopsia de nódulo en cúpula vaginal: carcinoma poco diferenciado y ulcerado de origen ovárico. Estudio IHQ: R. Estrógenos (-) R. Progesterona (-). p53: positivo 100 % de células intensidad: 3+/3+. Ki67: alto (superior al 80 %). HercepTest®: negativo.
+» Marcadores tumorales: Ca 125: 305.
+» Se solicita estudio genético BRCA, detectándose mutación patogénica 3600del11 (E1161fsX1163) en el exón 11 de BRCA-1.
+
+Diagnóstico
+Carcinoma indiferenciado de ovario estadio IV, portadora de mutación patogénica en BRCA-1.
+
+Tratamiento
+» La paciente recibe tratamiento con quimioterapia de inducción con esquema carboplatino AUC 6 + TAXOL 17 5mg/m2 por 6 ciclos de junio a octubre de 2009, con buena tolerancia.
+» TC de valoración de respuesta: persisten masas anexiales bilaterales sin evidencia de enfermedad a distancia.
+» En noviembre de 2009, se interviene quirúrgicamente mediante laparotomía exploradora, realizándose histerectomía total, anexectomía bilateral, omentectomía y apendicectomía.
+» La Anatomía Patológica no muestra evidencia de enfermedad neoplásica, correspondiendo las masas anexiales, descritas en la TC, a tejido necrótico.
+» Recibió 3 ciclos más de quimioterapia adyuvante con el mismo esquema, completando el último ciclo en enero de 2010.
+
+Evolución
+1ª recidiva
+En agosto de 2010, se detecta por exploración ginecológica nódulo en cúpula vaginal, que se biopsia con resultado de carcinoma indiferenciado, de alto grado de malignidad, sugestivo de metástasis de carcinoma ovárico. La PET-TC muestra una captación incrementada en cúpula vaginal.
+Recibió de nuevo tratamiento con quimioterapia, 3 ciclos de carboplatino AUC 6 + taxol 175 + bevacizumab 7,5, finalizando en octubre de 2010, con buena tolerancia y obteniendo respuesta completa de la enfermedad, por lo que se continúa con seguimiento.
+2ª recidiva
+En noviembre de 2011 se constató en control mediante TC recidiva ganglionar inguinal bilateral, que se confirma anatomopatológicamente.
+Recibe 6 ciclos de quimioterapia con esquema, carboplatino AUC 6 + gemcitabina 1.000 mg/m2, último en mayo de 2012. Requirió reducción de dosis por toxicidad hematológica (anemia G3 y trombopenia G1).
+Presentó de nuevo respuesta completa por PET-TC tras 3 ciclos.
+Se consolida el tratamiento con radioterapia sobre masa vaginal, cadenas inguinales y vagina.
+3ª recidiva
+En junio de 2014 se detecta mediante PET-TC una masa tumoral pélvica paramedial derecha con componente quístico, SUVmax: 12,9.
+En octubre de 2014 se realiza rescate de quirúrgico de la lesión y exéresis de lesión sospechosa en hígado. La Anatomía Patológica confirma la recidiva de carcinoma seroso de alto grado de ovario
+Inicia quimioterapia adyuvante con esquema carboplatino AUC 5 y adriamicina liposomal 30 mg/m2 por 4 ciclos, finalizando en febrero 2015 y obteniendo respuesta completa.
+En abril de 2015 inicia tratamiento de mantenimiento con olaparib, dentro de programa de acceso expandido previo a comercialización, a una dosis total diaria de 800 mg, que mantiene hasta la actualidad.
+Como toxicidad al tratamiento ha presentado disminución del apetito, diarrea G1, anemia G1 y linfopenia persistente (400-500 linfocitos/mm3), todos ellos han podido ser manejados sintomáticamente, manteniendo dosis plenas de tratamiento.
+Sigue control clínico y analítico cada 2 meses y control mediante PET-TC, manteniendo remisión metabólica completa (último realizado en noviembre de 2017).
+En resumen, se trata de una paciente que debutó con un carcinoma de ovario en estadio avanzado, en la que se detectó una variante patogénica en el gen BRCA-1, que ha presentado 3 recidivas de la enfermedad (platino-sensibles).
+Tras la tercera recidiva, consiguiendo respuesta completa, inicia tratamiento de mantenimiento con olaparib que mantiene en el momento actual.
+Con una supervivencia global (SG), hasta la actualidad, de 105 meses y una supervivencia libre de progresión (SLP) desde la última dosis de platino de 38 meses.

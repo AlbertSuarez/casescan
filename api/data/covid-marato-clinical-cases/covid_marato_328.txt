@@ -1,0 +1,59 @@
+Anamnesis
+Se describe el caso de una mujer de 57 años, de nivel sociocultural alto, sin antecedentes médicos de interés previos.
+Diagnosticada en 1999 de un carcinoma ductal infiltrante de la mama izquierda, moderadamente diferenciado, RE +, RP-, Ki67 alto y HER2-, en estadio IIA. Tras mastectomía radical modificada izquierda se le indicó quimioterapia adyuvante con esquema CMF (ciclofosfamida, metotrexato, 5-FU) durante 6 ciclos, radioterapia local y hormonoterapia con tamoxifeno, que finalizó en el año 2004.
+En febrero de 2009 fue diagnosticada de una leucemia mieloide crónica. Tras 3 meses de tratamiento con imatinib se observó respuesta citogenética y la paciente continuaba con el fármaco en dosis diaria de 400 mg.
+Respecto al cáncer de mama, seguía revisiones periódicas sin incidencias hasta mayo de 2010, fecha en la que se objetivó recaída ósea a nivel del húmero derecho. Se prescribió tratamiento con exemestano con intención paliativa y radioterapia antiálgica local, consiguiendo estabilizar la enfermedad hasta febrero de 2013, cuando, tras objetivar una nueva progresión exclusivamente ósea, se indicó segunda línea de tratamiento hormonal con fulvestrant.
+El 7 de abril de 2014, tras acudir por un cuadro neurológico de mielopatía compresiva, se confirmó mediante estudio de RM la presencia de múltiples lesiones óseas vertebrales con compromiso medular a nivel dorsal. Según el protocolo habitual, se prescribió dexametasona 20 mg al día en tres dosis (8-8-4 mg) y radioterapia urgente.
+El 24/4/2014 acudió a consulta de control en Oncología acompañada por su familiar directo, que refería astenia y debilidad de la paciente desde días antess, desorientación temporoespacial, disfagia progresiva y odinofagia con rechazo de alimentos, con conversación obsesiva atribuyéndose descuidos domésticos graves inexistentes, refractariedad al razonamiento y pruebas objetivas sobre los hechos relatados.
+Se juzgó que el grado de afectación global justificaba el ingreso hospitalario, y tras las exploraciones y pruebas complementarias pertinentes, se le atribuyeron los diagnósticos de mucositis/esofagitis por radioterapia, miopatía cortisólica proximal moderada y psicosis esteroidea. Fue tratada mediante descenso brusco de dexametasona hasta dosis suprafisiológicas en 4 mg diarios; se mantuvo el tratamiento con su benzodiacepina habitual (zolpidem 10 mg) y se prescribió un antipsicótico (haloperidol, dosis inicial de 5 mg, seguida de 15 mg en perfusión de 24 horas).
+A las 40 horas del ingreso, la mañana del 26/4/2014 fue requerida la guardia médica por disminución del nivel de consciencia de la paciente, sin respuesta no coherente a estímulos verbales, bradipsiquia y tendencia a la somnolencia, sin focalidad neurológica. Se atribuyó a dosificación excesiva de antipsicóticos, que fueron suspendidos, y se siguió la evolución.
+Unas 12 horas después, con sensorio más despejado y paciente más coherente, durante la visita médica la paciente terminó refiriendo como acto recordado pero no asumido como propia voluntad consciente, la ingesta subrepticia en la noche previa (25/4/2014) de unos 10 o 12 comprimidos de zolpidem de 10 mg, y al menos 13 comprimidos de imatinib de 400 mg (dosis total, 5.200 mg), toda la medicación que había aportado desde su domicilio entre sus efectos personales, con intención autolítica en el contexto de sentimiento de culpabilidad extrema por los descuidos domésticos largamente relatados.
+
+Examen físico
+Esfera cognitiva al ingreso:
+- Desorientación temporal. Orientada en espacio y persona.
+- Ideación obsesiva y recurrente sobre cuestiones de orden, limpieza y labores domésticas y del cuidado familiar, sin respuesta coherente a razonamientos objetivos proporcionados por el médico y un familiar directo.
+- Reacia a ingreso hospitalario por los motivos expuestos, con insistencia en la necesidad imperiosa de solucionar una supuesta situación catastrófica en su hogar, cuya existencia fue repetidamente negada por su cónyuge.
+Signos físicos al ingreso (24/4/2014):
+- Facies en luna llena.
+- Signos de mucositis oral con sobreinfección fúngica.
+- Auscultación cardiopulmonar sin alteraciones.
+- Exploración abdominal anodina.
+- Sin focalidad neurológica, con movilidad y carga limitadas por atrofia muscular de predominio proximal.
+Esfera cognitiva la mañana del 26/4/2014:
+- Disminución del nivel de consciencia, respuesta vaga a estímulos verbales, somnolencia, bradipsiquia, sin focalidad neurológica. Altamente sugestivo de encefalopatía metabólica inespecífica.
+Esfera cognitiva la noche del 26/4/2014:
+- Mejoría del nivel de consciencia y mejoría lenta pero progresiva de la bradipsiquia. Colaboradora, mejor orientada, sin manifestar las mismas preocupaciones que en los días previos.
+Esfera cognitiva evolutivamente:
+- Recuperación progresiva hasta situación basal; capaz de recordar la ingesta masiva de medicación pero descrita como un acto despersonalizado; con un recuerdo nebuloso sobre sus obsesiones con temas domésticos en el ingreso.
+Valorada por Psiquiatría en los días siguientes y previamente al alta, únicamente se apreció síndrome depresivo reactivo leve-moderado.
+
+Pruebas complementarias
+- Analítica de sangre seriada: parámetros hematológicos y de función hepática que se muestran recogidos en la tabla 1.
+- Radiografía de tórax: sin evidencia de patología parenquimatosa pulmonar ni pleural aguda.
+- ECG: ritmo sinusal a 90 lpm aproximadamente. Complejos QRS estrechos. Sin alteraciones de la repolarización.
+
+Diagnóstico
+- Carcinoma ductal infiltrante de mama estadio IV por enfermedad metastásica múltiple a nivel óseo.
+- Psicosis esteroidea. CIE-10: F06.8: "Otro trastorno mental especificado debido a lesión o disfunción cerebral o a enfermedad somática. Estado de ánimo alterado que ocurre durante el tratamiento con esteroides o antidepresivos".
+- Ingesta medicamentosa furtiva con intención autolítica en el contexto del anterior.
+- Toxicidad a sobredosificación de imatinib: hepática grado 2, hematológica grado 4 y clínica musculoesquelética.
+
+Tratamiento
+- Medidas de soporte.
+- Pauta descendente de corticoterapia hasta su suspensión completa.
+- Antipsicóticos a dosis altas y, posteriormente, pauta descendente.
+- Suspensión del imatinib.
+- Tras el intento autolítico se añade cloracepato dipotásico 50 mg diarios y escitalopram 10 mg diarios.
+
+Evolución
+a) Mucositis y esofagitis al ingreso: presentaba grado 2 del Common Terminology Criteria for Adverse Events (CTCAE, Versión 4.0) que alcanzó un grado 3 al sexto día de ingreso, y fue mejorando lentamente hasta grado 2 al alta en el día +12.
+b) El cuadro de astenia que presentaba al ingreso se exacerbó con predominio de mialgias, artralgias y encamamiento que, junto con una miopatía secundaria a corticoides, dificultaban la deambulación, grado 3 (CTCAE, Versión 4.0).
+c) Sintomatología propia de la psicosis esteroidea: superpuesta a la correspondiente a la encefalopatía tóxica, con síndrome confusional, fue aclarándose progresivamente desde el tercer día del ingreso. Se logró la desaparición de toda la sintomatología y el reconocimiento del cuadro por la paciente antes del séptimo día, si bien conservaba el sentimiento de extrañeza por sentir las acciones realizadas como ajenas a su voluntad consciente.
+Se solicitó valoración por parte del Servicio de Psiquiatría, que valoró a la paciente en el día +1 y en la evolución posterior, apreciando previo al alta, únicamente un cuadro depresivo reactivo al proceso oncológico y al intento autolítico.
+Globalmente, el desorden psiquiátrico debe catalogarse como "Psicosis grado 4" (según CTCAE, Versión 4.0) secundaria al tratamiento con dexametasona, con recuperación completa previa al alta.
+d) Encefalopatía metabólica: secundaria a ingesta de benzodiacepinas (unos 100 mg de zolpidem en dosis única) en una paciente tratada con haloperidol con perfusión de 15 mg diarios. Mejoría paulatina a partir de las 24 horas del episodio, completamente revertida en el día +3.
+e) Toxicidad hematológica por imatinib: previamente a la sobredosificación presentaba trombopenia grado 1 que empeoró progresivamente (Tabla I) hasta llegar a su nadir en grado 3 (CTCAE, Versión 4.0) el día +6.
+Presentó, leucopenia y neutropenia progresivas, llegando a grado 4 al sexto día tras la intoxicación, con recuperación completa en el día +12 y manteniendo cifras normales en controles ambulatorios sucesivos.
+f) Otras toxicidades secundarias a dosis elevadas de imatinib fueron el desarrollo de edema bilateral palpebral con aumento del lagrimeo, alteración de la función hepática progresiva (Tabla I) alcanzando un máximo de grado 2 (CTCAE, Versión 4.0) en el día +4 tras la intoxicación. Mejoría progresiva posterior, con normalización al sexto día.
+La paciente no presentó síntomas gastrointestinales (ni dolor abdominal, ni emesis) a pesar de las dosis ingeridas, aunque es posible que el tratamiento concurrente con haloperidol, analgésicos y corticoides enmascarase la clínica.

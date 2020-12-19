@@ -1,0 +1,66 @@
+Anamnesis
+Remitida desde las consultas de Cirugía Plástica para valoración.
+
+ANTECEDENTES
+
+Mujer de 57 años.
+Sin alergias conocidas a medicamentos, ni factores de riesgo cardiovascular.
+Portadora de la mutación en BRCA -1.
+En seguimiento por el servicio de Digestivo por dolor crónico abdominal y alternancia del hábito intestinal asociado a vómitos con la ingesta. Endoscopias múltiples sin hallazgos.
+Recibió tratamiento esteroideo durante aproximadamente 1 año hace 15 años.
+No menciona hábitos tóxicos
+
+Quirúrgicos:
+Histerectomía total a los 36 años.
+Herniorrafia umbilical hace 11 años.
+Colecistectomía a los 40 años
+Intervenida de úlcera gástrica a los 44 años.
+Cirugía conservadora de la mama + linfadenectomía axilar izquierda en 2005.
+Ooforectomía profiláctica en 2007.
+Mastectomía bilateral profiláctica 4 años después con reconstrucción y prótesis bilateral.
+
+Ginecológicos
+Menopausia quirúrgica a los 36 años
+G4 A0 P4
+
+Familiares
+Abuela paterna fallecida de cáncer de mama. Tres tías abuelas paternas fallecidas de cáncer de mama.
+Dos tías paternas diagnosticadas de cáncer de mama, una fallecida por la enfermedad. Prima paterna fallecida de cáncer de mama. Tío paterno fallecido de cáncer de colon. Primo paterno fallecido de cáncer de colon. Tres primas hermanas paternas intervenidas de cáncer de mama.
+
+HISTORIA ONCOLÓGICA
+Carcinoma ductal infiltrante de mama izquierda triple negativo, intervenida mediante cuadrantectomía + Linfadenectomía izquierda en 2005. Recibió QT adyuvante según esquema TAC x 6 concomitante con radioterapia externa, sin mencionar toxicidad destacable, en seguimiento por la consulta externa sin evidencia de enfermedad.
+Se realizó mastectomía profiláctica bilateral con reconstrucción protésica en 2009.
+Se realizó mastectomía profiláctica bilateral con reconstrucción protésica en 2009, continuando revisiones en la consulta externa de Cirugía plástica. En marzo de 2015 objetivan seroma recidivante crónico que se interviene en septiembre del mismo año mediante la extracción de ambos implantes, el izquierdo con rotura completa intracapsular y el derecho con seroma muy abundante y parcialmente organizado. Realizan capsulectomía completa con levantamiento de colgajo muscular de dorsal ancho para cobertura y protección de piel de la mama izquierda previamente irradiada. Se colocan nuevos implantes anatómicos Polytech 375ml.
+Se envía prótesis para estudio histopatológico donde objetivan :
+Capsula periprotésica derecha: Hallazgos morfológicos y resultados inmunofenotipicos de síndrome linfoproliferativo CD 30 (+) encuadrable en la categoría provisional de: linfoma anaplásico de células grandes ALK (-), asociado a implante mamario.
+Capsula periprotésica izquierda: con hallazgos morfológicos ( reacción gigantocelular de tipo cuerpo extraño), atribuible a ruptura previa.
+En su valoración inicial de Oncología refería como síntomas principales astenia grado I, sin mencionar síntomas B.
+
+Exploración física
+ECOG: 0 Karnofsky: 100 Peso: 65.0 kg Talla: 1.58 metro Superficie corporal (m2): 1.66
+Exploración ganglionar sin adenopatías cervicales, supraclaviculares, axilares, ni inguinales.
+Eupneica respirando aire ambiente.
+ACR: Tonos rítmicos sin soplos. MVC en ACP. Mastectomía bilateral con reconstrucción protésica bilateral con cicatrices en buen estado. No signos inflamatorios locales.
+Abdomen: cicatriz de laparotomía en buen estado. Blando y depresible, no doloroso a la palpación profunda, sin masas ni megalias, con peristaltismo conservado. EEII: No edemas ni signos de TVP.
+
+Pruebas complementarias
+Ante el hallazgo citológico de linfoma anaplásico de células grandes se completa estudio de extensión con:
+PET TC (18/1/16): Adenopatías paraesternales izquierdas de hasta 9 mm. con ligero incremento metabólico con SUVmax de 2.2 a valorar etiología inflamatoria versus malignidad. Sin clara evidencia de enfermedad maligna macroscópica en otras localizaciones en el momento actual.
+Biopsia de médula ósea (5/2/16): Citometria - Inmunofenotipo: No se detectan células patológicas. No se detectan células patológicas. Muestra de médula ósea con recuento de 16.000 células en la que no se detectan células linfoides compatibles con linfoma anaplásico.
+
+ECOCARDIOGRAFIA (11/2/16): Función sistólica normal con FEVI 60%
+
+Analitica: LDH 166.
+
+Diagnóstico
+Linfoma anaplásico ALK (-) de mama derecha estado I - IPI 0.
+Carcinoma ductal infiltrante de mama, intervenido, tratado con QT / RT Adyuvante, sin evidencia de enfermedad.
+Portadora de prótesis mamaria bilateral.
+
+Tratamiento
+Se propone tratamiento sistémico con QT según esquema CHOP (Ciclofosfamida DT: 1245 mg , vincristina DT: 2 mg , Prednisona 120mg por via oral) asociado a doxurrubicina liposomal (DT 66 mg) dado los antecedentes del uso de doxorrubina en tratamiento adyuvante de patologia mamaria en el año 2005.
+
+Evolución
+Recibe cuatro ciclos de quimioterapia con adecuada tolerancia al tratamiento, teniendo como toxicidad destacables náuseas y vómitos grado 2 en el segundo ciclo que se manejaron de forma ambulatoria, sin precisar ingresos hospitalarios. Finalizó quimioterapia el 26/04/2016.
+Se realiza PET-TC de reevaluación (19/05/2016): En las imágenes de cuerpo completo realizado tras administración iv de 370 MBq de 18F-FDG se visualiza ganglio paraesternal izquierdo entre 1º-2 arco de 0.7 cm con SUVmax de 1.4 (anterior SUVmax de 2.2) atribuible a lesión inflamatoria o lesión prácticamente desvitalizada. Incremento metabólico difuso en ala sacra derecha con SUVmax de 2.6 no visible en estudio previo, de dudoso significado patológico. A valorar dentro de contexto clínico. Sin otros hallazgos de interés en el resto de cuerpo a estudio.
+Actualmente continúa sus revisiones en la consulta externa, clínicamente presenta buen estado general con PS:0 en la última valoración, sin mencionar pérdida de peso o síntomas B. Por los hallazgos del PET-TC en ala sacra derecha tiene pendiente valoración por Traumatología para intentar filiar lesión.

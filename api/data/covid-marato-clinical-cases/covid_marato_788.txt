@@ -1,0 +1,29 @@
+Anamnesis
+Mujer de 51 años sin alergias medicamentosas conocidas y con buena calidad de vida. Niega hábitos tóxicos y, como antecedentes personales, destacan hipertensión arterial y diabetes mellitus tipo II en tratamiento con enalapril y metformina.
+Acude a consulta en abril de 2003 por clínica de dolor abdominal en flanco izquierdo de varios meses de evolución.
+
+Exploración física
+ECOG 1. Consciente, orientada, eupneica en reposo, bien hidratada y perfundida. No se palpan adenopatías laterocervicales ni supraclaviculares. Auscultación cardiopulmonar rítmica y regular sin soplos con murmullo vesicular conservado sin ruidos patológicos. Abdomen blando y depresible, no doloroso, no se palpan masas ni visceromegalias. Miembros inferiores sin edemas ni signos de trombosis.
+
+Pruebas complementarias
+En la tomografía computarizada (TC) de tórax, abdomen y pelvis de mayo de 2003 se observa una masa renal izquierda de 52 x 73 mm, sin adenopatías locorregionales ni lesiones a distancia.
+Las determinaciones analíticas de dicha fecha se encuentran dentro de la normalidad.
+
+Diagnóstico
+Con el diagnóstico de neoplasia renal izquierda, se deriva a Urología para intervención.
+
+Tratamiento
+Se interviene en junio de 2003 mediante nefrectomía radical izquierda, con resultado anatomopatológico de carcinoma de células claras grado 2 de Fuhrman de 75 mm de diámetro máximo limitado al riñón pT2a pN0 Mx, estadio II.
+
+Evolución
+Continúa revisiones en consulta de Urología sin incidencias, hasta que, en marzo de 2006, se objetiva en TC de control un nódulo pulmonar de 14 mm en LSD (lóbulo superior derecho) intervenido mediante resección atípica en mayo de 2006, con resultado de metástasis de carcinoma renal de células claras.
+En diciembre de 2006, se detecta nuevo nódulo pulmonar de 11 mm en lóbulo inferior izquierdo (LII), varios nódulos subpleurales de nueva aparición, así como una masa infradiafragmática izquierda de 38 mm. Es derivada al servicio de Oncología Médica y se inicia tratamiento con interleucina (IL) 2 e interferón alfa (IFN), que mantiene entre enero y junio de 2007, momento en el que se suspende tratamiento por toxicidad a pesar de la buena respuesta y se cambia a sunitinib, que se inicia a dosis plenas (50 mg cada 24 horas durante 4 semanas cada 6 semanas), precisando reducción de dosis a 37,5 mg con esquema 2:1 por trombopenia grado 4, hipotiroidismo e HTA (hipertensión arterial) que requiere de tres fármacos para su control; a pesar de lo cual, en noviembre de 2008, desarrolla toxicidad grave que precisa ingreso por serositis, con edema pericárdico, pleural y periintestinal, por lo que se suspende el tratamiento.
+Mantiene revisiones con enfermedad estable hasta agosto de 2010, objetivándose crecimiento de la masa infradiafragmática a 54 mm y aumento en el número y tamaño de las lesiones pulmonares y subpleurales, por lo que se reinicia sunitinib a dosis reducidas, a pesar de lo cual precisa suspender nuevamente tratamiento en agosto de 2011 por toxicidad, habiendo obtenido respuesta con desaparición de las lesiones pulmonares y disminución del tamaño de la masa abdominal.
+Reanuda tratamiento entre octubre de 2011 y noviembre de 2012, momento en el que, ante la estabilidad de la enfermedad y la mala tolerancia al sunitinib, se decide sustituir por pazopanib 800 mg diarios.
+En agosto de 2013, se objetiva crecimiento de la masa infradiafragmática hasta 11 cm, manteniéndose el resto de la enfermedad en respuesta, por lo que en noviembre de 2013 se realiza resección de la misma con esplenectomía, con resultado de metástasis de carcinoma renal de células claras con infiltración de la cápsula esplénica, diafragma y focalmente parénquima pulmonar.
+Continúa revisiones sin tratamiento hasta que, en la reevaluación de febrero de 2014, se evidencian adenopatías mediastínicas patológicas y aumento del tamaño de algunos de los nódulos pulmonares, por lo que se reanuda pazopanib a igual dosis, con muy buena tolerancia al mismo, obteniendo repuesta parcial con disminución del tamaño de todas las lesiones.
+En marzo de 2016, se objetiva lento crecimiento de una de las lesiones subpleurales, que se trata con radiocirugía entre el 14 y el 29 de junio de 2016.
+En septiembre de 2017 se concede descanso terapéutico, pero en la reevaluación de noviembre de 2017 presenta crecimiento de las adenopatías mediastínicas, con mazacote paratraqueal izquierdo de 3 cm, y aumento de una de las lesiones pulmonares en LSI con infiltración de la pared torácica.
+Recibe radioterapia paliativa antiálgica a dicho nivel y se reinicia pazopanib en diciembre de 2017.
+En marzo de 2018, presenta empeoramiento clínico con aparición de dolor torácico de difícil control, objetivándose en TC de abril progresión franca de la enfermedad con aparición de derrame pleural izquierdo y aumento de la masa pulmonar izquierda con destrucción del 6º arco costal izquierdo e infiltración del pedículo de T6. Inicia en mayo tratamiento con cabozantinib a dosis reducidas (40 mg diarios) con mejoría sintomática, pero en septiembre presenta pérdida de fuerza brusca en miembros inferiores, evidenciándose en TC nuevo crecimiento de la masa pulmonar con invasión del canal raquídeo a nivel de T6, produciendo compresión medular.
+Ante la imposibilidad de reirradiación a dicho nivel, se realiza cirugía descompresiva, falleciendo la paciente en octubre de 2018 por TEP masivo tras la misma.

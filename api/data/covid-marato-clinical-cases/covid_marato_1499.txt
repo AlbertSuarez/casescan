@@ -1,0 +1,22 @@
+Anamnesis
+Valoramos en nuestra consulta a un varón de 34 años sin antecedentes familiares ni personales de interés y sin tratamiento domiciliario habitual. En abril de 2015 comienza con distensión y sensación de masa abdominal por lo que es derivado a su hospital de referencia para estudio. Se realiza una tomografía computarizada (TC) que objetiva una gran masa hipogástrica sobre la que se practica una punción con aguja fina (PAAF) con diagnóstico anatomopatológico (AP) de tumor fusocelular de aspecto mesenquimal, sin mitosis ni necrosis, sospechosa de tumor del estroma gastrointestinal (GIST).
+Con este diagnóstico inicia en mayo de 2015, tratamiento neoadyuvante con imatinib 400 mg/día presenta ligero crecimiento del tumor pélvico tras cuatro meses de tratamiento por lo que en octubre del mismo año se cambia imatinib por sunitinib 37,5 mg/día, siempre con buena tolerancia al tratamiento y sin toxicidades relevantes referidas. Al mes de iniciar sunitinib se reseca quirúrgicamente la masa hipogástrica siendo el diagnóstico AP de TFS, derivándose al paciente a nuestro hospital como centro de referencia en sarcomas.
+
+Exploración física
+El paciente presenta buen estado general y funcional, manteniéndose asintomático y con vida activa. Destaca en la exploración física cicatriz de laparotomía media con buen aspecto y empastamiento hipogástrico de límites imprecisos no doloroso durante la palpación.
+
+Pruebas complementarias
+El informe quirúrgico describe una tumoración de gran tamaño y crecimiento expansivo que nace extraperitoneal del espacio rectovesical con infiltración superficial de vejiga y próstata, pero sin infiltración de asas. Se revisa la AP en nuestro centro confirmándose el diagnóstico de TFS típico sin atipia ni necrosis y con < 1/10 mitosis CGA y expresión nuclear de STAT 6.
+Los estudios analíticos no muestran alteraciones de interés y en la TC postquirúrgica se muestra una masa en espacio rectovesical de predominio quístico, con paredes ligeramente engrosadas y mal definidas pudiendo corresponder a un seroma postquirúrgico o persistencia de TFS.
+
+Diagnóstico
+Tumor fibroso solitario típico de origen pélvico con resección marginal realizada en noviembre de 2015 y sospecha de enfermedad residual.
+
+Tratamiento
+Ante la sospecha de persistencia de enfermedad pélvica con signos de respuesta al tratamiento, se comenta el caso en comité de tumores para valorar reintervención, decidiéndose finalmente reiniciar sunitinib en febrero de 2016 y completar estudio de extensión local.
+
+Evolución
+Se realiza colonoscopia sin hallazgos destacables y cistoscopia con protrusión del orificio ureteral derecho por compresión extrínseca. En resonancia magnética abdominal, la lesión pélvica presenta marcada reducción de tamaño y desaparición del realce interno, indicativo de buena respuesta al tratamiento.
+La tolerancia al tratamiento es aceptable presentando principalmente efectos adversos grado 1 como náuseas, dispepsia, reflujo gastroesofágico, diarrea, astenia, mucositis, eritrodisestesia palmoplantar (EPP) y cambio de la coloración el cabello. Presenta puntualmente diarrea, astenia y EPP grado 2 con buena recuperación y tolerancia tras interrupción del tratamiento durante una semana.
+En TC de octubre de 2016, se aprecia una reducción volumétrica del 50 % de la masa pélvica con marcada disminución de densidad, por lo que se comenta de nuevo en comité de tumores interviniéndose en febrero de 2017 mediante exéresis de dicha lesión. El estudio AP informa de respuesta patológica completa con infiltración por macrófagos con expresión de CD68 y ausencia de expresión de CD34 y STAT6.
+Desde entonces, se encuentra en seguimiento sin evidencia de recidiva en última revisión de febrero de 2019 y un intervalo libre de enfermedad y tratamiento de dos años.

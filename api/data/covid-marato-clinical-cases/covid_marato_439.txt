@@ -1,0 +1,31 @@
+Anamnesis
+Paciente varón de 61 años con antecedentes personales de hipertensión arterial, diabetes mellitus tipo 2, hipercolesterolemia, miocardiopatía dilatada de origen enólico, fibrilación auricular permanente, enfermedad pulmonar obstructiva crónica, hepatopatía enólica, isquemia arterial crónica de extremidades inferiores con amputación del primero, segundo y tercer dedos del pie derecho y cuatro últimos del pie izquierdo, catarata de ojo derecho con ceguera completa secundaria. Exfumador y exbebedor hasta hace 3 años.
+Ingresa en el Servicio de Medicina Interna por sensación de mareo asociado a inestabilibidad para la marcha de 15 días de evolución, sin giro de objetos, diario, que no se modificaba de intensidad y que solo aparecía al incorporarse o al iniciar la marcha. No asocia hipoacusia, acúfenos, cortejo vegetativo, cefalea u otra focalidad neurológica. La anamnesis por aparatos pone de manifiesto disnea progresiva de 3 meses de evolución para moderados-mínimos esfuerzos.
+
+Examen físico
+Regular estado general. ECOG 2. Eupneico en reposo. Estable hemodinámicamente.
+Auscultación cardiorrespiratoria: tonos arrítmicos, murmullo vesicular conservado.
+Exploración abdominal: hepatomegalia no dolorosa, sin otros hallazgos.
+Exploración neurológica: bradipsiquia, paresia del recto externo del ojo derecho, dismetría y marcha atáxica. La exploración en este paciente es especialmente complicada debido a su ceguera y a la amputación de los dedos de los pies.
+
+Pruebas complementarias
+- Analítica: descarta la presencia de hipoglucemia y otras alteraciones hidroelectrolíticas.
+- Tomografía computarizada cerebral: sin alteraciones radiológicas reseñables.
+- Radiografía de tórax: aumento de densidad en el lóbulo superior izquierdo (LSI).
+- Tomografía computarizada tóraco-abdómino-pélvica: masa en el LSI de 3,5 cm, compatible con tumor primario pulmonar. Presencia de adenopatías patológicas mediastínicias e hiliares izquierdas. Nódulo pulmonar en el lóbulo superior derecho, compatible con metástasis.
+Ante la existencia de una neoplasia pulmonar por imagen, se completa el estudio diagnóstico oncológico y se continúa el estudio del cuadro neurológico. El paciente durante el ingreso presentó un deterioro progresivo neurológico con alteración de la sensibilidad tanto superficial como profunda (vibratoria) y disminución de los reflejos osteotendinosos.
+- Broncoscopia: puso de manifiesto la presencia de una masa endobronquial, cuyo estudio histológico fue compatible con carcinoma neuroendocrino de célula intermedia (variante de carcinoma microcítico).
+- Analítica completa, con determinación de tóxicos, serologías, estudios metabólicos (incluyendo vitamina B12 y folato): normales. Descartando, por tanto, causa metabólica, tóxica o infecciosa del cuadro neurológico.
+- Resonancia magnética cerebral y punción lumbar: sin hallazgos significativos.
+- Estudio neuromuscular: compatible con polineuropatía sensitivo-motora axonal.
+- Ante el diagnóstico de carcinoma neuroendocrino de pulmón y el cuadro neurológico compatible con polineuropatía sensitivo-motora no filiada, se solicitan anticuerpos onconeuronales, pensando en un cuadro paraneoplásico. Este estudio pone de manifiesto la presencia de anticuerpos anti-Hu (anti-Yo, anti-Ri y anti-Tr negativos).
+
+Diagnóstico
+Varón de 61 años, con antecedentes de alcoholismo y patologías asociadas, con diagnóstico de carcinoma neuroendocrino de pulmón estadio IV asociado a polineuropatía sensitivo-motora axonal como síndrome paraneoplásico.
+
+Tratamiento
+Dada la extensión tumoral y el ECOG, se decide iniciar tratamiento con quimioterapia (QT) con carboplatino AUC 5 día 1 y etopósido 100 mg/m2 días 1 a 3. Tras el primer ciclo se tuvo que realizar un ajuste de dosis por insuficiencia renal.
+
+Evolución
+Tras el inicio del tratamiento quimioterápico obtuvo una mejoría importante de su clínica neurológica destacando, sobre todo, la recuperación de la deambulación, sin precisar ayuda.
+Por el contrario, tras cuatro ciclos de QT, se objetivó una progresión tumoral pulmonar, que le ocasionó insuficiencia respiratoria grave, que motivó su fallecimiento.

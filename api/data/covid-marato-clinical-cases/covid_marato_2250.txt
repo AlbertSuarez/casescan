@@ -1,0 +1,22 @@
+Anamnesis
+Varón de 62 años sin alergias medicamentosas conocidas ni antecedentes familiares de interés. Fumador hasta hace 20 años con índice acumulado de 20 paquetes-año y bebedor de 100 g de etanol diarios; con antecedentes personales de hipertensión arterial en tratamiento con candesartán, dislipemia en tratamiento con atorvastatina, diabetes mellitus tipo 2 en tratamiento con metformina, hiperuricemia en tratamiento con alopurinol y portador de marcapasos desde 2012 por bloqueo auriculoventricular de segundo grado Mobitz 1 sintomático.
+Consulta a su Médico de Atención Primaria en agosto/2016 por cuadro clínico de ictericia, coluria y acolia. Desde su centro de salud es remitido al Servicio de Urgencias Hospitalarias donde se objetiva una alteración de las pruebas de función hepática de predominio colestásico, así como una elevación de CA 19,9 (86,3 U/ml). En este contexto ingresa a cargo del Servicio de Digestivo para estudio.
+Ante la presencia de hallazgos morfológicos y endoscópicos compatibles con tumor de Klatskin y a pesar de la ausencia de confirmación histológica, el 29/09/2016 se somete a una hepatectomía y hepático-yeyunostomía en Y de Roux. La Anatomía Patológica de la pieza quirúrgica confirma el diagnóstico de adenocarcinoma de la vía biliar principal, bien diferenciado, pT2pN1 (metástasis en uno de los cinco ganglios aislados). Entre diciembre de 2016 y mayo de 2017, recibe 6 ciclos de gemcitabina a dosis de 1.000 mg/m2 los días 1, 8 y 15, cada 28 días con intención adyuvante. Durante el tratamiento, requiere suspensión de varias dosis, así como disminución de la misma por sintomatología compatible con infección respiratoria que le lleva al ingreso hospitalario en una ocasión. Continúa las revisiones periódicas sin evidencia de enfermedad hasta octubre de 2017.
+
+Exploración física
+Octubre de 2017: ECOG 1. Afebril y hemodinámicamente estable. En la auscultación pulmonar destaca mínima disminución de los ruidos respiratorios en ambas bases pulmonares. El resto de la exploración física es anodina.
+
+Pruebas complementarias
+En octubre de 2017, el paciente acude a revisión a la consulta de Oncología Médica. Aporta un hemograma y una bioquímica completa que incluye pruebas de función hepática y marcadores tumorales (CEA y CA 19,9), resultando todo ello normal.
+Sin embargo, una tomografía computarizada (TC) realizada el 31/10/2017 revela adenopatías en todos los compartimentos mediastínicos y en los hilios pulmonares, las de mayor tamaño localizadas a nivel subcarinal, donde confluyen entre sí formando un conglomerado de 29 x 31 mm de diámetro.
+El 21/11/2017 se completa estudio con una tomografía por emisión de positrones (PET) que objetiva hipermetabolismo de las adenopatías mediastínicas bilaterales destacando el conglomerado adenopático subcarinal con un SUVmax de 6,63. Finalmente, se toma una muestra por punción transbronquial de dicha adenopatía, cuya anatomía patológica describe la presencia de estructuras granulomatosas sin necrosis y descarta malignidad. El análisis molecular de Mycobacterium tuberculosis mediante PCR-ELISA descarta su presencia en la muestra citológica.
+Una vez descartada la recidiva de su enfermedad oncológica, el paciente es remitido al Servicio de Neumología. Estudios adicionales demuestran una elevación de los niveles de enzima convertidora de angiotensina (ECA) séricos (112,7 U/l; rango 13,3-63,9) y una espirometría revela un índice de Tiffenau de 59 %.
+
+Diagnóstico
+En este contexto, se establece el diagnóstico de reacción sarcoidea en paciente con antecedentes de colangiocarcinoma (tumor de Klatskin) pT2pN1M0 bien diferenciado sometido a resección quirúrgica y quimioterapia adyuvante.
+
+Tratamiento
+Ante la ausencia de síntomas respiratorios y patrón radiológico de enfermedad pulmonar intersticial, se decide no instaurar tratamiento corticoide y continuar seguimiento radiológico.
+
+Evolución
+Hasta el momento actual, el paciente se mantiene asintomático, sin evidencia de recaída tumoral y con estabilidad morfológica de las adenopatías mediastínicas en la última TC (27/02/2018).

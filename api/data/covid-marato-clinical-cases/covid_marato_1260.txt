@@ -1,0 +1,30 @@
+Anamnesis
+Varón de 39 años, profesor, sin antecedentes familiares de interés. Como antecedentes personales presenta una alergia al contraste yodado y una enfermedad de Crohn diagnosticada a los 19 años, con afectación ileocólica extensa, de predominio estenótico y con episodios de eritema nodoso y sacroileítis como manifestaciones extraintestinales.
+En 1996 se le realiza una ileohemicolectomía derecha. En 2003 inicia tratamiento con infliximab, suspendido a los 5 años por adalimumab por falta de respuesta, que seguía en el momento actual. En 2008 es reintervenido por estenosis anastomótica, realizándose una resección de la anastomosis ileocólica con colocación de una ileostomía. El paciente llevaba controles endoscópicos anuales en su remanente colónico.
+Como tratamiento inmunomodulador llevaba azatioprina 200 mg al día y adalimumab 40 mg/bisemanal; a su vez, llevaba como tratamiento sintomático fitomenadiona, gemfibrozilo y loperamida.
+En abril de 2011 comienza con clínica de dolor abdominal y febrícula, sugestiva de enfermedad perianal en una enfermedad de Crohn de largo tiempo de evaluación. Con la sospecha de una complicación infecciosa, se decide revisión bajo anestesia general, donde se objetiva una tumoración en el recto inferior, que se biopsia con resultado de carcinoma coloide.
+El estudio de extensión fue negativo y se catalogó clínicamente como un adenocarcinoma de recto inferior cT2N0M0, motivo por el que se procedió a cirugía de entrada: amputación abdominoperineal.
+En el acto quirúrgico se catalogó como tumoración del tercio medio y tercio inferior en la cara lateroposterior izquierda, afectando al músculo puborrectal izquierdo: cT3N0M0. Sin embargo, en el análisis anatomo-patológico se objetiva un ganglio infiltrado, por lo que, según el estadio patológico, se trata de un pT3abN1.
+
+Tras esto, el paciente es visto un mes después en consultas de Oncología para la valoración de tratamiento adyuvante.
+
+Exploración física
+Anodina. PS 1. Cicatriz quirúrgica de amputación abdominopélvica con buen estado, sin signos inflamatorios en la piel circundante. Estoma en buen estado. Heces en bolsa colectora sin productos patológicos. Sin alteraciones psicológicas.
+Pruebas complementarias
+» Hemograma y bioquímica anodinas. Marcadores tumorales (CEA y CA19.9) dentro de la normalidad.
+» TC toracoabdominopélvica: masa en el recto a unos 10 cm del canal anal, que deforma su contorno. Por otro lado, en el riñón derecho se observa imagen nodular hipodensa, en el polo superior, sin poder ser caracterizada mejor debido a la ausencia de contraste (por alergia del paciente). Resto de órganos y sistemas sin hallazgos de interés.
+» RM pélvica: se compara con el estudio previo realizado hace 6 meses y se objetiva la aparición de una masa rectal, de localización interesfinteriana, cuyo extremo proximal se localiza a la altura del puborrectal y el distal hasta el margen anal externo.
+» Biopsia de la pieza quirúrgica: tumoración epitelial infiltrante constituida por muy abundante material coloide, que infiltra 0,5 cm en la profundidad entre los planos musculares por debajo de la mucosa anal y focalmente invade también la grasa del mesorrecto. Las células tumorales muestran escaso pleomorfismo nuclear y un discreto incremento en su actividad divisional. No se observan fenómenos de invasión perineural ni vascular. El estudio histológico de las 16 adenopatías aisladas demostró infiltración tumoral en una de las proximales, sin rotura capsular. Bordes libres de lesiones tumorales. Tipo de resección: R0.
+
+Diagnóstico
+Carcinoma coloide de recto inferior estadio III, pT3aN1(1/16)M0.
+
+Tratamiento
+Tras discusión del caso en el Comité de Tumores Colónicos, se decide administración de quimioterapia adyuvante con la combinación de oxaliplatino, ácido folínico y fluorouracilo (FOLFOXm6) durante 12 ciclos. Se decide a su vez la suspensión del tratamiento inmunosupresor con azatriopina y adalimumab.
+
+Evolución
+El paciente recibe 11 ciclos, ya que el último ciclo se suspendió por neurotoxicidad grado 3 y trombopenia mantenida. Previamente el tratamiento fue bien tolerado, con episodios de neurotoxicidad, astenia y aparición esporádica de diarrea G2, que cede con tratamiento sintomático. La duración total del tratamiento fue de 5 meses, desde enero hasta junio de 2012.
+
+Tras la finalización del tratamiento en enero del 2013 se realiza una nefrectomía radical del riñón derecho por la lesión incidental de lento crecimiento de las TC previas; el resultado patológico hablaba de un carcinoma renal de células claras, grado 1-2 de Fürhman, con márgenes no infiltrados, estadio tumoral pT1a. Además, se observaba una extensa esclerosis e hialinización, probablemente secundaria al tratamiento con QT recibido por su carcinoma rectal.
+
+No había indicación de tratamiento adyuvante tras a la intervención. Actualmente, el paciente permanece libre de enfermedad y sin evidencia de actividad intestinal o extraintestinal de la enfermedad inflamatoria intestinal, a pesar de no llevar tratamiento inmunosupresor.

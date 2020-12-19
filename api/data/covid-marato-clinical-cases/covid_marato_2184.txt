@@ -1,0 +1,22 @@
+Anamnesis
+Paciente mujer de 80 años, con diagnóstico hace 7 años de carcinoma ductal infiltrante de mama izquierda GIII, de 3 cm, sin afectación ganglionar, receptores hormonales positivos y HER-2 negativo, con cirugía conservadora y tratado con esquema CMF (ciclofosfamida-metotrexato-5-fluorouracilo), seguido de radioterapia local y tamoxifeno 5 años. En revisiones posteriores sin evidencia de enfermedad. No presenta otros antecedentes de interés. Valorada por su médico de Atención Primaria, objetiva anemia ferropénica de reciente aparición, por lo que deriva a Digestivo de zona. Un mes después, aparece masa en fosa ilíaca derecha, dolorosa de 2 cm. Tras estudio de extensión negativo, se programa para cirugía.
+
+Examen físico
+Buen estado general. No se observan alteraciones ni adenopatías, salvo masa dolorosa en la fosa ilíaca derecha de 2 cm, sin peritonismo. Sin otras alteraciones en la exploración.
+
+Pruebas complementarias
+Tomografía computarizada (TC): engrosamiento de las paredes del colón ascendente de 7 cm de diámetro con estenosis de la luz, compatible con neoplasia de colon ascendente. Adenopatías mesentéricas probablemente neoplásicas.
+Colonoscopia: lesión mamelonada, ulcerada, excrecente y estenótica que se biopsia.
+Marcadores tumorales (CEA, Ca 19.9, Ca 15.3): normales.
+Anatomía patológica: tumoración de 6,5 x 5 x 2 cm del eje máximo de bordes mamelonados y áreas de aspecto ulcerado que ocupa el 75 % de la luz intestinal. 10 ganglios linfáticos resecados con evidencia de metástasis.
+Adenocarcinoma muy escasamente diferenciado de alto grado de malignidad, ulcerado con áreas focales de diferenciación rabdoide, que alcanza tejido adiposo perivisceral con márgenes quirúrgicos libres de enfermedad, intensamiente positivo en las áreas de diferenciación rabdoide para citoqueratinas AE1-AE-3, vimentina y CAM 5.2.
+Negativo para actina de músculo liso, HHF35, S-100. Positivo débil para calretinina. Kras nativo.
+
+Diagnóstico
+Carcinoma rabdoide de colon.
+
+Tratamiento
+Tras la cirugía, la paciente inicia tratamiento quimioterápico adyuvante con esquema XELOX (oxaliplatino/capecitabina) durante 8 ciclos trisemanales.
+
+Evolución
+Tras un intervalo libre de enfermedad de 13 meses, acude a Urgencias con dolor abdominal, astenia de un mes de evolución y anasarca. Se objetiva por estudio de imagen conglomerado adenopático retroperitoneal de 7 cm de diámetro y múltiples adenopatías en el resto de cadenas ganglionares abdominales, siendo la mayor de 4 cm. Todo ello sugestivo de recidiva tumoral. Dado el intervalo libre de progresión, se inicia tratamiento con intención paliativa con capecitabina en monoterapia durante 8 ciclos. 3 meses después, progresión retroperitoneal, iniciando irinotecán más cetuximab, falleciendo dos meses después por fracaso multiorgánico.

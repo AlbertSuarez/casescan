@@ -1,0 +1,36 @@
+Anamnesis
+Mujer de 48 años sin antecedentes personales y familiares de interés. G1P1. Sin síntomas climatéricos. En seguimiento desde las consultas de Ginecología por hipermenorreas y útero polimiomatoso, sin evidencia de patología anexial.
+Acude al Servicio de Urgencias por presentar dolor abdominal, compatible con absceso tubo-ovárico tras valoración por ecografía transvaginal y de abdomen.
+
+Exploración física
+PS 0. Peso 60 kg. Talla 157 cm.
+
+Pruebas complementarias
+TC de abdomen (10/04/2019): útero aumentado de tamaño con contornos irregulares con captación heterogénea de contraste, evidenciándose una lesión sólido-quística que mide unos 16 cm de diámetro máximo craneocaudal por 11 cm de diámetro transverso y 9 cm anteroposterior. Hallazgos compatibles con posible cistoadenocarcinoma ovárico con infiltración de útero y posibles implantes peritoneales o neoplasia uterina.
+
+Informe anatomopatológico (24/04/2019)
+» Adenocarcinoma endometrioide de ovario pT1a.
+» Adenocarcinoma endometrioide de endometrio G2, pT1a.
+» Adenocarcinoma intestinal pT4aN0.
+
+Estudio inmunohistoquímico: positivo de inestabilidad de microsatélites.
+Tanto la neoplasia endometrial como a la intestinal mostraban un patrón de expresión anormal de proteína reparadoras del ADN con positividad en las células neoplásicas para MLH-1 y PMS-2 y negatividad para MSH-2 y MSH-6, lo que sugiere un síndrome de Lynch por inactivación del gen MSH-2, ya sea debida a mutación germinal del mismo o a deleción de EpCam.
+
+Diagnóstico
+Tres tumores sincrónicos (adenocarcinoma endometrioide de ovario IA, adenocarcinoma endometrioide de endometrio IA y adenocarcinoma intestinal IIC) compatible con síndrome de Lynch.
+
+Tratamiento
+» (08/03/2019) Anexectomía derecha laparoscópica: tumoración ovárica derecha de 15 cm de aspecto blanquecino y nacarado, con superficie lisa sin aspecto de malignidad. Escasa cantidad de líquido purulento que sale por ambas trompas y a través de dicha tumoración, descritas con adherencias laxas a zona abdominal derecha.
+» (24/04/2019) Se realiza laparoscopia exploradora para plantear cirugía de estadificación del cáncer de ovario. Finalmente, se realiza histerectomía total simple, anexectomía izquierda y hemicolectomía derecha convencional.
+» (30/04/2019) Laparoscopia exploratoria por eventración postquirúrgica.
+» (03/06/2019) Inicia primer ciclo de quimioterapia adyuvante para neoplasia de colon, según esquema XELOX, sin incidencias ni toxicidades.
+
+Evolución
+Se trata de una paciente con clínica de dolor abdominal de semanas de evolución, derivada del Servicio de Urgencias a las Consultas de Ginecología a fecha de 08/03/2019, donde se realiza ecografía transvaginal y de abdomen. Se observa una formación heterogénea de 12 x 14 cm, compatible con absceso tubo-ovárico. Además, se realiza TC de abdomen con hallazgos compatibles con posible cistoadenocarcinoma ovárico con infiltración de útero e implantes peritoneales o neoplasia uterina.
+El día 08/03/2019 se interviene mediante anexectomía derecha laparoscópica, con resultado anatomopatológico de adenocarcinoma endometrioide moderadamente diferenciado (G2) de ovario, por lo que se programa el día 24/04/2019 laparoscopia exploradora para completar cirugía de estadificación del cáncer de ovario ante la sospecha de una neoplasia avanzada, llevándose a cabo una histerectomía total simple y anexectomía izquierda. Se hallaron implantes a nivel de colon derecho.
+En colaboración con el Servicio de Cirugía se realiza hemicolectomía derecha convencional y se coloca catéter para posible quimioterapia intraperitoneal postquirúrgica al sospechar un posible cáncer de ovario localmente avanzado.
+La paciente evoluciona de forma tórpida con cuadro consistente de síndrome emético y disconfort abdominal, evidenciándose en TC de control eventración de asa de intestino delgado con dificultad para el tránsito sin compromiso isquémico. Se comenta en Comité de Cirugía y se decide laparotomía exploratoria el día 30/04/2019. Una vez resuelto el cuadro con posterior reintroducción de la dieta y buena tolerancia, la paciente es dada de alta.
+En el informe anatomopatológico del 24/04/2019, se nos desvela que la afectación de colon derecho visualizada intraoperatoriamente es realmente de un tercer tumor primario asentando éste sobre el colon.
+Por tanto, la paciente presenta tres entidades neoplásicas: la inicial, intervenida a nivel de ovario derecho (adenocarcinoma endometrioide de ovario pT1a); una segunda, asentada en endometrio (adenocarcinoma endometrioide de endometrio G2, pT1a) y, por último, la presente en el colon (adenocarcinoma intestinal pT4aN0).
+Ante la duda de si la afectación ovárica era secundaria a un tumor avanzado de endometrio o viceversa, se solicita, a petición del Comité Multidisciplinar de tumores Ginecológicos, revisión de las muestras quirúrgicas tanto de la anexectomía derecha como la segunda cirugía.
+La paciente ya ha sido valorada por nuestro Servicio de Oncología Médica, habiéndose iniciado tratamiento quimioterápico adyuvante para el adenocarcinoma de colon, no precisando ningún tratamiento complementario para la neoplasia ovárica y endometrial al tratarse de estadios iniciales.

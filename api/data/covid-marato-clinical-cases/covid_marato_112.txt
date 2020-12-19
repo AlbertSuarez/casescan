@@ -1,0 +1,27 @@
+Anamnesis
+Se trata de un varón de 75 años de edad, sin alergias medicamentosas conocidas. Exfumador desde 7 años previos al diagnóstico de 2-3 paquetes al día durante 45 años (dosis acumulada de 112 paquetes-año), consumidor de alcohol moderado (5 unidades de bebida estándar diarias). Como antecedentes patológicos presenta hipertensión arterial (HTA), asma e hiperuricemia.
+El paciente presenta desde enero de 2012 dificultad respiratoria que aumenta de manera progresiva y se acompaña de tos con expectoración mucosa. El 06/06/2012 se realiza una radiografía de tórax donde se observa un aumento de densidad paratraqueal derecha con ascenso hiliar y retracción traqueal hacia campo derecho con atelectasia de lóbulo superior derecho (LSD). Se completa el estudio con una tomografía computarizada (TC) torácica donde se observa una masa pulmonar en LSD de 95 x 58 x 53 mm con signos de invasión mediastínica y adenopatías supraclaviculares derechas y mediastínicas homolaterales. Se realiza fibrobroncoscopia con biopsia bronquial de bronquio de LSD, siendo informado como carcinoma escamoso infiltrante. Se realiza estudio de extensión con PET-TC donde se evidencian adenopatías yugulares derechas, además de masa pulmonar derecha. Se orienta el caso como el de un paciente de 75 años sin antecedentes personales de interés, con un ECOG PS de 1 y un carcinoma escamoso de pulmón T4N3M1.
+Se decide realizar primera línea de tratamiento dentro de ensayo clínico con carboplatino AUC 6 y paclitaxel 200 mg/m2 cada 21 días y un inhibidor de PI3K (GDC0941) 340 mg los días 1 y 14 del ciclo. Inicia en julio de 2012 y finaliza enero de 2013, completando un total de 10 ciclos con enfermedad estable como mejor respuesta.
+En febrero de 2013 presenta progresión en forma de crecimiento de la masa pulmonar. Realizó una segunda línea de tratamiento con docetaxel 75 mg/m2 cada 21 días desde marzo de 2013 hasta julio de 2013, completando un total de 5 ciclos, con enfermedad estable como mejor respuesta y presentando progresión en forma de metástasis pulmonares y derrame pleural.
+Ante esta progresión y como mantenía en todo momento un buen estado general, con un ECOG PS 1, se inicia una tercera línea de tratamiento dentro de ensayo clínico con pembrolizumab 10 mg/kg cada 2 semanas en noviembre de 2013.
+Tras haber recibido 73 ciclos de tratamiento, en enero de 2017, acude a Urgencias por disnea de esfuerzo progresiva, hasta hacerse de mínimos esfuerzos, junto con tos y expectoración de varios días de evolución, sin fiebre ni clínica DE bacteriemia. A su llegada presenta una saturación de O2 del 88 % y semiología de hiperreactividad bronquial. Se orienta de entrada como exacerbación de EPOC, se considera tributario de ingreso y tratamiento con corticoterapia, broncodilatadores, levofloxacino y O2 suplementario. Ingresa el día 07/01/2017.
+Durante su estancia en la planta de hospitalización, aparece ortopnea y disnea paroxística nocturna. Se orienta como insuficiencia cardiaca.
+
+Exploración física
+En la exploración física destaca una mejoría de la semiología de broncoespasmo, con leves crepitantes húmedos bilaterales. Destaca también un aumento de los edemas en extremidades inferiores con signo de fóvea positivo hasta las rodillas. El resto de la exploración resulta normal.
+
+Pruebas complementarias
+Se realiza ecocardiografía transtorácica el día 10/01/2017. Se evidencia derrame pericárdico grave con signos parciales de compromiso hemodinámico, ventrículo izquierdo de dimensiones normales con función sistólica conservada, y sin signos de hipertensión pulmonar.
+El día 13/01/2017 se realiza pericardiocentesis con drenaje de 470cc. Inicialmente se dejan dos drenajes que se acaban retirando el 18/01 por no ser productivos. La citología del líquido resulta negativa para células malignas. Se realiza nueva ecocardiografía de control que evidencia derrame pericárdico leve sin compromiso hemodinámico.
+
+Diagnóstico
+Se realiza diagnóstico de exclusión del derrame pericárdico, descartando el origen tumoral e infeccioso, por lo que se orienta como derrame pericárdico inmunomediado.
+
+Tratamiento
+Se instaura corticoterapia con metilprednisolona 20 mg/día.
+
+Evolución
+Progresiva resolución de los edemas de EEII y de la disnea. Finalmente, el paciente es dado de alta el día 19/01/2017 con pauta descendente de corticoterapia hasta retirar al cabo de una semana.
+Tras 4 semanas reinicia el tratamiento con pembrolizumab. Se realiza control clínico juntamente con el servicio de Cardiología, sin evidenciar nueva aparición de clínica de insuficiencia cardiaca.
+De manera intercurrente, el paciente presenta hipotiroidismo secundario a la inmunoterapia que debutó en enero de 2014. Se instauró tratamiento sustitutivo con levotiroxina y empezó seguimiento por Endocrinología hasta la actualidad. En este contexto, ha presentado alteraciones hidroelectrolíticas como hipomagnesemia e hipofosfatemia actualmente resuelto.
+El último control del paciente por parte de Oncología Médica el 02/04/2018 tuvo respuesta parcial de la enfermedad después de 95 ciclos de pembrolizumab. No presenta clínica de insuficiencia cardiaca. En el perfil hormonal se observa TSH dentro de rango de normalidad (0,5 uUI/ml). Tampoco presenta alteraciones hidroelectrolíticas.

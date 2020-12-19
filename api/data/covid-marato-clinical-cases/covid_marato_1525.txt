@@ -1,0 +1,26 @@
+Anamnesis
+Historia clínica
+Se trata de una mujer de 77 años de edad, independiente para las actividades básicas de la vida diaria, sin alergias médicas conocidas ni hábitos tóxicos. No tiene antecedentes familiares relevantes. Realiza tratamiento habitual con calcio y paracetamol por antecedente de osteoporosis.
+Historia oncológica
+Su historia oncológica se inició en junio de 2017 a raíz de disfonía y tos persistente. En el examen físico, destacó una adenopatía supraclavicular derecha de características patológicas. La radiografía de tórax mostró un pequeño derrame pleural derecho y la tomografía computarizada (TC) de tórax una masa hiliar derecha sospechosa de proceso neoformativo primario pulmonar con adenopatías mediastínicas, hiliares, supraclaviculares, retropectorales, mesentéricas y retroperitoneales junto a metástasis (M1) pulmonares bilaterales, pleurales, hepáticas, óseas e implantes mesentéricos. Se realizó una punción aspiración con aguja fina (PAAF) de la adenopatía supraclavicular y la Anatomía Patológica fue compatible con metástasis de ADK de origen pulmonar, por lo que fue diagnosticada de ADK de pulmón en estadio IV (T2N3M1).
+Se realizó estudio molecular mediante panel de Oncomine® (que analiza 22 genes) que mostró mutación de EGFR en exón 21; c.2573T > G; p.(Leu858Arg); frecuencia aproximada de alelo mutado 4%. Mutación de TP53 en exón 5; c.452C>A, p.(Pro151His); frecuencia aproximada de alelo mutado 4%. ALK, PD-L1 negativos.
+En octubre de 2017, la paciente inició tratamiento de primera línea con gefitinib 250 mg cada 24 horas (por performance status de 2) con buena tolerancia y sin ninguna incidencia hasta la fecha. La primera valoración de respuesta a las 6 semanas de iniciado el tratamiento mediante PET-TC mostró estabilidad de la enfermedad, por lo que se continuó con el mismo esquema de tratamiento.
+
+Exploración física
+Enfermedad actual y exploración física
+En enero de 2018, la paciente consultó en Urgencias por visión borrosa de 2 semanas de evolución que había ido en aumento sobre todo en ojo izquierdo. A su llegada a nuestro centro la paciente se encontraba hemodinámicamente estable, afebril con saturación basal del 97 %. En el examen físico general persistía la adenopatía supraclavicular derecha, no existían alteraciones en la auscultación cardiaca y en auscultación pulmonar sólo se apreciaba ligera hipofonesis basal derecha sin otros hallazgos destacables. La exploración neurológica mostró disminución de la agudeza visual bilateral, de predominio izquierdo, anisocoria con pupila derecha midriática reactiva; en posición primaria, mirada desconjugada con ojo derecho en posición centrada con limitación para supra e infraversión y aducción, con abducción conservada y ojo izquierdo en abducción (exotropía) con cierto componente de limitación para la supra e infraversión, y convergencia conservada; resto de pares craneales sin alteraciones, y sin déficits motores ni sensitivos. Se realizó un fondo de ojo donde se observó un desprendimiento seroso en retina izquierda.
+
+Pruebas complementarias
+La analítica de ingreso no mostró alteraciones significativas, a excepción de una ligera anemia normocítica normocrómica. En la radiografía de tórax se observó derrame pleural derecho leve ya presente en placas previas. Se realizó una TC craneal urgente que no mostró alteraciones significativas en el parénquima encefálico ni captaciones patológicas de contraste. Se completó estudio con una resonancia magnética nuclear (RM) cerebral que evidenció múltiples lesiones metastásicas de pequeño tamaño a nivel del parénquima cerebral y cerebeloso, sin edema ni efecto masa.
+
+Diagnóstico
+El equipo de Neurología valoró el caso e indicó que se trataba de un cuadro de afectación del III par craneal derecho (con afectación pupilar) más oftalmoplejía internuclear izquierda que clínicamente sugería un síndrome del uno y medio (lo más aproximado, con otros probables componentes) secundario a alguna (o varias) de dichas lesiones tumorales de localización troncoencefálica (mesencéfalo/puente).
+
+Tratamiento
+Con esta orientación se realizó consulta con Servicio de Oncología Radioterápica, y se inició tratamiento con radioterapia (RT) holocraneal completando un total de 10 sesiones durante el ingreso con una dosis total de 30 Gy.
+
+Evolución
+Tras finalizar el tratamiento holocraneal, la paciente presentó importante mejoría de la agudeza visual y corrección de la mirada en posición central persistiendo únicamente ligera dificultad en la deambulación por sensación de inestabilidad.
+Durante su ingreso, además se realizó una TC de tórax y abdomen que evidenció progresión del proceso neoplásico a nivel torácico y abdominal.
+Dada la progresión a inhibidores EGFR de primera generación, se suspendió tratamiento con gefitinib y se efectuó determinación de mutaciones de resistencia (T790M) en sangre periférica y en biopsia de tejido pulmonar que no detectaron la presencia de la misma.
+La paciente fue dada de alta al completar el proceso diagnóstico y terapéutico con visita ambulatoria con Oncología Médica para valorar nueva opción terapéutica.

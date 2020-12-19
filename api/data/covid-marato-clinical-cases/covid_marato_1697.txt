@@ -1,0 +1,23 @@
+Anamnesis
+Se trata de una mujer de 50 años, con alergia al contraste yodado y a la metoclopramida, sin hábitos tóxicos, ni antecedentes laborales o familiares de interés. Tiene antecedentes patológicos de síndrome ansioso-depresivo de más de 20 años de evolución en tratamiento con duloxetina.
+Su historia oncológica se inicia en marzo de 2012, a raíz de cuadro de cefalea opresiva de predominio frontal y de obstrucción nasal izquierda, por lo que acude a consulta en múltiples ocasiones en médico de Atención Primaria y Urgencias Hospitalarias, orientándose como sinusitis refractaria a tratamiento médico.
+
+Exploración física
+Buen estado general. Dolor en la palpación de senos paranasales, de predominio maxilar izquierdo. Auscultación cardiorrespiratoria sin alteraciones. Abdomen blando y depresible, no es doloroso durante la palpación, sin masas ni hepatoesplenomegalia.
+
+Pruebas complementarias
+Se realiza una analítica en la que destaca LDH de 880 U/l con el resto de marcadores tumorales negativos y una radiografía de senos paranasales que muestra ocupación de seno maxilar izquierdo. Se completa estudio con resonancia magnética (RM) facial en la que aparece una lesión sólida expansiva en seno maxilar izquierdo que se extiende hasta fosa nasal izquierda, con infiltración de partes blandas.
+Como estudio de extensión, se realiza una tomografía computarizada (TC) torácica y abdominal que describe lesiones sugestivas de metástasis en ambos campos pulmonares, hígado, bazo, subcutáneas y adenopatías inguinales. También se realiza una gammagrafía ósea (GGO) y una RM craneal sin metástasis óseas ni en sistema nervioso central.
+
+Diagnóstico
+Se realiza una biopsia de la lesión en mucosa nasal izquierda que es compatible con melanoma infiltrante, con estudio molecular negativo para BRAF y KIT. Por ello, se diagnostica melanoma de mucosa de seno maxilar izquierdo no mutado, estadio IV (por metástasis hepáticas, pulmonares, esplénicas y cutáneas).
+
+Tratamiento
+Dada la ausencia de mutaciones que permitan beneficiarse de tratamiento antidiana, se decide iniciar tratamiento de primera línea dentro de ensayo clínico con ipilimumab (3 mg/kg vs. 10 mg/kg) por 4 ciclos, que finaliza en septiembre de 2012.
+Presenta muy buena tolerancia y obtiene una respuesta completa, por lo que inicia controles por RM craneal y TC toracoabdominal cada 3 meses hasta marzo de 2017 y posteriormente controles cada 6 meses. En el último control en septiembre de 2017, presenta una respuesta completa mantenida a los 5 años de finalizar el tratamiento.
+
+Evolución
+En enero de 2018, inicia cuadro de dolor cervicodorsolumbar progresivo por el que acude a la consulta del médico de Atención Primaria y Traumatología en diversas ocasiones, se realiza RM lumbar y GGO que no muestran alteraciones ni lesiones sugestivas de metástasis.
+A finales de febrero ingresa por diversos episodios de crisis comicial de ausencia, con TC craneal que muestra dos lesiones sólidas con signos de sangrado y dilatación del sistema ventricular. Se completa estudio con RM cerebral que informa de dos lesiones intraventriculares sugestivas de metástasis en asta frontal izquierda de 15 x 16 mm y atrio ventricular izquierdo de 24 x 23 mm, con hidrocefalia arreabsortiva por sangrado intraventricular y realce ependimario del atrio ventricular que no permite descartar diseminación del líquido cefalorraquídeo ni afectación leptomeníngea. Se realiza también TC toracoabdominal que no evidencia diseminación de enfermedad a otros niveles. Se orienta como recidiva de melanoma maligno de mucosa a nivel de sistema nervioso central, con posible afectación leptomeníngea, a los 5 años y 6 meses de finalizar tratamiento.
+Se inicia tratamiento corticoide y anticomicial con dexametasona 4 mg cada 6 horas y levetiracetam 500 mg cada 12 horas endovenosos. Durante el ingreso presenta dos episodios de crisis tónico-clónicas generalizadas con periodo poscrítico prolongado y disminución del nivel de conciencia, por lo que se añade lacosamida 200 mg cada 12 h y se aumenta levetiracetam a 1.000 mg cada 12 horas. Requiere ingreso en la Unidad de Cuidados Intensivos para observación durante 48 h, sin presentar nuevos episodios de comicialidad ni empeoramiento clínico. Inicia rehabilitación y seguimiento por parte de Psicooncología por cuadro de ansiedad e insomnio, que se controla con mirtazapina 15 mg al día.
+Se presenta el caso en comité de tumores y se desestima tratamiento quirúrgico por invasión leptomeníngea. Se decide tratamiento con radioterapia holocraneal (30 Gy en 10 fracciones) y posteriormente tratamiento con anti-PD-1.

@@ -1,0 +1,26 @@
+Anamnesis
+Varón de 37 años sin antecedentes familiares o personales médicos de interés. Sin tratamiento actual domiciliario. Fumador de 15 paquetes-año.
+En agosto de 2017 acude a Urgencias de nuestro hospital por diplopía ocasional y cefalea de intensidad creciente de un mes de evolución que no cedía a analgesia de primer escalón. No presentaba fiebre, ni rigidez de nuca, ni vómitos.
+
+Exploración física
+» Afebril, hemodinámicamente estable.
+» PS-O.
+» Exploración neurológica: funciones superiores conservadas. Sin focalidad neurológica aparente. El paciente refiere diplopía, aunque en la exploración no muestra paresia de pares oculomotores.
+
+Pruebas complementarias
+Se realiza TC de cráneo sin contraste en Urgencias que objetiva lesión temporoparietal derecha isodensa, con parénquima cerebral con edema circundante y efecto masa.
+Ingresa para estudio en Neurocirugía y en RM de cráneo se aprecia dicha masa de 3,4 x 3 cm con edema vasogénico asociado y que provoca desviación de la línea media de 9 mm.
+Ante el deterioro neurológico del paciente, se realiza exéresis tumoral macroscópicamente completa con diagnóstico histológico de metástasis de adenocarcinoma de probable origen pulmonar, EGFR no mutado, ALK no traslocado y PD-L1 5 % positivo débil.
+Ante este hallazgo, se solicita PET-TC que muestra un nódulo pulmonar en LSD de 1,2 x 1,3 cm y un conglomerado adenopático mediastínico paratraqueal-parahiliar derecho de 6,6 x 5 cm compatible con carcinoma de pulmón.
+
+Diagnóstico
+Adenocarcinoma de pulmón lóbulo superior derecho (cT1acN2pM1b)-estadio IV por cerebral única resecada.
+
+Tratamiento
+En octubre de 2017 el paciente recibe SBRT sobre lecho quirúrgico cerebral e inicia tratamiento con atezolizumab (inmunoterapia anti-PD-L1) cada 21 días dentro de ensayo clínico.
+
+Evolución
+Tras 10 ciclos, en mayo de 2018, la respuesta global alcanza un 50 %. Ante buen estado general del paciente, edad, respuesta radiológica a nivel pulmonar y respuesta completa a nivel cerebral, el caso es debatido en comité de tumores torácicos, optándose por la cirugía del primario.
+En junio de 2018 es intervenido mediante lobectomía superior derecha y linfadenectomía con diagnóstico de adenocarcinoma de 1,5 cm y metástasis en 4 de 13 adenopatías extirpadas.
+En agosto de 2018 el paciente se encuentra libre de enfermedad y realiza quimioterapia adyuvante con cisplatino vinorelbina por cuatro ciclos seguido de radioterapia sobre mediastino con excelente tolerancia.
+Actualmente, el paciente sigue en revisiones, se encuentra libre de enfermedad y hace una vida normal.

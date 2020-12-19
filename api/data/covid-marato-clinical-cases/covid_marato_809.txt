@@ -1,0 +1,25 @@
+Anamnesis
+Varón de 61 años, con antecedentes personales de hipertensión arterial en tratamiento. Fumador de 1 paquete/día (IPA = 40) y bebedor de 2 litros de cerveza al día hasta hacía 2 meses. Intervenido en marzo de 2013 de carcinoma decélulas basales en la cola de la ceja izquierda.
+Desde agosto de 2013 refiere sensación de tumoración en la región laterocervical izquierda, por la que consulta en diciembre de ese mismo año en Urgencias por aumento del tamaño de la misma. Es ingresado en el Servicio de Medicina Interna para su estudio.
+Tras la realización del estudio de extensión, que descartó enfermedad a distancia y PAAF de la lesión compatible con células malignas, fue intervenido en marzo de 2014 mediante laringuectomía parcial supraglótica + vaciamiento cervical bilateral, con postoperatorio tórpido por sangrado.
+
+Examen físico
+PS 0. Estado general conservado. Consciente y orientado. Peso 53 kg. Talla 171 cm. Cavidad oral: sin lesiones en las mucosas yugal y geniana, lengua, úvula y paladar. A la palpación cervical se objetiva una lesión redondeada, lisa, de unos 3 cm de diámetro, no adherida a la piel y parcialmente a planos profundos a nivel de la zona laterocervical izquierda. Resto de la exploración por aparatos, anodina.
+
+Pruebas complementarias
+- Hemograma, coagulación y bioquímica incluyendo perfil hepático y calcitonina sérica: sin alteraciones destacables.
+- Nasofibrolaringoscopia: se visualiza una lesión ulcerada en la cara laríngea de la epiglotis, muy próxima al borde libre izquierdo y marcado engrosamiento del repliegue epiglótico izquierdo.
+- TC de cuello y tórax: masa sólida laterocervical izquierda de 32 x 23 x 44 mm de contornos lobulados y estructura heterogénea, localizada por debajo del ángulo mandibular izquierdo, causando efecto masa y compresión sobre la vena yugular interna. En contacto con la glándula submaxilar y con el músculo esternocleidomastoideo, sin poder descartar infiltración de las mismas. Sin alteraciones destacables en el tórax ni adenopatías significativas.
+- Ecografía tiroidea: tiroides de tamaño y morfología normales. Cambios inflamatorios de aspecto posquirúrgico. Sin otras alteraciones significativas.
+- Perfil inmunohistoquímico de neoplasia laríngea: cromogranina +, TTF1 +, calcitonina +, CEA +, p53 +, BCL2 +, CMYC -, índice proliferativo Ki 67 60%.
+
+Diagnóstico
+Tumor carcinoide atípico neuroendocrino (variante de células grandes) de origen laríngeo pT1N2M0, estadio IVA.
+
+Tratamiento
+Tras revisar la escasa literatura médica disponible hasta el momento sobre este tipo de tumores, se propuso al paciente tratamiento con quimioterapia adyuvante (cisplatino-etopósido) y se derivó a Radioterapia para su valoración.
+
+Evolución
+Tras el resultado poco frecuente de anatomía patológica de la pieza quirúrgica, se completó el estudio de extensión para descartar el origen metastásico del carcinoma medular de tiroides y carcinoma de pulmón.
+El paciente fue derivado a nuestras consultas considerándolo candidato para recibir el tratamiento previamente referido, del que ha recibido hasta el momento un ciclo, con buena tolerancia.
+Tras valoración por Radioterapia (no presente en nuestro centro), se decidió iniciar concomitancia desde el segundo ciclo, estando pendiente de recibirlo en los próximos días. Si la evolución es favorable, está previsto que reciba dos ciclos más de quimioterapia al final de la radioterapia.

@@ -1,0 +1,66 @@
+Anamnesis
+Tras clínica de nódulo autopalpable en mama izquierda en octubre de 2014, inicia estudio por parte de médico de Atención Primaria.
+
+Antecedentes familiares: madre fallecida de cáncer de páncreas.
+
+Antecedentes personales: sin alergias medicamentosas ni hábitos tóxicos. Hipertensión arterial en tratamiento con enalapril 20 mg/dia con buen control. No diabetes ni dislipemia. Sin cardiopatías ni broncopatías. Síndrome ansioso en tratamiento con clorazepato dipotásico 5 mg/12 h. Menarquia a los 12 años. Menopausia a los 52 años. G4A1P3. Lactancia a los 3 hijos.
+
+Exploración física
+ECOG 0. Peso 74 kg. Talla 155 cm. SC 1,73 m2. Buen estado general, bien hidratada y perfundida, consciente, orientada y colaboradora. Cardiorrespiratorio y abdomen sin hallazgos patológicos.
+Miembros inferiores sin edemas ni signos de trombosis venosa. Sin adenopatías supraclaviculares.
+Mama derecha normal. Mama izquierda con nódulo de unos 2 cm en unión de cuadrantes internos.
+Varias adenopatías axilares palpablesde en torno a 2 cm cada una.
+
+Pruebas complementarias
+» Senografía bilateral (22/10/2014): se identifica en región central de cuadrante inferior externo (CIE) de la mama izquierda, dos imágenes nodulares de bordes bien definidos, de densidad media, de aproximadamente 14 y 19 mm. Adyacente a las mimas en situación más profunda se objetiva una densidad seudonodular de 19 mm, con su borde posterior ligeramente espiculado, con acúmulo de microcalcificaciones indeterminadas adyacentes.
+
+» Ecografía bilateral y biopsia (22/10/2014): las imágenes nodulares se corresponden con lesiones quísticas. En profundidad a las mismas, se aprecia nódulo sólido de bordes lobulados, con buena transmisión acústica. Examen axilar izquierdo que pone de manifiesto gruesas adenopatías de morfología redondeada, en número de 4 o 5, una de ellas con diámetro superior de 5 cm. Son claramente patológicas por tamaño y morfología. Se procede a biopsia de aguja gruesa (BAG) de mama izquierda y mayor de las adenopatías
+
+» Anatomía patológica de BAG: carcinoma ductal infiltrante con patrón sólido predominantemente grado histológico 3.
+
+» Inmunohistoquímica (IHQ): receptores hormonales (RH) negativos, Ki-67 40%, HER-2 3+.
+
+» TAC con contraste tórax y abdomen (27/11/2014): nódulo en mama izquierda en relación con carcinoma de mama con múltiples adenopatías axilares homolaterales de aspecto metastásico. Sin signos de afectación a distancia. Colelitiasis.
+
+» Ecocardiografía (28/11/2014): fracción de eyección normal del 70% sin alteraciones segmentarias de la contracción. Cavidades derechas e izquierdas no dilatadas. No derrame pericárdico.
+
+» Analítica (16/12/2014): normal salvo GGT 252 UI/L, resto normal.
+
+» Serología hepática (16/12/2014): compatible con infección pasada de VHB.
+
+Diagnóstico
+Carcinoma ductal infiltrante de mama izquierda de 2 cm, grado 3, estadio IIB (cT2cN1M0). RH negativos, Ki-67 40%, HER-2 positivo.
+
+Tratamiento
+Dada la sobreexpresión HER-2 del tumor, se propone a la paciente participar dentro del ensayo clínico BO28408/TRIO021 KRISTINE.
+
+Este estudio aleatoriza a los pacientes a recibir en un régimen neoadyuvante trastuzumab emtansina (T-DM1) más pertuzumab vs. quimioterapia + trastuzumab + pertuzumab. Tras comprobar cumplimiento de criterios de inclusión y firma del consentimiento informado la paciente se randomiza, correspondiendole el brazo de T-DM1 con pertuzumab.
+
+En diciembre de 2014, inicia, por tanto, tratamiento neoadyuvante con T-DM1 (dosis 3,6 mg/kg) y pertuzumab (dosis de carga de 840 mg, seguido de 420 mg) cada 21 días.
+
+Evolución
+La paciente recibe un total de 6 ciclos de tratamiento, finalizando en abril de 2015. Como efectos adversos al mismo solo refiere astenia grado 1. Tras el tercer ciclo, destaca a la exploración una ausencia de palpación del nódulo mamario y la palpación de una única adenopatía axilar de unos 2 cm.
+
+Dicha adenopatía deja de ser palpable tras el cuarto ciclo, objetivándose, por tanto, una respuesta completa clínica tras el ciclo 4.
+
+Una vez finalizado los 6 ciclos de tratamiento, se deriva a la paciente a la Unidad de Cirugía de Mama para intervención quirúrgica.
+
+El día 25 de abril, la paciente consulta en Urgencias por cuadro de disnea de 2 semanas de evolución, hasta convertirse de reposo en los últimos días. Refiere tos sin expectoración y un pico de febrícula aislada. Acudió a médico de Atención Primaria por dicho motivo, que prescribió antibioterapia, pero ante la escasa mejoría consulta de nuevo. A la exploración destaca taquipnea en reposo, saturación de oxígeno al 82% sin oxigenoterapia y crepitantes en ambos campos pulmonares.
+
+Se realiza radiografía de tórax posteroanterior a su llegada a Urgencias, apreciándose infiltrados pulmonares bilaterales fundamentalmente en lóbulos superiores y nodulaciones mal definidas que podrías estar en contexto con la enfermedad, aunque no se descarta un proceso neumónico actual.
+
+La analítica es normal, incluyendo PCR ligeramente aumentada de 21,5 mg/L y proBNP normal.
+
+Se decide ingreso para estudio y tratatamiento antibiótico y corticoideo intravenoso. Durante su estancia hospitalaria se realizan las siguientes pruebas complementarias:
+
+» Hemocultivos: negativos.
+» Antigenuria para neumococo y legionella: negativa.
+» Cultivo de esputo: células epiteliales.
+» TACAR de tórax: adenopatías axilares izquierdas de aspecto residual. Moderada cardiomegalia con signos de hipertensión precapilar. Infiltrados parcheados no homogéneos, de distribución periférica y difusa en ambos campos pulmonares. Lesiones de aspecto cicatricial en lóbulos superiores y nodulillos periféricos de ocupación de vía aérea distal. Granulomas calcificados en lóbulo medio. Conclusión: Alteraciones compatibles con neumonitis por hipersensibilidad a fármacos. Valorar NOC. TBC residual. No se puede descartar causa infecciosa.
+» Endoscopia respiratoria: ambos árboles bronquiales sin hallazgos patológicos. Se realiza lavado enviando muestras a AP, microbiología y bioquímica.
+» Antígeno galactomanano en LBA: negativo.
+» Citología bronquial: ausencia de células neoplásicas. Células de epitelio respiratorio con cambios reactivos (abundantes macrófagos). Dada la negatividad de los diversos cultivos realizados, así como la ausencia de signos infecciosos, descartamos causa infecciosa como probable origen del cuadro. Asimismo, las pruebas parecían descartar un origen neoplásico del cuadro respiratorio actual. Por tanto, y de manera concordante con las pruebas realizadas, todo parece apuntar a una neumonitis por hipersensibilidad a fármacos, en este caso muy probablemente secundaria al T-DM1.
+
+La paciente recibe corticoterapia iv a dosis de 1 mg/kg/día, experimentando clara mejoría clínica y radiológica, desapareciendo los infiltrados y siendo finalmente alta con reajuste del tratamiento ambulatorio.
+
+En el momento actual, mayo de 2015, la paciente se encuentra asintomática a la espera de cirugía de la mama y axila.

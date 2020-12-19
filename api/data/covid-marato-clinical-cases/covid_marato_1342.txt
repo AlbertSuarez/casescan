@@ -1,0 +1,51 @@
+Anamnesis
+Mujer de 56 años de edad, alérgica al metamizol, sin hábitos tóxicos. Antecedente de taquicardia por reentrada del nodo AV, que se trató con ablación en junio de 2007. En seguimiento por Oftalmología por degeneración macular asociada a la edad (DMAE).
+
+En febrero de 2011 fue diagnosticada de carcinoma de células claras de riñón derecho grado 2 (Fuhrman). Debut con metástasis ósea única en el fémur derecho, consultando por clínica de dolor. Se realizó osteosíntesis profiláctica y posterior radioterapia. El análisis anatomopatológico de la pieza ósea correspondía a carcinoma compatible con origen renal. Inmunohistoquímica: CKAE1-, AE3+, CD10+, mamoglobina negativo, CDX2 negativo, TTF-1 negativo.
+
+En marzo de 2011 se realiza una nefrectomía derecha y se confirma el diagnóstico: carcinoma de células claras grado 2 (Fuhrman) estadio IV, con bordes quirúrgicos libres.
+
+Valorada en Oncología Médica en marzo de 2011, se decide seguimiento por no tener otras lesiones medibles no tratadas. Continuando, además, su seguimiento por parte de Nefrología por presentar creatinina límite en una paciente monorrena.
+
+Libre de progresión hasta diciembre de 2012, en la TC de control se objetiva progresión ganglionar mediastínica, nódulo pulmonar en el lóbulo superior izquierdo (LSI) y nódulo renal izquierdo de 8 mm en probable relación con segunda neoformación renal. Se decide inicio de tratamiento sistémico con inhibidor de la tirosina-cinasa (ITK) de primera línea, pazopanib, con buena tolerancia y respuesta tras 4 meses de tratamiento, presentando mejoría radiológica de las adenopatías mediastínicas y estabilidad en los nódulos en el LSI y el riñon izquierdo.
+
+En septiembre de 2013, tras un intervalo libre de progresión (ILP) de 9 meses, se objetiva en la TC de control progresión ganglionar mediastínica y nueva lesión ósea en el tercio proximal del fémur derecho, que en la gammagrafía ósea muestra captación en la región subtrocantérea.
+
+Ante la progresión ósea, la metástasis lítica y el crecimiento de adenopatías mediastínicas, se decide cambio de tratamiento a segunda línea con everolimus 10 mg, denosumab y calcio con vitamina D.
+
+Presentó toxicidades: mucositis grado 2 y erupción cutánea tras 7 días de tratamiento, por lo que se suspendió everolimus durante una semana y se reinició posteriormente a dosis de 5 mg al día, con buena tolerancia y ascenso a dosis de 10 mg diarios de forma mantenida.
+
+Tres meses después del inicio del tratamiento con everolimus acude a Urgencias por dolor en el hemitórax izquierdo de características pleuríticas, disnea a moderados esfuerzos, fiebre de predominio nocturno y tos con expectoración escasa y blanquecina.
+
+Exploración física
+ECOG 1, normohidratada, consciente, orientada y colaboradora, taquipneica al habla y la deambulación. Saturación de oxígeno basal: 98%. Auscultación: ruidos cardíacos rítmicos, sin soplos ni roces. Murmullo vesicular conservado con crepitantes en la base izquierda. Abdomen blando y depresible, no presenta masas ni megalias palpables, sin dolor a la palpación ni signos de irritación peritoneal. Extremidades con fuerza, tono y sensibilidad conservadas, sin edemas, pulsos distales presentes.
+
+Pruebas complementarias
+» Hemograma: hemoglobina 10,8 g/dL, leucocitos 4.730/ul, plaquetas 190.000/ul.
+» Coagulación: tiempo de protrombina, tiempo de tromboplastina parcial y fibrinógeno dentro de límites normales.
+» Bioquímica: glucosa 86 mg/dl, urea 43 mg/dl, creatinina 1,10 mg/ul, LDH 341 mg/dl, PCR 49, sodio, potasio, cloro y enzimas hepáticas dentro de los límites de la normalidad.
+» Radiografía de tórax anteroposterior: índice cardiotorácico normal, infiltrado en el LII y pinzamiento del seno costofrénico izquierdo no presente en controles radiográficos previos.
+
+Diagnóstico
+La paciente ingresa con diagnóstico de probable neumonía basal izquierda, por lo que se inicia tratamiento antibiótico con imipenem y se suspende el everolimus, con buena evolución clínica. Mejoría de la tos seca y el dolor pleurítico, persistiendo afebril.
+
+En la TC toracoabdominal de control durante el ingreso, diciembre de 2013, se aprecian alteraciones en vidrio deslustrado de predominio peribronquial y perihiliar que afectan a todos los lóbulos pulmonares de forma bilateral, condensación posterobasal en el LII a correlacionar con bronconeumonía o neumonitis por algún tipo de terapia, como primeras opciones diagnósticas.
+
+Ante la buena evolución clínica se decide darle el alta hospitalaria con corticoides orales, prednisona 30 mg en pauta descendente y suspensión del tratamiento con everolimus hasta nueva orden.
+
+Vista en consulta en enero de 2014, 3 semanas después de la retirada del everolimus, la radiografía de tórax de control muestra disminución de la condensación basal izquierda y la paciente permanece asintomática, por lo que se decide continuar con corticoides orales en pauta descendente y reintroducir everolimus con dosis reducida a 5 mg al día.
+
+Acude a consulta en febrero de 2014 para control de la toxicidad, presentando de nuevo sensación de disnea a esfuerzos, no en reposo, tampoco dolor torácico ni tos. Ante el empeoramiento subjetivo tras la reintroducción de everolimus se decide suspender, al menos hasta la próxima dosis de denosumab, y continuar la bajada de prednisona con cita próxima para control.
+
+En marzo de 2014 acude a consulta para control clínico, encontrándose asintomática; niega disnea de esfuerzos u otra clínica respiratoria, ha reiniciado la actividad física, por lo que se decide no reiniciar everolimus por toxicidad pulmonar y actualizar la TC de control previa al inicio de la tercera línea. Se prescribe sexta dosis de denosumab con calcio y vitamina D.
+
+En la TC toracoabdominopélvica de marzo de 2014 se observa importante mejoría de las áreas en vidrio deslustrado bilaterales. Sin variaciones significativas de las adenopatías mediastínicas y el nódulo de 8 mm en el LSI respecto a estudios previos.
+
+Ante la ausencia de progresión radiológica, y dada la toxicidad registrada con everolimus, se decide control estrecho sin tratamiento con ITK, valorando en un futuro el comienzo del tratamiento de tercera línea si la enfermedad progresara.
+Siguiendo los controles, la paciente se mantuvo sin progresión y asintomática en ausencia de terapia dirigida hasta marzo de 2015, cuando en la TC de control se objetivó aumento de tamaño de los nódulos pulmonares en el LSI.
+
+Tratamiento
+Véase el apartado Diagnóstico.
+
+Evolución
+Véase el apartado Diagnóstico.

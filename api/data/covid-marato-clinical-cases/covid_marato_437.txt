@@ -1,0 +1,23 @@
+Anamnesis
+Paciente de 71 años sin alergias medicamentosas, antecedentes personales de enfermedad pulmonar obstructiva crónica tipo enfisematoso, neumotórax izquierdo en 1994 secundario a ruptura de bullas que precisó pleurodesis, adenoma de próstata E hipertensión arterial en tratamiento con betabloqueantes. El comienzo clínico se inicia en mayo de 2009al desarrollar un cuadro de disnea a moderados esfuerzos de 48 horas y esputos hemoptoicos.
+
+Exploración física
+Se aprecia una disminución del murmullo vesicular en el lóbulo superior derecho, con roncus aislados asociados; no se palpan adenopatías ni megalias. Resto de la exploración dentro de la normalidad.
+
+Pruebas complementarias
+» Se solicita un estudio inicial con radiografía de tórax, donde se evidencia una masa paratraqueal derecha.
+» En la tomografía computarizada (TC) de mayo de 2009 se visualiza una tumoración pulmonar en el lóbulo superior derecho (LSD) de 88 mm con infiltración mediastínica, de la arteria pulmonar del lóbulo superior y una adenopatía mediastínica en situación anterior al bronquio principal derecho de 20 mm, confirmado por tomografía de emisión de positrones (PET).
+» Se completa el estudio con una biopsia con aguja fina, con resultado anatomopatológico de adenocarcinoma de pulmón,EGFR no mutado.
+
+Diagnóstico
+El caso es discutido en comité multidisciplinar de patología pulmonar, y con el juicio clínico de adenocarcinoma de pulmón cT4 N2 M0, estadio IIIB, se decide radioterapia (RT) concomitante con quimioterapia con intención neoadyuvante, para valorar posteriormente la posibilidad quirúrgica.
+
+Tratamiento
+Se realiza preplanificación pero el volumen 20 de 43%, el patrón de enfisema centrolobulillar bilateral, así como la pérdida de volumen del hemitórax izquierdo con retracción mediastínica desaconsejan el inicio de RT. El paciente inicia quimioterapia de inducción con carboplatino-gemcitabina, siendo evaluado tras tres ciclos en julio de 2009 en respuesta parcial radiológica pulmonar y ganglionar. La lesión en el lóbulo superior derecho ha disminuido de 88 a 47 mm y la adenopatía mediastínica derecha ha disminuido de 20 a 14 mm.
+
+El caso es replanteado en comité de tumores y se desestima tratamiento quirúrgico por evidenciarse en la gammagrafía de difusión pulmonar una distribución heterogénea con función pulmonar derecha del 41%e izquierda del 59%. Se repite la preplanificación, siendo el V20de 28%, y se decide quimioterapiaen régimen semanal con carboplatino-paclitaxel concomitante con radioterapia utilizando cinco campos de fotones de 6 Mev conformados con colimador a razón de 2 Gy/día, 5 días a la semana hasta 60 Gy sobre la lesión pulmonar y mediastínica. La tolerancia fue buena, con esofagitis grado 2 y dermitis grado 1. Tras finalizar el tratamiento en octubre de 2009 presenta una respuesta parcial radiológica, con una disminución de 47 a 35 mm de la lesión en el lóbulo pulmonar derecho y de 14 a 9 mm de la adenopatía mediastínica derecha.
+
+Evolución
+Tras un intervalo libre de progresión de 30 meses, se objetiva en la TC de control de abril de 2012 un nódulo pulmonar en el LSD de 11 mm. El caso es comentado de nuevo en el seno del comité multidisciplinar, y se considera que es abordable mediante termoablación por radiofrecuencia pulmonar con electrodo de Le Veen con apertura máxima de 25 mm, objetivando tras la realización de la misma una remisión.
+
+Tras un segundo intervalo libre de progresión de 8 meses, en diciembre de 2012se evidencia progresión en la pared anterior del nódulo previamente tratado con radiofrecuencia, que presenta un diámetro máximo de 16 mm. Se presenta el caso en comité de tumores y se propone una segunda termoablación del nódulo en el LSDsobre el área de cavitacióncon electrodo de Le Veen con apertura máxima de 30 mm de diámetro en dos sesiones mediante retirada progresiva del electrodo, produciéndose un neumotórax, que es drenado. En marzo de 2014, un año y tres meses tras el procedimiento, se lleva a cabo un control radiológico mediante TC torácica con contraste que no evidencia signos de progresión. El paciente fue diagnosticado de una leucemia mieloblástica aguda asociada a una neumonía bilateral por Candida krusei e insuficiencia respiratoria global, siendo exitus el 2/4/2015.

@@ -1,0 +1,31 @@
+Anamnesis
+Se trata de un varón de 66 años natural de España. Como antecedentes médicos relevantes presenta: hipertensión arterial, diabetes mellitus tipo 2, infarto cerebral agudo isquémico en territorio cortical parietotemporal de rama posterior de arteria cerebral media derecha con hemiparesia residual, epilepsia residual, síndrome de apnea-hipoapnea del sueño grave por poligrafía (IAH 43).
+Tratamiento habitual: oxígeno domiciliario mediante gafas nasales a 1,5 lpm durante las 24 horas al día incluyendo siesta y noche, concentrador portátil de flujo continuo para caminar; valsartán 80 mg en desayuno, higrotona 50 mg en desayuno, lorazepam 1 mg en la cena, ácido acetilsalicílico (AAS) 300 mg en la comida, omeprazol 20 mg en el desayuno, atorvastatina 80 mg en la cena, paracetamol 1g a demanda, magnesio desayuno comida y cena, levetiracetam 500 mg desayuno comida y cena, bromuro de ipratropio dos inhalaciones con las comidas, salbutamol 100 mcg a demanda, sertralina 50 mg en desayuno, metamizol 575 mg desayuno y cena, leucovorina 5 mg en el desayuno, cianocobalamina B12 cada 15 días, pregabalina 75 mg en la cena.
+
+Historia oncológica
+Nuestro paciente inicia con un cuadro de tos seca de 3 meses de evolución que se acompaña de dolor torácico de características pleuríticas, astenia y pérdida de peso (10 kg en tres meses). Se realiza una TC toracoabdominal (TAC) en la que nos informan de una masa pulmonar derecha que afecta la mayor parte de lóbulo superior derecho (LSD) con adenopatías en mediastino y múltiples nódulos metastásicos en ambos pulmones, además de moderado derrame pleural derecho. No se evidencia diseminación en otros lugares. Se toma muestra por biopsia radioguiada con diagnóstico de adenocarcinoma, EGFR wild type. ALK negativo. PD-L1 1-49 %. Por ello, el paciente tiene un adenocarcinoma de pulmón estadio IVA.
+Tratamiento oncológico
+Inicia el 6/9/2017 tratamiento oncológico paliativo con el esquema carbo + pemetrexed recibiendo 6 ciclos hasta el 19/12/2017. Toxicidad; astenia G2. Respuesta parcial tras 3 ciclos. Tras 6 ciclos, presenta progresión con aumento del derrame pleural derecho y aparición de pequeña lengüeta de derrame pleural izquierdo con discreto crecimiento de algunos de los nódulos parenquimatosos bilaterales. Se decide iniciar el 16/1/2018 tratamiento oncológico paliativo con el esquema nivolumab.
+Enfermedad
+El paciente acude al hospital de día para valorar administración de 2º ciclo de nivolumab, presentando disnea de mínimos esfuerzos y desaturación hasta 84 %. Refiere que había presentado artralgias generalizadas grado I y sensación diatérmica. También había tenido aumento de la mucosidad con expectoración de esputos verdosos y más tos de la habitual. Dolor en epigastrio que se agudiza con la inspiración profunda.
+
+Exploración física
+A su llegada a consultas presenta ECOG: 2. Saturación de oxígeno a 93 % con oxígeno en gafas nasales a 3 l. Saturación de oxígeno a 84 % basal. Consciente y orientado en las tres esferas.
+Frecuencia cardiaca a 100 lpm. Auscultación pulmonar con hipoventilación bilateral de predominio en pulmón derecho, leves crepitantes inspiratorios bibasales. Auscultación cardiaca rítmica, sin soplos. Sin edemas en miembros inferiores.
+
+Pruebas complementarias
+Como estudio inicial se hace una placa de tórax en la que se observa aumento de densidad en base derecha y en la región periférica de 2/3 inferiores hemitórax izquierdo, además de pinzamiento de senos costofrénicos. En la analítica llama la atención la presencia de 22.000 leucocitos con 7.000 neutrófilos y la proteína C reactiva de 34.
+Tras completar ciclo de antibioterapia el paciente no presenta mejoría por lo que se realiza TC (05/02/2018): se compara con la previa (4/1/2018) y se observa un empeoramiento radiológico con progresión: aumento del derrame pleural bilateral; aumento de tamaño de los nódulos/consolidaciones parenquimatosas bilaterales compatibles con metástasis. Empeoramiento del engrosamiento setal de los lobulillos bilateral sugestivo de linfangitis carcinomatosa. Crecimiento de la masa sólida en LSD con componente necrótico y mínimo aumento de algunas de las adenopatías mediastínicas. El resto del estudio sin cambios, sin diseminación a distancia.
+
+Diagnóstico
+Adenocarcinoma de origen pulmonar estadio IVA. EGFR wild type. ALK negativo. PD-L1 1-49 %. Tratamiento paliativo (carbo + pemetrexed). RP tras 3 ciclos. PE tras 6 ciclos. Nivolumab (inicio 16/01/2018).
+Diagnóstico del proceso actual
+Progresión tumoral pulmonar, con criterios de progresión RECIST, sin llegar a cumplir criterios de hiperprogresión por IRRECIST.
+
+Tratamiento
+Varón con los antecedentes descritos que ingresa desde hospital de día por deterioro respiratorio con incremento de disnea, desaturación y más tos con expectoración verdosa; leucocitosis con neutrofilia. Se inicia tratamiento con antibioterapia empírica con ceftriaxona endovenosa, con ligera mejoría progresiva del cuadro respiratorio. Ante la lenta evolución se decide realizar TC en la que presenta importante progresión tumoral a nivel pulmonar respecto a la TC previa.
+Nos encontramos ante la disyuntiva de mantener o no el tratamiento con nivolumab. Por un lado, no cumple criterios radiológicos de hiperprogresión, ya que la lesión no es medible. También podríamos considerarlo únicamente progresión y dar la posibilidad de que se trate de una pseudoprogresión y, por tanto, mantener el tratamiento y repetir la TC en un mes. Pero el paciente presenta un importante deterioro del estado clínico, sumado a que la evaluación radiológica es limitada, ya que tanto la linfangitis como las lesiones pleurales son difícilmente evaluables, pero en líneas generales se observa un empeoramiento importante; si se pudiera medir probablemente sería de un 50 %. Teniendo en cuenta todos estos datos, optamos por suspender inmunoterapia e iniciar tratamiento con docetaxel.
+Intentamos dar la opción de la quimioterapia en ese momento en el que todavía puede tolerarla.
+
+Evolución
+Comienza tratamiento el 7-2-2018 con el esquema docetaxel 75 del que recibió dos ciclos hasta el 1-3-2018. Tras segundo ciclo, presenta infección respiratoria con importante deterioro del estado general y reagudización de la insuficiencia respiratoria crónica. Fallece el 7/4/2018.

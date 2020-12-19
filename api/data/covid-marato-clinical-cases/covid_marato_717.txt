@@ -1,0 +1,25 @@
+Anamnesis
+Varón 70 años con antecedentes medicoquirúrgicos de HTA, miastenia gravis , anemia por déficit de vitamina B12, polipectomía nasal y faquectomía.
+En febrero de 2016, precisó ingreso hospitalario para estudio de síndrome constitucional y alteración del ritmo deposicional.
+
+Exploración física
+Consciente, orientado, normocoloreado y normohidratado. Eupneico. ECOG 0. Destacaba en la exploración abdominal distensión difusa con palpación de masa epigástrica. El resto de la exploración anodina.
+
+Pruebas complementarias
+» Fibrocolonoscopia: lesión exocítica, infiltrativa en colon transverso que no permitía el paso del endoscopio. Anatomía Patológica: adenocarcinoma de colon de patrón clásico.
+» TC abdominal: neoplasia primaria de colon transverso con signos de invasión locorregional. Lesión ocupante de espacio en segmento VIII hepático subdiafragmático sin poder descartar naturaleza proliferativa metastásica.
+» Marcadores tumorales: CEA: 8,29.
+
+Diagnóstico
+Adenocarcinoma de colon pT3pN1aM1 (IV).
+
+Tratamiento
+Tras presentar el caso en el Comité de Tumores Digestivos se decidió intervención quirúrgica que se realizó en marzo de 2016, evidenciando tumoración en colon transverso, estenosante junto con lesión sincrónica en ángulo esplénico y metástasis hepáticas bilobares. Se practicó colectomía derecha laparoscópica. El informe anatomopatológico confirmaba el diagnóstico de adenocarcinoma de colon sincrónico G2 y áreas focales G3 con infiltración linfovascular y perineural, sin afectación de bordes quirúrgicos, RAS mutado. De los 19 ganglios disecados, uno presentaba afectación tumoral sin desbordamiento capsular (+1/19). En TC posterior se objetivaron múltiples nódulos inferiores a 14 mm de diámetro que afectaban a ambos lóbulos hepáticos, compatibles con metástasis hepáticas irresecables. CEA postquirúrgico 11,94. El paciente fue remitido para valoración de tratamiento sistémico, presentaba buen estado general y ECOG 0.
+Inició tratamiento dentro del Ensayo Clínico MODUL MO29112, recibiendo 8 ciclos de quimioterapia de inducción con esquema FOLFOX + bevacizumab de mayo a agosto de 2016.
+Presentó como toxicidad secundaria al tratamiento: neurotoxicidad G1, HTA G1 y toxicidad hematológica (anemia G1, neutropenia G2 y trombopenia G1).
+En agosto de 2016, se realizó TC objetivándose respuesta parcial con disminución del volumen de las metástasis hepáticas. Cumplía criterios de inclusión para tratamiento de mantenimiento y tras aleatorización inició QT con 5-FU + bevacizumab + atezolizumab de septiembre a octubre de 2016 recibiendo 4 ciclos.
+Como toxicidad destacaba neurotoxicidad G2 residual, anemia G1 y neutropenia G3 afebril.
+
+Evolución
+En octubre de 2016 se realizó TC, objetivándose adenopatías mediastínicas de nueva aparición con estabilidad de la enfermedad hepática. Ante dichos hallazgos, se solicitó PET-TC que confirmó la progresión mediastínica según criterios RECIST 1.1 y RECIST modificados por lo que el paciente fue excluido del ensayo clínico.
+Sin embargo, ante la sospecha de pseudoprogresión y el beneficio clínico obtenido se decidió continuar tratamiento con 5-FU-bevacizumab que mantiene hasta el momento actual, habiendo recibido un total de 22 ciclos, consiguiendo respuesta completa mantenida por PET/TC y manteniéndose asintomático. Actualmente se encuentra en seguimiento.

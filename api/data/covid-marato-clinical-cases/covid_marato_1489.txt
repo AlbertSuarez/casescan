@@ -1,0 +1,30 @@
+Anamnesis
+Paciente de 55 años con dislipemia y SAHS en tratamiento con CPAP desde 1998.
+En julio de 2013, se observa lesión redondeada, de 6 mm, oscura y de bordes regulares. Se realiza exéresis en el Centro de Salud con técnica de rombo el 19/7/2013 con diagnóstico de melanoma nodular con índice de Breslow de 1,4 mm, nivel de Clarck III, sin ulceración ni regresión ni invasión vascular, ni perineural, con ligera infiltración linfocitaria intratumoral y bordes quirúrgicos a <1 mm. Posteriormente, se realiza ampliación de márgenes sin afectación tumoral y biopsia de ganglio centinela inguinal derecha con 2 ganglios negativos para la enfermedad.
+
+Examen físico
+ECOG 0; cicatriz quirúrgica en región lumbar derecha con buen aspecto.
+
+Pruebas complementarias
+- Analítica: normal.
+- ECG: ritmo sinusal a 65 latidos por minuto, sin alteraciones en la repolarización.
+- TC corporal (28/8/2013): colección en tejido celular subcutáneo adyacente a cresta iliaca derecha en probable relación con seroma o hematoma, sin observarse enfermedad a distancia.
+
+Diagnóstico
+Melanoma nodular en región lumbar derecha (pT2 pN0[0/2]M0).
+
+Tratamiento
+El paciente no precisó tratamiento adyuvante y siguió revisiones por parte de Cirugía Plástica y Dermatología. En el primer control de diciembre de 2013, no se objetiva evidencia de enfermedad.
+
+Evolución
+En marzo de 2014 ingresa en Medicina Interna por clínica de dolor lumbar y en muslos de una semana de evolución, asociado a pérdida de peso en el último mes no cuantificada.
+Sin hallazgos a destacar en la exploración física. Se inicia estudio. En analítica se objetiva leucocitosis con desviación izquierda, alteración en las pruebas de función hepática y elevación de la lactato deshidrogenasa.
+Se realizó TC de columna lumbar con rectificación de lordosis fisiológica lumbar con protusiones discales mediales L4-L5 y L5-S1, sin carácter compresivo radicular, y TC corporal donde se objetivan múltiples imagenes nodulares milimétricas en ambos pulmones, múltiples metástasis en ambos lóbulos hepáticos, pequeñas adenopatias en mesenterio, en hilio hepático, ligamento gastroduodenal y retroperitoneales de hasta 2,7 cm, masa suprarrenal izquierda de 4,5 cm.
+Con esos hallazgos se instaura analgesia con opioides menores con mejoría progresiva del dolor. El 18/3/2014 acude a nuestra consulta, estando aún ingresado. Ante la estabilidad del paciente y la evolución del caso se decide realizar biopsia hepática para confirmación histológica de las metástasis y se solicita BRAF en el tumor primario, que es negativo.
+El 19/4/2014 es dado de alta con antibioterapia por posible ITU (hematuria macroscópica, nitritos positivos y febrícula).
+A las 72 horas reingresa por deterioro progresivo con malestar, encamamiento, hiporexia y astenia. Además, tendencia al sueño, episodios de desorientación ocasional y persistencia de hematuria.
+En el examen físico destacaba hipotensión, ictericia, flapping y hepatomegalia dolorosa.
+En la analítica se objetiva pancitopenia, insuficiencia renal, hiponatremia, hiperpotasemia, deterioro de las pruebas de función hepática y elevación de los reactantes de fase aguda.
+Se instaura sueroterapia, reposición hidroelectrolítica, sondaje urinario, antibioterapia empírica con cobertura de foco urinario, además de añadirse vitamina K. A pesar de las medidas instauradas, persiste hipoglucemia, hiponatremia, hiperpotasemia e hipotensión refractaria. Ante la posibilidad de estar ante una insuficiencia suprarrenal, se añaden corticoides y se solicita cortisol.
+De forma súbita comienza con disnea y taquipnea. Se realiza angio-TC, en la que descarta la presencia de tromboembolismo pulmonar y se describe afectación ganglionar múltiple mediastínica y parahiliar bilateral con datos de linfangitis carcinomatosa y derrame pleural bilateral de mínima cuantía. Se añaden diuréticos, oxigenoterapia y morfina, pero, a pesar de las medidas instauradas, el paciente fallece el 24/3/2014. Se solicita necropsia, que la familia concede.
+Los hallazgos en la necropsia describen fallecimiento por fracaso multiorgánico secundario a progresión de la enfermedad; se objetivaron metástasis por melanoma maligno en cerebro, corazón, pulmones, tiroides, esófago, estómago, intestino delgado y grueso, epiplon, hígado, páncreas, riñones, suprarrenales e infiltración de médula ósea.

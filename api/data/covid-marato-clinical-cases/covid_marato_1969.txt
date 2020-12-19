@@ -1,0 +1,33 @@
+Anamnesis
+Paciente de 41 años. Antecedentes personales: alérgica a metamizol. Premenopaúsica. Sin antecedentes médico-quirúrgicos de interés.
+En septiembre de 2007, a la edad de 35 años, consulta por tumoración dolorosa en EII de 4-5 meses de evolución.
+
+Examen físico
+Consciente y orientada. Normocoloreada y normohidratada. Eupneica en reposo. Sin adenopatías palpables.
+Auscultación cardíaca y pulmonar sin alteraciones. Tumoración palpable en glúteo izquierdo, dolorosa, adherida a planos profundos, de 5 x 5 cm, aproximadamente.
+
+Pruebas complementarias
+Resonancia magnética (RM) de la cadera: lesión encapsulada y tabicada de 60 x 63 x 85 mm en glúteo mayor izquierdo.
+Tomografía computarizada toracoabdominal (TC TA): tumor glúteo de unos 10 cm heterogéneo, pequeños ganglios inguinales bilaterales, micronódulo pulmonar periférico subpleural en lóbulo superior derecho (LSD), lesión sólida hipervascular ovoidea en el lóbulo hepático derecho (LHD) de aspecto benigno.
+Biopsia: sarcoma en el glúteo izquierdo pleomorfo de alto índice proliferativo (Ki67 50 %). IHQ: vimentina +, CD34+, panqueratina AE1/AE3-, desmina-, actina músculo liso-, S100-, CD 31-. Histomorfología compatible con fibrohistiocitoma maligno pleomórfico.
+
+Diagnóstico
+Sarcoma en el glúteo izquierdo pleomorfo de alto índice proliferativo(Ki67 50%). Inmunohistoquímica (IHQ): vimentina+, CD34+, panqueratina AE1/AE3-, desmina-, actina músculo liso-, S100- CD 31-. Histomorfología compatible con fibrohistiocitoma maligno pleomórfico.
+
+Tratamiento
+Octubre de 2007: resección marginal de la lesión con confirmación anatomo-patológica de fibrohistiocitoma maligno pleomórfico. Posteriormente se administra tratamiento adyuvante con quimioterapia (4 ciclos de esquema ifosfamida-doxorrubicina) y radioterapia secuencial. Tras finalizar tratamiento se deriva a consultas externas para seguimiento.
+
+Evolución
+En diciembre de 2008, presenta progresión a nivel pulmonar, y tras ser valorada en el Comité de Tumores de Tórax se decide rescate quirúrgico, por lo que en enero de 2009 se realiza resección de 5 nódulos pulmonares mediante toracotomía posterior derecha, siendo la anatomía patológica positiva para metástasis de fibrohistiocitoma en dos de ellos. Los bordes quirúrgicos están libres. No recibe tratamiento adyuvante posterior.
+Estando la paciente asintomática, en abril de 2010 se detecta en TC TA de revisión una colección líquida en el glúteo izquierdo, por lo que se solicita tomografía por emisión de positrones (PET-TC) para filiar la lesión. En la PET-TC se identifica una única lesión axilar derecha con SUV (2,52) sugestiva de malignidad, sin captación a otro nivel (incluyendo la colección glútea).
+Se completa estudio con mamografía/ecografía mamaria y biopsia aguja gruesa (BAG), con diagnóstico de carcinoma ductal infiltrante (CDI) de mama derecha G2SB 7 RE+++ RP+++ Herceptest++(FISH no amplificado) Ki67 70 %.
+En junio de 2010 se realiza cirugía conservadora más BSGC, con diagnóstico definitivo de CDI de mama derecha bifocal pT1c(15 y 9mm)pN0(0/2 sn y 0/1 no sn) con perfil IHQ idéntico a BAG.
+Tras comentar caso en sesión oncológica, se decide tratamiento conquimioterapia (QT) adyuvante con taxotere-ciclofosfamida, administrando 5 ciclos cada 3 semanas (no se administró el sexto por mala tolerancia), radioterapia local y hormonoterapia con tamoxifeno por 5 años.
+En septiembre de 2011, estando en tratamiento con tamoxifeno adyuvante, se detectan en mamografía de control microcalcificaciones en intercuadrantes inferiores de mama izquierda, siendo BAV compatible con carcinoma intraductal de alto grado. En RM mamaria se aprecia mama izquierda con 2 lesiones de 15 y 37 mm y adenopatías izquierdas sospechosas, con punción aspiración aguja fina (PAAF) axilar compatible con CDI G2 SB 6 RH- Herceptest +++, Ki67 50 %.
+Se decide realizar QT neoadyuvante con doxorrubicina liposomal más paclitaxel más trastuzumab (x 4 ciclos), con respuesta clínica y radiológica completa.
+Se envía a la Unidad de Consejo genético tras el diagnóstico del segundo tumor primario de mama.
+En febrero de 2012 se realiza mastectomía radical modificada más vaciamiento axilar, con respuesta regional tipo D.
+Clasificación ypTNM: ypTisypN0(0/14).
+Posteriormente completa un año de Herceptin adyuvante hasta octubre 2012.
+En julio 2013 es diagnosticada de Síndrome de Li-Fraumeni.
+Actualmente en tratamiento con Tamoxifeno (1º tumor mama hormonosensible). En última revisión del 23 de mayo 2013, sin evidencia de enfermedad neoplásica.

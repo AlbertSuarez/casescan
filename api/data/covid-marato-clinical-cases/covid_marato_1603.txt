@@ -1,0 +1,26 @@
+Anamnesis
+Mujer de 65 años, alérgica a las pirazolonas. Fumadora de seis cigarrillos al día desde la adolescencia. Sin otros antecedentes de interés, no tratamiento habitual. Acude al servicio de urgencias por presentar cuadro de malestar general. Refiere nauseas y vómitos de una semana de evolución que han ido progresivamente empeorando. Cuenta cierta inestabilidad con la deambulación. Además últimamente tiene dificultad para conciliar el sueño.
+
+Exploración física
+Ta 141/83 mmHg FC: 68 lpm Afebril Glu: 120. Aceptable estado general, consciente y orientada en las tres esferas, atenta, alerta, colaboradora. Bien hidratada, nutrida y perfundida. Eupneíca, sin trabajo respiratorio, tolera el decúbito. Auscultación pulmonar con murmullo vesicular conservado.
+Auscultación cardiaca rítmica, sin soplos. Abdomen blando, no doloroso, no se palpan masas ni megalias. No edemas en miembros inferiores. Pulsos pedíos presentes y simétricos. Exploración neurológica sin alteraciones salvo leve inestabilidad con la marcha en tándem.
+
+Pruebas complementarias
+- Analítica en urgencias: Hemograma sin alteraciones. Sodio 115.00 mmol/l, Potasio 5.30 mmol/L, Osmolalidad en plasma:237 mosm/kg.
+- Orina: Sodio: 81.00 mmol/L; Potasio: 38.00 mmol/L; Cloruro: 144.00 mmol/l; Creatinina: 103.67mg/dl; Osmolalidad: 636 mOsm/kg.
+- Rx de tórax: no alteraciones de partes blandas ni de marco óseo, signos de hiperinsuflación pulmonar, elongación aórtica, dudoso aumento de los hilios pulmonares.
+- Analítica: T.S.H. 3.24 μU/ml Cortisol 21.4 μg/dl, Ac. Antitiroideos-TG 19.90 UI/ml, Ac. Antimicrosomales-TPO < 28.00 UI/ml.
+-TAC torácico sin y TAC torácico y de abdomen: En el LSD, adyacente a la cisura mayor, se identifica un nódulo de aproximadamente 1.9 x 1.5 cm. Adenopatía paratraqueal derecha de 17 mm e hiliares ipsilaterales (que forman un conglomerado de 3.6 x 2.8 cm), con centro hipodenso (probablemente por necrosis) y borde hipercaptante. Abdomen sin hallazgos patológicos.
+- Broncoscopia: El bronquio del LSD presenta desde su comienzo en su parte basal, infiltración mucosa vascularizada de aspecto tumoral con sangrado espontaneo, existiendo un colapso de sus bronquios segmentarios que impide su exploración.
+- Anatomía patológica (LSD): carcinoma de células pequeñas. TTF1: positivo cromogranina:positivo asiladas, CK7:positivo, CD45:negativo, ki67:positivo >90%. alto índice proliferativo.
+- Tac craneal: No se observan lesiones sugerentes de depósitos patológicos.
+
+Diagnóstico
+Carcinoma microcítico de pulmón, con afectación localizada al tórax. SIADH paraneoplásico.
+Hiponatremia severa mantenida.
+
+Tratamiento
+La paciente presentaba hiponatremia severa mantenida (sodio:118-120 mmol/l) pero levemente sintomática, dándonos margen para intentar medidas clásicas por lo que se comenzó con restricción hídrica, suplementos de Na en dieta y reposición con sueros hipertónicos. A pesar de estas medidas iniciales, sólo mejoró ligeramente la hiponatremia y dado que se trataba de un carcinoma microcítico de pulmón, se decidió iniciar tratamiento con cisplatino + etopósido. Tras la admistración del mismo recupera al día siguiente hasta 130 mmol/l manteniéndolo durante los tres días que dura el tratamiento quimioterápico estable. Posteriormente, a pesar de mantener sueroterapia inicia descenso llegando otra vez hasta 117 mmol/l, por lo que se decide inicio de tratamiento con tolvaptan, siendo la primera experiencia en el hospital con el fármaco. La paciente en ese momento, se encuentra en tratamiento con fluconazol por candidiasis, con mejoría parcialde la misma por lo que suspendimos el fármaco. Se esperó 24 horas y se inició tratamiento con tolvaptan 15 mg. Se realizó una analítica a las seis horas del tratamiento donde se objetivó un valor de 133 mmol/l y de 135 a las doce horas, a las 24 horas se mantuvo en 135mmol/l.
+
+Evolución
+Se inicia pauta de tolvaptán en función monitorizando la analítica diariamente. Tras varias determinaciones analíticas se establece una pauta de cada 48 horas. Se da de alta a la paciente el 6/11/2016( Na:136). Se cita en hospital de día en 48 horas de cara a realizar una analítica y seguir monitorizando los niveles de sodio. Se mantienen visitas cada tres cuatro días del 10 al 23 del noviembre /2016 observándose una estabilización del sodio con la administración de tolvaptán 15 mg cada 48 horas con cifras entorno 130-135 mmol/l. El 23/11/2016 recibe segundo ciclo de tratamiento y empieza radioterapia concomitante, previamente se había realizado pet/tac descartándose afectación a distancia. El 15/12/2016 presenta Sodio:146 mmol/l por lo que se decide distanciar la administración de tolvaptán a cada 72 horas. Se mantiene con dicha pauta y con controles analíticos cada 21 días hasta el 12/1/2016, donde se decide definitivamente suspender el tratamiento. Recibe la radioterapia coincidiendo con el segundo y tercer ciclo, acabando el 15/1/2016. Completa seis ciclos de tratamiento con cisplatino etopósido el 15/3/2016. Posteriormente recibió radioterapia holocraneal profiláctica con excelente tolerancia. Actualmente se encuentra en seguimiento sin alteraciones iónicas en las últimas revisiones.

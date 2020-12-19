@@ -1,0 +1,59 @@
+Anamnesis
+Varón de 73 años de edad derivado de la consulta de Urología. Actualmente jubilado, había trabajado previamente como administrativo.
+Sin alergias medicamentosas conocidas. En su historial de hábitos tóxicos figura ingesta diaria de OH en cantidad moderada, pero con historia previa de consumo más acusado. Nunca había sido fumador. Posee, así mismo, antecedentes de hipertensión arterial que requirió el uso en el pasado de tratamiento farmacológico, actualmente suspendido por buen control de las cifras tensión arterial.
+Hipercolesterolemia e hipertrigliceridemia sin tratamiento dietético ni farmacológico. Además, dos episodios previos de diverticulitis aguda que fueron manejados de manera conservadora con buena evolución clínica; y hernia de hiato en tratamiento con inhibidores de la bomba de protones.
+Está intervenido quirúrgicamente de hernia inguinal y colecistectomizado a la edad de 14 años. No tiene otros antecedentes médico-quirúrgicos de interés.
+Un único antecedente familiar de enfermedad neoplásica conocida en su familia; su padre fue diagnosticado de neoplasia de próstata con edad de diagnóstico desconocida, nunca recibió tratamiento y falleció a la edad de 91 años de causas ajenas a su enfermad neoplásica.
+
+Tratamiento habitual
+Medicación analgésica con morfina de liberación retardada junto con coadyuvantes (gabapentina y duloxetina). Toma laxantes e inhibidores de la bomba de protones a demanda.
+En tratamiento con suplementos de carbonato cálcico y vitamina D.
+
+Historia oncológica
+Diagnosticado en octubre de 2008 de carcinoma de próstata (Gleason 3 + 5 bilateral), a la edad de 62 años, a través de su médico de Atención Primaria por hallazgo casual en la analítica rutinaria con elevación del PSA. Con tacto rectal normal se realiza biopsia de próstata que confirma el diagnóstico.
+En noviembre de 2008, es intervenido quirúrgicamente mediante prostatectomía radical sin linfadenectomía. Se trataba de un adenocarcinoma clásico PT3a con bordes afectos tras cirugía.
+Tratado posteriormente con radioterapia y bicalutamida.
+Prosigue controles posteriores en la consulta de Urología, desde 2013 se aprecia elevación progresiva del PSA iniciándose en 2015 terapia de deprivación androgénica y permaneciendo en situación de progresión bioquímica y MO hasta julio de 2016.
+En julio de 2016, se evidencia en pruebas de imagen complementarias (gammagrafía ósea) la existencia de múltiples focos de captación en esternón, costillas, escápula y articulación sacroiliaca izquierda que orientan hacia la aparición de metástasis óseas. Inicia en este momento (julio 2016) tratamiento con enzalutamida y de manera simultánea tratamiento con ácido zoledrónico y calcio oral alcanzando nadir de PSA en enero de 2017 (1,57 ng/ml).
+En septiembre de 2017, tras 14 meses de tratamiento con enzalutamida (PSA 47,51ng/ml), nos encontramos ante situación de progresión ósea tanto gammagráfica como clínica, dolor moderado EVA 2.
+Tras suspensión de la enzalutamida, recibe 6 dosis de radio 223 de manera mensual sin buena respuesta al tratamiento.
+En junio 2018, nueva progresión gammagráfica y metástasis ganglionares de nueva aparición en imágenes de la TC. Se trataba de adenopatías retroperitoneales de gran tamaño no presentes en controles previos que estaban generando una ureterohidronefrosis derecha por atrapamiento del tercio distal del uréter debido a la compresión de una adenopatía patológica.
+En estos momentos y tras la realización de una derivación urinaria de la vía derecha, se remite al paciente al servicio de Oncología Médica para su valoración.
+
+Exploración física
+» ECOG 0.
+» Auscultación cardiaca: rítmica sin soplos.
+» Auscultación pulmonar: murmullo vesicular conservado. Sin ruidos patológicos sobreañadidos.
+» Exploración abdominal: blando depresible no doloroso a la palpación. No se palpan masas ni visceromegalias.
+Extremidades inferiores: sin edemas ni datos de TVP.
+» Tacto rectal: próstata de tamaño normal, no indurada.
+
+Pruebas complementarias
+[Descritas en evolución.]
+
+Diagnóstico
+» Adenocarcinoma de próstata estadio IV resistente a la castración.
+» Metástasis óseas, viscerales (esplénicas y pulmonares) y en nervio óptico izquierdo.
+
+Tratamiento
+»Radioterapia.
+Antiandrógenos de última generación.
+Radiofármacos.
+Quimioterapia (docetaxel + cabazitaxel).
+
+Evolución
+En consultas externas de Oncología Médica se solicita nuevo estudio de extensión (agosto de 2018) previo inicio de tratamiento quimioterápico, en el cual se observa progresión de la enfermedad tanto a nivel óseo como ganglionar, ambas extensiones ya conocidas junto con aparición de nuevas lesiones a nivel visceral. Extensión visceral con metástasis pulmonares y posible linfangitis carcinomatosa, así como la aparición de lesiones esplénicas sugestivas de nuevas metástasis.
+En este momento de extensión de enfermedad y evidente resistencia a la castración, se plantea una primera línea de quimioterapia paliativa según esquema el docetaxel-prednisona (10 mg/día) y se cita al paciente en consulta con TC de reevaluación tras tratamiento, PSA actual 556 ng/dl.
+Recibe un total de 8 ciclos de docetaxel-prednisona hasta enero de 2019 con disminución progresiva del PSA hasta valores de 17,10 ng/dl en enero de 2019. Excelente tolerancia al tratamiento.
+Tras el 6º ciclo en control radiológico, enfermedad estable a nivel óseo, respuesta completa a nivel ganglionar y lesiones subcentimétricas esplénicas inespecíficas. Clínicamente, el paciente presenta buena situación funcional con ECOG 0-1 y perfecta tolerancia a la quimioterapia. Tras el 7º ciclo, refiere en consulta pérdida brusca de visión del ojo izquierdo de 7 días de evolución sin otra clínica neurológica acompañante.
+El paciente es derivado a Urgencias de Oftalmología para descartar desprendimiento de retina junto con TC craneal preferente. Acude de nuevo a valoración a la consulta aportando informe de exploración oftalmológica e informe de prueba de imagen.
+En la TC no se aprecia la existencia de lesiones intracraneales. En el informe de oftalmología concluyen como principal orientación diagnóstica la posible existencia de una obstrucción de las ramas arteriales retrooculares relacionada como primera hipótesis con un estado trombolítico dados los antecedentes de enfermedad oncológica activa que presentaba el paciente.
+Se decide iniciar anticoagulación con heparinas de bajo peso molecular y se continúa con el esquema quimioterápico planeado hasta completar 9 ciclos con una nueva TC de revaluación.
+En la prueba de imagen solicitada se observa progresión de la enfermedad a nivel visceral mayoritariamente con aumento del número y tamaño de las lesiones esplénicas y mantenimiento de la respuesta a nivel óseo y pulmonar. PSA en lento ascenso tras el séptimo ciclo.
+Ante el crecimiento de las lesiones viscerales con el resto de la enfermedad ósea y ganglionar estable, se decide solicitar biopsia mediante aguja gruesa que, tras riguroso examen anatomo-patológico, confirma el origen prostático de las lesiones esplénicas.
+Los resultados de las pruebas de imagen confirman la extensión y rápida progresión de la enfermedad. Progresión de la enfermedad tanto a nivel bioquímico como radiológico; no obstante, el paciente presentaba un excelente estado general por lo que se decide suspender su tratamiento quimioterápico actual e iniciar una nueva línea con cabazitaxel (20 mg/m2), del cual sólo recibe un ciclo.
+En consultas externas de Oncología Médica, estando pendiente de validación del segundo ciclo, refiere aparición de sensación de ocupación de oído izquierdo junto parestesias en labio inferior. Se decide solicitar RM de cráneo para descartar afectación de la base, encontrándose hallazgos, cuanto menos atípicos, en relación a la historia natural de la enfermad de próstata metastásica.
+La resonancia magnética revela nuevos puntos de metástasis no conocidos hasta el momento en localización craneal. Afectación ósea generalizada y diseminación dural en fosa posterior, fosa craneal media, cavum de Mekel y convexidad craneal derechas.
+Como hallazgo más relevante y determinante para la clínica del paciente, se encuentra la existencia de un engrosamiento y realce del nervio óptico izquierdo a nivel del ápex orbitario y segmento intracraneal con área de nodularidad focal anterior al quiasma óptico de 7 mm sugestivo metástasis en nervio óptico izquierdo.
+A la vista de los resultados de las pruebas de imagen se inicia terapia corticoide y se suspende el nuevo ciclo.
+Paciente pendiente de valoración por Oncología Radioterápica para posibilidad de tratamiento holocraneal.

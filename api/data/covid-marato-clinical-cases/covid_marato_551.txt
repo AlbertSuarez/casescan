@@ -1,0 +1,30 @@
+Anamnesis
+Mujer de 47 años sin antecedentes médicos ni quirúrgicos ni familiares de interés que es diagnosticada a los 33 años (2002) de sarcoma sinovial monofásico grado 3 localizado en el miembro inferior izquierdo cT2b N0, estadio III (positividad para CD34, CD99 Y bcl2 y actina de músculo liso, focal; negatividad para EMA, CK [AE1/AE3, 20, 7 y 34BE12], S100, CD56, desmina y actina HHF35; no traslocación de SS18 [también conocido como SYT]).
+Recibió tratamiento con radioterapia preoperatoria (50Gy), resección marginal, radioterapia intraoperatoria y doxorrubicina (20 mg/m2/día, días 1-3) ifosfamida (1.500 mg/m2/día, días 1-4) cada 21 días por 6 ciclos adyuvante con buena tolerancia.
+Tras un intervalo libre de enfermedad de siete años, sufre recidiva peritoneal que se trata quirúrgicamente y con doxorrubicina-ifosfamida las mismas dosis que previamente por tres ciclos.
+Diez meses más tarde (noviembre de 2009), nuevas lesiones en ambos riñones con biopsia positiva para metástasis de sarcoma sinovial, que se tratan con radiofrecuencia.
+Durante los dos años posteriores, se van realizando resecciones de múltiples metástasis: adenopatía iliaca izquierda, corporectomía D11 con radioterapia posterior, nefrectomía radical izquierda, suprarrenalectomía, pancreatectomía parcial, esplenectomía, resección de metástasis craneal occipital y linfadenectomía axilar izquierda, hasta octubre de 2012.
+Un año después, progresión a nivel pulmonar y hepático, por lo que se trata con gemcitabina (900 mg/m2 días 1 y 8) docetaxel (100 mg/m2 día 8) cada 21 días durante seis ciclos hasta marzo de 2014, que aumentan las lesiones pulmonares, hepáticas y renal derecha.
+En ese momento se inicia tratamiento con trabectedina 1,25 mg/m2 cada 21 días desde marzo 2014 hasta abril de 2015 por 12 ciclos con lenta progresión (múltiples nódulos pulmonares que afectan a todos los lóbulos y lesiones metastásicas hepáticas de hasta 5 cm).
+Inicia pazopanib 800 mg al día el 08/08/2015, debiendo reducir la dosis tras un mes de tratamiento por toxicidad hepática grado 1.
+Mantiene el fármaco hasta julio de 2016 que acude a Urgencias:
+» La paciente refería pérdida de consciencia de una hora de evolución sin descontrol de esfínteres, convulsiones ni otro déficit neurológico.
+» Se objetiva glucemia de 22 mg/dl, que recupera a 121 mg/dl tras 10 cc de glucosa al 50 % intravenosa. Refería sudoración matutina durante el último año, sin haberse realizado control glucémico previo.
+
+Exploración física
+En la exploración física destacaba un fenotipo acromegaloide sin otros hallazgos.
+
+Pruebas complementarias
+Durante el ingreso hospitalario se realizan determinaciones específicas para estudio de hipoglucemia, sin llegar a obtener resultados analíticos basales con hipoglucemia por debajo de 45 mg/dl, motivo por el que se decide realizar test de ayuno, con resultado positivo a las 12 horas de iniciarlo, con valor comprobado de glucemia venosa de 38 mg/dl con buena tolerancia a la hipoglucemia.
+Analíticamente, se objetivaron niveles disminuidos de péptido-C 0,06 ng/ml (0,81-3,85), insulina < 2,00 μUI/ml (0,0-25,0), GH < 0,05 ng/ml (4,3-6,3), IGF-1 (somatomedina-C) < 25,0 ng/ml (55,0-420,0). 
+En el mismo ingreso se confirma crecimiento de la afectación metastásica hepática, de los nódulos pulmonares, así como de la afectación de partes blandas a nivel del cuerpo vertebral D11.
+
+Diagnóstico
+Hipoglucemia hipoinsulínica por tumor no de células de los islotes pancreáticos: NICTH por tumor mesenquimal productor de IGF-2.
+
+Tratamiento
+Se inicia tratamiento corticoide a dosis de 30 mg de prednisona diarios para manejo sintomático de la hipoglucemia y se coloca sensor de glucemia, mejorando el patrón de hipoglucemia tras el inicio de corticoterapia.
+
+Evolución
+Nuestra paciente recibió posteriormente retratamiento con trabectedina 1,25 mg/m2 cada 21 días con nueva progresión tumoral. Durante esos 10 meses de tratamiento, en ausencia de mejores alternativas terapéuticas, se planteó tratamiento con análogos de somatostatina para poder disminuir la dosis de esteroides y así sus efectos secundarios, aunque con escasa evidencia. Se administraron cuatro dosis de lanreótido tras comprobar expresión de receptores de somatostatina, sin beneficio clínico y con necesidades de mantener corticoterapia para mantener glucemia en rango.
+En caso de que la paciente hubiese evolucionado mejor, la siguiente alternativa planteable sería tratamiento con lutecio-177.

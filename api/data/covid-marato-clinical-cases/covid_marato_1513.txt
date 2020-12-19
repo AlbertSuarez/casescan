@@ -1,0 +1,26 @@
+Anamnesis
+
+ANTECEDENTES PERSONALES
+Varón de 30 años natural de Colombia, sin hábitos tóxicos, presenta como antecedentes de interés hepatitis en la infancia y dos accidentes de moto.
+Como antecedentes familiares, madre fallecida de CCR a los 55 años, tía materna diagnosticada de CCR a los 45 años con un nieto diagnosticado de CCR a los 22 años, tía materna diagnosticada de CCR a los 56 años, una tía materna fallecida por cáncer de endometrio a los 41 años, tía materna fallecida por CCR a los 32 años con un hijo con linfoma mediastínico a los 30 años, tío materno fallecido por CCR a los 45 años, y su hijo probable cáncer gástrico a los 29 años. Abuela paterna fallecida por cáncer de endometrio a los 59 años, primo paterno cáncer cerebral a los 12 años. Padre, una hermana y dos sobrinos sanos.
+
+Exploración física
+ECOG 0. Anodino.
+
+Pruebas complementarias
+Inicia estudio en Marzo del 2016 a raíz de screening de CCR solicitado por su médico de atención primaria. Se evidencia a 60 cm del margen anal neoformación que abarca el 40% de la circunferencia.
+La anatomía patológica (AP) es compatible con adenocarcinoma infiltrante moderadamente diferenciado con áreas coloides (mucinoso).
+Se amplía estudio con analítica y marcadores tumorales que son normales, y tomografía computerizada de cuerpo completo donde se observa un engrosamiento de 2cm en colon transverso y pequeñas adenopatías locorregionales.
+
+Diagnóstico
+Con el diagnóstico de adenocarcinoma mucinoso de colon en varón de 30 años con importante agregación familiar, se remite al paciente de forma preferente a la unidad de cáncer familiar. Se realiza inicialmente inmunohistoquímica (IHQ) de proteinas MMR, que muestran una pérdida de expresión de MHL1 y PMS2, con expresión conservada en MSH2 y MSH6. La mutación de BRAF mediante PCR a tiempo real es negativa.
+En este momento, dada la necesidad de resultado urgente del diagnóstico de SL de cara a la cirugía y la alta sospecha, se solicita secuenciación del gen MLH1, mostrando una mutación patogénica de MLH1 c.790+1>A. Paralelamente se recibe resultado de metilación del promotor del gen MLH1 mediante PCR específica, que resulta positiva.
+
+Tratamiento
+El 14 de abril es intervenido, realizándose colectomía subtotal. La AP es de adenocarcinoma mucinoso moderadamente diferenciado, con respuesta linfocitaria intratumoral leve-moderada y peritumoral marcada. No hay tumor budding, invasión linfovascular ni perineural. Los bordes tumorales están libres. Estadio I, pT2N0 (0/87).
+El 16 de abril es reintervenido por dehiscencia de la anastomosis ileorectal, realizándose ileostomía.
+
+Evolución
+Tras el alta se deriva al paciente a consultas de oncología, ha presentado una pérdida de 12 kg de peso durante el ingreso en cirugía y refiere astenia de grandes esfuerzos.
+Se explica la ausencia de indicaciones para recibir tratamiento adyuvante, programándose próximas revisiones incluyendo gastroduodenoscopia, dados los antecedentes de cáncer gástrico.
+Se realiza asimismo asesoramiento genético a familiares y apoyo psicológico.

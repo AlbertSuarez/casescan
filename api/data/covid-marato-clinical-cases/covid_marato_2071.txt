@@ -1,0 +1,19 @@
+Anamnesis
+Se describe el caso de un varón de 31 años, VIH positivo diagnosticado en el año 2015, y en tratamiento con dolutegravir y abacavir/lamivudina como único antecedente personal de interés. Fumador activo.
+
+Exploración física
+En octubre de 2015, ante un aumento de tamaño testicular izquierdo con dolor asociado de un mes de evolución, se realiza ecografía abdominal, objetivando alteraciones de la ecoestructura de dicho teste que sugieren malignidad.
+
+Pruebas complementarias
+Se completa estudio con TC-TAP, que no muestra hallazgos de interés, y analítica ordinaria, detectando niveles de AFP: 1.637, HCG: 2.984 y LDH: 199.
+
+Diagnóstico
+En noviembre del mismo año, se realiza orquiectomía radical izquierda con resultados histopatológicos de tumor de células germinales mixto de 5 cm, con margen libre e invasión linfática y sanguínea (pT2cN0M0, S1).
+
+Tratamiento
+Debido a la presencia de marcadores tumorales elevados, se decide inicio de tratamiento quimioterápico adyuvante con tres ciclos de bleomicina, etopósido y cisplatino (BEP) con buena tolerancia y normalización de los mismos tras el primer ciclo.
+
+Evolución
+En diciembre del año 2017, durante control radiológico estrecho, se detecta nódulo pulmonar aislado inespecífico y numerosos nódulos cavitados de nueva aparición compatibles con progresión de la enfermedad. En este contexto, el paciente se encuentra asintomático y destaca la ausencia de elevación de marcadores tumorales.
+Dada la incongruencia del caso clínico, se decide actitud expectante y valoración de forma multidisciplinar, incluyendo Unidad de Enfermedades Infecciosas por el antecedente conocido de infección VIH, aunque el paciente no había presentado en ningún momento situación de inmunodepresión. Se plantea un amplio diagnóstico diferencial de nódulos pulmonares cavitados para descartar otras posibles etiologías (granulomatosis de Wegener, histiocitosis de células de Langerhans, tuberculosis, etc.). En diciembre de 2017, el paciente abandona el hábito tabáquico.
+Tras estudio con fibrobroncoscopia, ecocardiografía y estudios analíticos dentro de la normalidad, se decide control radiológico estrecho con PET-TC, el cual, en febrero de 2018, no sugirió hallazgos metabólicos y mostró una reducción de los nódulos ahora no cavitados.

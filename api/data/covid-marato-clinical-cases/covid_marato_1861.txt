@@ -1,0 +1,45 @@
+Anamnesis
+En noviembre de 2010, un varón de 46 años es diagnosticado de una neoplasia de hipofaringe localizada a raíz de un cuadro de disfonía, disfagia, odinofagia y otalgia refleja izquierda (izda). Como antecedentes, consta hábito tabáquico y enólico importantes, un traumatismo craneoencefálico con hemorragia intraparenquimatosa frontobasal izda y una alteración enzimática hepática en relación con el enolismo.
+
+Exploración física
+En la exploración física al diagnóstico, destaca una tumoración laterocervical izda de 5-6 cm en cadena yugular media, fija, difícil de delimitar y dolorosa y una adenopatía de 1 cm en yugular inferior izda. En la exploración realizada en Otorrinolaringología (ORL), una lesión excrecente en la pared faríngea izda con afectación de repliegue ariepiglótico y seno piriforme izdo con fijación de la cuerda vocal izda (CVI).
+
+Pruebas complementarias
+Al diagnóstico, se realizan las siguientes pruebas complementarias:
+» TC cervical: tumoración en seno piriforme izdo con extensión craneal por pared faríngea lateral hasta región de repliegue gloso tonsilar. Extensión a laringe con infiltración de repliegue ariepiglótico izdo, banda y CVI. Extensión medial a pared faríngea posterior a nivel retrocricoideo, atravesando línea media. Extensión exolaríngea con infiltración de musculatura peritiroidea en ambos lados de ala izda de cartílago tiroides sugestivo de infiltración. Caudalmente, contacta con porción apical de lóbulo tiroideo izdo sin plano graso de separación. Adenopatías patológicas en grupo IIA y III izdos.
+» TC toraco-abdominal: normal.
+» Lo referido en la exploración ORL y biopsia.
+
+Diagnóstico
+El paciente es diagnosticado de una neoplasia de hipofaringe en seno piriforme izdo (carcinoma escamoso moderadamente diferenciado), cT4N2M, estadio IVA.
+
+Tratamiento
+En diciembre de 2010 inicia tratamiento (tto) radical con radioterapia (RT) y quimioterapia (QT) con cisplatino (CDDP); finalizando en febrero de 2011.
+
+Tras finalizar el tto es valorado en marzo 2011 como respuesta parcial del tumor primario y adenopatías por pruebas de imagen, y a la exploración física, existe una gran disminución de tamaño del mazacote adenopático en cadena yugular media y desaparición de la adenopatía en cadena yugular inferior.
+
+Sufre varios ingresos antes, durante y posterior al tto inicial por disfagia, esofagitis y neumonía aspirativa, colocándose gastrostomía de alimentación.
+
+El día 17 de mayo de 2011, se realiza una laringuectomía total con faringuectomía parcial y vaciamiento funcional bilateral.
+
+Sufre posteriores ingresos por colonización del faringostoma por Pseudomonas y bacteriemia secundaria tratadas con antibioticoterapia con buena evolución.
+
+Evolución
+En octubre de 2013 se objetiva recidiva ganglionar laterocervical izquierda radiológica, no quirúrgica por compromiso de arteria carótida, por lo que inicia una 1.ª línea de tto QT según esquema CDDP-5-fluorouracilo (5FU)-cetuximab.
+
+A los 15 días de iniciar dicho tto, ingresa por pérdida de visión en ojo izdo secundario a oclusión de la arteria central de la retina (ACR). A la exploración destaca ptosis palpebral y alteración del par craneal facial izdo en relación a compresión por el conglomerado en arteria carotídea interna izda (ACII) y síndrome de hipercoagulabilidad paraneoplásica, realizándose las siguientes pruebas complementarias:
+» La angiorresonancia cerebral mostró ausencia de flujo en ACII intracraneal por compresión externa del conglomerado adenopático. Se valora que ha ocurrido de forma progresiva, y que compensa por carótida derecha con flujos algo más acelerados y apertura de la comunicante anterior.
+» El duplex de troncos supraaórtico (TSA) y transcraneal (12/11/2013): muestra arteria occipital izquierda (AOI) invertida. Cuello difícil de valorar, identificándose el eje carotídeo izdo. Placa calcificada en bulbo derecho sin ninguna repercusión. Resto de arterias normales.
+» En TC estadiaje (15/11/2013): buena evolución radiológica del conglomerado adenopático con componente necrótico laterocervical izdo. Trombosis de arteria carotídea izda.
+» Además, analíticamente se observa poliglobulia (hemoglobina 21,7 g/dl, hematocrito 59,1%), que se considera paraneoplásico tras descartar Policitemia Vera (EPO normal, JAK-2 negativo), precisando flebotomías frecuentes.
+Se inicia antiagregación con ácido acetilsalicílico 100 mg y se realiza flebotomía.
+
+Es dado de alta con los siguientes diagnósticos: oclusión ACR y ACII secundarias a compresión del conglomerado adenopático y estado de hipercoagulabilidad paraneoplásica y Poliglobulia paraneoplásica.
+
+Tras el alta, en diciembre 2013, es valorado nuevamente en consultas reiniciándose tto, esta vez con carboplatino (CBDCA)-5FU al 90% y factor estimulante de colonias, realizando 3 ciclos más con estabilidad de enfermedad radiológica tras respuesta inicial con el 1º ciclo con CDDP-5FU-Cetuximab.
+
+Se observa además, trombosis de arteria iliaca externa derecha (AIED) persistiendo trombosis crónica en arteria aarotídea común izda (ACCI), por lo que en este momento se inicia anticoagulación con heparina de bajo peso molecular a 1 mg/kg/12 horas.
+
+Tras 2 ciclos más de tto (6 ciclos en total), se observa progresión de la masa laterocervical izda, por lo que inicia una 2ª línea con Paclitaxel semanal y Cetuximab en abril 2014, con muy buena evolución tras 2 ciclos de tto, desapareciendo la masa laterocervical. Recibe 4 ciclos más con el mismo esquema y a día de hoy está en tto con Cetuximab de mantenimiento sin evidencia de enfermedad.
+
+Persiste anopsia del ojo izdo que no ha recuperado y precisa flebotomías mensuales a fin de mantener una cifra de hematocrito <50%. Asimismo, continúa con anticoagulación por persistencia de trombosis ACCI y AIED.

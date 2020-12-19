@@ -1,0 +1,28 @@
+Anamnesis
+En julio de 2016, tras administración de 16 ciclos de nivolumab, el último el 28 de junio, la paciente es remitida desde Atención Primaria al Servicio de Urgencias por clínica de inicio brusco de inestabilidad con caídas frecuentes, agitación psicomotriz y síndrome confusional con importante agresividad verbal, conducta desinhibida y acciones incoherentes, llegando a precisar sedación para su control. No tiene fiebre ni otra sintomatología acompañante.
+
+Exploración física
+Paciente consciente, orientada, estable hemodinámicamente, afebril. Saturación de oxigeno basal 94 %. Auscultación cardiopulmonar sin alteraciones de interés. Abdomen anodino. No presenta edemas ni signos de trombosis venosa profunda. No hay focalidad neurológica. Importante agitación psicomotriz.
+
+Pruebas complementarias
+En Urgencias se realizaron las siguientes pruebas complementarias (PC):
+» Analítica sanguínea: normal.
+» TC cerebral: sin alteraciones significativas valorables.
+» Radiografía de tórax: sin alteraciones de evolución aguda.
+Dada la ausencia de hallazgos en las PC se decide ingreso en planta de Oncología Médica para completar estudio y, ante la sospecha de posible cuadro de encefalitis límbica, se inicia tratamiento corticoide. Se realizan las siguiente PC:
+» TC toracoabdominopélvica: enfermedad estable.
+» RNM cerebral: sin alteraciones de interés.
+» Punción lumbar: sin alteraciones en líquido cefalorraquídeo.
+» Anticuerpos antineuronales: negativos.
+» Estudio hormonal: hormonas de función hipofisaria disminuidas.
+
+Diagnóstico
+Panhipopituitarismo posiblemente secundario a hipofisitis por el tratamiento inmunoterápico con nivolumab.
+
+Tratamiento
+Se suspendió tratamiento con nivolumab y se realizó colaboración al servicio de Endocrinología, ajustándose la dosis de tratamiento corticoide iniciado al ingreso a prednisona 1 mg/kg/día. Además, se inició tratamiento hormonal sustitutivo con hidroaltesona 20 mg/día y levotiroxina 25 mcg/día.
+
+Evolución
+Tras iniciar el tratamiento corticoide y hormonal sustitutivo, la paciente presentó una resolución completa de la clínica que motivó su ingreso, siendo dada de alta hospitalaria y continuando control ambulatorio.
+En las semanas posteriores fue valorada en consultas de Endocrinología, disminuyendo progresivamente la dosis de prednisona y la terapia hormonal sustitutiva hasta su retirada completa.
+Actualmente, continúa en seguimiento en Oncología Médica con controles periódicos por TC y analíticos, manteniéndose la estabilización de la enfermedad oncológica (supervivencia libre de progresión: 18 meses).

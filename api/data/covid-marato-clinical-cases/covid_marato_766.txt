@@ -1,0 +1,21 @@
+Anamnesis
+Varón de 72 años, exfumador de 15 años/paquete y con los antecedentes de HTA y FA anticoagulada, diagnosticado en abril de 2000 de carcinoma epidermoide G1 de vejiga pT2bN0M0 tratado mediante cistectomía radical tipo Bricker. Es remitido a Oncología y se realiza seguimiento sin evidencia de enfermedad tumoral hasta enero de 2010. En marzo de 2010, a raíz de un cuadro de rectorragias, es diagnosticado de un adenocarcinoma sobre adenoma velloso en el recto, tratado mediante resección endoanal en mayo de 2010. Valorado por Cirugía General en enero de 2011, a raíz de un tacto rectal sospechoso se realiza estudio de extensión que confirma la recidiva, realizándosele al paciente en julio de 2011 una resección anterior de recto con procedimiento Hartmann. Con el diagnóstico de adenocarcinoma G3 de tercio medio de recto pT4pN1Mx (estadio III), se decide tratamiento con QT/RT adyuvante con el esquema secuencial FOLFOX de inducción x 3 ciclos + 5-FU/RT concomitante durante 6 semanas + FOLFOX de consolidación x 8 ciclos. El paciente completa tratamiento adyuvante en junio de 2012. Tras no evidenciarse presencia tumoral, se decide desde entonces seguimiento en consultas externas. En julio de 2013 realizan cardioversión eléctrica de la FA crónica pasando a ritmo sinusal. En el control de diciembre de 2013, se observa en la TC tóraco-abdominal la aparición de múltiples metástasis pulmonares.
+
+Examen físico
+Buen estado general; PS 0. Auscultación cardiopulmonar sin hallazgos patológicos. Abdomen anodino a la exploración.
+
+Pruebas complementarias
+- TC tóraco-abdominal (23/11/2013): se identifican múltiples nódulos, la mayor parte de ellos de tamaño subcentimétrico en relación con metástasis en ambos hemitórax (en número mayor de 20). No se observan adenopatías mediastínicas de tamaño significativo. Hígado con pequeños quistes simples sin cambios con respecto al estudio previo.
+Cambios de fibrosis presacra en relación con antecedentes quirúrgicos y de radioterapia. Colostomía en FII e ileostomía en FID con cambios poscistectomía y Bricker bilateral. Colelitiasis. Sin otros hallazgos. Conclusión: progresión de la enfermedad por aparición de múltiples metástasis pulmonares.
+- Marcadores tumorales (10/12/2013): antígeno carcinoembrionario 1 ng/ml.
+- Bioquímica sanguínea (10/12/2013): sin alteraciones, incluida PCR indetectable.
+- Hemograma (10/12/2013): hemoglobina 13,3 g/dl; leucocitos 7,2 x 109/l; neutrófilos absolutos 5,68 x 109/l; linfocitos absolutos 1,04 x 109/l; plaquetas 261 x 109/l; Vpm 7,5 fl (no presentaba hallazgos inflamatorios/infecciosos).
+
+Diagnóstico
+Progresión radiológica de la enfermedad por aparición de múltiples metástasis pulmonares bilaterales subcentimétricas.
+
+Tratamiento
+El tamaño subcentimétrico de las lesiones hace poco rentable una biopsia transtorácica o transbronquial; también disminuye la fiabilidad diagnóstica de la PET-TC. Dadas estas condiciones, y ante la estabilidad clínica del paciente, con un CEA indetectable, se decidió seguimiento con una nueva TC en 2 meses aproximadamente. Se solicitó, ante la posibilidad de recidiva, determinación de la mutación KRAS en la pieza quirúrgica de la resección anterior de recto practicada en julio de 2011 (NRAS nativo. Mutación KRAS-codón 12: G12A-).
+
+Evolución
+En el control de enero de 2014 se observó persistencia de nódulos pulmonares subcentimétricos, algunos de nueva aparición, en el pulmón izquierdo, habiendo desaparecido otros del pulmón derecho. Ante la imposibilidad para concluir si se trataba de lesiones metastásicas, recomendaron realizar control evolutivo. En el control de marzo de 2014 se evidencia una marcada disminución en el tamaño y número de los nódulos pulmonares, persistiendo algún pequeño nódulo, sin observarse recidiva local ganglionar ni a distancia. De nuevo, el paciente es citado en consultas externas para seguimiento más laxo.

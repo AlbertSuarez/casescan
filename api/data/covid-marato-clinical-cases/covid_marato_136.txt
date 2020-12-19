@@ -1,0 +1,24 @@
+Anamnesis
+Paciente varón de 52 años con antecedentes de tabaquismo activo con índice paquetes-año de 35, alcoholismo activo con consumo de 1 l de cerveza diario, hipertensión arterial en tratamiento con un fármaco, dislipemia en tratamiento con estatinas, infarto lacunar protuberancial de etiología indeterminada en tratamiento con antiagregante, esteatosis hepática de causa no filiada de 1 año de evolución, hemangioma hepático en seguimiento por Medicina Interna con controles anuales, fimosis desde hace 2 años con episodios frecuentes de balanitis e hipertrofia benigna de próstata (HBP) de 1 año de evolución a raíz de un cuadro de hematuria.
+
+Exploración física
+»Tensión arterial: 138/42 mm Hg; frecuencia cardiaca: 78 lpm.
+»Consciente y orientado. Buen estado general. Performance status (PS): 1.
+»Exploración neurológica: sin datos de lateralidad.
+»Exploración otorrinolaringológica: sin hallazgos.
+»Exploración cardiaca: rítmica y sin soplos.
+»Exploración abdominal: blando y depresible. Sin masas ni megalias. Peristaltismo conservado. Sin signos de irritación peritoneal.
+»Exploración de miembros inferiores: sin edemas.
+
+Pruebas complementarias
+Paciente diagnosticado de hipertrofia benigna de próstata por clínica de hematuria y síndrome prostático. El paciente ingresa a cargo de urología por un cuadro de retención aguda de orina (RAO) realizándose una resección transuretral (RTU) durante el ingreso. El resultado anatomopatológico (AP) informa de carcinoma papilar urotelial (CUP) de alto grado pT1. Tras esto, el paciente recibió tratamiento adyuvante con inyecciones intravesicales de bacilo de Calmette-Guéring (BCG). El paciente siguió revisiones semestrales con RTU y con informe AP de metaplasia escamosa inmadura. Tras tres RTU patológicas, se realiza tomografía computarizada (TC), objetivándose lesiones en ambas pelvis renales y la lesión hepática ya conocida en segmento VIII compatible con hemangioma. Se continúa el estudio con tomografía por emisión de positrones-TC (PET-TC), no evidenciando captación sugestiva de malignidad a ningún nivel. Se completa el estudio con endoscopia transuretral bilateral (URS) donde se toma biopsia con aguja gruesa (BAG) de ambos tumores de la pelvis renal. El resultado AP fue de carcinoma urotelial de alto grado pT1.
+
+Diagnóstico
+Carcinoma urotelial pT1cN0cM0 estadio I (bilateral).
+
+Tratamiento
+Tras el diagnóstico de carcinoma urotelial pT1cN0cM0 estadio I (bilateral) se presenta el caso en comité de tumores urológicos proponiéndose "nefro-uréter- ureterostomía" en laparoscopia bilateral con cistoprostatectomía radical, pero sin linfadenectomía por no encontrarse ganglios afectos. En el informe AP, informa de CUP de alto grado estadio pT3 en riñón derecho con invasión vasculolinfática. Uréter derecho con carcinoma urotelial papilar no invasivo de alto grado y focos de carcinoma in situ (estadio pTa y pTis). Riñón izquierdo carcinoma urotelial infiltrante estadio pT1. Uréter izquierdo con carcinoma papilar urotelial de alto grado focalmente invasivo con focos de carcinoma in situ (pT1 y pTis). A nivel de la próstata, se objetiva adenocarcinoma prostático acinar en estadio pT2.
+
+Evolución
+Debido a que el paciente entró en programa de diálisis y a la poca evidencia del tratamiento adyuvante en ese momento, se optó por un seguimiento estrecho. Con un intervalo libre de enfermedad (ILE) de 9 meses, presenta progresión hepática única y pulmonar única. Se inició tratamiento de primera línea con quimioterapia con cisplatino-gemcitabina. Debido a ser un paciente en hemodiálisis se planteó un esquema de 35 mg/m2 de cisplatino al 50 % de dosis (recibiendo 17,5 mg/m2) y 1.000 mg/m2 de gemcitabina cada 21 días y previos a la hemodiálisis. Tras 6 ciclos, se realiza revaluación de la enfermedad presentando datos de respuesta parcial, por lo que inicia de nuevo seguimiento. Con intervalo libre de progresión (ILP) de 3 meses, presenta progresión de la enfermedad a nivel de la lesión hepática.
+Tras este diagnóstico, se consensuaron las opciones terapéuticas con el paciente: se ofreció tratamiento de segunda línea con atezolizumab, aunque no se encuentra evidencia en pacientes en hemodiálisis o tratamiento con radioterapia estereotáxica extracraneal (SBRT) sobre la lesión hepática al tratarse de una enfermedad oligometastásica. Tras discutir los beneficios e inconvenientes de ambos plantes terapéuticos, se decide iniciar tratamiento con SBRT.

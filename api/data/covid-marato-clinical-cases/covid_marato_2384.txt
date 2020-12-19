@@ -1,0 +1,27 @@
+Anamnesis
+Nos encontramos ante una mujer de 52 años, postmenopáusica, sin hábitos tóxicos, con antecedente de dislipemia, sin ningún tratamiento farmacológico habitual ni antecedentes familiares relevantes.
+
+Primera neoplasia
+A los 36 años fue diagnosticada de un carcinoma ductal infiltrante (CDI) de mama derecha, grado 2, cT4N1M0, tratado mediante mastectomía radical modificada (MRM) derecha y linfadenectomía axilar, estadio pT4N1, con 10/10 adenopatías infiltradas y afectación del margen profundo, con receptores hormonales positivos. Recibió quimioterapia adyuvante con 6 ciclos de FEC (5-fluoracilo, epirrubicina y ciclofosfamida) seguido de quimioterapia a altas dosis con autotransplante de progenitores hematopoyéticos en septiembre de 1996. Posteriormente realizó radioterapia (RT) adyuvante (dosis total 50Gy + boost de 16Gy) que finalizó en enero de 1997. También recibió adyuvancia con tamoxifeno durante 5 años (de octubre de 1996 a noviembre de 2001). Siguió controles sin evidencia de enfermedad
+
+Segunda neoplasia
+En mayo de 2012, presenta elevación de CEA (5,45 μg/l -normal < 5- ) y Ca 15,3 (42,7 KUI/l0-normal < 30- ) en una analítica solicitada por su médico de Atención Primaria debido a que la paciente presentaba astenia intensa de meses de evolución.
+
+Exploración física
+ECOG 1. No presenta alteraciones destacables en la exploración física.
+
+Pruebas complementarias
+Se realiza biopsia guiada por TC del nódulo pulmonar, con Anatomía Patológica compatible adenocarcinoma de origen pulmonar (CK-7 y TTF-1 positivos; p63 positivo focal; receptores de estrógenos [RE], receptores de progesterona [RP], GCFGP-15 y HER-2 negativos), EGFR no mutado.
+
+Diagnóstico
+Se valora como un 2º primario de origen pulmonar cT1bN0M1b (7ª clasificación del TNM), estadio IV, EGFR no mutado.
+
+Tratamiento
+El 13/08/2012, la paciente inicia tratamiento con quimioterapia de primera línea con cisplatino 75 mg/m2 y pemetrexed 500 mg/m2 cada 21 días. Tras 4 ciclos, presenta enfermedad estable, por lo que el 06/11/2012 inicia pemetrexed de mantenimiento, que se suspende tras 4 ciclos por progresión ósea con aparición de nueva metástasis en L5 (intervalo libre de progresión [ILP] de 6 meses).
+
+Evolución
+El 27/02/2013 inicia tratamiento de 2ª línea con erlotinib dentro del ensayo clínico A7471009. Como mejor respuesta, logra enfermedad estable. Mantiene el tratamiento hasta el 24/04/2015 (ILP 26 meses), momento en el que se objetiva progresión a nivel de las lesiones óseas conocidas.
+Se realiza nueva biopsia del tumor en lóbulo superior derecho que muestra adenocarcinoma de pulmón (CK-7 y TTF-1 positivos; RE, RP y HER-2 negativos), EGFR no mutado y ALK no translocado.
+El 12/06/2015 inicia 3ª línea con nivolumab. Tras 6 ciclos presenta respuesta parcial. A los 6 meses de tratamiento, muestra lenta progresión ósea, suprarrenal y adenopática, manteniendo la respuesta del primario pulmonar, y se decide seguir con el tratamiento con nivolumab dado que mantiene el beneficio clínico.
+En mayo de 2018, presenta aparición de dos letálides en el cuero cabelludo. Se realiza biopsia que es positiva para metástasis de carcinoma de mama (GATA-3 positivo, TTF-1 negativo) con RE score 7/8, RP score 8/8, HER-2 negativo, Ki-67 20 %. Se realizan también biopsias de adenopatías mediastínicas, que también son positivas para metástasis del carcinoma de mama conocido. Ante este hallazgo, se mantiene tratamiento con nivolumab y se añade letrozol (inicio el 20/07/2018), tras lo que presenta claro beneficio clínico en forma de mejoría del estado general.
+En octubre de 2018, se suspende tratamiento con nivolumab por la presencia de neumonitis inmunomediada grado 2, y sigue tratamiento sólo con letrozol, con lo que se mantiene en enfermedad estable hasta la actualidad.

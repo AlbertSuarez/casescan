@@ -1,0 +1,33 @@
+Anamnesis
+Se presenta el caso de una mujer de 57 años, diagnosticada de un carcinoma lobulillar de mama izquierda, receptores hormonales positivos, HER-2 negativo, Ki-67 bajo, por lo tanto, luminal A, que desde el inicio presentó enfermedad metastásica a nivel gástrico tras biopsia compatible con enfermedad metastásica de origen mamario.
+
+Exploración física
+Buen estado general. Normocoloreada. Normohidratada. Eupneica. No se palpan adenopatías supraclaviculares ni inguinales. Mamas: no se palpan adenopatías axilares. Lesión central a nivel de mama izquierda dura, pétrea y no dolorosa a la palpación. Auscultación cardiaca: rítmica. Sin soplos.
+Auscultación pulmonar: ruidos respiratorios conservados sin ruidos patológicos. Abdomen: ruidos hidroaéreos conservados. Blando, globuloso, no dolor a la palpación profunda. No datos de peritonismo. Miembros inferiores: pulsos pedios conservados y simétricos. Sin edemas. Sin datos de trombosis venosa profunda.
+
+Pruebas complementarias
+Se decidió completar el estudio con las siguientes pruebas complementarias:
+» Mamografía: en región retroareolar de mama izquierda, hacia cuadrantes externos se visualizan al menos dos áreas de distorsión de tractos, con múltiples espículas, la mayor de morfología nodular y aproximadamente 16 x 16 mm. En el estudio ecográfico corresponden con región retroareolar de la mama izquierda hacia cuadrante súpero externo se visualiza una marcada distorsión del parénquima mamario, con múltiples espículas y un área /nódulo marcadamente hipoecoico de aproximadamente 19 x 19 x 29 mm, con orientación no paralela a la piel, morfología irregular y bordes espiculados, y con sombra sónica posterior. Otro nódulo de aproximadamente 4,5 x 6 mm, de morfología irregular y márgenes irregulares, marcadamente hipodenso y sin sombra sónica posterior. Y otro nódulo de aproximadamente 12 x 16 x 22 mm, de morfología irregular, bordes espiculados, marcadamente hipoecoico y con sombra sónica posterior en CIE.
+
+Ecografía de región axilar izquierda: Se visualiza un ganglio con cortical engrosada (3,2 mm) de forma difusa.
+
+Se realiza biopsia con aguja gruesa de nódulo retroareolar de mama izquierda con estudio anatomopatológico compatible con carcinoma lobulillar infiltrante grado II de Nottingham. Receptores estrogénicos positivos (100%), receptores progesterona positivos (100%), HER-2 negativo, Ki-67 bajo (<20%).
+» Tomografía computarizada (TC): asimetrías focales/distorsiones de tractos en cuadrantes externos y hacia región retroareolar de mama izquierda en relación con neoplasia ya conocida. Hígado aumentado de tamaño con un diámetro craneocaudal máximo de aproximadamente 22 cm, con marcada disminución difusa de su densidad, en relación con hepatopatía difusa, posible esteatosis.
+
+Pequeños ganglios todos ellos subcentimétricos en mesenterio y omento, visualizando trabeculación y alteración de la densidad de la grasa omental y mínima cantidad de líquido libre en pelvis, hallazgos inespecíficos que en el contexto obligan a descartar carcinomatosis peritoneal. Pequeña imagen seudonodular con un eje corto de aproximadamente 6 mm en cisura menor, sugestiva de pequeño ganglio cisura.
+» Gammagrafía ósea: no se observan imágenes compatibles con metástasis óseas.
+» Resonancia magnética de mamas: en mama izquierda área de distorsión de tractos, objetivándose formaciones nodulares y captación lineal que une los nódulos entre sí localizada en zona central anterior de la mama izquierda, con extensión hacia complejo areolar pezón. La extensión de captación craneocaudal 80 mm, extensión antero posterior 47 mm y extensión en el plano transverso 54 mm.
+» Marcadores tumorales (31/3/2015): CEA 2,2 ng/mL (valores normales entre 0 y 5) y CA 15.3 (II) 220,4 U/mL (valores normales entre 0 y 30).
+
+Diagnóstico
+Carcinoma lobulillar de mama izquierda con receptores hormonales positivos, HER-2 negativo, Ki-67 bajo. Estadio IV por enfermedad metastásica gástrica.
+
+Tratamiento
+Primera línea de quimioterapia con intención paliativa basada en esquema con antraciclinas 60 mg/m2 + ciclofosfamida 600 mg/m2 y evaluar respuesta.
+
+Evolución
+Dado el resultado obtenido en la TC, se decidió completar el estudio con una tomografía por emisión de positrones (PET) en la que se evidenciaron dos pequeños nódulos a nivel de epiplón, así como asociación de grasa omental sin hipermetabolismo patológico significativo, si bien debe tenerse en consideración que la mayoría de las lesiones son subcentimétricas por lo que podría existir afectación por efecto de volumen parcial.
+
+Se comentó el caso en el Comité Multidisciplinar de Tumores, recomendándose realizar una endoscopia digestiva alta, por la lesión pseudonodular a nivel de cisura menor descrita en la TC, en la que se describió a nivel de la curvadura mayor/cara anterior del cuerpo gástrico distal una lesión sobreelevada de aproximadamente 6 mm de diámetro, umbilicada en su cúspide, de consistencia dura al biopsiarla.
+
+El estudio anatomopatológico de la biopsia fue compatible con mucosa gástrica con infiltración por carcinoma con rasgos histopatológicos e inmunohistoquímicos compatibles con metástasis de carcinoma lobulillar de mama.

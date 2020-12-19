@@ -1,0 +1,23 @@
+Anamnesis
+Paciente de 55 años que acude a Urgencias el 22 de Julio de 2014 por dolor epigástrico intenso irradiado a hipogastrio, mareo, naúseas y sudoración. Los días previos habia consultado en su centro de Atención Primaria por epigastralgia de menor intensidad sin cortejo vegetativo que no había cedido con antiácidos.
+
+» ANTECEDENTES PERSONALES: No alergias medicamentosas conocidas. Sin enfermedades de interés. Deportista. Sin tratamiento habitual. No bebedor. No fumador. No anabolizantes.
+» HISTORIA FAMILIAR: Madre fallecida a los 72 años de tumor cerebral. 3 hermanos, uno fallecido de parada cardiorespiratoria. Prima materna con cáncer de mama a los 40 años.
+
+Exploración física
+Hipotensión (70/45 mmHg), diaforesis y palidez mucocutánea. Abdomen: doloroso a la palpación de forma difusa con signos de irritación peritoneal.
+
+Pruebas complementarias
+-Analítica: Presentaba anemización con Hb 8.7 g/dL (Hb de 13.7 g/dL en analítica realizada por 48 horas antes).
+-TAC abdominal urgente: En lóbulo hepático izquierdo masa lobulada de 8x10x15 cm que protruye fuera del contorno hepático heterogénea con realce periférico. Comprime estructuras adyacentes y pierde separación con antro gástrico. Gran hematoma en mesenterio adyacente con extensión hasta diafragma. Liquido libre intraabdominal. Probable carcinomatosis peritoneal. Conclusión: Rotura de tumoración hepática (probable hepatocarcinoma) con hemoperitoneo.
+
+Diagnóstico
+Hemoperitoneo secundario a rotura de tumoración hepática.
+
+Tratamiento
+El paciente es intervenido de urgencia mediante laparotomía subcostal derecha ampliada. Se extraen 2500 ml de hemoperitoneo, y se objetiva tumoración hepática de 15 cm en segmento II-III realizándose resección hepática de dichos segmentos, colecistectomía, resección epiploica y biopsia de lesión en segmento IV. Alfafetoproteína (AFP) en el postoperatorio inmediato de 7043 ng/ml.
+» Anatomia Patologica: Segmentos II-III: Carcinoma hepatocelular (CHC) moderadamente diferenciado de 10x7x5,5 cm, patrón trabecular e invasión venosa. Higado no tumoral: hígado no cirrótico. Epiplon: tumoración de 7.5x5 cm sugerente de implante de hepatocarcinoma. Resto normal.
+
+Evolución
+Acude a consulta de Oncología Medica en Septiembre de 2014 con AFP 627 ng/ml, Child-Pugh de 7 puntos y estadio avanzado según BCLC Staging System. Ante CHC resecado pero presencia de implantes peritoneales en la cirugía, se decide tratameinto con Sorafenib a 800 mg/día y se solicitan serologías para virus hepatotropos resultando positivo para infeccion de VHB pasada (Anti-HBs +, Anti-HBc +). Tras un mes de tratamiento AFP 29,86 ng/ml, con toxicidad dérmica G3 que obliga reducción de dosis. Posteriromente, aumento de AFP a pesar de adecuado aumento de dosis, se solicitan varias RMN hepáticas que objetivan únicamente quistes simples y cambios postquirúrgicos.
+En Marzo de 2015 AFP 297 ng/ml y se solicita TAC toraco-abdomino-pélvico con presencia de nódulo pulmonar basal derecho de 8 mm inespecífico y sin otros hallazgos. Ante buena tolerancia, aumentamos dosis a 800 mg/día con buena respuesta bioquímica logrando en Noviembre de 2015 AFP 80 ng/ml. A inicios de 2016 progresiva elevación de AFP con aumento de tamaño de nódulo pulmonar basal derecho que mide 1 cm. Pendiente de segmentectomía atípica pulmonar para estudio histológico en la actualidad.

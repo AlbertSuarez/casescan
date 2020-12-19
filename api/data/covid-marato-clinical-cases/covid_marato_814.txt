@@ -1,0 +1,40 @@
+Anamnesis
+La incidencia anual estimada de cáncer colorrectal en el mundo es de 1.361.000 casos1. El síndrome de Lynch (SL), también llamado cáncer colorrectal hereditario no asociado a poliposis, representa el 3% de estos eventos de forma aproximada. Presentamos un caso clínico representativo de esta enfermedad, por lo ilustrativo de su historia natural, así como el éxito de su seguimiento tras 21 años de evolución desde su primer tumor, con algunas particularidades destacadas.
+Se trata de una paciente remitida a las consultas de Oncología Médica en 1993, siendo la primera consulta en nuestro Servicio el 5 de mayo de ese mismo año. La paciente tenía 37 años de edad. Refería como antecedentes personales de interés ser fumadora, con un consumo acumulado de 10 paquetes/año; madre de 3 hijos. Como antecedentes familiares de interés, su padre había fallecido por cáncer colorrectal, además de un hermano con diagnóstico de cáncer de colon (no fallecido); asimismo, la paciente tenía parientes de segundo grado afectos de cáncer colorrectal.
+Estos antecedentes personales hacían sospechar la existencia de una enfermedad familiar como el síndrome de Lynch, con cumplimiento de tres de los cinco criterios de Ámsterdam II2:
+- Tres o más individuos con cáncer colorrectal o tumor asociado al síndrome de Lynch (endometrio, ovario, intestino delgado, etc.), uno de ellos familiar de primer grado de los otros dos;
+- afectación de dos generaciones consecutivas;
+- como mínimo uno de los casos diagnosticado antes de los 50 años.
+Por lo tanto, estamos ante una paciente con más de tres familiares con cáncer colorrectal, incluido su padre y su hermano (familiares ambos de primer grado), dos generaciones consecutivas (padre e hijo/hija) y la paciente inicia la historia de cáncer a los 37 años (antes de los 50). A lo largo de la evolución, se confirmarán los dos criterios de Ámsterdam II restantes2, pues se objetivó que no era un caso de poliposis atenuada familiar y hallaron en el tumor características compatibles con esta entidad tras el análisis anatomopatológico.
+La paciente había sido remitida a nuestras consultas porque, tras iniciar un estudio por metrorragia como única sintomatología, había sido diagnosticada de carcinoma de ovario y cáncer de endometrio sincrónicos. La paciente fue tratada quirúrgicamente con histerectomía más doble anexectomía, recibiendo posteriormente quimioterapia adyuvante entre mayo y septiembre de 1993 según el esquema CAP (ciclofosfamida 500 mg/m2, doxorrubicina 50 mg/m2 y cisplatino 50 mg/m2) cada 21 días, con buena tolerancia, sin toxicidad destacable.
+Desde entonces inició revisiones.
+En 1996, durante el seguimiento, se halla mediante pruebas complementarias, a 10 cm del margen anal, una lesión que tras ser intervenida quirúrgicamente se filia como adenocarcinoma colorrectal. La paciente realizó adyuvancia entre los meses de mayo a octubre de 1997, sin hallazgos destacables referidos en su historia clínica.
+Hasta el momento, hemos de tener en cuenta, además de los antecedentes familiares de la paciente, sus antecedentes personales con diagnósticos de: carcinoma de ovario (1993), cáncer de endometrio (1993), ambos sincrónicos, y 3 años después el diagnóstico de adenocarcinoma de colon (1996).
+La paciente realiza seguimiento durante 16 años sin incidencias.
+
+Examen físico
+En las exploraciones físicas sucesivas realizadas durante las revisiones en consulta no existían hallazgos compatibles con una sospecha de recidiva o nuevo tumor, a pesar de una exploración física dirigida por aparatos y sistemas incluyendo el tacto rectal.
+
+Pruebas complementarias
+En cada visita, además de la exploración física, se solicitaban analítica de rutina y marcadores tumorales alternando con pruebas de imagen periódicas. Además, existía una dificultad añadida en el seguimiento, ya que la paciente tenía una fístula recto-vaginal que impedía la realización de colonoscopias.
+
+Diagnóstico
+No hay incidencias destacadas en su historia clínica hasta que en el 2013, tras el hallazgo progresivo del aumento del marcador tumoral (Ca 19.9), a pesar de que el resto de los datos clínico-analíticos eran anodinos, se decide realizar una tomografía por emisión de positrones asociada a tomografía computarizada (PET-TC) con el siguiente hallazgo: "En el colon ascendente (vacío derecho) se objetiva un engrosamiento concéntrico de la pared con un diámetro cráneo-caudal de aproximadamente 4 cm, que presenta características hipermetabólicas (SUVmáx 16,4), siendo sugestivo de malignidad. Lesión hipodensa de 2 cm en el segmento V hepático, sin elevación de su metabolismo glicídico y por lo tanto no sugestiva de malignidad. No se visualizan otros focos metabólicos sugestivos de enfermedad neoplásica a otro nivel".
+Tras conocer los hallazgos de la PET-TC, la paciente se deriva al Servicio de Cirugía General de nuestro hospital.
+La paciente se interviene mediante hemicolectomía derecha en julio de 2013.
+Los hallazgos anatomopatológicos fueron (especimen de íleon, colon derecho y epiplón procedente de hemicolectomía derecha):
+- Adenocarcinoma poco diferenciado que infiltra la pared abdominal y se extiende al tejido adiposo pericolónico. Alto grado histológico.
+- Adenoma tubular (hallazgo patológico adicional).
+- Ausencia de metástasis en 12 ganglios aislados.
+- Márgenes quirúrgicos libres de tumor.
+- El material contiene características histológicas sugestivas de inestabilidad de microsatélites: linfocitos intratumorales (leve), linfocitos peritumorales (leve) y subtipo y diferenciación de alto grado.
+La estadificación final fue pT3N0M0, estadio IIA.
+
+Tratamiento
+La paciente es reevaluada en nuestras consultas en julio del 2013. Refería desde el alta tras la intervención quirúrgica diarrea mantenida con pérdida de peso progresiva y debilidad secundaria generalizada, por lo que se demora el inicio del tratamiento adyuvante hasta su mejoría.
+Además, tras esta intervención quirúrgica, se le derivó a la consulta de Genética. Se realizó el árbol genealógico y se planteó elestudio genético familiar (pendiente de resultados en la actualidad) dada la alta sospecha clínica de la existencia de una enfermedad hereditaria familiar.
+En septiembre de 2013, la paciente inicia adyuvancia con esquema XELOX (capecitabina 1.000 mg/m2 v.o. cada 12 horas los días 1-14 y oxaliplatino 130 mg/m2 i.v día 1), cada 3 semanas y con una propuesta inicial de 8 ciclos según la tolerancia.
+
+Evolución
+Tras el primer ciclo, inicia síndrome diarreico de difícil control con 10-15 deposiciones diarias y disestesia grado 1-2 mal tolerada secundaria al oxaliplatino. El cuadro diarreico cedió tras suspender la pauta de capecitabina. Reinicia la pauta con pésima tolerancia, por lo que finalmente la paciente se niega con rotundidad a continuar la adyuvancia e inicia revisiones, estando asintomática y libre de enfermedad desde entonces, con la última TC de control realizada en enero de 2014 que informa de la ausencia de hallazgos sugestivos de enfermedad neoplásica activa, exploración física anodina, analítica rutinaria y marcadores tumorales con parámetros dentro de rangos de normalidad.
+El estudio genético de los genes implicados en la etiopatogenia de este síndrome por mutaciones en uno de los genes reparadores de los errores de emparejamientos que se producen durante la replicación del ADN (mismatch repair genes, o MMR) MLH1, MSH2, MSH6, MSH3, PMS2, PMS1 o MLH34 está aún pendiente de resultados. Este dato completará el estudio genético que esperamos corrobore los hallazgos de la historia clínica y el informe anatomopatológico y la evolución de este interesante caso.

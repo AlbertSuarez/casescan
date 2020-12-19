@@ -1,0 +1,23 @@
+Anamnesis
+El término abscopal procede del latín ab ("fuera de") y scopus ("diana"). El efecto abscopal se define como una regresión tumoral en localizaciones corporales distintas a aquella en la que se ha producido un tratamiento local, generalmente radioterapia1, aunque se describe también tras cirugía.
+
+Mujer de 54 años, casada y madre de tres hijos sanos. Directora comercial, actualmente inactiva. Fumadora de 20 cigarros/día. Sin alergias medicamentosas conocidas. Cólicos nefríticos de repetición. Pólipos en el colon que han precisado extirpación. Su tratamiento domiciliario es loracepam 1 mg/24 h por insomnio. No presenta antecedentes familiares oncológicos relevantes.
+
+Acudió al Servicio de Urgencias el pasado mes de agosto de 2014 por cuadro de disestesias en región frontal, periorbitaria y nasal de 5 días de evolución. Sensación de mareo con giro de objetos. Cefalea compresiva de localización inespecífica y cervicalgia. Pérdida de peso de 7 kg en 6 días. Disgeusia.
+
+Exploración física
+La paciente presentaba buen estado general. Índice de Karnofsky 80%. En la exploración neurológica, se objetivó discreta ptosis palpebral derecha y ligera alteración del equilibrio. A la auscultación cardiopulmonar, existía disminución generalizada del murmullo vesicular. El resto de la exploración física resultó anodina.
+
+Pruebas complementarias
+» En el hemograma solicitado en Urgencias se detectó discreta leucocitosis (L 10600/uL) y mínima anemia (Hb 11 g/dL). La bioquímica y la coagulación resultaron normales. En la radiografía de tórax se observó una masa de bordes mal definidos de 6 x 7 cm de diámetro, localizada en el lóbulo superior izquierdo (LSI) asociada a signos de broncopatía crónica. Dada la clínica neurológica de la paciente, se solicitó una TC cerebral, la cual mostró varias imágenes hiperdensas, localizadas en la región frontal derecha, el hemisferio cerebeloso derecho, protuberancia y mesencéfalo, compatibles con metástasis cerebrales.
+» Ante estos hallazgos, se decide ingreso hospitalario en el Servicio de Neumología para completar estudio de la paciente. La RM cerebral confirmó la presencia de metástasis encefálicas múltiples en las mismas localizaciones descritas por la TC. La broncoscopia objetivó una masa de aspecto maligno a la entrada del bronquio principal del LSI. La anatomía patológica fue compatible con adenocarcinoma de pulmón. El estudio molecular resultó negativo para las mutaciones EGFR y ALK. En la TC corporal se encontró la masa pulmonar ya conocida en LSI de 7,2 cm de diámetro máximo, varios implantes pericárdicos, adenopatías múltiples en hilio ipsilateral, ganglio subcarinal de 1 cm y signos de linfangitis asociada. A nivel abdominal, se visualizó una masa de 35 mm en la glándula suprarrenal izquierda sugestiva de metástasis.
+
+Diagnóstico
+El diagnóstico definitivo fue adenocarcinoma de pulmón, estadio IV (cT4N2M1b) con mutaciones EGFR y ALK negativas. Ante los resultados, la paciente inició corticoterapia a altas dosis (dexametasona 4 mg/8 horas) durante el ingreso, con rápida mejoría de la clínica neurológica y fue derivada a nuestra consulta de Oncología Médica para valoración y decisión terapéutica.
+
+Tratamiento
+En septiembre de 2014, la paciente recibió tratamiento con radioterapia holocraneal, 30 Gy (10 x 3 Gy) con intención paliativa. En controles sucesivos observamos una importante mejoría radiológica espontánea de la masa pulmonar tras recibir RT cerebral, manteniendo estabilidad clínica y desaparición de los síntomas neurológicos. En diciembre de 2014 solicitamos una TC corporal de control donde se confirmaba la remisión parcial de la enfermedad tanto a nivel cerebral como pulmonar y mediastínico tras el tratamiento radioterápico.
+
+
+Evolución
+Tras tres meses de mantenimiento de respuesta tumoral, en una radiografía de tórax se constató discreto aumento del tamaño de la lesión pulmonar. Se decidió entonces, de acuerdo con la paciente, iniciar tratamiento con quimioterapia con intención paliativa según esquema gemcitabina 1.000 mg/m2 d1 y d8 + vinorelbina 25 mg/m2 d1 y d8 /21 días. La paciente recibió 6 ciclos completos de QT con buena tolerancia y con clara mejoría de la enfermedad en pruebas de imagen. Actualmente, se encuentra clínicamente estable, pendiente de nueva reevaluación para decidir nueva actitud terapéutica.

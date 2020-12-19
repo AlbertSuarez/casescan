@@ -1,0 +1,28 @@
+Anamnesis
+Varón de 64 años sin alergias medicamentosas conocidas, ganadero. Antecedente de tabaquismo activo (índice paquetes-año = 60) y diabetes mellitus tipo 2 en tratamiento con metformina.
+
+Historia oncológica
+Diagnosticado en septiembre/2018 por un cuadro de hemoptisis de un carcinoma epidermoide de pulmón estadio IV (masa en lóbulo superior derecho con invasión de 4ª a 6ª vértebras dorsales y derrame pleural derecho con citología positiva para malignidad), EGFR no mutado, ALK y ROS-1 no traslocados y una expresión de PD-L1 del 60 %. El 19/10/2018 inició 1ª línea de tratamiento sistémico con pembrolizumab a dosis de 200 mg intravenosos cada 21 días y, de forma concomitante, se derivó al servicio de Oncología Radioterápica para valorar administración de radioterapia con intención antiálgica sobre la masa tumoral que infiltraba vértebras dorsales. Entre el 3 y el 10/12/2018 se administraron 20 Grays divididos en 5 sesiones, abarcando la masa pulmonar primaria al completo en el campo de tratamiento.
+
+Enfermedad actual
+El 14/12/2018, tras finalizar la radioterapia y habiendo recibido 3 ciclos de pembrolizumab, consulta a su médico de cabecera por una conjuntivitis bilateral de inicio 24 horas atrás, sin dolor ni secreción ocular, que se manejó inicialmente con colirio antibiótico. El 16/12/2018 acude a Urgencias por la aparición de úlceras sangrantes en mucosa yugal e intensa odinofagia que impedía la ingesta oral.
+
+Exploración física
+ECOG 1. Neurológicamente alerta, orientado y colaborador, sin focalidad neurológica identificable. Deshidratación cutáneo-mucosa leve. Buena perfusión distal. Normocoloreado. Eupneico en reposo con buena tolerancia al decúbito.
+Conjuntivitis bilateral. A nivel de mucosa oral, se identifican múltiples lesiones ulceradas que ocupan prácticamente la totalidad de la mucosa yugal y lingual y extendiéndose hacia orofaringe, algunas de ellas con signos de sangrado reciente. Auscultación cardiopulmonar con roncus dispersos en hemitórax derecho. En región dorsal, se identifica una dermatitis rádica grado 2 con eritema cutáneo.
+
+Pruebas complementarias
+» Analítica: Hb 10,7 mg/dl, leucocitos 8.700/ml (neutrófilos 4.300/ml). Lactato deshidrogenasa (LDH) 324 UI/l (valores normales 135-225UI/l). Resto anodino.
+» Radiografía simple de tórax (proyección posteroanterior): se objetiva masa parahiliar derecha con una marcada disminución de tamaño respecto a estudio previo.
+
+Diagnóstico
+Mucositis grado 4 y conjuntivitis grado 2 según Common terminology Criteria for Adverse Effects (CTCAE) secundarias a pembrolizumab concomitante con radioterapia.
+
+Tratamiento
+Ingresa en planta de Oncología Médica para inicio de nutrición parenteral total, tratamiento analgésico intravenoso con cloruro mórfico y de soporte con enjuagues orales de nistatina y lidocaína viscosa y emolientes tópicos sobre lesiones cutáneas.
+
+Evolución
+A las 24 h del ingreso el paciente refirió importante dolor y prurito en zona dorsal sobre lesión de radiodermitis objetivada al inicio del cuadro. Al volver a explorar al paciente se comprobó un aumento de las áreas de eritema que se habían extendido hacia región costal bilateral, apareciendo descamación en algunas de ellas.
+Progresivamente, aparecieron lesiones eritematosas descamativas en tórax, cuello y extremidades extendiéndose por prácticamente toda la economía, con signo de Nikolsky positivo. El paciente refirió además empeoramiento del dolor en región oral.
+Ante la sospecha de una toxicidad inmunorrelacionada, se inició tratamiento con metilprednisolona a dosis de 3 mg/kg intravenosos diarios, además de realizar serología vírica y antifúngica completa y extracción de cultivos de sangre, orina y esputos. El estudio microbiológico resultó negativo. Se realizó una biopsia en sacabocado mediante punch, cuyo análisis histopatológico demostró necrosis epidérmica y un infiltrado linfocitario perivascular extenso sin hallazgos de microorganismos ni células malignas, compatible con afectación autoinmune secundaria al uso de fármacos.
+El paciente sufrió un progresivo deterioro del estado general en las siguientes 48 horas, con aparición de fiebre elevada en probable relación con sobreinfección cutánea del proceso y resultados de hemocultivos de sangre periférica y urocultivo negativos. Se inició antibioterapia empírica de amplio espectro con daptomicina y piperacilina-tazobactam, con persistencia febril y marcado empeoramiento clínico, falleciendo el paciente finalmente 4 días después del ingreso.

@@ -1,0 +1,26 @@
+Anamnesis
+Mujer de 50 años, sin antecedentes personales de interés, que tras una mamografía de screening en 2002 es diagnosticada de carcinoma ductal infiltrante de mama izquierda, estadio pT1N2M0 (mirar E).
+Al diagnóstico, es tratada con mastectomía y linfadenectomía acompañada de esquema FEC (5-FU + epirrubucinna * ciclofosfamida). Posteriormente, y con remisión completa de la enfermedad, fue tratada con tamoxifeno + zaladex hasta 2010, sin abandonar nunca los controles analíticos y de imagen, rigurosamente normales.
+En mayo de 2012, la paciente acude al Servicio de Urgencias quejándose de prurito y fiebre vespertina de varias semanas de evolución, acompañado de síndrome constitucional, que deterioraba la calidad de vida de la paciente.
+
+Exploración física
+No se objetivó nada destacable. Sin embargo, el hemograma mostró una pancitopenia, decidiéndose el ingreso de la paciente en el Servicio de Hematología para su posterior estudio, donde se realizason las pruebas complementarias.
+
+Pruebas complementarias
+» Hemograma: hemoglobina 8,3 g/dl, hematíes 2,08 x 106/μl, hematocrito 23,2%, VCM 111,6 fl, HCM 40.00 pg, CHCM 35,8 g/dl, ADE 13,5%, leucocitos 1.700, cayados 0%, blastos 4% y bioquímica normal.
+» Radiografía de tórax: se objetivan al menos cinco opacidades nodulares en el lóbulo superior izquierdo, siendo la de mayor tamaño de 1,3 cm, con elevación hiliar izquierda por retracción. Hiperclaridad basal izquierda en relación con mastectomía radical.
+» PET-TC de cuerpo completo: lesiones pulmonares en forma de infiltrados y nódulos/pseudonódulos con adenopatías peribronquiales hipermetabólicas bilaterales, sugestivas de etiología inflamatorio-infecciosa, pero que obligan a establecer diagnóstico diferencial con patología mamaria.
+Patrón de hiperplasia esplénica y de médula ósea.
+» Anatomía patológica de nódulos pulmonares: biopsia positiva para adenocarcinoma de origen mamario RE y RP +, Her-2 negativo.
+
+Diagnóstico
+Aspirado de médula ósea: morfológicamente compatible con leucemia aguda mieloide con displasia trilineal de la clasificación de la OMS, de cariotipo normal.
+
+Tratamiento
+Inició entonces tratamiento con clofarabina y lacitarabina, además de realizarse trasplante alogénico en noviembre de 2012, con una hermana HLA compatible, consiguiéndose la remisión completa de la LAM. La paciente quedó con tratamiento inmunosupresor de soporte.
+
+Evolución
+En diciembre de 2012 la paciente empeoró su estado basal, diagnosticándose una EICH aguda, que respondió muy favorablemente a corticoterapia, siguiéndose estrechamente por Oncología y Hematología.
+En uno de dichos controles, la paciente refería dolores óseos articulares en varias articulaciones, por lo que se realiza gammagrafía ósea ante la posibilidad de recidiva tumora metastásica ósea, obteniéndose un resultado negativo. Ante la persistencia del dolor, se realizaron RM de cadera y mandibular, pudiéndose diagnosticar de osteonecrosis secundaria al largo período de corticoterapia. Se inició entonces tratamiento con calcio.
+Durante todo este período, la enfermedad se ha tratado con letrexol, permaneciendo estable sintomáticamente y remitiendo incluso el número de metástasis pulmonares, cumpliendo criterios de resecabilidad con intención de curar, por lo que en enero de 2014, se realizó segmentectomí del LSI, seguida de adyuvancia con exemestano.
+Hasta la actualidad, la paciente permanece asintomática y con un ECOG 0.

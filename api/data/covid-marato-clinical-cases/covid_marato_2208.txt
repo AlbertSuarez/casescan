@@ -1,0 +1,27 @@
+Anamnesis
+Mujer de 36 años que no presentaba alergias medicamentosas conocidas, antecedentes médicos o familiares de interés ni requería tratamiento habitual hasta el diagnóstico.
+En junio de 2007, a los 24 años, la paciente aprecia crecimiento de una lesión pigmentada a nivel de escápula izquierda de larga evolución. Se lleva a cabo una intervención quirúrgica realizándose escisión de la lesión con ampliación de bordes siendo diagnosticada de melanoma maligno pT2a (1,6 mm) pN1 (afectación micrometastásica en una adenopatía) M0 estadio IIIA (AJCC 8º edición) Breslow 1,95 mm, S100 + y mutación V600E en B-RAF. Posteriormente se lleva a cabo una linfadenectomía axilar izquierda (0/11 adenopatías infiltradas).
+Es remitida a Oncología Médica, donde se ofrece a la paciente tratamiento adyuvante con Interferón alfa 2b que inicia el 30/07/2007 a 20 millones de unidades por m2días 1 a 5 durante 4 semanas vía intravenosa. Requiere reducción de dosis del 25 % a partir de la 2º administración por neutropenia grado 3. A partir del 14/09/2007, tras el 4º ciclo, continúa tratamiento vía subcutánea (10 millones de unidades por m2, 3 días a la semana durante 48 semanas). Finaliza tratamiento en agosto de 2008, habiendo recibido tratamiento durante un total de 52 semanas. Presentó como otras toxicidadesvastenia grado 1 y artralgias grado 1 ocasionales.
+Una vez finalizado el tratamiento y sin evidencia de enfermedad medible, continúa controles mediante TC hasta noviembre de 2013, cuando es diagnosticada de una recaída locorregional que se interviene quirúrgicamente con bordes libres.
+Sigue controles hasta marzo de 2014, momento en el que se objetiva recaída mediante TC-CTAP y PET-TC.
+
+Exploración física
+ECOG 0. No se palpan adenopatías laterocervicales ni supraclaviculares. Cicatriz axilar con induración y engrosamiento cutáneo, no visible en anterior exploración. Edema en región anterior de tórax.
+Linfedema discreto en ESI. Sin otros hallazgos significativos en la exploración.
+
+Pruebas complementarias
+»Analítica 26/03/2014del: sin alteraciones bioquímicas. Hb 14,5, plaquetas 332.000, leucocitos7.600, neutrófilos 4.400.
+»TC-CTAP 22/03/2014: múltiples masas pseudonodulares hipervasculares en lecho quirúrgico, de72 x 44 x 88 mm, sugestivo de recidiva, que infiltra plano muscular posterior de escápula, sincontacto con la misma. Imagen en LID de 9 mm a valorar metastásica. Adenopatías patológicashipervasculares supraclaviculares izquierdas de hasta 14 mm, y en espacio III izquierdas de 12mm.
+»PET-TC 9/04/2014: captación de elevada actividad (SUV máximo 19,1) sobre gran masaretroescapular izquierda, con aparente infiltración ósea del borde lateral escapular y músculoinfraespinoso, que sugiere recidiva. Captación sobre nódulo pulmonar de 9 mm en LID (SUVmáximo 2). Múltiples adenopatías laterocervicales bilaterales, supraclaviculares bilaterales,retropectoral izquierda y axilares derechas, de hasta 14 mm, sin traducción metabólica.
+
+Diagnóstico
+Recaída locorregional, ganglionar y pulmonar de melanoma maligno cutáneo, BRAF mutado.
+
+Tratamiento
+Ante una paciente de 31 años, con un performance status (PS) 0 y que presenta mutación en BRAF, se propone tratamiento con vemurafenib 960 mg cada 12 horas que inicia el 26/4/2014 (único inhibidor de BRAF disponible en aquel momento en nuestro centro).
+
+Evolución
+Tras el 3er ciclo de tratamiento con vemurafenib se objetiva una respuesta parcial radiológica muy significativa por criterios RECIST 1.1 (reducción del 80,5 %), mantenida hasta abril de 2016.
+En mayo de 2016 se aprecia en PET-TC de control progresión de la enfermedad con un intervalo libre de enfermedad (ILE) de 24 meses. En progresión a un inhibidor de BRAF, el 30/05/16 inicia 2º línea de tratamiento con nivolumab 3 mg/kg cada 2 semanas. Tras 3er ciclo presenta respuesta parcial por imagen (reducción del 80,4 %), recibiendo el 21º ciclo el 9/3/2017 sin presentar toxicidades y manteniendo un PS 0.
+En marzo de 2017 se objetiva nueva progresión de la enfermedad, ILE en este caso de 10 meses, iniciando el 06/04/2017 3ª línea de tratamiento con la combinación de dabrafenib y trametinib. Una vez más, presenta una respuesta parcial por imagen tras 3er ciclo (reducción del 76,9 %). Tras 5º ciclo, se objetiva hipotiroidismo subclínico por lo que inicia tratamiento con levotiroxina 50.
+Actualmente, continúa en tratamiento habiendo recibido el 30/05/2019 el 29º ciclo y sin evidencia de enfermedad medible en último TC-CTAP realizado el 23/05/2019. Mantiene PS 0 y las cifras de LDH se han mantenido dentro de los límites de la normalidad a lo largo de todo el seguimiento.

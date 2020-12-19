@@ -1,0 +1,23 @@
+Anamnesis
+Paciente varón de 39 años sin antecedentes de interés. Fumador con un índice paquetes-año de 20. Sin contacto con otros tóxicos relacionados con el aumento de la incidencia de cáncer, niega contacto con asbesto. Trabajador en la industria cárnica, soltero y sin descendencia. No presentó historia familiar de neoplasias.
+El paciente se diagnosticó en abril de 2017 de MP a raíz de un cuadro de distensión abdominal y aumento de edemas en miembros inferiores (MMII). Dentro de los marcadores tumorales, sólo era positivo el Ca 19,9 (1.067). En tomografía computarizada (TC) se evidenció ascitis, masas peritoneales sin identificar tumor primario. La tomografía por emisión de positrones (PET) mostró captaciones patológicas en peritoneo, ángulo hepático del colon y sigma. La Anatomía Patológica (AP) informó de mesotelioma maligno epitelioide papilar. Al diagnóstico debutó con trombosis venosa de poplítea y arteria lobar superior derecha por lo que inició anticoagulación con heparina de bajo peso molecular (HBPM) a dosis anticoagulantes.
+Con el diagnóstico de MP epitelioide papilar estadio III se comentó en el comité de tumores de carcinomatosis peritoneal y se consideró irresecable. Se inició tratamiento con cisplatino (75 mg/m2) y pemetrexed (500 mg/m2) del que recibió 2 ciclos de quimioterapia hasta julio de 2017.
+
+Exploración física
+Escala Eastern Cooperative Oncology Group (ECOG): 3. Escala de Karnofsky: 50. Regular estado general. Exploración neurológica, cardiaca y respiratoria sin hallazgos. Exploración abdominal distendida pero no dolorosa, matidez a la percusión, signo de oleada ascítica. MMII con edema con fóvea hasta tercio proximal. Lesiones ampollosas y dolorosas del 2º-4º dedo del pie izquierdo con necrosis distal del 2º dedo no exudativa. Pulsos en miembro inferior derecho conservados y ausentes en el izquierdo.
+
+Pruebas complementarias
+» Ecografía (E) urgente de MMII: sin trombosis arteriales y trombosis venosa poplítea izquierda sin cambios.
+» TC: grave ascitis multicompartimental con múltiples implantes en omento mayor. Lesiones hepáticas bilobares. Trombosis parcial de arteria (ART) iliaca común izquierda hasta externa. Trombosis parcial de ART femoral izquierda.
+» Angioplastia iliaca unilateral (0 horas): trombectomía iliaca superficial, femoral superficial y tibial posterior. Perfusión continua de uroquinasa posterior.
+» Angioplastia de miembros inferiores bilateral (24 horas): trombosis en ART iliaca superficial sin cambios. Retrombosis de ART femoral superficial. Nuevo trombo ART poplítea y porción distal de ambas ART tibiales. Se colocaron endoprótesis en ART iliaca y femoral superficial. Se realiza trombólisis local con 250.000 Unidades Internacionales (UI) de uroquinasa en el sector infrapoplíteo. Dejándose después perfusión de uroquinasa.
+» Angioplastia de miembros inferiores bilateral (48 horas): mejoría a nivel poplíteo. Empeoramiento de la trombosis del tronco tibioperoneo y ART tibial anterior. ART tibial posterior vascularizada por ramas colaterales.
+
+Diagnóstico
+Coagulación intravascular diseminada crónica con síndrome de Trousseau asociado en paciente con mesotelioma peritoneal maligno.
+
+Tratamiento
+En Urgencias se modificó al inicio la pauta de HBPM por ausencia de nuevos trombos, pero se ingresó para estudio. Ante la mala evolución del miembro inferior se solicitó TC de arterias de MMII, evidenciándose trombosis arteriales a distintos niveles. Se realizó angioplastia arterial del miembro afecto con trombectomía de los trombos vasculares accesibles y dejando posteriormente una perfusión de uroquinasa a 100.000 UI/hora. A pesar del tratamiento, el paciente continuó con empeoramiento progresivo de las lesiones tróficas distales, precisando dos angioplastias posteriores en días consecutivos. Se colocaron endoprótesis en los trombos de las ramas principales y con fibrinólisis con bolos de uroquinasa con ausencia de mejoría.
+
+Evolución
+El paciente presentó empeoramiento clínico con mayor la ascitis, astenia y deterioro del estado general. Debido al estado oncológico, estado del paciente y estado vascular se decidió optar por un tratamiento sintomático exclusivo consensuado con el paciente y familiares. El paciente falleció 4 días después.

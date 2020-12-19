@@ -1,0 +1,33 @@
+Anamnesis
+Varón de 37 años, con sobrepeso y dislipemia en tratamiento con rosuvastatina como únicos antecedentes médicos; apendicectomizado; sin antecedentes familiares de interés.
+
+En mayo de 2014 inicia un cuadro de unos 10 días de evolución consistente en astenia, con sudoración de predominio matutino, tos no productiva y epigastralgia, con empeoramiento progresivo, motivo por el cual acude a Urgencias el 5 de junio de 2014.
+
+Exploración física
+La exploración física no objetivaba alteraciones, y las constantes eran normales.
+
+Pruebas complementarias
+» En las pruebas complementarias se apreciaba un mínimo derrame pleural derecho, acompañado de agrandamiento de la siueta cardiopericárdica, con una CPK de 879, una troponina de 0,15 y una hemoglobina de 12,2 g/dl como alteraciones llamativas en la analítica.
+» El ECG era compatible con la normalidad.
+
+Diagnóstico
+El paciente es diagnosticado de pericarditis aguda, siendo dado de alta con tratamiento antiinflamatorio, con mala evolución por aumento progresivo de la disnea junto con opresión torácica, por lo que el 8 de junio vuelve a Urgencias. Ante la sospecha de TEP se realiza dímero-D, objetivándose una cifra de 6.868, motivo por el cual se realiza una angio-TC, apreciándose un derrame pericárdico de cuantía abundante. Ante este hallazgo, se solicita un ecocardiograma, que confirma el diagnóstico de taponamiento cardíaco, realizándose una pericardiocentesis con extracción de 2.000 cc de líquido hemorrágico. El análisis del líquido objetivaba 1.810.000 hematíes, 19.300 células nucleadas (con predominio mononulear del 74%), una LDH de 14.077 y ADA elevado; la citología no fue concluyente, pero no mostraba atipias.
+
+Tras la pericardiocentesis se realiza una ecocardiografía transesofágica, describiéndose en la misma una masa de gran tamaño, sésil, inmóvil, heterogénea, extendida por la pared libre del ventrículo derecho, el surco aurículo-ventricular y al interior de cavidades auricular y ventricular derechas. Se completó el estudio con una RM cardíaca, que añadió los datos de un tamaño de 87 x 113 mm, y confirmó la sospecha de infiltración a nivel de la pared libre ventricular derecha, surco AV, AD, parte de la válvula tricúspide y protrusión intracavitaria. La TC realizada, además, mostró adenopatías prevasculares e infiltración de la raíz pulmonar, la aorta torácica ascendente y la coronaria derecha (esta última confirmada con cateterismo).
+
+El 26 de junio se realiza ventana pericárdica diagnóstica, objetivando la anatomía patológica macroscópica tejido miocárdico y pericárdico grisáceo, heterogéneo, con áreas blanquecinas y otras hemorrágicas; la descripción microscópica incluye áreas con células neoplásicas constituyendo canales anastomosados y estructuras vasculares, revestidos por células fusocelulares, y con presencia de algunos elementos epitelioides atípicos. La inmunohistoquímica mostró positividad para CD31, ERG, vimentina, citoqueratinas y el Ki-67 era moderado-alto.
+
+Con diagnóstico de angiosarcoma cardíaco grado 3, se deriva a la Unidad de Trasplante Cardíaco, que tras realizar una PET-TC donde se objetiva hipermetabolismo de FDG en la totalidad del pericardio, región paratraqueal derecha y prevascular y varios focos subcentimétricos pancreáticos, peripancreáticos, interasas, perirrenales izquierdos y a nivel de tercer arco costal derecho, desestima esta posibilidad.
+
+Tratamiento
+Es valorado en Oncología Médica el 18 de julio de 2014, donde se propone paclitaxel 160 mg los días 1, 8 y 15 cada 28 días, terapia considerada de elección en la actualidad en este tipo de tumores, que recibe hasta el 20 de agosto, con mala evolución clínica: aumento progresivo de la disnea, mucositis grado 1, mialgias, PS-ECOG de 3, y necesidad de hospitalización por inestablidad hemodinámica.
+Además, durante el ingreso se realiza una TC, que muestra un empeoramiento generalizado, con aumento del tamaño del primario.
+Ante esto, y teniendo en cuenta que el pazopanib conlleva un plazo temporal de inicio de acción del que no disponíamos, iniciamos segunda línea de tratamiento con gemcitabina, por ser una opción quimioterápica con un perfil de toxicidad tolerable, de fácil acceso y aceptado como adecuada opción terapéutica en el tratamiento de sarcomas, con beneficio en series de casos de angiosarcoma cardíaco.
+El 3 de septiembre iniciamos gemcitabina 1.000 mg/m2 en monoterapia los días 1, 8 y 15 cada 28 días.
+En el transcurso de la terapia el paciente recupera el PS-ECOG 1, realizando vida activa, sin nuevos episodios de inestabilidad hemodinámica y precisando una única hospitalización en noviembre por síndrome febril, en la que se realiza una TC de reevaluación que objetiva respuesta parcial, a expensas de normalización de las adenopatías, disminución notable de la masa cardíaca, con ensanchamiento de las cámaras y desaparición del derrame pleural. El paciente continúa recibiendo gemcitabina en monoterapia, junto con corticoides, que inducen de manera progresiva un síndrome de Cushing.
+
+Evolución
+En febrero de 2015 se realiza una PET-TC de reevaluación, que confirma la significativa respuesta a nivel cardíaco, objetivando importante progresión a nivel abdominal, por formación de múltiples implantes peritoneales. Manteniendo el paciente un buen estado general, con PS-ECOG 1 y aparición de ascitis, tras el ciclo sexto C (el 25 de febrero) se decide añadir vinorelbina a dosis de 25 mg/m2 los días 1 y 8 cada 21 días, manteniendo la gemcitabina con el mismo esquema previo.
+El paciente experimenta a partir de entonces cuadros de infección respiratoria de repetición, junto con episodios de taquicardia y disnea, que remiten sin complicaciones con tratamiento de soporte.
+El 11 de marzo de 2015 ingresa por sospecha clínica de TEP, por lo que se realiza una angio-TC, que lo descarta, y objetiva progresión de la enfermedad a expensas de aumento de la ascitis, formación de omental cake y acuñamientos vertebrales, por lo que decidimos cambiar la terapia a pazopanib 800 mg/día, que inicia el 12 de marzo de 2015.
+Posteriormente el paciente presenta un empeoramiento clínico progresivo, con aumento de la ascitis, que incrementa la frecuencia de paracentesis evacuadoras de gran volumen, empeoramiento progresivo de la astenia y la disnea, así como aumento de la frecuencia cardíaca, hasta el día 23 de abril, fecha en la que acude al Hospital de Día con hipotensión mantenida y taquicardia severa, motivo por el que ingresa, siendo exitus el 24 de abril de 2015.

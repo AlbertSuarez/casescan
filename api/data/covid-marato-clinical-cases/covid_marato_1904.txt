@@ -1,0 +1,31 @@
+Anamnesis
+ANTECEDENTES E HISTORIA ONCOLÓGICA
+Varón de 58 años, hipertenso con buen control, portador del virus de la hepatitis C y antecedente reciente de cardiopatía isquémica (IAM sin elevación del segmento ST). Diagnosticado de un adenocarcinoma gástrico HER2 positivo (Herceptest: +++/+++) estadio IV por la presencia de enfermedad ganglionar supra e infradiafragmática. Tras el diagnóstico se administró radioterapia (RT) con intención hemostática (37,5 Gy) por un cuadro de hemorragia digestiva alta de origen tumoral. Valorado en consultas de Oncología Médica tras la finalización de la RT, inició tratamiento quimioterápico (QT) con cisplatino 80 mg/m2 i.v. día 1, capecitabina 1.000 mg/m2 vía oral días 1-14 y trastuzumab (dosis de carga: 8 mg/kg; dosis siguientes: 6 mg/kg) cada 21 días.
+
+ANAMNESIS
+El paciente acudió a Urgencias 4 días tras el primer ciclo de QT por un cuadro de náuseas y vómitos (hasta 5 al día) iniciados 24 horas después del inicio de la QT, sin mejoría a pesar de metoclopramida e intolerancia a la vía oral secundaria. Se instauró dieta absoluta y se inició sueroterapia y metoclopramida por vía parenteral, con resolución del cuadro emético.
+A las 24 horas de ingreso, comenzó con alteración progresiva en la articulación del habla, a la cual se añadieron inatención y confusión en las 48 horas siguientes, resultando imposible mantener una conversación con el paciente.
+
+Examen físico
+En la exploración neurológica el paciente se encontraba desorientado en tiempo (falla año: "1954") y con atención disminuida. Se objetivó una disartria escandida grave y dismetría marcada en las pruebas dedo-nariz y talón-rodilla, con inestabilidad troncular en la sedestación y aumento de la base de sustentación en bipedestación que imposibilitaba la marcha. Pares craneales y resto de exploración física sin hallazgos.
+
+Pruebas complementarias
+- Analítica: urea 128 mg/dl, Cr 2,72 mg/dl, ClCr 25,7 ml/min, K 2,9 mmol/l. Resto de ionograma, hemograma, coagulación y perfil hepático sin alteraciones.
+- Radiografía de tórax y abdomen: sin alteraciones relevantes.
+- Ecografía vía urinaria: ectasia pielocalicial derecha con pelvis renal de 10 mm.
+- TC cerebral (sin contraste): sin hallazgos patológicos.
+- Estudio LCR: leucocitos 3/ul, proteínas 20 mg/dl, glucosa 74 mg/dl (para 126 de glucemia), ADA normal.
+- Anticuerpos antineuronales (suero): anti-Hu, anti-Yo, anti-Ri, anti-PNMA2, anti-CV2, anti-anfifisina negativos.
+- Interconsulta al Servicio de Neurología (3 días tras el ingreso): "Juicio Clínico: posible encefalopatía de Wernicke en resolución. El paciente presenta un cuadro de inatención y síndrome cerebeloso que ha ido mejorando progresivamente tras el inicio de tratamiento con tiamina. Actualmente mantiene leve inatención, habiéndose resuelto el resto de la clínica neurológica. Además, el resto de las causas han sido descartadas razonablemente, si bien está pendiente de la RM cerebral".
+- RM cerebral (4 días tras ingreso): sin hallazgos patológicos.
+
+Diagnóstico
+- Síndrome de Wernicke atípico (sin oftalmoparesia y con dismetría de las extremidades).
+- Insuficiencia renal aguda de causa mixta (prerrenal por deshidratación, parenquimatosa por cisplatino y postrenal por uropatía obstructiva).
+
+
+Tratamiento
+Tras la valoración por el Servicio de Neurología en Urgencias y tras descartar otras posibles causas de la clínica del paciente, se inició tratamiento con tiamina intravenosa ante la sospecha de síndrome de Wernicke, junto con suplementos orales de vitaminas B6 y B12.
+
+Evolución
+A las 12 horas de inicio del tratamiento, el paciente experimentó una mejoría clínica significativa (disartria moderada, no perseveración y mejoría de la dismetría), con recuperación completa a las 72 horas. Se mantuvo la sueroterapia intravenosa ante el deterioro agudo de la función renal, sin observarse mejoría. Tras objetivar en la ecografía abdominal uropatía obstructiva, se decidió colocar un catéter doble J derecho, tras lo cual mejoró hasta cifras de creatinina en torno a 1,42 mg/dl.

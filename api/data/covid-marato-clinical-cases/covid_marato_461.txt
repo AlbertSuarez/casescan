@@ -1,0 +1,25 @@
+Anamnesis
+Presentamos el caso de un varón de 38 años de edad, sin antecedentes personales ni familiares de interés, que no toma tratamiento médico de forma habitual y que no ha sido sometido a ninguna cirugía previamente. En marzo de 2007, consulta en Urgencias por dolor en flanco izquierdo, no irradiado, de unos días de evolución, sin síndrome febril ni síntomas miccionales asociados.
+
+Exploración física
+La exploración física inicial es anodina, salvo por la presencia de leves molestias en el puño percusión renal izquierda. El abdomen es blando, depresible, no se palpan masas ni megalias, no presenta signos de peritonismo y los ruidos intestinales están conservados. Las constantes se mantienen estables sin mostrar alteraciones reseñables.
+
+Pruebas complementarias
+Con la sospecha clínica inicial de cólico nefrítico complicado se realiza:
+ Ecografía renal: donde se observa una masa heterogénea en tercio medio del riñón izquierdo.
+ Completándose el estudio mediante TC toracoabdominal, que informa de la ausencia de adenopatías, por lo que se programa para cirugía con el objetivo de realizar una nefrectomía radical.
+
+Diagnóstico
+Se realiza nefrectomía radical y el diagnóstico de Anatomía Patológica de la pieza quirúrgica es el siguiente: carcinoma de células renales tipo células claras con diámetro mayor de 7,7 cm (grado histológico 3 de Furhman) con afectación microscópica de la cápsula y vena renal (pT3N0Mx: estadio II).
+
+Tratamiento
+Ante estos resultados se decide continuar con seguimiento estrecho mediante pruebas de imagen y controles analíticos.
+
+Evolución
+A los 18 meses de seguimiento se objetiva en la TC abdominopélvica, adenopatía paraaórtica izquierda de 16 mm con algún ganglio mediastínico, paratraqueal y prevascular menor de 1 cm, de carácter inespecífico.
+Se decide reevaluar con nueva TC abdominopélvica a los 4 meses, es decir, a los 22 meses de seguimiento. Se observa adenopatía paraaórtica de 18 mm, paratraqueal de 22 mm y retrocrural derecha 24 mm, todas ellas de mayor tamaño que en la TC previa.
+Por lo que se decide realización de PET-TC que informa de captación paraaórtica izquierda, ganglionar paratraqueal izquierda, tiroides y cayado aórtico.
+A partir de ese momento se diagnostica de progresión ganglionar mediastínica y paraaórtica de carcinoma de células renales tipo células claras y se inicia ya en marzo de 2009 tratamiento de primera línea con sunitinib 50 mg al día esquema 4:2.
+Durante el seguimiento mediante imagen, una vez iniciado el tratamiento con sunitinib, se observa que la primera medición de las lesiones diana basales era de L1 22 mm y L2 18 mm y que en la tercera evaluación con TC se aprecia un claro crecimiento de L1 34 mm y L2 16 mm. Objetivándose un aumento de 10 mm en las dimensiones totales de las lesiones (40 mm basal y 50 mm en la TC de reevaluación), equivalente al 25 %, lo que concuerda con un 1º ILP de 8 meses si aplicamos criterios RECIST.
+El paciente continuó sunitinib y posteriormente observamos un mínimo crecimiento durante un periodo de 24 meses y una mayor tasa de crecimiento del 44 % en los siguientes 11 meses. Esta segunda progresión por criterios RECIST equivaldría a un 2º ILP de 35 meses con crecimiento de tres lesiones medibles del 44 % (L1 34 mm, L2 16 mm y L3 22mm), cuya suma total es 72 mm, que aumenta a 104 mm (L1 43 mm L2 23 mm y L3 38 mm). Por último, la tercera evaluación como progresión a sunitinib 3ªILP es de 41 meses, con un crecimiento de las lesiones diana del 21 % (L1 43 mm, L2 23 mm y L3 38 mm), cuya suma total es 104 mm que aumenta a 126 mm (L1 50 mm, L2 27 mm y L3 49 mm).
+Durante todo el periodo de tratamiento, el paciente presenta una excelente tolerancia al fármaco sin reducción de la dosis y se objetiva un beneficio clínico constante sin síntomas derivados de la enfermedad, manteniéndose activo laboralmente.

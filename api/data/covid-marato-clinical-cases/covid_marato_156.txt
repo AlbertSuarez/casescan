@@ -1,0 +1,32 @@
+Anamnesis
+Mujer de 73 años, con historia de hipertensión, histerectomía y doble ooforectomía 40 años antes por endometriosis, exfumadora, que vive con su hija, y sin antecedentes familiares patológicos, su medicación habitual era amilorida/hidroclorotizida, metamizol, paracetamol y omeprazol.
+Consulta en Urgencias de nuestro centro en agosto de 2007 por cuadro de dolor y distensión abdominal y estreñimiento, siendo compatible con obstrucción intestinal. Se realizó una colonoscopia urgente mostrando masa estenosante a 10 cm de margen anal y tomografía computarizada (TC) de abdomen objetivando dilatación de todo el colon hasta la parte más distal.
+
+Se realiza una laparotomía, identificando tumoración en unión de recto-sigma y se procede a resección anterior baja y anastomosis termino-terminal con colostomía de protección. El estudio histológico fue informado como colitis aguda purulenta sin hallar áreas de transformación maligna. Inició seguimiento por Cirugía General.
+Posteriormente se realizó cirugía de reconstrucción del tránsito intestinal el 2008 y luego por eventraciones en 2009 y 2010. Durante el preoperatorio de esta última se objetiva nódulo pulmonar en el lóbulo superior derecho (LSD), ampliando el estudio con TC torácico que describe nódulo de 2,3 cm en el LSD sin otros hallazgos patológicos. La broncoscopia fue macroscopicamente normal y con citologías de cepillado bronquial negativas de malignidad. La malignidad del nódulo fue confirmada con PET-TC que mostraba captación patológica (SUVmáx 11,8) en el nódulo descrito. Se procede a punción-aspiración con aguja fina (PAAF) del nódulo con resultado histológico de carcinoma no de células pequeñas mas probablemente epidermoide.
+En noviembre de 2010 se realiza toracotomía objetivando masa de 3 cm. en segmento apical posterior de LSD y se procede a segmentectomía típica de LSD y linfadenectomía mediastínica. El estudio histológico definitivo informó de metástasis pulmonar de adenocarcinoma compatible con origen en el intestino grueso, con marcada positividad para CK20, CDX-2 y negatividad para TTF-1 y CK7.
+Es remitida al Servicio de Oncología continuando revisiones periódicas con TC y marcadores tumorales (CEA y CA-19.9) que fueron normales hasta marzo de 2013 en que se objetiva recaída con masa de partes blandas de 3 cm adyacente a lecho quirúrgico de segmentectomía pulmonar de LSD, confirmando malignidad con tomografía de emisión de positrones (PET-TC) (SUVmáx 7,6) y broncoscopia, recogiendo biopsia de la lesión, que fue informada como adenocarcinoma compatible con metástasis de origen en intestino grueso. El Servicio de Cirugía Torácica descartó nueva metastasectomía por alto riesgo de complicaciones quirúrgicas.
+El estado K-RAS fue mutado. No presentaba alteraciones analíticas salvo leve alteración de la función renal (Cr 1,2 mg/dL), CEA 2,9 ng/mL, CA-19.9: 2,9 U/mL, la exploración física era anodina. En junio de 2013 inicia tratamiento con capecitabina 1000 mg/m2/12h por 14 días cada 21 días, reduciendo las dosis un 25% tras 5.º ciclo por deterioro de la función renal y con buena tolerancia posterior, alcanzando respuesta parcial de la lesión del LSD.
+En noviembre de 2013 sufre traumatismo con fractura de la rama iliopubiana izquierda que fue tratada con manejo conservador y reposo hasta febrero de 2014 en que vuelve a consultar en Oncología Médica.
+
+Exploración física
+A la exploración física, no mostraba alteración del murmullo vesicular en campos pulmonares, no presenta alteraciones en el aparato cardiovascular ni alteraciones en abdomen ni extremidades y presentaba leve estridor laríngeo. El resto de la exploración física fue normal.
+
+Pruebas complementarias
+» Se le solicita hemograma y bioquímica sanguínea, así como marcadores tumorales que fueron normales.
+» Se realiza PET-TC de reestadificación en la que se describía progresión de la lesión pulmonar conocida, además de lesión en intratraqueal de 8 mm a la altura de vertebra dorsal D3 de nueva aparición. Se reinicia capecitabina a las mismas dosis previas y se solicita broncoscopia diagnóstica que se realiza el 10/3/2014, describiendo lesión proliferativa en tercio superior-medio de tráquea a 4-5cm. de cuerdas vocales, ocupando 75% de la luz impidiendo el paso del broncoscopio, se recoge biopsia que fue informada de adenocarcinoma compatible con origen en colon.
+» Se realizó estudio de mutaciones en EGFR y de traslocación ALK sobre esta biopsia que fueron negativos.
+» Tres semanas después acude a consulta refiriendo disnea ocasional y leve estridor de laringe.
+
+Diagnóstico
+Metástasis intratraqueal de adenocarcinoma de colon.
+Ante la suficiente evidencia clínica y patológica consideramos inequívoco nuestro diagnóstico.
+
+Tratamiento
+La paciente fue remitida al Servicio de Neumología del Hospital Gómez Ulla, realizándole en abril de 2014 broncoscopia rígida que objetivaba oclusión casi completa de la luz traqueal, realizando tratamiento con láser de neodimio-ytrio-aluminio-garnet (YAG-Nd) seguido de resección mecánica con broncoscopio rígido y aplicando argón-plasma sobre el lecho tumoral. El resultado histológico de la lesión extirpada fue informado como metástasis de adenocarcinoma compatible con origen colónico con positividad para CEA, MLH-1, MSH-2, PMS-2 y negatividad para CK7.
+
+Evolución
+La paciente presentó mejoría con resolución total de la disnea y el estridor. Continuó tratamiento con apecitabina a las mismas dosis con enfermedad estable en PET-TC de reevaluación a finales de abril de 2014.
+Un mes después se realiza control traqueal con broncoscopia objetivando nuevo crecimiento de la lesión que se reseca con láser YAG-Nd y nueva resección mecánica; posteriormente recibió braquiterapia endotraqueal x 4 dosis de 500 cGy 1 vez por semana entre junio y julio de 2014.
+Tras estos procedimientos continúo tratamiento con capecitabina manteniendo enfermedad estable hasta enero de 2015 (tras 19 meses de intervalo libre de progresión), en que presenta progresión pulmonar con metástasis bilaterales, iniciando tratamiento con irinotecán a dosis de 180 mg/m2/15 d, alcanzando enfermedad estable tras 6 ciclos y que mantiene hasta la actualidad.
+Paralelamente ha continuado revisiones periódicas trimestrales en el Servicio de Neumología del Hospital Gómez Ulla sin evidencia de recaída de la lesión traqueal.

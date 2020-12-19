@@ -1,0 +1,26 @@
+Anamnesis
+Varón de 43 años de edad, diagnosticado de neurofibromatosis tipo 1 (NF-1) en 1996. Desde entonces es controlado con revisiones oftalmológicas, dermatológicas y resonancia magnética cerebral (RM) periódicas sin incidencias. En un control rutinario, se solicitó una ecografía abdominal, iniciando estudio ante los hallazgos obtenidos.
+
+Examen físico
+No presentaba clínica constitucional, síndrome anémico o síntomas relacionados con hipersecreción hormonal.
+
+Pruebas complementarias
+Ecografía abdominal: masa de 70 x 68 mm, localizada por encima de la vejiga urinaria, con abundante flujo Doppler, de ecogenicidad heterogénea y de bordes bien definidos.
+RM de abdomen y pelvis: masa supravesical de probable origen vesical sugestiva de paraganglioma extraadrenal. Neurofibromas múltiples.
+Gammagrafía con metayodobenzilguanidina (MIBG): depósito de radiotrazador de leve intensidad a nivel supravesical.
+Metanefrinas en orina: normales.
+Octreoscán: tumor supravesical con débil expresión de receptores de somatostatina, sin evidencia de enfermedad metastásica.
+
+Diagnóstico
+GIST múltiple intestinal asociado a neurofibromatosis tipo 1.
+Resección intestinal con exéresis completa.
+
+Tratamiento
+Exéresis de la tumoración previo tratamiento con alfabloqueantes pese a tener los niveles de catecolaminas dentro de los límites de la normalidad. En el acto quirúrgico se observa una tumoración doble: la primera dependiente de asa de yeyuno medio con un pedículo que proviene del meso y la pared del mismo de unos 6-7 cm de diámetro y la segunda localizada en el yeyuno más proximal a unos 15-20 cm de la salida del ángulo de Treitz. No existen restos de enfermedad macroscópica.
+Anatomía patológica del yeyuno medio: múltiples tumores del estroma gastrointestinal. El mayor mide 8 x 7 x 6 cm y no presenta mitosis (riesgo moderado). Dependiente la serosa. Escasas atipias. Sin necrosis. Ki67+ en el 2 % de las células. Ausencia de mutación en gen KIT y PDGFRA. El siguiente en tamaño mide 2,3 cm de eje mayor y no presenta mitosis (riesgo bajo). Localización intramural. Subtipo de células fusiformes. Escasos atipias. No presenta necrosis.
+Ki67+ del 3 % de las células.
+Patrón inmunohistoquímico: CD117 +, CD34+, actina -, desmina -, enolasa -, S 100 -,cromogranina -,CKAE1/AE3 - y CAM5.2 -.
+
+Evolución
+Dado los criterios anatomopatológicos de riesgo (localización tumoral, tamaño, índice mitótico y presencia o no de ruptura tumoral), la ausencia de mutaciones en KIT y PDGFRA y las características intrínsecas de los GIST asociados a la neurofibromatosis tipo 1, decidimos no administrar tratamiento adyuvante con imatinib.
+El paciente continúa seguimiento y controles clínicos y radiológicos sin evidenciarse signos ni síntomas de progresión de enfermedad hasta la fecha.

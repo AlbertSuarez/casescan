@@ -1,0 +1,24 @@
+Anamnesis
+Se trata de un paciente varón de 48 años sin antecedentes médico-quirúrgicos de interés, y con una situación basal y funcional adecuadas a su edad con vida laboral activa que en agosto de 2017 debuta con un síndrome vertiginoso asociado a cefalea.
+
+Exploración física
+Afebril, eupneico, hemodinámicamente estable, sin signos de hipoperfusión periférica al momento de la presentación. Ataxia en la marcha, dismetría y disdiadococinesia izquierdas: el resto de la exploración clínica fue anodina.
+
+Pruebas complementarias
+Se aprecia en TC cerebral urgente una lesión ocupante de espacio a nivel cerebeloso. Ingresa a cargo de Neurocirugía. Tras exéresis y estudio histopatológico, el diagnóstico definitivo es de metástasis de adenocarcinoma compatible con origen colorrectal.
+En el estudio de extensión mediante PET-TC se aprecia nódulo pulmonar en lóbulo superior izquierdo de 1,8 cm y un engrosamiento mural en colon descendente.
+
+Diagnóstico
+Adenocarcinoma colorrectal estadio IV (SNC, pulmón).
+
+Tratamiento
+Inicia, en octubre de 2017, tratamiento de primera línea para enfermedad metastásica según esquema FOLFOX 6 m asociado desde el segundo ciclo a panitumumab (estudio de vía RAS wild type).
+
+Evolución
+Debido a toxicidad dermatológica, se suspende panitumumab al cuarto ciclo. Completa 12 ciclos de FOLFOX 6 m en abril de 2018. En el estudio de PET-TC para valorar la respuesta de la enfermedad no se aprecia malignidad macroscópica.
+Es intervenido quirúrgicamente realizándosele resección segmentaria de sigma en mayo de 2018. La histopatología demuestra un adenocarcinoma de sigma moderadamente diferenciado ypT4ypN0/11.
+Se reevalúa la enfermedad mediante TC en julio de 2018 manteniendo respuesta completa.
+En octubre de 2018, a raíz de cuadro de cefalea de perfil hipertensivo endocraneal, se solicita RM cerebral, apreciándose 4 lesiones ocupantes de espacio en hemicerebelo izquierdo compatibles con recaída cerebelosa de la enfermedad.
+Recibe radioterapia externa sobre zona de recaída de la enfermedad, un total de 30 Gy divididos en 10 fracciones. El paciente presenta mejoría progresiva de cefalea.
+En febrero de 2019, debido a clínica de hemiparesia izquierda y apreciándose en PET-TC captación a nivel de la sexta vértebra cervical (C6), se solicita RM de columna cervical donde se aprecia una lesión metastásica intradural extramedular con compresión del canal a nivel de C6 de 1 x 1,7 x 1,8 cm.
+Es sometido a intervención neuroquirúrgica disecando el tumor por fragmentos desde duramadre hasta cara dorsal medular dejándose base tumoral, que infiltra el cordón medular. Recibe radioterapia externa sobre canal medular completando 10 sesiones de 3 Gy, 30 Gy en total. El paciente presenta una mejoría progresiva de la hemiparesia izquierda.

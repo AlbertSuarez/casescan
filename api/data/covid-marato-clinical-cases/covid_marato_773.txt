@@ -1,0 +1,24 @@
+Anamnesis
+Mujer de 44 años nunca fumadora y sin antecedentes personales ni familiares de interés.
+Su historia oncológica comienza en Junio 2010 con un cuadro tusígeno que no mejora a pesar de tratamiento sintomático por lo que es derivada a Medicina Interna para estudio, con diagnóstico final de
+Adenocarcinoma de pulmón estadio IV por afectación pulmonar bilateral y ósea en cuerpo vertebral D4, sin posibilidad de determinar el perfil mutacional por falta de muestra a pesar de varios intentos fallidos de biopsia no válida.
+
+Exploración física
+ECOG 1. Peso: 45 Kg. Talla: 152 cm. Superficie corporal: 1.38 m2. Eupneica en reposo, saturando al 98% sin oxígeno sumplementario. Taquicardia sinusal a 110 lpm. No adenopatias periféricas palpables.
+Auscultacion cardiopulmonar con buen murmullo vesicular. Abdomen y miembros inferiores sin hallazgos. Exploracion neurológica normal.
+
+Pruebas complementarias
+» Analítica completa (Junio 2010) sin alteraciones. CEA normal.
+» Tomografía axial computarizada (TAC) de cráneo (Julio 2010) sin afectación metastásica. TAC tórax y abdomen al diagnóstico (Julio 2010): Masa coalescentes de morfología irregular en ambos lóbulos superiores y bases pulmonares fundamentalmente a la izquierda. Múltiples nódilos pulmonares en prácticamente todas las localizaciones de los distintos lóbulos pulmonares de carácter metastásico.
+No evidencia de adenomegalias o afectación pleural. Lesiones focales hipodensas hepáticas en segmento IV y VIII con características de hemangiomas. Lesión osteoblástica vertebral en D4 sin afectación de cordón medular.
+» Fibrobroncoscopia (Julio 2010) sin hallazgos endobronquiales.
+» Anatomía patológica: estudio citológico concordante con adenocarcinoma de pulmón. Estudio inmunohistoquimico: TTF1 positivo, p63 negativo. EGFR/ALK no valorable por falta de muestra.
+
+Diagnóstico
+Carcinoma no microcítico de pulmón (CNMP) estadio IV (afectación pulmonar bilateral y ósea única D4) EGFR/ALK desconocido.
+
+Tratamiento
+En ausencia de determinación mutacional al diagnóstico y ante deterioro respiratorio, se opta por tratamiento quimioterápico dentro de ensayo clínico en su hospital de referencia según esquema Cisplatino + pemetrexed + bevacizumab x 4 ciclos con respuesta parcial y posterior mantenimiento de pemetrexed y bevacuzimab x 2 ciclos hasta Noviembre 2010 que presenta progresion clínica y radiológica pulmonar. Se realiza entonces nuevo intento de toma de muestra para determinación mutacional que resulta positiva para la mutación del EGFR (delección 19) por lo que se inicia en Diciembre 2010 tratamiento con erlotinib y acido zoledrónico con estabilización de la enfermedad como mejor respuesta, que matiene hasta Febrero 2015 sin toxicidad relevante y con un intervalo libre de progresion de 50 meses. En Marzo 2015, dada la aparición de tos y disnea con los moderados esfuerzos acompañada de progresión radiológica a nivel pulmonar y ósea múltiple es derivada a nuestro hospital para valoración de tratamiento dentro de ensayo clínico como nueva estrategia terapeútica.
+
+Evolución
+Se plantea, dada la historia natural de la enfermedad, realizar una nueva fibrobroncosopia para la determinación de la mutación de resistencia T790M que resulta positiva, por lo que se propone tratamiento dentro de ensayo clínico con un fármaco antidiana. En las pruebas de screening se objetiva, además de la conocida afectación pulmonar y ósea, afectacion cerebral no conocida con múltiples lesiones focales hiperdensas en prácticamente todas las localizaciones de los distintos lóbulos, pero asintomática por lo que se descarta radioterapia holocraneal y se inicia tratamiento con osimertinib 80 mg/día dosis continua dentro de ensayo clínico. Desde el inicio de la terapia, la paciente experimenta una muy buena respuesta clínica dada la resolución completa de la clínica respiratoria a los 15 días del inicio de tratamiento (C1D15). Tras completar 2 ciclos de tratamiento, se solicita TAC de reevaluación en Junio 2015 que evidencia respuesta completa radiológica a nivel cerebral y respuesta parcial a nivel pulmonar y ósea que mantiene hasta la actualidad. Hasta el momento, la paciente ha recibido un total de 16 ciclos con un intervalo libre de progresión de 14 meses, encontrándose asintomática, presentando una excelente tolerancia al tratamiento (piel seca grado 1, mucositis nasal grado 1, paroniquias grado 1 en manos y anorexia grado 1 como únicos efectos adversos) y realizando vida normal con ECOG 0.

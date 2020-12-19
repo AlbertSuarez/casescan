@@ -1,0 +1,20 @@
+Anamnesis
+Se trata de un varón de 19 años sin antecedentes de interés ni alergias conocidas. Es atendido por primera vez en una clínica privada tras un traumatismo en el pie derecho.
+
+Exploración física
+Durante la exploración destaca una masa en antepié derecho que no produce una alteración de la marcha, ni de la fuerza ni de la sensibilidad.
+
+Pruebas complementarias
+En la RM se objetivó una masa de 8,9 x 2,9 cm en el antepié, de contenido heterogéneo, que desplazaba los tendones extensores, y alcanzaba el córtex de los huesos adyacentes sin infiltrarlos. Al no existir evidencia de malignidad, se realizó una biopsia incisional con resultado de tumor de células redondas, que no podía descartar sarcoma de Ewing.
+
+Diagnóstico
+Con este diagnóstico, se practicó en marzo de 2015 una amputación infracondílea de la pierna derecha, con resultado de sarcoma indiferenciado pT1a pNX pMX.
+
+Tratamiento
+Fue tratado con quimioterapia adyuvante (4 ciclos) con esquema doxorrubicina e ifosfamida, finalizada en agosto 2015 y posteriormente pasó a revisiones.
+
+Evolución
+En enero 2016 se evidenció recidiva pulmonar múltiple (4 nódulos pulmonares) tratados con cirugía. Entre abril 2016 y noviembre 2017, el paciente fue sometido a varias resecciones atípicas pulmonares, siendo todas ellas compatibles con metástasis pulmonares de sarcoma.
+En enero 2018 en la TC de control, aparece una masa de 30 mm adyacente a las suturas del lóbulo superior izquierdo, un implante paratraqueal derecho (25 x 35 mm) y una masa subcarinal (43 x 27 mm), junto con un engrosamiento de la pleura posterior. En ese momento se considera irresecable y se plantea tratamiento dentro del ensayo clínico GEIS 52, con la combinación de sunitinib y nivolumab. En el ensayo clínico, la pieza anatomopatológica se revisó mediante next-generation sequencing (NGS) y se identificó la fusión genética BCOR-CCNB3.
+Durante el tratamiento, el paciente presentó una respuesta no RECIST al tratamiento, no modificándose el tamaño de las lesiones, pero sí evidenciándose un menor grado de realce tras la administración de contraste.
+Tras 8 meses dentro del ensayo clínico, progresó a nivel pulmonar, del implante subcarinal y paratraqueal. En ese momento, el paciente comienza segunda línea de quimioterapia con esquema VAC-IE (vincristina 2 mg/m2 día 1), doxorrubicina (adriamicina; 75 mg/m2), y ciclofosfamida con mesna (1.200 mg/m2 día 1), alterno con ifosfamida y mesna (1.800 mg/m2 días 1-5) and etopósido (100 mg/m2) cada 3 semanas, completando 7 ciclos (2 alternos y 5 IE exclusivamente), el último en marzo 2019 con respuesta parcial por criterios RECIST como mejor respuesta y mantenida hasta la actualidad. Quedó únicamente una lesión residual de 19 x 27 mm subcarinal paraesofágica, que se ha resecado a fecha 22 de mayo de 2019, siendo la Anatomía Patológica negativa para malignidad, con hallazgos únicamente de reacción xantomatosa y necrosis, con respuesta completa tumoral en el tejido analizado, sin evidencia de malignidad.

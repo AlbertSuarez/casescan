@@ -118,3 +118,5 @@ dmypy.json
 # Data
 data/
 !data/.gitkeep
+!data/covid-marato-clinical-cases/
+!data/db.pkl

@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 62 años sin antecedentes personales de interés ni hábitos tóxicos. Entre sus antecedentes familiares oncológicos destaca el padre con carcinoma de tiroides y melanoma a edad avanzada.
+
+Historia oncológica
+Es diagnosticado de un melanoma nodular estadio pT4bpN1M0 (TNM 7ºed. 2010, estadio III) en 2014. Se realizó extirpación de la lesión con bordes libres y linfadenectomía tras biopsia de ganglio centinela positivo. No recibió tratamiento adyuvante y comenzó revisiones. A los dos años se objetiva un nódulo pulmonar único, el cual se reseca con resultado histológico de metástasis de melanoma, continuando seguimiento. Ocho meses más tarde, aparece una nueva lesión pulmonar junto con una lesión esplénica, confirmadas histológicamente de afectación metastásica. Ante la evidencia de BRAF no mutado, inicia nivolumab en monoterapia. Destacaba por ser un paciente asintomático, con ECOG 0, LDH normal y poca carga de enfermedad tumoral.
+En la reevaluación a los 3 meses se objetivaba respuesta casi completa. La lesión localizada en el polo superior del bazo desapareció a los 6 meses con evidencia de nueva esplenomegalia de más de 14 cm que desapareció 1 mes más tarde. Tras 26 dosis bisemanales del fármaco (a los 13 meses del inicio del tratamiento) se observan imágenes pseudonodulares en varios lóbulos pulmonares compatibles con proceso inflamatorio/infeccioso con dependencia del árbol bronquial central. Posteriormente se realiza TC de tórax de control.
+Se solicita estudio de broncoscopia para descartar patología infecciosa a través de cultivos de BAS/BAL y estudio citológico con ausencia de células tumorales malignas. Por lo tanto, el cuadro fue orientado hacia una toxicidad pulmonar secundaria a inmunoterapia. Dado que el paciente se encontraba asintomático en todo momento y debido a la respuesta completa precoz presentada, se decidió no reintroducir el fármaco anti PD-1 así como no pautar tratamiento corticoide.
+Tras la suspensión, y sin necesidad de tratamiento corticoide, se objetivó resolución completa de las imágenes nodulares en la siguiente reevaluación por imagen a los tres meses de su inicial diagnóstico. En la siguiente evaluación, tras llevar 8 meses sin tratamiento con anti PD-1, y encontrándose de nuevo asintomático, se evidenciaron nuevas imágenes en vidrio deslustrado en relación con un nuevo cuadro de neumonitis, con un patrón radiológico completamente diferente al anterior episodio. En la nueva broncoscopia, se descarta de nuevo patología infecciosa y tumoral, y en el recuento celular de objetiva un predominio de linfocitos con inversión en el cociente CD4/CD8.
+
+Exploración física
+El paciente permaneció asintomático en los dos procesos de neumonitis, sin necesidad de oxigenoterapia ni tratamiento corticoide.
+
+Pruebas complementarias
+El paciente ha mantenido seguimiento radiológico mediante TC y PET-TC a lo largo de su evolución. Se han realizado broncoscopias durante los dos episodios de neumonitis para descartar patología infecciosa y tumoral.
+
+Diagnóstico
+» Neumonitis grado 1 recurrente por anti PD-1 en primera línea de melanoma BRAF no mutado metastásico con afectación pulmonar y esplénica.
+» Esplenomegalia durante el tratamiento con anti PD-1.
+
+Tratamiento
+El paciente recibió tratamiento con inmunoterapia anti-PD-1 durante 26 ciclos.
+
+Evolución
+El paciente se encuentra en seguimiento clínico, en respuesta completa sin tratamiento.

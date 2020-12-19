@@ -1,0 +1,35 @@
+ANTECEDENTES PERSONALES
+- Hiperplasia benigna de próstata, intervenido por fotovaporización prostática el 7/7/16
+- Ex-fumador desde hace más de 40 años (Índice paquete-año 8,8)
+
+HISTORIA ONCOLÓGICA
+Varón de 82 años de edad, en seguimiento por Urología tras diagnóstico en Junio de 2017 de adenocarcinoma de próstata con alta carga tumoral. Estadificación T4 N1 M1 por afectación adenopática retroperitoneal e ilíaca y metástasis óseas múltiples.
+Gleason 10 (5+5) con PSA al diagnóstico de 7.4 ng/mL.
+Ante paciente con diagnóstico de carcinoma de próstata metastásico hormonosensible, se inicia deprivación androgénica con análogo LHRH semestral en Junio de 2017 asociando abiraterona en Septiembre de 2017, basándonos en los datos publicados del Latitud, en que la asociación de la abiraterona con la deprivación androgénica suponía un beneficio en supervivencia global y libre de progresión. Los pacientes debían cumplir dos de los siguientes criterios; tres o más metástasis óseas, Gleason > 8, afectación visceral.
+Noviembre 2017; PSA nadir 0.12
+
+ENFERMEDAD ACTUAL
+En TAC de control de Enero de 2018, se describe reducción a nivel adenopático y de la tumoración prostática. Destaca la aparición de un nódulo en lóbulo superior derecho de
+18 mm.
+PSA 0.13 ng/mL Testosterona 15 ng/mL
+Se completa estudio con rastreo óseo en que se observan 9 focos óseos metastásicos nuevos. En este momento, nos encontramos con un paciente con carcinoma de próstata metastásico en fase resistente a la castración, con progresión radiológica a nivel óseo, en el que aparece un nuevo nódulo pulmonar.
+
+EVOLUCIÓN
+El paciente se encuentra clínicamente asintomático, ECOG 1. Sin alteraciones en la exploración física.
+Tras comentar en Comité de Tumores Urológicos, se decide solicitar biopsia de nódulo pulmonar obteniendo diagnóstico anatomopatológico de adenocarcinoma de origen pulmonar.
+* No mutación de EGFR ni BRAF. No reordenamiento de ALK/ROS1. Expresión de PD-L1 > 50%
+Ante segunda neoplasia sincrónica de origen pulmonar, localizada al diagnóstico, se decide tratamiento radical con SBRT (recibiendo un total de 7 Gy en 9 fracciones del 23/05/18 al 12/06/18)
+En cuanto al contexto de la enfermedad prostática, en paciente con carcinoma de próstata metastásico en fase resistente a castración con progresión ósea y aparición de segunda neoplasia, optamos por iniciar quimioterapia de primera línea con docetaxel-prednisona.
+En Julio de 2018, en TAC y rastreo óseo de control, tras 4 ciclos de quimioterapia con docetaxel- prednisona, se describe aparición de 3 nuevas lesiones óseas con incremento de intensidad de algunos focos conocidos. Existe estabilidad tanto a nivel ganglionar como pulmonar, describiéndose una nueva adenopatía en la zona de bifurcación de la cava inferior de 1 cm de diámetro.
+PSA 0.76 ng/mL Testosterona < 3 ng/mL
+Ante paciente con progresión radiológica (ósea y ganglionar), clínica y bioquímica de la enfermedad, se inicia tratamiento de segunda línea con cabazitaxel.
+En Septiembre de 2018, tras 4 ciclos de cabazitaxel-prednisona, en TAC y rastreo óseo de control, se describe aparición de adenopatías a nivel retroperitoneal así como la aparición de nueva lesión a nivel suprarrenal izquierda. Existe también progresión ósea con lesiones de nueva aparición e incremento de las previas.
+En este momento, ante la afectación metastásica infrecuente de la glándula suprarrenal en el cáncer de próstata, se decide solicitar biopsia de nódulo suprarrenal para esclarecer el diagnóstico. Como resultado, obtenemos muestra compatible con metástasis de adenocarcinoma de pulmón.
+*No mutación de EGFR ni BRAF. No reordenamiento de ALK/ROS1. Expresión de PD-L1 > 50%.
+PSA 6.94 ng/mL
+
+Ante la progresión bioquímica y radiológica de la enfermedad prostática a nivel óseo y ganglionar, nos encontramos con escasas opciones terapéuticas. Tras obtener el diagnóstico de la progresión del adenocarcinoma pulmonar, con expresión de PD-L1 > 50%, se decide iniciar tratamiento con Pembrolizumab de primera línea (Octubre 2018) En TAC de control de Diciembre de 2018 y tras 3 ciclos de Pembrolizumab existe una respuesta parcial con disminución de lesión pulmonar, desaparición de las adenopatías retroperitoneales y del nódulo suprarrenal izquierdo e incremento de la densidad de las lesiones blásticas óseas (esclerosis secundaria probablemente a respuesta)
+
+Tras 5 ciclos de Pembrolizumab en último rastreo óseo realizado (Febrero 2019) persiste estabilidad en metástasis óseas conocidas.
+En resumen, el paciente se encuentra con estabilidad de enfermedad según criterios RECIST 1.1 de sus dos neoplasias sincrónicas, existiendo una disminución de la captación en los focos existentes.
+PSA 0.09 ng/mL

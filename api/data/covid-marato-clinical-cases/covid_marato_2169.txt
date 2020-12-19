@@ -1,0 +1,29 @@
+Anamnesis
+Se trata de un varón de 56 años con antecedentes únicamente de fumador de 20 cigarrillos diarios sin otros factores de riesgo cardiovascular o hábitos tóxicos, sin tratamiento habitual e independiente para las actividades de la vida diaria y trabajador en la construcción. Acude a Urgencias en abril de 2017 por cuadro neurológico consistente en pérdida de fuerza, parestesias y mioclonías en miembro superior y hemifacial derecha de 48 horas de evolución. Una vez se indaga en la entrevista, comentaba pérdida de peso en torno a 10 kg en 4 meses, coincidente con disnea de moderados esfuerzos y aumento de expectoración hemoptoica de forma intermitente. En este escenario, se realiza radiografía torácica que muestra opacificación pulmonar izquierda y escáner cerebral con lesiones múltiples compatibles con metástasis. Por tanto, inicia corticoterapia con dexametasona 4 mg cada 6 horas y se realiza radioterapia (RT) holocraneal paliativa entre los días 09/05 y el 22/05/2017 con dosis total de 30 Gys.
+A las 24 horas de finalización de la RT craneal (23/05/2017). acude a consulta para inicio de quimioterapia paliativa (cisplatino-gemcitabina) con aumento de astenia y debilidad, deterioro clínico y con aparición de hemoptisis de nuevo. Por tanto, se realiza control radiológico que evidencia, además del colapso izquierdo conocido tumoral, dos infiltrados en pulmón derecho con broncograma aéreo compatibles con bronconeumonía o áreas de broncoaspiración.
+
+Exploración física
+» Constantes vitales: Tª 36,8 ºC; FC: 145 lpm; TA 106/73 mm Hg; saturación O2 basal 92 %. Mal estado general, palidez cutánea, bien perfundido, pero sequedad mucocutánea. Taquipnea leve en decúbito sin signos de trabajo respiratorio. Caquexia. Glasgow 13/15.
+» Cabeza y cuello: sequedad mucosa con muguet oral. Carótidas isopulsátiles, sin soplos, ni ingurgitación yugular.
+» Tórax: rash acneiforme en región torácica anterior (probable secundario a corticoides).
+» Auscultación cardiopulmonar: arrítmica, taquicárdica, sin soplos. Hipoventilación global sin ruidos respiratorios sobreañadidos.
+» Abdomen: blando, depresible, no es doloroso durante la palpación. Ruidos hidroaéreos presentes, sin signos de irritación peritoneal.
+» Miembro inferior: sin edema ni signos de trombosis venosa profunda, no hay insuficiencia venosa crónica.
+
+Pruebas complementarias
+1. Radiografía de tórax 23/05/2017: además del colapso del lóbulo superior izquierdo ya conocido de origen tumoral, se objetivan dos infiltrados extensos aunque focales con broncograma aéreos en pulmón derecho, probable compatible con bronconeumonía. Podría tratarse de áreas de aspiración. Más dudosamente, una hemorragia ya que se trata de dos focos muy bien delimitados y las hemorragias suelen ser más difusas.
+2. Angio-TC arterias pulmonares: consolidaciones confluentes multimodulares cavitadas en los tres lóbulos derechos y lóbulo inferior izquierdo compatible con neumonía abscesificada. El abombamiento de la cisura mayor se ha descrito característico de infección por Klebsiella, aunque por la semiología descrita se debe incluir en el diagnóstico diferencial microorganismos anaerobios, Pseudomonas o Staphylococcus aureus, sin poder descartar por imagen micobacterias o incluso hongos (menos probable).
+3. TC craneal 22/04/2017: múltiples lesiones intraaxiales supra e infratentoriales, en región parietal izquierda al menos tres con aspecto quístico con significativo edema circundante con efecto masa que incluso comprime ventrículo ipsilateral sin herniación. También al menos 3 en fosa posterior, hemisferios cerebelosos, sin signos de sangrado activo
+4. Anatomía Patológica en el diagnóstico: citología de aspirado bronquial sospechosa de malignidad. Biopsia broncoscópica con mucosa bronquial infiltrada con características de carcinoma epidermoide, con estudio inmunohistoquímico con p63 positivo y TTF-1 negativo.
+Microbiología al diagnóstico: se aísla flora saprofita habitual.
+5. Analítica al ingreso: leucocitos 12.880 mcl, neutrófilos 10.740 mcl, hemoglobina 15,6 g/dl, plaquetas
+211.000 mcl. Función renal en rango con potasio 5,9 mmol/l y PCR 30 mg/dl, resto sin alteraciones significativas.
+
+Diagnóstico
+Neumonía cavitada compatible con Aspergilosis pulmonar masiva en paciente con carcinoma epidermoide pulmonar IV.
+
+Tratamiento
+Inicia tratamiento antibiótico empírico de amplio espectro con piperacilina-tazobactam con empeoramiento de situación respiratoria y taquicardia en este contexto que se corresponde con flutter auricular. Ante la desaturación es necesario inicio de perfusión de mórfico para control síntomas, y se realiza angio-TC (25/05/2017) que descarta tromboembolismo pulmonar, pero objetiva cavitación pulmonar en prácticamente todo el lóbulo derecho que podría corresponder con infección por atípicos, anaerobios o micobacterias. Por tanto, se asocia clindamicina al betalactámico sin sufrir mejoría. En este proceso, se obtiene 24 horas después resultado de esputo con Aspergillus fumigatus, por lo que se inicia voriconazol.
+
+Evolución
+Sin embargo, la situación respiratoria sigue sin estabilizarse, asociando alteración cardiológica con presencia de flutter auricular y el paciente fallece finalmente el 28/05/2017.

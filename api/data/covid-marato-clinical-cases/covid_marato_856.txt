@@ -1,0 +1,34 @@
+Anamnesis
+Mujer de 39 años, sin antecedentes de interés.
+En diciembre de 2012 inicia estudio en su país de origen por cuadro de disnea de un año de evolución asociado a dolor torácico. La TC objetiva un tumor de 92 x 74 mm que ocupa el mediastino anterior y que invade pericardio, porción ascendente del cayado aórtico y tronco de la arteria pulmonar. Se realiza resección tumoral parcial en enero de 2013, obteniendo el diagnóstico anatomopatológico de timoma tipo B1 con infiltración capsular.
+Posteriormente, la paciente es derivada a consultas de Oncología, donde se plantea quimioterapia complementaria según esquema Descripción epirrubicina-"platamina", del que recibe 4 ciclos (último en mayo 2013).
+Tras progresión locorregional en septiembre 2013 y tras haber comentado caso en comité de tumores torácicos, se decide tratamiento con quimio-radioterapia concomitante con cisplatino (21 sesiones de radioterapia). Posteriormente la paciente inicia seguimiento y se traslada a nuestro país.
+En agosto de 2014 presenta nueva progresión pleural y pararrenal izquierda, iniciando nueva línea de tratamiento según esquema Ifosfamida 1,5 mg/m2 durante 5 días, del que sólo pudo recibir un ciclo por neutropenia grado IV mantenida, requiriendo modificar esquema a TAXOL semanal (2 on y 1 off) y del que recibe 6 ciclos con estabilización de la enfermedad. Posteriormente se realiza radioterapia de consolidación sobre lesiones pleurales y pararrenal izquierda, finalizando el tratamiento en agosto 2015.
+En marzo de 2016 se evidencia en TC nueva recaída de la enfermedad a nivel pleural y se reinicia TAXOL semanal, recibiendo sólo 3 ciclos por presentar de nuevo toxicidad hematológica. Mantiene estabilidad de la enfermedad hasta enero de 2017, donde progresa de nuevo a nivel pleural y ganglionar. Ante el antecedente de toxicidad previa, se inicia tratamiento con pemetrexed 500 mg/m2 día 1 cada 21 días, recibiendo un total de 6 ciclos desde marzo a septiembre 2017 e iniciando de nuevo seguimiento (se decide stop de tratamiento por estabilidad de la enfermedad y toxicidad acumulada).
+En diciembre 2017 se evidencia progresión de la enfermedad locorregional y pleural comentándose caso en comité de tumores y decidiéndose resección parcial de la enfermedad, que se realiza en febrero 2018. La Anatomía Patológica fue de timoma tipo B2 invasor con alto índice proliferativo (Ki 67 de 40-50 %) y alta expresión de PDL1 (80 %).
+Tras la cirugía, la enfermedad se mantendría estable hasta septiembre de 2018, donde se objetiva nueva progresión a nivel pleuropulmonar, pararrenal y nuevos implantes intraabdominales. Se vuelve a comentar caso en sesión y ante hallazgos de Anatomía Patológica y toxicidad previa a quimioterapia, se solicita inmunoterapia con nivolumab como uso compasivo, iniciando ciclo 1 el 26 de septiembre de 2018.
+El día 5 de octubre consulta en el Servicio de Urgencias por cuadro de 3-4 días de evolución de astenia, debilidad muscular proximal, ptosis y diplopía.
+
+Exploración física
+» Consciente, orientada, afebril, eupneica en reposo.
+» NRL: funciones superiores conservadas. Pupilas "normocóricas" y normorreactivas, ptosis bilateral, oftalmoparesia para la aducción de ambos rectos internos en mirada lateral.
+» Balance motor: deltoides basal 4+/5 bilateral, tras 10 repeticiones fatiga y 4-/5 derecho y 3/5 izquierdo. Flexores de cuello basal 4/5, tras 5 repeticiones 3-/5.
+» Test del hielo en consulta positivo: mejoría notable de la oftalmoparesia y la ptosis.
+
+Pruebas complementarias
+» » Analítica con bioquímica, hemograma y coagulación rigurosamente normal.
+» » Se realiza TC de cráneo en el que no se objetivan hallazgos patológicos.
+» Se extrae analítica para estudio de perfil autoinmune (anticuerpos anti-AChR, anti-Musk y anti-músculo estriado).
+
+Diagnóstico
+Sospecha de miastenia gravis en paciente con timoma tras primer ciclo de nivolumab.
+
+Tratamiento
+» Piridostigmina 60 mg cada 8 horas.
+» Prednisona 60 mg cada 24 horas.
+
+Evolución
+Tras alta a domicilio con piridostigmina y corticoides, la paciente consulta de nuevo en Urgencias a los 5 días por el mismo cuadro, asociando, además, disnea y tos de 24-48 horas de evolución, sin fiebre. Se realiza angio-TC de tórax, la cual descarta progresión de la enfermedad, TEP, neumonía o neumonitis por toxicidad a inmunoterapia. Se traslada a sala de observación para iniciar tratamiento intravenoso con inmunoglobulinas y, ante la no mejoría del cuadro y la inestabilización de la paciente, termina ingresando en UCI.
+La paciente requiere intubación orotraqueal y tratamiento mediante plasmaféresis. Tras la primera semana, en la que no se había obtenido respuesta al tratamiento, se reciben los resultados de los anticuerpos solicitados: anti-AChR > 20 (0-0,45) y anti-Musk < 0,4 (0-0,4).
+En aquel momento se considera el diagnóstico de crisis miasténica Osserman grado 5 en relación a síndrome paraneoplásico del tumor primario, por lo que se presenta el caso en comité de tumores y se decide iniciar quimioterapia según esquema cisplatino, doxorrubicina y ciclofosfamida (CAP).
+Tras el primer ciclo, parece existir una ligera respuesta durante las primeras 48 horas. Sin embargo, y a pesar de un segundo ciclo de tratamiento, el cuadro continuaría progresando hasta finalmente producir la muerte de la paciente tras 38 días de ingreso en UCI.

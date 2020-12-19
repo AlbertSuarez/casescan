@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 26 años sin antecedentes medicoquirúrgicos de interés ni historia familiar de cáncer. Es derivado a la consulta de Neurología para estudio por 3 crisis de ausencia autolimitadas en la semana previa al estudio. No tiene hábitos tóxicos ni toma medicación de manera habitual.
+
+Exploración física
+Paciente con un ECOG de 0, sin encontrarse hallazgos en la exploración por aparatos, y tampoco se objetiva focalidad neurológica.
+
+Pruebas complementarias
+RM (abril 2015): tumoración intraaxial en región temporal medial derecha que condiciona desplazamiento medial del hipocampo y craneal del asta temporal. Probable origen en sustancia corticosubcortical temporal parahipocampal. Tamaño de 31 x 31 x 37 mm. Hiperseñal en secuencias T2. Intensa y homogénea captación de contraste con una zona de menor captación y pequeñas áreas quísticas en su zona periférica posterior. Edema circundante a nivel del ápex anterior temporal. No presenta restricción de la difusión.
+
+Diagnóstico
+» Sospecha inicial con resultados de RM: glioma de bajo grado temporal derecho.
+» Diagnóstico final tras confirmación anatomopatológica: ganglioglioma anaplásico temporal derecho.
+
+Tratamiento
+El 21/04/2015 se realiza craneotomía temporal derecha y exéresis total de la lesión intraaxial. La RM post-IQ confirma la ausencia de resto tumoral.
+La anatomía patológica describe un tumor constituido por una población mixta glial y neuronal. El componente astrocitario presenta áreas con baja atipia nuclear con formación de microquistes entremezcladas con otras en las que aumenta la celularidad, la atipia y presenta proliferación microvascular y algunas figuras de mitosis. La población neuronal está constituida por neuronas dismórficas dispuestas de forma parcheada y formando pequeños acúmulos. En el estudio IHQ se observa positividad focal y aislada para P53, negatividad para IDH1 y expresión difusa de ATRX. Ki67 en las áreas de mayor celularidad es de alrededor del 15 %. Diagnóstico concluyente con ganglioglioma focalmente anaplásico (grado III OMS).
+
+Evolución
+Dada la ausencia de resto tumoral tras la cirugía, se decide no realizar tratamiento complementario y pasa a controles con progresión precoz tumoral a 3 meses de la cirugía (julio 2015) con aparición de zona captante de 16,6 mmLL x 8,1 mmAP y 5,2 mmCC en lecho quirúrgico, paciente asintomático. En Comité de Tumores se decide radioterapia (RT) con tomoterapia (60 Gy a 2 Gy/fracción), que finaliza en septiembre 2015, sin toxicidad.
+En la 1ª RM post-RT (octubre 2015) persiste área de captación fusiforme de 23 mmLL x 18 mmAP y 15 mmCC dispuesta en la sustancia blanca colateral del giro parahipocampal con ratios máximas de perfusión de 5,1. Es valorado en Comité de Tumores para rescate quirúrgico; dada la ausencia de sintomatología asociada se decide control evolutivo. En la RM de julio de 2016 (a 10 meses de la RT) progresión tumoral con lesión de 40 mmLL x 41 mmAP x 24 CC, se realiza nueva intervención quirúrgica con persistencia de resto tumoral en margen anteromedial de lecho quirúrgico.
+Tras la intervención (agosto 2016), inicia tratamiento sistémico paliativo con temozolamida 200 mg/m2 días 1-5/28 días con progresión de la enfermedad tras 4º ciclo (SLP 4 meses). Sin toxicidad relacionada con el tratamiento, el paciente sigue asintomático.
+Se solicita estudio de BRAF, objetivándose mutación V600. Revisada la bibliografía, se decide tratamiento con vemurafenib (960 mg/12 horas) que inicia en diciembre de 2016. Respuesta parcial tras 3er ciclo con una reducción del volumen tumoral del 40 % y respuesta mantenida tras el 6º ciclo. Progresión tumoral tras 9º ciclo con aparición de un nuevo nódulo tumoral, paciente asintomático (SLP 10 meses). Buena tolerancia al tratamiento con eritema grado 1 y queratoacantoma en labio que se resecó.
+En octubre de 2017, estando asintomático, inicia nueva línea de tratamiento con dabrafenib 150 mg/12 h, días 1 a 28 + trametinib 2 mg/24h días 1-28 cada 28 días con progresión asintomática tras el 3er ciclo (enero 2018). En ese momento, el paciente decide descanso de tratamiento.
+En abril de 2018, ha tenido que ser intervenido de manera urgente por hipertensión intracraneal secundaria a sangrado tumoral y actualmente está pendiente de evolución clínica para valorar su inclusión dentro de un ensayo clínico.

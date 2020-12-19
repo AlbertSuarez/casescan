@@ -1,0 +1,44 @@
+Anamnesis
+
+ANTECEDENTES PERSONALES
+
+Varón de 54 años de edad, casado, dos hijos, vive en domicilio propio con su esposa en zona urbana.
+No tiene alergias conocidas a medicamentos. Hipertensión arterial, dislipemia e hiperuricemia sin tratamiento. Síndrome de apnea obstructiva del sueño en tratamiento con uso nocturno de dispositivo de presión positiva continua de vía aérea. Sin antecedentes quirúrgicos previos. Sin tratamientos farmacológicos activos al momento de la consulta.
+
+ANTECEDENTES FAMILIARES
+
+Sin antecedentes familiares relevantes.
+
+ENFERMEDAD ACTUAL
+El paciente consulta en diciembre de 2012 por aparición de masa dolorosa de cinco meses de evolución en pared torácica posterior izquierda, de crecimiento progresivo, no asociada a pérdida de peso, fiebre, ni otros síntomas. Anamnesis por aparatos sin datos relevantes.
+
+Exploración física
+T.A. 130/70; F.C. 86 lpm; ECOG 1; Peso 94 kg; Talla 170 cm. Mucosas húmedas, normocoloreadas. No se palpan adenopatías cervicales, supraclaviculares, axilares ni inguinales. Ruidos cardiacos rítmicos sin soplos. Murmullo vesicular universal sin ruidos patológicos. Masa palpable de 3 cm de diámetro localizada en pared torácica posterolateral izquierda, levemente dolorosa. Abdomen blando, depresible, no doloroso a la palpación, sin masas ni megalias. Extremidades inferiores sin edemas ni dolor a la palpación.
+
+Pruebas complementarias
+» Rayos X simple P.A y lateral de tórax: no se aprecian alteraciones relevantes.
+» TAC Torax - Abdomen y Pelvis: se constata la presencia de una tumoración de partes blandas de 3,2 x 2 cm en la región posterolateral de la pared costal izquierda, situada en el espacio intercostal entre la 10ª y 11ª costilla, y que presenta plano de clivaje con la musculatura dorsal. Se observan también una tumoración sólida en el margen inferior del riñón derecho, compatible desde el punto de vista radiológico con hipernefroma y una tumoración de 2 cm en íntima relación con el margen superior de un asa de ileon con una calcificación grosera en su interior.
+» Resonancia Magnética de pared costal izquierda: se confirman la presencia de la tumoración en el espacio intercotal entre 10ª (en íntima relación con su arco posterior) y 11ª costilla izquierda y que presenta cambios de señal en médula ósea de 10ª costilla, compatible con infiltración. Tiene plano graso a su alrrededor, tanto en relación con la musculatura dorsal como en la grasa subdiafragmática izquierda y respecto al margen del bazo. Se objetiva además la lesión de 5,5 cm en región interpolar anterior del riñón derecho.
+» Biopsia con aguja gruesa de masa de partes blandas de pared torácica izquierda: sarcoma de alto grado compatible con rabdomiosarcoma pleomórfico.
+
+Diagnóstico
+» Sarcoma de alto grado en pared torácica izquierda, compatible con rabdomiosarcoma pleomórfico.
+» Masa renal derecha, radiológicamente compatible con hipernefroma, a estudio.
+» Tumor ileal extrínseco, a estudio.
+
+Tratamiento
+El caso es presentado en el comité multidisciplinar de sarcomas, se decide intervención quirúrgica sobre masa torácica y posterior estudio de las lesiones renal e ileal.
+El 12 de febrero de 2013 se practica exéresis de la tumoración en pared torácica posterior izquierda y de la 10ª costilla, incluyendo el músculo dorsal ancho que la recubre y la pleura parietal sobre la que asienta y reconstrucción con malla.
+» Anatomía Patológica: rabdomiosarcoma pleomórfico de 3,3 cm de diámetro máximo que infiltra el tejido costal. Bordes quirúrgicos libres (margen de seguridad de 4 mm en borde profundo).
+Una adenopatía libre de malignidad. G3 pT1b pN0. Las técnicas de inmunohistoquímica demuestran positividad intensa frente a actina y desmina y focal frente a miogenina. CKAE1-AE3, S100, CD34, CD 31 y MyoD1 negativos. Ki 67 del 50%.
+Considerándose la existencia de margen anatómico libre se desestima tratamiento radioterápico complementario.
+
+Evolución
+El día 27 de febrero de 2013 se valora al paciente en consultas de Oncología Médica, solicitándose TAC post quirúrgico en el que no se observan datos de recidiva de la lesión torácica y se evidencia un mínimo aumento del tamaño de la lesión renal derecha. La tumoración subserosa relacionada con el ileon no presentaba variaciones en su tamaño y se había desplazado de sitio localizándose en fosa iliaca izquierda (indicativo de ausencia de reacción desmoplásica asociada). Se observaba así mismo un pequeño nódulo de 7 mm hipercaptante en la pared posterior de la cuarta porción duodenal, de nueva aparición.
+Presentado nuevamente el caso en comité multidisciplinar, se decide intervención quirúrgica simultánea de lesiones renal derecha e intestinales, practicándose el día 22 de abril de 2013 nefrectomía radical derecha y resección parcial de ileon e implantes en pared de intestino delgado (seis implantes sobre serosa de intestino delgado desde cuarta porción duodenal hasta ileon proximal y otro en borde mesentérico de ileon de 1,5 cm y otro de 1 cm en mesenterio).
+» Anatomía Patológica de nefrectomía radical derecha: Adenocarcinoma renal de célula clara, grado nuclear de Fuhrman 3. Lesión de 5 cm de dimensión máxima, que focalmente infiltra la grasa perirrenal. Vena renal sin evidencia de malignidad. Cabo ureteral y glándula suprarrenal sin alteraciones histológica destacables.
+» Anatomía Patológica de implantes de intestino delgado y mesenterio: Tumor del estroma gastrointestinal (GIST) de células fusiformes de bajo grado en seis focos, el mayor de 1,9 cm.
+Categoría de muy bajo riesgo (Clasificación de Fletcher). Una mitosis / 50 HPF. G1 pT1(m6). La celularidad tumoral es positiva para marcaje con c-kit, CD 34 y PDGFR, siendo negativas S100, desmina, AE1/AE3, myod1, miogenina, actina y desmina. Ki 67 < 5%.
+En TAC post quirúrgico de mayo de 2013 se observa persistencia de nódulo hiperdenso de 7 mm en la pared de la cuarta porción duodenal, no visualizándose otras lesiones a nivel de pared torácica ni intraabdominales por lo que se plantea rescate quirúrgico del nódulo remanente el cual se lleva a cabo el día 07 de octubre de 2013 mediante resección segmentaria duodeno-yeyunal, confirmando la anatomía patológica un GIST de células fusiformes de bajo grado, de 4 mm (G1 pT1), que respeta los márgenes quirúrgicos de resección y sin identificarse ninguna mitosis en 50 campos de gran aumento (categoría de muy bajo riesgo según la clasificación de Fletcher).
+Valorado de nuevo el paciente en consultas de Oncología Médica se desestima tratamiento adyuvante con imatinib por tratarse de un GIST de bajo riesgo; por el hecho de ser multifocal se remite a la consulta de consejo genético en donde se solicita extracción y análisis de ADN para estudio molecular de c-kit previa información y firma de consentimiento, encontrándose dos polimorfismos descritos en la población control y sin asociación clínica con ningún síndrome familiar asociado a GIST.
+Así mismo, en los sucesivos controles clínicos y de imagen el paciente permanece libre de enfermedad, siendo valorado la última vez en abril de 2016.

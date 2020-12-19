@@ -1,0 +1,34 @@
+Anamnesis
+Paciente de 81 años diabético, con antecedentes de tromboembolismo pulmonar (TEP) y fumador activo, que inicia cuadro de dolor y edematización de miembro inferior izquierdo, por lo que acude a Urgencias, donde se le realiza Eco-Doppler y se diagnostica de trombosis venosa profunda (TVP) izquierda, iniciando tratamiento con rivaroxabán.
+Pocos días después acude a consulta nuevamente por disnea de varios días de evolución, asociada a tos sin expectoración y sin dolor torácico. En Urgencias se realiza angio-TC por sospecha TEP, que se confirma, observándose defecto de repleción en arteria lingular compatible con TEP. Además, en la angio-TC se visualizan adenopatías axilares/retropectorales izquierdas de tamaño significativo (18 y 20 mm) sospechosas de malignidad, adenomegalia prevascular en ventana aortopulmonar e hiliar con eje corto inferior a 10 mm, no significativa, así como micronódulo de 4 mm en segmento medial de lóbulo medio (LM).
+Debido a estos resultados, ingresa a cargo de Medicina Interna para ampliar estudio.
+Durante el ingreso, la evolución es favorable, permaneciendo asintomático desde el punto de vista respiratorio. Se realizan una batería de pruebas complementarias, para filiar las adenopatías observadas en la TC, entre ellas una analítica general con marcadores tumorales, sin observar alteraciones relevantes salvo CEA (antígeno carcinoembrionario) de 327 y un PET-TC donde se describe un foco hipermetabólico hiliar pulmonar izquierdo (SUVmax 11,4) que parece corresponderse a la adenopatía en ventana aortopulmonar, que se menciona en la angio-TC, varios focos hipermetabólicos axilares izquierdos (SUVmax 14,11), coincidentes con adenopatías de tamaño significativo en angio-TC. Pequeño foco hipermetabólico (SUVmax 3,9) retroparotídeo izquierdo que pudiera corresponderse con otra adenopatía subcentimétrica.
+Ante estos resultados de la PET/TC, se decide consultar con Cirugía General para toma de biopsia de adenopatía axilar.
+Los resultados anatomo-patológicos de la biopsia axilar corresponden a metástasis ganglionar de carcinoma pobremente diferenciado con comedonecrosis. El estudio inmunohistoquímico de las células tumorales muestra negatividad para CK20, TTF1, PSA, GATA3, S100 y p40, no pudiendo establecer el origen del tumor primario.
+Ante estos hallazgos se deriva a Oncología para valoración.
+
+Exploración física
+Paciente con un performance status (PS) de 1, con auscultación cardiorrespiratoria normal, tonos rítmicos sin soplos audibles, murmullo vesicular conservado sin ruidos sobreañadidos; abdomen blando, depresible, no doloroso en la palpación, sin masas ni megalias. No se palpan adenopatías supraclaviculares ni axilares. En la inspección se observa signos de TVP en miembro inferior izquierdo.
+
+Pruebas complementarias
+Marcadores tumorales realizados: alfa-fetoproteína, CA 15,3, CA 19,9, CA 72,4, enolasa específica neuronal y PSA. Todos sin alteraciones relevantes salvo el CEA que muestra un claro descenso desde el diagnóstico.
+» CEA: 327,5 (realizado el 5/06/2017) >> 132,8 (realizado el 7/08/2017) >> 59,7 (realizado el 19/02/2018).
+PET-TC realizadas durante el seguimiento.
+» PET-TC inicial, realizada en junio de 2017, ya descrito en la anamnesis.
+» PET-TC en noviembre/2017: metástasis linfáticas estables, salvo la citorreducción en axila izquierda. No se identifican otros focos.
+» PET-TC en febrero/2018: adenopatías que sugieren metástasis linfáticas en remisión. No se identifican nuevos focos que resulten sospechosos de actividad tumoral.
+Inmunodiagnóstico infeccioso
+» Serologías realizadas en agosto/2017: virus de las hepatitis negativos salvo IgG e IgM para el virus de la hepatitis A positivo.
+» Serologías realizadas en febrero/2018: virus de las hepatitis negativos salvo IgG e IgM para el virus de la hepatitis A y E positivos.
+
+Diagnóstico
+Metástasis ganglionares (retroparotídea izquierda, mediastínica y axilar izquierda) de carcinoma pobremente diferenciado de origen desconocido.
+
+Tratamiento
+Ante estos resultados, se le ofrece al paciente la posibilidad de iniciar tratamiento quimioterápico con el esquema carbo-paclitaxel, primera línea de tumores de origen desconocido, pero el paciente rechaza el tratamiento y desea sólo seguimiento.
+
+Evolución
+Durante el seguimiento el paciente permanece asintomático. Niega cambios en su estilo de vida o alimentación.
+En las pruebas complementarias realizadas se observa una clara regresión espontánea del tumor. Hecho que se objetiva en las imágenes del PET-TC y en el acentuado descenso de los marcadores tumorales.
+Como hallazgo casual se observa una seroconversión del virus de la hepatitis A y E, sin repercusión clínica (no hay síndrome febril, ni sintomatología asociada), ni analítica (sin aumento de reactantes de fase aguda, ni elevación de transaminasas).
+Debido al resultado de las pruebas y al estado clínico del paciente, se propone continuar con seguimiento. Se establece una visita en dos meses con analítica de control y marcadores tumorales.

@@ -1,0 +1,30 @@
+Anamnesis
+Varón de 59 años sin alergias medicamentosas. Exfumador con índice paquete año (IPA) de 15 y etilismo activo. Obesidad mórbida e hipertensión arterial. Antecedente de trasplante hepático en el 2014 por cirrosis alcohólica, actualmente en tratamiento inmunosupresor con everolimus.
+
+Historia oncológica
+El paciente debutó en 2014 con una lesión hepática en segmento V-VIII sugestiva de hepatocarcinoma. Se intervino quirúrgicamente y el estudio patológico sugirió metástasis de adenocarcinoma, con citoqueratina 7 positiva y negativo para CD10 y hepatocito. Tras esto, pasó a seguimiento con tomografía computarizada (TC) semestral. En la TC toracoabdominal (mayo/2017): dos nódulos pulmonares, uno en el lóbulo superior izquierdo (LSI) y otro en el lóbulo superior derecho (LSD), que han crecido respecto a la TC previa. En noviembre/2017, se frustra la biopsia del nódulo del LSI por el pequeño tamaño y mala accesibilidad.
+En septiembre/2018, se logran biopsiar ambas lesiones. En el nódulo del LSI se haya metástasis de colangiocarcinoma, mientras que el nódulo del LSD presentó atipia celular de significado incierto.
+Con el diagnóstico de metástasis pulmonares de colangiocarcinoma, se le explicaron al paciente las alternativas, quimioterapia versus mejor cuidado de soporte, así como la conveniencia de abandono del alcohol y de ajuste del tratamiento inmunosupresor. Tras manifestar su deseo de tratamiento oncológico activo y teniendo en cuenta que se trata de un paciente inmunosuprimido por un trasplante, se inicia gemcitabina en febrero/2019 a dosis de 1.000 mg/m2 bisemanal con la intención de asociar cisplatino si hay buena tolerancia. Presenta trombopenia y neutropenia grado 3 después del 1er ciclo por lo que no se pauta el día 15 y se desestima asociar el platino. Continuó a partir del 2º ciclo con dosis reducidas un 20 % y recibió el 4º ciclo en mayo/2019.
+Cuatro días después, presenta diarrea asociando insuficiencia renal prerrenal y precisando ingreso hospitalario el 09/05/2019. Durante la hospitalización, se obtiene el resultado del coprocultivo: Campylobacter jejuni, por lo que se mantiene en tratamiento antibiótico por 10 días con lo cual la diarrea se resuelve, presentando mejoría clínica y es dado de alta.
+
+Historia actual
+Acude a Urgencias el 24/05/2019 derivado desde su hospital comarcal con sospecha diagnostica de compresión medular versus metástasis cerebrales. El paciente inició cuadro progresivo de pérdida de fuerza principalmente en miembros inferiores (MMII) de 4 días de evolución, que le impedía la deambulación e incluso la bipedestación, extendiéndose hacia miembros superiores (MMSS). No muestra déficit sensitivo. Ante dicho cuadro, se administró 1 dosis de corticoesteroide (8 mg de dexametasona IV) y fue trasladado a nuestro hospital.
+
+Exploración física
+ECOG 2. Orientado en las tres esferas. Buen nivel de conciencia. Funciones superiores conservadas. Estrabismo divergente ya conocido desde la infancia (niega diplopía), movimientos oculares normales, sin defectos campimétricos por confrontación. Facial centrado, pares bajos normales (pilares palatinos simétricos, úvula centrada, XII par sin alteraciones). Tetraparesia de predominio distal simétrica con mayor afectación MMII. Balance muscular, en MMSS: 4/5 a nivel proximal y 2/5 distal; MMII: 1/5 a nivel proximal y 1/5 distal. Lassegue positivo y bilateral. Sin afectación sensitiva. Arreflexia universal. Reflejo cutáneo plantear (RCP) indiferentes. Sin dolor dorsolumbar.
+
+Pruebas complementarias
+» Analítica general: hemograma, bioquímica y coagulación normales (salvo fibrinógeno 887).
+» Radiografía de tórax: nódulos pulmonares ya descritos en informes previos.
+» TC craneoencefálica de Urgencias: sin hallazgos patológicos.
+
+Diagnóstico
+Polirradiculopatía desmielinizante aguda o síndrome de Guillain-Barré (SGB) en paciente inmunodeprimido y con antecedente de infección por Campylobacter jejuni. Se le catalogó como el subtipo de SGB: neuropatía motora axonal aguda (AMAN).
+
+Tratamiento
+Ingresa para tratamiento con inmunoglobulinas IV y está en vigilancia estrecha ante la posibilidad de progresión de la enfermedad y compromiso de la musculatura respiratoria.
+
+Evolución
+Se realizó punción lumbar, obteniendo líquido cefalorraquídeo (LCR) de características anodinas (sin disociación albumino-citológica). Sin embargo, el cuadro es altamente sugestivo de polirradiculopatía desmielinizante (tetraparesia con arreflexia universal, precedida por la infección por Campylobacter jejuni), y sin datos que sugieran lesión a nivel medular dado que no presenta nivel sensitivo.
+Se completaron estudios neurofisiológicos (29/05/2019) con electromiografía (EMG) y electroneurografía (ENG) que son compatibles con polirradiculoneuritis axonal aguda de claro predominio motor.
+El paciente recibió tratamiento por 5 días con inmunoglobulinas IV, la evolución fue lenta pero favorable, con aumento progresivo de la fuerza muscular.

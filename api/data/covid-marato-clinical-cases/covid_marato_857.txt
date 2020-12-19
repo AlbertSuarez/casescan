@@ -1,0 +1,21 @@
+Anamnesis
+Se presenta el caso de una mujer caucásica de 56 años. En los antecedentes personales al diagnóstico, destacaba el consumo de al menos 1 paquete de tabaco-día, hipertensión arterial esencial y síndrome ansioso-depresivo. No estaban descritas alergias medicamentosas conocidas ni antecedentes familiares oncológicos de interés. Refería la toma habitual de ramipril 5 mg/día y alprazolam 0,25 mg de forma esporádica.
+En octubre de 2011, la paciente acudió al Servicio de Urgencias por síndrome vertiginoso y visión borrosa. Se realizó una TC craneal que resultó normal. Dado que el cuadro clínico persistió más de 24 horas, la paciente fue ingresada en el Servicio de Neurología para estudio. Durante la siguiente semana, aumentó la afectación neurológica con aparición de disartria e inestabilidad de la marcha. Se realizó una punción lumbar y se interpretó inicialmente el cuadro como una meningitis viral con afectación cerebelosa por lo que se trató con aciclovir 800 mg intravenoso cada 8 horas durante 14 días. Ante la falta de respuesta al tratamiento, se hicieron exámenes adicionales, incluyendo la determinación de anticuerpos anti-onconeuronales en suero.
+
+Exploración física
+La paciente tenía un regular estado general (ECOG 2). El examen neurológico reveló diplopía, nistagmo horizontal bidireccional, disartria, disfagia a líquidos, dismetría leve-moderada en extremidades superiores e inferiores, así como arreflexia generalizada. También se evidenció marcha atáxica con aumento de la base de sustentación y ataxia del tronco, sin otros datos en la exploración por sistemas.
+
+Pruebas complementarias
+En la analítica al ingreso destacaba un CA12, 5 de 113 U/ml. En las pruebas de imagen, la TC craneal y una RM cerebral no objetivaron patología aguda/subaguda a nivel del SNC. Tras una punción lumbar, el LCR mostró un recuento de glóbulos blancos de 98 μl (99 % de linfocitos). Tanto la citología como el cultivo del LCR fueron negativos. La determinación sérica de anticuerpos anti-onconeuronales evidenció positividad para anti-Yo. Ante la sospecha de un síndrome paraneoplásico se realizó una TC de extensión que evidenció 3 tumoraciones de partes blandas, 2 de ellas retroperitoneales y dos tumoraciones sólidas versus quísticas en correspondencia con ambos anejos.
+
+Diagnóstico
+Degeneración cerebelosa paraneoplásica secundaria a carcinoma pobremente diferenciado con perfil inmunohistoquímico, sugestivo de origen en serosa peritoneal.
+
+Tratamiento
+Se realizó tratamiento con bolus de metilprednisolona de 1 g/24 horas durante 5 días, seguido por inmunoglobulina humana normal (IgIV) en dosis de 30 g/día durante los 5 días siguientes con discreta mejoría clínica. Posteriormente, la paciente se sometió a una histerectomía con anexectomía bilateral. Durante la cirugía, se apreció atrofia uterina y varios implantes de hasta 3 cm de diámetro sobre la porción posterior del ligamento ancho. El estudio anatomopatológico evidenció un carcinoma pobremente diferenciado con datos inmunohistoquímicos sugestivos de origen en serosa peritoneal. La inmunohistoquímica mostró positividad para: CKAE1-AE3, CK7, CK19, WT1, receptores de estrógenos, p53 y de manera focal para receptores de progesterona y caldesmón. El estudio fue negativo para calretinina y CK20.
+Tras la cirugía, en diciembre de 2011, se decide iniciar un tratamiento sistémico con quimioterapia según el esquema paclitaxel 70 mg/m2 + carboplatino AUC2 con una periodicidad semanal. La paciente mostró excelente tolerancia a los 2 primeros ciclos, por lo que se decidió su seguimiento en consultas externas.
+Tras un total de 15 ciclos de carboplatino-paclitaxel y 5 de carboplatino en monoterapia la paciente presentó astenia grado 3, por lo que se paró el tratamiento. Tras una nueva valoración conjunta con el Servicio de Neurología, se decidió iniciar una terapia basada en la infusión de inmunoglobulinas cada 4 semanas.
+
+Evolución
+Tras el inicio del tratamiento, la paciente presentó desaparición de la diplopía con persistencia del resto de las alteraciones neurológicas que imposibilitan su bipedestación. Hasta la actualidad, la paciente ha presentado dos recaídas a los 38 y 85 meses del inicio de la enfermedad, ambas platino-sensibles.
+Tras 95 meses de seguimiento, la paciente sigue viva manteniendo estabilidad de su clínica neurológica.

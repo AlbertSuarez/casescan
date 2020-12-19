@@ -1,0 +1,28 @@
+Anamnesis
+Mujer de 77 años, sin alergias ni hábitos tóxicos, con antecedentes de hipertensión arterial, diabetes mellitus tipo 2 y dislipemia, en tratamiento con metformina, simvastatina y enalapril/hidrocloritiazida y sin antecedentes oncológicos familiares, que consultó en agosto de 2014 por autopalpación de un nódulo en mama izquierda.
+
+Exploración física
+La paciente estaba consciente y orientada, con auscultación cardiopulmonar normal, abdomen sin signos de peritonismo ni se palpaban masas ni megalias, y sin focalidad neurológica aguda. Se palpaba una tumoración de 2 cm en cuadrante ínfero-interno de la mama izquierda con una adenopatía axilar homolateral, y la exploración de la mama derecha era normal.
+
+Pruebas complementarias
+» Por mamografía se evidenciaba una imagen nodular en dicha localización con clasificación de BIRADS 4; por ecografía, el nódulo medía 17 x 15 mm, y había adenopatías axilares sospechosas.
+» Se realizó una biopsia con aguja gruesa de la lesión en cuadrante ínfero-interno con colocación de un marcador, siendo positiva para carcinoma ductal infiltrante, de grado 2, con receptores de estrógeno positivos (histoscore 300, Allred 8/8), receptores de progesterona negativos (histoscore 30, Allred 2/8), índice de proliferación Ki-67 del 35%, HER2 negativo (1+). La biopsia de la adenopatía axilar también fue positiva para carcinoma de origen mamario con el mismo fenotipo.
+» El estudio de extensión con tomografía computarizada y la gammagrafía ósea no evidenciaron enfermedad diseminada.
+» Se completó el estudio con una resonancia magnética nuclear de mama, que informaba de una lesión de 30 x 15 mm en mama izquierda y una adenopatía axilar izquierda de 17 mm de diámetro.
+
+Diagnóstico
+Con estos hallazgos, se trataba de un carcinoma ductal infiltrante de mama, de grado 2, cT2N1M0, estadio IIB, de fenotipo luminal B.
+
+Tratamiento
+Valorado el caso en el Comité Multidisciplinar de mama, se decidió iniciar quimioterapia neoadyuvante con antraciclinas (4 ciclos de doxorrubicina y ciclofosfamida), seguida de taxanos (4 ciclos de docetaxel), y luego planificar una cirugía conservadora con vaciamiento axilar.
+
+Con una fracción de eyección del ventrículo izquierdo conservada, inició en septiembre de 2014 quimioterapia neoadyuvante con doxorrubicina 60 mg/m2 más ciclofosfamida 600 mg/m2 cada 21 días, con buena tolerancia inicial, presentando como efectos secundarios alopecia y neutropenia grado 2 afebril, solo en el primer ciclo, que se resolvió con una semana de retraso del siguiente ciclo. Recibió 4 ciclos con buena respuesta clínica inicial y reducción de 5 mm el tamaño tumoral y estabilización del tamaño de la adenopatía por ecografía.
+
+A continuación se inició docetaxel 100 mg/m2 cada 21 días, pero a los 2 ciclos la lesión aumentó de tamaño hasta 4 cmpor ecografía. En ese momento, se decidió suspender la quimioterapia y se propuso un rescate quirúrgico de la lesión.
+
+Se repitió la resonancia magnética de la mama, que informaba de una lesión de 40 x 15 mm en cuadrante ínfero-interno con una adenopatía axilar izquierda de 1 cm de diámetro.
+
+Al tratarse de un tumor luminal, dependiente de estrógenos, y dada la progresión local, se decidió iniciar tratamiento hormonal en primera línea con fulvestrant 500 mg cada 28 días (con dosis de carga de 500 mg a los 14 días), a la espera de la programación de la cirugía. Recibió dicho tratamiento desde el 3 de febrero de 2015 hasta la fecha de la cirugía.
+
+Evolución
+El 19 de marzo de 2015 fue intervenida mediante mastectomía izquierda con vaciamiento ganglionar y la anatomía patológica informaba de un carcinoma ductal infiltrante de grado 2, residual de 4,5 x 3 mm, con invasión linfovascular, con márgenes libres, con afectación de 2 de los 15 ganglios resecados, sin ruptura capsular ni invasión de partes blandas. El perfil inmunohistoquímico era positivo para receptores de estrógenos (histoscore 295, Allred 8/8), negativo para receptores de progesterona (histoscore 0), expresaba un Ki-67 del 9% y era HER2 negativo.

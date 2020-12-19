@@ -1,0 +1,42 @@
+Anamnesis
+Mujer de 51 años sin AMC. No hábitos tóxicos.
+ANTECEDENTES PATOLÓGICOS: Epilepsia en tratamiento con Tegretol. Sin crisis desde hacía > 10 años.
+ANTECEDENTES FAMILIARES: Padre con neoplasia de colon.
+Primer síntoma: La paciente en diciembre de 2010 consulta en ORL por sensación de taponamiento nasal de predominio izquierdo acompañado de rinorrea, lagrimeo y anosmia progresiva, iniciando tratamiento con corticoides, con mejoría sintomática.
+En enero de 2011 reconsulta por autopalpación de adenopatías a nivel submandibular izquierdo, indoloras y con crecimiento progresivo.
+
+Exploración física
+» Constantes: HMD estable. ECOG 0.
+» Adenopatías laterocervicales bilaterales de 5 cm aprox. y de consistencia dura. Adenopatía supraclavicular izquierda de 1-2 cm.
+» Rinoscopia: Fosa nasal izquierda se objetiva abundante rinorrea, y se aprecia una lesión violácea que ocupa la mayor parte de la fosa.
+» Resto EF normal.
+
+Pruebas complementarias
+» Analítica (03/03/11): Hemograma normal; LDH: 758, FA: 116, colesterol: 286.3, ferritina: 172.9, resto de BQ normal; IgM EBV: negativo, IgG EBV: positivo.
+» TAC cervical (04/03/11): Ocupación de seno esfenoidal, celdas etmoidales y seno maxilar izquierdo, con signos de destrucción de celdas etmoidales y pared medial del seno maxilar que se extiende hasta cornete. Múltiples adenopatías a nivel retroauricular, submentoniano, cadena yugular, supraclaviculares, y a nivel mediastínico, paraaórtico y paratraqueal.
+» RNM de base de cráneo (16/03/2011): Extensa tumoración en fosa nasal, invade las celdas etmoidales y seno frontal con afectación y destrucción ósea a nivel de las paredes de los senos maxilares y ambas órbitas con sospecha de invasión de la parte anterior de la órbita izquierda. Destrucción ósea de la fosa craneal anterior a nivel de la lámina cribosa del lado izquierdo con invasión tumoral intracraneal que muestra pequeña imagen quística intratumoral. El parénquima cerebral del lóbulo frontal izquierdo se encuentra desplazado, compatible con edema por efecto masa de la tumoración. Se observa engrosamiento de la glándula hipofisaria con afectación de contraste iv heterogénea sugestivo de metástasis.
+» PAAF adenopatía cervical izquierda (08/03/11): Imagen citológica de tumor mal diferenciado compatible con estesioneuroblastoma de alto grado. Inmunohistoquímica: Positivo para vimentina, CD56, sinaptofisina, NSE y cromogranina. Negativo para CK y CD4
+» Biopsia tumoración fosa nasal (08/03/11): Estesioneuroblastoma. Grado III/IV de la clasificación de Hyams.
+
+Diagnóstico
+Se presenta en comité de tumores de ORL (22/03/11):
+Se orienta como mujer de 51 años diagnosticada de estesioneuroblastoma olfatorio.
+» Según TNM: cT4 (por invasión cerebral), N1 (adenopatías cervicales), M1 (probable afectación de glándula hipofisaria). Estadio IV.
+» Según clasificación de Kadish: estadio C (invasión de estructuras adyacentes).
+
+Tratamiento
+Dado que es una paciente metastásica se decide inicio de tratamiento con QT paliativa según esquema CDDP 80 mg/m2 (día 1) y VP16 100mg/m2 (días 1-3) cada 21 días.
+La paciente inicia QT el día 18/04/11 realizando un total de 6 ciclos, que finaliza el día 10/08/11.
+
+Evolución
+Se solicita RNM de valoración de respuesta:
+» RNM de base de cráneo (16/08/11): Persistencia de la afectación tumoral residual ósea en la fosa craneal anterior a nivel de la lámina cribosa, de la pared posterior de las celdas etmoidales, del seno esfenoidal izquierdo. Reducción completa del componente tumoral intracraneal frontal izq. Desaparición del edema cerebral subyacente. Discreta disminución del engrosamiento de la hipófisis.
+Dada la respuesta radiológica se deriva a comité de ORL de HUGTiP para valoración de cirugía radical; realizándose el día 21/10/11 vaciamiento cervical radical modificado bilateral en un primer tiempo.
+La paciente pendiente de cirugía del tumor primario (que se realizaría en un segundo tiempo) presenta clínica de taponamiento nasal por lo que ante la sospecha de recidiva se solicita TAC- PET
+» TAC-PET (28/11/11): Extensa recidiva tumoral a nivel de fosa nasal, celdillas etmoidales (claro predominio derecho), con infiltración de estructuras adyacentes (órbita, seno maxilar derecho, probablemente pared lateral derecha de nasofaringe) y extensión intracraneal con infiltración de región basal del lóbulo frontal izquierdo. Múltiples lesiones óseas en calota craneal, en columna dorso-lumbar, en escápula izquierda, región lateral de 4º arco y 7º arcos costales derechos, hueso ilíaco derecho e izquierdo, y cuello femoral bilateral, isquion izquierdo y rama del pubis derecha, en relación con afectación metastásica múltiple.
+Se vuelve a presentar en comité descartándose la cirugía sobre el tumor primario y decidiéndose ante la actual progresión clínica y radiológica a menos de 3 meses de fin de QT realizar RDT local con intención paliativa.
+Post RDT, en febrero de 2012 presenta clínica de inestabilidad cefálica realizándose:
+» TAC de cráneo (08/02/12): Múltiples M1 cerebrales.
+Por lo que se inicia RT holocraneal paliativa el día 21/02/12.
+El 22/02/12 la paciente ingresa por clínica de compresión cervical (estridor laríngeo, disfonía y disnea) por compresión del conglomerado adenopático
+Dado la enfermedad avanzada y la situación clínica actual se decide inicio de tratamiento sintomático siendo éxitus el día 25/02/12.

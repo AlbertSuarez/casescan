@@ -1,0 +1,24 @@
+Anamnesis
+Mujer de 31 años, con antecedentes familiares de padre diagnosticado de carcinoma de colon a los 70 años y madre diagnosticada de carcinoma de ovario a los 58 años. Un mes antes de realizarse la primera visita con Oncología, la paciente había comenzado con astenia y sensación de disnea de medianos esfuerzos. Varios días después comienza con diplopía binocular, por lo que acude a Urgencias, realizándose radiografía de tórax y TC de cráneo con resultado normal. Dos días después vuelve a consultar por deterioro del estado general, astenia intensa, disnea progresiva y ptosis palpebral, por lo que se emite diagnóstico de miastenia gravis, siendo derivada a nuestro hospital para ingreso.
+Se instauró tratamiento con prostigmina, atropina y flebogamma, con mejoría limitada, ingresando días después en Unidad de Cuidados Intensivos (UCI) por desaturación, precisando de traqueostomía percutánea.
+
+Examen físico
+ECOG 2. Examen neurológico: ptosis palpebral de predominio derecho, paresia oculomotora compleja bilateral con diplopía en todas direcciones de la mirada, fatigabilidad generalizada. Reflejos (ROT) normales.
+
+Pruebas complementarias
+Tomografía computarizada (TC) de tórax: masa mediastínica anterior de más de 12 cm, con focos de calcificación y necrosis en su interior que invade el mediastino, rodeando y englobando los troncos supraaórticos, estenosando la vena cava superior sin obstruirla e invadiendo también pericardio con moderado derrame asociado. Múltiples adenopatías hiliares bilaterales y mediastínicas. Infiltrado intersticial con características que sugieren la posibilidad de linfangitis carcinomatosa en segmento apical posterior de LSI.
+Punción-aspiración con aguja fina (PAAF): proliferación de células atípicas sugestivo, pero no concluyente de proceso linfoproliferativo atípico.
+Biopsia con aguja gruesa (BAG): proliferación celular compatible con linfoma agresivo con un índice proliferativo en torno al 100 %, compatible con un LNH linfoblástico T.
+Punción lumbar: negativa.
+Serologías: AntiHBc y antiHBs +. HBsAg negativo.
+
+Diagnóstico
+Linfoma no Hodgkin linfoblástico T.
+
+Tratamiento
+HyperCVAD/MTX-ARA-C (ciclofosfamida, vincristina, doxorrubicina, dexametasona, metotrexato, citarabina) con ARA-C/metotrexato intratecal.
+
+Evolución
+La paciente presentó mejoría progresiva de la ptosis palpebral y de la diplopía con episodios repetidos de neutropenia y trombopenia postquimioterapia, requiriendo varios ingresos con episodio de shock séptico e insuficiencia respiratoria.
+Tras el 4.º ciclo se evidencia reducción muy significativa de la masa mediastínica y desaparición de adenopatías hiliares.
+A pesar de la instauración de tratamiento dirigido contra la miastenia, parece que el tratamiento antineoplásico intervino directamente en la resolución completa de los síntomas neurológicos, observándose excelente respuesta del linfoma y de la miastenia con quimioterapia de manera concomitante.

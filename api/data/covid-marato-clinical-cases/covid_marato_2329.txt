@@ -1,0 +1,23 @@
+Anamnesis
+Varón de 54 años de edad que acude a Urgencias por cuadro de varios meses de evolución que consiste en una disminución de la agudeza visual, temblores e inestabilidad generalizada.
+Presentaba como antecedentes personales hipertensión arterial (en tratamiento con inhibidor de la enzima convertidora de la angiotensina [IECA]) y fumador de un paquete-día. No presentaba antecedentes familiares de interés.
+
+Exploración física
+Durante la exploración física neurológica, destacaba un mínimo borramiento del surco nasogeniano izquierdo. En campimetría por confrontación, se apreciaba una cuadrantanopsia derecha inferior.
+
+Pruebas complementarias
+Se realizó una tomografía computarizada (TC) urgente en la que se visualizaba una lesión ocupante de espacio en la región parietooccipital izquierda, de 47 mm de diámetro con moderado edema perilesional. Ingresó para estudio en Neurología. Se completa el diagnóstico con una resonancia magnética (RM) craneal que confirmaba la existencia de una lesión de tipo heterogéneo con presencia de focos hemorrágicos, microquistes junto con abundante neovascularización.
+
+Diagnóstico
+El resultado anatomopatológico fue concordante con glioblastoma multiforme grado IV de la OMS. IHQ: GFAP: positivo. CK AE1/AE3: negativa. P53: negativa. Ki67: 40 %. IDH-1: negativo. El estado de metilación del promotor del gen MGMT mediante Methylation Specific PCR (MS-PCR) fue MGMT no metilado.
+
+Tratamiento
+Se decidió tratamiento quirúrgico tras presentar el caso en comité multidisciplinar. Fue intervenido por Neurocirugía con técnicas de navegación con tractos y bajo control neurofisiológico motor intraoperatorio, realizando una exéresis macroscópicamente total de la lesión que se completa con 5 ALA.
+Tras la cirugía, completó tratamiento con temozolamida y radioterapia concomitante. Inmediatamente, tras terminar el tratamiento adyuvante, se objetiva progresión local de la enfermedad, con un intervalo libre de progresión (ILP) desde la cirugía de 6 meses, por lo que se modifica el tratamiento sistémico a irinotecán y bevacizumab, recibiendo siete ciclos.
+
+Evolución
+Tras 4 meses de tratamiento quimioterápico, ingresa en el servicio de Oncología por una alteración del lenguaje de inicio súbito y sensación de inestabilidad. Se realiza una TC cerebral urgente objetivando una lesión osteolítica sólida que afectaba a la calota a nivel del vértex, de 2,7 cm, de características agresivas, que destruía ambas tablas.
+Durante el ingreso en Oncología, se decide realizar una TC toracoabdominal para descartar otras afectaciones óseas, donde aparecen lesiones líticas de aspecto agresivo con erosión de la cortical en: arco posterior de 6ª vertebra dorsal, sacro izquierdo (S2) y acetábulo derecho, erosión de la apófisis transversa izquierda C6 con masa de partes blandas. Se completó estudio con marcadores tumorales que fueron todos negativos, y una RM cerebral que informaba que la lesión posiblemente se correspondía a la altura del trépano previo.
+Se presentó el caso en el comité de tumores, decidiéndose de forma conjunta la realización de una biopsia ósea del vértex.
+La anatomía patológica de la biopsia intraoperatoria fue sugestiva de neoplasia de células plasmáticas (plasmocitoma), pero el resultado definitivo resultó una infiltración ósea por células que expresan por IHQ vimentina y CD99, con expresión focal de GFAP, S100 y CD 68, compatible con infiltración por glioblastoma.
+El postoperatorio inmediato cursa sin complicaciones, pero a las 24 horas de la intervención aparece un deterioro generalizado del paciente con una afasia, hemiparesia y descenso del nivel de conciencia que, en horas, llega a la arreactividad. A pesar de que la TC cerebral urgente no mostró complicaciones agudas, se sospechó un sangrado agudo de la lesión cerebral en progresión. Dada la rapidez y gravedad del cuadro, únicamente se pudieron realizar medidas de confort, falleciendo el paciente en pocas horas.

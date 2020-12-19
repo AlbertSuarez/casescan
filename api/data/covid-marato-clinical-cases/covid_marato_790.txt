@@ -1,0 +1,45 @@
+Anamnesis
+Mujer de 66 años, sin alergias a fármacos conocidas, sin hábitos tóxicos, actualmente jubilada, sin antecedentes familiares de patología oncológica, con antecedente de hipertensión arterial en tratamiento con hidroclorotiazida.
+
+Independiente para actividades de la vida diaria, ECOG 0.
+
+Su historia oncológica comienza en marzo de 2015, con prurito en una lesión en piel ya conocida a nivel dorsal alto izquierdo (pápula eritematosa perlada con teleangiectasias, de 4 milímetros).
+
+Se realiza biopsia excisional. La anatomía patológica informa Melanoma Nodular Breslow 2,5 mm, nivel IV de Clark, ausencia de ulceración, no componente inflamatorio, no regresión, celularidad pleomórfica, 11 mitosis/mm2, no invasión perineural ni vascular, no satelitosis, márgenes quirúrgicos laterales positivos. Estudio mutacional BRAF V600E wild type.
+
+En analítica presenta niveles de LDH en rango normal.
+Se realiza PET - TAC que destaca en región axilar izquierda 3 adenopatías de centro necrótico de 21 mm (dos muy próximas) y una tercera de 7,5 mm, SUV máximo de 10 y 2 respectivamente. En región axilar derecha muestra adenopatía necrótica de 15 mm, SUV máximo de 6. Todas compatibles con origen infiltrativo.
+-Se realiza punción aspiración por aguja fina de adenopatías axilares con resultado de anatomía patológica que informa metástasis de melanoma.
+-En mayo de 2015 se realiza ampliación de márgenes de 2 cm con linfadenectomía axilar bilateral. No presenta complicaciones postquirúrgicas. La anatomía patológica informa ausencia de tumor residual en los márgenes quirúrgicos. En relación a la linfadenectomía, informa 4 ganglios positivos de 49 ganglios en total (19 ganglios derechos, 30 ganglios izquierdos, diámetro máximo 35 mm, sin invasión extracapsular)
+Con diagnóstico de melanoma Estadio IIIC (pT3a pN3), resecado, BRAF wild type, inicia en junio de 2015 tratamiento adyuvante dentro de Ensayo Clínico.
+Se trata de un estudio fase III, randomizado, doble ciego, de tratamiento con inmunoterapia adyuvante con ipilimumab versus Nivolumab, después de la resección completa de melanoma estadio IIIb/c o IV, en pacientes con elevado riesgo de recurrencia.
+Los pacientes se randomizan a:
+- rama A: Ipilimumab 10 mg/kg IV (intravenoso) cada 3 semanas por 4 dosis y luego cada 12 semanas comenzando la semana 24 más placebo IV cada 2 semanas.
+- rama B: Nivolumab 3 mg/kg IV cada 2 semanas mas placebo IV cada 3 semanas por 4 dosis y luego cada 12 semanas comenzando en la semana 24.
+El tratamiento se realiza hasta recurrencia de enfermedad, toxicidad inaceptable o máximo de 1 año.
+
+Enfermedad actual:
+En agosto de 2015 acude a hospital de día por diarrea de 15 días de evolución, presentando inicialmente 2-3 deposiciones al día, con aumento progresivo en número e intensidad, el cuadro se asocia a hematoquecia, rectorragia, dolor abdominal difuso tipo cólico, náuseas y vómitos 1-2 episodios al día. Presentó también fiebre en días previos, cabe destacar que la paciente consultó en otro centro previamente y se le indicó tratamiento con ciprofloxacino que realiza al momento de la valoración en hospital de día.
+
+Exploración física
+ECOG 2. Hemodinamicamente estable y afebril. Abdomen discretamente distendido, doloroso a la palpación en forma difusa, tanto a la palpación superficial como profunda. Peristalsis conservada.
+
+Pruebas complementarias
+En analítica de ingreso destaca anemia con hemoglobina 10,9 gr/dl, hipopotasemia de 3,15 meq/litro, elevación de proteína C reactiva en 100,4 mg/dL
+Se realiza TAC abdominal que informa mínimo/leve engrosamiento de pared posterior de ciego, inespecífico. No presenta otras alteraciones valorables por este método en el resto del colon ni signos de sangrado.
+Se realiza colonoscopia que evidencia a nivel de colon ascendente y colon transverso múltiples lesiones ulceradas en sacabocado con bordes sobre elevados que se encuentran recubiertos de restos de sangre y fibrina, rodeadas de amplias zonas de mucosa sana respetada. Se toman biopsias de los bordes de la úlcera y la base de ésta. Se informa como colitis ulcerada de origen indeterminado.
+La anatomía patológica informa fragmentos de mucosa colónica con ulceración con tejido de granulación y cambios reparativos en el epitelio adyacente. Sin cambios sugestivos de infección infección viral. Con resultado de biología molecular negativo para citomegalogivus, virus del herpes simple 1 y 2, y virus de Epstein-Barr.
+Se toman muestras de hemocultivos, coprocultivo y Toxina clostridium difficile, todos negativos.
+Se realiza Quantiferon que es negativo.
+
+Diagnóstico:
+Se trata de una paciente de 66 años, intervenida de melanoma estadio IIIC, en curso de tratamiento adyuvante con inmunoterapia, dentro de ensayo clínico (doble ciego, nivolumab versus ipilimumab), que ingresa por diarrea grado 3 y rectorragia, destacando en colonoscopia lesiones ulceradas, con diagnóstico microbiológico negativo, y en anatomía patológica mucosa colónica con ulceración con tejido de granulación y cambios reparativos en el epitelio adyacente. Sin cambios sugestivos de infección infección viral.
+En este contexto interpretamos el cuadro como colitis severa inmunomediada.
+
+Tratamiento:
+Iniciamos tratamiento con corticoides a altas dosis y recibe una dosis única de infliximab con mejoría clínica progresiva, por lo que iniciamos el descenso de corticoides. También suspendimos ciprofloxacino e indicamos tratamiento antibiótico empírico con piperacilina-tazobactam. Durante el ingreso indicamos nutrición parenteral total.
+
+Evolución:
+La paciente evoluciona favorablemente, lo que permite iniciar tolerancia oral, cambiar el tratamiento progresivamente a vía oral. Tras aproximadamente 30 días de ingreso, indicamos alta hospitalaria.
+La paciente sale de ensayo clínico y no recibe más tratamiento adyuvante. En forma ambulatoria continua con descenso progresivo de corticoides hasta suspenderlo definitivamente.
+Actualmente en seguimiento, ECOG 0, sin evidencia de enfermedad oncológica ni secuelas de toxicidad.

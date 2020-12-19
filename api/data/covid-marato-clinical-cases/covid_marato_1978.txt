@@ -1,0 +1,20 @@
+Anamnesis
+Se trata de un varón de 64 años sin antecedentes familiares relevantes. Sin alergias medicamentosas ni hábitos tóxicos. Como antecedentes personales presenta una diabetes mellitus tipo 2 en tratamiento con vildagliptina, dislipemia en tratamiento con atorvastatina 80 mg/día y una adrenalectomía izquierda por un feocromocitoma de 8 cm de eje máximo en febrero 2014, con hallazgos histológicos potencialmente malignos (celularidad > 250 células/, > 3mitosis/campo de gran aumento, Ki-67 > 50 %), infiltración de cápsula, tejido periférico y pequeños vasos, expresión de cromogranina A, sinaptofisina y enolasa). Presenta una situación basal buena, ECOG 0, siendo independiente para actividades básicas para la vida diaria.
+El paciente es derivado de las consultas de Endocrinología tras aparición de dolor en flanco izquierdo, donde le realizan resonancia magnética de abdomen y pelvis en julio 2015, con un hemangioma hepático como único hallazgo, y posteriormente una PET donde aparece captación compatible con recidiva en el lecho quirúrgico de la adrenalectomía izquierda.
+
+Exploración física
+En la exploración no se observan hallazgos relevantes. Auscultación cardiorrespiratoria sin soplos ni extratonos, con buen murmullo vesicular. Abdomen blando y depresible, no doloroso durante la palpación. No se palpan masas ni megalias. Tampoco se palpan adenopatías.
+
+Pruebas complementarias
+Se realiza nueva resonancia magnética en junio 2016, donde se observa una imagen nodular de 8 mm en contacto con la crura diafragmática y la pared posterior del fundus gástrico, además de un nódulo de 1 cm de reciente aparición en el tercio medio externo del riñón izquierdo. En el hígado se aprecian 10 lesiones compatibles con metástasis, la mayor de 6 cm de eje mayor.
+
+Diagnóstico
+Feocromocitoma maligno intervenido en 2014 con recidiva en lecho quirúrgico, y metástasis hepáticas, renal y en fundus gástrico.
+
+Tratamiento
+Se le trata de primera línea desde el 28/6/2016 con 10 ciclos tres semanas de CVD (ciclofosfamida 750 mg/m2 día 1, vincristina 1,4 mg/m2 día 1, dacarbazina 600 mg/m2 días 1 y 2), con buena tolerancia a pesar de una neurotoxicidad grado 1 que precisó disminución de la dosis de vincristina. Mantiene un buen control del dolor en flanco izquierdo con analgesia de primer escalón.
+
+Evolución
+Se realiza tomografía computarizada (TC) cada 2 meses desde que comenzó el tratamiento de primera línea. Presenta enfermedad estable hasta enero de 2017, donde se observa progresión en TC. Se comienza tratamiento de 2ª línea con paclitaxel 175 mg/m2 trisemanal, basándonos en la serie de casos publicada en Cancer Chemother Pharmacol (2).
+Tras 3 ciclos de paclitaxel se observa progresión en TC de Abril 2017, y planteamos realizar tercera línea de tratamiento con temozolamida, para lo cual pedimos estudio de metilación del gen MGTM de la muestra de la biopsia, siendo la muestra no metilada (3,5 %). Dado que no existe una tercera línea standard para esta enfermedad, no se comenzó tratamiento hasta nueva progresión, encontrándose asintomático durante todo este tiempo y manteniendo enfermedad estable desde entonces hasta febrero 2018. Comenzamos entonces tercera línea con gemcitabina 1.000 mg/m2 días 1 y 8 cada 21 días, manteniendo el tratamiento hasta la fecha.
+En el momento actual, el dolor del flanco izquierdo ha ido teniendo un peor control, precisando parches de fentanilo 25 mcg c/72 h.

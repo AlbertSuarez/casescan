@@ -1,0 +1,59 @@
+Anamnesis
+» Mujer de 46 años.
+» Sin reacciones alérgicas medicamentosas conocidas.
+» Niega hábitos tóxicos.
+» Antecedentes familiares: cáncer de mama en madre a los 68 años, en seguimiento en la actualidad.
+Antecedentes personales:
+» Fórmula obstétrica: G2P2A0.
+» Amigdalectomizada en la infancia.
+» Tratamiento habitual: anticonceptivos orales.
+HISTORIA ONCOLÓGICA:
+Derivada en agosto de 2015 de Ginecología por hallazgo en TC de lesión pélvica con afectación peritoneal y biopsia compatible con adenocarcinoma. Tras confirmar ausencia de enfermedad metastásica, se estadifica como T3cN1M0 (estadio IIIC de la FIGO). Inicia tratamiento neoadyuvante con esquema carboplatino-paclitaxel hasta el 30 de noviembre de 2015 (5 ciclos). Es intervenida el día 12 de enero de 2016 mediante histerectomía total, anexectomía bilateral con disección y exéresis del peritoneo supravesical, omentectomía infra y supracólica, apendicectomía y linfadenectomía paraaórtica y pélvica bilateral. Tras la cirugía, queda estadificada como ypT3cN1M0 con infiltración masiva de epiplón y de ambos parametrios por adenocarcinoma seroso de alto grado. En la TC de abril de 2016, después de un intervalo libre de progresión (ILP) de 5 meses, se objetiva progresión de la enfermedad a nivel pélvico y hepático, así como aumento de la ascitis en todos los compartimentos con elevación del Ca 125. Inicia tratamiento para enfermedad resistente a platino con doxorrubicina liposomal pegilada (DLP) en mayo de 2016. Tras dos ciclos, se obtiene resultado de estado mutacional BRCA1 positivo, por lo que en junio de 2016 se añade carboplatino.
+
+Exploración física
+» Buen estado general. Consciente, orientada y colaboradora. Eupneica en reposo y al habla. Bien perfundida e hidratada. Hemodinámicamente estable.
+» Peso: 57 kg. Talla: 154 cm. Performance status (PS): 1.
+» Auscultación cardiopulmonar sin hallazgos. No se palpan adenopatías periféricas. Abdomen con ascitis no a tensión, blando y depresible, con molestias difusas durante la palpación, sin signos de irritación peritoneal. Miembros inferiores sin edemas.
+
+Pruebas complementarias
+Durante el diagnóstico:
+» Tacto bimanual: cérvix móvil, no doloroso. Útero móvil, no aumentado de tamaño. Área anexial derecha ocupada.
+» Ecografía transvaginal: útero normal. Se aprecia masa heterogénea polilobulada y abundante líquido libre en Douglas.
+» TC de tórax, abdomen y pelvis: tórax: extenso derrame pleural izquierdo. Abdomen y pelvis: cantidad de líquido moderada alrededor de hígado y, en pelvis, infiltración generalizada de peritoneo y mesos, con innumerables nódulos sólidos coalescentes, especialmente relevantes a nivel supravesical, como conglomerado de bordes polilobulados de diámetro máximo de 10 cm. Numerosos implantes omentales tipo Omental Cake, destacando una tumoración sólida pélvica que podría emerger de ovario derecho y, por lo tanto, compatible con una neoplasia de ovario.
+» Marcador tumoral Ca 125: 4381.3 U/ml.
+Tras neoadyuvancia:
+» TC de tórax: el derrame pleural izquierdo está resuelto. Sin otros hallazgos.
+» TC de abdomen y pelvis: la ascitis libre está prácticamente resuelta, sólo queda una cantidad mínima en pelvis. Casi todos los implantes peritoneales están resueltos. En gotiera paracólica permanece una loculación de líquido peritoneal lobulada que mide 4 cm en vertical y que tiene un discreto engrosamiento del peritoneo. No se observa masa anexial.
+» Marcador tumoral Ca125: 82 U/ml.
+» Resultado anatomopatológico de la cirugía: Útero y anejos: adenocarcinoma seroso papilar de alto grado ovárico bilateral. Cervicitis crónica. Endometrio atrófico. Infiltración de ambos parametrios por adenocarcinoma seroso de alto grado. La neoplasia es muy pleomorfa y tiene un alto índice de mitosis atípicas.
+» Ganglios linfáticos paraaórticos (6): linfadenopatía reactiva.
+» Ganglios linfáticos ilíacos derechos e izquierdos (5 + 4): linfadenopatía reactiva.
+» Peritoneo: infiltración por adenocarcinoma seroso de alto grado con extensas áreas de necrosis y hemorragia.
+» Apéndice cecal: sin alteraciones.
+» Epiplón: infiltración masiva por adenocarcinoma seroso de alto grado.
+Durante el seguimiento:
+» TC de abdomen y pelvis (25/04/2016): múltiples implantes peritoneales subdiafragmáticos que improntan en la superficie hepática. Lesión hipodensa de 5,5 cm en segmento VIII hepático. Ascitis en el lado derecho y dos lesiones de 7 y 8 cm de predominio quístico tabicadas en pelvis que comprimen al colon sigmoides y que sugieren una recidiva de su proceso ovárico neoplásico previo. Por tanto, hallazgos que sugieren progresión.
+» Marcador tumoral Ca 125: 2539.2 U/ml.
+» Mutación BRCA-1 (11/07/2016): positiva.
+
+Diagnóstico
+» Carcinoma seroso de alto grado de ovario estadio IIIC.
+» Paciente portadora de mutación BRCA-1.
+
+Tratamiento
+» Quimioterapia neoadyuvante con esquema carboplatino AUC-5 (dosis total 520 mg) + paclitaxel (dosis 175 mg/m2; dosis total 270 mg) trisemanal x 5 ciclos.
+» Quimioterapia tras recaída con ILP 5 meses: DLP 76 mg cada 28 días.
+» Tras obtener resultado mutacional BRCA-1 positivo, se añade carboplatino AUC-2 (días 1 y 15 de cada 28) (dosis total 208 mg).
+
+Evolución
+En agosto de 2016 se realiza TC de reevaluación en la que se objetiva respuesta favorable de la afectación peritoneal y estabilidad del resto de las lesiones, que se mantiene hasta la actualidad.
+Evolución del Ca 125 tras la recidiva:
+ 19/04/2016: 2539,2 U/ml.
+ 16/05/2016: 3417,2 U/ml.
+ 07/07/2016: 1248,6 U/ml.
+ 22/08/2016: 187,6 U/ml.
+ 23/11/2016: 129 U/ml.
+ 08/02/2017: 83,7 U/ml.
+La paciente recibe un total de 8 ciclos de carboplatino + DLP, manteniendo un estado general excelente y un PS 0 (sin síntomas de la enfermedad). Como efecto secundario únicamente destaca plaquetopenia grado II, que obliga a retrasar el tratamiento en dos ciclos y a reducir un 20 % la dosis de carboplatino en los dos últimos ciclos, finalizando el día 14/03/2017.
+Se solicita olaparib a Comisión Permanente de Farmacia como tratamiento de mantenimiento, iniciándose el 28/04/2017 a dosis de 400 mg cada 12 horas, que mantiene en la actualidad con excelente tolerancia, sin efectos secundarios y haciendo una vida normal.
+La paciente realiza seguimiento por Unidad de Consejo Genético, así como su hija y hermana, que también son portadoras de la mutación.

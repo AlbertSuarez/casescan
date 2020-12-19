@@ -1,0 +1,37 @@
+Anamnesis
+Varón, de 67 años en el momento actual, sin alergias medicamentosas conocidas, exfumador durante 40 años hasta 2013 de 1 paquete-día (IPA 40), hipertenso en tratamiento con enalapril y con antecedentes de adenocarcinoma de próstata Gleason 6 (3 + 3) y PSA < 5 ng/ml, intervenido el 8/07/2005 mediante prostatectomía radical (pT2c), bordes libres, sin evidencia de recidiva en la actualidad. Independiente para las actividades de la vida diaria, natural de Vigo, jubilado desde hace dos años (empresario).
+En febrero de 2013, consulta por inestabilidad de varias semanas de evolución, con exploración física sin focalidad neurológica. Se realiza resonancia magnética (RM) cervical y cerebral, objetivándose una pequeña lesión quística parietotemporal izquierda con características de benignidad de la que se decide hacer seguimiento.
+En junio de 2013 se solicita nueva RM cerebral de control.
+
+Exploración física
+» ECOG PS 0.
+» Buen estado general. Afebril. Hemodinámicamente estable. Eupneico.
+» AUSCULTACIÓN: rítmico sin soplos. Murmullo vesicular conservado.
+» ABDOMEN: ruidos hidroaéreos presentes. Blando, no doloroso sin signos de irritación peritoneal.
+» No se palpan masas.
+» NEUROLÓGICO: consciente y orientada. Glasgow 15. Pupilas isocóricas y normorreactivas. Pares craneales sin alteraciones. Fuerza y sensibilidad conservadas.
+» Reflejos normales. Marcha normal.
+
+Pruebas complementarias
+En junio se realiza RM de control (27/06/2013), objetivándose una lesión intraparietal izquierda de aspecto quístico, con claro crecimiento tanto en el tamaño como en el edema vasogénico perilesional provocado. Como primera posibilidad, se estableció un origen tumoral (sin poder diferenciar benignidad o malignidad) siendo menos probable origen infeccioso. Se decidió ingreso en Neurología para estudio.
+Se decide conjuntamente por parte de los Servicios de Neurología y Neurocirugía realizar el 01/07/2013 intervención quirúrgica mediante microcirugía craneal con exéresis completa de la lesión cerebral.
+Informe de anatomía patológica: región parietotemporal izquierda: fragmentos de tejido cerebral infiltrados por un adenocarcinoma, con perfil inmunohistoquímico concordante con metástasis de origen pulmonar.
+Ante estos hallazgos, se realiza PET el 30/07/2014, objetivándose un nódulo en LSI de 2,5 x 1,5 cm (SUVmax 6,6) sugestivo de tumor primario pulmonar. Se objetiva también una adenopatía en la ventana aortopulmonar lateral y craneal al tronco de la pulmonar de 0,6 cm (SUVmax 3,7) y otra hiliar izquierda de 1 cm (SUVmax 3,2), sugestivas de malignidad, sin captación a otro nivel.
+Ante el hallazgo de una lesión pulmonar sugestiva de tumor primario, con adenopatías hiliares y mediastínicas con captación patológica en la PET, se decide el 02/08/2013 realizar una broncoscopia para confirmación histológica, siendo ésta no satisfactoria, por lo que se realiza mediastinoscopia el 10/08/2013, resultando positiva para adenocarcinoma en 5 ganglios.
+
+Diagnóstico
+Adenocarcinoma de pulmón cT1pN2 pM1 (estadio IV por enfermedad oligometastásica cerebral única resecada). EGFR no mutado y ALK no traslocado.
+
+Tratamiento
+Se decidió tratamiento radical e inició el 04/10/2013 quimioterapia neoadyuvante con cisplatino-vinorelbina cada 21 días, recibiendo 3 ciclos que finalizan el 23/11/2013 con respuesta parcial. Se presentó el caso en el comité de tumores torácicos, y ante la negativización por PET de las adenopatías mediastínicas, y la respuesta del nódulo primario (de 2,5 a 1,2cm), se decidió tratamiento radical quirúrgico.
+El 23/12/2013 fue intervenido quirúrgicamente mediante una lobectomía superior izquierda (pT1pN0).
+Tras un postoperatorio sin incidencias y con perfecto estado general (ECOG 0), comienza seguimientos con TC TAP y RM cerebral con un intervalo libre de enfermedad de 10 meses hasta octubre de 2014.
+En ese momento, aparición de una metástasis única cerebelosa izquierda tratada mediante radiocirugía estereotáxica (1 sesión de 18 Gy). En julio de 2015, aparición de dos lesiones cerebrales asintomáticas en vermis y frontal derecha (intervalo libre progresión de 9 meses), tratándose ambas con radiocirugía estereotáxica (una sesión de 18 Gy) el 09/07/2015. Nuevamente y tras 11 meses de intervalo libre de progresión, dos nuevas metástasis cerebelosas asintomáticas el 23/06/2016 aparecen, realizándose radiocirugía de ambas.
+
+Evolución
+Sin evidencia de enfermedad sistémica hasta enero de 2017, donde en PET se objetiva progresión tumoral sistémica a nivel pulmonar bilateral, con dos nódulos de mayor tamaño (uno en LII de 1,4 cm y otro en LID de 29mm), así como adenopatías hiliomediastínicas (hiliar derecha de 12 mm) y nódulo suprarrenal izquierdo de 28 mm.
+Se presenta nuevamente en Comité de Tumores, y se decide confirmación histológica, realizándose el 10/02/2017 broncoscopia, resultando positiva para células malignas, compatible con adenocarcinoma.
+Ante la progresión sistémica, se decide inclusión en ensayo clínico con nivolumab (240 mg cada 15 días) + ipilimumab (1 mg/kg cada 6 semanas). Recibe la primera dosis de la combinación el 21/02/2017.
+A los 15 días, acude a consulta para recibir nivolumab, objetivándose importante rash cutáneo en tronco grado 2 y toxicidad hepática grado 1, por lo que se decide no administrar tratamiento de inmunoterapia y control en una semana. A pesar de suspensión del mismo, en sucesivos controles, se objetiva un empeoramiento progresivo del perfil hepático hasta toxicidad grado 3, por lo que se inicia tratamiento con corticoides a dosis de 1 mg/kg vía oral, con mejoría tanto hepática como cutánea tras un mes de tratamiento esteroideo.
+Se realiza TC el 05/04/2017 tras una única dosis de ipilimumab-nivolumab un mes y medio antes, objetivándose una importante respuesta tumoral (del 30 %). Se describe disminución de tamaño del nódulo situado en LII (de 14 a 7 mm) y menor densidad del situado en LID. Además, disminución de tamaño de las adenopatías hiliomediastínicas (la mayor hiliar derecha ha pasado de medir 12 mm a 9 mm). Respuesta también del nódulo suprarrenal izquierdo (ha pasado de 28 a 16 mm de diámetro mayor).
+Ante la normalización del perfil hepático y la buena respuesta al tratamiento, se decide reiniciar inmunoterapia con nivolumab (suspendiéndose el ipilimumab, según protocolo de ensayo clínico). Tras dos ciclos de nivolumab se reevalúa la enfermedad (TC el 21/05/2017) con nueva respuesta respecto al previo, objetivándose disminución del tamaño de nódulo de LID con un diámetro de 17 mm (previo de 29 mm) y práctica desaparición del nódulo del LII, el resto de la enfermedad mantiene respuesta.

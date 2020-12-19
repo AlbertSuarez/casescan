@@ -1,0 +1,26 @@
+Anamnesis
+Paciente varón de 61 años, fumador activo (85 paquetes/año), hipertenso en tratamiento antihipertensivo, bronquitis crónica enfisematosa en tratamiento broncodilatador, episodio de diverticulitis aguda en 2004 que requirió sigmoidectomía, antecedentes de resección transuretral en 2009 por carcinoma urotelial papilar de bajo grado, en seguimiento por Urología. Trabajaba como transportista y refería haber estado en contacto con uralita.
+
+Consultó al médico de cabecera por dolor pleurítico y disnea de moderados esfuerzos de 2 meses de evolución. Además, presentaba síndrome tóxico, con pérdida ponderal de hasta 12 kg en los últimos 6 meses.
+
+Exploración física
+ECOG 1. Afebril y hemodinámicamente estable. Eupneico en reposo, hipofonesis basal izquierda, taquicárdico a 100 lpm. No se palpaban adenopatías a nivel cervical ni supraclavicular. Resto anodino.
+
+Pruebas complementarias
+» Se realizó una radiografía de tórax, donde se visualizaba un engrosamiento pleural izquierdo con derrame pleural.
+» Se completó el estudio de forma ambulatoria preferente y se solicitó una TC de tórax, donde se visualizaba un engrosamiento pleural izquierdo con nódulos pleurales, derrame pleural ipsilateral, siendo el parénquima pulmonar normal. Altamente sugestivo de mesotelioma pleural maligno.
+» Se remitió al Servicio de Cirugía Torácica de nuestro centro para completar el estudio histológico, donde se realizó una toracoscopia con obtención de biopsias pleurales.
+» En la anatomía patológica, la inmunohistoquímica mostró positividad para los marcadores de tumor neuroendocrino CD56, sinaptofisina y cromogranina. La positividad de TTF1 y CK7 indicaban probable origen pulmonar. Los marcadores característicos de mesotelioma epitelial D2-40 y WT-1 resultaron negativos. La calretinina focalmente positiva sugería origen pleural.
+» Se realizó una PET-TC para completar el estudio de extensión, que describió enfermedad a nivel pleural y adenopatías mediastínicas sospechosas de malignidad, sin otra afectación a distancia.
+
+Diagnóstico
+Se valoró como carcinoma neuroendocrino de célula grande de probable origen pulmonar, a pesar de la afectación exclusivamente pleural y ganglionar, tributario de tratamiento con quimioterapia (QT) con intención paliativa.
+
+Tratamiento
+Inició tratamiento en enero de 2014 con carboplatino AUC5-etopósido. En la analítica basal destacaba LDH 12,3 ukat/l (VN < 5). Tras el primer ciclo presentó la práctica resolución del engrosamiento pleural en la radiografía de control y la TC de valoración después de tres ciclos constató una reducción importante de la afectación tumoral. La LDH descendió a 2,3 ukat/l. Completó seis ciclos hasta mayo de 2014, con correcta tolerancia y beneficio clínico.
+
+Evolución
+En la TC de control a los 3 meses, reaparecieron las masas tumorales pleurales. Clínicamente, el paciente estaba asintomático y la LDH era de 4,4. Debido a la excelente y rápida respuesta presentada con la primera línea, se decidió volver a tratar con el mismo esquema basado en platino, que inició en septiembre de 2014, añadiendo factor estimulante de colonias granulocíticas (gCSF) como profilaxis primaria de la neutropenia. Tras cuatro ciclos con correcta tolerancia obtuvo nuevamente una respuesta parcial, presentando disminución de las lesiones pleurales y los ganglios mediastínicos, por lo que siguió controles.
+A los 2 meses de finalizar la QT, la TC de febrero de 2015 informó nuevamente de progresión a nivel pleural ipsilateral y ganglionar. La LDH había aumentado a 9,4 ukat/l. A pesar de que el intervalo libre de progresión era muy corto, la enfermedad había respondido de manera excelente a las quimioterapias previas. Dado que la eficacia de segundas líneas en estos subtipos tumorales es escasa, se decidió tratar por tercera vez con carboplatino-etopósido, reajustando la dosis al 80% y añadiendo gCSF. Tras tres ciclos con escasa tolerancia por reaparición de síntomas con dolor torácico, disnea y astenia G2 que sugerían progresión clínica, se consideró enfermedad resistente al platino, y se decidió cambiar de línea de tratamiento a topotecán oral. En el momento actual presenta escaso beneficio clínico tras un primer ciclo.
+
+En resumen, se trata de un paciente con un carcinoma neuroendocrino de células grandes metastásico, de probable origen pulmonar, con una forma de presentación extremadamente infrecuente como afectación pleural unilateral, además de ganglionar mediastínica. Durante un año y medio se ha beneficiado de tratamientos con quimioterapia basada en platino, por la sensibilidad presentada y la respuesta conseguida. No obstante, la aparición de mecanismos de resistencia es inevitable y la ausencia de alternativas eficaces a la progresión determina un pronóstico vital limitado a corto plazo.

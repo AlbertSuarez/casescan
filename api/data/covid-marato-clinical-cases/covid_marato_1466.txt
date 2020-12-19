@@ -1,0 +1,36 @@
+Anamnesis
+Mujer de 28 años, sin alergias medicamentosas conocidas ni hábitos tóxicos
+Toma de anticonceptivos orales desde el 2007 al 2016
+
+Antecedentes patológicos:
+- 1987: Enfermedad de Hirschsprung diagnosticada a la semana de vida, decidiéndose mantener un tratamiento médico conservador.
+- 1991: Obstrucción intestinal, realizándose intervención de Duhamel.
+- 2009: Estructuroplastia por estenosis postquirúrgica
+- 2012: Intento autolítico y conducta autolesiva, con el diagnóstico de depresión mayor. En seguimiento por Psiquiatría.
+
+Enfermedad actual:
+- Marzo 2014: Primera visita con 24 años de edad en la Unidad de Consejo Genético, para valoración por antecedente de HSCR. Se realiza estudio genético del protooncogén RET detectándose la mutación c.1878T>C en el exón 10, confirmándose el diagnóstico de MEN2A.
+Las mutaciones en el codón 620 tienen un alto riesgo de desarrollar un carcinoma medular de tiroides por lo que está indicada la tiroidectomía profiláctica precoz. También en el MEN2A es necesario un seguimiento a largo plazo por el mayor riesgo de otras neoplasias asociadas como el feocromocitoma (10-60%) y alteraciones metabólicas como el hiperparatiroidismo (5-20%).
+- Mayo 2014: Se realiza tiroidectomía profiláctica que muestra la presencia de un carcinoma medular de tiroides pT1a(m)N0; sin evidencia de recidiva a los dos años de seguimiento.
+Además la paciente realiza seguimiento con resonancia adrenal y estudio de catecolaminas en plasma y orina de 24 horas, sin evidencia de enfermedad hasta la actualidad.
+- Se ofrece estudio genético directo predictivo a sus familiares de primer grado. El padre es portador asintomático hasta la actualidad de la mutación patogénica detectada en RET. Se realiza también tiroidectomía profiláctica a su padre con 63 años, evidenciando en la anatomía patológica un carcinoma medular de tiroides pT2(m)Nx.
+- Paralelamente, la rama materna de su familia cumple criterios clínicos sugestivos de un Síndrome de Cáncer de Mama y Ovario hereditarios. El estudio genético completo en un miembro de su familia afecta de carcinoma de mama ha detectado la mutación c.5277_5273delCT en el exón 11 del gen BRCA2.
+-El estudio genético en nuestra paciente demuestra que también es portadora de la misma mutación detectada en su familia en el gen BRCA2.
+- Las estrategias que pueden reducir el riesgo de neoplasias en portadoras de mutación en los genes BRCA1/2 incluyen cribado más intensivo, quimioprevención y cirugías reductoras de riesgo.
+Las estrategias para el cribado en pacientes portadoras de mutación en los genes BRCA1/2 incluyen mamografía anual a partir de los 30 años y resonancia mamaria anual a partir de los 25 años.
+Diversos estudios han demostrado que la salpingooforectomía bilateral profiláctica reduce el riesgo de cáncer de ovario y de mama, por lo que se recomienda en mujeres portadoras de mutación BRCA1/2 a partir de los 35 años o cuando la mujer haya finalizado su deseo gestacional. El cáncer de ovario en portadoras de mutación en los genes BRCA2 se presenta a edades más tardías, pudiéndose posponer la salpingooforectomia bilateral profiláctica hasta los 40 años (NCCN 2016).
+Se discute con la paciente la opción de la mastectomía bilateral profiláctica. Un meta-análisis reciente de cuatro estudios prospectivos demuestra que la mastectomía reductora de riesgo en mujeres sanas y portadoras de mutación en los genes BRCA1/2 reduce el riesgo de cáncer de mama en un 93%.
+Considerando la edad joven de la paciente y que en el momento actual su principal morbilidad y calidad de vida está afectada por la sintomatología asociada a la enfermedad de HSCR, consensuamos por el momento, realizar cribado mamario y cribado ovárico según guías clínicas actuales, posponiendo las cirugías reductoras de riesgo para un futuro.
+- La paciente expresa deseo gestacional por lo se deriva para diagnóstico genético preimplantacional.
+En el estudio realizado se observa que presenta insuficiencia ovárica y dificultades técnicas para la punción folicular por adherencias secundarias a intervención quirúrgica en la infancia, además de la dificultad que implicaría una selección embrionaria para las dos mutaciones; por lo que se desestima continuar con este procedimiento. Las alternativas para esta paciente son la adopción, el diagnóstico prenatal o la donación de óvulos.
+
+Exploración física
+......
+Pruebas complementarias
+......
+Diagnóstico
+......
+Tratamiento
+.....
+Evolución
+.....

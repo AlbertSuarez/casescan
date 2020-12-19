@@ -1,0 +1,22 @@
+Anamnesis
+Presentamos el caso de un varón de 28 años, entre cuyos antecedentes personales destaca enfermedad de Scheuermann. Sin antecedentes familiares de interés.
+Consulta en el servicio de Urgencias el 25 de Septiembre de 2012 por clínica de parestesias y disminución de fuerza en miembros inferiores, de unas dos semanas de evolución. Así mismo, el paciente, desde hace 3 meses aproximadamente se encontraba recibiendo tratamiento analgésico por dolor lumbar
+
+Exploración física
+En la exploración física destaca la presencia de pérdida de fuerza en extremidades inferiores (3/5) y abolición de reflejos.
+
+Pruebas complementarias
+Se realiza resonancia magnética (RM) de columna dorsal con carácter urgente, donde se objetiva infiltración a nivel de vértebras C7-D4, asociando masa de partes blandas que ocasiona compromiso medular y de agujeros foraminales.
+
+Diagnóstico
+Fue intervenido de urgencia por el Servicio de Neurocirugía, realizándose laminectomía de vértebras D3 a D6 y extirpación de tumor epidural. El resultado anatomopatológico (AP) resultó compatible con metástasis de seminoma (CAM 5.2 (-); CD30 (-); ACL (+); OCT4 (+); HMB-45 (-)).
+Previamente, el paciente se encontraba en estudio por una lesión testicular. Durante el mismo se había realizado ecografía de escroto (20/09/2012) en la que se confirmaba la presencia de tumoración en teste izquierdo. Ante estos hallazgos y el resultado AP de la cirugía previa, el 1 de Octubre se procede a realizar orquiectomía radical izquierda. El resultado histológico de dicha intervención fue de Tumor germinal mixto testicular, compuesto por seminoma típico (85%), teratoma monodérmico maduro (5%) y neoplasia germinal intratubular (GIN o CIS, 10%) con múltiples imágenes de invasión vasculo-linfática, respetando albugínea y vaginal, siendo catalogado como un estadio pT2.
+Tras la intervención, y para completar estudio de extensión, se realiza TC toraco-abdómino-pélvico (TC TAP) el 3 de Octubre, en el que se detectó la presencia de masa retroperitoneal paraaórtica izquierda de 8x7 cm, compatible con afectación metastásica.. Marcadores tumorales postorquiectomía: LDH: 682 U/L(135-225 U/L), Alfa-1 Fetoproteína: 1,79 ng/ml (0-20), HCG: 72,5 mU/mL (0-1).
+
+Tratamiento
+Con el diagnóstico de tumor germinal mixto estadio IIIC (pT2 cN3 M1b S2),y perteneciendo al grupo de alto riesgo según Sistema de Clasificación Pronóstica para Enfermedad Diseminada (IGCCCG), se programa tratamiento de quimioterapia. Previo al inicio del mismo fue valorado por el Servicio de Oncología Radioterápica para completar tratamiento de la compresión medular, recibiendo 20 Gy de D4 a D7. Posteriormente, y previa criopreservación de esperma, se inicia administración de quimioterapia según esquema BEP durante 4 ciclos (Bleomicina 30 unidades días 1, 8 y 15; Etopósido 100 mg/m2 días 1 a 5; Cisplatino 20mg/m2 días 1 a 5), que recibe sin incidencias, con normalización de LDH y BHCG después del primer ciclo.
+
+Evolución
+Tras finalizar tratamiento de quimioterapia, se realiza TC TAP de reevaluación, objetivándose persistencia de masa retroperitoneal, de aproximadamente 2,5 cm. Los marcadores tumorales en este momento permanecían en rango de normalidad.
+Ante los hallazgos, se realiza cirugía de rescate, con exéresis de masa retroperitoneal. La anatomía patológica no evidenció resto tumoral.
+Desde entonces, el paciente mantiene revisiones, y se encuentra libre de enfermedad, tras 45 meses desde el debut. No presenta toxicidades a largo plazo derivadas del tratamiento, ni secuelas neurológicas.

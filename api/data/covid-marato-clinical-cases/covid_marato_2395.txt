@@ -1,0 +1,28 @@
+Anamnesis
+Mujer de 36 años procedente de Guinea. Como antecedentes, está tratada con doxiciclina a los 20 años. Sin antecedentes oncológicos familiares.
+Enfermedad actual: a los tres días de llegar a España, acude al Servicio de Urgencias por tumoración indolora en nariz de tres meses de evolución y que ha ido progresivamente aumentando hasta medir 4 x 5cm. Ha perdido 10 kg de peso aproximadamente en dos meses. Además, presenta disnea con moderados esfuerzos. Refiere actividad sexual de riesgo.
+
+Exploración física
+Temperatura 37,9 ºC, TA 100/50 mm Hg, FC 104 lpm, Sat 97 %. Faringe con presencia de tumoraciones rojo-violáceo en todo el paladar blando, adenopatías cervicales y submandibulares. Tumoración nasal rojo-vinosa, de gran tamaño, lobulada y exofítica. AC: rítmica. AP: murmullo vesicular conservado. ABD: blando sin masas ni megalias. En extremidad inferior izquierda, presenta edema leñoso hasta rodilla. Lesiones hipopigmentadas en región pretibial, lesiones verrugosas rojizas en planta del pie. Lesiones maculares hipervascularizadas a nivel de rodilla derecha.
+
+Pruebas complementarias
+»Analítica: anodina salvo PCR: 56,80 mg/l (menos de 5). RPR-, IgG toxo+, IgG CMV+, anti-VHC-, anti-HBc+, anti-HBs+, HBsAg-, anti-VHA+. Además, se descartó brucelosis, Rickettsia, Treponema pallidum, Bartonella y Plasmodium falciparum.
+»Siendo VIH positivo con 375 CD4 y 41.000 de carga viral. No presentó mutaciones en los inhibidores de la transcriptasa.
+»Radiografía de tórax: infiltrados intersticiales de predominio en lóbulos superiores y posteriores, principalmente en LSI en forma de atelectasia.
+»Eco Doppler de miembro inferior izquierdo que muestra extenso trombo en vena femoral común, vena femoral superficial y vena poplítea izquierdas.
+»Estudio de coagulación completo sin hallazgos relevantes.
+»Esputos x 3: se aísla Mycobacterium tuberculosis.
+»TC: pulmón con múltiples y difusos focos de consolidaciones pseudonodulares bilaterales, cavitados o con tendencia a la cavitación, de predominio de los lóbulos superiores y segmentos superiores de lóbulos inferiores. Múltiples adenopatías reactivas hiliares bilaterales y en espacio subcarinal.
+»Biopsia cutánea de rodilla y de nariz: se aprecia, a nivel de la dermis, una proliferación de células fusiformes con atipia y mitosis, junto con hendiduras vasculares y extravasación hemática. Muestran inmunoexpresión para HHV-8. Diagnóstico de sarcoma de Kaposi.
+
+Diagnóstico
+»Enfermedad por VIH, estadio C2. (375 CD4 y 41000 CV); MAR HLA B5701 negativo. RPR-, IgG toxo+, IgG CMV+, anti-VHC-, anti-HBc+, anti-HBs+, HBsAg-, anti-VHA+. raltegravir (RAL), tenofovir (TDF), emtricitabina (FTC).
+»Tuberculosis pulmonar.
+»Sarcoma de Kaposi estadio IV.
+»Trombosis venosa profunda femoral común, superficial y poplítea inferior.
+
+Tratamiento
+La paciente, estando ingresada en aislamiento respiratorio, inicia tratamiento con etambutol, rifampicina y pirazinamida. Tras dos semanas de tuberculostáticos, se inició terapia antirretroviral con tenofovir, emtricitabina y raltegravir (este último doble dosis por su interacción con rifampicina, inductor en la enzima que metaboliza fármacos del citocromo P450). Debido a las eventuales interacciones y en previsión de inicio de tratamiento oncológico, se deja anticoagulación con heparina de bajo peso molecular.Inicia el 7/10/16 tratamiento oncológico paliativo con el esquema Adria pegilada (sic) (Caelyx®) del que ha recibido 7 ciclos hasta 30/5/2017. Ha tenido que retrasarse varias veces la dosis por neutropenia G3.
+
+Evolución
+La paciente, tras 7 ciclos de tratamiento, ha presentado una respuesta casi completa a nivel de todas las lesiones: sobre todo llama la atención la importante mejoría a nivel de la lesión de la nariz a pesar de los retrasos. Actualmente, está pendiente de ser valorada por Dermatología de cara a realizar cirugía estética de la lesión a nivel nasal. Además, la paciente ha presentado neutropenia G:3 por lo que ha habido que retrasarle la dosis varias veces, precisando soporte con filgrastim. Realiza buen cumplimiento de la terapia antirretroviral.

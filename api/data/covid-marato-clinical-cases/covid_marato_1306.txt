@@ -1,0 +1,33 @@
+Anamnesis
+Mujer de 55 años.
+- Antecedentes familiares: madre con adenocarcinoma de colon a los 80 años (estudio familiar negativo).
+- Antecedentes personales: no alergias medicamentosas conocidas. Exfumadora de 15 paquetes/año hasta 2006, sin otros factores de riesgo cardiovascular. Prótesis de cadera izquierda tras traumatismo en 1982.
+- Historia oncológica: adenocarcinoma de recto moderadamente diferenciado e infiltrante pT3pN+ (4/8)M0, intervenida en agosto de 2008 mediante resección abdómino-perineal. Posteriormente recibió quimioterapia con oxaliplatino + 5-FU + ácido folínico (según esquema FOLFOX 4) durante 4 meses de los 6 previstos, suspendida por neurotoxicidad, y radioterapia secuencial (50 Gy).
+En 2010 comienza seguimiento en nuestro centro, donde se realiza una TC en la que se objetiva fibrosis pélvica con afectación ureteral bilateral de predominio derecho.
+- Motivo de consulta: ingresa en enero de 2012 en otro centro por síndrome febril acompañado de tiritona, siendo diagnosticada de pielonefritis, que se resuelve mediante tratamiento antibiótico. Comienza con exudado vaginal como agua para lavar carne. En la exploración ginecológica se detecta la cara posterior de la vagina indurada con una úlcera en el tercio interno, de donde parece provenir un exudado sanguinolento (no toma de biopsia). Es derivada a consultas de Oncología de nuestro centro con la sospecha de recidiva locorregional con infiltración vaginal.
+
+Examen físico
+ECOG 0. Buen estado general. Eupneica en resposo. Auscultación cardiopulmonar normal. Abdomen anodino.
+Miembros sin hallazgos relevantes. Asintomática en el momento de la consulta.
+
+Pruebas complementarias
+- CEA, Ca 125 y Ca 19.9: en rangos normales.
+- TC abdomen (1/2012): masa en el espacio presacro sugestiva de recidiva local de su enfermedad con hidronefrosis bilateral por atrapamiento de ambos uréteres. Imágenes que sugieren infiltración de la cúpula vaginal, útero y asas de íleon distal.
+- RM (1/2012): marcada hidronefrosis del riñón derecho con moderada dilatación del uréter en todo el trayecto visible.
+Mioma submucoso de 1 cm en la cavidad uterina. Retracción de partes blandas y órganos pélvicos compatible con fibrosis.
+- PET (2/2012): en la zona presacra captación heterogénea y en forma de "C" de 3,6 x 7,4 cm, SUV 6,1. En el estudio tardío persiste dicha imagen anómala con SUV 7,9, siendo sugestiva de malignidad, salvo que un proceso inflamatorio muy marcado lo pudiera justificar.
+- Ecografía vaginal (2/2012): en la cara posterior se observa una masa adherida. Tacto y palpación tumorales, con vagina indurada, fija y retraída. Útero fijo y adherido al plano posterior.
+- Colonoscopia (3/2012): ostomía en vacío izquierdo normal. Colon descendente y hasta ciego sin lesiones, solo hay un divertículo en el colon proximal.
+- Citología vaginal (7/2012): negativa para lesión intraepitelial o malignidad.
+- Biopsia endometrial (7/2012): biopsia no representativa. Epitelio exocervical con cambios atróficos.
+
+Diagnóstico
+- Adenocarcinoma de recto. Estadio C de Dukes, C1 de Astler-Coller.
+- Masa presacra con atrapamiento ureteral bilateral compatible con recidiva locorregional versus fibrosis posradioterapia.
+
+Tratamiento
+El caso es comentado en Comité de Coloproctología.
+En caso de tratarse de una recidiva locorregional sería irresecable; aún así, existían serias dudas de que este fuera el diagnóstico, ya que la paciente se encontraba asintomática. Por este motivo se decide seguimiento estrecho clínico y radiológico, tanto por parte de Oncología como por Ginecología.
+
+Evolución
+Se hizo seguimiento estrecho clínico y radiológico (TC, PET y revisiones ginecológicas). La paciente se mantuvo asintomática durante todo el proceso, con lesión estable por técnicas de imagen, siendo diagnosticada finalmente de fibrosis retroperitoneal posradioterapia. Actualmente continúa en seguimiento cada 6 meses en consultas de Oncología.

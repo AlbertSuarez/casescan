@@ -1,0 +1,25 @@
+Anamnesis
+Varón de 81 años que consulta a inicios de 2013 por síndrome constitucional y tos poco productiva de varias semanas de evolución. Desde Atención Primaria se solicita radiografía de tórax que muestra pérdida de volumen en hemitórax izquierdo con desplazamiento mediastínico y traqueal, por lo que se remite a nuestra consulta para estudio.
+Como antecedentes personales destaca la historia de carcinoma renal de células claras diagnosticado en marzo de 2011, que se intervino mediante nefrectomía radical izquierda resultando un tumor estadio I [pT1b (6x4,5 cm) cN0 cM0]. Hasta el momento había seguido controles por parte de Urología, sin evidencia de enfermedad en la última evaluación realizada con TC en febrero de 2012.
+Además presenta HTA en tratamiento con IECA y alfa-bloqueante, artritis reumatoide en tratamiento con corticoesteroide oral y bloqueo AV completo con implantación de marcapasos bicameral. En cuanto a los hábitos tóxicos, es ex-fumador desde hace más de 20 años.
+
+Exploración física
+El paciente presenta un PS-ECOG de 1. Destaca a la auscultación la disminución del murmullo vesicular en hemitórax izquierdo, siendo el resto de la exploración anodina.
+
+Pruebas complementarias
+La TC toraco-abdominal confirmó atelectasia del lóbulo superior izquierdo y língula, presencia de derrame pleural izquierdo y nódulos pulmonares contralaterales. 
+La fibrobroncoscopia objetivó una masa excrecente necrótica en bronquio lobar superior izquierdo que se biopsió con hallazgo en el estudio anatomopatológico de una mucosa con discreta inflamación crónica. La citología del broncoaspirado selectivo (BAS) y cepillado fue también negativa para células malignas. Dados los resultados, se decidió realizar toracocentesis diagnóstico-terapéutica previa a nueva fibrobroncoscopia, siendo nuevamente negativos para malignidad tanto el líquido pleural como la citología de BAS y la biopsia bronquial. Sin embargo, en esos momentos se aisló Nocardia spp en el cultivo del primer BAS realizado.
+Ante la sospecha de que el cuadro clínico fuese secundario a una nocardiosis pulmonar con afectación nodular pulmonar e intrabronquial, en un paciente inmunodeprimido por tratamiento esteroideo crónico, se inició tratamiento con sulfametoxazol/trimetroprim 800/160 mg cada 8 horas, presentando escasa mejoría clínica en las semanas siguientes.
+En abril de 2013 se realizó control con TC torácica que no objetivó cambios significativos respecto a estudio previo. Se decidió, dada la sospecha de un proceso neoplásico pulmonar subyacente a la nocardiosis, realizar una nueva fibrobroncoscopia que mostró la lesión intrabronquial ya conocida. En este caso, el estudio anatomopatológico evidenció infiltración de carcinoma de células claras metastásico con positividad para Ck conjugada, vimentina y CD10 y negatividad para Ck7 y Ck20, compatible con origen renal.
+
+Diagnóstico
+Recaída sistémica (pulmonar e intrabronquial) de carcinoma renal de células claras con un intervalo libre desde nefrectomía radical de 24 meses. Grupo pronóstico de Motzer favorable.
+Nocardiosis pulmonar en paciente inmunodeprimido (neoplasia avanzada y corticoterapia crónica).
+
+Tratamiento
+El paciente inició tratamiento de primera línea para enfermedad avanzada con pazopanib a dosis de 800 mg/día en mayo de 2013. Además completó 6 meses con sulfametoxazol/trimetroprim para la nocardiosis hasta septiembre de 2013.
+
+Evolución
+Clínicamente la tolerancia a pazopanib fue excelente, sin toxicidad significativa, con mejoría del cuadro constitucional y desaparición de la tos. La evaluación de respuesta tras completar el tercer ciclo de pazopanib objetivó una respuesta parcial radiológica con desaparición de atelectasia y disminución del derrame pleural persistiendo los nódulos pulmonares bilaterales estables; el paciente mantiene estabilidad de la enfermedad desde el punto de vista radiológico hasta mayo de 2014. En esos momentos, tras 11 ciclos de pazopanib, presenta progresión de la enfermedad pleural, por lo que se solicita tratamiento de 2ª línea con axitinib. En TC de reevaluación tras tercer ciclo de axitinib, en
+Septiembre de 2014, se objetiva progresión pleural con derrame pleural masivo, aparición de implantes renales y en glándula suprarrenal derecha. Coincidiendo con la progresión de enfermedad, el paciente presenta deterioro clínico por aumento de la disnea, por lo que se solicita toracocentesis evacuadora y se plantea pleurodesis, aunque ésta última no se puede llevar a cabo por atelectasia secundaria. Tras la mejoría sintomática se plantea tratamiento de tercera línea con everolimus, del cual el paciente apenas recibe dos ciclos, presentando de nuevo deterioro clínico por dolor que se correlaciona con progresión radiológica a nivel óseo, así como peritoneal y renal.
+Se decide en esos momentos (Enero de 2015) suspender everolimus, proponiéndose tratamiento sintomático exclusivo, por lo que se realiza radioterapia antiálgica-paliativa sobre ala sacra y raíces sacras de S1 a S3 con mejoría clínica. No obstante, en los días posteriores presenta deterioro del estado general, falleciendo unas semanas después.

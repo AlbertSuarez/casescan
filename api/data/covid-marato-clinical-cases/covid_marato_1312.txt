@@ -1,0 +1,26 @@
+Anamnesis
+Paciente de 44 años sin hábitos tóxicos, sin hepatopatía previa conocida ni patología de interés que fue derivado avCirugía de nuestro centro por presentar una lesión hepática sugerente de hemangioma asociando elevación patológicavde alfafetoproteína (AFP) por lo que, ante sospecha de malignidad, se interviene mediante resección atípica del segmento II-III hepático.
+
+Examen físico
+La exploración física era totalmente anodina, con ECOG 0, sin adenopatías ni visceromegalias palpables.
+
+Pruebas complementarias
+Hemograma y coagulación: normales.
+Bioquímica precirugía: GPT 111, GOT 124. Resto normal.
+Marcadores tumorales: AFP precirugía 58.800 ng/mL. Beta-HCG normal.
+AFP postcirugía: 13.
+Serología: VHA IgG positivo, HBsAg negativo, HBsAc > 1000, VHC negativo, VIH negativo.
+Ecografía testicular: sin hallazgos relevantes.
+TC y RM: tumor pediculado de 5 cm dependiente de segmento II-II hepático que podría corresponder a hemangioma hepático sin poder descartar otra posibilidad.
+Anatomía patológica (AP): hepatocarcinoma multinodular moderadamente diferenciado con patrón histológico predominantemente trabecular y áreas minoritarias acinares de 10,3 cm. IHQ: CK CAM 5.2, AE 1, AE 3, 18 y 8 ++, CK 7 y 20-, Ac. antihepatocitario positivo ++ focal. Alfafetoproteína: negativa.
+
+Diagnóstico
+Hepatocarcinoma IIIA (pT3NxMx).
+
+Tratamiento
+Cirugía con intención curativa, y se decide no administrar terapia en adyuvancia.
+
+Evolución
+En seguimiento tras la cirugía presenta, a los 18 meses, elevación de AFP (70 ng/ml) y aparición de dos lesiones hepáticas sugestivas de malignidad, por lo que se realiza colecistectomía y segmentectomía VI-VII. La AP mostró 2 nódulos de 2,3 cm y 2 cm compatibles con hepatocarcinoma.
+Tras este procedimiento es valorado en nuestro Servicio con una analítica que muestra nueva elevación de AFP (238 ng/ml) y se solicita TC que evidencia progresión ganglionar mediastínica. Dada la progresión metastástica, se decide iniciar terapia sistémica con sorafenib. A pesar de este tratamiento, se observó una elevación de los niveles de AFP desde 1.143 ng/l, al inicio de la terapia, hasta 2.864 ng/ml y aparición de una nueva lesión metastásica en el hilio hepático.
+De esta forma nos encontramos con un paciente con buen estado general, función hepática conservada, que presenta un hepatocarcinoma resistente a sorafenib y para el que no existe tratamiento de segunda línea aprobado. Tras valorar distintas opciones se inició quimioterapia con esquema cisplatino-doxorrubicina-5-FU. Después de recibir 6 ciclos de quimioterapia con buena tolerancia (diarrea G2 y astenia G1) mostraba enfermedad estable por criterios RECIST y una llamativa disminución del marcador (AFP) hasta 45 ng/ml.

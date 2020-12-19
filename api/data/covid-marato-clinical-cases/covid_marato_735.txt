@@ -1,0 +1,33 @@
+Anamnesis
+Se trata de una mujer de 58 años de edad, sin hábitos tóxicos, con antecedentes personales de asma alérgica y síndrome ansioso en seguimiento por Psiquiatria y en tratamiento con bromazepam, paroxetina y escitalopram. Antecedentes quirúrgicos: apendicectomía, safenectomía.
+Traída por sus familiares al Servicio de Urgencias por cuadro confusional y deterioro coginitivo de varios días de evolución. La familia refiere que la paciente presenta deterioro cognitivo progresivo de tres semanas de evolución acompañado en los últimos días de alteración de la memoria, alucinaciones visuales y pensamientos autolíticos. Además, presenta aparición de una tumoración submandibular derecha de varios meses de evolución que ha aumentado de tamaño progresivamente sin otra sintomatología acompañante.
+
+Exploración física
+ECOG 1. Consciente y orientada. Palpación de masa en ángulo mandibular derecho de consistencia dura no dolorosa, sin adenopatías periféricas. A la exploración neurológica presenta bradipsiquia, temblor en miembros superiores sin pérdida de fuerza , fallos amnésicos y disestesias corporales, no se aprecia ninguna otra focalidad neurológica y el resto de exploración física es normal.
+
+Pruebas complementarias
+- ANALÍTICA SANGUÍNEA: sin alteraciones. Tóxicos en orina negativos.
+- ECOGRAFÍA DE TIROIDES Y CUELLO,
+En región cervical derecha coincidente con lesión palpable se aprecian lesiones sólidas de naturaleza ganglionar infiltrativas, la mayor de 3,8 cm de diámetro mayor heterogénea.
+- TAC DE CUELLO: Masa laterocervical medial a músculo esternocleidomastoideo derecho y lateral a vasos cervicales principales a los que desplaza medialmente de aproximadamente 3,1 cm de diámetro anteroposterior y 2,3 cm transverso de captación del contraste heterogénea sugestiva de adenomegalia metastásica, además el contorno posterior de la base de lengua en su vertiente izquierda parece protruyente, asimétrico respecto al contralateral.
+- FIBROBRONCOSCOPIA: A nivel de repliegue glosofaríngeo derecho se observa imagen rugosa, se toma biopsia sin evidencia de células malignas.
+- TAC DE CRÁNEO: Sin hallazgos sugerentes de patología aguda intracraneal
+- PUNCIÓN ASPIRACIÓN CON AGUJA FINA (PAAF) de masa laterocervical derecha: Infiltración de carcinoma poco diferenciado.
+Estudio Inmunohistoquímico: Positivo para CK AE1/AE2 y CD 56 , positivo focal para CK 7 y CK 5/6, Negativo para CK 20, Vimentina y CD 45.
+- PET-TC: Confirma la presencia de adenopatía de 36 mm eje mayor única con SUVmax patológico.
+
+Diagnóstico
+Carcinoma indiferenciado metastásico adenopático de origen desconocido (probable área ORL).
+
+Tratamiento
+Se realiza vaciamiento radical derecho extirpando un paquete ganglionar subdigástrico derecho, que infiltra vena yugular interna con extirpación de 3 ganglios positivos para carcinoma pobremente diferenciado.
+Resultados de Anatomía Patológica: Carcinoma pobremente diferenciado. Inmunohistoquímica: Positiva para PAN-CK, EMA, P63 y focalmente y de manera tenue para CD10. y negativas para CK7, CK20, TTF1, RE, VIMENTINA, CD45, ALK, CDK5/6, CK34BE12 y S100.
+Ante diagnóstico de carcinoma indiferenciado metastásico adenopático de probable origen otorrinolaringológico se propone tratamiento quimioterápico con Carboplatino a dosis de área bajo la curva de 2 (AUC 2) semanal y Radioterapia concomitante.
+
+Evolución
+En los días posteriores a la cirugía, previo al inicio del tratamiento, presenta empeoramiento clínico con cuadro progresivo de alteración en la memoria, insomnio con parasomnias e importante bradipsiquia y bradicinesia con aparición de parálisis del nervio facial izquierdo. Se solicita Resonancia Magnética cerebral (RNM) apreciándose hallazgos sugestivos de encefalitis límbica con afectación bilateral y simétrica de la amígdala y del hipocampo.
+Se inicia estudio etiológico con panel de autoinmunidad (Anticuerpos Antifisina, CV2, PNMA2 Anti Ri, Anti Yo, Anti Hu) y serológico (VIH 1 y 2, Sífilis y Hepatitis) y determinación de Vitamina B12 y ácido fólico así como punción lumbar con determinación bacteriológica, enterovirus y virus herpes, todo ello con resultados dentro de la normalidad y descartándose así causas autoinmunes e infecciosas.
+La paciente inicia tratamiento adyuvante con Carboplatino AUC 2 semanal concomitante con Radioterapia técnica IMRT recibiendo un total de 60 Gy sobre niveles gaglionares Ib, II, III y V derechos y un total de 54 Gy sobre niveles ganglionares II alto y IV derechos. Presentó como toxicidad relevante dermitis G2 .
+Tras inicio del tratamiento, la paciente presenta mejoría progresiva de la sintomatología persiste una ligera parálisis facial izquierda , temblor en miembro superior derecho, fallos amnésicos y disestesias y presenta mejoría de las alteraciones de la memoria, alucinaciones visuales y bradicinesia.
+Se realiza RM cerebral dos meses después del diagnóstico observándose mejoría de la encefalitis sin evidencia de focos con captación anómala.
+La paciente presentó mejoría progresiva de la sintomatología y actualmente únicamente presenta persistencia de temblor en miembro superior derecho. Sigue controles periódicos en Consultas de Oncología Médica, sin evidencia de recaída tras 12 meses de seguimiento.

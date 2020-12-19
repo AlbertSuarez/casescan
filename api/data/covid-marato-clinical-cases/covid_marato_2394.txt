@@ -1,0 +1,35 @@
+Anamnesis
+Paciente de sexo masculino de 36 años de edad en el momento del diagnóstico, hipertensión arterial diagnosticado durante el proceso, ocupación profesional carpintero, fumador activo de 30 paquetes-año, sin tratamientos médicos habituales, ni otras exposiciones ambientales ni laborales.
+El síntoma inicial, tos de moderada frecuencia e intensidad productiva blanquecina, asociaba episodios de hemoptisis leve, de tres meses de evolución.
+En febrero de 2014, presenta clínica de disnea de mínimos esfuerzos, edema facial, circulación colateral y edema en esclavina, siendo diagnosticado de síndrome de vena cava superior. Requiere la colocación de un stent vascular e inicia el estudio.
+
+Exploración física
+» Rubicundez facial, asociando edema orbitario, no se evidencia ptosis palpebral.
+» Palpación de ganglios cervical de predominio derecho, de consistencias pétreas.
+» No hay palpación de otras adenopatías.
+
+Pruebas complementarias
+» Fibrobroncoscopia (FBC): edematización a nivel de bronquio izquierdo.
+» Biopsia: carcinoma escamoso pobremente diferenciado: ALK -, EGFR -.
+» Rastreo óseo: sin evidencia de lesiones metastásica a nivel de hueso.
+
+Diagnóstico
+Carcinoma escamoso de pulmón AJCC 7 E IV B (cT4N3M1 adenopatías axilares bilaterales).
+
+Tratamiento
+Se propone como mejor opción terapéutica, la inclusión en ensayo clínico CA 184-04, combinación de carboplatino/paclitaxel/Ipilimumab, cumpliendo todos los criterios de inclusión y ninguno de exclusión, en el mes de marzo de 2014.
+En vista de la carga tumoral, así como un retraso en el inicio del tratamiento como las complicaciones del paciente, se decide iniciar tratamiento con esquema de quimioterapia convencional, tras firma de consentimiento informado, primer ciclo de quimioterapia esquema cisplatino/vinorelbina el día 24 marzo 2014, con aceptable tolerancia al mismo.
+Tras el primer ciclo, presenta disminución del tamaño de las adenopatías cervicales y axilares, manteniendo respuesta parcial como mejor respuesta tras 6 ciclos.
+
+Evolución
+Durante el seguimiento, en junio de 2015 presenta progresión de enfermedad a nivel pulmonar, ganglionar, realizando nueva biopsia muestra heterogeneidad tumoral presente en los tumores y búsqueda de una posible diana terapéutica, tras la biopsia persiste carcinoma indiferenciado.
+Dada la progresión de enfermedad, inicia segunda línea de tratamiento con inmunoterapia (nivolumab) como un uso compasivo.
+Tras 6 ciclos de tratamiento, hay mejoría considerable del estado general, ECOG 1, disminución de la dosis de morfina, mejorando la disnea, adecuada tolerancia al tratamiento: presenta pocos efectos secundarios, excepto diarrea, la cual fue controlada con loperamida.
+Tras 30 ciclos de tratamiento, mantiene respuesta parcial y excelente tolerancia al tratamiento. A los 55 ciclos, ECOG 0, es paciente se reincorpora a su vida laboral.
+Dada la respuesta mantenida la buena respuesta cervical, se plantea actitud radical. Se comenta el caso en Comité de Tumores multidisciplinar, donde se decide realizar tratamiento quirúrgico.
+El día 22 diciembre 2017, se interviene mediante toracotomía + lobectomía superior derecha + muestreo ganglionar con informe de histopatología necrosis y focos da calcificación, bordes sin lesiones, adenopatía grupo VII sin lesiones tumorales.
+Reinicio de nivolumab en febrero de 2018, presentando, desde la cirugía, astenia G2 y algias generalizadas.
+En junio 2018, ingresa en Oncología médica por pericarditis aguda idiopática, derrame pericárdico moderado en resolución, realizando estudio de inmunidad, que es positivo para los anticuerpos antinucleares ANA 1/320 y anticuerpos anti SSa/Ro52, y negativo para el resto de componentes de inmunidad como anticuerpos antimúsculo liso y DsADN anticuerpos (específicos para lupus eritematoso sistémico).
+Actualmente, ninguna prueba por si sola satisface los requisitos de adecuada capacidad discriminatoria del LES, dado que el aumento en su especificidad determina una disminución importante de su sensibilidad.
+Tras la mejoría clínica con tratamiento sintomático con paracetamol, y dada también la mejoría clínica del derrame con el tratamiento, se cataloga de pericarditis.
+Actualmente se encuentra en revisiones.

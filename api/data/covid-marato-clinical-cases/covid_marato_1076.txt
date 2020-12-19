@@ -1,0 +1,33 @@
+Anamnesis
+Se trata de una mujer de 45 años, técnico de laboratorio (trabajaba en contacto con ácidos minerales y disolventes orgánicos).
+En su familia hubo varios casos de tumores de sistema nervioso central, pero también sarcomas, tumores de mama y colon.
+Como antecedentes personales padece asma, hipotiroidismo subclínico e hiperprolactinemia leve sin repercusión clínica.
+Historia oncológica: en marzo de 2015, comienza con disnea de moderados esfuerzos siendo finalmente diagnosticada en noviembre de 2015 de un adenocarcinoma de pulmón estadio IV por afectación pulmonar bilateral y dudosa lesión pancreática. El estudio mutacional reveló positividad por inmunohistoquímica para ALK.
+Inicia tratamiento con crizotinib el 23/12/2015 con buena tolerancia y mejoría de la clínica de disnea y tos, presentando como toxicidades edemas en miembros inferiores, hipoalbuminemia e hipocalcemia leves, así como ligero aumento de miodesopsias, que la paciente ya presentaba, en el primer mes.
+Se obtuvo una respuesta parcial mantenida hasta abril de 2017.
+Enfermedad actual: en abril de 2017, comienza con clínica de cefalea occipital leve y mínima sensación de mareo con giro de objetos que fue atribuida inicialmente a cuadro vertiginoso.
+
+Exploración física
+Buen estado general. Índice Karnofsky 100 %. Auscultación cardiaca rítmica sin soplos. Auscultación pulmonar con ruidos respiratorios conservados sin ruidos patológicos añadidos. Abdomen no doloroso, sin masas palpables. Edemas bimaleolares.
+Exploración neurológica: habla normal, pupilas simétricas reactivas, no hay nistagmos, pares craneales normales, fuerza y tono 5/5, no disdiadococinesia, sin alteraciones sensitivas, test por confrontación normal, test Romberg negativo, no hay alteraciones de la marcha.
+
+Pruebas complementarias
+» Tomografía computarizada (TC) toracoabdominopélvica (28/04/2017): se compara con TC previa de 12/12/2016. Hallazgos en cráneo: existen al menos tres lesiones nodulares supra e infratentoriales que presentan captación homogénea de contraste, una en hemisferio cerebeloso derecho de 3 mm, otra en región temporoparietal derecha de 5 mm y la mayor de 6 mm en el núcleo lenticular derecho, compatibles con metástasis. Morfología de surcos y ventrículos normal.
+» Hallazgos en tórax: masa hiliar izquierda de densidad heterogénea que infiltra el mediastino y engloba la arteria pulmonar izquierda infiltrándola. Dicha masa obstruye el bronquio del lobar superior condicionando una atelectasia posobstructiva, sin cambios significativos respecto al control. Persisten también sin cambios pequeños infiltrados pseudonodulares en región apical del pulmón izquierdo.
+» Pequeños ganglios en mediastino superior sin cambios. No hay adenopatías axilares ni hiliares. Lesión quística de 4 cm y otra más inferior de 1,7 cm en mama izquierda, sin cambios.
+» Hallazgos en abdomen: lesiones hipodensas sugestivas de quistes simples hepáticos, sin cambios. Persiste pequeña área de hipodensidad adyacente al ligamento falciforme, sin cambios y probablemente en relación con trastorno de la perfusión. Bazo, páncreas, riñones y ambas glándulas suprarrenales normales. Resto del estudio abdominal sin alteraciones significativas.
+» No hay enfermedad metastásica ósea.
+» Resonancia magnética (RM) cerebral (12/05/2017): micrometástasis cerebrales difusas. Se objetivan al menos dos lesiones a nivel infratentorial que afectan a ambos hemisferios cerebelosos con mínimo edema asociado. A nivel supratentorial, se observan al menos 10 pequeñas lesiones, la mayoría de ellas de predominio cortical existiendo una a nivel del putamen derecho de unos 8 mm. El resto de las lesiones son de tamaño inferior con un diámetro medio próximo a los 3-6 mm, y no existe prácticamente edema vasogénico asociado. No se observan realces leptomeníngeos que sugieran la presencia de carcinomatosis asociada.
+» Conclusiones: cambios compatibles con micrometástasis cerebrales supra e infratentoriales.
+
+Diagnóstico
+Progresión tumoral en el sistema nervioso central (SNC) exclusiva con enfermedad periférica estable de un adenocarcinoma de pulmón estadio IV ALK positivo.
+
+Tratamiento
+Dado que la enfermedad a nivel periférico continuaba en respuesta parcial mantenida y se trataba de una progresión en SNC exclusiva, se decidió, de forma conjunta, realizar tratamiento radioterápico holocraneal y continuar tratamiento con crizotinib.
+La paciente recibe tratamiento con esquema de 10 x 300 cGy entre los días 14/06/2017 y 27/06/2017 en acelerador lineal con técnica de RT3D, utilizándose 2 campos opuestos OAD y OAI con fotones de 6 MV de energía. Durante ese periodo de tiempo, se suspendió el tratamiento con crizotinib ante la posibilidad de aumento de toxicidad, reanudándose una semana tras finalizar el tratamiento con radioterapia.
+
+Evolución
+La paciente continúa en tratamiento con crizotinib a día de hoy, sin evidencia de progresión tumoral a otros niveles (última TC realizada el 11/04/2018).
+En RM de control que se realizó el 03/11/2017, se objetivó además reducción del tamaño de las metástasis intraparenquimatosas.
+Como efectos secundarios del tratamiento administrado, presentó mareos y cefalea que se controlaron con dosis bajas de corticoide (4 mg de dexametasona, estableciendo posteriormente pauta descendente de estos dado que la paciente desarrolló síndrome de Cushing a pesar de ser dosis bajas), actualmente ya suspendidos sin reaparición de la clínica.

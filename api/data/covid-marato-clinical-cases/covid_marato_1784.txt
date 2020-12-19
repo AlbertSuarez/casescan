@@ -1,0 +1,25 @@
+Anamnesis
+Varón de 56 años, exfumador desde hace 6 meses, con los siguientes antecedentes personales: hipertensión, diabetes mellitus tipo 2, hipertiroidismo e intervenido de hemicolectomía con colostomía transversa por obstrucción intestinal y aneurisma de aorta abdominal vía endovascular. No presentaba antecedentes familiares de interés.
+
+El paciente acude a urgencias porque refiere dolor anal de 2-3 meses de evolución que no mejora con tratamiento analgésico y medidas higiénico-dietéticas, con diagnóstico de fisura anal. El dolor es de carácter intermitente, irradiado a testículos, no relacionado con la defecación, sin emisión de sangre ni productos patológicos, además de polaquiuria, estranguria y nicturia. En los últimos días, refiere tenesmo rectal y vesical. Sin fiebre ni síndrome constitucional.
+
+Exploración física
+Inspección anal normal, sin hipertonía del esfínter, no se aprecia fisura anal. Tacto rectal con próstata grande, dura, muy dolorosa a la palpación.
+Pruebas complementarias
+- Analítica: hemograma, bioquímica y coagulación dentro de los valores normales. CEA 745,7 PSA 1,79.
+- Resonancia magnética (RM) de pelvis: masa tumoral de unos 6,5 x 5,5 x 3 cm, dependiente del lóbulo prostático derecho, de morfología irregular e intensidad de señal heterogénea, con extensión extracapsular hacia el paquete neurovascular derecho y hacia las vesículas seminales derechas y el suelo de la vejiga.
+- Tomografía computarizada (TC) toraco-abdomino-pélvica: múltiples imágenes nodulares subcentimétricas en ambos campos pulmonares en relación con metástasis. Múltiples imágenes hipodensas en ambos lóbulos hepáticos sospechosas de malignidad. Adenopatías en ambas cadenas ilíacas externas e internas.
+- Gammagrafía ósea (GGO): captación aumentada en escápula derecha, fémur izquierdo, acetábulo derecho y, para completar estudio se obtienen imágenes con SPECT-TC de columna lumbar visualizándose hipercaptación en cuerpo vertebral de L4, S1, apófisis espinosa de L2, acetábulo derecho e ilíaco izquierdo.
+- Biopsia de próstata: carcinoma neuroendocrino de célula pequeña de próstata, con infiltración perineural y positividad a los marcadores neuroendocrino (sinaptofisina, cromogranina y enolasa) y citoqueratina AE1/AE3.
+
+Diagnóstico
+Carcinoma neuroendocrino microcítico de próstata con metástasis pulmonares, hepáticas y óseas, estadio IV (T4N2M1).
+
+Tratamiento
+Tras control de los síntomas, se pauta primer y único ciclo de QT con cisplatino y etopósido. Se realizó una hoja de interconsulta a Oncología Radioterápica paliativa para valorar radioterapia antiálgica pélvica por dolor que no cede con derivados mórficos, pero descartaron su administración de forma concomitante con QT por toxicidad.
+
+Evolución
+El paciente fue ingresado en el servicio de Cirugía general por sospecha de fisura anal rebelde a tratamiento. Tras descartarla y sospechar prostatitis realizan una hoja de interconsulta a Urología, que solicitan RM pélvica con resultados de probable carcinoma de próstata, el cual es confirmado tras biopsia. Se realiza estudio de extensión con TC y GGO, detectándose metástasis a nivel óseo, hepático y pulmonar.
+Durante el ingreso el dolor es incontrolable, lo cual precisa seguimiento y tratamiento por la Unidad del dolor. El dolor es tan intenso que incluso se plantea sedación.
+Tras el diagnóstico pasa a cargo de Oncología para inicio de quimioterapia (QT) paliativa, pero se retrasa por mal control del dolor y cuadro de hiponatremia secundaria a SIADH.
+En el tercer día post-QT el paciente comienza con cuadro febril, dolor abdominal y vómitos en posos de café, con sospecha de patología abdominal grave pero debido al mal estado general del paciente, no es candidato a UCI ni tampoco puede realizarse TC abdominal y finalmente fallece.

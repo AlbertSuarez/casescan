@@ -1,0 +1,34 @@
+Anamnesis
+Varón 73 años, independiente para las actividades básicas de la vida diaria. Exfumador desde hace 22 años y sin otros hábitos tóxicos. Como antecedentes médicos de interés, destaca hipertensión arterial de larga data, fibrilación auricular permanente anticoagulada con acenocumarol y enfermedad pulmonar obstructiva crónica (EPOC) grave con oxigenoterapia domiciliaria. En tratamiento habitual con antihipertensivos, pantoprazol y aerosolterapia.
+Es diagnosticado en octubre de 2014 de adenocarcinoma de tercio distal de esófago (T3Nx, M0 c-erb2 negativo), siendo presentado en Comité Oncológico para valorar resecabilidad, que se desestima por gran comorbilidad pulmonar y elevado riesgo quirúrgico al precisar esofagastrectomía total. Por este motivo, se decide finalmente tratamiento con quimioterapia y radioterapia radical de forma concomitante.
+Recibe tratamiento con paclitaxel + carboplatino semanal, así como radioterapia (50Gy) desde febrero a abril de 2015. Se objetiva, tanto en TC como en gastroscopia estabilización de la enfermedad, por lo que se decide seguimiento en consulta.
+Ingresa en septiembre 2016 por síndrome febril de alto grado acompañado de escalofríos y tiritonas sin foco aparente. Durante el mismo, se detecta por pruebas de imagen (TC) lesión esplénica hipodensa de nueva aparición, que podría estar en relación con lesión metastásica.
+Ante estos hallazgos, se considera progresión de la enfermedad y se inicia esquema de quimioterapia FOLFIRI con intención paliativa (recibe hasta tres ciclos).
+En octubre 2016, se produce reingreso del paciente por pico febril sin identificar causa alguna. Se realiza estudio con leucocitos marcados sin que se detecte ninguna lesión con avidez por el trazador, por lo que se descarta en este momento foco infeccioso. Se repite TC abdominal de reevaluación, donde se aprecia aumento de tamaño de la lesión esplénica con respecto a estudios previos (de 22 mm a 35 mm).
+El paciente vuelve a ingresar en octubre 2016, por nuevo cuadro febril de hasta 38,5 ºC, con mal cierre de la herida quirúrgica posimplantación de reservorio (port a cath) aunque sin signos de sobreinfección. En hemocultivos se aísla Streptococcus intermedius por lo que se instaura tratamiento antibiótico, se procede a retirada de reservorio y colocación en lado contralateral sin incidencias.
+En diciembre 2016, reingresa con cuadro de shock séptico, requiriendo tratamiento con noradrenalina por nuevo síndrome febril de alto grado y 24 horas de evolución, acompañado de escalofríos y tiritona. No se evidencia foco: el paciente no refiere síntomas respiratorios, alteración del hábito gastrointestinal, clínica miccional o de algún tipo.
+
+Exploración física
+A su llegada a Urgencias, paciente febril (38,7 ºC), con tensiones de 110/65 mm Hg. Mantiene buena diuresis y aceptable saturación con gafas nasales a 3L.
+El paciente se encuentra consciente, orientado y colaborador. Con afectación del estado general. Buena perfusión e hidratación. Durante la auscultación cardiorrespiratoria, se aprecian tonos arrítmicos e hipoventilación en base izquierda. Abdomen excavado, blando y depresible sin dolor, sin palpar masas ni megalias, no se evidencian signos de peritonismo y ruidos hidroaéreos están presentes.
+Región de reservorio sin signos de sobreinfección ni dolor durante la palpación.
+
+Pruebas complementarias
+Analítica al ingreso: se aprecia discreta leucocitosis (10,3 x 10,9/l) con gran elevación de procalcitonina (22,84 ng/ml) y de la PCR (114 mg/l).
+Se realiza, además, placa de ingreso en la que no se evidencian imágenes claras de condensación o derrame.
+Ya en planta, se realiza ecocardiografía, siendo ésta negativa para endocarditis, así como TC toracoabdominal en la que se aprecian tres lesiones hipodensas de gran tamaño con densidad líquido distribuidas desde el hilio a la periferia y de las que no se puede descartar infección, así como derrame pleural de moderada cuantía.
+Ante estos hallazgos, se amplía estudio con eco abdominal que informa de dos áreas visibles heterogéneas (predominio hipoecogénico) de hasta 45 x 39 mm de diámetro, que impresionan de abscesos esplénicos.
+Se extraen hemocultivos diferenciales (reservorio y vía periférica), creciendo en ellos Staphylococcus epidermidis con tiempo diferencial de crecimiento no significativo.
+
+Diagnóstico
+Ante estos hallazgos en las pruebas complementarias y apoyándonos en la clínica del paciente, se diagnostica de bacteriemia por Streptococcus intermedius multisensible, causante de cuadro febril, así como las tres lesiones esplénicas se diagnostican de abscesos, siendo probablemente el foco infeccioso inicial, con derrame pleural asociado.
+
+Tratamiento
+Inicialmente, dado el cuadro de shock séptico y gran elevación de reactantes de fase aguda, el paciente recibió cobertura antibiótica empírica con cefepima, desescalando a ceftriaxona tras aislamiento en los hemocultivos de S. epidermidis. Tras estabilización clínica, se procedió a colocación de Pleur-evac, así como a drenaje por punción-aspirado guiado por ecografía de dos de las tres colecciones esplénicas (persistencia de una de ellas al no ser accesible) cuyo cultivo también resultó positivo para S. intermedius.
+Dada la importante afectación del estado general del paciente y el importante cuadro infeccioso, se decide pausar tratamiento quimioterápico por el momento.
+
+Evolución
+El paciente presentó muy buena evolución clínica, con desaparición de la fiebre y mejoría del estado general. Además, se aprecia evolución radiológica favorable de abscesos esplénicos con reducción significativa de tamaño en respuesta a tratamiento antibiótico. Se deriva al alta domiciliaria con mismo tratamiento antimicrobiano.
+En control evolutivo en consultas externas a las cuatro semanas, persistencia de deterioro del estado general, objetivándose en TC de control persistencia de lesiones esplénicas que nos hacen suponer origen metastásico con sobreinfección de las mismas.
+Se solicita TC de reevaluación, donde se aprecia progresión de enfermedad oncológica con aumento de tamaño de tumoración de esófago distal con extensión a unión esofagogástrica y fundus, así como nódulos epiploicos sugerentes de implantes nodulares.
+Debido a estos hallazgos y mal estado general del paciente, se decide suspensión definitiva de tratamiento quimioterápico y derivación a Unidad de Cuidados Continuos para seguimiento del paciente.

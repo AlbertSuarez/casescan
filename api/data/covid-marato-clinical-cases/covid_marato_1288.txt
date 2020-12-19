@@ -1,0 +1,27 @@
+Anamnesis
+Se presenta el caso de una mujer caucásica de 54 años en el momento del diagnóstico oncológico.
+Como antecedentes médicos de interés destaca alergia al esparadrapo, consumo tabáquico activo (dos paquetes diarios desde los 20 años), hipercolesterolemia, antecedente de infarto agudo de miocardio Killip I en agosto del 2009 tratado mediante revascularización percutánea y colocación de 3 stents recubiertos en coronaria derecha.
+Se le realizó una histerectomía por mioma uterino en noviembre del 2005, y en el 2012 se realizó exéresis radioguiada de un carcinoma lobulillar in situ (CLIS) en la mama izquierda. Como antecedente familiares oncológicos refiere cáncer de labio en su padre a los 58 años (fumador) y cáncer de pulmón en su madre a los 89 años (no fumadora).
+Tratamiento habitual: atorvastatina 40 mg un comprimido al día, ezetimiba 10 mg un comprimido al día, irbesartan 150 mg un comprimido al día y clopidogrel 150 mg un comprimido al día.
+
+Exploración física
+» Peso: 63 kg. Talla: 157 cm. Superficie: 1,66 m2. Índice masa corporal (IMC): 26 kg/m2 . Estado general: 0 (ECOG).
+» Consciente y orientada. Sin adenopatías palpables. Mama izquierda con cicatriz a nivel de cuadrante supero-interno sin eritema ni signos de sobreinfección. Mama derecha sin alteraciones relevantes. Sin adenopatías laterocervicales ni supraclaviculares. Auscultación cardiopulmonar sin alteraciones. Sin organomegalias ni masas abdominales. Sin ascitis. No hay edemas maleolares. Resto sin interés.
+
+Pruebas complementarias
+La paciente es diagnosticada a raíz de una mamografía de control realizada el 3 de noviembre del 2016 durante el seguimiento del CLIS. En él se objetiva un nódulo espiculado de 5 mm en el tercio posterior de la unión de cuadrantes inferiores de la mama izquierda.
+Se realiza una biopsia con aguja gruesa de dicha lesión en la que se detectan células compatibles con carcinoma infiltrante, realizándose estudio inmunohistoquímico con resultado de receptores hormonales (RRHH) (estrógenos y progesterona) negativos, con un índice de proliferación (KI 67) del 30 % y una sobreexpresión del receptor de HER-2 positiva (HERCEPTEST +++/+++).
+Analíticamente, la paciente no muestra alteraciones relevantes ni elevación de los principales marcadores tumorales (CEA y Ca 15. 3).
+El día 5 de diciembre del 2016 se realiza una resonancia mamaria bilateral para completar el estadiaje loco regional en el que se identifica en la mama izquierda una lesión infiltrante de 7 mm en la localización previamente indicada, localizada a 1,2 mm del pectoral mayor ipsilateral y sin signos de infiltración del mismo.
+
+Diagnóstico
+Carcinoma ductal infiltrante de mama izquierda de 7 mm de subtipo HER-2 enriquecido con un estadiaje prequirúrgico cT1bN0Mx (estadio I).
+
+Tratamiento
+Tras valoración en Comité de Tumores de Mama, se decide intervenir a la paciente mediante tumorectomía con biopsia selectiva del ganglio centinela (BSGC). La intervención se realizó el día 14 de diciembre del 2016 sin complicaciones. Durante la intervención quirúrgica se informa del resultado negativo de la BSGC que fue negativa, por lo que no se amplió a linfadenectomía.
+El resultado anatomopatológico de la pieza quirúrgica fue de carcinoma ductal infiltrante grado dos de 8 mm en cuadrante inferointerno-unión de cuadrantes inferiores de la mama izquierda. No se detectó permeación vascular ni infiltración perineural, quedando los bordes quirúrgicos libres. El resultado de la BSGC fue el aislamiento de un solo ganglio sin evidencia de metástasis (< 100 el número de copias).
+Posteriormente, recibe tratamiento quimioterápico adyuvante siguiendo el esquema paclitaxel 80/m2 semanal asociado a trastuzumab (4 mg/kg dosis de carga, 2 mg/kg posteriormente) durante doce semanas (del 3 de febrero del 2017 al 28 de abril del 2017). Posteriormente, inicia tratamiento radioterápico local el día 31 de mayo del 2017 previsto para finalizar el día 11 de julio del 2017 y continúa con trastuzumab adyuvante hasta completar un año (6 mg/kg) cada 3 semanas.
+
+Evolución
+Fue necesario hacer un ajuste de dosis, disminuyendo la dosis de paclitaxel un 15 % en el 5º ciclo por neurotoxicidad grado 2. Por lo demás, la tolerancia al tratamiento con paclitaxel y trastuzumab fue buena, sin deterioro relevante de la función renal, hepática ni cardiaca ni otras toxicidades graves.
+Actualmente, la neurotoxicidad está en remisión y continúa con el tratamiento radioterápico, habiendo recibido la última dosis de trastuzumab intravenoso el día 09/06/2017.

@@ -1,0 +1,27 @@
+Anamnesis
+Mujer de 53 años que consulta a su médico de Atención Primaria por disnea. La paciente presentaba como antecedente relevante tabaquismo hasta hace 10 años con un índice paquetes-año de 13. No presentaba antecedentes familiares relevantes.
+La paciente refería un cuadro de disnea de moderados esfuerzos de 4-5 meses de evolución asociada a pérdida de peso de 7 kg en los últimos 3 meses. No refería astenia, anorexia, fiebre, tos ni otra sintomatología.
+
+Exploración física
+No presentaba alteraciones relevantes.
+
+Pruebas complementarias
+En la radiografía de tórax mostró un aumento densidad perihiliar y paravertebral izquierdas sospechosas de malignidad.
+Se completó el estudio con la realización de una tomografía axial computarizada (TAC) confirmándose la presencia la masa hiliar en el segmento apical del lóbulo inferior izquierdo (LII) de 6 x 4 x 5 cm con bordes irregulares en contacto con pleural costal, zona paravertebral, arteria pulmonar izquierda, arteria lobar inferior izquierda y la aorta descendente en más de 90 grados de su circunferencia sin poder descartar infiltración de la pared sugestiva de carcinoma broncogénico.
+En la broncoscopia se observaba una masa recubierta de fibrina y aspecto necrótico que obstruía el LII y cuyo origen era el bronquio apical del LII. La biopsia de la lesión confirmó la presencia de un tumor maligno extensamente necrosado con células aisladas que correspondían a un carcinoma de célula no pequeña que por la expresión de TTF-1 y la negatividad para p40, se diagnósticó como compatible con adenocarcinoma de pulmón poco diferenciado.
+Se realizó una tomografía por emisión de positrones (PET-TAC) para completar el estudio con un aumento de captación a nivel de masa ya conocida en LII (SUVmax 20.8) que se extendía a hilio pulmonar izquierdo con contacto con la pleural costal, zona paravertebral y la aorta descendente.
+Captación patológica hiliar izquierda en probable relación con afectación secundaria. Además se evidenció un incremento difuso de la captación en colon transverso, y más intenso a nivel de colon descendente y recto-sigma que impresionaban de origen funcional o inflamatorio.
+
+Diagnóstico
+Con el diagnóstico de adenocarcinoma de pulmón poco diferenciado cT4 cN1 cM0 (Estadio IIIA) se presentó el caso en el comité de tumores torácicos y se decidió iniciar el tratamiento con quimioterapia basada en platino con intención neoadyuvante y posteriormente valorar la respuesta y la resecabilidad.
+
+Tratamiento
+La paciente recibió 3 ciclos de Cisplatino 75mg/m2 intravenoso día 1 y Vinorelbina 25mg/m2 intravenoso días 1 y 8 cada 21 días con aceptable tolerancia salvo vómitos grado 1-2 y astenia grado 1.
+
+Evolución
+Se repitió el PET-TAC tras la quimioterapia neoadyuvante con muy leve disminución de tamaño de la masa hasta 4.6 x 5.1cm y SUVmax de 29, persistía también la captación hiliar izquierda. Aumento de captación focal en colon ascendente de nueva aparición que aconsejaba valoración complementaria.
+En la resonancia magnética nuclear del tórax se observaba la masa tumoral en contacto con la cara lateral de la aorta descendente a lo largo de 5cm pero siendo menor de 90º de la circunferencia del vaso.
+Se presentó el caso de nuevo en el comité multidisciplinar de tumores y se decidió la realización de lobectomía inferior izquierda, tras la confirmación de la ausencia de afectación ganglionar mediastínica mediante videomediastinoscopia.
+El resultado anatomopatológico de la pieza quirúrgica fue de carcinoma de células gigantes de 5,3 cm que infiltraba todo el espesor de la pared bronquial, parte de la vena extendiéndose al parénquima pulmonar y la pleura. Presentaba necrosis tumoral en menos del 90% del volumen. No se evidenció infiltración perineural, vascular, linfática, ni afectación ganglionar. El tumor presentaba inmunopositividad para CK7, TTF-1, napsinaA y p40 de manera focal, siendo negativo para ß-HCG. Por ello el estadio patológico tras el tratamiento neoadyuvante fue ypT2b pN0.
+Debido a la captación, de nueva aparición en el PET, en colon ascendente se solicitó una colonoscopia con los hallazgos de un pólipo sésil de 3 mm en colon ascendente del que se toman biopsias pero no se reseca completamente por restos de material fecaloideo y otro pólipo semipediculado de 16 mm en ángulo hepático que se reseca con asa de polipectomía previa infiltración submucosa de adrenalina. El diagnóstico fue de adenoma tubular con displasia de bajo grado en colon ascendente y en la pieza de polipectomía del ángulo hepático se observaba una metástasis polipoide del carcinoma de pulmón. No se detectó mutación en EGFR ni translocación de ALK. Tanto el tumor pulmonar como la metástasis presentaban el mismo inmunofenotipo.
+Posteriormente se repitió la colonoscopia evidenciándose sólo la cicatriz en la zona de la polipectomía, sin malignidad en las biopsias tomadas de esa zona.

@@ -1,0 +1,17 @@
+Anamnesis
+Tras dos ciclos de inmunoterapia, el paciente acude a Urgencias por astenia de una semana de evolución, pérdida de fuerza en miembro superior derecho, ptosis palpebral bilateral y diplopía. Los síntomas presentan predominio vespertino, mejorando significativamente tras el descanso. Niega sufrir fiebre o clínica infecciosa. No hay otra clínica neurológica.
+
+Exploración física
+El paciente se encuentra afebril y hemodinámicamente estable, sin alteraciones en la exploración cardiopulmonar ni a nivel abdominal. Es valorado por el Servicio de Neurología, objetivando los siguientes hallazgos: ptosis palpebral bilateral asimétrica, más evidente en el ojo izquierdo; limitación para la abducción de ambos ojos; y fuerza 4/5 en miembro superior derecho. Los dos primeros signos se agravan tras realizar maniobras de fatigabilidad. No se objetivan otras alteraciones neurológicas.
+
+Pruebas complementarias
+Se solicita análisis de sangre, donde destaca fibra de fibrinógeno elevada (588 mg/dl) y alteración del perfil hepático (ALT 201 U/l, AST 228 U/l). Ante la clínica neurológica, se realiza estudio de imagen a nivel craneal con tomografía computarizada (TC) y resonancia magnética (RM), donde se descartan alteraciones morfológicas más allá de las relacionadas con su perfil etario. Ante la sospecha de patología a nivel de la unión neuromuscular, se amplía el estudio analítico solicitando perfil autoinmune, objetivándose positividad de los anticuerpos antirreceptor colinérgico (9,64 nmol/l). Se realiza punción lumbar, hallándose proteinorraquia (60 mg/dl) y elevación del cociente albúmina y del índice de IgM. Se completa el estudio con electromiograma de fibra única, mostrando latencia individual en 5 de las fibras, con aumento de la latencia media y bloqueo de una de ellas, hallazgos compatibles con trastorno de la unión neuromuscular. También se realiza estudio de la función respiratoria, observándose diferencia significativa entre la FVC en espirometría en sedestación y en decúbito.
+
+Diagnóstico
+Se diagnostica de trastorno miasteniforme en probable relación con inmunoterapia (anti-CTLA-4 y anti-PDL-1) en paciente con carcinoma vesical urotelial en estadio pT2N1M1.
+
+Tratamiento
+Ante la sintomatología presentada por el paciente, ingresa en planta de Oncología Médica y se inicia tratamiento con corticoides (prednisona 1 m/kg/día). Tras obtener los resultados de las pruebas diagnósticas, se inicia tratamiento con inmunoglobulinas IV a dosis de 0,4 g/kg/día. El paciente presenta evolución clínica favorable, con recuperación parcial de la fuerza en miembro superior derecho y desaparición casi completa de la ptosis palpebral. Tras 5 días de tratamiento, se procede a dar de alta al paciente con tratamiento con bromuro de piridostigmina.
+
+Evolución
+Como consecuencia de los efectos adversos del tratamiento, el paciente sale del ensayo clínico y continúa tratamiento estándar con quimioterapia (cisplatino-gemcitabina).

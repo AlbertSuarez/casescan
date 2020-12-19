@@ -1,0 +1,27 @@
+Anamnesis
+Se trata de una paciente de 46 años que ingresa en verano del 2015 para estudio de un síndrome anémico de meses de evolución junto un cuadro constitucional caracterizado por astenia y pérdida de peso.
+Entre sus antecedentes familiares destacaban una madre fallecida por un cáncer de colon a los 50 años y 2 tías maternas intervenidas de cáncer de colon.
+Durante su estancia hospitalaria se constata un cuadro catabólico con desnutrición moderada y se diagnostica tras colonoscopia de un adenocarcinoma de ciego moderadamente diferenciado.
+
+Exploración física
+La paciente mantenía un ECOG 2 con una desnutrición grave. Presentaba un índice de masa corporal de 15 kg/m2. Pérdida, además, de masa muscular a nivel de miembros inferiores. En la exploración abdominal, se palpaba una sensación de masa a nivel de flanco derecho con aumento del peristaltismo durante la auscultación. La auscultación cardiaca era normal y ventilaban de forma adecuada ambos pulmones.
+
+Pruebas complementarias
+Se procedió a realizar el estudio de extensión con una tomografía computarizada (TC) que localizó un engrosamiento mural del ciego asociado a adenopatías regionales patológicas, sin presentar evidencia de metástasis a distancia, pero destacando signos sugestivos de invasión de la pared abdominal anterior derecha, así como del músculo psoas iliaco derecho.
+Tras comentar en comité de tumores del aparato digestivo, se consideró un tumor resecable, realizando una ileocequectomía más linfadenectomía y resección del tumor a nivel de la pared abdominal en agosto de 2015.
+
+Diagnóstico
+La Anatomía Patológica definitiva describió un adenocarcinoma de ciego KRAS mutado exón 4 (A146T) que invadía el peritoneo visceral y la grasa de la pared abdominal, junto con una adenopatía patológica de 3 extraídas. El estadio definitivo sería un pT4 pN1 M0 (IIIC).
+
+Tratamiento
+Tras la intervención, la paciente evolucionó de forma lentamente favorable debido a un postoperatorio tórpido por complicaciones infecciosas a nivel de la pared abdominal, con una colección con material purulento que drenaba sobre la herida quirúrgica. Como consecuencia de ello, la paciente se mantenía en una situación de desnutrición grave con un estado catabólico que le hacía necesitar soporte nutricional con suplementos proteicos.
+Evaluada en Oncología para la decisión de un tratamiento adyuvante y todavía con problemas infecciosos activos, se optó por comenzar con capecitabina en monoterapia, añadiendo oxaliplatino cuando mejorara la situación general.
+La paciente realiza 8 ciclos de capecitabina en monoterapia desde septiembre hasta febrero de 2016 debido a la persistencia de un ECOG 2 durante los meses posteriores a la cirugía.
+En mayo de 2016, tras elevación del CEA, se diagnostica una recaída en forma de una masa de partes blandas afectando la región distal del psoas y el músculo iliaco derecho. El estado general de la paciente había comenzado a deteriorarse con imposibilidad para la deambulación por dolor en miembro inferior derecho. Se inició tratamiento con XELOX bevacizumab 13 ciclos como primera línea metastásica, alcanzando una estabilización de la masa en psoas como mejor respuesta que presentaba unas dimensiones de 9 x 11 cm.
+En diciembre de 2016, se produce una progresión con elevación del CEA hasta 39 ng/dl y aumento de la masa en el psoas alcanzando un tamaño de 13 x 20 cm junto con aumento del dolor en miembro inferior derecho. Comenzó la segunda línea metastásica con FOLFIRI-bevacizumab (arrastrado a la segunda línea según ensayo fase III TML [13]) 8 ciclos con estabilización como mejor respuesta.
+En mayo de 2017, nueva progresión clínica con aumento del dolor e impotencia funcional del miembro inferior derecho, constatando en la analítica un CEA de 99 ng/dl y, en TC, una gran masa de partes blandas con epicentro en psoas iliaco derecho que condiciona una ureterohidronefrosis grave, infiltrando pared abdominal lateral y con erosión del hueso pélvico subyacente.
+
+Evolución
+Un perfil molecular del tumor reveló inestabilidad de microsatélites con las proteínas reparadoras de MSH2/MSH6 en el ADN tumoral, y en la línea germinal ADN (síndrome de Lynch). En retrospectiva, el tumor mostró un cuadro histológico característico de un alto número de linfocitos infiltrantes de tumor.
+Por lo tanto, se inicia terapia con nivolumab en junio de 2017 (3 mg/kg cada dos semanas) en una paciente con un ECOG 3 14 meses después de su diagnóstico de recaída; recibiendo actualmente 20 ciclos de tratamiento. A los 6 ciclos de nivolumab, la paciente había mejorado su ECOG, pudiendo caminar sin ayuda, y el dolor se había controlado sin necesidad de rescates con mórficos. El tratamiento estaba siendo bien tolerado y no presentaba toxicidades.
+La mejoría clínica venía acompañada de una normalización del CEA y una TC realizada en septiembre en la que se había logrado una respuesta parcial con una reducción de la masa del psoas a 10 x 12 cm, y que en la TC de enero se mantenía esa respuesta con una reducción más impresionante del diámetro de la masa hasta alcanzar los 5 cm. La ureterohidronefrosis y la afectación pélvica ósea han desaparecido.

@@ -1,0 +1,42 @@
+Anamnesis
+Presentamos el caso de una paciente que durante los 10 años desde el diagnóstico de un tumor neuroendocrino de páncreas estadio IV irresecable, fue intervenida del tumor primario y ha recibido los tres fármacos que han mostrado actividad en ensayos clínicos fase III recientes con la secuencia lanreótido, sunitinib y everolimus, que ha permitido una supervivencia libre a la progresión (SLP) de 5 y 3 años con los 2 primeros, asociado con un estado general preservado y un efecto antiproliferativo basado fundamentalmente en la estabilización de las metástasis hepáticas.
+
+Exploración física
+Examen físico (26/02/2009)
+» Estado general: Karnofsky 90 %. Buen estado ponderal.
+» Cabeza y cuello: boca en buen estado. Carótidas rítmicas.
+» Regiones ganglionares: no se palpan adenopatías.
+» Corazón: Rs Cs Rs: pulmón: murmullo vesicular conservado sin ruidos sobreañadidos.
+» Abdomen: cicatriz quirúrgica en buen estado. No se palpan masas. Peristalsis conservada.
+Extremidades: fuerza y sensibilidad preservada sin varices ni flebitis ni edemas.
+» Examen neurológico: no hay focalidad neurológica.
+» Constantes: tensión arterial: 126/81 mm Hg, peso: 58 kg, talla 168, superficie corporal 1,6. Índice de masa corporal: 20,5 kg/m2.
+
+Pruebas complementarias
+» Escáner toracoabdominopélvico, estudio monofásico (02/12/2008): masa hipervascular en cola de páncreas de 7 cm en íntimo contacto con vena esplénica sugestiva de TNE sin evidencia de extensión de la enfermedad a otros niveles.
+» Escáner toracoabdominopélvica, estudio trifásico (19/03/2009): en el hígado se objetivan múltiples lesiones hepáticas sugestivas de metástasis, algunas hiperdensas y otras hipodensas que se distribuyen fundamentalmente por el lóbulo derecho con aspecto infiltrado en mayor medida en el segmento V, VI y VII. Ocupación hepática tumor: en torno al 20 % diseminada y bilobar.
+» Gammagrafía corporal total y SPECT/TC abdominal con 222 MBq 111In-octeotride (Octreoscan®, 17/12/2008): se realizaron imágenes planares en proyecciones anterior y posterior a las 5 h y 24 h de la administración del radiotrazador centradas en cuello-tórax, abdomen y pelvis, así como SPECT abdominal en la exploración de 24 h, con los siguientes resultados: hipercaptación patológica intensa a la altura de la cola de páncreas sugestiva de TNE primario. No hay otros acúmulos patológicos localizados de radiotrazador.
+» Octreoscan® (20/04/2009): múltiples lesiones hepáticas captantes que ocupan prácticamente todos los segmentos hepáticos. La lesión captante hepática de mayor tamaño se encuentra en el segmento VII. Asimismo, se observan múltiples lesiones hepáticas hipodensas.
+» Bioquímica, hemograma, coagulación (19/03/2009): dentro de rangos normales.
+» Cromogranina (02/12/2008): 176, 6 ng/ml [1, 5-100].
+» Cromogranina (19.03.2009): 143, 6 ng/ml [1, 5-100].
+» Ácido 5-hidroxiindolacético (02/12/2008): 10,3 mg/24 h [0,7-8,2].
+» Ácido 5-hidroxiindolacético (19/03/2009): 3.9 mg/24 h [0,7-8,2].
+
+Diagnóstico
+TNE de páncreas grado 2 estadio IV por múltiples metástasis hepáticas irresecables.
+El estudio patológico de la masa tumoral de páncreas y de la biopsia hepática son concordantes y muestran los siguientes hallazgos:
+» Ki-67 varía desde zonas próximas a 2 % a otras que llegan a alcanzar el 10 % sin predominancia de ninguna de ellas, tanto en la muestra del tumor primario como del hígado.
+» El número de mitosis es de 2 x 50 CGA.
+» » La inmunohistoquímica es intensamente positiva para cromogranina y sinaptofisina y negativa para gastrina, insulina, glucagón y polipéptido pancreático.
+
+Tratamiento
+La paciente, mujer de 49 años con buen estado general y sin comorbilidad presentaba un tumor neuroendocrino de páncreas con el primario resecado y con la presencia de múltiples metástasis hepáticas. Como datos sobre el tumor importantes en la toma de decisión sobre el abordaje terapéutico: Ki 67 2-10 %, Octreoscan® con gran avidez por el radiotrazador (puntuación Krenning 3), un tiempo a la progresión por Octreoscan® de unos 4 meses, ocupación de un 20 % del hígado, sin metástasis en otras localizaciones, cromogranina mínimamente elevada y resto de analítica normal.
+Tras descartase la cirugía hepática, la paciente consultó en otro centro donde se le propuso trasplante hepático. Finalmente, decidió seguir el tratamiento sugerido en su centro de referencia con análogo de somatostatina, lanreótido 120 mg cada 4 semanas subcutáneo comenzando el día 16/07/2009.
+
+Evolución
+La paciente presentó una buena tolerancia y un beneficio mantenido tanto en imagen (estudios repetidos cada 6 meses) como en marcador cromogranina. La mejor respuesta por criterios RECIST y por criterios CHOI fue una estabilización de la enfermedad con una reducción inferior al 10 % de alguna de las metástasis en el estudio al año y los dos años. En todo el tiempo que estuvo a tratamiento con lanreótido, mantuvo una buena calidad de vida y una actividad profesional y personal similar a la previa al diagnóstico del cáncer.
+En el escáner de control del 24/07/2014, a los 5 años de inicio del tratamiento, se confirma progresión, con un incremento del diámetro medio de las metástasis hepáticas, que varía entre el 10 y el 20 % si se compara con 2 estudios previos, 6 y 12 meses, pero que es mayor, en torno al 35 % si se compara con el TC basal de inicio de tratamiento en junio de 2009: las múltiples metástasis hepáticas conocidas muestran un discreto aumento de diámetro medio. La lesión dominante en el segmento V ha crecido de 11 mm a 15 mm. Una lesión subcapsular entre los segmentos V y VI ha crecido de 20 mm a 22 mm.
+Otra lesión hipervascular del segmento VIII ha crecido de 16 mm a 23 mm. En general, la práctica totalidad de las lesiones han crecido discretamente, con un incremento de diámetro que oscila entre el 10 y el 20 %. En alguna metástasis aislada el incremento llega al 25 % respecto el estudio de hace 1 año y al 35 % respecto al basal. Las metástasis continúan presentando realce en fase arterial precoz, mientras que la fase portal tiene tendencia a la homogeneización respecto al resto del parénquima.
+La paciente recibió una segunda línea de tratamiento con sunitinib 37,5 mg/día entre septiembre de 2014 y octubre de 2017 logrando una estabilización de la enfermedad como mejor respuesta. Presentó diarrea y neutropenia grado 2 que mejoraron a partir del segundo año.
+En la actualidad, está a tratamiento con everolimus 10 mg/día, con buena tolerancia.

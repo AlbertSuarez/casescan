@@ -1,0 +1,21 @@
+Anamnesis
+Varón de 61 años con antecedentes personales de tabaquismo, diabetes mellitus tipo 2, enfermedad renal crónica secundaria a nefropatía diabética y melanoma cutáneo intervenido (estadío Ib) en 1993, sin evidencia de recidiva en seguimiento posterior. Consultó en el servicio de Urgencias por cuadro catarral y astenia de 1 mes de evolución sin otra sintomatología añadida.
+
+Exploración física
+El paciente presentaba un buen estado general y las constantes vitales se encontraban en rango de normalidad. En la exploración física destacaba una cicatriz quirúrgica de melanoma extirpado en región dorsal, así como disminución del murmullo vesicular en base izquierda a la auscultación pulmonar. No se objetivaron lesiones dérmicas sospechosas de malignidad ni otros hallazgos de interés en la exploración.
+
+Pruebas complementarias
+En la radiografía de tórax se produjo hallazgo casual de una masa retrocardíaca de bordes bien definidos. El TAC torácico confirmó la presencia de una lesión pulmonar de 7cm a nivel del lóbulo inferior izquierdo y un conglomerado adenopático subcarinal de 3.5x2.5cm.
+El hemograma mostró una anemia leve, con hemoglobina de 11.5, y una leucocitosis de 17100 con desviación izquierda. La coagulación no presentaba alteraciones, y en la bioquímica destacaba una creatinina de 1.49 y una PCR de 50.9, sin otros hallazgos reseñables. Se solicitaron marcadores tumorales, encontrándose todos ellos en rango de normalidad.
+Se procedió a realización de broncoscopia con toma de biopsia de la masa pulmonar, sin poder alcanzar una tipificación histológica debido a la gran indiferenciación y extensa necrosis tumoral de la lesión. Se llevó a cabo biopsia guiada por TAC, que aportó un diagnóstico de tumor maligno muy indiferenciado, sin poder precisar el origen primario.
+
+Diagnóstico
+Ante la escasa información aportada por las sucesivas biopsias de la masa, se realizó una biopsia ganglionar mediante EBUS del conglomerado adenopático descrito en el TAC. En esta ocasión, la anatomía patológica arrojó un resultado compatible con INFILTRACIÓN POR MELANOMA, con fuerte expresión positiva para MELAN-A y HMB-45 y reordenamiento del gen BRAF V600E.
+El estudio de extensión mediante PET-TAC mostró captación a nivel de la masa pulmonar y el conglomerado adenopático subcarinal, además de objetivar zonas hipercaptantes susceptibles de origen metastásico a nivel de glándula suprarrenal izquierda e íleon.
+
+Tratamiento
+Se inició tratamiento con inhibidores de BRAF y MEK (Dabrafenib y Trametinib).
+
+Evolución
+Un mes después del diagnóstico el paciente ingresó por cuadro de dolor y distensión abdominal; se diagnosticó de obstrucción intestinal y fue intervenido de urgencia. La anatomía patológica de la pieza quirúrgica resultó compatible con metástasis de melanoma, con mutación del gen BRAF y con pérdida de marcadores melanocíticos.
+En la actualidad el paciente continúa con tratamiento tras un intervalo libre de progresión de 9 meses, habiéndose objetivado una respuesta parcial mayor morfológica como máxima respuesta.

@@ -1,0 +1,40 @@
+Anamnesis
+Inicialmente, la paciente tolera adecuadamente el tratamiento. A las tres semanas, comienza con malestar general, dolor en zona perianal, náuseas y disminución de apetito, por lo que se inicia tratamiento sintomático y suplementos alimenticios. A pesar de estas medidas, la paciente presenta pérdida de peso progresiva, además de vómitos, intolerancia oral y abundantes deposiciones líquidas amarillentas, por lo que es hospitalizada con nutrición parenteral, aporte hidroelectrolítico y suspensión de la capecitabina (aunque sí que completa el tratamiento con RT hasta 50,4 Gy). La paciente evoluciona favorablemente, permaneciendo un total de 15 días, con mejoría de la enteritis, y reintroduciéndose la dieta oral con buena tolerancia.
+Desafortunadamente, la paciente reingresa a los dos días, refiriendo intensa anorexia, con apenas ingesta de comida y líquidos, astenia, sensación distérmica, tos con alguna flema sin claro dolor o disnea.
+
+Exploración física
+Mal estado general. Orientada en las tres esferas. Tendencia al sueño. Tensión arterial 90/58 mm Hg. Frecuencia cardiaca 117 lpm. Frecuencia respiratoria: 15 rpm. SatO2: 89 % en aire ambiente. Afebril.
+Auscultación: taquicárdica, con hipoventilación en base derecha, con roncus dispersos. Abdomen no doloroso, con ruidos de progresión. Presenta edemas en extremidades inferiores hasta rodillas.
+Descamación de piel en palmas y plantas.
+
+Pruebas complementarias
+Inicialmente se realizan:
+» Hemograma y bioquímica: hemoglobina (Hb) 10,4 g/dl, leucocitos 6.400 cel/mm3, linfocitos 200 cel/mm3, creatinina 0,48, sodio 128 mmol/l, potasio 2,9 mmol/l, cloro 91 mmol/l, calcio 6 mg/dl, albúmina 1,5 g/dl (VN 3,5-5,2), proteínas 4 g/dl (VN 6,4-8,3), calcio corregido por proteínas 7,5 mg/dl, procalcitonina (PCT) 6 ng/ml, proteína C reactiva (PCR) > 320 mg/l, lactato 39,3 mg/dl.
+» Radiografía de tórax: se objetiva condensación en base derecha hasta campo medio.
+Se instaura tratamiento antibiótico con levofloxacino y aztreonam, fluidoterapia, y se inicia nutrición por sonda nasogástrica. A lo largo de los días, la paciente se encuentra con intensa astenia, malestar general, persisten las deposiciones diarreicas (grado IV) y presenta progresión de los edemas hasta miembros superiores. Se añade linezolid al tratamiento y se completa estudio con tomografía computarizada (TC) de tórax:
+» TC de tórax: hallazgos compatibles con neumonía necrotizante en lóbulo inferior derecho, derrame bilateral de predominio derecho, con varias atelectasias pulmonares bilaterales.
+Con esto, se añade clindamicina al tratamiento, y se realiza toracocentesis diagnóstica, que se envía a microbiología:
+» Líquido pleural: cultivo negativo. Tinción Gram: moderado número de leucocitos polimorfonucleares.
+La paciente sigue presentando mal estado general, con astenia, episodios de disnea y angustia marcada. Presenta deposiciones abundantes diarreicas, que empeoran la situación de fragilidad, eritema y descamación palmo plantar (grado IV), queilitis, estomatitis (grado IV), y los edemas evolucionan a anasarca. Se realizan otras pruebas complementarias:
+» Toxina de Clostridium difficile y detección de ácidos nucleicos de virus en heces: negativos.
+» Radiografía de tórax: empeoramiento de la neumonía, con mayor derrame pleural bilateral.
+» Hemograma y bioquímica: Hb 10,1 g/dl, leucocitos 8.000 cel/mm3 , albúmina 1,4 g/dl, proteínas 3,9 g/dl, PCR 124 mg/l.
+Pasadas ya dos semanas, la paciente verbaliza deseos de descansar, no quiere más sufrimiento ni más tratamiento activo. Se inicia perfusión de morfina para control sintomático de disnea y dolor costal secundario a neumonía, con lo que la paciente queda tranquila, sin dolor. Se mantienen levofloxacino y aztreonam.
+Inesperadamente, presenta mejoría clínica a los dos días; algo más animada, con buen descanso nocturno, y sin deposición en las últimas 24 horas. Persiste anasarca, y continúa con disnea ocasional, con glositis, mucositis en paladar duro, y queilitis. En esta situación, se replantea el plan, y se reinicia nutrición parenteral.
+Se sospecha déficit de dihidropirimidina deshidrogenasa (DPD) y se solicita su estudio genético. Se repite la TC de tórax:
+» TC de tórax: aumento del derrame pleural, con mayor componente atelectásico en lóbulos medios y superior derechos, con persistencia de los hallazgos compatibles con neumonía necrotizante.
+Se coloca un tubo de drenaje torácico, con salida de 470 ml de líquido pleural de aspecto hemático, características bioquímicas de trasudado, y se procede a su retirada a los tres días por cese de salida.
+Con los días, la paciente presenta progresiva mejoría clínica, disminución de la disnea, y los edemas en extremidades. Nueva analítica de control y resultados genéticos:
+» Hemograma y bioquímica: Hb 8 g/dl, leucocitos 12.300 cel/mm3, linfocitos 1.100 cel/mm3, Proteínas 5,1 g/dl, PCR 97,8 mg/l.
+» Determinación de polimorfismos DPD (dihidropirimidina deshidrogenasa): existe una mutación por sustitución de un nucleótido guanina por una adenina en el primer nucleótido del intrón 14 del gen DPD, lo que se asocia a una mayor toxicidad por las fluoropirimidinas.
+
+Diagnóstico
+Se trata por tanto de una paciente con varias patologías simultáneas, e interrelacionadas entre sí. Dado su adenocarcinoma de recto medio estenosante T3c cN1 cM0, se inicia tratamiento neoadyuvante con RT y capecitabina. Presenta toxicidad grave a capecitabina secundaria a una mutación en el gen dihidropirimidina deshidrogenasa. En este contexto, desarrolla una desnutrición severa, que agrava su complicación infecciosa: neumonía necrotizante nosocomial.
+
+Tratamiento
+En el segundo ingreso, la desnutrición se trata inicialmente con sonda nasogástrica pero después es sustituida por nutrición parenteral, con mejoría. A su vez, se administra fluidoterapia para la corrección de las alteraciones electrolíticas y antibioterapia para la neumonía, recibiendo levofloxacino y aztreonam (un total de 28 días), linezolid (7 días) y clindamicina (6 días). También se coloca tubo de drenaje pleural con salida de 470 ml de líquido pleural.
+
+Evolución
+A pesar de la fragilidad en la que se encontraba la paciente, y habiéndose desestimado más maniobras, el curso clínico da un giro inesperado hacia la recuperación, lenta y progresiva.
+Tras cuatro semanas de ingreso, los parámetros nutricionales mejoran, hasta llegar a albúmina de 3,2 g/dl y proteínas 6,6 g/dl, los edemas, las lesiones orofaríngeas y las diarreas se reducen, la auscultación pulmonar mejora, y va desapareciendo la sensación de disnea. Se inicia dieta oral, con buena tolerancia a la misma, y se retira la nutrición parenteral a la quinta semana de ingreso.
+Ante esta mejoría, la paciente es trasladada a un hospital de larga estancia para convalecencia y rehabilitación, donde permanece tres semanas, con buena recuperación funcional, continuando posteriormente con su intervención quirúrgica.

@@ -1,0 +1,61 @@
+Anamnesis
+Varón de 59 años, casado, con dos hijos, natural de Bolivia, dedicado a labores comerciales en España desde hace mas de 10 años.
+
+Motivo de consulta
+Debilidad en el miembro superior derecho.
+Antecedentes personales
+» No menciona alergia a medicamentos.
+» Hipertensión arterial crónica, dislipidemia, hiperuricemia.
+» Hábitos tóxicos: exfumador de 9 paquetes/año.
+» Insuficiencia renal crónica atribuida a uso de AINE y contrastes iodados, además de nefropatía angioesclerosa con aclaramiento de creatinina en torno a 30 ml/min.
+» Cardiopatía isquémica crónica.
+» Angina inestable en septiembre de 2009 con enfermedad de tronco, DA y circunfleja, tratada con stent recubiertos en tronco, DA y circunfleja.
+» Fibrilación auricular paroxística diagnosticada en 2011, en tratamiento con anticoagulación oral.
+» Estenosis carotídea derecha con estenosis del 60% por placa ulcerada, fue tratada con angioplastia y stent carotídeo en 2010.
+» Aneurisma arterioesclerótico de aorta infrarrenal de 36 mm de diámetro transverso mayor en seguimiento por las consultas de Radiología Intervencionista.
+» Situación basal: independiente para las actividades de la vida diaria. Karnofsky: 80%. Disnea de grandes esfuerzos. Ocupación: Empresario.
+» Medicación crónica: furosemida 40 mg (2-1-0), bisoprolol 5 mg (1-0-0), ramipril 5 mg (1-0-0), nifedipino 30 mg (1-0-1), doxazosina 4 mg (0-0-1), atorvastatina 40 mg (0-0-2), omeprazol 20 mg (1-0-0), ácido valproico 500 mg (1-1-1), alopurinol 100 mg (1-0-0), acenocumarol 1 mg al dia.
+
+Enfermedad actual
+Traído al Servicio de Urgencias por cuadro clínico que inicia al despertar; comenta cuadro clínico de debilidad en el miembro superior derecho con dificultad para levantar o agarrar cualquier tipo de objeto, que se asocia a visión borrosa del ojo derecho, con leve alteración del habla. No refiere fiebre, dolor torácico, palpitaciones u otra sintomatología asociada. El día anterior habían reducido la dosis de acenocumarol a 1 mg (previamente tomaba 4 mg) por sobredosificación.
+
+Exploración física
+» Constantes vitales: tensión arterial 140/93 mmHg; frecuencia cardíaca 77 lpm; temperatura 36,9 ºC.
+» Auscultación cardíaca: ruidos cardíacos rítmicos sin soplos.
+» Auscultación pulmonar: normal.
+» Abdomen: blando, depresible, no masas ni megalias.
+» Extremidades inferiores: edemas hasta la rodilla que dejan fóvea, pulsos +.
+» Extremidades superiores: edema en el miembro superior derecho.
+» Exploración neurológica: Consciente y orientado en las tres esferas. Lenguaje fluente, nomina, comprende, repite, obedece órdenes axiales y apendiculares. Cuadrantanopsia superior homónima derecha, en campimetría por confrontación. No anosognosgia. No negligencias. Pupilas isocóricas normoreactivas a la luz. Movimientos oculares sin restricciones, V motor y sensitivo normal, VII normal, pares bajos normales. Motor: 4-/5 en el brazo derecho de predominio distal y 4+/5 en miembro inferior derecho, y 5/5 en extremidades izquierdas. ROT +++/++++, clonus aquíleo bilateral agotable. RCP indiferente derecho, flexor izquierdo. Leve hipoestesia tactoalgésica braquio-crural derecha, hipopalestesia moderada en los miembros inferiores. No dismetrías.
+
+Pruebas complementarias
+» Radiografía de tórax: masa en el LID.
+» TC craneal (18/6/2014): hematoma intraparenquimatoso de morfología nodular en el lóbulo frontal izquierdo, de 16 mm de tamaño. Presenta pequeño edema perilesional. No se observan efectos de masa ni desplazamiento de la línea media. Sistema ventricular normal. Resto del estudio sin hallazgos significativos. Conclusión: hematoma intraparenquimatoso frontal izquierdo.
+» TC torácica (20/6/2014): neoformación pulmonar inferior derecha con múltiples adenopatías mediastínicas e implante tumoral retroperitoneal derecho (T2bN2M1b). Pequeño derrame pleural.
+» RM cerebral (23/6/2014): hematoma prerrolándico izquierdo con edema perilesional y sin efecto significativo de masa. No se puede descartar completamente en la actualidad que la lesión corresponda a una metástasis con hemorragia secundaria.
+» Orina de 24 horas (23/6/2014): proteínas 24 horas: 17,35 g.
+» Ecografía renal (27/6/2014): riñones de tamaño y ecoestructura normal, sin dilatación de sus sistemas excretores. Grosor corticomedular normal. No evidencia de masas ni imágenes de litiasis. Las arterias y venas renales conservan flujo normal, lo que permite descartar trombosis. Derrame pleural derecho.
+» Estudio de trombofilia (25/6/2014): fibrinógeno de Claus 422 mg/dl, antitrombina III 44%, proteína C 118%, proteína S libre 59,6%, anticoagulante lúpico negativo.
+» PET-TC (30/6/2014): masa pulmonar en el LID, adenopatías-conglomerados adenopáticos mediastínicos, e implante peritoneal infrarrenal posterior derecho, de características metabólicas malignas. Derrame pleural bilateral de predominio derecho.
+» PAAF de la masa pulmonar (1/7/2014): carcinoma de células grandes.
+» RM cerebral (15/7/2014): se evidencian múltiples lesiones en el hemisferio cerebral izquierdo con moderado edema perilesional. No tiene efecto de masa significativo. Estos hallazgos son compatibles con metástasis.
+
+Diagnóstico
+» Carcinoma de pulmón de células grandes estadio IV (T2B N3 M1B)
+» Síndrome nefrótico de origen paraneoplásico
+» Déficit de AT III y proteína S secundario.
+
+Tratamiento
+Primera línea de tratamiento (10/7/2014) según esquema taxol + gemcitabina 100/1000, DT 192/1920 mg cada 15 días, para un peso de 80 kg, talla 1,70 m y una SC 1,92 m2. Recibió 10 ciclos con criterios clínicos de enfermedad estable.
+Segunda linea de tratamiento (19/11/2014) con vinorelbina a dosis de 30 mg (m2). DT 57,6 mg. Recibió dos ciclos sin beneficio clínico.
+
+Evolución
+Inicialmente ingresa a cargo de Neurología, ante los hallazgos en las pruebas de imagen y el diagnóstico histológico de la lesión pulmonar nos interconsultan para completar estudios de estadificación e iniciar tratamiento citostático.
+
+Durante su estancia se evidencia situación de anasarca progresiva con ganancia de peso (8 kg), elevación de cifras tensionales y deterioro de la función renal (creatinina 2,8 mg/dl) con proteinuria (17,35 g/24 h), hipercolesterolemia e hipertrigliceridemia. Se interconsulta a Nefrología, quienes sugieren el diagnóstico de síndrome nefrótico probablemente paraneoplásico e inician tratamiento sintomático con restricción hídrica, diuréticos de asa y albúmina, logrando mejoría clínica a los pocos días, con disminución del peso y mejoría de las cifras tensionales. Como estudios de extensión del síndrome nefrótico se solicita estudio de trombofilia, que objetiva déficit de antitrombina III y proteína S, sin evidencia de trombosis en estudios de imagen (ecografía renal, TC toracoabdominal).
+
+Dos semanas después del ingreso comienza con déficit neurológico progresivo caracterizado por cefalea, deterioro del nivel de conciencia, hemiplejia derecha, desviación de la mirada hacia la derecha y nistagmo horizontal. Se realiza una TC cerebral de urgencia, que objetiva nuevas lesiones occipitales bilaterales. Es valorado por Neurología, quienes hacen el diagnóstico de status parcial complejo e inician fenitoína, logrando buena evolución clínica a las 24 horas, con recuperación motora completa de la fuerza en el miembro inferior derecho y parcial del miembro superior ipsilateral; como secuela comenta un defecto campimétrico leve. Tras la estabilización clínica se procede a administrar el día 10/7/2014 la primera línea de quimioterapia según esquema taxol 100 mg (m2) + gemcitabina 1.000 mg (m2), dosis total 192/1920 mg cada 15 días, para un peso de 80 kg, talla 1,70 m2 y una SC 1,92 m2 con adecuada tolerancia, sin toxicidades destacables. Se decide alta a su domicilio con profilaxis anticonvulsivante con fenitoína.
+
+Tres días después reingresa por movimientos tónico-clónicos en el miembro superior derecho, con impresión diagnóstica de convulsión focal motora en el miembro superior derecho con nivel infraterapéutico de fenitoína. Se realiza una RM cerebral sin contraste, que objetiva múltiples lesiones en el hemisferio cerebral izquierdo con moderado edema perilesional compatibles con metástasis. Se realiza radioterapia holocraneal (dosis total 20 Gy) en 10 fracciones, con adecuada tolerancia y sin nuevos episodios convulsivos. Se decide el alta a su domicilio con ácido valproico.
+
+Continúa sus revisiones en la consulta externa, recibiendo 10 dosis del esquema taxol/gemcitabina, con criterios radiológicos de enfermedad estable hasta el 19/11/2014 , momento en el que se evidencia progresión ganglionar, ósea y peritoneal en la PET-TC. Se inicia una segunda línea de tratamiento paliativo con vinorelbina a dosis de 25 mg (m2), recibiendo dos dosis sin ningún beneficio clínico. Se deriva al equipo de soporte y cuidado paliativo domiciliario. El paciente fallece el 20 de diciembre de 2014.

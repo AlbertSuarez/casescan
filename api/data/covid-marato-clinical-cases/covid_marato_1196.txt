@@ -1,0 +1,31 @@
+Anamnesis
+Mujer de 66 años, fumadora hace hace dos meses con un consumo acumulado de 50 paquetes-año.
+Sin antecedentes familiares de enfermedad neoplásica. Hipertensa con insuficiencia renal crónica, dislipémica y con arteriopatía de miembros inferiores, por lo que sigue tratamiento con enalapril, atorvastatina, trifusal y pentoxifilina. Fue intervenida de amigdalectomía en la infancia.
+Acude a Urgencias en septiembre de 2015 por traumatismo coccígeo tras una caída accidental en domicilio. Refiere un cuadro de alteración del equilibrio y debilidad de un mes de evolución, presentando caídas frecuentes, junto con pérdida de memoria y bradipsiquia. Todo ello en el contexto de un cuadro constitucional con astenia importante, anorexia con pérdida de unos 2 kg de peso y vómitos frecuentes.
+
+Exploración física
+A la exploración, la paciente se encontraba hemodinámicamente estable, destacando la presencia de edema facial y de miembros superiores y una adenopatía supraclavicular izquierda palpable de unos 2cm de diámetro. Neurológicamente, presentaba un Romberg inestable con alteración del equilibrio y bradipsiquia.
+
+Pruebas complementarias
+-Analítica de sangre: sodio 111 mEq/L (135-145), cloro 77 mEq/L (85-110), Osmolaridad 228 mOsm/kg.
+-Analítica de orina: sodio 73 mEq/L, osmolaridad 294 mOsm/Kg.
+-Tomografía axial computarizada (TC) craneal: Dilatación de ventrículos en relación con hidrocefalia crónica del adulto.
+-Radiografía de tórax: Masa paratraqueal baja derecha.
+-TC toracoabdominal: masa pulmonar en el segmento posterior del lóbulo superior derecho (LSD), que amputa el bronquio de dicho lóbulo causando neumonitis obstructiva, junto con gran conglomerado adenopático mediastínico que comprime la vena cava superior. En el hígado, se observan varias lesiones nodulares altamente sospechosas de metástasis.
+-Fibrobroncoscopia: Signos de compresión extrínseca en pared lateral derecha del tercio inferior de la tráquea, bronquio principal derecho y bronquio principal lobar superior derecho.
+-Anatomía patológica: cáncer microcítico de pulmón. Positivo para CD56, sinaptofisina y cromogranina.
+Negativo para CD45.
+-Tomografía por emisión de positrones (PET): Captación patológica a nivel de la masa de LSD y conglomerado adenopático mediastínico, así como de las lesiones hepáticas.
+
+Diagnóstico
+Síndrome de secreción inadecuada de hormona antidiurética (SIADH) ectópico secundario a cáncer microcítico de pulmón con enfermedad extendidaal diagnóstico (metástasis hepáticas).
+
+Tratamiento
+Ante los hallazgos radiológicos y analíticos, ingresa en Medicina Interna para iniciar tratamiento de la hiponatremia mediante restricción hídrica de 500 mililitros al día, suplementos de sal oral y suero salino hipertónico al 3%. Así mismo, requiere la colocación de un stent en vena cava superior y posterior anticoagulación con bemiparina a dosis terapéuticas.
+Tras la confirmación diagnóstica según el informe de anatomía patológica, se deriva al servicio de Oncología Médica e inicia tratamiento quimioterápico con carboplatino-etopósido, completando 6 ciclos.
+Una vez finalizados, recibe radioterapia holocraneal profiláctica.
+
+Evolución
+Durante su ingreso en Medicina Interna se consigue una corrección parcial de la natremia hasta cifras en torno a los 125 mEq/L, mejorando la sintomatología neurológica que presentaba la paciente.
+En septiembre de 2015, inicia el primer ciclo de quimioterapia (QT), tras el cual presenta franca mejoría del estado general, así como de las cifras de sodio plasmático, que alcanzan 134 mEq/L. Como toxicidad, destaca astenia grado 3 (G3), que se resuelve en pocos días. Tras el segundo ciclo, se objetiva disminución del tamaño de la lesión en la radiografía torácica, precisando tras éste trasfusión de 2 concentrados de hematíes por anemia grado 2 sintomática 1. Posterior al cuarto ciclo, en diciembre de 2015, en TC de control se evidencia importante respuesta con disminución del tamaño de la masa pulmonar y desaparición de las metástasis hepáticas. Finaliza el 6º ciclo en enero de 2016, manteniendo la respuesta hasta marzo del mismo año, en el que se realiza radioterapia holocraneal profiláctica.
+Permanece asintomática hasta consulta de revisión en junio de 2016, cuando vuelve a presentar la misma clínica neurológica del debut, detectándose en la analítica sanguínea y urinaria hiponatremia de 120 mEq/L con criterios de nuevo SIADH, por lo que ingresa de nuevo en el servicio de Oncología Médica, realizándose nuevo TC toracoabdominal que evidencia recaída de la enfermedad, con aumento del tamaño de la masa pulmonar y afectación metastásica hepática y ósea, decidiendose comenzar nuevamente tratamiento quimioterápico con combinación de platino y etopósido.

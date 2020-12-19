@@ -1,0 +1,28 @@
+Anamnesis
+Varón de 50 años con hipertensión arterial en tratamiento con ramipril como único antecedente de interés. Consulta por notar un aumento de tamaño indoloro del testículo derecho. La ecografía revela que se trata de una tumoración sólida, polilobulada, ecogénica e hipervascularizada de 70 x 60 mm con calcificaciones en su interior. Además, se observan imágenes nodulares inguinales bilaterales compatibles con adenomegalias. En la analítica presenta la gonadotropina coriónica humana (BHCG) en 26,9 y la alfa-fetoproteina dentro de la normalidad.
+
+El paciente se somete a orquiectomía derecha, revelando el estudio histológico de la pieza que se trata de un seminoma clásico con extensas áreas de necrosis con infiltración del cordón espermático y de la túnica albugínea sin sobrepasar la vaginal e invasión vascular.
+
+Exploración física
+A la llegada a la consulta de Oncología, el paciente presentaba buen estado general y estaba asintomático, sin adenopatías palpables ni ningún otro signo patológico.
+
+Pruebas complementarias
+» En el estudio de extensión por TC se observan lesiones nodulares sólidas de centro hipodenso que se localizan en los espacios prevascular, paratraqueal derecho y crural del mediastino. Además, presenta un conglomerado ganglionar retroperitoneal de 6 x 5 cm con extensión hacia el espacio pararrenal anterior derecho.
+» La analítica tras la cirugía revelaba un descenso del valor de la B-HCG hasta 11, persistiendo la AFP normal.
+
+Diagnóstico
+Seminoma clásico estadio IV de buen pronóstico.
+
+Tratamiento
+Se decide tratamiento con esquema BEP (bleomicina, etopósido y cisplatino), cuatro ciclos.
+
+Evolución
+El paciente presenta buena tolerancia al tratamiento, presentado conjuntivitis, astenia y neurotoxicidad grado 2 como efectos adversos al mismo.
+
+En la TC de reevaluación persisten adenomegalias paraaórtica de 15 mm y un conglomerado adenopático de 3 cm en el retroperitoneo, por lo que se decide solicitar una PET para evaluar si hacer seguimiento del paciente o comenzar una segunda línea de tratamiento. En este se observa actividad hipermetabólica en adenopatías paratraqueal derecha, peribronquial izquierda, hilio pulmonar derecho y en el conglomerado retroperitoneal. Ante estos hallazgos, se instaura una segunda línea terapéutica con esquema TIP (paclitaxel, ifosfamida, cisplatino y mesna), del que se administran tres ciclos, con buena tolerancia por parte del paciente.
+
+En la nueva PET realizada destaca el hecho de la ausencia de captación a nivel retroperitoneal pero con progresión metabólica de los focos supradiafragmáticos. 
+
+Ante la discrepancia de respuesta entre las diferentes localizaciones, se decide tomar una biopsia de una de las adenopatías mediastínicas.
+
+Para sorpresa de todos, el estudio anatomopatológico reveló que no se trataba de metástasis del seminoma refractarias al tratamiento, sino de un segundo primario, en este caso un carcinoma epidermoide de pulmón. Actualmente, el paciente se encuentra en tratamiento activo con carboplatino más gemcitacibina.

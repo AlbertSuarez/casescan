@@ -1,0 +1,30 @@
+ANAMNESIS
+Varón de 39 años hipertenso, en tratamiento farmacológico con buen control y diabetes mellitus de 8 años de evolución en tratamiento con antidiabéticos orales, sin complicaciones micro ni macrovasculares. Fumador de 15 paquetes/año.
+
+Diagnosticado de sarcoidosis pulmonar y cutánea 5 años antes, en tratamiento con metotrexato de forma mantenida (10 mg/semanales), fundamentalmente por las alteraciones cutáneas, sin tratamiento neumológico específico. Sin otros antecedentes médicos ni familiares de interés.
+
+El paciente consultó por la aparición de una tumoración en la hemicara izquierda de unos 2 o 3 meses de evolución. Asociaba anestesia del territorio del nervio dentario inferior izquierdo. No síndrome constitucional ni ninguna otra clínica asociada.
+
+Exploración física
+El paciente presentaba buen estado general. Normohidratado. Normocoloreado. Eupneico en reposo.
+Performance status 1.
+
+Destacaba en la exploración una tumoración sólida en el trígono-ángulo mandibular que abombaba en fondo de vestíbulo y con anestesia en la exploración en el territorio del nervio dentario inferior izquierdo.
+Resto de exploración anodina.
+
+Pruebas complementarias
+» Analítica general y serologías (VHI, VHB, VHC): sin alteraciones relevantes, salvo ligera citólisis hepática secundaria al uso de metotrexato crónico.
+» TC facial: lesión ósea lítica expansiva en el ángulo mandibular izquierdo (diámetro mayor 4,5 cm), con comportamiento local muy agresivo. Expandía el hueso y erosionaba la cortical. Infiltraba el canal del nervio alveolar inferior y el alvéolo del diente 3,8. Como primera posibilidad sugería tumor odontogénico sarcomatoso.
+» RM mandibular: tumoración en la rama mandibular izquierda expansiva (4,7 x 2,3 x 3 cm) con destrucción ósea, con crecimiento extraóseo mínimo hacia el lado interno y mayor hacia el lado externo, comprimiendo y desplazando al músculo masetero izquierdo adyacente. No adenopatías de tamaño significativo.
+» Biopsia ósea mandibular: celularidad fusiforme y epiteolide que crece con patrón estoriforme y difuso. Citoplasma mal definido eosinófilo y núcleo redondeado con nucléolos prominentes. Existían osteoclastos entremezclados y se observan tres mitosis por 10 campos de gran aumento. La inmunohistoquímica mostraba focal e intensa expresión de osteocalcina y un índice de proliferación del 15%. Todo ello compatible con osteosarcoma.
+
+Diagnóstico
+Varón de 39 años con sarcoidosis pulmonar y cutánea en tratamiento con metotrexato de forma crónica, diagnosticado de osteosarcoma de mandíbula izquierda localmente avanzado.
+
+Tratamiento
+Tras el diagnóstico inicial se solicitó la criopreservación de semen y se completó el estudio con una PET-TC, donde se observaba el osteosarcoma de mandíbula izquierda (SUV máx 15,09 g/ml) y múltiples depósitos patológicos de actividad en el esqueleto, destacando ambas escápulas, columna vertebral, parrilla costal, ambos ilíacos y ambas metáfisis proximales femorales. Dado el antecedente de sarcoidosis, se planteó la duda sobre la naturaleza de las lesiones óseas, ya que podría tratarse de la sarcoidosis en forma de afectación ósea o de metástasis óseas, por lo que se decidió biopsiar dos de las lesiones. Finalmente, la anatomía patológica hablaba de granulomas sarcoideos y ausencia de células tumorales. Ante la confirmación histológica de sarcoidosis ósea difusa, descartando la afectación ósea metastásica, con un osteosarcoma mandibular localmente avanzado se inició QT neoadyuvante. El tratamiento consistióen tres ciclos de cisplatino (120 mg/m2 día 1 cada 21 días)-adriamicina (25 mg/m2 días 1 a 3 cada 21 día), evitando el metotrexato a altas dosis dadas la edad del paciente y la sarcoidosis de base, y profilaxis primaria de la fiebre neutropénica con G-CSF pegilado. Al completar la neoadyuvancia se observó, tanto a nivel clínico como radiológico, excelente respuesta parcial y se procedió a realizar una cirugía radical que consistió en hemimandibulectomía izquierda con desarticulación y extracción de adenopatías del nivel I y II. La anatomía patológica definitiva indicaba que se trataba de un osteosarcoma de morfología poco habitual, aunque osteoformador y maligno. Existían células atípicas de tamaño grande, citoplasma eosinófilo y microvacuolado con núcleo redondo, grande y nucléolo eosinofílico central. Se observaba una importante respuesta a la QT con fibrosis hialina extensa que englobaba vasos, nervios y necrosis.
+Las adenopatías estaban libres de infiltración. La inmunohistoquímica mostraba intensa expresión de CD 68, vimentina y focalmente adipofilina, osteonectina y CkAE1-AE3. Son negativas para: S-100, langerina, sinaptofisina, CD1a, EMA, CD34, desmina, HMB45, factor XIII, MYOD1 (nuclear) y miogenina.
+
+Evolución
+Dada la excelente respuesta patológica tras la administración de tres ciclos de QT neoadyuvante, se decidió completar el tratamiento con tres ciclos de QT adyuvante con cisplatino y adriamicina.
+Posteriormente, dado el diagnóstico de osteosarcoma mandibular localmente avanzado resecado y con buena respuesta a la QT neoadyuvante, se solicitó como tratamiento adyuvante de consolidación, de forma extraordinaria, la administración de muramil-tripéptido (2 mg/m2 durante 36 semanas). En el momento actual se encuentra pendiente de finalizar la adyuvancia.

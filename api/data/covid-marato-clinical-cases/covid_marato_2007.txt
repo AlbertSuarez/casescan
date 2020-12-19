@@ -1,0 +1,44 @@
+Anamnesis
+Se describe el caso de una mujer de 56 años sin antecedentes personales de interés que comienza con dolor abdominal inespecífico en abril de 2014.
+
+Como antecedentes personales destaca un hipotiroidismo en tratamiento con levotiroxina. No ha sido ni fumadora ni bebedora. Trabaja como administrativa. A nivel ginecológico tuvo la menarquia a los 14 años y la menopausia a los 50, con dos embarazos a término (FO 20222) y no dio lactancia. Presentaba antecedentes familiares oncológicos que se describen más adelante.
+
+La paciente comienza con distensión y dolor abdominal irradiado a fosa renal izquierda, por lo que acude a Urgencias. Tras estudio, mediante radiografia y analitica, normal es derivada a Ginecología para completar valoración.
+
+Por parte de Ginecología se realiza una ecografía donde se aprecia una masa que ocupa el Douglas de 12 x 9c m; y se decide completar estudio con analítica1, RM pélvica2 y TC de tórax-abdomen y pelvis, que fue negativa para enfermedad metastásica. Finalmente, se diagnostica de una tumoración de trompa de Falopio izquierda de 11 cm de diámetro mayor. Se presentó el caso en el Comité Multidisciplinar de tumores ginecológicos y se decidió intervención quirúrgica. 
+
+En junio de 2014 es intervenida mediante laparotomía exploradora con hallazgo de hemoperitoneo y tumoración dependiente de trompa de Falopio izquierda de unos 11 cm de diámetro mayor, con rotura de cápsula y que infiltra intestino adyacente. Se lleva a cabo histerectomía total con doble anexectomía, omentectomía, apendicectomía y linfadenectomía pélvica bilateral. El resultado anatomopatológico3 es compatible con carcinosarcoma primario de trompa de Falopio (componente epitelial tipo adenocarcinoma seroso de alto grado y componente estromal tipo sarcoma pleomorfo), estadio IIB.
+
+Exploración física
+PS 0. Destaca a la palpación abdominal sensación de empastamiento en hipogastrio. El resto de la exploración física está dentro de la normalidad.
+
+Pruebas complementarias
+» Analítica al diagnóstico: CA125 131,8. Resto de parámetros dentro de la normalidad.
+» RM con contraste IV de abdomen ypelvis (mayo de 2014): gran masa pélvica de 80 x 82 x 113 mm, tubular, multilobulada, que pudiera depender de la trompa izquierda, sólida, con áreas de sangrado, con marcada restricción de la difusión y captación progresiva tras la administración de gadolinio, en relación con probable adenocarcinoma de trompa. El ovario izquierdo se encuentra localizado en FII, con una lesión quística en su interior, con engrosamiento también del mismo, en probable relación con afectación anexial. Resto de estudio sin alteraciones significativas.
+» Anatomía patológica: muestra de 14 x 9 x 5 cm. Tumor mulleriano mixto maligno (carcinosarcoma) con componente epitelial tipo adenocarcinoma seroso de alto grado y compoennte estromal tipo sarcoma pleomorfo. Útero con metaplasia escamosa. Ovario izquierdo: tumor mulleriano mixto maligno. Ovario derecho: sin alteraciones. Epiplon sin evidencia de enfermedad. Ganglios 17/17: sin afectación neoplásica. Apéndice: sin alteraciones.
+» TC con contraste IV de tórax, abdomen y pelvis (enero de 2014): Aparición de "novo" de ureterohidronefrosis izquierda grado III por compresión del mismo en su porción distal a causa de lesión nodular sólida hipercaptante de contraste iodado IV de 35 mm compatible con recidiva local o adenomegalias iliacas internas. Asimismo se detecta lesión intraperitoneal en FII, mixta (sólido/líquido), captante parcialmente de contraste iodado IV, redondeada, bien definida, de 31 mm, sugerente de metástasis. Resto de la exploración sin alteraciones.
+» TC con contraste IV de tórax y abdomen comparado con previo (abril de 2015): persiste dilatación de vía excretora izquierda. En FII se aprecia una voluminosa masa de novo, de 9.5 x 8.1 cm, heterogénea, que comprime uréter. Nódulo adyacente de grasa mesenterica anterior de 5 cm, que en previo media 3,2 cm, y que presenta aspecto quístico principalmente con polo sólido periférico. Ambos casos sugieren recidiva tumoral. Resto de exploración sin hallazgos de interés.
+
+Diagnóstico
+Carcinosarcoma de trompa de Falopio estadio IIB (junio de 2014), recaída local y peritoneal (enero de 2015) y estudio de cáncer hereditario.
+
+Tratamiento
+Tras la cirugía, la paciente fue derivada al Servicio de Oncología Médica donde se le administró tratamiento adyuvante con quimioterapia según esquema carbopatino-paclitaxel x 6 ciclos, que finalizó en enero de 2015 con buena tolerancia, salvo alopecia grado 2 y neutropenia febril grado 3. Tras finalizar el tratamiento adyuvante, la paciente únicamente refiere dolor a nivel lumbar (EVA 2). Se solicita un nuevo estudio de extensión4 donde se objetivan hallazgos sugerentes de recidiva local y peritoneal con compresión de uréter izquierdo. Ante hallazgos se deriva a Urología y se coloca catéter doble J en uréter izquierdo. A nivel oncológico, se decide iniciar una segunda línea de quimioterapia con doxorrubicina-ifosfamida. En abril de 2015, tras tres ciclos de tratamiento y permaneciendo la paciente en todo momento asintomática desde el punto de vista ginecológico, se realiza una nueva reevaluación, objetivándose progresión de enfermedad a nivel peritoneal.
+
+Evolución
+Dada la quimiorresistencia presentada por el tumor y la imposibilidad de administrar radioterapia, se decide una nueva valoración quirúrgica de la paciente en la que participan los equipos médicos de Ginecología, Cirugía General y Urología. Se decide nueva intervención quirúrgica que está programada para junio de 2015.
+
+A su vez, ha sido derivada a consulta de Cáncer Hereditario por criterios de alto riesgo para síndrome de cáncer de mama y ovario hereditario. Se recogen los siguientes antecedentes familiares:
+
+Primer grado:
+» Hermana diagnosticada de cáncer gástrico con 48 años, fallecida con 50 años de edad.
+» Madre diagnosticada de cáncer de mama con 77 años, fallecida con 78 años de edad.
+» Padre diagnosticado de cáncer de próstata con 76 años, fallecido con 78 años de edad.
+» 2 hermanas de 58 y 48 años, viven sanas. 1 hermano de 62 años, vive sano.
+» 2 hijos varones de 33 y 28 años, viven sanos.
+
+Segundo grado:
+» Tío materno diagnosticado de cáncer colorrectal, fallecido con 70 años.
+» Tía materna diagnosticada de colangiocarcinoma, fallecida con 78 años.
+» Tía materna diagnosticada de carcinoma de ovario con 50 años, fallecida con 52 años.
+» Tío materno diagnosticado de carcinoma de vejiga con 72 años, vive. Ante los antecedentes y con el consentimiento de la paciente se realiza estudio genético, mediante secuenciación de genes BRCA1 y BRCA2, sin detectarse mutaciones patogénicas. En este momento está pendiente de estudio de MLPA de BRCA1 y 2. En caso de que no se detecten mutaciones patogénicas, habrá que considerar que se cumplen también criterios de Bethesda para el síndrome de Lynch.

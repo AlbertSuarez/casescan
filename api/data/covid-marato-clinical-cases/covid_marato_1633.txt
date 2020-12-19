@@ -1,0 +1,31 @@
+Anamnesis
+Los inhibidores de tirosin kinasa (TKI) han supuesto una revolución en el tratamiento de los pacientes con cáncer de pulmón no microcítico con mutación de EGFR. Sin embargo, su uso no está exento de riesgos, algunos potencialmente mortales.
+A continuación presentamos el caso de una mujer de 64 años con síndrome depresivo en tratamiento con venlafaxina, mirtazapina y diazepam como único antecedente personal de interés. No tiene hábitos tóxicos y es independiente para las actividades básicas de la vida diaria, vive con su marido y lleva una vida activa. Sin antecedentes familiares de interés.
+La paciente consulta en el servicio de Gastroenterología en Octubre de 2007 por dolor epigástrico inespecífico. Niega síntomas respiratorios, síndrome constitucional u otra sintomatología añadida.
+
+Exploración física
+En la exploración física sólo se objetiva un dolor leve a la palpación profunda en epigastrio, sin otros hallazgos significativos.
+
+Pruebas complementarias
+- Analítica sanguínea completa y gastroscopia (Octubre 2007): sin alteraciones.
+- Radiografía de tórax (Octubre 2007): nódulo pulmonar solitario en lóbulo inferior izquierdo.
+Con este hallazgo, es remitida a Neumología, donde se completa el estudio con:
+- TAC toracoabdominal (Noviembre 2007): nódulo de aspecto patológico en segmento 6 del lóbulo inferior izquierdo, de 2.8 x 3.2 cm, asociado a ganglios hiliares ipsilaterales, sin otras alteraciones relevantes.
+- Pruebas de función respiratoria (Noviembre 2007): patrón de obstrucción de pequeña vía.
+- Broncoscopia (Enero 2008): compresión extrínseca en el segmento 6 izquierdo.
+- Citología y biopsia transbronquial (Enero 2008): sin evidencia de infiltración tumoral.
+- Cultivo de micobacterias (Enero 2008): negativo.
+Se decide hacer seguimiento estrecho, realizando nuevo TAC torácico a principios de Abril 2008, donde persiste estable el nódulo en el lóbulo inferior izquierdo pero se observa leve progresión adenopática hiliar izquierda así como aparición de una adenopatía paraesofágica izquierda. El 18 de Abril de 2008 se realiza lobectomía inferior izquierda y linfadenectomía reglada por videotoracoscopia, sin complicaciones postoperatorias.
+La anatomía patológica se informa como adenocarcinoma pobremente diferenciado de origen pulmonar de 1.6 cm, con infiltración de pleura visceral e invasión vascular como factores de mal pronóstico.
+
+Diagnóstico
+Adenocarcinoma de origen pulmonar en lóbulo inferior izquierdo estadio UICC pT2aN0M0 (IB).
+
+Tratamiento
+Tras la intervención quirúrgica es remitida al Servicio de Oncología Médica. Al tratarse de un estadio localizado, se desestima la administración de tratamiento adyuvante ante la ausencia de beneficio para la paciente.
+
+Evolución
+En el primer TAC toracoabdominal de reevaluación (Septiembre 2008), se objetiva afectación ganglionar mediastínica y pleural (implantes pleurales y derrame pleural izquierdos). Se confirma la recaída mediante citología del líquido pleural, que es positiva para adenocarcinoma de origen pulmonar, hallándonos actualmente ante un estadio UICC cTxcN2pM1 (estadio IV). Se realiza pleurodesis y comienza tratamiento sistémico con cisplatino 75 mg/m2 intravenoso día 1 y gemcitabina 1250 mg/m2 intravenosa los días 1 y 8 cada 21 días, recibiendo 6 ciclos entre Septiembre 2008 y Enero 2009. Como efectos adversos presenta naúseas y vómitos grado 3, diarrea grado 2 y astenia grado 1 (por lo que se reduce la dosis al 80% a partir del 2º ciclo) y neutropenia febril grado 2 (que obliga a retrasar una semana la administración del 6º ciclo). Se consigue una respuesta casi completa salvo por implantes pleurales residuales, por lo que inicia seguimiento con revisiones. En TAC toracoabdominal de Junio 2009 se objetiva progresión tumoral a nivel mediastínico, pleural y en cadenas ganglionares infradiafragmáticas de abdomen superior (retrocrurales y ligamento gastrohepático). Se decide iniciar tratamiento dentro de ensayo clínico SCAT, recibiendo 3 ciclos de trabectedina 1.5 mg/m2 día 1 cada 21 días entre Julio 2009 y Agosto 2009. Como único efecto adverso presenta astenia grado 1. Sale del ensayo por progresión adenopática a nivel mediastínico, axilar y retroperitoneal superior, así como implantes en pectoral izquierdo, pleura, suprarrenal izquierda, musculatura paravertebral izquierda y hueso iliaco derecho.
+Se solicita estudio de EGFR, con resultado de EGFR mutado, por lo que en Septiembre 2009 inicia tratamiento con erlotinib 150 mg al día. Como toxicidad presenta diarrea y rash cutáneo grado 2, mucositis nasal y alteraciones ungueales leves. En el primer TAC de reevaluación a los 3 meses se objetiva respuesta radiológica completa que se mantiene en posteriores revisiones.
+El 14 de Abril 2012 acude al Servicio de Urgencias por disnea, dolor pleurítico en hemitórax izquierdo, tos seca y fiebre de hasta 38ºC de una semana de evolución. Se realiza una angiografía en la que se descarta tromboembolismo pulmonar agudo. En las pruebas de imagen ambos pulmones presentan extensas áreas parcheadas en vidrio deslustrado con áreas de fibrosis de predominio en lóbulos inferiores, no visibles en TAC previo. A pesar de nebulizaciones con bromuro de ipratropio y salbutamol, oxigenoterapia y corticoterapia a dosis altas (ante la sospecha de que el cuadro fuese un efecto secundario del tratamiento), piperacilina-tazobactam y voriconazol (por la posibilidad de que los infiltrados fuesen de origen fúngico), la paciente evoluciona desfavorablemente, con aumento progresivo del compromiso respiratorio hasta fallecer el 28 Abril 2012.
+En el estudio necrópsico se encontraron intensas alteraciones morfológicas en los pulmones compatibles con un daño alveolar difuso evolucionado junto a focos con patrón de bronquiolitis obliterante/neumonía organizada en ausencia de signos específicos de infección, linfangitis carcinomatosa o edema pulmonar cardiogénico. Las alteraciones pulmonares referidas se han descrito en la literatura asociadas al tratamiento con erlotinib y se consideran, en este caso, la causa fundamental del fallecimiento.

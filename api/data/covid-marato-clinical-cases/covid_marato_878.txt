@@ -1,0 +1,23 @@
+Anamnesis
+Varón de 44 años, bebedor de un l de cerveza al día, e hipertenso que, como antecedentes de interés, destaca esteatosis hepática, orquiectomía izquierda en 1997 a causa de tumoración benigna y seguimiento en Neurología por cavernoma.
+En octubre de 2014, es intervenido en centro privado de nevus en rama ascendente mandibular derecha de meses de evolución, con sangrado al afeitado, que requiere ampliación de márgenes en un segundo tiempo.
+
+Exploración física
+Buen estado general. ECOG 0. Estable hemodinámicamente. ACP: ruidos rítmicos sin soplos ni roces. Murmullo vesicular conservado en ambos campos pulmonares. Cicatriz consolidada no complicada sin signos de recaída local. Sin adenopatías retroauriculares ni cervicales ipsilaterales.
+
+Pruebas complementarias
+El estudio anatomopatológico concluye con hallazgos morfológicos e inmunohistoquímicos concordantes con melanoma Clark III. Breslow 1,3mm, contactando con bordes. Neoplasia de melanocitos epitelioides con pleomorfismo e índice mitótico de 2 mitosis/2 mm2. Marcadores Melan A y HMB 45 positivos. Amplificación de márgenes con resultado de ausencia de neoplasia residual.
+En diciembre de 2014, se realiza TC de tórax y abdomen donde no se evidencia enfermedad neoplásica. Un mes después, es deriva al servicio de Cirugía Plástica para tratamiento complementario de ganglio centinela sin ser éste concluyente.
+
+Diagnóstico
+Melanoma estadio I.
+
+Tratamiento
+Al tratarse de un melanoma estadio I, se desestima tratamiento oncológico adyuvante y continúa seguimiento por parte de Dermatología.
+
+Evolución
+En abril 2016, estando el paciente asintomático, se realiza TC torácica que sugiere metástasis pulmonares. Dermatología completa el estudio de extensión con PET-TC, que objetiva captación patológica mediastínica, subcarinal e hiliar izquierda, junto con nódulos pulmonares de moderada tasa, aunque sugestivos de malignidad.
+Tras consultar con nuestra unidad, se decide realizar una biopsia transbronquial que confirme la sospecha radiológica y permita obtener tejido para poder conocer la mutación del gen BRAF, pudiendo planificarse posteriormente una primera línea individualizada.
+Tras dicha prueba, confirmamos que nos encontramos ante un melanoma metastásico estadio IV por afectación pulmonar y adenopática, BRAF negativo y con performance status de 0. Con dichos datos, solicitamos como primera línea pembrolizumab a dosis 2 mg/m2 q 21d e iniciamos el primer ciclo en septiembre de 2016.
+Tras 3 ciclos y 9 semanas de tratamiento, realizamos TC toracoabdominal de reevaluación que objetiva respuesta completa adenopática y parcial pulmonar con reducción superior al 50 % de la enfermedad parenquimatosa inicial.
+Hasta la fecha, ha completado 13 ciclos y mantiene la favorable respuesta objetivada tras el tercero. La tolerancia ha sido excelente; como única incidencia, presentó un síndrome catarral afebril con tos seca asociada y ha mantenido un performance status 0 en todo momento.

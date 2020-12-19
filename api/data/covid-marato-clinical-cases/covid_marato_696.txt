@@ -1,0 +1,38 @@
+Anamnesis
+Mujer de 40 años con los siguientes antecedentes familiares: padre con carcinoma de próstata. Antecedentes personales: NAMC, exfumadora hace más de 5 años. 
+
+Antecedentes médicos: mastopatía fibroquística. Quirúrgicos: quiste en la mama derecha intervenido y dos legrados por metrorragia. Antecedentes ginecoobstétricos: menarquia a los 11 años, G2P2, FM 5/28 días FUR 20de septiembre 2013.
+En agosto de 2013 nota molestias inespecíficas a nivel del brazo izquierdo, por lo que consulta, realizándose una ecografía de mama, con resultado de adenopatías axilares múltiples, por lo que se considera la realización de una biopsia mamaria un mes después (9/2013) con diagnóstico de cáncer infiltrante subtipo no especial RE(-), RP(-), Her-2 (3+), Ki-67 50-60%, axila (+).
+
+Exploración física
+ECOG 0. Peso: 61,5 kg.Talla:167 cm. SC: 1,68 m2.
+
+Mamas de tamaño 90 C densas, asimétricas, por mayor densidad de CSE de la mama izquierda ocupado por un gran nódulo pétreo y poco móvil de unos 6 cm, fijo a planos anteriores y posteriores. Se palpan nódulos remitentes en el CSE de la mama derecha. Axilas: se palpan ganglios patológicos a nivel axilar izquierdo y supraclavicular.
+
+Pruebas complementarias
+» Ecografía de mama, bilateral (10/9/2013): nódulo de 5,3 cm en el cuadrante superoexterno de la mama izquierda, que infiltra la piel, con características claras de malignidad. Ganglios patológicos múltiples a nivel axilar izquierdo.
+» Biopsia de mama izquierda con aguja gruesa (BAG) (10/9/2013). Anatomía patológica: A, carcinoma infiltrante de subtipo histológico no especial; B, infiltración por carcinoma.
+» Inmunohistoquímica de carcinoma de mama: RE(-), RP(-), Ki-67 50-60%, axila (+), CK19 (+), Her-2 (4B5 pathway): intensa positividad en membrana en más del 80% de las células (puntuación 3+).
+
+Estudio de extensión:
+» TC en barrido torácico (7/11/2013): masa mal definida con hiperrealce periférico de la mama izquierda con crecimiento milimétrico (2 a 3 mm en varios niveles axiales). Mide 45 x 25 x 46 mm.
+Evidente crecimiento de la mayoría de los nódulos pulmonares múltiples.
+» RM mamaria. Mama izquierda: masa heterogénea en la unión de cuadrantes externos, con realce grueso e irregular en la periferia de la misma, con región central hipocaptante, de unos 50 x 38 x 50 mm de diámetros. Adenopatías de aspecto patológico en la axila izquierda.
+
+Diagnóstico
+Cáncer de mama metastásico en el CSE de la mama izquierda con afectación pulmonar y adenopática con fenotipo Her-2.
+
+Tratamiento
+Se propone entrar en el estudio DASATINIB GEICAM 2010-04 (taxol + herceptin + dasatinib), versión 27/10/2011. Inicio de tratamiento el 11/2013, recibiendo seis ciclos por PE, se inicia segunda línea de tratamiento con capecitabina + lapatinib (28/5/2014) y se reevalúa tras el segundo ciclo, con cambio a letrozol + lapatinib, con nueva PE a nivel pulmonar y en la mama izquierda, por lo que se pauta doble bloqueo. Inicia tratamiento con pertuzumab + trastuzumab + docetaxel, con mala respuesta al tratamiento con progresión local, decidiéndose el inicio de TDM1 (4/2014); actualmente estaá en el cuarto ciclo, pendiente de una TC de reevaluación.
+
+Evolución
+Durante la espera al inicio de entrar al ensayo clínico (20/10/2013), presenta una lesión cutánea eritematosa de bordes irregulares con lesión ulcerativa que drena material blanquecino de aproximadamente 8 cm de diámetro en su eje mayor a nivel de la mama izquierda. Se inician curas locales y tratamiento antibiótico empírico, con mejoría de la lesión dos semanas después.
+» 10/3/2014: respuesta metabólica parcial de la lesión primaria situada en el CSE de la mama izquierda. Probable respuesta metabólica completa de la afectación linfática axilar, mamaria interna, supraclavicular y cervical izquierdas y de las metástasis pulmonares bilaterales.
+» PE (5/2014): confirmado el crecimiento y PD de la enfermedad a nivel pulmonar, sobre todo la del pulmoón izquierdo (> 30% con RECIST). Presenta neurotoxicidad residual en el pie derecho, por lo que se decide suspender el tratamiento y sale del ensayo clínico por progresión de la enfermedad.
+» Se inicia una segunda línea de tratamiento según lapatinib + capecitabina con TC de reevaluación (9/2014): sutil y persistente crecimiento de las metástasis hematógenas parenquimatosas pulmonares de ambos lados con aparición de una nueva en el segmento anterior del LSD, por lo que se concidera nueva línea de tratamiento con letrozol + lapatinib.
+» 10/12/2014: en la TC se objetiva progresión de la enfermedad torácica, tanto en la mama izquierda (mayor la masa del CSE, mayor del engrosamiento cutáneo y los nódulos hipervasculares parenquimatosos que no existían en el estudio previo), como en las metástasis pulmonares bilaterales, que han aumentado de volumen y número respecto a los estudios previos. Se decide iniciar doble bloqueo.
+» 1/2015: inicia tratamiento con pertuzumab + trastuzumab + docetaxel, mejorado el dolor y la supuracioón de la herida en la mama.
+» TC (1/2015): neoplasia de mama izquierda, que ha disminuido de tamaño con respecto al estudio previo, actualmente mide 17,5 x 27 mm. Han disminuido de tamaño asimismo las adenopatías axilares. Los nódulos pulmonares existentes en estudios previos prácticamente han desaparecido, quedando algún nodulillo milimétrico en algún caso de alta densidad.
+» 4/2015: se inicia tratamiento TDM1.
+» TC de tórax (4/2015): TC 7 de abril simultánea al primer TDM1: signos de progresión de su enfermedad, con aumento del número y tamaño de las metástasis pulmonares y de las formaciones adenopáticas metastásicas en el tórax.
+» Actualmente está pendiente de una TC de reevaluación.

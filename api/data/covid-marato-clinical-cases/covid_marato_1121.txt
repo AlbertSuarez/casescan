@@ -1,0 +1,28 @@
+Anamnesis
+Mujer de 15 años de edad sin antecedentes médico-quirúrgicos de interés que consulta en mayo de 2014 por dolor abdominal de 15 días de evolución. El dolor es de tipo cólico en la región periumbilical y además asocia distensión abdominal.
+
+Exploración física
+ECOG 2. Afectada por dolor. Auscultación cardiopulmonar: normal. Abdomen: distendido, con defensa abdominal y palpación de una tumoración móvil que llega desde el hipogastrio a la región supraumbilical. Extremidades inferiores: sin edemas ni signos de trombosis venosa profunda.
+
+Pruebas complementarias
+» TC abdominopélvica (6/5/2014): gran masa abdominal de 18,6 x 12 x 25 cm con focos de calcificación y grasa macroscópica sugestiva de teratoma. La lesión se extiende inferiormente hata la pelvis, donde se prolonga hacia la región anexial derecha, donde presenta un componente de 62 x 28 mm. Existe líquido libre en la región perihepática, periesplénica y en la gotiera paracólica izquierda.
+Adenopatía de 12 mm en la grasa paracardíaca derecha y de 10 mm en la grasa paracardíaca izquierda.
+» Ecografía ginecológica (6/5/2014): tumoración gigante cuyo tamaño es imposible delimitar por ecografía, de contenido heterogéneo, quístico-sólido. Ovario derecho y útero normales. No se observa ascitis.
+» Analítica (6/5/2014): bioquímica y hemograma con parámetros dentro de la normalidad.
+Marcadores tumorales beta-HCG < 0,6 ng/m, alfa-fetoproteína 679 ng/ml (valores normales: 0-10), Ca 125 338 UI/ml (0-35), CA 19.9 352 UI/ml (0-37).
+
+Diagnóstico
+Teratoma inmaduro estadio IV.
+
+Tratamiento
+El 6 de mayo de 2014 se realiza intervención quirúrgica por parte del Servicio de Ginecología con extirpación y resección de los implantes peritoneales con omentectomía y apendicectomía. El resultado anatomopatológico es de teratoma inmaduro de ovario grado 3 con implantes en el epiplón y presencia de tejido glial bien diferenciado.
+
+En la TC postquirúrgica se observa enfermedad residual con implantes perihepáticos, peritoneales y en el saco de Douglas, además de adenopatías en los senos cardiofrénicos y presencia de alfa-fetoproteína elevada de 300 mg/ml, por lo que se inicia tratamiento de quimioterapia (QT) complementaria según esquema BEP (cisplatino 20 mg/m2 días 1-5, etopósido 100 mg/m2 días 1-5 y bleomicina 30 mg días 1,8 y 15 de cada 21 días) el 26 de mayo de 2014.
+Tras el primer ciclo se observa aumento progresivo de la alfa-feproteína hasta llegar a 946 ng/ml, por lo que se solicita una TC de control que confirma el aumento de tamaño de los implantes y de las adenopatías previamente descritas. Con estos hallazgos se modifica el tratamiento de QT, iniciando una segunda línea de tratamiento según el esquema TIP (placlitaxel 250 mg/m2 día 1, cisplatino 25 mg/m2 días 2-5 e ifosfamida 1.500 mg/m2 días 2-5) recibiendo cinco ciclos, que finaliza el 8 de septiembre de 2014, con normalización de los marcadores tumorales.
+
+Se realiza una PET-TC posterior con captación de metástasis perihepática de 12 x 8 cm, la cual presenta captación heterogénea, ganglios diafragmáticos de hasta 2 cm con SUVmáximo de 4,03 e implante tumoral en saco de Douglas de 7 x 3 cm SUVmáximo 7,3, por lo que el 14 de octubre de 2014 se realiza cirugía citorreductora completa por parte de los Servicios de Ginecología y Cirugía General.
+
+Se realiza pelviperitonectomía con extirpación de útero, anejo derecho e implante en el saco de Douglas con disección de la cara anterior del recto, además de linfadenectomía pélvica y aortocava bilateral y extirpación de adenopatías cardiofrénicas y diafragmáticas. El resultado anatomopatológico fue de tejido adiposo metastatizado por tejido teratomatoso maduro en su totalidad ("teratoma inmaduro grado 0"). Posteriormente, la paciente inició tratamiento hormonal sustitutivo por menopausia quirúrgica precoz.
+
+Evolución
+La TC postquirúrgica de noviembre de 2014 no muestra enfermedad residual y la alfa-fetoproteína sigue en valores negativos. Actualmente la paciente continúa con los controles, sin datos analíticos ni radiológicos de recidiva en la última consulta de mayo de 2015.

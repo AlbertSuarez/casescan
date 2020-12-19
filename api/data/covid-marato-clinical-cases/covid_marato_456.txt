@@ -1,0 +1,35 @@
+Anamnesis
+Varón de 63 años, hipertenso, con historia de hábito tabáquico de 40 años/paquete. Sin otros hábitos tóxicos. Consultó en octubre de 2010 en el Servicio de Otorrinolaringología (ORL) por disfonía de 3 meses de evolución. Negaba tos, hemoptisis, síndrome constitucional u otra sintomatología.
+
+Examen físico
+Performance status de 0
+Buen estado general. Disfonía.
+En la exploración ORL: lesión tumoral en la epiglotis con cuerdas vocales móviles.
+Auscultación cardiopulmonar normal y resto de exploración normal.
+
+Pruebas complementarias
+- Resonancia magnética (RM): tumoración en la región supraglótica que afectaba a la porción infrahioidea de la epiglotis con aparente infiltración de grasa pre y paraglótica, remodelación, por posible infiltración, de la cara interna de los cartílagos tiroideos anteriores. Engrosamiento de la comisura anterior con posible afectación de la glotis.
+- Tomografía computarizada tóraco-abdómino-pélvica (TC-TAP): tumoración en la supraglotis en estadio radiológico T3-T4 (erosión del cartílago tiroides) N0 y lesión pulmonar en el lóbulo superior izquierdo (LSI) sugestiva de carcinoma broncopulmonar en estadio radiológico T2N0M0.
+- Anatomía patológica de la lesión epiglótica obtenida mediante fibrobroncoscopia: carcinoma de células escamosas (epidermoide) bien diferenciado.
+- Anatomía patológica del nódulo pulmonar obtenida mediante punción-aspiración con aguja fina (PAAF): imágenes citológicas compatibles con carcinoma no microcítico. Probable carcinoma de células escamosas.
+- Análisis de sangre con marcadores tumorales normal.
+- Anatomía patológica del nódulo pulmonar tras lobectomía y linfadenectomía del lóbulo superior izquierdo: adenocarcinoma escasamente diferenciado con infiltración focal de la pleura y sin afectación de los 13 ganglios extirpados (pT3 N0 M0).
+
+Diagnóstico
+Doble neoplasia sincrónica: carcinoma epidermoide de laringe T4N0M0 (estadio IV) y adenocarcinoma de pulmón pT3N0M0 (estadio IIb).
+
+Tratamiento
+Se planteó tratamiento quirúrgico de la neoplasia de pulmón y posterior tratamiento con quimioterapia y radioterapia concomitantes de la lesión laríngea. En diciembre de 2010 se llevó a cabo la lobectomía superior derecha sin complicaciones.
+En enero de 2011 es valorado por primera vez en consultas externas de Oncología Médica, programando el inicio de tratamiento con cisplatino 100 mg/m2 cada 21 días de forma concomitante con radioterapia por un total de tres ciclos.
+
+Evolución
+La toxicidad tras la primera dosis de cisplatino fue de emesis grado 3, que obligó al paciente a acudir a Urgencias, resolviéndose con antieméticos convencionales. Además, presentó radiodermitis y mucositis grado 1, que mejoró en gran medida con tratamiento tópico.
+Tras la administración del tercer ciclo de cisplatino, y habiendo finalizado el tratamiento con radioterapia, se da por concluido el tratamiento concomitante. La toxicidad acumulada era radiodermitis grado 2 y mucositis grado 2. Se solicitó en este momento la evaluación de la enfermedad con TC-TAP y valoración por ORL.
+La imagen mostraba una reducción significativa de la lesión supraglótica. Resto, incluyendo el tórax, sin hallazgos patológicos, por lo tanto: remisión parcial de la enfermedad.
+El paciente siguió un control muy irregular sin acudir a las citas de consultas externas que tenía programadas. Seis meses después del fin de la concomitancia reinicia control por Oncología Médica, Otorrinolaringología, Cirugía torácica y Radioterapia. El seguimiento consistía en exploración física, pruebas de imagen y análisis de sangre incluyendo perfil hormonal tiroideo por el antecedente de irradiación del cuello. En todas ellas existía una remisión completa de la enfermedad supraglótica y pulmonar. El paciente presentaba muy buen estado general, destacando la persistencia de disfonía como único síntoma. Sin toxicidad residual.
+Siguió los controles habituales, persistiendo libre de enfermedad 25 meses. En mayo de 2013, en una TC-TAP de rutina, aparece un nódulo pulmonar en el lóbulo inferior derecho, polilobulado, altamente sugestivo de neoplasia pulmonar, con estadificación radiológica T1a, N0, MX.
+Ante la sospecha de una tercera neoplasia primaria (y segunda pulmonar) se solicita una tomografía por emisión de positrones y biopsia mediante PAAF de la lesión pulmonar.
+La PET-TC informaba de un nódulo hipermetabólico en el LID que sugería malignidad. Estadificación metabólico-radiológica T1a, N0, M0.
+En agosto de 2013, y tras presentar el caso en el Comité de Tumores Torácicos, se llevó a cabo una lobectomía inferior derecha, siendo la anatomía patológica de carcinoma escamoso moderadamente diferenciado, pT1b N0 Mx (estadio Ia).
+Dado el estadio precoz, no procedía ningún tratamiento oncológico activo adyuvante. Inicia entonces seguimiento clínico.
+La última visita a consultas externas de Oncología Médica fue a finales de mayo de 2014, estando el paciente asintomático, con muy buen estado general y libre de enfermedad del tumor de laringe y adenocarcinoma pulmonar 37 meses y del carcinoma escamoso de pulmón 10 meses.

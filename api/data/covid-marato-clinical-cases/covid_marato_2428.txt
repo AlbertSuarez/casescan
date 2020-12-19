@@ -1,0 +1,34 @@
+Anamnesis
+Varón de 59 años, sin alergias. Exfumador. Bebedor. Diabetes Mellitus 2 tratada con glicazida. Sin antecedentes oncológicos familiares. En mayo de 2010 se realiza estudio de tumoración parotídea izquierda de 3 meses de evolución, no dolorosa y adenopatías cervicales izquierdas.
+
+Examen físico
+PS 1.Tumoración preparotídea izquierda de 4 cm, adherida al borde anterior de masetero y suelta por dentro de la boca.
+Adenopatías en cadena yugular, celda submaxilar y área supraclavicular.
+
+Pruebas complementarias
+TC: masa laterocervical izquierda. Adenopatías submandibulares y en cadena yugular interna izquierda.
+RM: lesión a nivel de grasa maseterina de bordes mal definidos, con múltiples adenopatías laterocervicales y supraclavicular izquierdas.
+PAAF del ganglio linfático: células malignas de alto grado.
+Biopsia de piel y tejidos blandos: carcinoma ductal infiltrante de alto grado de la glándula parótida con invasión perineural y vascular, cErb2: negativo.
+
+Diagnóstico
+Carcinoma ductal salivar parotídeo T3N2bM0, estadio IVa.
+
+Tratamiento
+En junio de 2010 inicia TPF de inducción: (docetaxel 75 mg/m2 día 1, CDDP [cisplatino] 75 mg/m2 día 1, 5-fluoruracilo 750 mg/m2 en infusión continua días 1-5) más GCSF x 2 ciclos; con neutropenia de grado III y astenia.
+Tras objetivar respuesta clínica continúa quimiorradioterapia: IMRT concomitante con 3 ciclos de CDDP 100 mg/m2 trisemanal. El 2.º y 3.er ciclo con reducción de dosis del 50 % por aumento transitorio de creatinina.
+RM de evaluación: desaparición de todas lesiones, salvo realce en la región geniana izquierda. Biopsia excisional en 12/10, positiva para carcinoma con borde afecto.
+
+Evolución
+Tras respuesta parcial sigue controles periódicos sin tratamiento.
+Abril de 2011: presenta exoftalmos y nódulos subcutáneos (sc) laterocervicales izquierdos.
+TC: masa en órbita izquierda que se extiende por tejido celular sc.
+PET: captación patológica en órbita, axila y sacro izquierdos.
+RM: lesión orbitaria izquierda.
+Inicia docetaxel 75 mg/m2 con respuesta clínica temprana.
+TC tras ciclo 11: lesiones óseas blásticas en pelvis y costales asintomáticas.
+Mantiene docetaxel 21c. hasta noviembre de 2012 con buena tolerancia, salvo algún episodio de síncope y polineuropatía leve.
+En enero de 2013: se observa progresión de lesiones descritas, por lo que inicia CDDP 75 mg/m2. Tras el segundo ciclo presenta progresión de nódulos sc, por lo que se suspende el tratamiento. Progresión ósea en TC que muestra lesiones blásticas a nivel de columna dorsal. Inicia Tegafur en 3.ª línea sin toxicidad aparente.
+El paciente solicita en mayo de 2013 una segunda opinión en otro centro, donde se amplía inmunohistoquímica con intensa expresión nuclear de receptores androgénicos.
+Estudio PET-TC comparado con el de abril de 2011: disminución de captación orbitaria izquierda, desaparición de captación axilar, persistencia en sacro.
+Se recomienda tegafur más bicalutamida a 150 mg/d. En el último control, el paciente se encuentra ambulatorio con buena calidad de vida.

@@ -1,0 +1,26 @@
+Anamnesis
+Mujer de 62 años, sin antecedentes personales de interés, que consulta en agosto de 2004 por dolor suprapúbico. Se realiza una ecografía abdominal, en la que se observa una masa pélvica de gran tamaño dependiente de anejos. Dados los hallazgos, en septiembre de 2004 es sometida a laparotomía, realizándose histerectomía total y salpingoooforectomía bilateral, omentectomía, resección de masa en saco de Douglas y lavado peritoneal. El estudio anatomopatológico nos informa de cistoadenocarcinoma seroso papilar de alto grado con áreas de transformación anaplásica pT3cN0, y el estudio de extensión fue negativo para metástasis, por lo tanto estadio IIIC de la FIGO. Recibió tratamiento con quimioterapia: carboplatino AUC 5 y paclitaxel 175 mg/m2 día 1 cada 21 hasta completar seis ciclos, con mala tolerancia y normalización de Ca 125 (se encontraba elevado pre y postcirugía). Desde entonces sigue revisiones periódicas.
+
+En noviembre de 2012, tras un intervalo libre de enfermedad (ILE) de 8 años, la paciente consulta por eritema e induración de la mama izquierda que ocupa la totalidad de esta. Se realiza una ecografía, en la que se observa importante engrosamiento de la piel y edema en el tejido celular subcutáneo y biopsia cutánea que informa de carcinoma inflamatorio de mama, por lo tanto cT4N0 y estudio de extensión negativo (M0). Marcadores tumorales (Ca 125 y Ca 15.3) normales. Comienza tratamiento neoadyuvante esquema AC por cuatro ciclos (doxorrubicina 60 mg/m2 + ciclofosfamida 600 mg/m2 día 1 cada 21), seguido de docetaxel 100 mg/m2 día 1 cada 21 por cuatro ciclos, con mala tolerancia por mucositis grado 3 y herpes zóster que obligó a la reducción de la dosis y respuesta parcial clínica al finalizar el tratamiento. En junio de 2013 se interviene mediante mastectomía simple y disección axilar y se deriva nuevamente a nuestra consulta.
+
+Exploración física
+Mama izquierda: cicatriz de mastectomía en buen estado. En la pared costal presenta pápulas violáceas diseminadas que sugieren infiltración dérmica.
+
+Mama derecha: eritematosa, indurada, sin tumoraciones definidas. No adenopatías axilares palpables. No otras lesiones en el resto del tegumento cutáneo. Resto de la exploración física por órganos y aparatos sin hallazgos patológicos.
+
+Pruebas complementarias
+» Anatomía patológica de la pieza quirúrgica: múltiples imágenes de invasión de vasos sanguíneos y linfáticos por carcinoma de alto grado de patrón seroso papilar. Invasión focal de linfáticos de la dermis.
+Axila: metástasis de carcinoma en 6 de los 8 ganglios linfáticos aislados con múltiples imágenes de invasión de vasos sanguíneos y linfáticos.
+» Perfil inmunohistoquímico: positividad para WT-1 y p53. Negatividad para receptores de estrógenos, progesterona y andrógenos, mamaglobina, GCDFP-15, CK-5/6 y Her-2.
+» Biopsia-punch de lesiones cutáneas: infiltración carcinomatosa de los linfáticos de la mama con similar perfil inmunohistoquímico que la pieza de mastectomía.
+» Analítica postcirugía: destaca elevación de Ca 15.3 en 46 UI/ml. Resto de marcadores, hemograma y bioquímica sin alteraciones.
+» PET-TC: captación difusa en la región mamaria derecha que se corresponde con engrosamiento cutáneo en las imágenes de la TC. No otros focos.
+
+Diagnóstico
+Invasión metastásica dérmica de mama bilateral por carcinoma seroso de ovario.
+
+Tratamiento
+Dada la mala tolerancia al tratamiento previo con docetaxel, se inicia quimioterapia de segunda línea con carboplatino AUC 5 + doxorrubicina liposomal pegilada 30 mg/m2 cada 28 días.
+
+Evolución
+La paciente recibe seis ciclos con buena tolerancia y leve mejoría del componente inflamatorio al tercer ciclo, que empeora tras el sexto con aumento del empastamiento de la mama. Se realiza una PET-TC tras el sexto ciclo, en el que se observa mayor captación en la mama derecha que previamente al tratamiento. Se considera paciente platino-resistente (ILP < 6 meses) y se inicia tercera línea con paclitaxel 80 mg/m2 días 1, 8, 15 + bevacizumab 7,5 mg/kg días 1, 15 cada 28. Recibe ciclos con buena tolerancia y progresión clínica de la enfermedad con letálides en ambas mamas, región esternal que se extienden al miembro superior izquierdo con secreción serohemática y mama derecha en coraza dolorosa y muy pruriginosa. Dada la progresión, se decide una nueva línea de quimioterapia con carboplatino AUC 2 + gemcitabina 1.000 mg/m2 días 1 y 15 cada 28. La paciente recibe tres ciclos con leve mejoría. Tras el cuarto ciclo la paciente consulta por progresión de enfermedad, fiebre, dolor no controlado y secreción purulenta a través de las lesiones. Ingresa en sala de Oncología, falleciendo a los pocos días.

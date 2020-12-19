@@ -1,0 +1,27 @@
+Anamnesis
+Con 73 años, nuestra paciente inicia estudio diagnóstico en febrero de 2017 tras el hallazgo de un nódulo pulmonar en lóbulo superior derecho y adenopatías hiliomediastínicas ipsilaterales en una tomografía computarizada (TC) realizada tras el diagnóstico de un carcinoma epidermoide de ala nasal. Como antecedentes destacaba un consumo de tabaco de 80 años/paquete desde los 14 años y tratamiento radioterápico para la neoplasia nasal diagnosticada entre el 10 de febrero y el 20 de marzo de 2017 (dosis total de 56.10 Gray [Gy]). Tenía una situación basal independiente, adecuada a la edad, y era trabajadora de la limpieza.
+Tras el correspondiente estudio diagnóstico y de extensión, se trataba de un carcinoma microcítico pulmonar cT3N3M0, con un Ki67 del 90 %. Ante una enfermedad limitada, se propuso inicio de tratamiento quimiorradioterápico (QTRT) secuencial según el esquema carboplatino y etopósido en junio de 2017. Tras completar dos ciclos de tratamiento con un favorable perfil de toxicidad principalmente en forma de astenia grado 1, se objetivó una respuesta parcial mayor iconográfica. Completó tratamiento radioterápico secuencial después del cuarto ciclo de quimioterapia entre el 4 de octubre y el 17 de noviembre de 2017 (dosis total de 60 Gy), y finalmente recibió radioterapia holocraneal profiláctica en diciembre de 2017.
+En enero de 2018, en TC de control tras fin de tratamiento se objetivó una opacidad pseudonodular pulmonar en segmento posterior de lóbulo superior derecho con actividad metabólica sospechosa de malignidad, por lo que se programó una biopsia por aguja gruesa guiada por TC, que se detalla más adelante. Clínicamente la paciente preservaba un PS de 1, con una leve disminución global del murmullo vesicular pulmonar y sin sensación disneica.
+Dado el contexto de aparición de la lesión: paciente con neoplasia pulmonar tratada con quimioterapia y radioterapia torácica, sin evidencia de enfermedad y con patrón pseudonodular pulmonar; enmarcamos el cuadro clínico como una neumonía organizativa secundaria al tratamiento neoplásico realizado.
+
+Exploración física
+En la exploración presentaba un performance status (PS) de 1. Destacaba una lesión nasal en proceso de cicatrización con destrucción de ambas alas nasales. Se encontraba eupneica y la auscultación cardiaca era normal, mientras que en la pulmonar presentaba una disminución del murmullo vesicular de forma global. El resto de la exploración física era completamente normal.
+
+Pruebas complementarias
+» Análisis de sangre. Dentro de los límites de la normalidad.
+» Tomografía computarizada (TC). Opacidad pseudonodular en segmento posterior de lóbulo superior derecho pulmonar. Si otros signos que sugieran progresión de enfermedad.
+» Tomografía por emisión de positrones (PET). Actividad metabólica sospechosa de malignidad a nivel de nódulo en lóbulo superior derecho pulmonar.
+» Biopsia por aguja gruesa (BAG), guiada por TC. Presencia de material fibrótico e infiltrado linfoplasmocitario, en ausencia de evidencia de malignidad.
+
+Diagnóstico
+» Neumonía organizativa secundaria.
+» Carcinoma microcítico pulmonar derecho ct3n3m0.
+» Carcinoma epidermoide localizado de ala nasal.
+» Fumadora activa.
+
+Tratamiento
+De forma conjunta con el servicio de Neumología, y tras confirmar una buena función respiratoria, iniciamos tratamiento corticoide con prednisona a razón de 0,5 mg/kg/día y broncodilatador con indacaterol/glicopirronio, durante dos semanas, con pauta descendente posterior hasta completar un total de seis semanas.
+
+Evolución
+Tras dicho tratamiento, la paciente presentó enfermedad estable por TC, con resolución parcial del patrón pseudonodular de la neumonía organizativa. Sin embargo, en TC de reevaluación solicitada en enero de 2019, se objetiva progresión de la enfermedad a nivel pulmonar, pleural y ganglionar mediastínica y supraclavicular.
+La paciente ingresa el día 22 de enero de 2019 tras cuadro de disnea a mínimos esfuerzos y tos con expectoración. Se inicia antibioterapia empírica y estudio microbiológico que resulta negativo. Ante cuadro de progresión de enfermedad pulmonar y neumonía organizada, se realiza broncoscopia el 25 de enero de 2019, mostrado signos de infiltración traqueobronquial, y cuya biopsia confirma la progresión de la enfermedad neoplásica. Tras una mejoría inicial, el día 29 de enero de 2019 la paciente experimenta deterioro del estado general asociado a vómitos y signos de irritación peritoneal. En TC urgente se objetiva una obstrucción intestinal secundaria a hernia obturatriz derecha con signos de sufrimiento intestinal. Tras intervención quirúrgica urgente, la paciente permanece en la unidad de reanimación postquirúrgica, donde presenta reiterados cuadros de insuficiencia respiratoria aguda. Tras valoración conjunta, y ante el deseo de la paciente, se decide limitar esfuerzo terapéutico. Durante los días posteriores en planta de Oncología, la paciente precisa de inicio de sedoanalgesia paliativa debido a una sensación disneica persistente. Finalmente es exitus letalis el 1 de febrero de 2019.

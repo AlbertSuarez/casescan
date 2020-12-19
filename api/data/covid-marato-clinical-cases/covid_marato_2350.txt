@@ -1,0 +1,25 @@
+Anamnesis
+Paciente varón de 55 años con los siguientes antecedentes personales: trabajador de carpintería metálica, fumador de 60 paquetes/año, bebedor moderado.
+Consulta el día 19/03/16 por dolor (EVA 4) y tumefacción en región malar derecha de dos meses de evolución.
+
+Exploración física
+ECOG 1. Tumefacción en pómulo derecho altamente dolorosa a la palpación externa. A nivel intraoral se palpa en fondo de vestíbulo superior derecho una tumoración de contorno irregular, anterior a la malar y adherida al mismo. No se palpan adenopatías locorregionales. Resto de exploración sin alteraciones.
+
+Pruebas complementarias
+TC de macizo malar y cuello (19/12/14): Masa de 41x35x26 mm, de aspecto sólido, heterogénea, a nivel de hueso malar derecho, que se aprecia destruido. A nivel superficial confinada en musculatura cigomática. En profundidad la lesión afecta a fosa infratemporal con afectación de la musculatura y porción anterocraneal del musculo masetero. Destrucción de pared lateral y margen externo de la orbita derecha, con extensión de la tumoración hacia interior del seno maxilar e infiltración de grasa de la orbita. A nivel de ápex de pulmón derecho se aprecia una lesión nodular de contornos espiculados con prolongaciones hacia la pleura.
+El 13/01/15 se realiza biopsia por vía intraoral (biopsia de hueso cigomático temporal).
+Anatomía patológica( AP): Adenocarcinoma poco diferenciado.
+Inmunohistoquímica: CK 7 positiva, TTF1 y CK20 negativos. Determinación PSA negativa.
+PET-TC (13/02/15): Masa malar derecha que destruye dicho hueso, la porción más anterior del arco cigomático derecho, así como suelo de la órbita, que ha aumentado de tamaño respecto al TC, actualmente mide 49x48x62 mm (SUV 33,8) . Nódulo hipermetabólico a nivel de vértice de pulmón derecho de 13mm (SUV 11,7).
+
+Diagnóstico
+Adenocarcinoma poco diferenciado del seno maxilar cT4acN0. Nódulo pulmonar hipermetabólico.
+
+Tratamiento
+Visto en consulta de Oncología el 19/03/15, refería dolor intenso (EVA 7) secundario a la importante afectación locorregional. Ante el difícil acceso de la lesión pulmonar para biopsia y dado que el paciente se encontraba muy sintomático se decide no retrasar el inicio del tratamiento. Inicia quimioterapia (QT) de inducción el día 19/03/15 según esquema cisplatino 75mg/m2 más docetaxel 75mg/m2 cada 21 días, recibiendo un total de 6 ciclos ( último el día 02/07/15) con buena tolerancia (presentó como únicas toxicidades neuropatía grado 1-2 y astenia grado 2).
+Tras el sexto ciclo de cisplatino-docetaxel recibió radioterapia (RT) con intención radical a nivel locorregional y pulmonar recibiendo una dosis total de 66 Gy sin tratamiento concomitante para minimizar toxicidades (fin el 03/09/15). El paciente no presentó toxicidades graves.
+
+Evolución
+Presentó tras el primer ciclo respuesta clínica y respuesta parcial radiológica (a nivel local y pulmonar) tras el tercer ciclo en TC de control realizado el 07/05/15.
+Tras finalizar tratamiento radioterápico se realiza TC de control (26/10/15), apreciándose respuesta completa (RC) a nivel locorregional y respuesta parcial (RP) en lesión pulmonar. En PET-TC realizado el 14/12/15 se evidencia respuesta metabólica completa a nivel local y respuesta metabólica parcial a nivel pulmonar.
+Se valora el caso en comité de tumores torácicos y se decide resección en cuña de la lesión pulmonar, la cual se realiza el 23/03/16. Tanto la biopsia intraoperatoria como la anatomía patológica definitiva confirman cambios fibróticos sin detectar células malignas, por tanto RC a nivel malar y respuesta patológica completa pulmonar.

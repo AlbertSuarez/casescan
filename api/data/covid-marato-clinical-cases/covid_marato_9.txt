@@ -1,0 +1,44 @@
+Anamnesis
+Casada, 2 hijos, acompañada siempre de su marido, maestra de profesión. Hace una vida sana, nunca fumadora ni bebedora ni consumidora de drogas ni estupefacientes.
+Como antecedentes personales médicos, sólo destaca un asma bronquial que aparece en primavera para el cual toma inhaladores con betadrenérgicos de acción larga y glucocorticoides. En ocasiones toma lorazepam de 1 mg por la noche si tiene insomnio. No se ha intervenido quirúrgicamente nunca.
+El marido cuenta que desde hace 2 días nota a su mujer "rara", más cansada, nota pérdida de fuerza progresiva, sobre todo en miembros inferiores porque se ha caído en 2 ocasiones, sensación de mareo constante al caminar y dificultad para pronunciar de forma correcta las palabras.
+No ha tenido fiebre, no ha tenido tos, ni dolor abdominal ni síntomas miccionales.
+
+Exploración física
+Tranquila en planta, en cama, sin dificultad respiratoria, bien hidratada, totalmente consciente y bien orientada. Tensión arterial 120/80 mm Hg. Saturación de oxígeno 99 %. 80 lpm. 36,7º.
+Neurológicamente, las pupilas son normales y reactivas a la luz, no refiere cefalea ni rigidez de nuca y no se aprecian signos meníngeos. Llama la atención una parálisis del tercer par craneal derecho y una ptosis derecha. Destaca también disartria moderada, no siendo posible pronunciar palabras correctamente.
+Los demás pares craneales son normales en la exploración.
+Al intentar pasarla al sillón, se aprecia una ataxia clara con imposibilidad en la coordinación de los movimientos, sobre todo de los miembros inferiores, y también de los miembros superiores e inestabilidad de la marcha. La exploración cardiorrespiratoria y abdominal es anodina.
+
+Pruebas complementarias
+PRUEBAS COMPLEMENTARIAS EN URGENCIAS
+» Analítica: anemia microcítica leve (Hb 11,3 g/dl; VCM 76 fl). Resto anodino.
+» Tomografía axial computarizada (TC) craneal: no se aprecian signos hemorrágicos ni isquémicos. Resto sin hallazgos patológicos.
+Con la clínica de un probable síndrome cerebeloso (ataxia, parálisis de tercer par craneal derecho incompleta y disartria), ingresa para continuar estudio.
+PRUEBAS COMPLEMENTARIAS EN PLANTA
+ Análisis de líquido cefalorraquídeo (LCR) tras punción lumbar: 3 células mononucleares, glucosa 70 mEq, todo ello compatible con LCR no patológico.
+ Resonancia magnética (RSM) cerebral: no se aprecian lesiones isquémicas ni hemorrágicas, ni tampoco se aprecian lesiones ocupantes de espacio. Cerebelo sin alteraciones destacables, salvo escasos focos inflamatorios en sustancia blanca inespecíficos.
+ Electroencefalograma: se aprecian ondas de diferente morfología, amplitud y frecuencia de características normales.
+ Analítica completa: hemograma con leve anemia microcítica ya conocida de la analítica de urgencias, bioquímica en la que destaca ferritina 30 ng/ml. Hormonas tiroideas, ácido fólico y vitamina B 12, proteína C reactiva (PCR), velocidad de sedimentación glomerular (VSG) normales. Anticuerpos antineuronales: anti-YO positivos. Resto normal.
+ Serologías: descarta sífilis, toxoplasma, Cytomegalovirus, virus del herpes y virus del Epstein Barr.
+ Cultivos de sangre: negativos.
+ LCR: serologías normales, cultivo negativo, anticuerpo antineuronal anti-YO positivo.
+Ante estos nuevos hallazgos analíticos (anti-YO positivo) y descartando otras causas, se diagnostica de síndrome paraneoplásico neurológico tipo degeneración cerebelosa. La paciente continúa el estudio con el objetivo de encontrar el tumor causante de este síndrome:
+ TC de tórax, abdomen y pelvis: únicamente se identifica una lesión nodular en mama izquierda que mide aproximadamente 30 mm de diámetro. En el lóbulo inferior derecho, se aprecia una lesión subpleural de 8mm que da la impresión de ser residual. El resto, sin hallazgos.
+ Tomografía por emisión de positrones (PET-TC): se aprecia la lesión localizada en mama izquierda de 30 mm aproximadamente que capta (SUVmax de 14). No existen otras lesiones ni otras captaciones patológicas.
+ Mamografía de la mama izquierda: a nivel del cuadrante inferior externo (CIE), se identifica un nódulo espiculado de unos 25 mm de diámetro mayor, sospechoso de malignidad (categoría BiRADS 5).
+ Ecografía de la mama izquierda: nódulo sólido hipoecogénico en CIE de márgenes angulosos, capta color, alrededor de 24 x 8 x 11,2 mm que se biopsia.
+ Ecografía de la axila izquierda: ganglio sospechoso de 11 mm con engrosamiento cortical excéntrico que se biopsia.
+ Exploración ginecológica: útero y ovarios sin hallazgos patológicos.
+
+Diagnóstico
+» Síndrome paraneoplásico neurológico tipo degeneración cerebelosa.
+» Carcinoma ductal infiltrante de mama izquierda localmente avanzado con afectación axilar confirmada (T2N1M0, estadio IIB). Receptores de estrógenos 90 %, 3+; receptores de progesterona 80 %, 3+. Luminal B (Ki 67 30 %, HER-2 negativo). Presencia escasa de diferenciación neuroendocrina.
+
+Tratamiento
+Una vez diagnosticada del síndrome, la paciente comienza tratamiento con altas dosis de inmunoglobulinas intravenosa y metilprednisolona durante 5 días. Ante escaso beneficio, a los pocos días comienza con plasmaféresis con leve mejoría clínica, sobre todo de la ataxia.
+Dos semanas después de finalizar plasmaféresis y tras presentar el caso en comité multidisciplinar de cáncer de mama, se decide iniciar tratamiento con quimioterapia (QT) comenzando esquema de epirrubicina 90 mg/m2 I.V + ciclofosfamida 600 mg/m2 I.V cada 15 días durante 4 ciclos seguido de paclitaxel 80 mg/m2 semanal durante 12 ciclos. Tras fin de QT, se decide intervenirse quirúrgicamente mediante tumorectomía + vaciamiento ganglionar axilar.
+
+Evolución
+Al primer mes de comenzar la QT, se apreció una mejoría leve de la ataxia y continuó mejorando de forma muy lenta hasta completar los 5 meses. En mayo de 2016, cuando la paciente es intervenida mediante tumorectomía en la mama izquierda y linfadenectomía axilar izquierda, se aprecia una buena respuesta tumoral a la quimioterapia siendo pT1pN1a (Miller Payne G4 tumoral y C ganglionar) (RCB1).
+La recuperación posquirúrgica fue rápida y muy favorable, y 2 meses después, la paciente se encontraba mejor clínicamente, caminaba con ayuda de muletas de forma independiente, persistía una moderada disartria y sensación de mareo ocasional, aunque con menor frecuencia. Aun así, ella notaba que todavía había margen de mejoría. Tras el tratamiento con radioterapia, la paciente continúa con terapia hormonal y existe una estabilidad neurológica actualmente.

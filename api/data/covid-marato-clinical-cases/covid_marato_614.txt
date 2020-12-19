@@ -1,0 +1,37 @@
+Anamnesis
+Paciente de 64 años, sin alergias medicamentosas conocidas, y con antecedentes personales de: HTA, hipertiroidismo.
+Resumen de historia oncológica:
+Diagnosticada por el Servicio de Ginecología en el año 2005 tras consultar en Urgencias por cuadro de dolor en fosa iliaca derecha, con hallazgo exploratorio de tumoración anexial derecha.
+Fue intervenida el 21/1/2005 mediante histerectomía abdominal total + doble anexectomía + apendicectomía + linfadenectomía paraaórtica y pélvica + resección de sigma. Informe Anatomopatológico: anejo derecho con metástasis ovárica de adenocarcinoma de colon (sigma) con extensa necrosis y ruptura de la cápsula. Receptores de estrógeno negativos. Receptores de progesterona negativos, p-53 negativo, CEA: positivo, Q 20: positivo. Q 7: negativo. Trompa y anejo izquierdo normal. Endometrio con leiomiomas el mayor de 8 cm. Segmento de intestino grueso y meso (sigma) con: adenocarcinoma intestinal medianamente diferenciado ulcero-vegetante que infiltra todo el espesor de la pared e infiltra el meso, con invasión de vasos capilares y afectando la serosa, sin alcanzar los extremos quirúrgicos de resección. 12 ganglios linfáticos sin patología. Cúpula derecha. diafragmática: citología sospechosa escasamente celular y artefactada. Cúpula supradiafragmática izquierda: citología maligna sugestiva de adenocarcinoma. Nota: valorando el patrón histológico en ambas localizaciones y las características inmunohistoquímicas, sugiere metástasis en ovario derecho de adenocarcinoma de sigma. RAS/BRAF no mutados.
+Con el diagnóstico de adenocarcinoma de colon sigmoide estadio IV (metástasis ováricas) recibió tratamiento QT adyuvante con el esquema FOLFOX 6 m x 12 ciclos, finalizando en agosto de 2015.
+En mayo de 2008, presenta recaída pulmonar por lo que se planteó resección de las metástasis pulmonares que la paciente no aceptó y siguió controles en Clínica Universitaria de Navarra (CUN). En dicha clínica, se practicó resección de la metástasis pulmonar el 5/08/08, recibiendo posteriormente tratamiento QT adyuvante con mitomicina C + irinotecan + bevacizumab. En noviembre de 2010, recaída ósea a nivel costal por lo que se administró nueva línea de tratamiento QT con gemcitabina + oxaliplatino + cetuximab. En junio de 2011, se practicó resección de pared torácica y colocación de malla de titanio.
+En marzo de 2012, la paciente vuelve a nuestro centro para valoración. Se practicó nuevo estudio de extensión con TC toracoabdominal, apreciando metástasis pulmonares múltiples y óseas, por lo que recibió tratamiento con FOLFIRI + BVZ desde marzo 2012 hasta julio con estabilización de enfermedad. En enero de 2013, lenta progresión, por lo que reinicia tratamiento con FOLFIRI + BVZ hasta octubre de 2013.
+En febrero de 2014, nueva progresión pulmonar por lo que reinicia de nuevo tratamiento con FOLFIRI + BVZ hasta junio 2014. En septiembre de 2014, nueva progresión pulmonar por lo que reinicia de nuevo tratamiento con FOLFIRI + BVZ hasta marzo 2015.
+En marzo 2015, nueva línea de tratamiento con irinotecan + cetuximab hasta febrero 2016.
+En febrero de 2016, inicia tratamiento con capecitabina + oxaliplatino por progresión pulmonar, subescapular y esternal.
+Durante la administración del 4º ciclo de tratamiento en hospital de día de Oncología, presenta dolor lumbar y artralgias en rodillas, acompañado de hipertensión arterial y hematuria, que no mejoraron pese a tratamiento sintomático con analgésicos e hipotensores, por lo que se derivó a la paciente a Urgencias para completar estudio.
+
+Exploración física
+Tensión arterial: 179/87 mm Hg, frecuencia cardiaca: 72 lpm.
+ECOG 0. Consciente, orientada, normohidratada, normocoloreada. Auscultación cardiaca: rítmico sin soplos audibles. Auscultación pulmonar: roncus aislados inspiratorios. Abdomen: blando, depresible, no doloroso, peristaltismo aumentado. Puño percusión renal bilateral negativa. Extremidades inferiores: sin edemas, ni signos de trombosis venosa profunda.
+
+Pruebas complementarias
+Analítica: glucosa 156 mg/dl, urea 67 mg/dl, creatinina 1,64 mg/dl (previa normal), sodio 130 mEq/l, potasio normal, 10.300 leucocitos con 9.800 neutrófilos, hemoglobina 10,7 g/dl. Plaquetas 107.000.
+Sedimento de orina: hemoglobina +++, nitritos negativos. 3-5 leucos, 10-25 hematíes por campo.
+
+Diagnóstico
+Sospecha de nefritis intersticial.
+
+Tratamiento
+Ingresa para hidratación y seguimiento.
+
+Evolución
+Ante la sospecha de nefritis intersticial secundaria a fármacos se dejó a la paciente en observación y se solicitó nueva analítica de control y ecografía abdominal.
+Los resultados mostraron glucosa 142 mg/dl, urea 114 mg/dl, creatinina 3,37 mg/dl, sodio 127 mEq/l, leucocitos 11.900 con 10.600 neutrófilos, hemoglobina 9,2 g/dl, plaquetas 56.000. En la ecografía abdominal, ambos riñones presentaban un tamaño normal con aumento difuso de la ecogenicidad del parénquima sugestivo de nefropatía.
+Fue valorada por Nefrología, quienes consideraron un fracaso renal agudo en probable relación con quimioterapia junto con una posible nefropatía tubulointersticial, por lo que se inicia corrección con fluidoterapia. Sin embargo, en analítica de control había un empeoramiento con cifras de: hemoglobina 9 g/dl, hematocrito 26,9 %, VCM 92,7 fL, plaquetas 36.000, urea 140 mg/dl, creatinina 4,41 mg/dl, bilirrubina total 2,25 mg/dl (directa 0,41), sodio 129 mEq/l, potasio 5,3 mEq/l.
+Ante el descenso de hemoglobina, y la elevación de bilirrubina y LDH, se plantea diagnóstico diferencial entre anemia hemolítica o microangiopatía trombótica (MAT), por lo que se solicita Coombs y extensión sanguínea. La primera de ellas se produce por anticuerpos que actúan sobre los hematíes, el Coombs es positivo y, en la extensión, se pueden observar esferocitos. En la MAT, se producen agregados de plaquetas que obstruyen los pequeños vasos, por lo que encontraríamos trombopenia, el Coombs es negativo y se observan esquistocitos por fragmentación.
+En nuestra paciente, el Coombs fue positivo y se hallaron esferocitos en la muestra sanguínea, por lo tanto, nos hallamos ante una anemia hemolítica autoinmune.
+Se inició tratamiento con corticoides a dosis de 1 mg/kg de peso.
+Diagnóstico
+Síndrome inmune inducido por oxaliplatino (SIIO).
+La paciente, un año después, recuperó completamente función renal y continúa con su tratamiento oncológico.

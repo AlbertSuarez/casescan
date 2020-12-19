@@ -1,0 +1,30 @@
+Anamnesis
+Mujer de 70 años de edad, nunca fumadora ni otros hábitos tóxicos, con antecedentes de hipertensión arterial controlada que en Junio 2009 acude a Urgencias por rectorragia profusa de 24 horas de evolución con episodios de menor cuantía desde hace un mes. Además refería tenesmo rectal y alteraciones en el ritmo intestinal. Al examen rectal se objetiva región anal perineal pigmentada.
+En Julio 2009 se le realiza un TC TAP objetivándose una tumoración rectal de 7 cm de longitud que se extiende hasta región rectosigmoidea infiltrando vagina y cuello uterino, adenopatías de hasta 1 cm en grasa perirrectal confirmadas por RM pélvica. Posteriormente se realiza una colonoscopia completa objetivándose masa vegetante de aspecto neoplásico que no estenosa la luz del recto, se toman biopsias siendo la anatomía patológica compatible con Melanoma.
+En Agosto 2009 es intervenida realizándose una amputación abdominoperineal siendo un pT4N3M0 recibiendo posteriormente tratamiento adyuvante con Interferón alfa-2b durante un año finalizándolo en Octubre 2010.
+La paciente continuó con revisiones normales, libre de enfermedad hasta Julio 2012 fecha en la que se objetivan metástasis hepáticas en TC de reevaluación confirmadas con RM hepática a nivel del segmento IV, VII, VIII de 1.8cm, 1cm y 2 cm respectivamente, (BRAF no mutado, C-Kit negativo) iniciando en Agosto 2012 tratamiento con Dacarbacina recibiendo 8 ciclos, objetivándose respuesta parcial (disminución del número y tamaño de las LOES hepáticas) en TC de reevaluación de Diciembre 2012. Ante dicha respuesta recibe 8 ciclos más de Dacarbacina con buena tolerancia hasta Septiembre 2013 cuando se constata en el TC de reevaluación progresión tumoral a nivel hepático y en el PET aumento de los focos de captación patológicos en hígado (SUV 12.4) por lo que se considera candidata a tratamiento con Ipilimumab recibiendo 4 ciclos, desde Diciembre 2013 hasta Marzo 2014 con buena tolerancia.
+En Mayo 2014 se realiza PET persistiendo focos de captación patológica a nivel hepático.
+
+Respuesta inmunitaria. La paciente solicita descanso terapeútico de 3 meses hasta Septiembre 2014 cuando tras realizar TC de reevaluación se objetiva franca progresión a nivel hepático con metástasis de hasta 5 cm y adenopatías retroperitoneales de hasta 1.5 cm por lo que comienza nueva línea de quimioterapia con Paclitaxel que mantiene hasta Enero 2015 con buena tolerancia.
+En Enero de 2015 se realiza un nuevo PET objetivándose progresión con aumento de los focos de captación patológicos en hígado, adenopatías retroperitoneales y óseas a nivel de la apófisis transversa izquierda de D1 y tercio superior de diáfisis femoral derecha con SUV de hasta 12.28 sugerente de metástasis, por lo que se decide cambiar de línea de tratamiento a Carboplatino del que recibe únicamente dos ciclos hasta Marzo 2015, suspendiéndose por trombopenia mantenida.
+En Abril 2015 acudió a Urgencias por artralgias generalizadas, astenia, parestesias en todos los dedos de ambas manos y debilidad en extremidad superior izquierda de 48 horas de evolución.
+
+Exploración física
+Regular estado general. ECOG 2. Bien hidratada. Palidez de piel y mucosas. Eupneica en reposo.
+Estable hemodinámicamente. Cabeza y cuello: sin lesiones. Auscultación cardiopulmonar: normal.
+Abdomen: portadora de colostomía, resto de la exploración anodina. Exploración Neurológica: Consciente y orientada. Pares craneales normales. No claudicación en Barré, debilidad 4+/5 en bíceps, tríceps, extensores de la muñeca, flexores de los dedos e interóseos del miembro superior izquierdo. 
+REM ++ simétrico en ambas extremidades superiores. Hipoestesia en todos los dedos de ambas manos con sensación de parestesias. Resto de la exploración neurológica sin alteraciones.
+
+Pruebas complementarias
+En la analítica extraída en Urgencias se objetiva anemia normocítica normocrómica (Hemoglobina: 10.4 gr/dl) con resto de las series normales. Se realiza una radiografía cérvico-dorso-lumbar en la que se aprecia disminución del cuerpo vertebral D9, resto sin alteraciones.
+En la Rx de Tórax no se objetivan imágenes de condensación parenquimatosa ni derrame pleural asociado. Dado los antecedentes de la paciente se decide solicitar una Resonancia Magnética de columna cervical-dorsal en la cual se aprecia masa paravertebral izquierda a la altura de D1 que se extiende a través del agujero de conjunción y que invade el canal medular sin condicionar desplazamiento o alteración de la señal de la médula.
+
+Diagnóstico
+Dado los hallazgos radiológicos descritos y la situación clínica de la paciente se establece como diagnóstico principal: Radiculopatía secundaria a masa paravertebral izquierda a nivel de C7-D1 en paciente con melanoma rectal con afectación metastásica hepática, ganglionar y ósea.
+
+Tratamiento
+Se decide ingreso hospitalario para tratamiento corticoideo y analgesia de primer escalón.
+Posteriormente, tras ser valorada por Radioterapia, recibe 10 sesiones a nivel de la masa paravertebral obteniendo una respuesta clínica y neurológica muy significativa, siendo dada de alta del servicio de Oncología en Mayo 2015.
+
+Evolución
+Dada la estabilidad clínica, se considera candidata a tratamiento con Nivolumab comenzando en Mayo 2015, tras ocho ciclos de tratamiento, se realiza reevaluación apreciándose importante respuesta parcial radiológica de todas las lesiones respecto a estudio previo. Se decide continuar con 8 ciclos más, en total ha recibido 16 ciclos con buena tolerancia y estabilización de la enfermedad hasta la actualidad.

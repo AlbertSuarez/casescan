@@ -1,0 +1,28 @@
+Anamnesis
+Mujer de 66 años de edad, sin hábitos tóxicos, con antecedentes personales de hipertensión arterial, insuficiencia renal estadio 3 secundaria a nefroangioesclerosis, hernia de hiato tipo 1, pancreatitis crónica y esofagitis crónica. Intervenida de colecistectomía y fractura maleolar. Tratamiento habitual: valsartán y lansoprazol.
+Acude a Urgencias en septiembre de 2013 por cuadro de dolor abdominal localizado en hemiabdomen superior acompañado de náuseas y vómitos de escasas horas de evolución. Analíticamente, se evidencia aumento de las cifras de amilasa y lipasa. Ante cuadro compatible con pancreatitis aguda, la paciente ingresa para tratamiento. Durante el ingreso, se realiza resonancia magnética (RM) abdominal apreciándose al menos cuatro lesiones hepáticas inespecíficas, por lo que se decide completar estudio.
+
+Exploración física
+ECOG 1. Consciente y orientada. Auscultación cardiopulmonar sin alteraciones. Abdomen sin masas ni megalias. Exploración del área otorrinolaringológica sin lesiones ni adenomegalias.
+
+Pruebas complementarias
+TC abdominopélvica: masa de gran tamaño (9,8 cm x 12 cm x 11 cm) de predominio quístico con tabiques y un nódulo sólido irregular en su vertiente superior de 2cm de diámetro axial mayor que parece depender de anejo izquierdo. Además, presenta otra masa en espacio presacro de morfología ovalada y bien delimitada de 5,9 cm x 5,4 cm x 8 cm de densidad heterogénea y predominio denso con calcificaciones groseras periféricas y áreas hipodensas irregulares sugerente de teratoma presacro. En hígado se identifican varias lesiones focales en segmento 4A (4 cm), segmento 4B (1 cm), segmento 5 (1 cm y 0,9 cm) compatibles con hemangiomas.
+Ante sospecha de cistoadenoma ovárico izquierdo y teratoma, se interviene quirúrgicamente realizándose histerectomía, doble anexectomía y resección de tumoración polilobulada en saco de Douglas.
+La anatomía patológica de la pieza quirúrgica informa de que se trata de un teratoma con predominio de tejido tiroideo con características de tumor folicular e implantes peritoneales compatibles con Struma ovárico maligno.
+Tras la intervención, la paciente es valorada en Oncología Médica, completándose el estudio con
+PET-TC que muestra una lesión hepática en segmento IV de 49 x 39 mm con SUVmax de 5,24 y dos lesiones nodulares en mesenterio menores de 1 cm con SUVmax de 2,4 y 3,8.
+Se realiza ecografía tiroidea, visualizando tiroides de tamaño dentro de la normalidad, y se determinan niveles de tiroglobulina con cifras de 8.138 ng/ml (normal entre 1,3 y 31,8 ng/ml) con TSH de 2,41 mUI/l (normal entre 0,4 y 4.,0 mlU/l).
+Ante los hallazgos de PET-TC, se decide realizar biopsia hepática que informa de tejido folicular tiroideo bien diferenciado, compatible con Struma ovárico metastatizado.
+
+Diagnóstico
+Teratoma maligno con diferenciación folicular (Struma ovarii) con afectación hepática y peritoneal.
+
+Tratamiento
+Previamente al rastreo y tratamiento con Iodo-131 (I-131), se realiza tiroidectomía total, apreciándose hiperplasia nodular bilateral con focos de fibrosis, hemorragia y calcificación.
+El rastreo con I-131 muestra restos cervicales abundantes, así como afectación ganglionar locorregional y en mediastino superior y una LOE hepática en lóbulo hepático derecho (LHD) captante. Se administra tratamiento ablativo con radioyodo (200 mCi I-131), apreciando en gammagrafía de distribución realizada posteriormente al proceso buena fijación en restos cervicales, ganglionares locorregionales y mediastínicas, y sobre varios focos en LHD.
+
+Evolución
+En TC de control realizada tres meses después de recibir tratamiento, se objetiva lesión focal hepática en segmento 4A y en segmento 4B, y segmento 5 de similar tamaño.
+Ante estos hallazgos se realiza nuevo rastreo con I-131, apreciando foco hipermetabólico a nivel hepático sin nuevos focos de hipercaptación, recibiendo nueva dosis de tratamiento con 20 0mCi de I-131 con correcta fijación en región hepática.
+Posteriormente, se realiza RM hepática que revela leve disminución de tamaño de las lesiones ocupantes de espacio localizadas en parénquima hepático. Ante estos hallazgos, se plantea rescate quirúrgico realizándose embolización con Glubran®/Lipiodol® de vena porta derecha y ramas de segmento 5 hepático. Tras esto, se lleva a cabo en abril de 2015 hepatectomía derecha ampliada (trisegmentectomía) y colecistectomía con resultados anatomopatológicos compatibles con metástasis de estruma ovárico maligno, y proliferación epitelial de origen folicular tiroidea sin detectar en RM hepática posquirúrgica ninguna enfermedad residual.
+Actualmente, la paciente se encuentra en seguimiento periódico en consultas externas de Oncología Médica y Endocrinología, sin evidencia de enfermedad tras haber transcurrido 44 meses desde el diagnóstico.

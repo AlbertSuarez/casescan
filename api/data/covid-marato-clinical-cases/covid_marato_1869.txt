@@ -1,0 +1,36 @@
+Anamnesis
+Varón de 35 años, sin alergias medicamentosas conocidas ni hábitos tóxicos, cuyo único antecedente a destacar es el de haber presentado un melanoma maligno en el muslo derecho pT3bN1aM0 (estadio IIIB) en agosto de 2011, tratado con cirugía, linfadenectomía inguinal derecha, e interferón alfa 2b adyuvante durante un año. Sigue controles sin evidencia de recidiva.
+El paciente acude a Urgencias el 9 de mayo de 2015, explicando pérdida de visión bilateral progresiva en las últimas 12 horas, visualizando en el momento de la visita, únicamente luces y sombras. Explica igualmente cefalea de instauración progresiva hemicraneal derecha con irradiación frontal bilateral de intensidad de 10/10 de dos días de evolución. Niega fiebre u otra sintomatología además de la descrita. Niega antecedentes de consumo de tóxicos o fármacos.
+
+Exploración física
+Se determinan constantes en triaje médico, destacando tensión arterial de 181/109 mm Hg y frecuencia cardiaca de 105 lpm.
+Durante la exploración neurológica destaca anopsia bilateral, sin otra alteración de pares craneales, sin signos meníngeos o cualquier otra focalidad. En el resto de exploración física destaca únicamente la presencia de linfedema de extremidad inferior derecha, ya conocido y secundario a linfadenectomía inguinal por melanoma.
+
+Pruebas complementarias
+Por presentar anopsia bilateral, se realiza primeramente una tomografía computarizada (TC) craneal que identifica hipodensidad occipital bilateral en ambas cisuras calcarinas.
+Analíticamente, se objetiva insuficiencia renal aguda con creatinina de 1,6mg/dl, filtrado glomerular de 56 ml/min/1,73m2. Destacaba igualmente la presencia de LDH de 578 UI/l. En el fondo de ojo se observa edema de papila bilateral.
+Se realiza resonancia magnética (RMN) cerebral que informa de hiperseñal FLAIR/T2 cortico-yuxtacortical a nivel occipital bilateral, sin captación de contraste ni brillo en difusión.
+Por insuficiencia renal aguda, se realiza ecografía renal de Urgencias en la que se describen adenopatías iliacas derechas, con moderada ectasia pielocalicial derecha sin signos litiásicos, secundaria a la afectación ganglionar descrita.
+El paciente ingresa en Oncología y se solicita estudio por TC toracoabdominal, en la que se observan grandes adenopatías, de las cuales, las iliacas comunes obstruyen el uréter derecho provocando una ureterohidronefrosis, con signos de retraso en el nefrograma renal derecho. A nivel torácico, se identifica derrame pleural bilateral con probable edema pulmonar asociado y dudosas imágenes nodulares en pulmón derecho, subcentimétricas, y signos de hipertensión pulmonar.
+El 11/5/2015 se realiza biopsia de adenopatía inguinal-iliaca derecha, que resulta positiva para melanoma maligno, BRAFV600E mutado.
+
+Diagnóstico
+Con los hallazgos descritos, la orientación diagnóstica desde Urgencias es la de un síndrome de encefalopatía posterior reversible, de causa hipertensiva. Presenta igualmente signos de insuficiencia cardíaca en contexto de dicha hipertensión, así como insuficiencia renal aguda leve.
+Dichos diagnósticos derivan de la ureterohidronefrosis derecha, secundaria a una recidiva ganglionar del melanoma cutáneo, BRAFV600E mutado, a los cuatro años de la cirugía.
+
+Tratamiento
+Desde Urgencias se trató la emergencia hipertensiva, que requirió el uso de bomba de labetalol inicialmente. Posteriormente, en planta el paciente requirió uso de hasta cinco fármacos antihipertensivos para control tensional (valsartán 320 mg/24 h, doxazosina 4 mg/12 h, nifedipino retard 20 mg/12 h, hidroclorotiazida 25 mg/24 h, bisoprolol 5 mg/24 h).
+Respecto a la ureterohidronefrosis secundaria a afectación adenopática, el 18/5 se procede a la colocación de un catéter de doble J, tipo pigtail, en uréter derecho.
+A las 24 horas de colocado el catéter, el paciente dejó de requerir uso de cualquier fármaco antihipertensivo y corrigió así mismo la alteración renal que padecía anteriormente.
+El 18/5 tras conocer diagnóstico histológico y estado mutacional, el paciente inicia tratamiento con doble inhibición BRAK/MEK dentro de programa de uso compasivo, con vemurafenib a dosis de 960 mg cada 12 horas diariamente y cobimetinib 60 mg al día durante 21 días en ciclos de 28 días. Como efectos secundarios, presentó reacción acneiforme y fotosensibilidad cutánea grado 1.
+
+Evolución
+Respecto al control tensional, que durante la planta requirió del uso de hasta cinco fármacos, cedió tras la colocación de catéter pigtail.
+Tras inicio de tratamiento con doble inhibición con vemurafenib y cobimetinib, el paciente siguió controles por Oncología, presentando en las revaloraciones a los dos, cuatro y seis meses, respuesta parcial (RP) por criterios RECIST 1.1. En revaloración de enfermedad a los 9 meses de iniciado tratamiento, el paciente presenta RPl mantenida, visualizándose en la TC únicamente una adenopatía iliaca externa derecha y resolución completa de la afectación retroperitoneal.
+El 17/2/2016 se presenta el caso en Comité Multidisciplinar de Melanoma y se decide realizar PET-TC, que confirma actividad discretamente metabólica de adenopatía ilíaca externa derecha, en ausencia de enfermedad metabólicamente activa en el resto de territorio explorado.
+El 10/3/2016 se realiza resección de adenopatía, con resultado de Anatomía Patológica compatible con cambios reactivos y signos de esclerosis, sin identificar infiltración por melanoma, motivo por el cual se suspende el tratamiento con inhibidores de BRAF/MEK.
+A los dos meses no presenta evidencia de recidiva.
+Un mes después de última valoración el paciente acude a Urgencias por cefalea y disartria. Se realiza TC craneal de urgencias que identifica recaída cerebral en forma de 15 lesiones expansivas intraparenquimatosas supra e infratentoriales. La TC toracoabdominal de revaloración de enfermedad objetiva igualmente progresión adenopática ilíaca. Se reinicia vemurafenib y cobimetinib, con recuperación completa de lenguaje y remisión de la cefalea a las 48 horas de haber iniciado tratamiento. La TC toracoabdominal y RMN cerebral muestran RP tanto cerebral como ganglionar tras un ciclo de tratamiento.
+A los 3 meses, mantiene respuesta de lesiones cerebrales, pero en la RMN presenta captación leptomeníngea sugestiva de carcinomatosis. Se realizan dos punciones lumbares, con obtención de líquido cefalorraquídeo normal y con citología negativa en ambas ocasiones. Se decide iniciar nivolumab a dosis de 3 mg/kg cada 15 días.
+A los 2 meses de iniciado nivolumab, el 17/11/2016 el paciente acude por reaparición de disartria y cefalea. Se realiza RMN cerebral que objetiva aumento de tamaño del sistema ventricular, aparición de nuevas captaciones leptomeníngeas y persistencia sin cambios de las lesiones preexistentes. Se inicia pauta corticoide con mejoría clínica y se decide continuar tratamiento con inmunoterapia.
+Un mes después, el paciente vuelve a acudir por aparición de afasia y debilidad de extremidades inferiores. Se evidencia progresión leptomeníngea en RMN. Se suspende tratamiento y se decide priorizar tratamiento sintomático, siendo exitus el 13/12/2016.

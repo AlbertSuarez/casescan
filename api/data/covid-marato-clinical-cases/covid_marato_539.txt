@@ -1,0 +1,28 @@
+Anamnesis
+Se trata de un varón de 63 años, sin alergias o antecedentes médico-quirúrgicos previos.
+Diagnóstico el 08/03/13 de adenocarcinoma unión gastroesofágica uT3uN2 cM1 (1 lesión costal en tomografía por emisión de positrones [PET-TC], decidiéndose en Comité de Tumores iniciar quimioradioterapia, cisplatino 75 mg/m2 día 1 + 5-fluorouracilo infusión continua 750 mg/m2 días 1-5, por reservorio venoso central. Como complicaciones del tratamiento presentó mucositis de grado 2 y candidiasis orofaríngea tratada con nistatina. Segundo y último ciclo el 12/04/13. Pendiente de radioterapia sobre lesión costal y reevaluación para rescate quirúrgico.
+Acude a Urgencias por fiebre > de 38,5, sin predominio horario y escalofríos de 5 días, deposiciones blandas sin moco o sangre desde hace 4 días, pautándose ciprofloxacino oral ambulatorio, pero ante persistencia de fiebre, vuelve a Urgencias e ingresa al objetivarse, además, neutropenia de grado 3 (800 neutrófilos).
+
+Examen físico
+TA 114/67, T 39,5, FC 97, SO 97 %. Regular estado general. Hidratado. Tiritonas. ORL: no edema o supuración o muguet. Sin gingivitis. No presenta signos de infección de reservorio venoso. Cardiopulmonar: rítmico, no soplos.
+Murmullo vesicular conservado, no sobreañadidos. Abdomen: ruidos hidroaéreos presentes, blando depresible, no doloroso. No se palpan masas o megalias. No presenta peritonismo. Pulsos palpables. Llenado capilar < 3 seg. Glasgow 15, Orientado. No hay signos de meningismo. Pares craneales conservados. No presenta focalidad sensitivo-motora.
+Marcha normal.
+
+Pruebas complementarias
+Radiografía de tórax y abdomen: sin hallazgos.
+Hb 10,8 mg/dl neutrófilos 800. Frotis de sangre sin alteraciones morfológicas. Bioquímica normal. PCR 20,4. Sedimento de orina y cultivo negativo (-). Hemocultivos periféricos y vía central (-). Coprocultivo (aerobio, parasitosy clostridium) x 3 (-). Punta de catéter central (-).
+Galactomanano, IFN Gamma, BAAR, serologías para citomegalovirus, Brucella, Mycoplasma, Ricketssia, Coxiella (-).
+TC toráx/abdomen/pelvis: foco de infeccion (-).
+Líquido cefalorraquídeo (LCR): (-).
+Aspirado de médula: normocelular. Biopsia: granulomatosis en donut (fiebre Q) confirmándose por PCR.
+
+Diagnóstico
+Adenocarcinoma unión gastroesofágica.
+Neutropenia febril de origen desconocido.
+Índice de la Multinational Association For Supportive Care in Cancer (MASCC) de 18.
+
+Tratamiento
+De forma secuencial: piperacilina/tazobacta; meropenem y amikacina; meropenem, linezolid y fluconazol; sellado con vancomicina; tigeciclina, metronidazol andilafungina, y paracetamol, metamizol y naproxeno.
+
+Evolución
+Ante persistencia de fiebre a pesar de antibioterapia y del estudio sistemático negativo, se realiza sellado de catéter con vancomicina y dada la no respuesta se optó por retirarlo. Al recidivar la fiebre tras 48 horas, se pauta naproxeno e interconsulta a infecciosas completándose estudio. Ante la persistencia de la misma y la negatividad de pruebas se retira antibioterapia y se solicita biopsia de médula ósea.

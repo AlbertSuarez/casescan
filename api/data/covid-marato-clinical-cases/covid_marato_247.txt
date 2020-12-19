@@ -1,0 +1,26 @@
+Anamnesis
+Los angiosarcomas cutáneos son neoplasias raras que fundamentalmente se diagnostican en cuero cabelludo y región facial en personas con avanzada edad. También pueden desarrollarse en áreas de linfedema crónico secundario a mastectomía radical, denominándose en este caso "Síndrome de Stewart-Treves", y en regiones que han sido irradiadas como parte de tratamientos complementarios.
+Presentamos el caso de una paciente de 72 años en la actualidad, natural de Elche, diagnosticada en 2012 de un adenocarcinoma de endocérvix pT2aN0M0. Como tratamiento, se realizó una histerectomía radical con linfadenectomía pélvica tipo Werthein-Meigs en abril de 2012, y posteriormente recibió tratamiento con radioterapia (sobre lecho + margen, cadenas ganglionares regionales y tercio superior de vagina) y quimioterapia (cisplatino 40 mg/m2/semanal) concomitantes durante 6 semanas, seguido de braquiterapia endovaginal que finalizó en agosto de 2012. Como otros antecedentes personales de interés, presentaba una insuficiencia venosa crónica en miembros inferiores y una linfedema en miembro inferior izquierdo residual tras cirugía.
+Continúa seguimientos periódicos en consultas externas, con controles analíticos e iconográficos que son repetidamente normales, hasta noviembre de 2016, cuando refiere notar en fosa iliaca izquierda, en la cicatriz donde se insertó en 2012 un drenaje abdominal posquirúrgico, una erupción violácea que la paciente relacionaba con una posible picadura de insecto.
+
+Exploración física
+IK 90. Buen estado general, consciente y orientada en tiempo, espacio y persona. Normonutrida y normocoloreada. Eupneica en reposo sin oxígeno suplementario.
+AC: rítmica, sin soplos.
+AP: murmullo vesicular conservado. No se auscultan ruidos sobreañadidos.
+Abdomen: se observa en fosa iliaca izquierda una placa indurada eritematoviolácea de aparición progresiva, con componente vascular y que no blanquea a la digitopresión. No tiene orificios de entrada. No hay dolor a la palpación profunda. No se palpan masas o megalias.
+Miembros inferiores: linfedema crónica en miembro inferior izquierdo y signos de insuficiencia venosa crónica.
+Neurológico: exploración básica dentro de la normalidad.
+
+Pruebas complementarias
+Dadas las características de la lesión cutánea, se deriva de forma preferente a Dermatología, quienes realizan biopsia de la lesión. Posteriormente, se solicita un estudio de extensión con TC de tórax, abdomen y pelvis.
+
+Diagnóstico
+El diagnóstico patológico es finalmente compatible con angiosarcoma cutáneo, CD 34 y CD 31 +, Ki 67 > 20 %.
+En el estudio de extensión, no se identifican nódulos o masas ni adenopatías patológicas en las regiones inguinales, ni tampoco hay evidencia de afectación ganglionar o metastásica a distancia.
+
+Tratamiento
+Fue derivada a la Unidad de Tumores Musculoesqueléticos de referencia en diciembre de 2016, realizándose el 21/03/2017 una exéresis ampliada de la tumoración en zona inguinal izquierda. La anatomía patológica informa de un angiosarcoma moderadamente diferenciado, con márgenes quirúrgicos libres de enfermedad.
+No obstante, cuando la paciente acude a consultas externas de Oncología Médica tras su intervención, se constata nueva aparición de lesiones cutáneas de características similares en fosa iliaca derecha y muslo derecho. Se realiza biopsia que confirma de nuevo el diagnóstico de angiosarcoma, y se solicita un estudio de extensión que no muestra diseminación locorregional o enfermedad a distancia. Se propone tratamiento con radioterapia y quimioterapia concomitantes. El 23/05/2017 inicia radioterapia con paclitaxel semanal (80 mg/m2).
+
+Evolución
+Hasta el momento, la paciente lleva 4 semanas de tratamiento con muy buena tolerancia y sin toxicidad relevante. Las lesiones cutáneas se encuentran en remisión, no siendo visibles en la actualidad.

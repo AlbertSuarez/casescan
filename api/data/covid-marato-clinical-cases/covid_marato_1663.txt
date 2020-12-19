@@ -1,0 +1,54 @@
+Anamnesis
+Paciente varón de 31 años sin antecedentes médico-quirúrgicos de interés ni hábitos tóxicos, que en julio de 2009 comienza con dolor en la región lumbar no controlado a pesar de diversos tratamientos. No disminución de fuerza ni alteración de la sensibilidad en los cuatro miembros. No incontinencia esfinteriana. Síndrome general marcado con astenia y anorexia y pérdida de 8-10 kg de peso en los últimos 2-3 meses.
+
+Exploración física
+Consciente, orientado, afebril. IK 90%. Cuello: normal. Tórax: ACP: normal. Abdomen: blando, depresible, no doloroso a la palpación profunda. Ruidos intestinales presentes. No masas ni megalias palpables. Puñopercusión renal bilateral negativa. Puñopercusión sobre apófisis espinosas indolora.
+
+Exploración testicular: testes en bolsa escrotal, de tamaño y consistencia normal. Extremidades: normales. No signos meníngeos. No focalidad neurológica. No adenopatías palpables en territorios accesibles.
+
+Pruebas complementarias
+Estudiado de forma ambulatoria por Urología se realiza:
+» Analítica. Hemograma: bicitopenia (neutropenia y trombopenia). Bioquímica normal (incluida LDH). Marcadores: AFP y BHCG normal. CA 19.9: 116.3 y Ca 125: 44.
+» Radiografía de tórax: sin hallazgos.
+» Ecografía abdominal pélvica (10/9/2009): masa de 11 cm en el polo inferior del riñón izquierdo.
+» Tomografía computarizada (TC) abdominopélvica (18/9/2009): gran masa compleja en el polo inferior del riñón izquierdo de 17 x 11 cm. Lesiones hipodensas hepáticas, a descartar metástasis (la mayor de 2,8 cm en cúpula).
+» Biopsia con aguja gruesa de masa retroperitoneal bajo control ecográfico (25/9/2009): tumor maligno de células pequeñas con alto índice de proliferación y diferenciación neuroendocrina. La positividad para CD-99 obliga a descartar un tumor neuroectodérmico primitivo (PNET) extraesquelético. Se envían muestras para estudio molecular en otro centro, con resultado final no valorable por problemas en la técnica.
+
+Se remite al paciente a Oncología Médica y se completan estudios:
+
+» Serologías: Treponema pallidum negativo. Virus hepatitis B, anticuerpo core total negativo, anticuerpo superficie más 1.000 mU/ml. Hepatitis C negativo. VIH negativo.
+» TC toracoabdominopélvica (2/10/2009): masa retroperitoneal compleja, sólido quístico de 15 x 17 x 8,6 cm cuyo origen pudiera ser el polo inferior del riñón izquierdo o retroperitoneal. Tres lesiones ocupantes de espacio hepáticas, una quística sin cambios. Lesión quística en el polo superior del bazo de 1,6 cm. Hidronefrosis izquierda por compresión de la masa sobre el uréter proximal. Afectación ósea generalizada con predominio de lesiones blásticas compatibles con metástasis óseas (cuerpos vertebrales y pelvis).
+» TC cerebral (5/11/2009): normal.
+» Gammagrafía ósea (15/10/2009): aumento de captación focal en la región supraorbitaria izquierda, isquion derecho (derecho) y más dudosos en el cuello femoral derecho y pala ilíaca derecha compatibles con metástasis óseas
+El 27/10/2009 se le realiza aspirado de médula ósea a nivel del manubrio esternal y biopsia ósea de la cresta ilíaca posterior derecha con resultado de anatomía patológica (AP): Médula ósea (aspirado): médula ósea hipercelular con aumento de eritropoyesis y presencia citología atípica. Biopsia médula ósea: infiltración por un tumor maligno compatible con PNET.
+
+Enviado el material para segunda opinión AP en centro de referencia, de nuevo no es posible la confirmación molecular de resultados (no valorable por error en la técnica), aunque se revisa la muestra y se confirma el diagnóstico de PNET.
+
+Diagnóstico
+Tumor indiferenciado de célula pequeña probable PNET extraesquelético estadio IV (metástasis óseas y dudosas hepáticas, infiltración de médula ósea, masa retroperitoneal).
+
+Tratamiento
+El paciente, previa firma del consentimiento informado, inicia tratamiento quimoterápico (QT) de inducción según esquema VAC/IE alternante (vincristina 2 mg/m2, adriamicina 75 mg/m2, ciclofosfamida 1.200 mg/m2 alternando con ifosfamida 1.800 mg/m2 y etopósido 100 mg/m2). Recibe el primer ciclo el 06/11/09 con buena tolerancia y posteriormente otros dos ciclos completos hasta el 12/03/2010, sin precisar reducciones de dosis o retrasos por toxicidad.
+
+Presenta los siguientes estudios de evaluación tras tres ciclos:
+» TC cráneo-toracoabdominopélvico (15/3/2010): cráneo y tórax sin hallazgos. Masa retroperitoneal izquierda de 14,5 x 7,8 heterogénea sin cambios significativos respecto a la TC previa que provoca dilatación retrógrada del sistema excretor renal izquierdo. Lesión en el segmento 7 de 2 cm sin cambios respecto a la TC previa. Afectación metastásica blástica difusa del esqueleto axial estable.
+
+Gammagrafía ósea (25/3/2010): mejoría gammagráfica muy importante respecto al estudio anterior de octubre de 2009. Persistencia de captación en la región supraorbitaria izquierda y pala ilíaca izquierda. El resto de los hallazgos han disminuido en intensidad e incluso han desaparecido y no se observan nuevos focos de hipercaptación.
+» Biopsia de médula ósea (23/3/2010): cilindro de médula ósea, cresta ilíaca posterior izquierda, sin evidencia de malignidad.
+» Segunda biopsia de médula ósea confirmatoria (9/4/2010): médula ósea sin hallazgos significativos. No se observa citología blástica. No se observa citología no hematopoyética.
+
+Valoración del caso: PNET retroperitoneal estadio IV con respuesta parcial mayor del 50%, decidiéndose completar tratamiento con tres ciclos más de QT.
+
+El paciente recibe 4º, 5º y 6º ciclos de esquema VAC/IE sin toxicidades relevantes (el sexto y último ciclo se administra con reducción de un 20% por neutropenia febril grado 4 tras segunda parte IE de quinto ciclo). Se mantiene en todo momento la intensidad de dosis. Fin de tratamiento el 2 de agosto de 2010.
+
+Evolución
+En los estudios de reevaluación a fin de tratamiento presenta:
+» TC toracoabdominopélvica (2/9/2010): masa retroperitoneal con calcificaciones de 14 x 6,7 cm, con amplia zona de contacto con la aorta infrarrenal. Metástasis blásticas múltiples estables. Sin cambios respecto al estudio de marzo de 2010.
+» Gammagrafía ósea (30/8/2010): hipercaptación supraorbitaria izquierda de dudoso significado actualmente y normalización del resto de captaciones.
+» Biopsia de médula ósea (11/11/2010): sin evidencia de malignidad.
+» PET (17/1/2011): captación patológica abdominal que obliga a considerar afectación metabólicamente agresiva asociada a áreas de necrosis en relación con proceso neoproliferativo ya conocido (SUV máximo 4). No se observan captaciones patológicas a nivel óseo.
+
+Valoración: PNET extraóseo estadio IV en respuesta parcial frente a respuesta completa con masa retroperitoneal residual.
+Se remite el caso para valorar la resección de masa residual en un centro externo con amplia experiencia en cirugía de localización retroperitoneal. El 11 de abril de 2011 se practica exéresis completa de la masa, que obliga a nefrectomía izquierda sin complicaciones. Informe histológico definitivo de teratoma maduro de 13,5 cm, sin infiltracion renal ni ureteral.
+
+El paciente ha continuado controles en Oncología Médica de nuestro centro con respuesta mantenida y encontrándose asintomático transcurridos 4 años del rescate quirúrgico y prácticamente 5 desde el fin del tratamiento QT. La última TC del 13/4/2015 fue informada como adenopatía en la bifurcación ilíaca de 13 mm de eje menor estable y lesiones óseas en cuerpos vertebrales y pelvis estables.

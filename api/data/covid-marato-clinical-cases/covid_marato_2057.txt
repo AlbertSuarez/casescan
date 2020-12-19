@@ -1,0 +1,23 @@
+Anamnesis
+Paciente de 63 años al diagnóstico con antecedentes personales de rinitis alérgica, sin hábitos tóxicos y sin alergias a medicamentos.
+Antecedentes familiares de una hermana intervenida de cáncer de mama a los 45 años.
+Historia actual: paciente que se realiza una mamografía de screening que describe un nódulo irregular de 1 cm en cuadrante ínfero-externo de mama derecha. Se realiza ecografía que describe lesión sólida Breast Imaging Reporting And Data System (BIRADS) 4. Se realiza biopsia que informa de carcinoma ductal infiltrante RE+++ 90 %, RP-, Ki67+++ 10 %, citoqueratina 19 +++ 100 %.
+
+Examen físico
+ECOG: 0. Mamas: no se palpan nódulos. Axilas sin hallazgos.
+Auscultación: normal. Abdomen: normal. No se palpan adenopatías periféricas.
+
+Pruebas complementarias
+Resonancia magnética (RM) mamaria: nódulo de 11 x 9 x 9 mm, BIIRADS 6, mama contralateral negativa. Axilas y cadenas mamarias internas sin alteraciones. El estudio practicado incluye parcialmente tórax y abdomen donde se intuye una masa pulmonar y lesiones hepáticas. 
+TC de tórax y abdomen: masa pulmonar en segmento posterior del lóbulo superior izquierdo de 5,5 cm de diámetro. Asocia engrosamiento pleural con realce nodular sugestivo de afectación pleural localizada. Adenopatías hiliares ipsilaterales y en ventana aortopulmonar. Múltiples imágenes hepáticas sugerentes de quistes simples.
+Fibrobroncoscopia: toma de cepillado y biopsia. Resultado histológico adenocarcinoma bien diferenciado, CK7+, CK20-, TTF1+, RE-, RP-. Mamoglobulina negativo, sugerente de origen pulmonar.
+Tomografía por emisión de positrones-tomografía computarizada (PET-TC): sin otra evidencia de enfermedad a distancia.
+
+Diagnóstico
+Carcinoma mamario cT1N0M0 y adenocarcinoma pulmonar cT3N2M1.
+
+Tratamiento
+Se decide que, a pesar de la afectación pleural, se podría intentar un abordaje quirúrgico sobre el tumor pulmonar (lobectomía extendida a pared torácica), tras un tratamiento neoadyuvante. Se decide intervenir el tumor mamario, mediante tumorectomía y biopsia del ganglio centinela con resultado de carcinoma ductal infiltrante grado 2 de 12 mm de diámetro máximo RE+, RP-, Ki67 12 %, HER2-. Se inicia tratamiento adyuvante con letrozol 2,5 mg/día y radioterapia.
+
+Evolución
+Tras esta cirugía se plantea tratamiento neoadyuvante del cáncer de pulmón con esquema carboplatino/paclitaxel. Tras dos ciclos, la paciente acude a consultas con disnea de moderados esfuerzos. Se realiza radiografía de tórax que evidencia un derrame pleural. Se realiza toracocentesis que es compatible con exudado. Ante esto se cataloga como progresión y se plantea tratamiento sistémico. Se realiza determinación de mutaciones del gen receptor del factor de crecimiento epidérmico (EGFR) con resultado positivo (mutación L858R), por lo que inicia una segunda línea de tratamiento con gefitinib.

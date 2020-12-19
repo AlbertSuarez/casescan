@@ -1,0 +1,28 @@
+Anamnesis
+Varón de 61 años de edad, fumador activo de 20 cigarrillos/día (acumulado 60 paquetes/año), sin alergias medicamentosas con antecedentes personales de hernia discal lumbar y brucelosis en su juventud.
+Es hospitalizado para estudio por presentar un cuadro clínico de dolor torácico atípico, palpitaciones y cansancio a moderados esfuerzos de unas 48 horas de evolución.
+
+Exploración física
+El paciente se encontraba consciente, orientado, afebril, eupneico en reposo, normohidratado y normocoloreado. ECOG 0 e índice de Karnofsky de 100%. Auscultación cardiorrespiratoria: con tonos rítmicos taquicárdicos a 144 lpm, sin soplos ni roces.
+Murmullo vesicular conservado en todos los campos pulmonares, sin ruidos patológicos. Cabeza y cuello: normal; no se palparon adenopatías periféricas superficiales ni bocio. Abdomen: blando y depresible sin visceromegalias ni dolor a la palpación profunda. Ruidos peristálticos normales.Extremidades: sin edemas ni signos de trombosis venosa.
+
+Pruebas complementarias
+• En el hemograma y estudio de coagulación al ingreso no se encontraron alteraciones significativas.
+• La bioquímica mostró elevación de gamma glutamil transpeptidasa de 181 UI/L con marcadores tumorales normales (se incluyeron antígeno carcinoembrionario y antígeno carbohidrato CA-125).
+• Presentó valores en la gasometría arterial dentro de los límites normales.
+• La radiografía de tórax mostraba un aumento de la silueta cardíaca.
+• El electrocardiograma presentó una taquicardia supraventricular a 149 lpm sin alteraciones en la repolarización ventricular.
+• El estudio ecocardiográfico transesofágico reveló cavidades y válvulas dentro de la normalidad con una fracción de eyección del ventrículo izquierdo normal y una imagen de masa de 34 mm x 22 mm que ocupa la pared lateral y superior de la aurícula derecha y se extiende hasta la entrada de la vena cava superior, con afectación del septo por material de similares características ecocardiográficas. Además dilatación de vena cava inferior y derrame pericárdico severo.
+• En la TC de tórax y abdomen no se detectó enfermedad tumoral extracardíaca. Tras el estudio se deriva a la Unidad de Cirugía Cardiovascular de referencia para tratamiento quirúrgico con toma de muestras.
+
+Diagnóstico
+Masa intracardíaca de 34 mm x 22 mm dependiente de aurícula derecha.
+
+Tratamiento y evolución
+El paciente es intervenido quirúrgicamente 15 días después del diagnóstico mediante esternotomía y pericardiotomía con resección de la masa en aurícula derecha.
+La anatomía patológica de la pieza quirúrgica describe un angiosarcoma de alto grado, con inmunohistoquímica positiva para S-100, factor VIII, CD31, CD34 y actina.
+Tras un postoperatorio sin incidencias, en la primera revisión, a los tres meses de la cirugía, la tomografía axial torácica y abdominal detecta la presencia de múltiples nódulos pulmonares bilaterales milimétricos sugerentes de afectación metastásica, además de dos imágenes hepáticas en segmento VII y VIII. Clínicamente, el paciente se había deteriorado, mostrando aumento de su disnea de esfuerzo en los últimos días. En este momento, se valora iniciar tratamiento quimioterápico intravenoso que es rechazado por el paciente, optando por intensificar el tratamiento médico y permanecer en revisiones periódicas, reservando la quimioterapia para el momento de progresión clara de enfermedad.
+Pasados cinco meses del diagnóstico, en una nueva revisión, se evidencia la progresión de la enfermedad por crecimiento de la lesión auricular (diámetro máximo de 25,4 mm), nódulos pulmonares bilaterales subcentimétricos y de las metástasis hepáticas (la mayor, lesión en segmento VIII, de 38,3 mm).
+Se vuelve a plantear la administración de tratamiento quimioterápico intravenoso, con un esquema basado con docetaxel o con antraciclinas. El paciente mantiene el rechazo a dicha terapia, y únicamente aceptaría un tratamiento ambulatorio y por vía oral. Después de presentar el caso en sesión clínica, iniciamos la administración de un inhibidor de tirosincinasa, sorafenib 200 mg, por vía oral cada 12 horas durante 21 días con siete días de descanso, emplazándolo en cuatro semanas para valorar las posibles toxicidades.
+En la siguiente visita, el paciente presentaba eritrodisestesia palmoplantar grado 1, sin otras alteraciones clínicas, se pauta tratamiento tópico y se solicita una nueva tomografía en cuatro semanas, para evaluar la respuesta al tratamiento, la cual demostró respuesta parcial a nivel hepático (lesión mayor, en segmento VIII, con 28 mm de diámetro máximo), estabilización de enfermedad a nivel cardíaco (la lesión auricular pasa a 22,7 mm) según criterios RECIST y disminución de tamaño de las lesiones pulmonares bilaterales subcentimétricas.
+Tras diez meses del diagnóstico del angiosarcoma auricular estadio IV, y después de 12 semanas del inicio del tratamiento con sorafenib, el paciente se encuentra en respuesta parcial y se mantiene clínicamente estable con una toxicidad dérmica asumible y controlada.

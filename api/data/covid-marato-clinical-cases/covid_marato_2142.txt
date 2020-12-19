@@ -1,0 +1,22 @@
+Anamnesis
+Paciente de 38 años, sin antecedentes de interés, que consulta por dolor abdominal epigástrico irradiado al hipocondrio derecho de un mes y medio de evolución sin otra sintomatología acompañante.
+
+Examen físico
+A su llegada al Servicio de Urgencias, presenta cifras tensionales de 200/140 con frecuencia cardíaca de 100 latidos por minuto. A la exploración, destaca un abdomen distendido, doloroso a la palpación del epigastrio y del hipocondrio derecho.
+
+Pruebas complementarias
+Se realiza una ecografía abdominal que muestra en el polo superior del riñón derecho una masa de 11 cm heterogénea, sólida y con líquido en su interior. Posteriormente, se realiza una TC abdominal que confirma la presencia de una masa suprarrenal derecha de 112 x 95 x 90 cm compatible con feocromocitoma que desplaza la vena cava inferior, el riñón y la vena renal. Con sospecha de feocromocitoma, se realiza análisis de orina que muestra elevación de las catecolaminas en orina 30 veces el límite de la normalidad.
+Durante el ingreso el paciente presenta debilidad muscular al caminar, efectuándose RM que revela compresión medular a nivel de D7 a D9 y otras lesiones compatibles con metástasis a nivel de D4, L1, L3, L4 y L5.
+Se realiza estudio de imagen con metaiodobenzylguanidina que evidencia tejido cromafín funcionante en masa adrenal derecha, columna dorsal, lumbar, cadera derecha y, posiblemente, ilíaco izquierdo.
+
+Diagnóstico
+El diagnóstico, establecido clínicamente y bioquímicamente es de feocromocitoma maligno con metástasis óseas que ocasionan compresión medular de debut.
+
+Tratamiento
+Se realiza radioterapia urgente descompresiva (30 Gy en 10 sesiones) y se inicia tratamiento con alfa y betabloqueantes para control de la tensión arterial. Posteriormente, se realiza cirugía de debulking mediante suprarrenalectomía unilateral y nefrectomía derecha en bloque.
+La anatomía patológica confirma un feocromocitoma de 11 x 9 cm con invasión de la cápsula renal.
+Tras la cirugía, el paciente es tratado con metaiodobenzylguanidina (200 mCi en dosis única).
+
+Evolución
+Tres meses tras el diagnóstico y tratamiento con radioterapia, se realiza una nueva resonancia magnética que muestra mejoría de las vertebras irradiadas, pero también la aparición de nuevas lesiones óseas. El paciente era capaz de deambular con andador y la fuerza en las extremidades inferiores no había empeorado.
+Ingresó en el hospital 3 meses más tarde por mal control del dolor. Se realizó una TC en la que se objetivó progresión de la enfermedad con metástasis hepáticas, no pudiendo recibir tratamiento con quimioterapia por presentar deterioro clínico progresivo. El paciente continuó con mala evolución, siendo éxitus durante el ingreso.

@@ -1,0 +1,36 @@
+Anamnesis
+Antecedentes familiares no destacables.
+
+Antecedentes personales: sin alergias medicamentosas conocidas. No refiere hábitos tóxicos.
+Dislipemia. Enfermedad renal crónica estadio V secundaria a poliquistosis renal tipo juvenil. Inició tratamiento sustitutivo renal en 1991. Primer transplante renal de donante vivo emparentado (madre) el 16/4/1991, e inicio de diálisis por nefropatía crónica del injerto en marzo de 2009. Shock séptico de origen biliar por BGN que requirió ingreso en la UCI en septiembre de 2010. Tras pruebas de imagen es diagnosticado de enfermedad de Caroli y pancreatitis crónica, presentando el paciente colangitis de repetición, por lo que fue necesaria la colocación de una prótesis plástica biliar. Además, se le diagnostica de hepatopatía crónica con HT portal con ascitis, esplenomegalia y varices esofágicas grado I. Trasplante hepatorrenal el 2/9/2011, que ha precisado inmunosupresión cuádruple con timoglobulina + prednisona + micofenolato + tacrolimus. Malnutrición calórico-proteica. Intervenido de urgencia en mayo de 2012 por hernia incarcerada. Actualmente mantiene la función renal basal con creatinina en torno a 2,1-2,5 mg/dl (ClCr 35-45 ml/min). Buena función hepática, aunque presenta ascitis recurrente que ha precisado paracenteisis evacuadoras de repetición.
+
+Historia oncológica: en junio de 2013 presenta una lesión dolorosa en el hombro derecho y, tras exéresis el 5/9/2013, es diagnosticado por AP de carcinoma de células escamosas bien diferenciado infiltrante, que precisa una segunda intervención quirúrgica el 12/12/2013 para ampliación de bordes.
+
+En el postoperatorio nota un nódulo axilar homolateral, por lo que se realizan una ecografía y una TC, que sugieren el probable origen metastásico del mismo; además, se realiza una biopsia que no es concluyente. Tras la presentación del caso en el Comité Multidisciplinar, se decide vaciamiento ganglionar axilar. Finalmente, el diagnóstico AP es metástasis de carcinoma de células escamosas, con imágenes de invasión vascular tumoral y extensión a partes blandas adyacentes, en 14/17 ganglios linfáticos aislados.
+
+Motivo de consulta: derivado a consultas de nuestro centro para valoración de tratamiento específico.
+
+Exploración física
+ECOG 0. Aceptable estado general. Peso 60 kg, talla 170 cm. Múltiples lesiones verrucosas por toda la superficie corporal, especialmente la espalda. Lesión en el tórax más dolorosa con pústula por roce.
+Área con edema en la cicatriz de la linfadenectomía en la axila derecha, con un nódulo pequeño en la zona central. Auscultación cardiopulmonar sin hallazgos. Abdomen levemente distendido, mate a la percusión. Miembros sin hallazgos.
+
+Pruebas complementarias
+» Analítica: a destacar Cr 2,1 mg/dl. Hemograma: Hb 12,6 g/dl, leucocitos y neutrófilos en rango, plaquetas 110.000.
+» TC de tórax con contraste IV (28/4/2014): estudio de extensión de carcinoma de células escamosas. Presenta varios ganglios de aspecto maligno en la axila derecha. Aparición de un nódulo pulmonar único de bordes polilobulados de 10 mm de diámetro máximo en el LSD, que sugiere un nódulo metastásico, y ganglio con centro necrótico en la cadena ganglionar broncopulmonar inferior izquierda, probablemente metastásico. Áreas de bronquiolitis infecciosa en ambas bases pulmonares.
+Ascitis libre.
+
+Diagnóstico
+Carcinoma espinocelular avanzado (segunda recaída ganglionar axilar y nódulo pulmonar).
+
+Tratamiento
+El paciente realiza un tratamiento quimioterápico según esquema carboplatino + 5-FU por dos ciclos: primer ciclo el 12/5/2014 y segundo ciclo con reducción al 80% por neutropenia el 16/6/2014.
+Radioterapia local a nivel de la axila derecha entre el 2 de septiembre y el 28 de octubre de 2014, recibiendo un total de 39 Gy en 13 sesiones. Fue necesario interrumpir el tratamiento por infección local.
+
+Evolución
+La administración del tratamiento fue compleja, requiriendo varias interrupciones por neutropenia, incluso reducción del 20% en el segundo ciclo de quimioterapia. Otras toxicidades presentadas por la quimioterapia fueron las náuseas grado 1 y la astenia grado 3. En julio de 2014 el paciente ingresó en la UCI por shock séptico de origen urinario por Escherichia coli, con recuperación progresiva durante el ingreso hasta el alta. Recibió radioterapia entre septiembre y octubre de 2014, siendo necesario realizar un parénteis de la misma por infección local, resuelta tras tratamiento antibiótico.
+
+Se realiza una TC de reevaluación el 15/12/2015: lesión axilar intervenida, en la que persisten adenopatías y masa de partes blandas, aunque con disminución evidente del tamaño de todas las lesiones. Nódulo pulmonar en el LSD disminuido de tamaño (7 mm de diámetro máximo). Buena evolución de la patología pleuropulmonar existente anteriormente. Respuesta parcial.
+En estos momentos se decide seguimiento ante la no progresión.
+
+Se repite la TC de seguimiento el 27/4/2015: se observa una importante disminución del tamaño de la afectación ganglionar axilar derecha. Disminución moderada del nódulo del LSD (5 mm de diámetro máximo). Estabilidad de las lesiones bronquiolíticas centrolobulillares.
+Actualmente el paciente se encuentra bien, y se ha decidido su seguimiento trimestral mediante pruebas de imagen.

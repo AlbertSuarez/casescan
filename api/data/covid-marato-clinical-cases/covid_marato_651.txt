@@ -1,0 +1,25 @@
+Anamnesis
+Hombre de 71 años de edad con antecedentes de cardiopatía isquémica, dislipemia, fumador activo de un paquete al día y síndrome depresivo. Ausencia de exposición laboral a sustancia carcinogénicas.
+Tratamiento crónico con estatinas, inhibidor de la bomba de protones, antidepresivos y antipsicóticos.
+Historia oncológica
+El paciente consultó en el Servicio de Urología en enero de 2017 por aparición de hematuria macroscópica monosintomática. Se completó estudio con ecografía urológica en la que se objetivó una tumoración en techo vesical izquierdo de 4 cm, con infiltración de la grasa vesical. Se solicitó TC abdominopélvica que detectó un engrosamiento tumoral de la pared vesical en su porción superior y lateral izquierda que ocupaba más de la mitad de la circunferencia de la vejiga con un grosor de pared de hasta 36 mm con sospecha de infiltración de la grasa perivesical.
+El paciente fue sometido a una resección transuretral en febrero de 2017, siendo ésta incompleta. Se remitió la muestra al Servicio de Anatomía Patológica que reveló la presencia de un carcinoma urotelial de alto grado con diferenciación trofoblástica (> 50 %) por la presencia de morfología sincitiotrofoblástica y expresión de beta-HCG. La estadificación patológica fue pT3b por infiltración macroscópica del tejido perivesical.
+Dado que se trataba de un carcinoma urotelial vesical con estadificación pT3 N0 Mx, se propone para realización de cistectomía radical. En el estudio de imagen del tórax se objetivaron lesiones nodulares en ambos hemitórax que oscilan desde los 2 a los 5 cm no existentes en el estudio previo compatibles con diseminación metastásica pulmonar en "suelta de globo" que se confirman en el estudio de extensión con TC toracoabdominal. En abril de 2017 se propone, tras discusión en comité de tumores multidisciplinar, la realización de cistectomía paliativa con derivación cutánea dada la persistencia de la hematuria.
+Analíticamente, destacaba alfa-fetoproteína de 2,8 ng/ml, beta-HCG en sangre de 12.027 mU/ml y LDH de 892mU/ml. Por tanto, la estadificación clínica definitiva sería estadio IV (pT3b N0 M1).
+Se propuso al paciente iniciar tratamiento con quimioterapia con EP (etopósido-cisplatino) x 4 ciclos, un esquema clásico en el tratamiento de los tumores germinales gonadales. Se decidió no administrar bleomicina dada la fragilidad del paciente tras la cistectomía paliativa. El paciente se administró el primer ciclo en mayo de 2017 durante su estancia hospitalaria. En el TC de evaluación de octubre de 2017, tras el cuarto de ciclo de EP, se objetivaron criterios de respuesta parcial al tratamiento con reducción del número y tamaño de las lesiones pulmonares (más del 50 % de diámetro en la mayoría de las lesiones). Analíticamente destacaba la disminución significativa del valor de beta-HCG en sangre desde 12.027 a 9,9 mUI/ml y normalización de los valores de LDH.
+
+Exploración física
+Durante la exploración, presentaba lenguaje coherente y bien articulado, con pares craneales sin alteraciones, movimientos oculocefálicos conservados y pérdida de fuerza simétrica con balance en extremidades superiores e inferiores de 4/5.
+Pruebas complementarias
+Se realizó RM cerebral, objetivándose al menos 5 lesiones intraparenquimatosas metastásicas que oscilaban entre 12 y 18 mm, acompañadas de extenso edema perilesional y de componente hemorrágico.
+
+Diagnóstico
+Carcinoma urotelial de alto grado con diferenciación trofoblástica mayor del 50 % (morfología sincitiotrofoblástica y expresión de beta-HCG) avanzado al diagnóstico.
+
+Tratamiento
+En abril de 2017 se propone, tras discusión en comité de tumores multidisciplinar, la realización de cistectomía paliativa con derivación cutánea dada la persistencia de la hematuria. Como tratamiento quimioterápico, el paciente inició EP (etopósido-cisplatino) x 4 ciclos, un esquema clásico en el tratamiento de los tumores germinales gonadales. Se decidió no administrar bleomicina dada la fragilidad del paciente tras la cistectomía paliativa. El paciente se administró el primer ciclo en mayo de 2017 durante su estancia hospitalaria.
+
+Evolución
+Dada la clínica neurológica que presentaba, se inició tratamiento con corticoterapia y anticomiciales con control de la sintomatología neurológica.
+Se propuso iniciar quimioterapia de segunda línea con esquema Taxol-gemcitabina, presentando buena tolerancia al tratamiento. Como focalidad neurológica mostraba debilidad en extremidades derechas de predominio braquial distal con síndrome de mano torpe y escasa fuerza y movilidad.
+El paciente fue dado de alta a finales de octubre, derivándose a un hospital de larga estancia para control evolutivo a la espera de nuevo ciclo de quimioterapia. Durante su estancia, presentó rápido deterioro general con cuadro confusional, tendencia al sueño y la postración. Se iniciaron medidas de control sintomático falleciendo a los pocos días de su ingreso.

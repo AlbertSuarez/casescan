@@ -1,0 +1,44 @@
+Anamnesis
+Varón de 70 años:
+» Sin alergias medicamentosas conocidas.
+» Hiperplasia benigna de próstata.
+» Hiperuricemia.
+» Diagnosticado de hepatitis por virus C genotipo 1 en 2004, recibiendo tratamiento con sofosbuvir y daclatasvir, siendo posteriormente la carga viral indetectable tras el tratamiento.
+» Tratamiento habitual: lansoprazol, tamsulosina, alopurinol.
+
+HISTORIA ONCOLÓGICA
+
+Antecedente oncológico
+En marzo de 2014, el paciente acude a las consultas de Dermatología al presentar lesión nodular de 2,5 cm de diámetro, en cara posterior de brazo izquierdo de 4 meses de evolución y crecimiento progresivo. En un principio se muestra asintomático, siendo la lesión de color piel inicialmente, y posteriormente tornó a coloración violácea.
+El paciente fue tratado con cirugía con el siguiente resultado anatomopatológico tras la resección de la lesión: carcinoma de Merkel cutáneo, de morfología nodular que infiltra en profundidad 1,8 cm alcanzando tejido adiposo subcutáneo. Queda a menos de 1 mm del borde quirúrgico profundo. El resto de bordes se encuentran libres. Se observan imágenes de invasión vascular y/o linfático.
+Se realiza biopsia selectiva de ganglio centinela, que fue positiva para células tumorales, por lo que se lleva a comisión de tumores para plantear linfadenectomía y ampliación de márgenes quirúrgicos.
+En mayo de 2014, se realizó linfadenectomía axilar izquierda estándar con anatomía patológica negativa para los 10 ganglios resecados.
+Posteriormente, recibe tratamiento con radioterapia del 2 de junio al 5 de septiembre con dosis de 60 Gy, presentando como toxicidad una epitelitis grado 3, quedando posteriormente en seguimiento por las consultas de oncología médica.
+
+Enfermedad actual
+Durante el seguimiento en consultas de Oncología médica, se realiza TC de tórax-abdomen-pelvis de control en septiembre de 2015, objetivándose masa en región pancreática con AP positiva para metástasis de carcinoma de Merkel, a partir de toma de biopsia mediante ecoendoscopia.
+
+Exploración física
+» Consciente y orientado. Eupneico en reposo. mucosa oral sin alteraciones. ECOG 0.
+» AC: rítmica sin soplos. AP: MVC sin ruidos sobreañadidos. Abdomen: RHA+, blando, depresible, sin signos de irritación peritoneal. No hay datos de lesiones en la piel en miembros superiores ni inferiores.
+» Peso: 80 kg.
+
+Pruebas complementarias
+Analítica completa: sin alteraciones.
+
+Diagnóstico
+Carcinoma de células de Merkel con recidiva pancreática.
+
+Tratamiento
+Con el diagnóstico de carcinoma de células de Merkel con recidiva pancreática, el paciente inicia tratamiento con quimioterapia con doble platino: carboplatino-taxol cada 21 días. Como complicaciones presenta neutropenia grado I y mucositis grado I.
+
+Evolución
+Recibe un total de 6 ciclos de carboplatino-taxol, obteniéndose en un principio respuesta al tratamiento y disminución de la masa pancreática en las pruebas de imagen de control.
+Más adelante, en la TC de mayo de 2016, presenta datos de progresión de su patología de base, visualizándose un nódulo suprarrenal izquierdo junto con la masa pancreática residual previa.
+En ese momento, debido a la progresión de la enfermedad, se plantea segunda línea de tratamiento con cisplatino-etopósido, recibiendo un único ciclo debido a la mala tolerancia, requiriendo ingreso hospitalario por neutropenia febril grado III y trombopenia grado III.
+Se comentan con el paciente las opciones terapéuticas. En ese momento hay descrito en la bibliografía un ensayo en fase II de pembrolizumab para carcinoma de células Merkel. Con esta información, se decide usar pembrolizumab en monoterapia a dosis de 2 mg/kg cada 3 semanas fuera de indicación de ficha técnica.
+Recibe el primer ciclo en julio de 2016, presentando a los 10 días mejoría sintomática del dolor. Se realiza TC de control en septiembre, tras el tercer ciclo de tratamiento, apreciándose marcada mejoría respecto a previo, con práctica resolución de la masa retroperitoneal izquierda y del nódulo suprarrenal izquierdo.
+El paciente continúa posteriormente, acudiendo a recibir ciclo de pembrolizumab cada 21 días, presentando como complicaciones en julio de 2017 lesiones eritematosas, redondeadas con fondo blanquecino en cara anterior de ambas piernas y brazo derecho, compatibles con psoriasis siendo valorado por el Servicio de Dermatología.
+Se realiza PET TC de control en octubre de ese año, siendo informado como ausencia de enfermedad macroscópica maligna desde el punto de vista metabólico.
+En la última TC toracoabdominopélvica realizada en febrero de 2018 no se objetivan cambios respecto al previo.
+Actualmente, el paciente continúa recibiendo tratamiento con pembrolizumab, habiendo recibido el ciclo número 29 recientemente. Se encuentra asintomático, con buen estado general y presenta una respuesta mayor mantenida de su patología tumoral.

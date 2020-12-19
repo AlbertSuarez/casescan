@@ -1,0 +1,25 @@
+Anamnesis
+Varón de 22 años de edad, sin alergias conocidas ni antecedentes médicos de interés salvo intervención de rodilla derecha por lesión de menisco.
+En agosto de 2011 consulta en el Servicio de Urgencias por cuadro de tres días de evolución de dolor abdominal en flanco izquierdo y en mesogastrio. Además, en las tres semanas previas presentaba cuadro de tos con expectoración sanguinolenta. No refería síndrome constitucional ni otra clínica asociada.
+
+Exploración física
+PS 1. Normocoloreado. Bien nutrido e hidratado.
+En la exploración física cabe destacar dolor a la palpación en musculatura escapular derecha, musculatura paravertebral y parrilla costal derecha. Siendo el resto de la exploración física rigurosamente normal.
+
+Pruebas complementarias
+• Analítica completa, incluyendo b-2-microglobulina, alfafetoproteína, b-GCh y serologías de VHB, VHC y VIH, no se objetivaban alteraciones.
+• Radiografía de tórax: se observaba ensanchamiento mediastínico a expensas del territorio de la arteria pulmonar izquierda, objetivándose una morfología atípica de la silueta cardíaca en dicha zona.
+• TC toracoabdominopélvica: se describía una gran masa mediastínica anterior de 8 x 6 cm que se extendía siguiendo el trayecto del tronco de la arteria pulmonar hacia el hilio izquierdo presentado polos sólidos en su porción superior e imágenes de tabiques; asimismo, se describían múltiples imágenes nodulares con patrón intersticio-alveolar en ambos hemitórax estando localizada la mayor de ellas a nivel del lóbulo superior izquierdo con un diámetro de 1,5 cm. En abdomen y pelvis no se objetivaban alteraciones.
+• Gammagrafía ósea: se objetivaban captaciones del radiotrazador compatibles con metástasis óseas a nivel de cuerpo vertebral D11, región frontal de cráneo y cabeza humeral izquierda.
+• Biopsia con aguja gruesa de masa mediastínica (11 de septiembre de 2011), cuyo informe anatomopatológico se informaba como compatible con angiosarcoma, con una inmunohistoquímica de positividad frente a vimentina, CD 31 y CD 34, AE1- AE 3 negativas y Ki-67 del 80%.
+
+Diagnóstico
+Angiosarcoma mediastínico estadio IV por metástasis pulmonares y óseas.
+
+Evolución y tratamiento
+Con este juicio diagnóstico se propone al paciente tratamiento con quimioterapia paliativa dentro del Ensayo Clínico del Grupo Español de Investigación de Sarcomas (Geis 20). Tras aleatorización, el paciente inicia el día 16 de septiembre 2011 tratamiento con esquema trabectedina 1,5 mg/m2 y doxorrubicina 75 mg/m2 día 1 cada 21 días. Recibe tres ciclos, objetivándose en la TC de reevaluación una leve disminución de la masa mediastínica y de las imágenes nodulares pulmonares bilaterales, con enfermedad ósea estable (respuesta parcial por criterios Recist).
+Recibe un total de seis ciclos, el último el día 3 de enero de 2012. Como toxicidades relevantes destaca una alteración de pruebas de función hepática grado 4 a pesar de premedicación corticoidea, por lo que requirió ajuste de dosis de trabectedina tras tercer ciclo según protocolo de ensayo clínico.
+En la TC y en la gammagrafía tras fin de tratamiento se objetivó respuesta parcial mantenida. Se presentó el caso en Comité de Tumores Torácicos desestimándose rescate quirúrgico por la presencia de metástasis óseas.
+El paciente recibió además radioterapia paliativa desde el 5 al 29 de marzo de 2012 sobre masa pulmonar, cuerpos vertebrales D10-12 y cabeza humeral izquierda alcanzando una dosis de 30 Gy.
+En la TC de control en abril 2012 se objetiva aumento del número y tamaño de las metástasis pulmonares. Ante progresión tumoral se propone una segunda línea de quimioterapia paliativa según esquema paclitaxel semanal, del que el paciente, en la actualidad, ha recibido tres ciclos con buena tolerancia.
+Está previsto continuar el tratamiento hasta progresión o toxicidad inaceptable.

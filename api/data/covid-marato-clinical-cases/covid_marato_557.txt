@@ -1,0 +1,37 @@
+Anamnesis
+Paciente mujer de 72 años, natural de Barcelona, sin reacciones alérgicas medicamentosas conocidas, sin hábitos tóxicos ni antecedentes familiares de interés; así como tampoco historia oncológica familiar. Antecedentes personales de hipertensión arterial y dislipemia, en tratamiento con enalapril 10 mg/día y simvastatina 20 mg/día.
+Historia oncológica: en 1980 es diagnosticada de carcinoma ductal infiltrante de mama izquierda T2N0M0 (estadio IIA), realizándosele mastectomía tipo Patey y vaciamiento ganglionar axilar en dicho año, sin recibir tratamiento adyuvante posterior. Tras un intervalo libre de enfermedad (ILE) de 69 meses, en 1985 presenta recurrencia tumoral con aparición de adenopatías metastásicas supraclaviculares izquierdas, por lo que inició hormonoterapia (HT) con tamoxifeno 20 mg/24 horas consiguiendo remisión completa. En 1990 presenta progresión de la enfermedad tras intervalo libre de progresión (ILP) de 54 meses. Inicia HT de 2ª línea con medroxiprogesterona vo 500 mg/24 horas logrando de nuevo remisión completa. En octubre de 2001 presenta recurrencia tumoral tras ILP de 136 meses con aparición de adenopatía axilar, extirpada el 28/12/2001, con resultado histológico de carcinoma ductal infiltrante con receptores estrogénicos (RE) 100 %, Ki67 20 % y c-erbB2 (-). Inicia HT de 3ª línea con exemestano 25 mg cada 24 horas. En 2010 se detecta elevación de marcadores tumorales (MT) y gammagrafía ósea dudosa (posibles metástasis M1 óseas), por lo que se inicia HT de cuarta línea con fulvestrant 500 mg cada 28 días.
+En diciembre de 2013 se objetiva afectación anexial izquierda (que se extirpa y se confirma origen mamario) y retroperitoneal. Ante la nueva progresión de la enfermedad, el 10/01/2014 se decide suspender fulvestrant. El 28/01/2014 se comienza con quimioterapia (QT) de primera línea con capecitabina ante la presencia de cáncer de mama metastásico (CMm), a dosis de 1.000 mg/m2 (1.300 mg dosis total) cada 12 horas durante 14 días en ciclos cada 21 días, hasta marzo de 2015, donde presenta progresión y se inicia 5ª línea de HT con letrozol 2,5 mg cada 24 horas. En revisión el 01/07/2015, presenta progresión y se inicia everolimus dosis de 10 mg vía oral y exemestano 25 mg cada 24 horas de forma ininterrumpida, tratamiento que se mantiene hasta su ingreso en planta de hospitalización en junio de 2016.
+
+Exploración física
+Aceptable estado general. Performance status (PS) 1. Consciente, orientada y colaboradora. Desnutrición calórico-proteica. Normohidratada y normoperfundida. Auscultación cardiopulmonar sin hallazgos patológicos. Abdomen blando, depresible, con molestias difusas a la palpación, no presenta masas ni megalias, sin signos de peritonismo. Miembros inferiores sin edemas ni signos de trombosis venosa profunda.
+
+Pruebas complementarias
+AL INGRESO 13/06/2016
+» Hemograma: hemoglobina 10,5 g/ml, hematocrito 31 %, resto normal.
+» Bioquímica: urea 302 mg/ml, creatinina 10,76 mg/ml, resto normal.
+» Gasometría venosa: pH 7,23, pCO2 34,5, pO 29,9, potasio 4,8, sodio 138, HCO3 14,3.
+» Ecografía abdominal: hidronefrosis izquierda con atrofia renal izquierda. Imágenes nodulares en pelvis ya visibles en estudios previos.
+AL ALTA 01/07/2016
+» Hemograma: hemoglobina 8,4 g/ml. Resto de series normales.
+» Bioquímica: creatinina 0,87 mg/ml. Resto normal.
+
+Diagnóstico
+» Carcinoma de mama ductal infiltrante estadio IV, politratada.
+» Insuficiencia renal aguda con hidronefrosis izquierda por compresión extrínseca.
+
+Tratamiento
+La paciente ha realizado las siguientes líneas de tratamiento desde 1985:
+1ª línea hormonal: tamoxifeno 20 mg/24 horas durante 54 meses con excelente tolerancia.
+2ª línea hormonal: medroxiprogesterona 500 mg/24 horas durante 136 meses sin efectos secundarios reseñables.
+3ª línea hormonal: exemestano 25 mg/24 horas durante 108 meses sin toxicidades importantes.
+4ª línea hormonal: fulvestrant 500 mg/28 días durante 36 meses con astenia grado I como principal efecto secundario.
+5ª línea: capecitabina (1ª quimioterapia) 1.300 mg/12 horas x 14 días en ciclos de 21 días durante 14 meses, cuya toxicidad principal que presentó eritrodisestesia palmoplantar (EPP) grado I y diarrea grado I.
+6ª línea hormonal: letrozol 2,5 mg/24 horas durante 4 meses sin efectos secundarios.
+7ª línea: everolimus 10 mg/24 horas y exemestano 25 mg/24 horas durante 11 meses sin toxicidad importante.
+8ª línea: ciclofosfamida metronómica 50 mg/24 horas, tratamiento que mantiene en la actualidad con una excelente tolerancia.
+
+Evolución
+En junio de 2016, la paciente comienza a presentar toxicidad digestiva con síndrome emético y diarreico, insuficiencia renal aguda secundaria pre y posrenal por compresión extrínseca de adenopatías retroperitoneales (creatinina 10,76 mg/dl), lo que condiciona la suspensión de everolimus + exemestano y su ingreso en planta de Oncología Médica en la que se realiza nefrostomía percutánea derecha. Evolución favorable durante ésta, con buen estado general y asintomática al alta, con normalización de función renal en analítica. En el alta, después de su ingreso y ante toxicidad digestiva presentada, se reintroduce QT a dosis reducidas de everolimus 5 mg vo cada 48 horas y exemestano.
+Durante su evolución, presenta aceptable estado general y estabilización de MT en torno a CA 15.3 300 U/ml (valores normales menores que 31 U/ml) hasta que en marzo de 2017 refiere en revisión distensión abdominal, hiporexia y deterioro clínico, con performance status (PS) de 2 y elevación de CA 15,3 a 464 U/ml. Ante la progresión clínica y analítica, se suspende tratamiento actual y se comienza con ciclofosfamida 50 mg/vo/día ininterrumpida metronómica. Ante dicha sintomatología, se realiza ecografía abdominal donde se visualiza ascitis generalizada con edema de asas intestinales, por lo que se añade al tratamiento prednisona 30 mg/vo/día y acetato de megestrol 160 mg/vo/día.
+Actualmente, a fecha de junio de 2017 y tras 37 años desde el diagnóstico, la paciente se encuentra con el tratamiento anteriormente descrito, presentando buen estado general, con PS de 0, y refiriendo como única sintomatología ligera hiporexia. En última TC abdominal, estabilización de enfermedad metastásica, con CA 15,3 en 433 U/ml.

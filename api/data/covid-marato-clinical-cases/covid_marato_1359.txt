@@ -1,0 +1,29 @@
+Anamnesis
+Mujer de 44 años, sin alergias medicamentosas, exfumadora desde setiembre de 2018 con dosis acumulada de 30 paquetes-año. Afecta de síndrome ansioso-depresivo, en tratamiento con fluoxetina.
+En relación a su historia ginecológica, menarquia a los 11 años, ciclos menstruales regulares y toma de anticonceptivos orales durante 5 años. Sin embarazos.
+Su madre falleció a los 39 años de neoplasia de mama metastásica.
+Su historia oncológica empieza en julio de 2018, cuando, a raíz de los antecedentes familiares oncológicos, se realiza mamografía de despistaje que evidencia la presencia de dos nódulos, uno en la unión de cuadrantes inferiores mama izquierda de 10 x 12 mm y otro de 4 x 3 mm en unión de cuadrantes externos.
+Se amplía estudio, realizando resonancia magnética (RM) que muestra múltiples captaciones tipo masa la de mayor tamaño en unión de cuadrantes inferiores de mama izquierda de 15 x 13 x 20 mm. La ecografía axilar es negativa para imágenes sospechosas de malignidad, así como con tomografía (TC) toracoabdominal que descarta enfermedad a distancia. Finalmente, se realizan dos biopsias en agosto de 2018, diagnosticándose en unión de cuadrantes inferiores carcinoma ductal infiltrante (CDI) grado histológico (GH) 3, con receptores estrógenos negativos (RE), receptores progesterona (RP) 40% y HER-2 positivo (+3) por inmunohistoquímica. El índice de proliferación Ki 67 es del 45 %, informándose la Anatomía Patológica como luminal B-HER-2+.
+En la segunda biopsia, realizada a nivel de unión de cuadrantes externos, aparece un CDI GH 2, RE negativos, RP negativos. HER-2 por inmunohistoquímica positivo (+3) y con índice de Ki67 del 35 %, siendo HER-2+ no luminal.
+Valorada como CDI de mama izquierda multicéntrico cT1N0M0 HER-2+ con focos de luminal B y otro de no luminal, se inicia neoadyuvancia con esquema AC (doxorrubicina y ciclofosfamida) durante 4 ciclos, del 26/9/2018 al 29/11/2018, con tolerancia excelente. Posteriormente, inicia paclitaxel trastuzumab pertuzumab, iniciándose el 24/12/2018.
+Además, dados los antecedentes familiares oncológicos, se realiza un panel de genes de susceptibilidad para cáncer hereditario, que resulta negativo.
+El episodio que nos lleva a presentar el caso se inicia en enero de 2019, cuando la paciente presenta un cuadro de inestabilidad franca de la marcha y dificultad uso miembro superior derecho de semanas de evolución, por lo que acude a Urgencias de nuestro centro el día 12/1/2019.
+
+Exploración física
+Funciones superiores normales. Pares craneales normales. Fuerza conservada en miembros. Reflejos débiles de forma simétrica, salvo por el rotuliano derecho, que está disminuido con respecto al contralateral. Reflejos cutáneos plantares flexores. Sensibilidad superficial normal con hipopalestesia leve de las 4 extremidades. Dismetría maniobra dedo-nariz y talón-rodilla derecha. Discreta adiadococinesia derecha. Romberg negativo.
+
+Pruebas complementarias
+Se realiza en primera instancia TC craneal que no muestra alteraciones.
+La RM de todo el neuroeje descarta enfermedad o lesiones de carcinomatosis, así como electromiograma que muestra alteración de la vía piramidal y de la vía somatosensorial.
+A fin de ampliar el estudio, se realiza punción lumbar que objetiva normalidad del análisis bioquímico, así como determinación de anticuerpos antineuronales, siendo positivos tanto en líquido cefalorraquídeo como en sangre periférica los anticuerpos anticélulas de Purkinje (Yo).
+A fin de estadiar la enfermedad, se realiza PET-TC que descarta enfermedad a distancia.
+
+Diagnóstico
+Se diagnostica de degeneración cerebelosa paraneoplásica.
+
+Tratamiento
+Se continúa tratamiento hasta completar 4 ciclos de paclitaxel-trastuzumab-pertuzumab, finalizado el 3/4/2019 con respuesta clínica. Se inicia tratamiento con inmunogammaglobulinas y el 15/04/2019 se realiza mastectomía total conservadora de piel y complejo areola-pezón, con respuesta patológica completa (ypT0 ypN0 en ganglio centinela 0/7), por lo que se continúa con trastuzumab junto con tamoxifeno a realizar durante 14 ciclos.
+
+Evolución
+Neurológicamente persiste el trastorno del equilibrio y sale a la calle precisando de doble apoyo para la deambulación. Persiste con clara dismetría del hemicuerpo derecho.
+Desde el punto de vista oncológico, continúa con trastuzumab y tamoxifeno sin evidencia de recidiva de la enfermedad.

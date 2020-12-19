@@ -1,0 +1,27 @@
+Anamnesis
+Niño varón de 8 años, sin alergias a medicamentos, sin antecedentes personales ni intervenciones quirúrgicas de interés, salvo sibilancias recurrentes en primera infancia. No tiene antecedentes familiares de enfermedad oncológica. Es hijo único, ambos padres están sanos y conviven con un perro. No toma medicación habitualmente.
+En agosto de 2016, el niño sufre un traumatismo banal en zona dorsolumbar. A partir de entonces, presenta dolor localizado en región lumbosacra que 2 meses más tarde, se irradia a pierna izquierda, aumenta con la sedestación y le limita la flexión del esqueleto axial. También asocia dolor en escápula y zona subcostal derecha, así como pérdida de peso no cuantificada, hiporexia y astenia. En octubre de 2016, se añaden deposiciones de consistencia más dura con contenido mucoso y hebras de sangre roja. No tiene fiebre ni consumo de productos no pasteurizados en todo el proceso, así como otros síntomas por aparatos.
+Desde consultas externas de Pediatría, le solicitan resonancia magnética de columna lumbosacra el 06/10/16 que muestra infiltración generalizada de la médula ósea en esqueleto axial y apendicular, y masa de partes blandas epidural anterior en relación a L3-L5 y T12, así como impronta de saco tecal anterolateral en T3, sin compromiso significativo del canal raquídeo; gammagrafía ósea (GGO) el 14/10/16 que muestra afectación en esqueleto axial, pelvis, escápulas y parrilla costal; y biopsia y aspirado de médula ósea (AMO/BMO) el 10/10/16 en la que se confirma invasión por células de origen no hematopoyético, con celularidad predominante en anillo de sello y positividad para CDX2 (tubo digestivo) EMA +, pancitoqueratina +, S100 +, enolasa y vimentina negativas.
+Ante el sorprendente hallazgo de sospecha de neoplasia digestiva con las pruebas realizadas, se deriva al servicio de Oncología Pediátrica, para completar estudio.
+
+Exploración física
+Peso: 26 kg, talla: 126 cm. Palidez de piel y mucosas. Sin adenopatías. Sudoroso. Auscultación cardiopulmonar normal. Abdomen blando, no doloroso durante la palpación, sin masas ni megalias. Dolor en articulación sacroiliaca derecha y a la rotación de cadera izquierda. Limitación de flexión a nivel lumbar. Dolor intenso al bajar de la camilla. Postura de envaramiento con imposibilidad de bipedestación, debilidad de miembros inferiores y dolor grave durante la bipedestación.
+
+Pruebas complementarias
+Tras la visita a la Consulta de Oncología Pediátrica, se obtienen las siguientes pruebas:
+» Analítica (16/10/16): bioquímica, hemograma y coagulación sin alteraciones relevantes.
+» Proteinograma: normal. Metabolismo del hierro: ferritina 1.416 μg/l (30-400), resto normal.
+» Endoscopia alta (19/10/16): esófago, estómago y duodeno normales.
+» Colonoscopia (19/10/16): masa ulcerada de unos 3 cm de longitud desde 2 cm de margen anal a 5cm en margen rectal derecho que se biopsia con límites bien definidos. Resto de colon en íleon sin lesiones.
+» Anatomía Patológica de biopsia rectal (19/10/16): adenocarcinoma de colón-recto con células en anillo de sello con aparente pérdida de expresión de PMS2 y estabilidad de microsatélites. Mutación en el exón 4 del gen KRAS (25/11/16).
+» Tomografía computarizada (TC) de tórax (21/10/16): derrame pleural izquierdo sin criterios de evacuación con implante pleural a nivel de 4ª costilla de 10 mm, metástasis en costillas ya evidenciadas en gammagrafía. No hay metástasis pulmonares parenquimatosas.
+» RNM abdominopélvica (24/10/16): tumor en el recto inferior y medio a 15 mm del margen anal que contacta con esfínter anal interno, de morfología anular, excéntrica y ulcerada, que afecta a la pared derecha con extensión extramural e infiltra la fascia mesorrectal y vascular alcanzando una longitud de 50 mm. Se acompañada de múltiples adenopatías cadenas mesorrectal (5 mm) e iliacas internas bilaterales (9 mm). Heterogeneidad de la médula ósea sugestivo de diseminación metastásica ósea y pequeña cantidad de líquido libre peritoneal (T3dN2M1).
+
+Diagnóstico
+Adenocarcinoma de recto de células en anillo de sello KRAS mutado (exón 4), en estadio IV con afectación ganglionar, ósea, pleural y de médula ósea. Síndrome de compresión medular en este contexto, con dolor neuropático asociado.
+
+Tratamiento
+Tras confirmarse la existencia de adenocarcinoma de recto metastásico, se inicia tratamiento con quimioterapia (QT) el 21/10/2017 según esquema FOLFOXIRI (ácido folínico, 5-FU,oxaliplatino e irinotecán) + bevacizumab quincenal, recibiendo un total de 12 ciclos hasta el 30/03/17, con buena tolerancia, obteniendo en TC abdominopélvica (03/04/17) respuesta parcial de la enfermedad a nivel local y ganglionar según RECIST 1.1, con ausencia de enfermedad en médula ósea confirmada mediante AMO/BMO (09/01/17), normalización de marcadores tumorales (CEA 64,3 ng/ml el 09/01/17 a 5,9 ng/ml el 10/04/17), deambulación sin apoyos ni corticoides tras tercer ciclo y cese de la rectorragia, pero con progresión de metástasis óseas. Como toxicidad, sólo destacar diarrea G1 y neurotoxicidad en punta de dedos de las manos G1.
+
+Evolución
+Ante la persistencia de enfermedad metastásica ósea y la toxicidad probable en caso de tratamiento con RT, se determinó continuación con QT basada en FOLF (ácido folínico, 5-FU) + bevacizumab quincenal que inicia el 10/04/17, recibiendo hasta este momento 6 ciclos con excelente tolerancia; y ampliación de estudio de PMS2 para valorar posterior tratamiento con pembrolizumab de forma experimental.
