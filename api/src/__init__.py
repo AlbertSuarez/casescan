@@ -46,4 +46,3 @@ SECTION_MAPPING_FILE_TO_NAME = {
     'evolucion y tratamiento': (SECTION_EVOLUTION, False)
 }
 SECTION_MAPPING_TO_SKIP = ['ver imagenes', 'ver a continuacion']
-
