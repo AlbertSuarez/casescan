@@ -18,8 +18,8 @@ RUN pip install --upgrade pip
 RUN pip install -r ${HOME}/requirements.lock
 
 # Set up port to listen
-ENV LISTEN_PORT 8080
-EXPOSE 8080
+ENV LISTEN_PORT 80
+EXPOSE 80
 
 # Move to working directory
 WORKDIR ${HOME}
