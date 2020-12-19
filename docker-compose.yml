@@ -1,0 +1,17 @@
+version: '3.5'
+services:
+
+  api:
+    image: casescan_api
+    container_name: casescan_api
+    build: api
+    networks:
+      - casescan
+    ports:
+      - 8080:8080
+    restart: always
+
+networks:
+  casescan:
+    name: casescan
+    driver: bridge
