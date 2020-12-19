@@ -1,0 +1,276 @@
+openapi: 3.0.0
+
+info:
+
+  title: Casescan API
+  description: Clinical cases search by similarity specialized in Covid-19
+  version: 1.0.0
+
+externalDocs:
+  description: GitHub repository
+  url: https://github.com/AlbertSuarez/casescan
+
+servers:
+  - url: http://api.casescan.ga
+    description: Production endpoint
+
+tags:
+  - name: clinical_cases
+    x-displayName: Clinical Cases
+  - name: search
+    x-displayName: Similarity search
+  - name: stats
+    x-displayName: Similarity statistics
+
+paths:
+
+  /clinical_cases:
+    get:
+      tags:
+        - clinical_cases
+      summary: API endpoint to retrieve clinical cases from database
+      description: Endpoint for an end-user to get clinical cases
+      operationId: src.api.clinical_cases.get
+      parameters:
+        - $ref: '#/components/parameters/OptionalCaseId'
+      responses:
+        200:
+          $ref: '#/components/responses/ClinicalCases'
+        default:
+          $ref: '#/components/responses/Error'
+
+  /search/text:
+    post:
+      tags:
+        - search
+      summary: API endpoint to search similarities given a free-text input
+      description: Endpoint for an end-user to search similarities given a free-text input split in sections.
+      operationId: src.api.search.post_text
+      parameters:
+        - $ref: '#/components/parameters/AggregatedSearch'
+      requestBody:
+        $ref: '#/components/requestBodies/TextSearch'
+      responses:
+        200:
+          $ref: '#/components/responses/Search'
+        default:
+          $ref: '#/components/responses/Error'
+  
+  /search/clinical_case:
+    post:
+      tags:
+        - search
+      summary: API endpoint to search similarities given a clinical case identifier
+      description: Endpoint for an end-user to search similarities given a clinical case identifier and some search parameters.
+      operationId: src.api.search.post_clinical_case
+      parameters:
+        - $ref: '#/components/parameters/RequiredCaseId'
+      requestBody:
+        $ref: '#/components/requestBodies/ClinicalCaseSearch'
+      responses:
+        200:
+          $ref: '#/components/responses/Search'
+        default:
+          $ref: '#/components/responses/Error'
+
+  /stats:
+    get:
+      tags:
+        - stats
+      summary: API endpoint to retrieve similarity stats
+      description: Endpoint for an end-user to retrieve similarity stats with detailed information
+      operationId: src.api.stats.get
+      responses:
+        200:
+          $ref: '#/components/responses/Stats'
+        default:
+          $ref: '#/components/responses/Error'
+
+components:
+
+  requestBodies:
+
+    TextSearch:
+      required: true
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/Sections'
+
+    ClinicalCaseSearch:
+      required: true
+      content:
+        application/json:
+          schema:
+            type: object
+            description: Clinical case type of search content.
+            properties:
+              section_names:
+                type: array
+                description: Array of section to search. Aggregated if empty.
+                items:
+                  $ref: '#/components/schemas/SectionName'
+
+  parameters:
+
+    RequiredCaseId:
+      name: case_id
+      in: query
+      required: true
+      schema:
+        $ref: '#/components/schemas/CaseId'
+
+    OptionalCaseId:
+      name: case_id
+      in: query
+      required: false
+      schema:
+        $ref: '#/components/schemas/CaseId'
+
+    AggregatedSearch:
+      name: aggregated_search
+      in: query
+      required: false
+      schema:
+        $ref: '#/components/schemas/AggregatedSearch'
+
+  responses:
+
+    ClinicalCases:
+      description: Successfully Clinical cases response.
+      content:
+        application/json:
+          schema:
+            allOf:
+              - $ref: '#/components/schemas/BaseResponse'
+              - type: object
+                properties:
+                  response:
+                    type: object
+                    description: Contains the response data.
+                    properties:
+                      results:
+                        type: array
+                        description: Contains the clinical cases based on the query.
+                        items:
+                          type: object
+                          description: Clinical case object representation.
+                          properties:
+                            case_id:
+                              $ref: '#/components/schemas/CaseId'
+                            sections:
+                              $ref: '#/components/schemas/Sections'
+
+    Search:
+      description: Successfully search response.
+      content:
+        application/json:
+          schema:
+            allOf:
+              - $ref: '#/components/schemas/BaseResponse'
+              - type: object
+                properties:
+                  response:
+                    type: object
+                    description: Contains the response data.
+                    properties:
+                      results:
+                        type: object
+                        description: Section results.
+                        properties:
+                          section_name:
+                            type: array
+                            description: List of similar Clinical Cases, sorted by similarity
+                            items:
+                              type: object
+                              properties:
+                                case_id:
+                                    $ref: '#/components/schemas/CaseId'
+                                sections:
+                                  $ref: '#/components/schemas/Sections'
+                                percentage:
+                                  $ref: '#/components/schemas/Percentage'
+
+    Stats:
+      description: Successfully Stats response.
+      content:
+        application/json:
+          schema:
+            allOf:
+              - $ref: '#/components/schemas/BaseResponse'
+              - type: object
+                properties:
+                  response:
+                    type: object
+                    description: Contains the response data.
+                    properties:
+                      total_amount:
+                        $ref: '#/components/schemas/TotalAmount'
+
+    Error:
+      description: Error response with additional information.
+      content:
+        application/json:
+          schema:
+            type: object
+            properties:
+              message:
+                $ref: '#/components/schemas/Message'
+
+  schemas:
+
+    # Abstract Complex Properties
+    BaseResponse:
+      type: object
+      properties:
+        error:
+          $ref: '#/components/schemas/Error'
+        message:
+          $ref: '#/components/schemas/Message'
+
+    # Simple Properties
+    CaseId:
+      type: integer
+      description: Identifier of an item.
+      example: 1
+      minimum: 1
+      maximum: 2500
+    AggregatedSearch:
+      type: boolean
+      description: True if all the input has to be aggregated for the search, False otherwise
+      default: false
+      example: false
+    Error:
+      type: boolean
+      description: Whether or not the request was successfully processed or not.
+      example: false
+    Message:
+      type: string
+      description: Error message.
+      example: 'Useful information.'
+    SectionName:
+      type: string
+      description: Clinical case section name.
+      example: 'Medical history'
+    SectionContent:
+      type: string
+      description: Text representing the Clinical case section.
+      example: 'Paciente de 31 años...'
+    Percentage:
+      type: number
+      format: float
+      description: Similarity percentage.
+      example: 92.5
+      minimum: 0.0
+      maximum: 100.0
+    Sections:
+      type: object
+      description: Clinical Case sections.
+      properties:
+        section_name:
+          $ref: '#/components/schemas/SectionContent'
+    TotalAmount:
+      type: integer
+      description: Amount of clinical cases.
+      example: 2000
+      minimum: 0
