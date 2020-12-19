@@ -4,3 +4,4 @@ Flask-Cors
 uWSGI
 uwsgitop
 requests
+tqdm

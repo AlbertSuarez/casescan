@@ -4,6 +4,7 @@ Flask-Cors==3.0.9
 uWSGI==2.0.19.1
 uwsgitop==0.11
 requests==2.25.1
+tqdm==4.54.1
 ## The following requirements were added by pip freeze:
 attrs==20.3.0
 certifi==2020.12.5
