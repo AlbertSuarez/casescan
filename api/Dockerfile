@@ -4,6 +4,7 @@ ENV HOME /srv/casescan
 
 # Add needed files
 ADD ./src ${HOME}/src
+ADD ./data/db.pkl ${HOME}/data/db.pkl
 ADD ./requirements.lock ${HOME}/requirements.lock
 ADD ./uwsgi.ini ${HOME}/uwsgi.ini
 
