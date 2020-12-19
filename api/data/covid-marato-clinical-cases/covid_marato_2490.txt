@@ -1,0 +1,28 @@
+Anamnesis
+Varón de 57 años, residente en núcleo rural y agricultor de profesión, refería contacto habitual con fertilizantes. No tenía alergias medicamentosas conocidas ni antecedentes personales de interés, salvo la extirpación de un carcinoma basocelular de la mejilla derecha en 2013.
+No tomaba tratamiento médico habitual.
+Consultó en su médico de atención primaria por disfagia mixta progresiva de 12 meses de evolución sin otra clínica acompañante. Había perdido 14 kg en los últimos 8 meses de manera voluntaria.
+El resto de la anamnesis por aparatos no reflejaba datos relevantes.
+
+Exploración física
+El paciente presentaba buen estado general, ECOG1, y la exploración física rsultaba anodina. El abdomen era blando y depresible, no doloroso y no se palpaban masas ni megalias.
+
+Pruebas complementarias
+» La primera prueba complementaria realizada fue una gastroscopia que demostraba la presencia de una lesión exofítica irregular, dura y friable a 35 cm de la arcada dental, en la unión esofagogástrica (UGE), que impedía el paso del endoscopio. Las biopsias tomadas de la lesión fueron compatibles con adenocarcinoma indiferenciado.
+» El estudio se completó con una TC toracoabdominal que confirmaba la presencia de un tumor en la unión esofagogástrica y de adenopatías yuxtaesofágicas y en ligamento gastrohepático. No se identificaban metástasis a distancia.
+» Los marcadores tumorales (CEA y Ca 19,9) se encontraban dentro de los límites de la normalidad.
+
+Diagnóstico
+Con el diagnóstico de adecarcinoma indiferenciado de UGE localmente avanzado (cT3N+) se presentó en el Comité Multidisciplinar de Tumores esofagogástricos y se optó por la intervención quirúrgica.
+
+Tratamiento
+Se realizó una esofaguectomía total y gastrectomía de tercio superior tipo Ivor-Lewis.
+
+El estudio anatomopatológico de la pieza quirúrgica mostraba un patrón glandular compatible con adenocarcinoma pobremente diferenciado grado 3 difuso con células en anillo de sello de la UGE que infiltraba todas las capas de la mucosa gástrica. Presentaba extensa linfangitis carcinomatosa extramural, infiltración de linfáticos perineurales e infiltración metastásica en 15 de los 23 ganglios extirpados por células de adenocarcinoma. Por la clasificación TNM se trataba de un pT3N3, estadio IIIC.
+
+El análisis inmunohistoquímico, sin embargo, revelaba positividad par citoqueratina 7 y de forma extensa y difusa positividad para sinaptofisina, cromogranina y E-cadherina en las membranas celulares; el Ki-67% era superior al 60% en más del 30% de las células. HER-2 no estaba amplificado.
+Todo ello confería al tumor una diferenciación neuroendocrina.
+Teniendo en cuenta el resultado IHQ y el patrón aquitectural de la muestra, el diagnóstico final fue de tumor mixto: adenocarcinoma pobremente diferenciado con células en anillo de sello y carcinoma neuroendocrino con Ki-67 del 60% de la UGE (MANEC). pT3N3. Estadio IIIC.
+
+Evolución
+Ante el diagnóstico definitivo y atendiendo a la agresividad de ambos componentes histológicos, optamos por un esquema de quimioterapia activo frente a ambos componentes basado en cisplatino y capecitabina adyuvantes; tratamiento que continua recibiendo actualmente con buena tolerancia.

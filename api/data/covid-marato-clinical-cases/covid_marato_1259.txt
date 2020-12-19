@@ -1,0 +1,33 @@
+Anamnesis
+Varón de 72 años, exfumador y bebedor ocasional, con antecedentes personales de hipertensión arterial de larga evolución e insuficiencia renal crónica. Refiere seguir tratamiento crónico con tres fármacos antihipertensivos y alopurinol.
+
+Consultaa su médico de Atención Primaria por clínica de 15 días de evolución de disnea progresiva, asociada a astenia intensa, sin asociar otra sintomatología, motivo por el que se solicita de forma ambulatoria una radiografía de tórax, que evidencia ensanchamiento del mediastino superior y medio, por lo que es derivado al Servicio de Urgencias.
+
+Exploración física
+ECOG 2. Consciente y orientado en las tres esferas. Temperatura 36,3 ºC, tensión arterial 126/80 mmHg, FC 94 lpm, FR 16 rpm. Exploración de cabeza y cuello: no ingurgitación yugular ni adenopatías. Auscultación cardíaca rítmica, tonos cardíacos apagados, sin soplos ni extratonos audibles. Auscultación pulmonar con hipoventilación en ambos campos pulmonares. Abdomen blando y depresible, no doloroso a la palpación, sin masas ni visceromegalias palpables. No edemas en los miembros inferiores.
+
+Pruebas complementarias
+A su llegada al Servicio de Urgencias se realizan las siguientes exploraciones complementarias:
+» TC craneal simple: en la que no se objetivan alteraciones significativas.
+» TC de tórax simple y con contraste intravenoso: gran conglomerado adenopático en el compartimento mediastínico anterior, con extensión infradiafragmática, considerando como primera opción el linfoma. Pequeños nódulos pulmonares bilaterales. Derrame pericárdico de hasta 3 cm con signos radiológicos compatibles con taponamiento cardíaco. Derrame pleural bilateral, de predominio izquierdo.
+Asimismo, es valorado en el servicio de UCI y Cardiología, realizándose ecocardiografía que evidencia derrame pericárdico con separación de hojas de 2 cm, colapso de cavidades derechas y variación de flujos transmitral y aórtico.
+Se continúa el estudio en planta de hospitalización de Medicina Interna:
+» Hemograma: hemoglobina 11,9 g/dl, hematocrito 37,7%, plaquetas 237.000, leucos 12.600 (N 11.900).
+» Bioquímica: glucosa 93, urea 82 mg/dl, creatinina 1,64 mg/dl, ácido úrico 10,4 mg/dl, PT 4,5, albúmina 2,7 mg/dl, Ca 9,2, BT 0,38, Na 137 mEq/l, K 5,1 mEq/l, Cl 103 mEq/l, triglicéridos 84, colesterol 135, GOT 14 UI/l, GPT 20 UI/l, GGT 40 UI/l, FA 80 UI/l, LDH 152 UI/l.
+» Marcadores tumorales: Ca 15.3: 16, CEA: 1,2.
+» RM de corazón: masa de intensidad de señal heterogénea correspondiente en su totalidad a tejido sólido. Su morfología es lobulada, con múltiples nódulos satélite. Las dimensiones mayores son de 19 x 11 x 20 cm (T x AP x CC). Restringe de forma llamativa la difusión, hallazgo sugestivo de hipercelularidad. Es de localización toracoabdominal en posición anterior, por encima y por debajo del diafragma, al cual engloba y es un posible origen a tener en cuenta de la neoformación. Por encima del diafragma se localiza en el mediastino anterior. Pierde plano graso de separación (probable infiltración) con la aorta ascendente y con la parte más superior e inferior del pericardio parietal, con derrame pericárdico de hasta 3 cm (anteroinferior) probablemente neoplásico. También contacta con la pared torácica anterior y engloba la arteria mamaria derecha en su parte más superior. Derrame pleural bilateral de distribución típica. En cuanto al corazón, se observa desplazamiento posterior del mismo, sin condicionar movimiento paradójico septal en el momento actual. Por debajo del diafragma infiltra el mesocolon transverso y desplaza hacia posterior el lóbulo hepático izquierdo y el estómago. Masa toracoabdominal anterior descrita en el informe.
+» Biopsia de la masa mediastínica anterior: neoplasia maligna, que muestra características citomorfológicas, encuadrables en un sarcoma pleomórfico. El estudio inmunohistoquimico practicado revela positividad para vimentina, de forma parcheada y débil, así como para EMA, actina-músculo liso, desmina y el factor de transcripción MDM2; con resultado negativo para citoqueratinas CK AE1/AE3, CK 5/6, CK 7, CK 8/18 y CK 19. Resultan asimismo negativos los marcadores vasculares CD31 Y CD34, así como los marcadores H-Caldesmon y S-100. Sobreexpresión de forma focal y parcheada, en escasa cuantía para el marcador: miogenina. Todos los resultados inmunofenotípicos que arriba se han descrito son los esperados para casos de rabdomiosarcomas, incluida la sobreexpresión nuclear, para el factor de transcripción: MDM2. Diagnóstico: sarcoma pleomórfico cuyo inmunofenotipo es encuadrable en rabdomiosarcoma pleomórfico.
+
+Diagnóstico
+Rabdomiosarcoma pleomórfico de probable origen diafragmático estadio IV.
+
+Tratamiento
+A su llegada a Urgencias el paciente está consciente, orientado, con TA 105/60 mmHg, FC 90 lpm, FR 16 rpm. Sat. O2: 96%.
+Ante los hallazgos descritos en la TC de tórax realizada en el Servicio de Urgencias, se solicita valoración por UCI, sin considerar al paciente subsidiario de drenaje pericárdico por conservar la estabilidad hemodinámica. El paciente ingresa en planta de Hospitalización de Medicina Interna, iniciando tratamiento de soporte con fluidoterapia, corticoterapia sistémica por vía intravenosa con metilprednisolona 80 mg/24 h y oxigenoterapia con gafas nasales a 2 lpm. Asimismo, por presentar datos de congestión venosa sistémica en la ecocardiografía de control realizada, se inicia tratamiento con furosemida 20 mg/24 h i.v.
+Tras obtener el diagnóstico de rabdomiosarcoma pleomórfico de probable origen diafragmático con extensión a pericárdico e irresecable, pasa a cargo de Oncología Médica, iniciándose el día 10/3/2015 primera línea de quimioterapia con intención paliativa según esquema VAC (vincristina 1,5 mg/m2, ciclofosfamida 1.200 mg/m2 y actinomicina D 1,5 mg/m2), sin toxicidades inmediatas.
+Se mantienen asimismo durante su ingreso las medidas de soporte con oxigenoterapia, sueroterapia y corticoterapia sistémica.
+
+Evolución
+Los días subsiguientes, presenta un deterioro clínico progresivo, con empeoramiento de la disnea e inquietud psicomotriz marcada, con escasa respuesta al tratamiento con benzodiacepinas y las medidas de soporte instauradas.
+En este contexto se realiza una radiografía de tórax de control, que evidencia aumento del derrame pleural bilateral, con signos de congestión hiliar bilateral y redistribución vascular hiliar.
+El paciente evoluciona desfavorablemente durante los 15 días de ingreso hospitalario pese al tratamiento instaurado, falleciendo tras la retirada del tratamiento de soporte e inicio de perfusión con cloruro mórfico y midazolam para el control de los síntomas refractarios.

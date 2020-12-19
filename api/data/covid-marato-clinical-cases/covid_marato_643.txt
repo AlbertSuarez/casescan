@@ -1,0 +1,21 @@
+Anamnesis
+Varón de 32 años de edad, en seguimiento por Servicio de Psiquiatría por diagnóstico de esquizofrenia paranoide y trastorno de la personalidad. Fumador de 10 cigarrillos al día y bebedor de 1-2 cervezas diarias.
+En verano de 2009, comenzó a presentar un dolor de tipo mecánico en la cadera derecha. En las pruebas de imagen se evidenciaron múltiples lesiones osteolíticas en el cuello femoral izquierdo, la rama isquiopubiana izquierda, la región supraacetabular derecha, la pala ilíaca derecha y en la columna lumbosacra, con elevado riesgo de fractura en la lesión femoral. En la TC de tórax se hallaron múltiples nódulos pulmonares puntiformes. Se procedió al diagnóstico histológico de las lesiones óseas mediante biopsia con diagnóstico de histiocitosis X (granuloma eosinófilo). Del mismo modo, se confirmó mediante fibrobroncoscopia la afectación pulmonar.
+Por tanto, nos encontramos ante un paciente de 32 años diagnosticado de una histiocitosis X con afectación ósea y pulmonar. En enero de 2010, comenzó el tratamiento con prednisona a dosis de 1 mg/kg/día. Desde entonces el paciente continuaba revisiones periódicas en el Servicio de Oncología Médica con disminución de la dosis de prednisona tras el año del inicio del tratamiento y estabilización de la enfermedad pulmonar y de la ósea.
+En octubre de 2011, el paciente acudió a una nueva revisión. No existían signos de progresión radiológica de la enfermedad en las pruebas complementarias.
+El paciente refería poliuria y polidipsia de unos 7-10 L diarios. Resto asintomático, sin pérdida de peso ni otra clínica acompañante.
+
+Exploración física
+Buen estado general, hemodinámicamente estable, afebril. Auscultación cardíaca: rítmica, sin soplos audibles. Auscultación pulmonar: murmullo vesicular conservado sin ruidos sobreañadidos. Abdomen: blando y depresible, sin peritonismo. Extremidades inferiores sin edemas. No presenta focalidad neurológica.
+
+Pruebas complementarias
+• Análisis de sangre: hemoglobina 16,7 g/dL; 148.000/mL leucocitos; 125.700/mL neutrófilos; 279.000/mL plaquetas; urea 18 mg/dL; creatinina 1 mg/dL; sodio en plasma 147 mmol/L; potasio en plasma 5 mmol/L; caLcio total 11,2 mg/dL; cloro 107 mmol/L; urato 8,2 mg/dL; fosfato 3,4 mg/dL; osmolaridad sérica 318 mOsm/kg; GOT 16 UI/L; GPT 21 UI/L; GGT 73 UI/L; bilirrubina total 0,55 mg/dL.
+• Análisis de orina: orina recogida en 24 horas 6,9 l; osmolaridad 70 mOsm/kg; bioquímica de orina: sodio 13 mEq/L; potasio 9 mEq/L; cloro 18 mEq/L.
+
+Diagnóstico
+Ante la hipernatremia con hiperosmolaridad plasmática e hipoosmolaridad urinaria, se planteó el diagnóstico de diabetes insípida. Se solicitó una RM cerebral para completar estudio.
+En la RM cerebral se observa la desaparición de la hiperseñal T1 en la neurohipófisis con leve engrosamiento del tallo selar, sugestivo de diabetes insípida.
+Se realizó nueva revaloración con una TC, objetivándose la estabilización de la enfermedad de base tanto a nivel óseo como pulmonar.
+
+Tratamiento y evolución
+El paciente inició tratamiento con hormona antidiurética, que aún mantiene, y efectúa seguimiento por el Servicio de Endocrinología. Según los criterios establecidos en las guías clínicas, se consideró la presencia de diabetes insípida como una progresión de la enfermedad, y con intención de un mejor control sintomático e intentar frenar una posible evolución a un panhipopituitarismo, se ha iniciado tratamiento con citarabina en monoterapia a dosis bajas (100 mg/m2 intravenoso diarios durante cinco días en ciclos de 28 días) con buena tolerancia.

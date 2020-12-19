@@ -1,0 +1,27 @@
+Anamnesis
+Paciente mujer de 73 años, sin alergias medicamentosas conocidas y con antecedentes personales de interés de artrosis grave y bocio multinodular intervenido mediante tiroidectomía, en tratamiento sustitutivo. Como antecedente familiar de interés, su madre fue diagnosticada un carcinoma de mama a los 52 años.
+
+Exploración física
+Palpación de nódulo en cuadrante superolateral de mama izquierda. El resto de la exploración física fue sin hallazgos.
+
+Pruebas complementarias
+[Se describen en apartado de evolución.]
+
+Diagnóstico
+» Carcinoma ductal infiltrante de mama izquierda.
+» Oligodendroglioma anaplásico de la WHO III.
+» Osteosarcoma.
+
+Tratamiento
+[Se describe en apartado de evolución.]
+
+Evolución
+En 2006, la paciente fue diagnosticada de un carcinoma ductal infiltrante de mama izquierda pT1cpN0 con IHQ triple negativo. Recibió quimioterapia neoadyuvante con esquema de taxano y antraciclina. Practicada tumorectomía y vaciamiento axilar. Carcinoma ductal infiltrante grado II de 1,2 cm de diámetro sin metástasis en ganglios linfáticos. Bordes de resección libres. Recibió radioterapia sobre glándula mamaria izquierda (50Gy) y lecho tumoral (10Gy).
+Durante el seguimiento, en diciembre de 2006 se objetivó una lesión ocupante de espacio (LOE) hepática en una ecografía abdominal sugerente de metástasis vs. hemangioma. No se realizó PAAF ante la posibilidad de hemangioma y riesgo de sangrado, con normalidad de marcadores tumorales, solicitándose PET.
+El resultado fue altamente sospechoso de metástasis hepática administrándose de nuevo quimioterapia con respuesta completa radiológica y en seguimiento posterior.
+En junio de 2009, tras un cuadro de cefalea y desorientación, se realizó tomografía computarizada (TC) de urgencia y resonancia magnética (RM) cerebral, en la que se observó una lesión única en región temporo-occipital derecha compatible con metástasis y edema perilesional. Desestimada biopsia por el Servicio de Neurocirugía, fue derivada para tratamiento con radioterapia paliativa holocraneal, recibiendo en 10 sesiones un total de 30 Gy. En seguimiento posterior por el Servicio de Radioterapia, se decidió radiocirugía estereotáxica, ante lesión residual, con buena tolerancia.
+En controles sucesivos, se objetivó la desaparición de la LOE cerebral, quedando de forma residual una lesión puntiforme submilimétrica en lóbulo temporal derecho, por la que se decide seguimiento.
+Sin objetivarse signos de recaída tumoral hasta noviembre de 2015, cuando, en una RM cerebral de control, se detecta un incremento significativo de tamaño y captación en la zona de la lesión previa, localizada en lóbulo temporal derecho. Biopsiada en febrero de 2016: el resultado anatomopatológico fue compatible con un oligodendroglioma anaplásico de la WHO III. Consensuada cirugía local, se realizó inmunofluorescencia mediante técnica de FISH, en la que se observó pérdida de las sondas que hibridan con 1p36 y 19q13. Se inició quimioterapia adyuvante con esquema de tratamiento PVC: CCNU, procarbazina y vincristina cada 6 semanas, un total de 3 ciclos ya que precisó suspensión del mismo por mala tolerancia.
+La paciente en estos años tenía un notable deterioro cognitivo fundamentalmente en el aspecto de la memoria y bradipsiquia.
+En mayo de 2018, en la consulta de seguimiento se objetiva una lesión necrótica en la zona quirúrgica de la calota y mediante RM, se confirma una lesión de partes blandas biparietal, en la que se realizó PAAF con resultado de osteosarcoma.
+Se consensúa tratamiento paliativo.

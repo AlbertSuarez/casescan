@@ -1,0 +1,30 @@
+Anamnesis
+Paciente de 16 años que refiere clínica de varios meses de evolución e instauración progresiva consistente en hirsutismo, aumento ponderal de 14 kg con distribución central de la grasa y estrías rojovinosas abdominales. Presenta dolor en fosa renal derecha, sugerente de cólico renal, motivo por el cual se realiza ecografía de abdomen, con hallazgo de una masa suprarrenal derecha.
+
+Exploración física
+Facies en luna llena. Distribución troncular de la grasa. Hirsutismo de predominio facial. Abdomen con estrías rojovinosas y cicatriz de laparotomía. Presenta edemas bimaleolares.
+
+Pruebas complementarias
+• Analítica: LDH 816 U/L. Resto de la bioquímica normal.
+• Perfil hormonal: testosterona 1,07 pg/mL; estradiol 117 pg/mL; progesterona 0,4 ng/mL; SDHEA 574,2 mg/dL; ACTH <1; cortisol basal 20,5 mg/dL; TSH y T4 libre normales, con hemograma y coagulación también normales.
+• Ecografía abdominal: se objetiva masa de probable origen suprarrenal derecho, heterogénea con características de malignidad, con trombosis de la vena cava inferior asociada, sugerente de carcinoma suprarrenal, que se confirma en la TC.
+• TC toracoabdominal: masa suprarrenal derecha 10 x 10 cm que invade la cava con trombo tumoral, con nódulo pulmonar LMD (1,1 x 1 cm) y lesión hepática de 1,2 x 2 cm.
+
+Diagnóstico
+Diagnosticada en marzo de 2009 de carcinoma suprarrenal derecho, funcionante, estadio IV, con metástasis única pulmonar y hepática con síndrome de Cushing secundario.
+
+Tratamiento
+Se realiza intervención quirúrgica con suprarrenalectomía derecha y lobectomía segmentaria pulmonar y, en segundo tiempo, hepatectomía derecha.
+En el postoperatorio persisten los edemas en los miembros inferiores, realizándose una angio-TC abdominal, que muestra una vena cava sin defectos de repleción, pero con dos nuevas metástasis hepáticas en el segmento VI. Se decide tratamiento médico con mitotano, con TC de control a corto plazo.
+Tras seis meses en tratamiento con mitotano, se objetiva progresión hepática de la enfermedad2.
+
+Evolución
+Comienza primera línea de quimioterapia con doxorrubicina-cisplatino, de la cual recibe ocho ciclos.
+Se realiza una TC de reevaluación final en abril de 2010 que muestra estabilización de la enfermedad como mejor respuesta.
+Se solicita una PET para valorar la viabilidad de la enfermedad, observando signos metabólicos a nivel hepático que, a pesar de su comportamiento (descenso del SUV en la imagen tardía), sugieren progresión hepática.
+Ante esta débil evidencia de progresión, y dado que la paciente está asintomática, se oferta vigilancia durante dos meses y repetir la PET, con lo que la familia estaba de acuerdo.
+En la PET de control de agosto de 2010 se objetiva clara progresión de la enfermedad, con la aparición de otro nódulo hepático y dos extrahepáticos, retroperitoneal y parahiliar renal derecho. La paciente mantiene un ECOG 0.
+Tras revisar la literatura, encontramos referencias anecdóticas de respuesta a sorafenib3, y comenzamos segunda línea con este fármaco, apareciendo con el segundo ciclo toxicidad intestinal y cutánea grado 3. Dado que en muchas ocasiones eficacia y toxicidad van parejas, solicitamos una nueva PET, observando progresión de todas las lesiones y aparición de nódulos nuevos en cúpula hepática y en adenopatías del hilio hepático.
+Tras discutir el caso en sesión clínica, y ante la ausencia de evidencias en la literatura para una tercera línea, comenzamos tratamiento con doxorrubicina-ifosfamida. Se administran tres ciclos, con TC de control en la que se objetiva nueva progresión hepática e infiltración filiforme de vena cava inferior.
+Asocia edemas en los miembros inferiores cada vez más proximales, por lo que comentamos el caso con Radiología Intervencionista para la colocación de una endoprótesis de cava inferior. Dado que el estado general sigue siendo bueno, decidimos comenzar con cuarta línea, consistente en cisplatino-etopósido4. Hemos mantenido esta línea durante diez meses con estabilización de la enfermedad. En marzo de 2012 cambiamos a cisplatino- doxorrubicina liposomal dada la buena respuesta que tuvo en su momento y ante toxicidad leve de la línea previa.
+Durante todo este tiempo se ha mantenido el tratamiento con mitotano y el síndrome de Cushing no ha reaparecido.

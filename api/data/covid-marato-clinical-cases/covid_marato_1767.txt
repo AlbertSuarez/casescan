@@ -1,0 +1,28 @@
+Anamnesis
+Varón de 78 años de edad, con antecedentes de trasplante renal hace 35 años tras glomerulonefritis. Actualmente, en mantenimiento con metilprednisolona 10 mg al día. Es intervenido por carcinoma epidermoide cutáneo en canto externo de ojo derecho, interparietal y sien izquierda, sin recidiva hasta el momento. No tiene otros antecedentes de interés.
+Vive con sus hijas, quienes refieren un incremento de la dependencia en las últimas semanas.
+Consulta por dolor costal derecho y disnea, que se han incrementado en los últimos días, asociando cuadro constitucional. Se completa estudio durante su ingreso con los siguientes resultados.
+
+Exploración física
+»ECOG 2, paciente parcialmente dependiente para las actividades básicas de la vida diaria.
+»AP: hipoventilación del hemitórax derecho.
+»El resto, sin hallazgos.
+
+Pruebas complementarias
+TC toracoabdominopélvica de agosto de 2018
+Carcinoma pulmonar multicéntrico en hemitórax derecho T2 N1 M1 (nódulo pulmonar en lóbulo inferior derecho de 15 mm, en lóbulo medio de 5 mm y lóbulo superior derecho de 1 cm)
+Implantes tumorales pleurales con afectación ósea (destrucción de 9º y 10º arco costal posterior derecho), crura diafragmática derecha e implante muscular.
+Aneurisma sacular de 6 x 7 en cayado aórtico.
+Atrofia renal con trasplante en fosa iliaca derecha Se realiza biopsia de uno de los implantes pleurales en agosto de 2018 que se remite a Anatomía Patológica con resultado histológico de carcinoma epidermoide. Así mismo, se determina la expresión de PD-L1 existiendo en > 50 % de las células tumorales.
+
+Diagnóstico
+Carcinoma epidermoide de pulmón multicéntrico en hemitórax derecho estadio IVb (T2 N1 M1b) con implantes musculares.
+
+Tratamiento
+A su llegada a consultas externas, nos encontramos con un paciente anciano frágil, que se moviliza en silla de ruedas, sintomático y con regular estado general, dependiente parcialmente para las actividades básicas de la vida diaria y con ECOG 2. De esta forma, se desestima la opción de la quimioterapia dadas las características clínicas del paciente.
+En este momento, nos planteamos como alternativas la administración de pembrolizumab en primera línea u optar por tratamiento sintomático paliativo exclusivo. Dados los antecedentes de trasplante renal, explicamos al paciente y familiares que la inmunoterapia podría incrementar el riesgo de rechazo renal, pudiendo suponer esto un riesgo vital. Así mismo, explicamos que, dado su estado general, la quimioterapia no supone una opción terapéutica en este momento, siendo la otra alternativa el tratamiento sintomático con un seguimiento estrecho.
+Finalmente, de forma consensuada con el paciente, optamos por la opción de pembrolizumab, por el potencial efecto beneficioso que podría aportar. Previamente se remite el paciente a Nefrología para manejo conjunto y seguimiento estrecho durante el tratamiento de su enfermedad neoplásica por el riesgo de rechazo.
+
+Evolución
+Tras 3 ciclos de tratamiento con pembrolizumab, en la TC de reevaluación de octubre de 2018, el paciente presenta una notable mejoría radiológica con desaparición de los nódulos pulmonares sincrónicos y reducción de la masa principal.
+Así mismo, el paciente presentó una buena tolerancia del tratamiento, sin desarrollar efectos secundarios y con resolución de la clínica de disnea y dolor pleurítico, presentando ECOG 1 y recuperando la deambulación con andador. Durante el tratamiento conservó buena función renal con estabilidad de los parámetros analíticos (FG 83 ml/min, creatinina 0,88 mg/dl, orina y sedimento sin alteraciones), sin evidenciarse signos o síntomas que sugirieran rechazo del trasplante. El paciente completó un total de 5 ciclos de pembrolizumab sin toxicidades inmunomediadas, falleciendo en domicilio en noviembre de 2018 de forma súbita, desconociendo la causa y sin clínica asociada.

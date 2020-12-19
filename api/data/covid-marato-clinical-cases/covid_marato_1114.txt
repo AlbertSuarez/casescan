@@ -1,0 +1,44 @@
+Anamnesis
+Varón de 61 años, sin alergias medicamentosas conocidas ni hábitos tóxicos. Trasplante hepático en 1997 debido a colangitis esclerosante primaria (CEP) con retrasplante en 2015 por recidiva de CEP, en tratamiento con tacrolimus y micofenolato. Es profesor de universidad.
+
+Historia oncológica
+En junio de 2002 fue diagnosticado de melanoma cutáneo maligno estadio IB localizado en la escápula derecha, realizándose resección de la lesión y posterior ampliación de márgenes. Continuó controles por parte de Dermatología, siendo dado de alta en 2012 sin evidencia de enfermedad.
+En octubre de 2016, presentó recidiva ganglionar axilar derecha, asociando trombosis de vena subclavia y axilar derecha. Se realizó linfadenectomía axilar derecha el 10/11/2016 pero no recibió tratamiento adyuvante con interferón debido a la comorbilidad asociada al trasplante hepático.
+Continuó controles hasta que en una TC de mayo de 2018 se objetivan lesiones líticas múltiples en esqueleto axial, confirmándose por biopsia recidiva de melanoma maligno (S100+, HMB45+, MELAN-A; Ki67 25 %; mutación BRAF V600E.
+El 16/07/2018 inicia tratamiento con inhibidores de BRAF (iBRAF) y MEK (iMEK), Dabrafenib 15 mg/12 horas y trametinib 2 mg/24 horas diarios, asociando ácido zoledrónico 4 mg intravenoso cada 4 semanas por afectación ósea múltiple. El 6/08/2019 es valorado en hospital de día presentando buen estado general y con buena tolerancia, por lo que continúa tratamiento y queda citado en el plazo de 1 mes para nuevo control.
+
+Enfermedad actual
+Acude el 2/09/2018 a Urgencias por fiebre de 38,3º de 5 días de evolución, sin foco infeccioso y con buen estado general.
+
+Exploración física
+ECOG 1: consciente, orientado y colaborador. Bien nutrido e hidratado, normocoloreado. Eupneico en reposo. Auscultación cardiaca rítmica, sin soplos audibles. Auscultación pulmonar con murmullo vesicular conservado y sin ruidos añadidos. Abdomen blando y depresible, sin dolor durante la palpación.
+Pruebas complementarias
+» Analítica sangre y orina 2/09/2018: sin alteraciones salvo PCR 127,13.
+» Radiografía de tórax 2/09/2019: no se observan hallazgos patológicos.
+» Hemocultivos 3/08/2019: negativos.
+
+Diagnóstico
+Síndrome febril sin foco infeccioso en paciente en tratamiento con inhibidores BRAF y MEK.
+
+Tratamiento
+Sin foco infeccioso claro tras la exploración y pruebas realizadas en Urgencias, ingresa en planta para estudio con tratamiento antipirético y sueroterapia.
+En planta, ante persistencia febril y probable fiebre secundaria a iBRAF e iMEK se decide retirar Dabrafenib según indicaciones de ficha técnica.
+
+Evolución
+Tras más de 48 horas afebril, se reinicia tratamiento con dabrafenib el día 7/09/2019 manteniendo los antipiréticos.
+El 9/09/2019 comienza de manera aguda con fiebre > 38,8º, asociando deterioro neurológico agudo con Glasgow 3, mutismo, paresia de las 4 extremidades y crisis comiciales tónico-clónicas generalizadas.
+En dicho momento se realizaron las siguientes pruebas:
+» Analítica 9/09/2019: sodio 129, niveles de tacrolimus y resto de valores sin hallazgos.
+» TC cerebral 9/09/2019: no se observan metástasis ni alteraciones vasculares.
+» Punción lumbar 9/09/2019: estudio bioquímico con pleocitosis linfocítica y proteinorraquia. Estudio microbiológico negativo y citología negativa para malignidad.
+» Ecografía de troncos supraaórticos 9/09/2019: no se observan estenosis de vasos.
+» EEG 9/09/2019: actividad globalmente lentificada más llamativa en hemisferio izquierdo, en relación con encefalopatía difusa moderada.
+»Teniendo en cuenta el resultado de las pruebas y el deterioro del estado general del paciente, se retiran dabrafenib y trametinib y se intensifica el tratamiento iniciando anticomiciales (lacosamida y levetiracetam) y antibióticos (ampicilina y aciclovir).
+A pesar del ajuste de tratamiento el día 10/09/2019, el paciente continúa con mutismo y crisis comiciales persistentes asociando fiebre > 38º, por lo que, habiéndose descartado otras causas, se sospecha de toxicidad relacionada con dabrafenib y trametinib y se inicia tratamiento con metilprednisolona intravenosa a dosis de 1,5 mg/kg/día. Por otro lado, se completa estudio:
+» TC cérvico-toracoabdominal 11/09/2019: enfermedad estable sin otros hallazgos.
+» Anticuerpos onconeuronales en plasma y LCR 12/09/2019: negativos.
+» RM cerebral 19/09/2019: se objetivan lesiones microangiopáticas isquémicas crónicas.
+A las 24 horas desde el inicio de los corticoesteroides, no presenta nuevos episodios de crisis comiciales, se encuentra afebril y es capaz de emitir palabras sueltas; sin embargo, se muestra agitado y confuso. El paciente presenta mejoría progresiva del estado general, siendo capaz de mantener una conversación y deambular al de una semana del inicio del tratamiento a dichas dosis, por lo que el 19/09/2019 se inicia reducción paulatina de corticoesteroides a lo largo de un mes, con resolución completa del cuadro al alta del paciente.
+Dado que se descartan etiología metabólica, vascular, progresión radiológica, infecciosa o paraneoplásica como causa del estado neurológico del paciente, y teniendo en cuenta la resolución del cuadro tras inicio de corticoesteroides a altas dosis, se interpreta como toxicidad neurológica grado 4 relacionada con iBRAF e iMEK.
+En hospital de día se suspende definitivamente tratamiento con dabrafenib y trametinib. Teniendo en cuenta el doble trasplante hepático en tratamiento con inmunosupresores, se considera más oportuno iniciar tratamiento con otros inhibidores de BRAF y MEK, vemurafenib y cobimetinib, ya que presentan otros efectos adversos.
+Actualmente, el paciente se encuentra con enfermedad estable radiológica, buen estado general y buena tolerancia al tratamiento, sin nuevos episodios neurológicos.

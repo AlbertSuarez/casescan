@@ -1,0 +1,23 @@
+Anamnesis
+Tras el primer ciclo de esta tercera línea, la paciente acude al Servicio de Urgencias en enero de 2014 por fiebre y aumento de expectoración, ingresando en planta de Oncología Médica por neutropenia febril grado 4 (0 neutrófilos) secundaria a foco respiratorio.
+Durante el ingreso presenta buena evolución, comenzando a los 5 días con un cuadro agudo de astenia, polidipsia, poliuria y nicturia intensas, cuantificándose una ingesta hídrica de 6 litros diarios, una diuresis de 5.000 cc diarios y nicturia de 10 veces/noche.
+
+Exploración física
+Durante el ingreso presenta buena evolución, comenzando a los 5 días con un cuadro agudo de astenia, polidipsia, poliuria y nicturia intensas, cuantificándose una ingesta hídrica de 6 litros diarios, una diuresis de 5.000 cc diarios y nicturia de 10 veces/noche. Consciente y orientada en las tres esferas. Tensión arterial 100/70 mm Hg. Leve deshidratación cutáneo-mucosa. Auscultación cardiopulmonar sin alteraciones. Sin edemas. Pupilas isocóricas normorreactivas. Pares craneales normales. Campo visual por confrontación sin alteraciones. Fuerza y sensibilidad conservada y simétrica en las cuatro extremidades. Reflejos conservados y simétricos. Sin focalidad neurológica.
+
+Pruebas complementarias
+En analítica sanguínea destaca sodio plasmático de 151 mmol/l (rango normal 135-145 mmol/l) con osmolalidad plasmática 297 mOsm/kg (rango normal 280-300 mOsm/kg), función renal y resto de iones normales. Se realiza estudio hormonal completo (TSH, T4 libre, GH, FSH, LH, progesterona, prolactina y cortisol) sin objetivarse alteraciones significativas.
+En orina se evidencia hiponatriuria, con sodio urinario 38 mmol/L e hipoosmolalidad urinaria 93 mOsm/kg (rango normal 350-700 mOsm/kg).
+Ante estos hallazgos, se solicita resonancia magnética (RM) cerebral donde se evidencia en el tallo hipofisario una lesión nodular redondeada bien definida compatible con metástasis infundibular única, sin infiltración del quiasma y sin otra afectación intraparenquimatosa ni leptomeníngea.
+Ante la sospecha de diabetes insípida (DI), se realiza la prueba de la sed (test de Miller), en la que se objetiva incapacidad para concentrar la orina, por lo que se confirma diabetes insípida de origen central.
+
+Diagnóstico
+Diabetes insípida de origen central probablemente secundaria a metástasis infundibular en paciente con carcinoma de mama ductal infiltrante (RH y HER-2 positivos) estadio IV.
+
+Tratamiento
+Como tratamiento de sustitución hormonal (TSH) de DI se inicia tratamiento con desmopresina (DDAVP) inicialmente 10 mcg /24 h intranasales y ante el hallazgo de metástasis cerebral única se plantea cirugía, opción que se descarta por Neurocirugía debido a la potencial morbilidad. Se propone en este momento radioterapia (RT), recibiendo RT holocraneal 3.000 cGy, con buena tolerancia al tratamiento.
+
+Evolución
+Desde el comienzo del tratamiento se objetivó una clara respuesta tanto clínica como analítica, con normalización de la ingesta hídrica, resolución de la nicturia y corrección del sodio plasmático, de la natriuria y de la osmolalidad urinaria.
+Se ajustó la dosis de DDAVP y la paciente mantuvo tratamiento con DDAVP 10 mcg/12 h intranasales de forma mantenida.
+En cuanto a la enfermedad oncológica, una vez finalizada la RT, dada la buena respuesta al régimen anterior, se reinicia tratamiento con paclitaxel-trastuzumab debido a la toxicidad previa con docetaxel, hasta agosto de 2014, cuando la paciente consulta por paraparesia en miembros inferiores, realizándose RM dorsal urgente donde se objetiva afectación metastásica intramedular a nivel de T10-T11 y afectación leptomeníngea dorsal de las raíces de la cola de caballo sin afectación metastásica ósea. En este momento, se desestima tratamiento radioterápico y, ante el deterioro progresivo de la paciente, se desestima también continuar con tratamiento quimioterápico, continuando únicamente con control sintomático por la Unidad de Cuidados Paliativos y falleciendo dos meses después, en febrero de 2015.

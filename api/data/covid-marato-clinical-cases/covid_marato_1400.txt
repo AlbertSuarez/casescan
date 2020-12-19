@@ -1,0 +1,28 @@
+Anamnesis
+Mujer de 41 años sin antecedentes personales de interés y con antecedentes familiares de cáncer de mama (1 tía materna y 1 tía paterna) que consulta en enero de 2013 por bultoma en mama derecha. Se diagnostica de carcinoma infiltrante de mama grado 2 cT2N+ multicéntrico, subtipo histológico luminal B/HER-2 negativo. Recibe tratamiento con quimioterapia neoadyuvante esquema docetaxel 100 mg/m2 cada 21 días por 4 ciclos, seguido de fluorouracilo 600 mg/m2 + epirrubicina 90 mg/m² + ciclofosfamida 600 mg/m² cada 21 días por 4 ciclos. Finaliza tratamiento en agosto 2013 con buena tolerancia y, en agosto de 2015, se realiza mastectomía y linfadenectomía (ypT1c pN2). Comienza hormonoterapia en septiembre 2013 con tamoxifeno 20 mg diario y goserelina trimestral.
+En agosto de 2014, consulta por dolores óseos y en una resonancia magnética de columna se evidencia enfermedad ósea metastásica múltiple a nivel vertebral. Se inicia primera línea de tratamiento de enfermedad metastásica con letrozol y ácido zoledrónico. En octubre de 2014, se realiza fijación vertebral de T5 a L3.
+En octubre de 2015, a raíz de un cuadro de disnea brusca, se diagnostica de un tromboembolismo pulmonar. Durante el ingreso, también se realiza estudio de citopenias y se evidencia infiltración de médula ósea por carcinoma en una biopsia de médula ósea. Es dada de alta anticoagulada con enoxaparina de bajo peso molecular a dosis de 1,5 mg/kg/24 horas (para un peso de 50 kg recibe enoxaparina 80 mg/24 h).
+
+Exploración física
+En el momento de nuestra valoración, presenta un performance status de 1 y se muestra eupneica a aire ambiente, con palidez mucocutánea. El resto de la exploración física no muestra alteraciones.
+Presenta un episodio de rectorragia aislada sin demostrarse lesiones externas.
+
+Pruebas complementarias
+» Análisis de sangre al ingreso: hemoglobina 10,6 g/dl (12,2-16,1), plaquetas 51.000/mcl (138.000-381.000), leucocitos 5.550/mcl, neutrófilos 2.620/mcl, eritroblastos 9,0 de cada 1.000 leucocitos (0,0-1,0), cayados 25,0 % (0,0-7,0), metamielocitos 2,0 % (0,0-1,0), mielocitos 2,0 % (0,0-1,0).
+» Análisis de sangre de control: leucocitos 9,19 x 10e3/mcl, hemoglobina 11,7 g/dl (12,2-16,1), plaquetas 26,0 x 10e3/mcl (138,0-381,0), neutrófilos 5,37 x 10e3/mcl (1,7-7,33), eritroblastos 8,0 cada 100 leucocitos (0,0-1,0), cayados 9,0 % (0,0-7,0), metamielocitos 3,0 % (0,0-1,0). » Br 27,29: 179 U/ml (0,0-38,6).
+
+Diagnóstico
+Carcinoma de mama luminal B/HER negativo estadio IV por afectación ósea e infiltración de médula ósea:
+» Trombopenia grado 3.
+» Anemia grado 1.
+Tromboembolismo pulmonar.
+
+Tratamiento
+La paciente precisa transfusión de 1 pool de plaquetas por trombopenia de 27.000 plaquetas con sangrado activo, y se reduce la dosis de enoxaparina a la mitad (40 mg/24 horas). Tras explicar los riesgos y beneficios individualizados, consiente el inicio de quimioterapia en noviembre de 2015 con paclitaxel a dosis de 55 mg/m² por la trombopenia G3.
+
+Evolución
+Durante las primeras cuatro infusiones de quimioterapia, se realiza un control más estrecho debido a la pancitopenia. Como complicaciones presenta astenia grado 2, neutropenia grado 3 (850/mcl) y anemia grado 3 (Hb 7,9 g/dl) y trombopenia grado 4 (13.000 plaquetas/mcl) asociado a epistaxis. Presenta asimismo un episodio de neutropenia febril que se maneja de forma ambulatoria.
+Como tratamiento de soporte, requiere transfusión de 2 concentrados de hematíes en dos ocasiones, filgrastim 300 y transfusión de plaquetas en los episodios de trombopenia grado 4 que se asocian a sangrados.
+Tras 5 infusiones persiste anemia grado 2 (Hb 10,3 g/dl) y se normaliza el recuento de plaquetas y de neutrófilos. Recibe paclitaxel a dosis de 70 mg/m² y los marcadores tumorales descienden (Br 27,29 de 70,3 U/ml).
+Continúa tratamiento hasta febrero a la misma dosis con buena tolerancia, pero en TC de evaluación se evidencian metástasis hepáticas de nueva aparición y se inicia tratamiento en segunda línea con capecitabina a dosis de 1.000 mg/m²/12 h. No presenta nuevos episodios de pancitopenia.
+Finalmente, tras dos ciclos de capecitabina, la paciente presenta rápido deterioro clínico secundario a infiltración hepática masiva y fallece en mayo de 2016, tras 7 meses desde el diagnóstico de la infiltración de la médula ósea.

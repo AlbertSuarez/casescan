@@ -1,0 +1,18 @@
+Anamnesis
+Hombre de 52 años con antecedentes de esquizofrenia paranoide en seguimiento por Psiquiatría, psoriasis en seguimiento por Dermatología, que actualmente no recibe ningún tratamiento activo. El paciente es independiente para las actividades básicas de la vida diaria, está desempleado y vive con su padre.
+En septiembre del 2016 se diagnostica de un adenocarcinoma de pulmón T2 N1 M1 (estadio IV) por afectación pleural y linfangitis carcinomatosa, EGFR, ALK y PD-L1 negativos, a raíz de un cuadro de disnea secundaria a un derrame pleural izquierdo masivo.
+El 24-09-16 inicia primera línea de tratamiento para enfermedad metastásica según esquema cisplatino-pemetrexed, recibiendo un total de 6 ciclos, el último el 07-01-17, con excelente tolerancia, alcanzando una respuesta parcial por TC y estando el paciente asintomático.
+El 28-01-17 inicia tratamiento de mantenimiento con pemetrexed. Tras el 4º ciclo del mantenimiento, el paciente permanece asintomático y en respuesta parcial. Recibe el 6º ciclo el 12-05-17.
+El 19-05-17 el paciente acude a consulta de forma no programada porque refiere que desde hace 3-4 días han empezado a aparecerle unas manchas negruzcas en el pecho que son muy pruriginosas. Por lo demás dice encontrarse bien, no presenta síndrome constitucional ni ninguna otra sintomatología.
+
+Exploración física
+Destacan 3 agrupaciones de queratosis seborreicas en la línea intermamaria y en los hombros. Cada una de estas agrupaciones está formada por unas 30 lesiones de entre 0,5 y 2 cm de diámetro mayor. Además, presenta lesiones de rascado en dichas zonas. El resto de la exploración física es anodina.
+
+Pruebas complementarias
+Con estos datos decidimos solicitar una analítica completa que resulta ser normal, y una TC de tórax, abdomen y pelvis que muestra una progresión del tumor primario y de varias adenopatías a nivel subaórtico, la más grande de 41 cm de eje mayor.
+
+Diagnóstico
+Nos encontramos ante un síndrome cutáneo paraneoplásico conocido como síndrome de Leser-Trélat en un hombre de 52 años afecto de un adenocarcinoma de pulmón estadio IV en progresión.
+
+Tratamiento
+Al tratarse de un síndrome paraneoplásico, el tratamiento es el de la neoplasia, con lo cual, el 23-05-17 iniciamos una segunda línea de enfermedad metastásica con docetaxel en monoterapia, ya que al haber lesiones centrales cerca de grandes vasos decidimos no asociar el nintedanib.

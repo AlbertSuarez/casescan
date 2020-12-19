@@ -1,0 +1,26 @@
+Anamnesis
+Se trata de una mujer de 68 años que presenta, desde febrero de 2011, síndrome constitucional. En mayo acude a Urgencias por fiebre y dolor torácico, ingresando en Medicina Interna para completar estudio.
+
+Examen físico
+Buen estado general. Se palpa una dudosa adenopatía latero-cervical derecha, no dolorosa. Auscultación: correcta ventilación pulmonar bilateral; tonos cardíacos rítmicos, sin soplos. Resto de la exploración, anodina.
+
+Pruebas complementarias
+Pruebas realizadas entre junio y julio de 2011.
+Radiografía de tórax: nódulo pulmonar de 2,2 cm en el LSI. Aumento de tamaño del hilio izquierdo.
+TC body: nódulo pulmonar en el lóbulo superior izquierdo (LSI) sugestivo de neoplasia. Tromboembolismo pulmonar (TEP) en arteria pulmonar principal izquierda. Pequeñas adenopatías mediastínicas e hiliares.
+Broncoscopia: masa blanquecina en el orificio subsegmentario de la división anterior del LSI.
+Anatomía patológica: carcinoma de célula pequeña. TTF1+, CK , alto índice de proliferación nuclear.
+Tomografía por emisión de positrones (PET): masa en el LSI hipermetabólica en relación con neoplasia. Varios nódulos pulmonares en el LSI, compatibles con metástasis. Adenopatía hiliar izquierda hipermetabólica sugestiva de malignidad.
+RM craneal: lesión con componente hemorrágico en el pedúnculo cerebeloso izquierdo. A valorar metástasis versus vasculitis en contexto de síndrome paraneoplásico.
+
+Diagnóstico
+Carcinoma microcítico pulmonar, en estadio IV, por diseminación pulmonar y en sistema nervioso central.
+
+Tratamiento
+Realiza tratamiento quimioterápico, con cisplatino-etopósido (1), por seis ciclos (julio-noviembre de 2011), con buena tolerancia. Posteriormente recibe radioterapia holocraneal paliativa.
+Además, realiza tratamiento anticoagulante con enoxaparina (heparina de bajo peso molecular) (2) por un TEP.
+
+Evolución
+En controles realizados posteriormente presenta una buena respuesta a nivel pulmonar y de sistema nervioso central (SNC), con respuesta completa a ambos niveles a los 5 meses de haber finalizado el tratamiento.
+En diciembre de 2012, en una TC de control, se describe un defecto de repleción en la arteria pulmonar izquierda sospechoso de sarcoma (descrito como un TEP en TC previas). Se completa el estudio con una resonancia angio-pulmonar y una PET, confirmándose el diagnóstico de sarcoma. Se presenta en el Comité de Tumores, y se decide realizar seguimiento, pero a los dos meses se evidencia un aumento de tamaño de la lesión, por lo que se decide intervención quirúrgica.
+En mayo de 2013 es intervenida, mediante neumonectomía izquierda con resección intrapericárdica de la arteria pulmonar. El estudio histológico e inmunohistoquímico de la pieza quirúrgica revelan que dicha tumoración corresponde a una metástasis de un carcinoma microcítico de origen pulmonar.

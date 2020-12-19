@@ -1,0 +1,28 @@
+Anamnesis
+Paciente mujer de 73 años sin antecedentes médicos relevantes. Madre de dos hijas nacidas por parto vaginal. Sin reacciones adversas medicamentosas. No presentaba antecedentes familiares oncológicos. Independiente para las actividades básicas de la vida diaria.
+Consultó en Urgencias en julio de 2016 por edema en miembro inferior izquierdo de 3 semanas de evolución sin dolor ni signos inflamatorios. Se pautó inicialmente antiinflamatorio y diurético sin mejoría clínica. Asociaba además pérdida de 10 kg de peso en el último año. En la anamnesis por aparatos, refería la presencia de una lesión en vulva de aproximadamente 2 años de evolución, por la que no había consultado. No se había realizado controles ginecológicos/mamografías dentro del programa de cribado. En las pruebas complementarias en Urgencias se realizó una analítica que mostraba unas cifras dentro de la normalidad y una ecografía Doppler de miembro inferior izquierdo que descartaba la presencia de trombosis, aunque sí que describía extensos cambios inflamatorios en tejido celular subcutáneo con presencia de adenopatías inguinales de tamaño significativo.
+
+Exploración física
+La paciente presentaba un status performance de 1. Se palpaba un conglomerado adenopático en la zona inguinal izquierda, adherido y doloroso durante la palpación sin signos de sobreinfección. En miembro inferior izquierdo, se observaba un edema duro sin fóvea. En la exploración ginecológica, se visualizaba una lesión en labio mayor izquierdo ulcerada, dura al tacto y no dolorosa. El resto de la exploración física, dentro de la normalidad.
+
+Pruebas complementarias
+Ante la sospecha diagnóstica de neoplasia vulvar se realizó un estudio por parte de Ginecología:
+» Durante la exploración ginecológica, se observó una lesión vulvar de 2c m en labio mayor izquierdo, ulcerada, sin signos de sobreinfección.
+» Radiológicamente, destacaban en tomografía computarizada (TC) adenopatías múltiples en cadena ilíaca externa e inguinales izquierdas de hasta 13 mm (eje menor).
+» Analíticamente no se detectaron alteraciones.
+» Ante la alta sospecha de malignidad, se realiza biopsia con aguja gruesa (BAG) del conglomerado adenopático y de la lesión vulvar con los siguientes resultados anatomopatológicos: positiva para metástasis por adenocarcinoma. Microscópicamente se trata de una neoplasia sólida de células de citoplasma claro que expresan CK7 y GATA3. El resto de los anticuerpos evaluados: CK20, CDX2, PAX8, TTF1, P53, CAIX, CK5/6, P63, S100 y vimentina resultaron negativos.
+En vista de los resultados, se sugería que podría tratarse de un adenocarcinoma originado en estructuras cutáneas anexiales vulvares (adenocarcinoma anexial de tipo mamario), sin embargo, no era posible descartar el origen mamario por lo que se realizaron más pruebas complementarias:
+» La mamografía bilateral no se detectaron nódulos, distorsiones arquitecturales ni microcalcificaciones sospechosas de malignidad.
+» Se realizó una tomografía por emisión de positrones (PET-TC) que mostraba una masa de partes blandas en la región inguinal izquierda, de 39 mm (SUVmax 1,9 g/ml). Adyacentes a la masa se objetivaron adenopatías iliacas de tamaño significativo (SUVmax 1,3 g/ml). Resto de la exploración dentro de la normalidad
+» Analíticamente destacaba un CEA 18,7 ng/ml (<4,3 ng/ml) y un CA15,3 21 U/ml (20-25 U/ml).
+» Se revisó la anatomía patológica para ampliar el estudio con la determinación mediante inmunohistoquímica de receptores hormonales mostrando: negatividad para mamoglobina y GCDFP15. Expresión de receptores de estrógeno en 100 % de las células tumorales y de progesterona en 10 % de las células. Ki-67: expresión nuclear en 20 % de las células tumorales. Estudio de HER-2 negativo.
+
+Diagnóstico
+Tras la realización de todas las pruebas complementarias se diagnostica de un adenocarcinoma de mama sobre tejido mamario ectópico en zona vulvar, fenotipo luminal B localmente avanzado. Ante este diagnóstico, es comentado el caso en el comité multidisciplinar y se decide inicio de quimioterapia neoadyuvante con antraciclinas y taxanos, previa realización de fracción de eyección que mostró una adecuada función cardiaca.
+
+Tratamiento
+Inicia primer ciclo de paclitaxel 80 mg/m2 el 13/10/2016, finalizando tras 12 infusiones el día 05-10-17. Previo a la finalización del tratamiento con taxanos, se detecta un deterioro clínico evidente, realizándose entonces una TC que mostraba la aparición de adenopatías hiliares de hasta 20 mm de eje corto, adenopatías mediastínicas subcarinales de hasta 13 mm e infiltrados parcheados en vidrio deslustrado de distribución peribroncovascular en lóbulos superiores como manifestación radiológica de linfangitis carcinomatosa. Analíticamente, aumento de los parámetros de CEA a 25,4 ng/ml y CA15,3 41 U/ml.
+Con los datos de progresión de enfermedad clínica, radiológica y bioquímica se descarta la cirugía y se inician antraciclinas bajo el esquema FEC (5-FU 600 mg/m2, epirrubicina 100 mg/m2 y ciclofosfamida 600 mg/m2) durante 6 ciclos de 21 días como línea de quimioterapia para enfermedad avanzada. Inicia primer ciclo el 12-01-17 y finaliza sexto ciclo el 27-04-17. Se realizó evaluación de enfermedad mediante TC tras 3 y 6 ciclos que demostró una respuesta parcial radiológica (adenopatías hiliares, mediastínicas e inguinales izquierdas), analítica (CEA 19,7 ng/ml y CA 15,3 34 U/ml) y clínica con mejoría del estado general y de la lesión vulvar.
+
+Evolución
+Dada la respuesta al tratamiento y con la expresión hormonal en las células tumorales, se inició tratamiento con inhibidores de aromatasa con buena tolerancia, que mantiene hasta el momento.

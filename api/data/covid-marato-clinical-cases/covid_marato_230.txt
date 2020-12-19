@@ -1,0 +1,27 @@
+Anamnesis
+Mujer de 51 años, natural de Colombia, nunca fumadora y premenopáusica. En su historia ginecológica destacan 3 embarazos, 2 cesáreas y 1 parto vaginal, sin complicaciones. No refiere otros antecedentes de importancia. Niega clínica respiratoria infecciosa recurrente.
+En diciembre de 2016 consulta en su centro de Atención Primaria por dorsalgia de varios meses de evolución sin otra sintomatología asociada. Se realiza una radiografía de columna dorsal donde se objetiva un nódulo pulmonar localizado en el lóbulo superior derecho (LSD) de significado incierto. Se solicita radiografía de tórax y se inicia analgesia de primer escalón presentando mejoría clínica.
+En marzo de 2017, la radiografía de tórax muestra una lesión quística loculada en LSD. Se completa el estudio con una TC de tórax que confirma la presencia de una lesión multiquística de 56 mm de diámetro con un quiste dominante de 33 mm, compatible con una MCVAP tipo I. En diciembre de 2017 se realiza una TC de control que no evidencia cambios. Las pruebas de función respiratoria y la broncoscopia no muestran alteraciones.
+En diciembre de 2018, acude a Urgencias por dolor abdominal en hipogastrio, náuseas y metrorragias de 1 mes de duración. Refería alteraciones menstruales de 2 años de evolución que se habían orientado como perimenopausia. La analítica mostraba una anemia microcítica con una b-HCG de 3487 UI/l que a las 48 h se incrementa a 3.536 UI/l. Se practica una ecografía transvaginal que descarta imágenes intracavitarias uterinas. Ante la sospecha de embarazo ectópico se realizan controles seriados. A las 2 semanas, la b-HCG asciende a 3.781 UI/l por lo que se administra metotrexato 50 mg/m2 intramuscular. En controles posteriores destaca una persistencia en la elevación de b-HCG hasta alcanzar un nivel máximo de 7.553 UI/l con posterior descenso lento hasta de 3.010 UI/l. El sangrado vaginal disminuye, pero persiste el dolor abdominal, motivo por el que se decide ampliar estudio con TC de tórax, abdomen y pelvis (TC-TAP).
+
+Exploración física
+ECOG PS de 0. Antropometría: talla 160 y peso 55 kg. Exploración cardiopulmonar, abdominal y neurológica sin alteraciones. No se palpan adenopatías.
+
+Pruebas complementarias
+La TC-TAP (20/12/2018) halla múltiples lesiones sólidas periféricas sugestivas de malignidad, alcanzando un diámetro total de 80 mm con un quiste predominante de 55 mm sobre la MCVAP tipo I del LSD; lesión en íntimo contacto con la pleura y con ramas segmentarias de la arteria pulmonar.
+Ausencia de adenopatías y resto de estructuras torácicas conservadas. TC de abdomen y pelvis sin hallazgos de diseminación neoplásica.
+La broncoscopia (28/12/2018) evidencia una masa que obstruye la rama subsegmentaria anterior del LSD y cuya biopsia es positiva para carcinoma escamoso no queratinizante, mal diferenciado (p40+; TTF-1- ) con PD-L1 alta expresión (70 %).
+Prueba de función respiratoria sin alteraciones (FEV1: 108 %; DLCO: 104 %).
+La PET-TC (03/01/2019) muestra la lesión pulmonar multiquística en LSD con hipermetabolismo en el componente sólido (SUVmáx = 7,4) compatible con un proceso neoproliferativo primario ya que no existen otras lesiones similares en el resto del cuerpo. Se completa estudio con una RM cerebral (03/01/2019) que es negativa.
+
+Diagnóstico
+Mujer de 51 años, no fumadora, con un carcinoma escamoso de pulmón desarrollado en una MCVAP tipo I, probable cT3N0M0, estadio IIB asociado a secreción paraneoplásica de b-HCG.
+
+Tratamiento
+En marzo de 2019, se realiza en primer término una mediastinoscopia que descarta compromiso ganglionar seguido de una doble lobectomía (lóbulo superior derecho y lóbulo medio) mediante cirugía torácica video-asistida (VATS, por sus siglas en inglés) con resección R0.
+
+Evolución
+La Anatomía Patológica de la pieza quirúrgica describe un carcinoma escamoso no queratinizante, mal diferenciado (G3), con nódulo principal de 9 cm y 2 nódulos satélites (2 cm y 2,5 cm) englobando la región hiliar y extensión a lóbulo medio (LM). No hay evidencia de invasión pleural, linfovascular o perineural. Márgenes de resección libres. Además, las lesiones quísticas restantes estaban revestidas de carcinoma escamoso in situ. Las células tumorales expresaban queratina 7, p40 y queratinas 5/6 focal con negatividad para TTF-1 y PAX8. El estudio molecular fue negativo para EGFR (exones 18 a
+21) y ALK.
+La b-HCG postoperatoria descendió a 27 UI/L. En mayo de 2019, la paciente se encontraba con un ECOG PS 1 por astenia y disnea a moderados esfuerzos. En el PET-TC de control postoperatorio (02/05/2019) no se observan signos sugestivos de malignidad. La analítica mostró anemia microcítica leve (Hb 12,2 g/dl VCM 75 fl). En junio de 2019, la b-HCG fue de 17,8 UI/l.
+La estadificación final es pT4N0M0, estadio IIIA, por lo que se propone tratamiento adyuvante con cisplatino 75 mg/m2 y vinorelbina 25 mg/m2 por 4 ciclos.

@@ -1,0 +1,20 @@
+Anamnesis
+Mujer de 24 años que durante la lactancia de su primer hijo advierte la presencia de un nódulo en el cuadrante superointerno de la mama izquierda. Como antecedentes, destaca el hecho de haber presentado dos abortos y que su madre falleciese a los 26 años de un cáncer de mama, motivo por el cual se había realizado estudio de BRCA-1 y 2, hacía 2 años, resultando "no informativos".
+
+Exploración física
+Durante la exploración se palpa un nódulo duro, adherido a planos profundos, no doloroso, de aproximadamente 2 cm en el cuadrante superointerno de la mama izquierda, así como una adenopatía axilar izquierda de 1 cm. El resto de la exploración física era rigurosamente normal.
+
+Pruebas complementarias
+La mamografía confirmó la presencia de un nódulo en el cuadrante superointerno de la mama izquierda de 2 cm de categoría BIRADS 6. La ecografía axilar reveló la presencia de dos ganglios axilares izquierdos sospechosos de infiltración neoplásica. La resonancia magnética mamaria descartó la presencia de otros nódulos mamarios. El estudio de extensión no objetivó la presencia de metástasis. Con todos estos datos, se decidió realizar una biopsia del nódulo mamario y de las adenopatías axilares.
+
+Diagnóstico
+El resultado anatomopatológico fue compatible con un carcinoma ductal infiltrante de mama izquierda, grado 3, receptores de estrógenos intensamente positivos, receptores de progesterona negativos, HER-2 positivo y Ki67 del 40 %. La biopsia axilar confirmó la infiltración por carcinoma. Por tanto, el estadiaje resultó ser un cT1c cN1 cM0 (estadio IIa).
+
+Tratamiento
+Tras presentar el caso en el Comité Multidisciplinar de Cáncer de Mama, se decide realizar un tratamiento quimioterápico neoadyuvante según el esquema carboplatino, docetaxel, trastuzumab y pertuzumab por 6 ciclos. La paciente toleró bien el tratamiento, presentando como toxicidades náuseas, vómitos y alopecia grado 1. Posteriormente, se realizó una tumorectomía mamaria izquierda y biopsia selectiva del ganglio centinela objetivándose una respuesta patológica completa (ypT0 ypN0 [0/2]).
+
+Evolución
+Actualmente la paciente se encuentra completando tratamiento adyuvante dentro de un ensayo clínico con trastuzumab y pertuzumab subcutáneos, así como tamoxifeno, presentando una tolerancia excelente y llevando a cabo una vida completamente normal, habiéndose reincorporado a su puesto de trabajo.
+Dados los antecedentes familiares de la paciente, y a pesar de haberse realizado el estudio de mutaciones en BRCA 1 y 2 en un centro privado hacía 2 años, resultando "no informativo", decidimos derivar a la paciente a la Unidad de Consejo Genético del propio hospital.
+Finalmente, el estudio genético detectó la presencia de la mutación patogénica c.311delA en el exón 4 del gen TP53, que generaba un codón de parada prematuro y como consecuencia proteínas truncadas que pierden dominios funcionales esenciales, constitutiva de síndrome de Li-Fraumeni.
+Tras informar a la paciente de dichos resultados, hemos comenzado un programa de diagnóstico precoz de tumores asociados a dicho síndrome, consistente en exploración física completa anual, exploración dermatológica anual, análisis sanguíneo cada 4 meses, ecografía abdominopélvica semestral, resonancias magnéticas mamaria, cefálica y corporal total rápida anuales, gastroscopia y colonoscopia cada 5 años, así como la recomendación de realizar una mastectomía bilateral profiláctica. Además, tras comentar el caso con el servicio de Oncología Radioterápica, decidimos no administrar radioterapia adyuvante dada la presencia de la mutación genética.

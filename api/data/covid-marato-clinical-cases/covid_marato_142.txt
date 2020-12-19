@@ -1,0 +1,33 @@
+Anamnesis
+Mujer de 37 años sin antecedentes médicos personales ni familiares de interés, salvo madre diagnosticada de cáncer de mama a los 67 años. Vive con su marido, es ama de casa, y tiene dos hijas sanas nacidas mediante cesárea.
+En mayo de 2011 comienza cuadro de dolor intenso en brazo derecho, con empeoramiento progresivo y sin mejoría a pesar de tomar paracetamol y antiinflamatorios por cuenta propia, por lo que consulta en su centro de salud. Se realiza una radiografía que muestra lesión lítica en húmero derecho, por lo que es derivada a la Unidad de Tumores Óseos de nuestro hospital. Se realiza biopsia con resultado de metástasis de carcinoma ductal infiltrante, e inmunohistoquímica (IHQ) que muestra positividad para CK7 y receptores de estrógeno (RE). Es derivada a Oncología Médica para continuar estudio.
+
+Exploración física
+Buen estado general. PS 0 (Performance Status). Auscultación cardio-pulmonar y exploración abdominal sin hallazgos. Impotencia funcional del brazo derecho por dolor.
+Palpación de nódulo duro y profundo mal definido en la unión de cuadrantes externos de la mama derecha y conglomerado adenopático en axila ipsilateral. Mama y axila izquierdas sin hallazgos patológicos. Piel y complejo pezón-areola dentro de la normalidad.
+
+Pruebas complementarias
+- Analítica completa (hemograma, coagulación, perfiles simple, renal, hepático y lipídico) con valores en rango salvo Fosfatasa Alcalina 135 Ul/l (35-105).
+- Marcadores tumorales: CEA 3,1 ng/ml (0-3) y Ca 15.3 94,4 U/ml (0-40).
+- Mamografía craneocaudal y oblicua bilateral: mama izquierda sin hallazgos patológicos. En la mitad externa de la mama derecha, grupo de microcalcificaciones irregulares en relación a lesión de aspecto maligno. Categoría radiológica: 5.
+- Ecografía mamaria y axilar bilateral: mama y axila izquierdas sin hallazgos patológicos. En cuadrante externo superior de mama derecha, lesión nodular muy irregular mal delimitada, con múltiples calcificaciones en su interior y vascularización patológica. Se acompaña de adenopatías metastásicas en axila derecha.
+- Tomografía computarizada (TC) de tórax y abdomen con contraste: destaca masa de 50 x 25 mm en cuadrante externo de mama derecha con calcificaciones en su interior. Adenopatías axilares derechas de hasta 15 mm patológicas. Nódulos pulmonares bilaterales de hasta 9 mm de aspecto metastásico.
+En el esqueleto estudiado, lesión lítica en tercio medio humeral con marcado adelgazamiento de la cortical, junto con otras lesiones similares milimétricas en ilíaco derecho, sínfisis del pubis y cabeza femoral derecha. Resto del estudio dentro de la normalidad.
+- Biopsia con aguja gruesa (BAG): carcinoma ductal infiltrante. IHQ: RE 20-30%, RP 10-20%, CK19+, Ki67 20-30%, HER2 positivo.
+
+Diagnóstico
+Carcinoma ductal infiltrante de mama derecha estadio IV (metástasis pulmonares y óseas mútiples).
+IHQ: RE y RP positivos, HER2 positivo.
+
+Tratamiento
+Inicia el 16/08/2011 primera línea de quimioterapia (QT) según docetaxel 90 mg/m2 + trastuzumb 6 mg/kg previa dosis de carga 8 mg/kg + ácido zoledrónico 4 mg (día 1 de cada 21 días), recibiendo un total de 6 ciclos, último administrado el 29/11/2011. Continúa con terapia de mantenimiento con trastuzumab + ácido zoledrónico trisemanal, añadiendo Tamoxifeno 20 mg/día. Recibe además tratamiento radioterápico antiálgico sobre húmero derecho (8 Gy dosis única).
+En la reevaluaciones periódicas se objetiva respuesta parcial mantenida al tratamiento, con reducción de la masa mamaria y de los nódulos pulmonares, estabilidad de la enfermedad ósea, y normalización de los marcadores tumorales.
+La paciente se encuentra hasta el momento bien, asintomática salvo por dolor en brazo derecho que controla con analgesia de primer escalón, y con buena tolerancia al tratamiento sin toxicidad destacable (astenia grado 1, sofocos y cefalea leve que no precisa tratamiento adicional).
+
+Evolución
+En enero de 2013 se objetiva progresión de la enfermedad a nivel óseo junto con deterioro clínico, por lo que inicia segunda línea de tratamiento dentro de ensayo clínico PHEREXA, recibiendo capecitabina 1250 mg/m2 cada 12 horas días 1 al 14 de cada 21 días + trastuzumab y ácido zoledrónico día 1 de cada 21 días. Recibe un total de 12 ciclos, con enfermedad estable como mejor respuesta, y manteniendo buena calidad de vida con escasa toxicidad (a destacar como efecto adverso más severo: síndrome mano-pie grado 2).
+En octubre de 2013 inicia cuadro de cefalea y vértigo que requiere ingreso hospitalario. Tras estudio se confirma enfermedad cerebral metastásica múltiple (lesiones supra e infratentoriales de hasta 4 cm la mayor) junto con progresión ósea. Recibe tratamiento radioterápico holocraneal paliativo e inicia nueva línea de quimioterapia según esquema Cisplatino 40 mg + Gemcitabina 1900 mg (dia 1 de cada 21 días) + Lapatinib 1000 mg diario. Tras 6 ciclos (en junio 2014) con enfermedad controlada (enfermedad ósea estable y respuesta parcial de las lesiones cerebrales) y debido a toxicidad acumulada, se decide continuar terapia de mantenimiento con lapatinib.
+Además se realiza castración ovárica radioterápica, y se añade letrozol 2,5 mg diario.
+En diciembre 2014, se objetiva nueva progresión de la enfermedad con aparición de nuevas lesiones cerebrales, por lo que inicia retratamiento con Cisplatino + Gemcitabina + Lapatinib. Tras 4 ciclos, de nuevo respuesta al tratamiento con reducción de las lesiones cerebrales. Ante ototoxicidad y astenia g3, se continúa sólo con lapatinib. La paciente hasta el momento mantiene vida activa, cuida de sus hijas, y se encuentra oligosintomática (dolor óseo que controla con analgesia) sin clínica neurológica.
+En agosto 2015, de nuevo ingreso hospitalario por diplopia binocular y vértigo. Se confirma nueva progresión con aparición de nuevas lesiones cerebrales e infiltración leptomeníngea, por lo que inicia 5ª línea de QT con metotrexate 8 gr/m2 día 1 de cada 14 días. Recibe 6 ciclos hasta diciembre 2015, tras lo que se objetiva progresión cerebral importante y deterioro clínico muy marcado (acude en silla de ruedas a consulta, dependiente para todas las actividades diarias).
+Finalmente la paciente fallece en marzo 2016.

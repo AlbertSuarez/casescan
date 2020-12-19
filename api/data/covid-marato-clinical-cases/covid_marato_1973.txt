@@ -1,0 +1,39 @@
+Antecedentes personales
+» Médicos: hipertensión arterial (diagnóstico hace 4 años, seguimiento por Médico de Atención Primaria, buen control en domicilio). Diabetes mellitus tipo 2 (diagnóstico hace más de 20 años, en seguimiento por Endocrinología, con antidiabéticos orales, sin complicaciones micro ni macrovasculares secundarias conocidas). Hipercolesterolemia. Mioma uterino hace 30 años. Eventración infraumbilical pendiente de cirugía programada.
+» Intervenciones quirúrgicas: histerectomía más doble anexectomía.
+» Tratamiento habitual: enalapril 20 mg (1-0-0), metformina 850 mg (1/2-0-1), canagliflozina 100 mg (1-0-0), pioglitazona/alogliptina 25/30 mg (1-0-0), simvastatina 20 mg (0-0-1), lorazepam 1 mg (0-0-1), Symbicort® 2 inh/12 horas desde hace una semana.
+» Vida basal: activa e independiente. Jubilada. Administrativa, jubilada desde el 2014. Soltera. Sin hijos.
+» Hábitos tóxicos: no alcohol. Exfumadora desde el 2016 de 30 cigarrillos-día desde los 18 años (IPA 72).
+» Alergias: sin alergias medicamentosas conocidas.
+
+Anamnesis
+Paciente con antecedentes descritos acude a Urgencias por cuadro de inicio hace 3 meses, de aumento progresivo de disnea hasta hacerse de reposo en la última semana junto con tos seca. Acudió a su Médico de Atención Primaria, quien le pautó tratamiento con Symbicort® sin mejoría clínica evidente. Sin dolor torácico ni sensación de palpitaciones. Sudoración ocasional ni fiebre termometrada en domicilio, distermia o escalofríos.
+Refiere cansancio y debilidad generalizados más acusados en el último mes, con pérdida de 2 kg de peso desde hace 15 días. Anorexia y sensación nauseosa constante (que asocia al inicio de tratamiento con Symbicort®). Dolor lumbar derecho desde hace 2 días (EVA 4-5) no irradiado, no relacionado con el esfuerzo o el movimiento, no le despierta por la noche y no tiene necesidad de tratamiento analgésico. El resto sin incidencias.
+
+Exploración física
+TA (mm Hg): 135/72 mm Hg To 35,4 C FC: 115 lpm Sat. O2: 91 % basal FR: 14 rpm. Glucosa: 124 mg/dl. Buen estado general. Consciente, orientada en 3 esferas y colaboradora. Eupneica en reposo con 12-14 rpm con O2 a 2 lpm en GN. Palidez cutánea. Bien hidratada y perfundida. No IY a 45. No palpo adenopatías laterocervicales, supraclaviculares ni axilares. ACR: RsCsRs sin soplos audibles. Hipoventilación basal derecha sin ruidos patológicos añadidos. Abdomen: RHA aumentados. Blando. Hepatomegalia dolorosa 2 cm traveses. Sin otras masas palpables. No hay signos de irritación peritoneal. EEII: no edemas. Sin signos TVP. Pulsos pedios conservados y bilaterales simétricos.
+
+Pruebas complementarias
+Analítica: sin alteraciones destacables.
+Radiografía de tórax, PA Y LAT (14/03/2018): aumento de densidad parahiliar derecha sugerente de masa a nivel anterior; en placa lateral no se aprecia, elevación de hemidiafragma derecho.
+TC de arterias pulmonares (14/03/2018): defecto de repleción de localización central, sugestivo de trombo a nivel de ambas arterias lobares inferiores y sus ramas segmentarias, compatible con TEP agudo bilateral. Imagen de densidad de partes blandas de localización parahiliar derecha que oblitera el bronquio lobar superior, condicionando atelectasia lobar. Se extiende a mediastino con infiltración capsular hasta nivel de la carina. Engloba arterias segmentarias lobares superiores, así como arteria principal derecha y oblitera la vena lobar superior. Asocia discretas opacidades centrolobulillares con aumento de densidad en vidrio deslustrado, en probable relación con neumonitis distal. Derrame pleural derecho de moderada cuantía. Lámina de líquido pericárdico. Múltiples adenopatías mediastínicas de aspecto irregular, de localización paratraqueal derecha de hasta 10 mm, subaórticas de tamaño subcentimétricos y subcarinal de hasta 2 cm con áreas calcificadas en su interior.
+TC abdominopélvica: múltiples LOES hepáticas, diseminadas en el parénquima hepático, hipodensas, que realzan menos que el resto del parénquima, realce periférico fase arterial, la de mayor tamaño en segmento II de 3 cm y 2,2 cm en segmento IVa. Compatibles con metástasis. Tumoración en relación con glándula suprarrenal izquierda de 4 por 3,1 cm, con realce heterogéneo, áreas centrales hipodensas (de necrosis) compatible con metástasis. Imagen lítica en localización posterosuperior de cuerpo vertebral L1, a considerar la posibilidad de metástasis.
+Broncoscopia (19/03/2018): en tercio distal de tráquea se aprecia una mucosa con signos de infiltración grado II. Carina principal ensanchada con signos de infiltración con mucosa enrojecida, superficie irregular y grosor aumentado (infiltración grado III). Árbol bronquial derecho: desde la entrada del bronquio principal derecho hasta bronquios lobares inferiores se observa una mucosa infiltrada grado
+III. El bronquio lobar superior se encuentra estenosado, permitiendo con dificultad el paso del broncoscopio sin poder ver bronquios segmentarios. Secreciones mucosas escasas. Árbol bronquial izquierdo: desde el bronquio principal izquierdo y hasta carina de separación de bronquio lobar superior e inferior aparece una mucosa infiltrada grado II.
+
+Diagnóstico: neoplasia endobronquial.
+Diagnóstico
+A) EBUS de adenopatía de región 7 (dato clínico): positivo para células malignas. Metástasis de adenocarcinoma, de probable origen pulmonar. Estudio IHQ: TTF1 +, CK 7 +, p40 -, CK5-.
+Diagnóstico molecular:
+Determinación del estado del gen EGFR: mutado (mutaciones Ex19Del, L861Q). ALK no traslocado.
+PDL1 + en el 10 % de las células tumorales aisladas.
+B) Lesión suprarrenal izquierda (dato clínico): positivo para células malignas. Metástasis de carcinoma epidermoide. Estudio IHQ: p40 +, CK5 +, TTF1 -, CK 7 + focal.
+
+Tratamiento
+Tromboembolismo pulmonar bilateral de ambas arterias lobares inferiores y sus ramas segmentarias; estable clínica y hemodinámicamente. Se inicia tratamiento con heparina de bajo peso molecular con buena tolerancia y evolución.
+Masa pulmonar parahiliar derecha con adenopatías múltiples y LOE hepáticas, compatible con adenocarcinoma de pulmón EGFR mutado (mutaciones Ex19Del, L861Q). Afectación metastásica suprarrenal de origen epidermoide.
+Hiperglucemia simple. Se inicia tratamiento con controles de glucemias preprandiales y pauta correctora de insulina con buena tolerancia y evolución.
+
+Evolución
+La paciente ingresa procedente de consulta (primera consulta en Oncología médica), por insuficiencia respiratoria multifactorial. Se pauta tratamiento de soporte y oxigenoterapia. Es valorada por Servicio de Broncoscopias que realiza toracocentesis diagnóstica, drenando 1,5 l de características de exudado. Se realiza ecocardiograma por presencia de derrame pericárdico, que no condiciona complicaciones agudas. Debido a persistencia de disnea y ante visualización de nuevo derrame pleural, se coloca a la paciente un tubo de tórax, que drena 1,8 l, y es retirado al alta sin complicaciones. La paciente mejora clínicamente desde el punto de vista respiratorio, no necesitando oxigenoterapia en el momento actual. Ante el resultado de Anatomía Patológica, evidenciándose la mutación de EGFR, y dada la fragilidad de la paciente en este momento, se decide el inicio de tratamiento con erlotinib, siendo bien tolerado.
+Estando la paciente afebril, estable clínica y hemodinámicamente, se decide alta hospitalaria, con discreta mejoría tras ser valorada en consultas.

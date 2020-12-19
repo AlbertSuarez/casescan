@@ -1,0 +1,32 @@
+Anamnesis
+Mujer de 72 años sin antecedentes médico-quirúrgicos de interés salvo diabetes mellitus tipo 2, dislipemia e hipertensión en tratamiento médico.
+En octubre de 2016, consulta con su médico de cabecera por aparición de lesiones eritematosas en zonas fotoexpuestas (ambos brazos, manos y progresivamente en hemitórax superior, cara y cuero cabelludo). Inicia tratamiento con prednisona 10 mg/24 h con mejoría escasa. Ante persistencia y empeoramiento del cuadro, es valorada por Dermatología en diciembre de 2016, aumentándose la prednisona a 30 mg/24 h y realizándose biopsia-punch cutánea del brazo, que es compatible con dermatitis de interfase tipo degeneración vacuolar e infiltrado inflamatorio linfocitario, con inmunofluorescencia negativa, no pudiendo descartar lupus eritematoso subagudo. Valorada también por Reumatología, se detectan en analítica ANAS+ con especificidad anti-Ro.
+Tras aumento de dosis corticoide, se objetiva mejoría de la clínica cutánea inicial, pero tras descenso de la misma, la paciente comienza con hipoparesia franca de ambas extremidades inferiores, disfagia progresiva, regurgitación nasal y alteración de la voz. Por este motivo, se decide ingreso para estudio y tratamiento.
+
+Exploración física
+ECOG 1. Consciente y orientada. Buena coloración mucocutánea. TA 162/91 mm Hg. Peso 63.700 kg. Cabeza y cuello: voz nasal. Adenopatías supraclaviculares centimétricas. No muestra adenopatías laterocervicales, ni axilares. Extenso rash eritematoso a nivel de cuero cabelludo, párpados, área malar, espacio V laterocervical, escote, antebrazos, dorso y palma de manos, con pápulas de Gottron en articulaciones interfalángicas proximales. Lesiones periungueales y placa eritematosa en muslo derecho. Livedo reticularis en abdomen. Auscultación cardiaca: rítmica a 95 lpm. Auscultación pulmonar: buena ventilación global. Abdomen blando y depresible, no doloroso, no timpánico, ruidos hidroaéreos normales, no megalias. Extremidades inferiores sin edemas o artritis. Fuerza: 4/5 a nivel proximal en pierna derecha, 3+/5 a nivel proximal en pierna izquierda. Fuerza distal normal.
+
+Pruebas complementarias
+Analítica: bioquímica: GOT 88, CPK 945, LDH 514, resto normal. ENA positivos. Anticuerpos antimiositis: Tif1gamma positivo, Ro52 positivo. Serologías negativas. MT: CA 125 67,5.
+Mamografía bilateral y exploración ginecológica: sin hallazgos significativos.
+Ecografía transvaginal y abdominal: útero miomatoso. En zona anexial izquierda, lesión sólida irregular de 79 x 51 x 68 mm. Mínima cantidad de líquido libre.
+TC CTAP: adenopatías supraclaviculares izquierdas de 3 cm, supradiafragmáticas de 3 cm, peritronco celiaco y en ligamento hepatoduodenal. Mínimo derrame pleural bilateral. Adenopatías retroperitoneales interaortocavas y paraaórticas izquierdas. Masa sólida de 10 cm en anejo izquierdo.
+RM pelvis: masa pélvica sólida heterogénea en trompa-ovario izquierdos de 43 x 90 x 75 mm, con áreas necróticas internas, e infiltración de cuerpo uterino. Adenopatías pélvicas iliacas izquierdas patológicas. Nódulo adyacente a fascia mesorrectal derecha. Pequeña cantidad de líquido libre.
+Biopsia de adenopatía supraclavicular izquierda: carcinoma pobremente diferenciado, con inmunohistoquímica compatible con origen ovárico (positivo para: AE1/AE3, CK7, CA-125, WT-1, estrógenos, progesterona; negativo para: TTF1, CK20, GCPDF15, CDX2, P40, CEA, sinaptofisina).
+Citología: atrofia epitelial. Negativo para células malignas.
+Ecocardiograma transtorácico: hipertrofia concéntrica leve con función sistólica conservada. FE 69,5 %. IM e IT mínimas.
+
+Diagnóstico
+Teniendo en cuenta la evolución clínica y los resultados analíticos, radiológicos y anatomopatológicos, se interpreta el cuadro como una dermatomiositis paraneoplásica, con afección cutánea y muscular, en el contexto de un carcinoma de ovario enfermedad diseminada.
+
+Tratamiento
+Se inicia tratamiento inmunosupresor con pulsos de metilprednisolona intravenosa a dosis de 250 mg durante 3 días, seguido de inmunoglobulinas intravenosas durante 4 días y posterior tacrolimus, con mejoría progresiva de la clínica cutánea, de la deglución, la fonación y también la debilidad muscular. Es dada de alta con tacrolimus 5 mg/24 h y prednisona 10 mg/24 h.
+Asimismo, valorada en las consultas de Oncología Médica, con ECOG 1, se propone tratamiento quimioterápico paliativo de la neoplasia subyacente y causante del cuadro paraneoplásico.
+Con superficie corporal de 1,51 y aclaramiento renal de 90 ml/min (fórmula Cockcroft and Gault), el 1-03-2017 inicia tratamiento quimioterápico según esquema carboplatino 6-AUC (637 mg intravenoso) y paclitaxel 175 mg/m2 (264 mg intravenoso) cada 21 días.
+
+Evolución
+Entre el 1-03-2017 y el 30-05-2017 (hasta la fecha), la paciente ha recibido un total de cinco ciclos de quimioterapia, con buena tolerancia, sin precisar retrasos ni reducciones de dosis.
+Desde el punto de vista clínico, ha experimentado una clara mejoría, con progresiva recuperación del balance muscular global, resolución de la disfagia-odinofagia, tonalidad de la voz, edema palpebral y de lesiones cutáneas, persistiendo de éstas, únicamente, remanentes de pápulas de Gottron y alguna placa en brazos y en escote.
+Desde el punto de vista analítico, se objetiva normalización de marcadores tumorales desde el 3º ciclo, así como disminución de enzimas musculares.
+Desde el punto de vista radiológico por TC CTAP, tras 3er ciclo en mayo de 2017, se evidencia respuesta parcial del 45 % del sumatorio de lesiones dianas, con disminución de tamaño de la masa en ovario izquierdo (a 39 mm) y de la afectación ganglionar (disminución de las adenopatías supraclaviculares izquierdas, ahora milimétricas, de las adenopatías peritronco celiaco, en hilio hepático y retroperitoneales paraaórticas izquierdas).
+Asimismo, se ha podido ir reduciendo la dosis de prednisona (a 5 mg/24 h) y de tacrolimus (a 3 mg/24 h).

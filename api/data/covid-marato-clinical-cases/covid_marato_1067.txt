@@ -1,0 +1,46 @@
+Anamnesis
+Varón de 58 años sin alergias medicamentosas conocidas, hipertenso, con diabetes mellitus no insulinodependiente. Presenta síndrome de apnea del sueño en seguimiento por el servicio de Neumología. Fumador (IPA = 41 paquetes/año) y no bebedor habitual.
+
+Como antecedentes familiares presenta padre con cáncer de pulmón a los 80 años, madre con cáncer de mama a los 60 años y tía materna con cáncer de pulmón a los 50 años aproximadamente.
+
+En enero de 2012, en una revisión realizada por el Servicio de Neumología durante el seguimiento del síndrome de apnea del sueño que padece, se observó un nódulo pulmonar solitario en el lóbulo superior derecho en una radiografía de tórax de control. Se recomendó seguimiento de la lesión y en abril de ese mismo año se solicitó una TC de tórax de control,observándose una duplicación del tamaño del nódulo, por lo que se decide derivar al paciente a un Servicio de Cirugía Torácica para valorar su extirpación.
+
+En mayo de 2012, sin estudio de extensión previo, se realizó una segmentectomía atípica por un nódulo pulmonar de 1 cm en el lóbulo superior derecho, cuyo resultado anatomopatológico fue de tumor de células claras a descartar origen renal por los resultados inmunohistoquímicos obtenidos.
+
+En este momento es derivado al Servicio de Oncología Médica.
+
+Exploración física
+Paciente asintomático, con buen estado general y ECOG-1 por molestias secundarias a la intervención realizada. Sin hallazgos destacables en la exploración física realizada.
+
+Pruebas complementarias
+» Analítica con bioquímica y hemograma sin alteraciones.
+» Se solicitó TC toracoabdominopélvica (TC-TAP) para la búsqueda del tumor primario en junio de 2012, destacando una lesión compatible con neoplasia de riñón derecho de 7,6 x 7,1 cm. En el riñón izquierdo se observaron formaciones quísticas corticales de 2,8 y 2,6 cm.
+
+Diagnóstico
+Cáncer renal de células claras metastásico.
+
+Tratamiento
+Se comentó el caso en el comité de tumores urológicos, y se decidió la realización de nefrectomía derecha el 29 de agosto de 2012. Esta lesión correspondía a un tumor renal de células claras, grado 3 de Fuhrman con invasión linfovascular (pT2aNx). Ante estos hallazgos se solicitó una nueva TC-TAP de control postcirugía en diciembre de 2012.
+
+En ella se observaron múltiples nódulos pulmonares milimétricos bilaterales sugerentes de metástasis, junto con una lesión en el hueso ilíaco derecho de 1,4 cm y un aumento de captación sacroilíaca y en el quinto arco costal izquierdo en relación, todo ello, con cambios degenerativos. Posteriormente se descartó afectación metastásica ósea mediante gammagrafía ósea.
+
+Por lo tanto, en estos momentos, el paciente presentaba metástasis pulmonares de un cáncer renal de células claras con nefrectomía izquierda realizada, con un pronóstico intermedio según la clasificación de Heng. Así, y tras comprobar que la fracción de eyección del ventrículo izquierdo (FEVi) estaba conservada y que no existían alteraciones en el electrocardiograma ni analíticas, el 20 de diciembre comienza tratamiento con sunitinib 50 mg cada 24 horas durante 28 días, con 2 semanas de descanso.
+
+Evolución
+En la TC-TAP de reevaluación realizada en abril de 2013 se observa desaparición de metástasis pulmonares, junto con cambios postquirúrgicos en la zona de nefrectomía.
+
+Durante el tratamiento, el paciente presentó astenia grado II y síndrome mano-pie grado II durante las 4 semanas de tratamiento, que reduce a grado I en las 2 semanas de descanso, junto con mucositis grado I-II mientras realizó el tratamiento. El paciente también precisó ajuste de dosis del antihipertensivo que ya tenía pautado.
+
+A pesar de la toxicidad presentada, se decidió continuar con sunitinib sin cambio de dosis, por el buen control de la enfermedad. Se realizaron TC-TAP cada 5 meses, sin encontrar cambios significativos con respecto a los anteriores. En mayo de 2014 destaca un nódulo de 3 mm en la zona posterior del lóbulo superior izquierdo, con aumento de tamaño de la lesión en la zona de nefrectomía de 1 cm, junto con un engrosamiento inespecífico del cuerpo gástrico.
+
+Realizando una nueva anamnesis al paciente, refería molestias gástricas inespecíficas en los últimos meses. Por los hallazgos de la TC y las molestias referidas, se solicitó una gastroscopia, que se realiza en julio de 2014. En ella se observó una lesión en el cuerpo gástrico de 0,6 cm, ulcerada, con afectación de la mucosa y la submucosa, cuya biopsia fue descrita como metástasis de carcinoma de células claras concordante con tumor primario renal.
+
+Dada la progresión de la enfermedad, se cambia a segunda línea de tratamiento con axitinib a 5 mg cada 12 horas, comenzando en agosto de 2014.
+
+En TC-TAP posteriores se observa buen control de la enfermedad a nivel pulmonar y gástrico, pero la lesión en la zona de nefrectomía comienza a aumentar de tamaño (1,3 cm en la última prueba de imagen realizada en octubre de 2014).
+
+Valorado de nuevo en el comité de tumores urológicos, se decide nueva intervención. La cirugía se realiza en febrero de 2015, llevándose a cabo la extirpación del nódulo en el lecho de nefrectomía y una gastrectomía parcial. Los resultados de la anatomía patológica fueron sorprendentes, ya que se confirmó metástasis en la mucosa gástrica de cáncer renal de células claras, pero la masa del lecho de nefrectomía finalmente se observó que correspondía a una hemorragia suprarrenal con hiperplasia nodular cortical focal.
+
+Con estos resultados, se solicita una nueva TC-TAP en abril de 2015, describiéndose un nódulo pulmonar en el LSI sin cambios y colecciones hepáticas secundarias a la cirugía. 
+
+El paciente actualmente se encuentra asintomático y, dada la buena tolerancia al tratamiento con axitinib, se decide mantener este fármaco. Presenta FEVi conservada, buen control de la presión arterial y cifras analíticas sin alteraciones.  

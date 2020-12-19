@@ -1,0 +1,23 @@
+Anamnesis
+Mujer de 70 años sin alergias medicamentosas conocidas y antecedentes de HTA e histerectomía por miomas. Ingresa en junio de 2012 en el Servicio de Digestivo por cuadro diarreico de 2 años de evolución con pérdida de 20 kg de peso, resistente a tratamiento ambulatorio. En la tomografía computarizada (TC) se detectan unas adenopatías mediastínicas patológicas y dudosas lesiones hepáticas. Se realiza una mediastinoscopia con toma de biopsias. Antatomía patológica: carcinoma medular de tiroides. Es derivada al Servicio de Oncología Médica.
+
+Examen físico
+En el momento de la valoración por Oncología, la paciente presenta un buen estado general, ECOG PS 1 por persistencia de deposiciones diarreicas. Exploración cardiopulmonar normal. Abdomen sin hallazgos.
+
+Pruebas complementarias
+Se completa estudio de extensión:
+Marcadores tumorales: NSE 46.4, CEA 347.2, cromogranina 7.309,4, calcitonina 30.000.
+ECO tiroidea: adenopatías adyacentes a lóbulo tiroideo de aspecto metastásico. En el tercio medio del lóbulo tiroideo izquierdo (LTI), nódulo heterogéneo hipoecoico con calcificaciones de 14,5 x 12,2 mm.
+TC body: adenopatía cervical adyacente al LTI, conglomerado adenopático paratraqueal derecho, derrame pericárdico, hepatomegalia con múltiples nódulos sugestivos de metástasis y metástasis óseas a nivel D10, D12 y húmero derecho.
+En el estudio de extensión se incluye el despistaje de los síndromes de neoplasias endocrinas múltiples (MEN), con catecolaminas en orina, gammagrafía suprarrenal y niveles de PTH. Todo ello resulta negativo.
+
+Diagnóstico
+Carcinoma medular de tiroides estadio IV (óseas, hepáticas, ganglionares).
+
+Tratamiento
+Se solicita tratamiento por uso compasivo de vandetanib 300 mg/día que la paciente inicia en septiembre de 2012.
+Como toxicidad principal destaca hipertensión arterial que requirió manejo farmacológico y reducción de dosis a 200 mg/día. Toxicidad cutánea G1 en manos, pies y axilas.
+
+Evolución
+A los 3 meses de tratamiento se realiza valoración de la respuesta: existe una respuesta completa clínica con desaparición de las diarreas y ganancia progresiva de peso. Respuesta parcial radiológica por TC con disminución del 40 % del conglomerado adenopático mediastínico y desaparición de las metástasis hepáticas. Respuesta bioquímica con descenso importante de los niveles de CEA y calcitonina.
+La paciente ha continuado tratamiento con vandetanib hasta la actualidad. En la última TC de abril de 2013 se observa una respuesta completa radiológica, sin adenopatías mediastínicas patológicas. Persiste el descenso de marcadores (CEA 54, calcitonina 457). Clínicamente, se mantiene asintomática y con buena tolerancia al tratamiento.

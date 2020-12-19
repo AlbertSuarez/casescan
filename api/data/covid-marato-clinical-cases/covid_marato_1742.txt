@@ -1,0 +1,35 @@
+Anamnesis
+Se trata de un varón de 87 años con antecedentes de hipertrofia benigna de próstata y un episodio de ulcus duodenal.
+Ha sido intervenido quirúrgicamente de cataratas.
+Funcionalmente presenta un excelente estado general, con plena autonomía para actividades básicas de la vida diaria, y sin deterioro cognitivo. Su puntuación en la escala Barthel da un resultado de 100.
+En seguimiento por los Servicios de Medicina Interna y Cirugía Vascular por cuadro de edema de extremidad inferior izquierda, progresivo, de años de evolución. En 2014 se objetivó bultoma en zona poplítea con empeoramiento del edema, por lo que se completó el estudio con hallazgo de tumor fibroso solitario.
+El paciente inició entonces seguimiento clínico y radiológico. Se encontraba bien, sin repercusión funcional (paseaba a diario). Clínicamente, la lesión presentaba un crecimiento muy lento, sin destrucción de tejidos adyacentes.
+Tras cuatro años de seguimiento, el paciente presentó un cuadro de pérdida de consciencia recuperado espontáneamente, pero con adormecimiento y amnesia de lo ocurrido. Unas horas más tarde, presenta de nuevo otro cuadro similar, por lo que es traído a Urgencias donde se objetiva hipoglucemia (49) con gasometría arterial dentro de parámetros normales. Las pruebas de imagen torácica y craneal fueron normales. Ingresó para control clínico y estudio.
+
+Exploración física
+» ECOG 0.
+» Afebril.
+» Auscultación cardiaca rítmica y sin soplos. Auscultación pulmonar con crepitantes leves en bases.
+» Abdomen blando y depresible sin hepatomegalia.
+» Bultoma en zona poplítea izquierda de consistencia rugosa con varices hasta mitad de muslo, aumento local de temperatura. Signos de insuficiencia venosa de predominio izquierdo. No tiene problemas en la marcha ni inestabilidad.
+» Sin focalidades neurológicas sensitivo-motoras.
+
+Pruebas complementarias
+» Ecografía Doppler: masa sólida de ecogenicidad heterogénea, parcialmente vascularizada. Se localiza en el borde interno y en el hueco poplíteo de la rodilla izquierda.
+» Resonancia magnética: masa localizada en el espacio graso entre bíceps femoral y aductor mayor, de unos 10 x 6 x 11 cm. Bordes bien definidos y morfología lobulada, con importante captación de contraste. La masa desplaza el paquete vascular femoral superficial, colapsando la vena femoral y produciendo trombosis asociada. También existe contacto con nervios ciático poplíteo externo e interno, así como superficie ósea femoral posterior sin invasión ósea.
+» Biopsia musculoesquelética: tumoración muy vascularizada en región posterior de rodilla y región distal de muslo. Se realizan dos pases con aguja tru-cut 18G.
+» Anatomía Patológica: proliferación celular con patrón hipervascularizado, de densidad moderada y tendencia hemangiopericitoide. Uno de los cilindros muestra células gigantes multinucleadas con paredes vasculares y acúmulos de histiocitos. Únicamente de forma aislada se objetiva alguna mitosis no atípica. Positividad inmunohistoquímica para CD99 y DCL2 con CD34. Estudios moleculares realizados con FISH para sarcoma sinovial (SYT [18q11.2]) y sarcoma de Ewing (EWS [22q12]) son negativos. Ante la ausencia de datos de malignidad, pese a la negatividad de CD34, se plantea como primera posibilidad el diagnóstico de tumor fibroso solitario.
+» Angio-TC: masa en muslo altamente vascularizada. Fístula arteriovenosa de alto flujo que produce relleno del sistema venoso en fase arterial.
+» Analítica de sangre: glucosa 45, insulina 02mU/l (2-17). Péptido C 60 pmol/l (260-1.730).
+» Corticotropina 41 (10-46).
+
+Diagnóstico
+» Tumor fibroso solitario de extremidad inferior izquierda.
+» Hipoglucemia mediada por secreción ectópica de IGF-2 (insulin-like growth factor 2): síndrome de Doege-Potter.
+
+Tratamiento
+Se inició aporte de glucosa mediante fluidoterapia y se inició tratamiento con prednisona 10 mg cada 8 h, tras lo que se alcanzó un correcto control glucémico.
+Se comentó el caso en comité multidisciplinar junto con los servicios de Traumatología, Oncología Radioterápica, Oncología Médica y Cirugía Vascular. Se valoró la opción quirúrgica, pero se desestimó dado el riesgo de una embolización previa (necesaria para una resección quirúrgica completa) y las posibilidades de secuelas inaceptables. Se optó por un tratamiento conservador con radioterapia paliativa para control local de enfermedad, y el empleo de prednisona a la dosis mínima eficaz, reservando el tratamiento sistémico para una posible progresión de enfermedad con nuevos episodios de hipoglucemia.
+
+Evolución
+En la actualidad el paciente se encuentra con buen estado general, sin nuevos episodios de hipoglucemia. No presenta repercusión funcional para la marcha y mantiene un nivel de actividad similar al previo.

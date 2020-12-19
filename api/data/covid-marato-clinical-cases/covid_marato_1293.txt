@@ -1,0 +1,22 @@
+Anamnesis
+Mujer de 65 años de edad, sin alergias medicamentosas conocidas, dislipemia en tratamiento médico e insuficiencia aórtica leve. No presenta hábitos tabáquico (fumadora pasiva) y enólico.
+Diagnosticada en mayo de 2011 a raíz de tos irritativa de dos meses de evolución de un adenocarcinoma de pulmón EGFR no mutado, sin traslocación de ALK, estadio IV al diagnóstico por diseminación ósea en L5, pedículo izquierdo de L4, ala ilíaca derecha y tercio posterior del ala ilíaca izquierda, acetábulo izquierdo y celda cotiloidea izquierda.
+Recibió radioterapia paliativa antiálgica a nivel sacroilíaca bilateral, L5-L4 y coxofemoral izquierda con una dosis total de 30 Gy con buena paliación.
+En julio de 2011 inició quimioterapia esquema cisplatino 75 mg/m2 + pemetrexed 500 mg/m2 del que completó un total de 4 ciclos con reducción de un 20% de dosis de pemetrexed tras el segundo ciclo por neutropenia febril grado 3 tras el primer ciclo con mejoría sintomática y estabilización de la enfermedad por imagen por lo que la paciente continuó con tratamiento con Pemetrexed en monoterapia.
+Estando en curso de tratamiento con pemetrexed la paciente consultó por una clínica de fiebre de hasta 39 ºC con escalofríos, artromialgias, con dolor, eritema y edema en dorso de mano izquierda.
+La analítica mostraba leucocitosis con neutrofilia, linfopenia y aumento de reactantes de fase aguda.
+Se orientó inicialmente como celulitis secundaria a flebitis y se inició tratamiento antibiótico con amoxililina-clavulánico. La paciente consultó nuevamente tras dos días por persistencia del síndrome febril y aparición de dolor articular en ambos tobillos, rodilla derecha, mano y muñeca izquierda. Se inició tratamiento con cloxacilina y se decidió ingreso hospitalario.
+
+Exploración física
+Hemodinámicamente estable, eupneica. Temperatura de 38,5 ºC. Tonos cardíacos rítmicos, sin soplos ni roces. Murmullo vesicular conservado. No otros ruidos sobreañadidos. Eritema y edema con aumento de la temperatura local con limitación a la flexoextensión en el dorso de las manos y a nivel de rodilla derecha. Edema en ambos tobillos, con poco signo de la fóvea.
+
+Pruebas complementarias
+• Analítica sanguínea al ingreso: proteína C reactiva >320 mg/L (0,0-5,0); Hb 91 g/dL (120-155); VCM 85,2 fL (80,0-98,0); leucocitos 14,06 x 10E9/L (3,80-11,00); neutrófilos absolutos 12,28 x 10E9/L (1,80-7,00); monocitos absolutos 1,10 x 10E9/L (0,00-0,80); linfocitos absolutos 0,67 x 10E9/L (1,00-4,00).
+Resto sin alteraciones.
+
+Evolución
+La paciente persistió febril con tratamiento antibiótico con cloxacilina. Los cultivos de orina y sangre fueron negativos. Un ecocardiograma transesofágico descartó la presencia de vegetaciones en las válvulas cardíacas y la radiografía de tórax no mostró condensaciones. La radiografía de muñeca izquierda no mostraba hallazgos significativos.
+Se realizó un estudio reumatológico (factor reumatoide, complemento, crioglobulinas, anticerpos antimitocondriales, antimúsculo liso, antimucosa gástrica, ANA, anti-RO/SSA y antipéptido citrulinado) negativo.
+En busca de la etiología del síndrome febril, se solicitaron serologías para virus Epstein-Barr, virus herpes tipo 6, hepatitis A, B y C, fiebre tifoidea, Yersinia y virus de la inmunodeficiencia humana, todas ellas negativas. Las serologías para citomegalovirus (IgM e IgG) resultaron positivas.
+Tras el diagnóstico de infección por Citomegalovirus con poliartritis reactiva, se inició tratamiento antiviral con ganciclovir endovenoso 5 mg/kg cada 12 horas del que completó un total de 21 días de tratamiento.
+Desde el inicio del tratamiento, la paciente permaneció afebril, con resolución de la poliartritis tras siete días de tratamiento con Ganciclovir.

@@ -1,0 +1,47 @@
+Anamnesis
+Paciente varón de 16 años, que desde 2010 presenta dolor en el costado izquierdo que aumenta con la inspiración, los movimientos y la palpación, de intensidad leve a moderada, por lo que ha consultado en varias ocasiones, atribuyéndose a dolor de tipo muscular.
+El día 23/5/2012 acude a Urgencias por dolor intenso costal izquierdo que le dificulta la respiración y que apareció mientras practicaba deporte.
+Antecedentes: síndrome de Klinefelter en mosaico 46xy/47xxy.
+Antecedentes familiares: abuela paterna con neoplasia de páncreas, abuela materna con neoplasia de pulmón.
+
+Examen físico
+Consciente y orientado en las tres esferas. Postura antiálgica, eupneico sin oxígeno suplementario. Hábito asténico.
+Auscultación cardiopulmonar: ruidos cardiacos rítmicos, sin soplos, murmullo vesicular conservado, sin ruidos sobreañadidos.
+Abdomen: se palpa hepatomegalia de 2 cm, no dolorosa, abdomen con defensa voluntaria.
+Genitourinario: en la palpación testicular no se palpan nódulos, epidídimo derecho agrandado.
+Extremidades inferiores: no edemas, no signos de trombosis venosa profunda.
+SNC: nada digno de señalar.
+
+Pruebas complementarias
+- En la analítica destacan: BHCG 5 UI/l, alfa-fetoproteína > 10.854.000 mcg/l, FSH normal, LDH 274 UI/l, LH < 20 UI/.
+- Electrocardiograma: con datos de repolarización precoz.
+- Radiografía de tórax: masa pulmonar izquierda retrocardiaca, 4 nódulos pulmonares derechos.
+- TC total body: gran masa en el mediastino anterior que invade el pulmón izquierdo, mide 129 x 89 x 131 mm. Desplaza el mediastino y el corazón hacia la derecha. Contacta con la pleura visceral ipsilateral, comprime el bronquio y la arteria lobar superior, engloba el bronquio y la arteria lobar inferior. Pérdida de volumen del LII, derrame pleural atípico. Se aprecian 4 nódulos metastásicos en el pulmón derecho.
+- Ecocardiograma: se descarta infiltración.
+- Ecografía escrotal: pequeño espermatocele derecho.
+- No existe evidencia de enfermedad a otros niveles, habiéndose realizado una TC cerebral, GGO.
+
+Diagnóstico
+Se toman muestras ecoguiadas y por broncoscopia.
+Histología: tumor de células germinales mixto, con componente tipo tumor del seno endodérmico (yolk sac) y teratoma maduro.
+
+Tratamiento
+El 11/6/2012 inicia primera línea de quimioterapia con esquema BEP (bleomicina, etopósido y cisplatino) del que recibe 4 ciclos. Sufre varios retrasos por neutropenias afebriles e infecciones del tracto respiratorio. Al finalizar el tratamiento presenta una AFP 65 mcg/l.
+En la TC de 27/8/2012 se objetiva respuesta parcial por criterios RECIST. Disminución tanto del tumor como de los nódulos pulmonares.
+Se presenta en comité multidisciplinario de tumores y se decide el rescate quirúrgico.
+El 4/10/2012 se realiza exéresis de la masa mediastínica y metastasectomía pulmonar derecha.
+Anatomía patológica: tumor de células germinales mixto. Componente tipo tumor del seno endodérmico (yolk sac) 7% y teratoma maduro. Tamaño 15,5 cm, 35% de necrosis. Bordes quirúrgicos no valorables por fragmentación. Dos de los 4 nódulos pulmonares son positivos para metástasis pulmonares del tumor del seno endodérmico de 1,7 y 2,7 cm a 0,2 cm del borde quirúrgico.
+
+Evolución
+Sufre PCR intraoperatoria, con buena respuesta al masaje cardiaco interno. Posterior evolución tórpida por shock séptico y neumonía basal derecha por Pseudomonas aeruginosa. Precisa la colocación de una traqueostomía por insuficiencia respiratoria prolongada y de un tubo de tórax por derrame pleural. Permanece ingresado 3 meses y se aprecia un lento ascenso de la AFP hasta 3.706 mcg/l. TC-tórax (21/11/12): aumento del 90 % de la tumoración mediastínica. Mide 87 x 70 x 130 mm. Múltiples masas en la pleura costal y la cisura mayor izquierdas de reciente aparición. Múltiples metástasis hepáticas de novo.
+Por resección incompleta, rápida progresión PS-2-3, se decide una segunda línea con esquema TIP (paclitaxel, ifosfamida y cisplatino). Se administra el primer ciclo al 80%, pero se suspende a las 24 horas por inestabilidad hemodinámica y neumonía derecha por Pseudomonas aeruginosa. Tras la estabilización y el tratamiento antibiótico se reinicia tratamiento, recibiendo en total 4 ciclos del esquema TIP con regular tolerancia por neutropenia febril y trombopenia grado IV que requirieron ingresos, consiguiéndose una disminución progresiva de la AFP hasta valores normales de 33,15 mcg/l.
+TC (2/4/2013): respuesta parcial con disminución de la masa mediastínica, no se aprecian nódulos pumonares ni lesiones hepáticas.
+Dada la respuesta clínica, analítica y por imagen, se decide suspender el tratamiento con quimioterapia y valorar las posibilidades de tratamiento local con radioterapia con intención radical, pero mientras espera para comenzar acude a Urgencias por cisis comiciales y vómitos persistentes, por lo que se le realiza una TC craneal.
+TC cerebral (17/5/2013): masas parietal derecha de 29 x 18,4 mm y frontal izquierda de 58 x 43 mm con edema vasogénico asociado. Sistema ventricular izquierdo comprimido y desviación de la línea media de 4 mm a la derecha.
+Debido a la progresión cerebral se desestima el tratamiento con radioterapia sobre la masa mediastínica y se administra radioterapia holocraneal en 5 sesiones y en un segundo tiempo un boost en 3 sesiones. A las 48 horas del inicio de la radioterapia presenta deterioro neurológico y crisis parciales complejas, que requieren de la administración de varios fármacos anticomiciales a altas dosis para su control.
+TC-TAP (10/6/2013): aumento de la masa mediastínica, mide 4,2 cm. Se observan nuevos focos metastáticos en la pleura parietal y mediastínicos izquierdos, un nódulo de 3,2 cm en el LSI y una LOE hepática de 1 cm en el LHI. Lesión lítica metastásica con componente de partes blandas en el cuerpo de L2.
+Analíticamente se aprecia ascenso de la AFP hasta 9.504 mcg/l.
+El 26/6/2013 ingresa por dolor torácico, desaturacion hasta el 85% y crisis comiciales. Presenta además dolor lumbar irradiado al muslo izquierdo e incontinencia parcial de esfínter vesical.
+Ante la sospecha de compresión medular, se le realiza una RM de la columna lumbosacra el 26/6/2013, donde se objetiva metástasis ósea en el cuerpo vertebral L2, así como en el pedículo izquierdo, con destrucción de la cortical y componente de partes blandas que produce estenosis del receso lateral ipsilateral e invasión de la grasa epidural con compromiso de la raíz L1 izquierda.
+Recibe altas dosis de corticoides y radioterapia descompresiva en una sola fracción.
+Ante la rápida progresión con cifras de AFP de 16.900 mcg/l, el 25/6/2013 se decide iniciar una tercera línea con esquema GEMOX, del que recibe 2 ciclos. Se suspende por disnea y estridor laríngeo por estenosis traqueal del 70% de la luz secundario a malacia. Se coloca una endoprótesis traqueal el 18/7/2013, pero sufre una sobreinfección de la misma, aislándose Pseudomonas aeruginosa. A pesar del tratamiento antibiótico ajustado a la sensibilidad del germen y la terapia de soporte, el paciente sufre un importante deterioro clínico, con aumento de las secreciones respiratorias, fiebre y derrame pleural izquierdo, infiltrado alveolar basal izquierdo que causan su fallecimiento el 27/7/2013 por insuficiencia respiratoria.

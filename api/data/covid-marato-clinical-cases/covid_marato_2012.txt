@@ -1,0 +1,24 @@
+Anamnesis
+Mujer de 60 años, exfumadora de 40 paquetes/año, con arterosclerosis asintomática de arteria ilíaca izquierda e hipotiroidismo residual tras ablación de nódulo tiroideo. No refiere diabetes mellitus ni tratamiento que limite la motilidad gastrointestinal.
+En seguimiento en consultas de Gastroenterología por un cuadro de 3 meses de evolución de epigastralgia, disfagia progresiva para líquidos y sólidos, exacerbación del estreñimiento crónico a pesar del tratamiento habitual y pérdida de 15 kg de peso. Refiere regurgitación de alimentos y dolor abdominal ocasional.
+
+Examen físico
+ECOG 1. Índice de masa coporal (IMC) 17,6. Abdomen: ruidos hidroaéreos disminuidos, abdomen escasamente distendido, timpánico a la percusión, molesto a la palpación profunda en flanco izquierdo. No se palpan masas ni megalias. Examen neurológico normal.
+
+Pruebas complementarias
+Analítica: hipoproteinemia leve.
+Manometría esofágica: esfínter esofágico inferior normotenso, asimétrico, con relajaciones cortas o ausentes.
+Aperistalsis de cuerpo esofágico, esfínter esofágico superior normal. Tránsito gastrointestinal: sugiere tránsito lento de predominio distal.
+Estudio endoscópico: esofagitis péptica grado B, retención gástrica y pólipo plano en ángulo hepático (adenoma tubular).
+Tomografía computarizada (TC) body: adenopatías en el hilio derecho y lobares inferiores derechas e inespecífica subcarinal. Estómago distendido.No se observa engrosamiento de la pared gástrica. Marco cólico con abundantes heces.
+TC craneal: normal.
+Dados los hallazgos observados en las pruebas de imagen y la clínica subyacente, se sospecha en este momento la afectación paraneoplásica. Se solicita punción-aspiración con aguja fina (PAAF) de la adenopatía subcarinal que muestra citología de carcinoma de células pequeñas. Marcadores tumorales normales, salvo enolasa 17,5 y cromogranina A 122,6. Estudio de anticuerpos onconeuronales positivo (Anti-Hu positivo).La PET/TC confirma la captación anómala en el hilio derecho y la adenopatía subcarinal, sin enfermedad a otro nivel. Dado lo atípico del caso, se confirman los hallazgos citológicos mediante mediastinoscopia.
+
+Diagnóstico
+Carcinoma pulmonar de células pequeñas, cTxN2M0,con pseudo-obstrucción intestinal crónica por afectación del tracto gastrointestinal de origen paraneoplásico.
+
+Tratamiento
+Esquema carboplatino AUC 5 día 1 y etopósido (VP16) 100 mg/m2 1-3 cada 21 días durante 4 ciclos con radioterapia externa torácica secuencial (recibiendo dosis total de 60 Gy) e irradiación craneal profiláctica.
+
+Evolución
+Presenta al finalizar el tratamiento secuencial un cuadro compatible con síndrome Guillain-Barré like confirmado por punción lumbar y electromiograma (EMG). Fue tratado con inmunoglobulina iv con buena evolución. Actualmente, en respuesta completa, camina sin ayuda y persiste la tendencia al estreñimiento.

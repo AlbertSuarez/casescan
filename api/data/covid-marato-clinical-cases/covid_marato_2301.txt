@@ -1,0 +1,28 @@
+Anamnesis
+Mujer de 72 años, con antecedentes personales de HTA, cólicos nefríticos, poliposis rectal. Intervenida de apendicectomía, cataratas, artroscopia de rodilla y tiroidectomía total en 2009 con resultado AP de bocio dishormonogenético. Presenta dolor costal derecho de características inflamatorias que no mejora con tratamiento médico.
+
+Examen físico
+ECOG 0. Paciente consciente, orientada, receptiva y perceptiva. Eupneica en reposo. Palidez cutánea no mucosa.
+Normohiddratada. Glasgow 15. Cabeza y cuello: cicatriz de tiroidectomía; no se palpan adenopatías laterocervicales ni supraclaviluares. Tórax simétrico y expansible. Auscultación pulmonar: normoventilación. Auscultación cardiaca: ritmo cardiaco rítmico a 75 lpm sin soplos ni extratonos. Abdomen: ligeramente excavado, blando, depresible, no doloroso. No presenta signos de irritación peritonal. Peristaltismo presente. Extremidades inferiores: no se observan edemas ni signos de TVP.
+
+Pruebas complementarias
+- Radiografía simple realizada por dolor costal derecho: lesión osteolítica en 3.ª costilla derecha de aspecto maligno. Se le realizó biopsia el 28/3/2011, que demostró parénquima tiroideo con patrón folicular no identificándose zonas de carcinoma ni invasión linfática o vascular.
+- TC toracoabdominal (mayo de 2011): masa de partes blandas con destrucción del arco anterior de la tercera costilla derecha, destrucción del componente anterior de D10 y destrucción del trócanter menor de la cadera derecha compatibles con diseminación metastásica. Nódulos pulmonares bilaterales compatibles con metástasis.
+- Rastreo con 131I (julio de 2011) que diagnosticó metástasis óseas múltiples en esqueleto axial, calota, pelvis y fémures.
+
+Diagnóstico
+Carcinoma folicular de tiroides estadio IV (metástasis óseas múltiples en esqueleto axial, calota, ambos fémures, parrilla costal, pelvis, diáfis humeral izquierda y muy probables pulmonares).
+
+Tratamiento
+La paciente se derivó a Medicina Nuclear para la realización de tratamiento con 131I y se administró una dosis de de 200 mCi con protocolo de TSHrh el 4/7/2011. Las cifras de TSH eran de 150,99 ?U/ml, los niveles de tiroglobulina de 284.160 ng/ml y las cifras de anticuerpos antitiroglobulina de 21,51 UI/ml.
+En el rastreo posterapia se observaron metástasis óseas en calota, raquis, parrilla costal, pelvis, fémures y muy probables pulmonares.
+Posteriormente al tratamiento con radioyodo, la paciente presentó gran mejoría clínica y disminución de las cifras de tiroglobulina a 48.700 ng/ml.
+En revisión en octubre de 2011 se ha producido un aumento de la tiroglobulina de 59.145 y en la TC parece haber crecido la tumoración costal. En su evolución posterior presentó dolor de elevada intensidad metastásico a nivel pélvico y fue atendida en otro centro (CUN) donde desde el 21/12/2011 al 11/1/2012 la paciente recibió fracciones diarias de radioterapia en L5, sacro, isquión izquierdo y fémur derecho hasta alcanzar una dosis total de 35 Gy en todos los volúmenes.
+Tras esto, fue remitida a Medicina Nuclear para valorar la realización de nuevo tratamiento con radioyodo, que se realizaría con protocolo de TSHrh. Se administra la TSHrh por vía IM los días 20 y 21/2/2012. Se administran 100 mCi de 131I por vía oral.
+Rastreo posterapia: sin cambios respecto a previos. Clínicamente dolor.
+Durante el seguimiento posterior, se objetivaron aumento de marcadores (TGB, ac antitiroideos) y progresión en imagen radiológica con hallazgos de fracturas en rama iliopubiana e isquiopubiana derechas, así como isquiopubiana izquierda (sobre zona ya irradiadas). Clínicamente, dolor a pesar de tercer escalón de analgesia.
+Tras valorar las dosis de irradiación recibidas y la posibilidad de iatrogenia con una nueva dosis de 131I, se considera a la paciente iodorrefractaria, por lo que se solicitó sorafenib como uso compasivo por sus buenos resultados entonces en ensayo fase II.
+
+Evolución
+Inicio el 22/11/2012 el tratamiento 400 mg dos veces al día, presentando mejoría clínica, disminución de marcadores (TGB) y enfermedad estable en pruebas radiológicas (TC) y rastreos con 131I.
+Tras casi dos años, la paciente continúa desde entonces con sorafenib a dosis 800 mg/día sin apenas toxicidad, excepto síndrome mano-pie grado 1 y, sobre todo, con una excelente calidad de vida, encontrándose ECOG 0 y sin limitación funcional para actividades diarias.

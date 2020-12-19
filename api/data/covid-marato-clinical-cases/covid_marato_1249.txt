@@ -1,0 +1,24 @@
+Anamnesis
+Mujer de 63 años, diagnosticada en junio de 2004 de un carcinoma seroso papilar bien diferenciado de ovario estadio IIIC. No fue posible realizar una cirugía citorreductora. Recibió quimioterapia con carboplatino AUC = 5 + paclitaxel 175 mg/m2 x 3 ciclos, con criterios clínicos y radiológicos de progresión. Recibió una segunda línea de quimioterapia con topotecan /21 días x 6 ciclos, con estabilización de la enfermedad, y fue retratada con carboplatino + paclitaxel x 5 ciclos. Tras ello se realizó una cirugía reglada practicándose: histerectomía + doble anexectomía + omentectomía + linfadenectomía pélvica, con citorreducción óptima. En julio de 2007 se evidenció una recaída de la enfermedad en la pared gástrica por PET-TC y la elevación de CA 125 que fue confirmada mediante ecoendoscopia con biopsia. Se realizó una cirugía de citorreducción máxima peritoneal asociada a quimioterapia intraperitoneal (HIPEC) sin complicaciones.
+En mayo de 2011 se detectó progresión peritoneal. Recibió doxorubicina liposomal pegilada (DLP) 40 mg/m2 cada 28 días, obteniendo respuesta completa y se mantuvo el tratamiento durante 12 ciclos. Como toxicidad presentó mucositis de grado 2, sin resolución pese al tratamiento. En junio de 2012, en consulta de seguimiento, refiere dolor lingual, de un mes de evolución, que le impide la normal deglución y en la exploración se observa una úlcera en el borde lingual derecho.
+
+Examen físico
+ECOG: 1.
+Se evidencia tumoración indurada y ulcerada a nivel del borde lateral derecho y base de la lengua friable sangrante al roce.
+
+Pruebas complementarias
+• TC cervicotoracoabdominal: lesión ulcerada en los 2/3 anteriores de la lengua que infiltra el músculo sin sobrepasarlo asociado a adenopatías patológicas cervicales derechas.
+• Anatomía patológica: carcinoma epidermoide. VPH: negativo.
+• PET-TC: tumoración en 2/3 anteriores de la lengua ulcerada SUV 8, asociado a adenopatías patológicas cervicales derechas SUV 4 y 4,5.
+• Estudio genético: BRCA ½ no informativo.
+
+Diagnóstico
+Carcinoma seroso papilar bien diferenciado de ovario estadio IIIC en 2004.
+Carcinoma epidermoide de lengua pT2N2M0 estadio IVa en 2012.
+
+Tratamiento
+El 28 de junio de 2012 se realizó una hemiglosectomía con vaciamiento cervical funcional bilateral. Anatomía patologica: tumor de 3 cm, que microscópicamente correspondía a un carcinoma epidermoide moderadamente diferenciado, cervicotoracoabdominal postoperatorio que evidencia los cambios postquirúrgicos.
+Posteriormente, recibió tratamiento quimiorradioterápico concomitante adyuvante: cisplatino 40 mg/m2/semanal y radioterapia (PTV 60 Gy).
+
+Evolución
+Se encuentra en programa de seguimiento clínico hasta la actualidad.

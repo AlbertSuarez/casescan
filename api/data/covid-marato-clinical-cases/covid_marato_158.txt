@@ -1,0 +1,30 @@
+Anamnesis
+Mujer joven de 25 años de edad, sin antecedentes patológicos relevantes, fumadora de 12 paquetes/año, consumidora ocasional del alcohol y otras drogas (que no especificó). Nacida en Rumanía, vivía en España desde los 10 años con su tía y se dedicaba a las labores del hogar. Como antecedentes familiares de interés tenía familiares maternos diagnosticados de artritis reumatoide.
+Se inicia estudio por dorsolumbalgia durante los últimos 4 años que controlaba con analgésicos y antiinflamatorios no esteroideos, dolor de características mixtas que duraba 4-5 días, cada 2-3 meses.
+Acude a Urgencias en aayo del 2013 por aumento del dolor no controlado con la medicación habitual junto con parestesias y paresia de ambos miembros inferiores en la última semana.
+
+Exploración física
+En la exploración, destacaba: sensibilidad conservada en las 4 extremidades, fuerza motora conservada en los miembros superiores, paresia 3/5 del miembro inferior izquierdo y paresia 2/5 del miembro inferior derecho, además tenía una mancha café con leche en la zona lumbar. Resto de exploración sin hallazgos.
+
+Pruebas complementarias
+» Raquis dorsolumbar: aumento de la densidad del cuerpo vertebral D5 (vértebra de marfil) con ligera depresión del platillo vertebral superior en D5 y D6 compatible con fractura por aplastamiento.
+» TC: masa de apariencia sólida en el mediastino posterior en contacto en la región anterolateral derecha de los cuerpos vertebrales de T4 hasta T8 (11 x 3,4 x 7c m) presentando erosión de las vértebras T5 y T6.
+» RM: masa de 7,3 x 6,7 x 5,9 cm localizada en mediastino posterior, ocupando el espacio prevertebral y paravertebral derecho, desde el borde inferior de T3 hasta el borde superior de T7 penetrando en el canal vertebral a través de los forámenes neurales derechos T4-T5 y T5-T6. Masa epidural que rodea la médula espinal, comprimiéndola en T5, con importantes cambios de señal secundarios a mielopatía compresiva. Se encuentra en localización infracarinal y retrocarinal, desplazando anteriormente el bronquio principal derecho y anterolateralmente hacia la izquierda el esófago, sin signos de infiltración tumoral.
+» Biopsia percutánea: tumor maligno de la vaina nerviosa mediastínico.
+
+Diagnóstico
+Tumor maligno de la vaina nerviosa mediastínico: Vvmentina y CD 99 positivos, S100, EMA, CKAE-13, CD34, CD45 y sinaptofusina negativos, ki-67 15%.
+
+Tratamiento
+El 24 de mayo se realiza cirugía descompresiva: artrodesis y descompresión y se coloca corset.
+
+Se decide iniciar tratamiento con quimioterapia de inducción con dos ciclos de doxorubicina (25 mg/m2)-Ifosfamida (1.250 mg/m2) que recibe entre mayo y junio del 2013. Presentó encefalopatía grado 2 secundaria a ifosfamida no relacionada con otra medicación concomitante, que se resolvió. Se realizó una TC de valoración de tratamiento donde el tamaño de la masa no presentaba variación, sin otras alteraciones en el resto del estudio.
+
+Entre julio y octubre del 2013 se realiza radioterapia externa sobre el tumor y mediastino, 60 Gy en fraccionamiento estándar.
+
+Tras dos ciclos de quimioterapia y la radioterapia, la paciente presenta mejoría en la movilidad, consigue deambulación sin apoyo, pero con marcha espástica. Seguía presentado mal control del dolor que requería altas dosis de fentanilo y costantes ajustes de medicación. Se propone seguir con tratamiento de consolidación con dos ciclos más de doxorrubicina-ifosfamida, pero con reducción del 30% de la dosis por radioterapia previa. Entre noviembre y diciembre del 2013 recibe el tratamiento sin complicaciones inmediatas ni toxicidades reseñables. Tras finalizar el tratamiento, se realiza TC en enero de 2014 que informa de discreta disminución (10%) del tamaño de la masa mediastínica, sin otras alteraciones.
+
+Evolución
+Tras un intervalo libre de progresión de 12 meses (junio de 2014) la paciente presenta metástasis pulmonares bilaterales, por lo que se administra quimioterapia de segunda línea según el esquema: Gemcitabina (1800 mg/m2) - DTIC (500 mg/m2). Entre julio y agosto de 2014 recibe 4 ciclos de gemcitabina-DTIC, requiriendo retraso de una semana de segundo ciclo por neutropenia afebril. Tras 4 ciclos, se realizó TC de valoración que informaba de una disminución significativa del tamaño de las metástasis pulmonares, pero sin cambios en el tamaño de la masa mediastínica. Dada la respuesta parcial pulmonar, se decide continuar con 2 ciclos más de tratamiento que se administra en septiembre de 2014.
+
+La paciente seguía en controles, manteniendo beneficio clínico. Valorada por última vez en enero 2015, dado que se trasladó a su país natal, donde permanece actualmente.

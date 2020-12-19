@@ -1,0 +1,34 @@
+Anamnesis
+Mujer de 53 años, natural de Ecuador, exfumadora de 15 cigarrillos/día durante 15 años, con un IMC de 25 y dislipemia. Colecistectomizada por cólicos biliares. No realiza tratamiento habitual (tomo atorvastatina durante unos meses, abandonando el tratamiento por decisión propia). 4 hijos sanos, sin antecedentes familiares oncológicos de interés.
+Consultó en febrero de 2015 por esteatorrea y pérdida de 10 kg de peso en un año. Se inició estudio de malabsorción y colonoscopia sin hallazgos. En TC se objetivó esteatosis hepática leve e imagen quística de 1 cm en cabeza de páncreas. Se completó estudio con colangiorresonancia y RM de páncreas, con masa pancreática de 3 cm sospechosa de tumoral. Para confirmar el diagnóstico, se realizó ecoendoscopia alta, objetivándose masa mal definida de 3 cm, cuyas biopsias que no fueron representativas. Por la sospecha de tumor pancreático, se intervino en diciembre de 2015 mediante duodenopancreatectomía cefálica programada, con resección completa y anatomía patológica de adenocarcinoma infiltrante de páncreas de 1,3 cm asociado a neoplasia mucinosa intraductal papilar con displasia de alto grado, infiltración de tejido adiposo peripancreático, bordes quirúrgicos libres y ausencia de metástasis en 31 ganglios aislados, estadio pT3, N0, Mx.
+El estudio de extensión fue negativo, y en enero 2016 comenzó adyuvancia con gemcitabina, recibiendo 6 ciclos hasta junio de 2016, con buena tolerancia.
+En julio 2016 consulta por dolor en hipocondrio derecho y ascitis.
+
+Exploración física
+A su llegada a Urgencias:
+» Constantes estables con tendencia a la taquicardia. TA 109/82 mm Hg, FC 105 lpm, SpO2 97 % basal. Afebril. Ictericia mucocutánea.
+» ACP: crepitantes finos bibasales. MVC.
+» ABD: muy distendido, sin ascitis en la tensión. Dolor en HCD y epigastrio a la palpación profunda, Murphy negativo. Sin Blumberg. Puño percusión renal bilateral negativo.
+» MMII: edema con fóvea hasta raíz de miembros, sin signos TVP, pulsos presentes.
+
+Pruebas complementarias
+Analíticamente destaca hiperbilirrubinemia, con bilirrubina total 3,3 mg/dl (en su mayoría directa), con colestasis (GGT 220 U/L) y normalidad de enzimas de citólisis (GPT 22 U/l, GOT 43 U/l), junto a anemia macrocítica (Hb 8,8 g/dl con VCM 103 fL) y coagulopatía de nueva aparición (actividad protrombina 32 % y APTT 55,7 segundos).
+Ingresa para estudio y se establece diagnóstico diferencial:
+» Se descarta etiología infecciosa: líquido ascítico sin datos de peritonitis. Se descartan virus hepatitis A (IgM negativo, IgG positivo), hepatitis B (HBs Ag negativo, HBcIgG negativo), hepatitis C (VHC Ac negativo), hepatitis E (IgG, IgM y PCR negativos), virus de Epstein-Barr (IgM negativo), citomegalovirus (IgM positivo, PCR < 150 copias), VIH (combo negativo).
+» Se descarta etiología enólica por la historia clínica y la ausencia de datos clínico-analíticos que hagan sospechar dicha etiología.
+» Se descarta etiología tumoral: citología de líquido ascítico negativa para células malignas. Se realizan TC y RM sin objetivar recidiva tumoral, mostrando en cambio "posible toxicidad hepática sobre esteatosis grave con fracción de grasa de 43,5 %". Se realiza PET con único hallazgo de "captación patológica hepática".
+» Se descarta etiología vascular (Budd-Chiari, trombosis) por ausencia de hallazgos en las pruebas de imagen y hematológica con único hallazgo de aumento policlonal de IgG en relación a cirrosis.
+» Se descarta etiología autoinmune: 2 muestras negativas para anticuerpos antimitocondriales, anti-musculo liso, anti-LKM. Antinucleares (ENA, DNA) positivos 1/80 de manera granular y poco significativa.
+» Se descartan causas genéticas: déficit de alfa-1-antitripsina por normalidad de niveles.
+» Inicialmente se sospecha enfermedad de Wilson por ceruloplasmina < 10U/l, normalizándose en segunda muestra y con cobre en orina de 24 h normal (y ausencia de depósitos de cobre en biopsia hepática).
+» Se descartan otras causas poco frecuentes y menos probables: hemocromatosis (función hepática, ferritina y saturación de transferrina normales previas al inicio de tratamiento quimioterápico), celiaquía, enfermedades granulomatosas, insuficiencia cardiaca (ecocardiograma con función ventricular normal).
+» Fármacos: una vez descartadas otras causas probables, se analizaron los fármacos recibidos en los últimos 6 meses (ciprofloxacino por infección urinaria durante 10 días durante el tratamiento con gemcitabina, atorvastatina durante pocas semanas que la paciente abandonó por decisión propia, gemcitabina).
+
+Diagnóstico
+Con la sospecha de esteatohepatitis aguda no alcohólica (NASH) se realizó biopsia hepática: necrosis hepática submasiva con balonización de los hepatocitos, altamente sugestivo de NASH de probable causa farmacológica. Dado que, a excepción de la gemcitabina, los otros fármacos fueron administrados en un corto espacio de tiempo, esta complicación se atribuyó a la gemcitabina, notificándose a la agencia del medicamento.
+
+Tratamiento
+Durante el ingreso, la paciente recibió tratamiento de soporte, presentando varios episodios de encefalopatía hepática que se manejaron conservadoramente, así como neumonía nosocomial que precisó antibioterapia endovenosa y oxigenoterapia, con mejoría progresiva.
+
+Evolución
+Tras 3 meses de ingreso, la paciente fue dada de alta en octubre de 2016 con mejoría clínica y continúa seguimiento en Oncología Médica y Digestivo, sin nuevos episodios de descompensación y sin datos de recidiva tumoral hasta la fecha.

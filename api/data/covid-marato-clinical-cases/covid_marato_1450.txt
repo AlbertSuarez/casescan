@@ -1,0 +1,15 @@
+Anamnesis
+Mujer de 18 años de edad, sin antecedentes de interés que consulta por tumoración en bíceps femoral tras un traumatismo leve de tres meses de evolución.
+
+Pruebas complementarias
+• RM de muslo: lesión intracompartimental en porción larga del bíceps femoral englobando el trayecto tendinoso de 3 cm con edema difuso y discreto realce difuso del contraste.
+• Biopsia guiada por ecografía: informa de proliferación fusocelular con patrón de crecimiento infiltrante sobre estroma mixoide sin atipias ni mitosis. La inmunohistoquímica es positiva para CD34, enolasa, factor VIII, CD68 y vicentina. Negativa para actina, desmina, caldesmón EMA S100 CD99 ALK BCL2 y CK.
+
+Diagnóstico
+Sarcoma de bajo grado de programa para cirugía.
+
+Evolución y tratamiento
+En el estudio de extensión se observan múltiples nódulos pulmonares bilaterales el mayor de ellos de 20 mm en base izquierda compatible con metástasis, así como múltiples lesiones ocupantes de espacio hepáticas la mayor en segmento VIII de 11 mm.
+La gammagrafía ósea fue negativa. Ante la extensión de la enfermedad se suspende la cirugía radical y se toma nueva biopsia en quirófano, obteniéndose tejido muscular no representativo.
+Ante la extensión de la enfermedad a pesar de ser un sarcoma de bajo grado se decide primera línea con ifosfamida 1.500 mg/m2 días 1-4 y doxorrubicina 60 mg/m2 día 1 y MESNA cada 21 días. La paciente recibe tres ciclos de quimioterapia con excelente tolerancia pero con aparición de de nueva lesión subcentimetrica en la bifurcación portal y persistencia de otras en segmento VII (1,3-1 cm segmento V LHI de 1,5 cm con estabilidad del resto de lesiones que se confirma por PET. Se toman nuevas biopsias musculares y hepáticas que se remiten a Centro de referencia que revisa la anatomía patológica. Se informan como neoplasia del estroma fibromixoide compuesto por pequeñas bandas, cordones o nidos sólidos de célula epiteloides. Mitosis aisladas, focos de necrosis (rasgos atípicos) en inmunohistoquimica positiva para CD34, Factor VIII, y CD31 Ki-67% < 2% todo ello compatible con hemangioendotelioma epiteloide maligno.
+Se revisa la bibliografía y se inicia tratamiento con paclitaxel 135 mg/m2 y bevacizumab 10 mg/kg quincenales con buena tolerancia. En la reevaluación tras dos meses presentaba en la RM del muslo una mayor necrosis de la tumoración con respuesta parcial pulmonar. A los seis meses de tratamiento se observa respuesta parcial hepática de una lesión en segmento VI y respuesta parcial muscular. Se decide suspender el paclitaxel por polineuropatía grado 3 y se mantiene tratamiento con bevacizumab. A los nueve meses de tratamiento, la paciente permanece estable de todas las lesiones con excelente tolerancia clínica.

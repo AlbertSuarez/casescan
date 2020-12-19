@@ -1,0 +1,35 @@
+Anamnesis
+Paciente varón de 44 años, natural de Argelia, sin alergias medicamentosas conocidas y con antecedentes personales de episodios de hiperreactividad bronquial tratada ocasionalmente con salbutamol. Fumador de tabaco de 16 paquetes/año y fumador de cannabis y hachís. Vive en España desde hace 15 años y todos sus familiares residen en el extranjero.
+
+El paciente consulta en varias ocasiones (mayo 2014) en Urgencias por un cuadro de un mes de evolución caracterizado por episodios de edema de predominio facial y periocular orientados como angioedema. Fue tratado con corticoides y antihistamínicos, sin mejoría. Refiere también debilidad generalizada con mialgias, anorexia con pérdida de 10 kg de peso, disfagia alta y tos con expectoración mucosa persistente.
+
+Exploración física
+Destacan debilidad muscular proximal, hepatoesplenomegalia no dolorosa, eritema palpebral en heliotropo, tumefacción a nivel del brazo izquierdo, pápulas de Gottron con telangiectasias periungueales y candidiasis orofaríngea. Al realizar la fibroscopia nasal se aprecia una lesión nodular en el hemicavum derecho, de algo más de 1 cm de diámetro, por detrás y por debajo del rodete. No se aprecian adenopatías cervicales.
+
+Pruebas complementarias
+» Analítica general: linfopenia, AST 713 UI/l, ALT 281 UI/l, LDH 2.505 UI/l, CK 27.000 UI/l.
+» Estudio inmunológico: ANA positivos (1/160), anti-SSA (RO) positivos, niveles de anticuerpos circulantes anti-dsDNA, anti-Jo1 y anti-Mi2 negativos, alfa-1 antitripsina negativo. Marcadores tumorales negativos.
+» EMG: patrón miopático.
+» Biopsia muscular: miopatía inmunomediata tipo dermatomiositis.
+» TC torácica: importante enfisema de predominio bibasal con formación de grandes bullas, a descartar déficit de alfa-antitripsina. Lesión apical cavitada izquierda de paredes finas. Imágenes con tree-in-bud en la parte apical del lóbulo inferior derecho.
+» TC toracoabdominopélvica: sin evidencia de patología neoformativa. Progresión de áreas en tree-in-bud torácicas derechas y aparición de lesiones cavitadas biapicales, sospechoso de reactivación de TBC.
+» Fibrobroncoscopia normal.
+» IGRA: negativo. Lowenstein y Ziehl-Nielsen negativo.
+» Aspirado broncoalveolar (BAS): positivo para Haemophilus influenzae.
+» 18-F-PET-TC: depósito hipermetabólico de FDG, focal, en la región parietal derecha, sobre el lóbulo temporal. Fibroscopia nasal con biopsia por escisión con anatomía patológica positiva para carcinoma poco diferenciado.
+» RM craneal: lesión nodular en el hemicavum derecho sugestiva de lesión tumoral primaria.
+
+Diagnóstico
+Carcinoma poco diferenciado de el hemicavum derecho, cT1N0M0 (estadio I), con dermatomiositis como síndrome paraneoplásico.
+
+Tratamiento
+Dada la sospecha de dermatomiositis (DM) se realiza biopsia muscular, la cual confirma el diagnóstico. Se inicia tratamiento con corticoides (1 mg/kg/día) y posteriormente, dada la escasa mejoría clínica, con inmunoglobulinas (0,4 mg/kg/día) durante 5 días consecutivos cada 28 días, y posteriormente se aumenta la dosis a 1 g/kg/día durante 3 días. Dada la persistencia de la debilidad severa se solicita rehabilitación muscular. Presenta además disfagia progresiva a sólidos y líquidos, que obliga a colocar una sonda nasogástrica para alimentación a fin de evitar broncoaspiración. Ante la intolerancia del paciente a la sonda, se decide colocar gastrostomía percutánea para continuar con la nutrición enteral.
+Se realiza una TC torácica, que muestra una lesión cavitada sospechosa de tuberculosis (TBC). Se solicita fibrobroncoscopia con aspirado broncoalveolar (BAS), que resulta negativo para micobacterias y positivo para Haemophilus influenzae, tratándose según antibiograma. En la TC de control se descarta patrón intersticial asociado a dermatomiositis, pero se aprecian signos de reactivación de lesiones cavitadas sugestivas de TBC activa, por lo que se inicia tratamiento tuberculostático con cuatro fármacos (rifampicina, pirazinamida, isoniazida y etambutol).
+
+El caso fue valorado en comité multidisciplinar de sección otorrinolaringología, considerándose tributario a quimiorradioterapia (QT-RDT) con intención radical dada la asociación de dermatomiositis como síndrome paraneoplásico.
+
+Se traslada a planta de Oncología para iniciar tratamiento oncoespecífico. El paciente realiza QT-RDT concomitante con intención radical, esquema CDDP 100 mg/m2 cada 21 días y radioterapia externa 3D de intensidad modulada (IMRT) sobre el lecho tumoral y las cadenas cervicales en 33 fracciones (dosis total 69,96 Gy). Posteriormente es candidato a quimioterapia adyuvante esquema Al-Sarraf por tres ciclos. Se administra el primer ciclo de QT esquema CDDP al 80% por hipoalbuminemia y anemia.
+Dado el contexto social, se decide trasladar al centro sociosanitario para convalecencia y continuar con la rehabilitación.
+
+Evolución
+El paciente finaliza el tratamiento con QT-RDT en febrero de 2015, con efectos secundarios leves como epitelitis y mucositis grado 2. Presenta una mejoría progresiva de la disfagia, tolerando actualmente dieta triturada con la persistencia del defecto de propulsión.

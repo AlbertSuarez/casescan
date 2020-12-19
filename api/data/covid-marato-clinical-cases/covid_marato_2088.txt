@@ -1,0 +1,39 @@
+Anamnesis
+Varón de 50 años, sin antecedentes personales de interes. En abril de 2011 es diagnosticado de carcinoma epidermoide de esófago estadio IV, iniciando tratamiento con esquema Al-Sarraf (cisplatino + 5-fluorouracilo).
+En el día +20 del cuarto ciclo, el paciente consultó en el Servicio de Urgencias por presentar fiebre de hasta 38 ºC y odinofagia. En este momento, se decidió su ingreso hospitalario con el diagnóstico de neutropenia febril grado IV, mucositis grado IV e insuficiencia renal aguda prerrenal.
+
+Examen físico
+En la exploración física el paciente estaba consciente y orientado y presentaba un ECOG 3. A nivel de cabeza y cuello, llamaba la atención la presencia de lengua depapilada y enrojecimiento de toda la orofaringe, con lesiones en la mucosa tipo afta y placas necróticas confluyentes y muguet oral. Piezas dentarias en mal estado. Tórax: port-a-cath sin signos de inflamación local. AC: ruidos cardiacos rítmicos, no soplos. AP: murmullo vesicular conservado, no crepitantes.
+Neurológico: no focalidad.
+Durante el ingreso: disminución del nivel de consciencia, hemiparesia derecha. Pruebas complementarias.
+
+Pruebas complementarias
+- Análisis: 24/3/2011: leucocitos 4.500, neutrófilos 140, linfocitos 3.960, hemoglobina 5,4 g/dl, plaquetas 67.000, urea 51 mg/dl, creatinina 1,38 mg/dl, GOT 20 UI/l, GPT 39 UI/l. Otros: PCR 124 g/dl, Na 128,8 mEq/l, K 3,4 mEq/l. 19/4/2011: hemoglobina 9,4, leucocitos 10.800, neutrófilos 4.210, linfocitos 5.150, magnesio 1,65, urea 12 mg/dl, creatinina 0,93 mg/dl, sodio 137,3 mEq/l.
+Hemocultivos negativos.
+Urocultivo negativo.
+- Radiografía de tórax (18/3/2011): ICT normal. No se observan infiltrados.
+- TC craneal (29/3/2011): no se observan lesiones ocupantes de espacio.
+- TC body (6/4/2011): adenopatías mediastínicas múltiples. Conglomerado adenopático en el hilio derecho. Pequeño derrame pleural bilateral. Nódulos pulmonares múltiples y masa en el lóbulo superior derecho. Consolidación/masa pulmonar en el lóbulo superior derecho. Adenopatías retroperitoneales y mesentéricas subcentimétricas. Datos de progresion respecto a los estudios previos.
+- RMN (20/4/2011): atrofia córtico-subcortical supratentorial, mayor de lo esperado para la edad del paciente. Lesiones hiperintensas en la sustancia blanca de características inespecíficas, de predominio alrededor de las astas occipitales, en relación con leucoencefalopatía de características inespecíficas.
+
+Diagnóstico
+- Crisis comiciales secundarias a leucoencefalopatía posterior reversible por cisplatino.
+- Neutropenia febril grado 4 resuelta.
+- Mucosistis grado 4, muguet oral.
+- Anemia de trastornos crónicos.
+- Carcinoma epidermoide de esofago medio estadio IV.
+
+Tratamiento
+Filgastrin.
+Meropenem, que luego se cambió por imipenem/cilastatina 500/500 mg/8 h.
+Fluconazol 100 mg/24 h.
+Enjuages orales con lidocaína.
+Levetiracetam 500 mg (2-0-2).
+Fenitoína 100 mg (1-1-1/2).
+Enoxaparina 40 mg s.c./24 h.
+Vitamina D/calcio 500 mg (1-0-0).
+Pantoprazol 40 mg (1-0-0).
+
+Evolución
+Paciente de 50 años, que ingresa por neutropenia febril grado IV y mucositis grado IV. Durante el ingreso se inició tratamiento con antibióticos de amplio espectro (piperacilina-tazobactam y vancomicina), asociando antifúngicos y factor estimulante de colonias. Asimismo, se inició hidratación intravenosa intensiva y reposición hidroelectrolítica. Tras estas medidas el paciente presentó importante mejoría del cuadro clínico.
+Sin embargo, en el dia +4 del ingreso el paciente comienza con disminución brusca del nivel de consciencia, asociando posteriormente crisis tónico-clónicas generalizadas y hemiparesia derecha, por lo que se inició perfusión de fenitoína, con ligera mejoría. Ante esta situación, se realiza un escáner cerebral de urgencia para filiar el origen del cuadro, que descarta la presencia de enfermedad metastásica a este nivel o signos de sangrado. Se decide ampliar el estudio con una RM, donde se observan múltiples lesiones hiperintensas en la sustancia blanca a nivel de las astas posteriores en T2 y FLAIR compatibles con leucoencefalopatia inespecífica. Además, se realiza una EEG donde se evidencia afectación cerebral generalizada de intensidad severa de predominio en el hemisferio izquierdo en la región parieto-rolándica (PLEDS). Se continúa el tratamiento con anticomiciales y manejo sintomático. El paciente va presentando recuperación paulatina durante la semana siguiente, con mejoría del nivel de consciencia, resolución moderada del cuadro de hemiparesia y con crisis comiciales controladas. En consultas posteriores el paciente ha presentado resolución del cuadro clínico previo, y se mantuvo sin nuevas crisis comiciales.

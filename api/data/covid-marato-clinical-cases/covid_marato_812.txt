@@ -1,0 +1,27 @@
+Anamnesis
+Varón de 61 años sin ningún antecedente familiar oncológico de interés. En los antecedentes médicos destaca que es exfumador desde hace dos años, tiene HTA e hipercolesterolemia, EPOC no reagudizadora, tiene una agenesia congénita renal derecha, hipertiroidismo subclínico desde el 2016 con estudio de autoinmunidad negativa, bocio multinodular y está intervenido de hemorroides. No tiene alergias medicamentosas conocidas.
+
+Exploración física
+En cuanto a la exploración física del paciente, destaca un buen estado general con un ECOG de 0, con exploración física y neurológica normales.
+
+Pruebas complementarias
+La analítica mostraba in LDH normal.
+
+Diagnóstico
+El paciente arriba descrito fue diagnosticado de un melanoma con secreción purulenta en junio de 2016 a nivel de zona lumbar izquierda. Se realizó exéresis y biopsia el 8/7/2016 con resultado anatomopatológico de melanoma ulcerado de 2,9 cm x 2,2 cm con bordes libres, nivel IV de Clark, Breslow 4 mm, pT4N0M0, estadio IIc. Se realizó estudio de extensión con TC cerebral y body-TC, que fue negativo.
+El 14/9/2016 se procede a ampliación de márgenes y biopsia de ganglio centinela axilar, siendo ambos negativos para células malignas. Se desestimó tratamiento adyuvante con interferón por el intervalo de tiempo transcurrido desde la cirugía hasta ser remitido a Oncología, como por el escaso beneficio objetivado por el estadio tumoral.
+En la TC de seguimiento de octubre de 2018 se detectan nódulos pulmonares múltiples bilaterales y un nódulo subcutáneo de 3 mm de diámetro entre epidermis y fascia superficial a 7 mm de profundidad y 7 cm a la izquierda de la línea media a la altura de la apófisis espinosa de L4. Se completa el estudio con PET-TC que muestra metástasis pulmonares bilaterales y múltiples, hepáticas, esplénicas, implantes mesentéricos, metástasis en 9º costilla derecha y nódulo hipermetabólico en glúteo mayor.
+Se realiza exéresis de la lesión subcutánea lumbar, con resultado anatomopatológico de metástasis de melanoma de 5 mm que contacta con borde quirúrgico inferior, melan-A, HMB-45, S-100 y BRAF (V600K) positivos. Se descartan metástasis a nivel de SNC mediante TC y RM.
+Con el diagnóstico de melanoma estadio IV es derivado a consulta de Oncología Médica para valorar tratamiento.
+
+Tratamiento
+En cuanto a la exploración física del paciente, destaca un buen estado general con un ECOG de 0, con exploración física y neurológica normales, con un LDH normal en la analítica.
+Se decide tratamiento con doble terapia dirigida con dabrafenib 150 mg/12 h y trametinib 2 mg/24 h que comienza el 10 de diciembre de 2018.
+Por ello se modifica régimen terapéutico e inicia inmunoterapia con pembrolizumab (200 mg/día cada 3 semanas), iniciando primer ciclo el 18/3/2019.
+
+Evolución
+TC Toracoabdominopélvica: disminución de todas las metástasis pulmonares, desaparición de adenopatía mediastínica, sin metástasis hepáticas ni esplénicas, ni recidiva de lesión subcutánea lumbar.
+A pesar de la respuesta objetiva demostrada en TC, se suspende doble terapia dirigida dada la intolerancia por persistencia de fiebre que no responde a las medidas habituales de asociar antitérmicos y esteroides. Dicha toxicidad impacta negativamente en su calidad de vida, motivando ingresos recurrentes.
+Por ello, se modifica régimen terapéutico e inicia inmunoterapia con pembrolizumab (200 mg/día cada 3 semanas), iniciando primer ciclo el 18/3/2019.
+El 27/3/2019 acude a Urgencias por presentar pérdida de fuerza en extremidad inferior derecha y desviación de la comisura labial hacia la izquierda. Se le realiza TC cerebral que muestra múltiples lesiones ocupantes de espacio supratentoriales diseminadas por ambos hemisferios cerebrales con discreto predominio en el lado izquierdo, estando situada la de mayor tamaño en el lóbulo parietal (15 x 8 x 13). Todas ellas presentan edema perilesional. Se inicia dexametasona a dosis altas y se deriva a Oncología Radioterápica para recibir radioterapia holocraneal, que se retrasa por desorientación, nerviosismo y malestar general del paciente, comienza el 10 de abril y solamente recibe una dosis.
+El paciente acude al Servicio de Urgencias el 14/4/2019 por insomnio, desorientación y agitación nocturna de dos semanas de evolución, con marcado empeoramiento desde hacía 72 horas, con exitus el 16 de abril.

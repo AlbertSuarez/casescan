@@ -1,0 +1,40 @@
+Anamnesis
+Mujer de 61 años con antecedentes personales de hernia de hiato, tuberculosis en la infancia y virus de la hepatitis B correctamente tratado.
+
+Como antecedentes ginecológicos destaca intervención quirúrgica en 2001 de anexectomía derecha por teratoma maduro quístico.
+
+En 2006 fue intervenida en otro centro hospitalario de apendicectomía, visualizándose moco en la cavidad abdominal. La anatomía patológica reveló cistoadenoma mucinoso de apéndice, con bordes de resección quirúrgicos libres de lesión.
+
+En enero de 2013 acude a consultas externas de Ginecología por metrorragia postmenopaúsica, así como molestias abdominales con ligera distensión abdominal posprandrial. No náuseas ni vómitos. No alteraciones del hábito intestinal. No otra clínica.
+
+Exploración física
+Constantes vitales dentro de la normalidad. Aceptable estado general, normohidratada y normoperfundida. Eupneica. ACP: anodina. Abdomen: distendido, molestias a la palpación profunda en el hipogastrio y la fosa íliaca derecha. No se palpan masas ni visceromegalias. Ruidos hidroaéreos presentes. Blumberg negativo. Murphy negativo. MMII: edemas perimaleolares. Tacto vaginal: cérvix posterior largo, no dolor a la movilización cervical ni en el fondo de saco de Douglas. Útero de tamaño y consistencia que impresionan de normales. No se palpan masas anexiales.
+
+Pruebas complementarias
+Dadas la edad y la clínica de la paciente, ante la exploración anodina se solicitan pruebas complementarias orientadas para descartar patología ginecológica:
+» Analítica sanguínea: Hb 10,2 g/dl, resto de parámetros dentro de la normalidad.
+» Marcadores tumorales: CEA 9,5; CA 19.9: 120,4; HE4 54,4. Ca 125 112,4.
+» Se realiza una ecografía transvaginal, visualizándose líquido libre en la pelvis y una imagen hiperecogénica de 37 mm en el área anexial izquierda.
+» Ante estos hallazgos se solicita una TC abdominopélvica, que evidencia hallazgos compatibles con carcinomatosis peritoneal, gran afectación del omento mayor infiltrado por múltiples masas y adenopatías peritoneales; se visualiza aumento de tamaño del anejo izquierdo.
+» Tras el informe de la TC con carcinomatosis peritoneal con alteración del anejo izquierdo se plantea como primera posibilidad el adenocarcinoma de ovario.
+
+Diagnóstico
+Con los hallazgos radiológicos anteriormente descritos se realiza de forma preferente en febrero de 2013 una laparatomía diagnóstica con biopsia intraoperatoria. La anatomía patológica reveló infiltración de implantes peritoneales, trompa, ovario izquierdo y meso intestinal por adenocarcinoma mucinoso. Se realizaron estudios de inmunohistoquímica, presentando fuerte positividad para CK20 y negativo para CK7, orientando hacia un origen primario intestinal; no presenta mutaciones en KRAS y NRAS.
+
+Con estos datos se establece el diagnóstico de carcinomatosis peritoneal por pseudomixoma peritonei y se presenta el caso en el comité de tumores, decidiéndose remitir al hospital de referencia para valorar la posibilidad de perinectomía de Sugarbarker y quimioterapia intraperitoneal hipertermia (HIPEC).
+
+Tratamiento
+El 15 de mayo de 2013 se realiza una laparotomía, encontrándose carcinomatosis peritoneal por pseudomixoma peritoneal muy avanzado, con un índice de carcinomatosis mayor de 30, enfermedad diseminada en todo el intestino delgado, por lo que se desestimó la cirugía radical.
+
+Se realizan entonces resecciones paliativas de ambos epiplones, colecistectomía y nódulos mayores de 5 cm, y se administra quimioterapia intraperitoneal hipertermia intraoperatoria con intención paliativa de mitomicina a dosis de 10 mg/m2 en infusión de 90 minutos y cisplatino 50 mg/m2, con buena evolución postoperatoria.
+
+Evolución
+En la primera TC postcirugía (julio de 2013) se observa progresión de la enfermedad con respecto al estudio de febrero, evidenciándose por tanto escasa respuesta a tratamientos quimioterápicos.
+
+Desde el punto de vista clínico, la paciente se encontraba asintomática, por lo que tras plantear diversas opciones se administra quimioterapia paliativa esquema FOLFOX 6 con inicio el 13/8/2013, del cual recibe 13 ciclos, desde el ciclo 7 sin oxiplatino por neurotoxicidad grado 2 mantenida.
+
+En la TC de control tras 10 ciclos se objetiva mínima progresión pélvica, pero de acuerdo con la paciente se decide continuar el tratamiento.
+
+Último ciclo el 2/9/2014, con TC en ese momento estable de tamaño en relación con el estudio previo.
+
+En marzo de 2015 se evidencia en la TC de control progresión de la enfermedad leve/moderada con respecto al estudio previo. Se comenta de nuevo en comité de tumores, contraindicándose una nueva cirugía, por lo que se plantea en ese momento quimioterapia en segunda línea con XELIRI, con reducción de dosis por la toxicidad previa. Inicio el 14/4/2015.

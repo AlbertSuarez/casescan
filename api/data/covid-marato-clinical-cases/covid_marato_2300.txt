@@ -1,0 +1,30 @@
+Anamnesis
+Paciente varón de 53 años, sin antecedentes personales de interés, que acude a la consulta de Cirugía Maxilofacial por tumoración parotídea derecha de tres meses y medio de evolución junto a fibrilaciones en la comisura labial y parestesias locales.
+Se intervino mediante parotiroidectomía total conservadora con resultado anatomopatológico de carcinoma ductal con infiltración del nervio facial y afectación ganglionar cervical metastásica. Posteriormente se realizó vaciamiento ganglionar cervical radical derecho modificado y resección de tronco facial seguido de radioterapia complementaria.
+Diez meses después se reintervino mediante resección cutánea amplia y reconstrucción mediante colgajo anterolateral del muslo por recidiva local y en el tejido adyacente al pabellón auricular, que afectaba desde la epidermis hasta el tejido celular subcutáneo con extensa invasión linfática, alcanzando el conducto auditivo externo y la musculatura cervical y que contactaba con el borde profundo de resección. Tras su valoración en sesión clínica multidisciplinar, se desestima la reirradiación.
+
+Examen físico
+ECOG 0. Consciente, orientado y colaborador. Bien hidratado y perfundido. Eupneico en reposo. Auscultación, abdomen y extremidades sin hallazgos relevantes. Progresión local en lecho quirúrgico con satelitosis cutánea.
+
+Pruebas complementarias
+- Analítica: dentro de los parámetros normales, incluidos marcadores tumorales (CEA 1,1).
+- TC cervical: cambios posquirúrgicos. Zonas de engrosamiento focal de piel con áreas de realce de contraste compatibles con implantes metastásicos. Engrosamiento leve con captación de contraste en la fascia temporal derecha.
+Conclusión: recidiva tumoral en la piel y tejido celular subcutáneo.
+- RM cervical: engrosamiento marcado de dermis y tejido celular subcutáneo de unos 5 cm en la zona de parotidectomía y región preauricular derecha, con realce homogéneo tras la administración de contraste. No invasión de estructuras de la base del cráneo ni la carótida; yugular derecha en contacto con zona de engrosamiento sin estar afectada.
+- TC de tórax: sin hallazgos patológicos.
+- PET-TC de cuerpo entero: captación a nivel de la región parotídea.
+
+Diagnóstico
+Carcinoma ductal infiltrante de parótida, pT2 pN2b M0, estadio IVA con invasión vascular y perineural. EGFR y HER-2 negativos. Receptores androgénicos: intensa expresión nuclear en el 90% de los núcleos.
+
+Tratamiento
+En orden secuencial:
+- Esquema CAP (cisplatino 50 mg/m2, adriamicina 50 mg/m2, ciclofosfamida 500 mg/m2).
+- Vinorelbina oral en monoterapia 60 mg/m2/semanal.
+- Paclitaxel semanal 80 mg/m2.
+- Bicalutamida 50 mg/día.
+- Goserelina 10,8 mg/s.c./trimestral.
+
+Evolución
+Ante la presencia de satelitosis y la progresión local, se propone tratamiento con quimioterapia según el esquema CAP cada 21 días, del cual recibe únicamente dos ciclos por progresión clínica. Debido a la aparición de nuevos nódulos a nivel del colgajo, se realiza exéresis por parte de Cirugía Maxilofacial y planteamos vinorelbina oral. Cuatro meses después adelanta la cita por presentar una gran inflamación en la hemicara derecha, edema en los labios y dolor en el miembro superior derecho. La TC confirma la progresión cutánea y subcutánea con mayor infiltración del masetero derecho, aparición de una lesión nodular anterolateral al conducto de Stenon e infiltración de la musculatura paraespinal derecha. Inicia paclitaxel semanal, con el que obtiene una notable disminución de la tumoración y aceptable control del dolor. Se observó respuesta parcial en la TC de control pero, dada la aparición de parestesias grado 1, fue necesario reducir la dosis. Se solicitó entonces la determinación de receptores de andrógenos a Anatomía Patológica, con resultado de intensa expresión en el 90% de los núcleos, por lo que se añade bicalutamida diaria. Cinco meses después, se observó una respuesta completa clínica: se suspendió el paclitaxel ante la persistencia de las parestesias.
+Cinco meses más tarde, vuelve a adelantar la cita por dolor intenso en el hombro y el miembro superior derecho, así como cefalea hemicraneal y discreto aumento de las lesiones cutáneas, momento en el cual se añade goserelina trimestral. Actualmente, el paciente mantiene una respuesta clínica completa con bicalutamida y goserelina.

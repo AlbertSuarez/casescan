@@ -1,0 +1,28 @@
+Anamnesis
+Paciente mujer de 63 años, nunca fumadora ni otros hábitos tóxicos, con antecedentes de diabetes mellitus tipo 2 bien controlada y adenocarcinoma de colon estadio C de Dukes 14 años antes, tratado con cirugía y posterior adyuvancia con capecitabina, sin datos de recidiva.
+En agosto de 2012 consulta en Urgencias por dolor pleurítico de 3 días de evolución en el hemitórax izquierdo, mayor con la inspiración profunda y no doloroso a la palpación, sin cuadro constitucional asociado, disnea u otra sintomatología acompañante.
+
+
+Exploración física
+A la exploración se muestra afebril, con buen estado general y manteniendo saturaciones mayores del 96% basal, hemodinámicamente estable. A la auscultación, leve hipofonesis en el campo superior derecho, siendo el resto anodino.
+
+
+Pruebas complementarias
+» En urgencias se realizó una radiografía de tórax, en la que se observa una masa pulmonar en el LSD y comienza el estudio.
+» TC de tórax: masa pulmonar en el LSD de 4 cm de eje máximo, asociada a múltiples micronódulos pulmonares bilaterales no significativos y adenopatía hiliar derecha de 1,2 cm sospechosa.
+» Se realiza una broncoscopia, que no observa hallazgos endobronquiales.
+» Se realiza una PAAF de la adenopatía paratraqueal derecha y biopsia de la masa pulmonar, siendo ambas positivas para adenocarcinoma de pulmón EGFR mutado con delección del exón 19.
+
+
+Diagnóstico
+Con las pruebas complementarias previas, se diagnostica de adenocarcinoma de pulmón EGFR mutado con delección del exón 19, cT2aN2M0, confirmado por EBUS.
+
+Tratamiento
+La paciente inició tratamiento con cisplatino vinorelbina con intención neoadyuvante, del que recibió tres ciclos, sin incidencias, con respuesta parcial en la masa pulmonar, sin captación a nivel ganglionar en la PET, tras lo cual fue intervenida el 24/10/2012 con lobectomía superior derecha más linfadenectomía.
+En la anatomía patológica de la lobectomía: necrosis del 90%. T1N1M0.
+
+Evolución
+Tras 15 meses de intervalo libre de progresión, en enero de 2014 inicia un cuadro de alteración del comportamiento, desorientación y dificultad para recordar nombres de objetos y personas. A la exploración, no presentaba focalidad neurológica, por lo que se realiza una RM cerebral, que evidencia progresión de la enfermedad, con al menos 8 lesiones metastásicas con edema vasogénico asociado.
+Se inició tratamiento corticoideo, con mejoría clínica, y posteriormente tratamiento con afatinib asociado a tratamiento local con radioterapia holocraneal (30 Gy), continuando con afatinib, con buena evolución clínica hasta hoy.
+
+En la RM cerebral de control de mayo 2015, la enfermedad a nivel cerebral está en respuesta, con disminución de tamaño de alguna de ellas y desaparición de otras 

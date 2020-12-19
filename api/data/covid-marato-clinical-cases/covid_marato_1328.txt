@@ -1,0 +1,28 @@
+Anamnesis
+Varón de 71 años que reside con su mujer, realiza una vida activa y presenta funciones superiores conservadas. No tiene antecedentes familiares ni personales de interés, salvo hábito tabáquicos de 40 paquetes-año, y se encuentra en tratamiento con lormetazepam 1 mg diario.
+Acude al Servicio de Urgencias por alteración del lenguaje de 2 horas de evolución.
+
+Exploración física
+El paciente presenta estabilidad hemodinámica y únicamente destacan durante la exploración neurológica bloqueos, parafasias e hipoestesia hemicorporal derecha con borramiento del surco nasogeniano derecho. El resto de la exploración física es anodina.
+
+Pruebas complementarias
+Se realiza una tomografía computarizada (TC) multimodal cerebral en la que se objetiva un ictus isquémico parcial del territorio anterior, a expensas de la rama posterior de la arteria cerebral media izquierda, por lo que se traslada al paciente a la Unidad de Ictus.
+Una vez en la Unidad, se objetiva aumento de los marcadores de daño miocárdico, por lo que se realiza una ecocardiografía que permite visualizar un derrame pericárdico. Éste es drenado mediante pericardiocentesis por vía subxifoidea sin incidencias, extrayéndose 1.350 ml de líquido serohemático, negativo para células malignas.
+Durante las primeras 24-48 h de ingreso en la Unidad de Ictus, el paciente empeora tanto neurológicamente (con aparición de hemianopsia derecha, y pérdida de fuerza y anestesia en extremidades derechas) como respiratoriamente, precisando oxigenoterapia con ventilación mecánica. Se realiza entonces una TC toraco-abdomino-pélvica, objetivándose adenopatías hiliares, mediastínicas, supraclavicular izquierda y laterocervical derecha de entre 1,5 y 2 cm, además de derrame pleural bilateral, y lesiones isquémicas agudas en bazo, riñones e hígado.
+En búsqueda de la causa de los hallazgos del daño isquémico multiorgánico, se realiza una ecocardiografía transesofágica visualizándose una imagen de verruga a nivel de válvula mitral con insuficiencia mitral moderada, siendo el paciente trasladado a la Unidad Coronaria. Se cubre empíricamente posible foco infeccioso con gentamicina, ampicilina y daptomicina. Se solicitan hemocultivos, los cuales son repetidamente negativos y se solicita también la determinación de reactantes de fase aguda séricos, los cuales son normales. Considerando estos resultados y que durante todo momento el paciente permanece afebril, el Servicio de Infecciosas considera baja la sospecha de endocarditis infecciosa; a pesar de lo que se decide cumplir 6 semanas de antibioterapia endovenosa.
+Además, entre los parámetros analíticos séricos, destacan un fibrinógeno levemente disminuido, plaquetopenia grado 2, índice de protrombina levemente prolongado y tiempo de tromboplastina parcial activado (TTPA) normal. Ante dichos resultados y por el cuadro clínico de trombosis sistémicas múltiples, se sospecha una CID y se inicia anticoagulación con heparina de bajo peso molecular.
+Seguidamente, se biopsia también el ganglio linfático laterocervical derecho, que resulta positiva para infiltración por adenocarcinoma moderadamente diferenciado de probable origen pulmonar, siendo por tanto diagnosticado de pulmón TxN3M1a, ALK negativo y EGFR no mutado, PD-L1 50 %.
+
+Diagnóstico
+» Adenocarcinoma de pulmón estadio IV. ALK negativo y EGFR no mutado.
+» Endocarditis trombótica no bacteriana.
+» Coagulación intravascular diseminada.
+» Infartos arteriales múltiples (renales, hepáticos y esplénicos).
+» Ictus isquémico de la rama posterior de la arteria cerebral media izquierda.
+» Taponamiento cardiaco resuelto mediante pericardiocentesis.
+
+Tratamiento
+Se mantiene la anticoagulación con heparina de bajo peso molecular. Progresivamente, el paciente presenta mejoría neurológica, persistiendo una afasia motora leve, una hemianopsia derecha y un déficit motor ipsilateral (3/5 en extremidad superior derecha y 4/5 en la inferior derecha). En esa situación, y tras repetir la TC basal en la que se objetivan únicamente las adenopatías previamente mencionadas aumentadas ligeramente de tamaño y cicatrices corticales en polo inferior de ambos riñones sin otras alteraciones, el paciente inicia primera línea de quimioterapia con intención paliativa según esquema carboplatino 5 AUC día 1 cada 21 días en monoterapia por la fragilidad.
+
+Evolución
+Hasta la fecha, el paciente ha recibido únicamente un ciclo de quimioterapia. Se prevé que, según la evolución, pueda continuarse el tratamiento con biterapia basada en compuestos de platino, en caso de continuar con la mejoría clínica experimentada hasta el momento.

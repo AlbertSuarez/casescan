@@ -1,0 +1,26 @@
+Anamnesis
+Varón de 73 años, con antecedentes de alergia a cotrimoxazol, HTA y fumador activo con un IPA 60. Consulta por primera vez en Servicio de Urgencias en julio de 2015 por despistes con frecuencia creciente y episodios de desorientación espacial de 3 días de evolución, sin otra clínica neurológica ni síndrome constitucional. Durante la valoración se encuentra consciente y orientado, sin afasia o disartria, así como tampoco déficit motor ni sensitivo.
+
+Exploración física
+Durante la exploración, se encuentra hemodinámicamente estable y afebril. La exploración neurológica a su vez resultó anodina, sin alteración a nivel de pares craneales, sensibilidad ni en la fuerza muscular. Únicamente destacaba un reflejo patelar ligeramente disminuido en lado izquierdo con reflejo cutáneo plantar flexor bilateral. Marcha normal, con signo de Romberg negativo.
+
+
+Pruebas complementarias
+Se solicitó analítica con hemograma, coagulación y orina, y estudio radiológico con radiografía de tórax, todas ellas dentro de la normalidad. No obstante, dada la clínica presentada se solicitó TC craneal donde se evidenció masa en septum que llega hasta pared izquierda del ventrículo lateral, sin condicionar hidrocefalia.
+Se decide ingreso a cargo de Servicio de Neurocirugía para completar estudio, realizándose resonancia magnética que muestra una tumoración centrada en fórnix izquierdo y techo del tercer ventrículo, impronta a ventrículos laterales, en relación con los forámenes de Monro, septum pellucidum y cintilla óptica izquierda, mínimo edema parenquimatoso pequeño y componente extraventricular en lado izquierdo.
+Se realiza craneotomía frontal derecha con corticotomía asociada 17/06/2015 con escisión incompleta de la lesión, diagnóstico anatomopatológico de linfoma difuso de célula grande B, con inmunofenotipo de centro germinal (CD10+, bcl6+, MUM1-, bcl2+). No se observa inmunorreactividad para CD138 ni para CD30, con un Ki67 del 80 %.
+Se realiza PET/TC sin evidencia de enfermedad extracraneal con lo que confirma el diagnóstico de linfoma cerebral primario. El estudio de serología para virus (VIH, VHC, VHB) fue negativo, siendo el EBNA IgG positivo.
+
+Diagnóstico
+Linfoma cerebral primario: linfoma B difuso de célula grande en septum pellucidum, intervenido el 18 de junio de 2015 con resección parcial.
+
+Tratamiento
+Tras el procedimiento quirúrgico presenta crisis parcial tratada inicialmente con levetiracetam; ante la falta de mejoría se introducen progresivamente nuevos fármacos (fenitoína, ácido valproico y aumento de la dosis de levetiracetam).
+A pesar de optimización de fármacos, presenta un estatus parcial complejo de 24 horas, por lo que ingresa en UCI con sedoanalgesia e intubación orotraqueal, pautando corticoesteroides, levetiracetam, fenitoína y añadiendo valproato, lacosamida y diazepam.
+Tras la mejoría del estatus y tras realizar TC sin alteraciones respecto a previo, es dado de alta a planta de Servicio de Oncología médica e inicia tratamiento de primera línea con metotrexato (MTX) a dosis de 3,5 g/m2.
+
+Evolución
+Tras 72 horas de la infusión de MTX, se evidencia rash cutáneo, con evolución rápida a pesar de instauración de corticoesteroides y antihistamínicos a lesiones ampollosas con denudación palatina asociada, siendo diagnosticado de necrólisis epidérmica tóxica (NET). Valorado conjuntamente con Servicio de Dermatología, ante la presencia de múltiples tratamientos, entre ellos anticomiciales y MTX como posibles desencadenantes del cuadro, sin poder diferenciar el causante, se decide suspender valproato, lacosamida, fenitoína, alopurinol. Ante la gravedad del cuadro, se pauta tratamiento con ciclosporina con mejoría progresiva hasta el alta.
+A pesar de considerarse el MTX como posible desencadenante de este cuadro, se decide conjuntamente continuar tratamiento, y el paciente recibe 6 ciclos sin incidencias y con evolución favorable.
+Las pruebas de revaluación evidencian una respuesta parcial con disminución de un 66 % de la masa tras el 2º ciclo de tratamiento, que finaliza en noviembre de 2015.
+En RM realizada en diciembre, se evidenció discreto aumento de tumoración, confirmándose progresión en febrero de 2016 en RM sucesiva, por lo que se decidió conjuntamente con Servicio de Oncología Radioterápica, paciente y familiares, actitud expectante hasta realización de resonancia posterior dada la edad y estabilidad clínica. Al evidenciarse nuevo crecimiento en mayo de 2016 y clara progresión, se decidió realización de radioterapia esteroatáxica con intención paliativa con una dosis total de 36 Gy en fracciones de 1,8 Gy en 20 sesiones. Se evidenció en RM posterior en agosto de 2016 remisión completa del tumor, la cual mantiene hasta la fecha.

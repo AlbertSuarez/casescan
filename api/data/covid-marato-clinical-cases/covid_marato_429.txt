@@ -1,0 +1,30 @@
+Anamnesis
+Mujer de 50 años natural de Paraguay aunque vive en España con su esposo desde hace 13 años. Tiene 4 hijos, convive con 2 de ellos. Lleva una vida activa e independiente.
+Niega hábitos tóxicos y, como únicos antecedentes médico-quirúrgicos a destacar, se encuentran 4 intervenciones y cesárea. Únicamente toma paracetamol ocasional si dolor.
+La paciente consulta en el servicio de Urgencias de un hospital comarcal por clínica de varias semanas de evolución consistente en disnea de esfuerzo de evolución progresiva con empeoramiento en los 4 días previos a la consulta por aparición de ortopnea. Además, refiere que, en los 3-4 meses previos, ha presentado un dolor sordo inespecífico pero continuo en el piso abdominal superior irradiado a espalda que relacionaba con la ingesta. Pérdida de peso no cuantificada en relación a la reducción voluntaria de la ingesta por aumentar el dolor, la paciente nos relata su "miedo a comer".
+
+Exploración física
+Buen estado general. ECOG: 0. Eupneica en reposo. Normocoloreada. Bien hidratada y perfundida.
+No se palpan adenopatías cervicales ni supraclaviculares. ACP. Tonos rítmicos y sin soplos. Murmullo conservado. Abdomen doloroso a la palpación profunda e indurado en epigastrio e hipocondrio derecho. No hay datos de peritonismo. Ruidos hidroaéreos presentes normales. Puño-percusión renal derecha dudosa e izquierda negativa.
+Miembros inferiores sin edemas ni empastamiento.
+
+Pruebas complementarias
+Analítica sanguínea realizada en Urgencias que destaca una hemoglobina de 10,7 mg y una PCR de 219.
+Una ecografía abdominal de urgencia objetiva masa subdiafragmática derecha de al menos 13 cm con características de extrahepática que parece depender del polo superior del riñón derecho produciendo desplazamiento del parénquima hepático y de la vena cava inferior intrahepática. Además, una masa adenopática de 4,4 cm interaortocava.
+TC toracoabdominopélvica: tórax anodino. Abdomen: gran masa retroperitoneal de al menos 14 x 12cm que produce un desplazamiento anterior de la vena cava inferior y probable invasión de la misma, desplazamiento posteroinferior del riñón derecho y desplazamiento anterior de todo el hígado. La lesión presenta múltiples áreas de necrosis en su interior y neovascularización periférica con neo angiogénesis y una irrigación prioritaria a través de la arteria suprarrenal derecha, siendo altamente sugestiva de carcinoma suprarrenal.
+RM de abdomen: masa retroperitoneal de unos 12 x 12 x 15 cm en el espacio de Morrison derecho, que por localización parece de origen suprarrenal. Interior heterogéneo, con áreas de necrosis y sangrado en distintos estadios evolutivos. Sugestiva de carcinoma suprarrenal, aunque no se puede descartar feocromocitoma.
+
+Diagnóstico
+Neuroblastoma poco diferenciado (clasificación INPC/OMS2017) con afectación ganglionar retroperitoneal y hepática, así como afectación de márgenes quirúrgicos (masa y hepático). Estadio 4S (INSS-CAP), L2 (INRG).
+
+Tratamiento
+Se realiza laparotomía exploratoria a los 20 días de las pruebas de imagen. Se objetiva masa que infiltra cava en su parte inferior a las venas suprahepáticas media e izquierda realizándose una resección de unos 3 cm de cava. Anastomosis cavo-cava termino-terminal y extracción de la pieza: tumorectomía retroperitoneal de 1.072 g y 19 x 13 x 7 cm con hepatectomía parcial derecha.
+Resumen de la cirugía: Debulky + hepatectomía derecha + resección de cava retrohepática.
+Resultado histopatológico de piezas quirúrgicas: neuroblastoma poco diferenciado, pobre en estroma schwaniano. Metástasis en 3 ganglios linfáticos retroperitoneales peritumorales con infiltración/metástasis del parénquima hepático y afectación de márgenes quirúrgicos de la tumorectomía retroperitoneal y hepatectomía. Diámetro tumoral 16 cm. Índice mitótico/cariorexis (IMK): intermedio.
+
+Evolución
+La paciente permanece ingresada en la Unidad de Cuidados Intensivos durante los 2 días siguientes a la cirugía pasando a la planta de hospitalización sin incidencias, salvo anemización que ha precisado transfusión de 2 concentrados de hematíes.
+Ante los hallazgos histopatológicos, es presentada en comité multidisciplinar que decide ampliar el estudio de extensión solicitando un rastreo con meta-yodo-benzol-guanidina (i 123 MIBG) sin hallazgos gammagráficos significativos salvo los cambios postquirúrgicos y pequeño derrame pleural derecho.
+Se solicita además estudio MYCN (amplificación), estudio de secuenciación y determinación de ALK por inmunohistoquímica (DF53). A la espera de los resultados, se inicia tratamiento adyuvante RT+/- QT (esquema basado en platino-etopósido).
+En la primer TC abdominopélvica tras el inicio de la QT, se objetivan varias imágenes nodulares en lecho quirúrgico, imagen nodular sólida en polo superior de riñón derecho de (43 x 28 mm) y adenopatías en hilio hepático y en receso diafragmático anterior derecho en relación con recidiva tumoral.
+Ante el resultado de inmunofenotipo ALK positivo, se decide inclusión en ensayo clínico para tratamiento con inhibidor de ALK; sin cumplir criterios de inclusión en el momento actual.

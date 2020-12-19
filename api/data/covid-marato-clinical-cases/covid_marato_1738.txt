@@ -1,0 +1,26 @@
+Anamnesis
+Mujer de 60 años de edad, con antecedentes personales de hernioplastia inguinal derecha y hernia umbilical gigante recidivada incarcerada intervenida, que es derivada a urgencias del Hospital Maternal Virgen del Rocío por su médico de Atención Primaria por metrorragia incoercible al intentar realizar citología de rutina.
+La paciente refería previo a su ingreso, leucorrea sanguinolenta y astenia de semanas de evolución sin otra sintomatología asociada.
+
+Exploración física
+ECOG 2. EVA 1-2; talla 153 cm; peso 76 kg; SC 1,74 m2. Buen estado general. Consciente y orientada.
+Estable hemodinámicamente. Sin adenopatías en cuello y axilas. No presenta ingurgitación yugular.
+Auscultación cardiorrespiratoria con tonos cardíacos rítmicos a buena frecuencia y murmullo vesicular conservado en ambos hemitórax. Abdomen cicatriz por hernioplastia inguinal derecha y umbilical. Nefrostomía bilateral
+Exploración ginecológica: gran tumoración exofítica cervical de aproximadamente 6 cm de la que se toman biopsias. Parametrio derecho libre. Parametrio izquierdo parece afectado.
+
+Pruebas complementarias
+• Pruebas de laboratorio: biquímica y hemograma normal, salvo Hb 10,9 g/dL.
+• TC abdominal: masa en el cérvix uterino de 6 x 5 x 5 cm con realce heterogéneo y necrosis central con extensión al tercio distal de la cara posterior del cuerpo uterino y cúpula vaginal con aparente indemnidad de plano graso con la cara anterior de la ampolla rectal. Más difícil establecer el plano graso de clivaje e indemnidad de la cara posteroinferior vesical (vejiga vacía). Carcinoma de cérvix. Extensión metastásica ganglionar extensa que desde la cadenas ilíacas y obturatrices se extiende cranealmente hasta nivel retrocrural y periesofágico con afectación de las estaciones ganglionares previas. Hígado tumoral metastásico.
+Metástasis pulmonar en receso pleuro-acigoesofágico.
+Extensa afectación metastásica ganglionar y visceral (hepática y pulmonar). Catéter de nefrostomía en riñón derecho. Ureterohidronefrosis izquierda por afectación ureteral distal por la neoplasia cervical referida. Catéter de nefrostomía en la región lumbar izquierda que no llega a atravesar la musculatura lumbar posterolateral izquierda. Hernia ventral en la línea media con contenido epiploico. Hernia inguinal bilateral muy voluminosa la de la región inguinal derecha con contenido de asas intestinales y meso, sin englobar el paquete vascular iliacofemoral externo en saco herniario.
+• Biopsia de cérvix: tumor maligno de células pequeñas concordante con tumor neuroectodérmico primitivo. Inmunohistoquímica: expresión de CD99 en las células tumorales y focalmente de CK(AE1AE3), con negatividad para CD56 y cromogranina. El índice de proliferación (Ki-67) es muy alto (90% aprox.). El estudio molecular mediante FISH no ha mostrado traslocación EWS, presente en la mayoría de los tumores neuroectodérmicos primitivos de partes blandas, aunque según la literatura no habitual en los de afectación del tracto genital.
+
+Evolución
+Ante los hallazgos encontrados en las pruebas complementarias y en la anatomía patológica de la biopsia realizada por Ginecología, la paciente es derivada a consultas de Oncología siendo valorada y planificándose primer ciclo de quimioterapia según esquema VAC (vincristina, doxorrubicina y ciclofosfamida) para ser recibido de forma hospitalaria por alto riesgo de síndrome de lisis tumoral, el cual se administró en planta de hospitalización presentando como complicación síndrome febril de corta duración y focalidad urinaria con bacteriemia secundaria por Escherichia coli BLEE que evolucionó satisfactoriamente tras administrar antibioterapia dirigida. Durante el ingreso se había realizado nefrostomía percutánea bilateral.
+Fue valorada tras el primer ciclo en consultas con mejoría subjetiva del estado general experimentando náuseas grado 1 y alopecia grado 2 como toxicidades a la quimioterapia. Se planifica segundo ciclo de quimioterapia con mismo esquema también de forma ingresada y se solicita TC toracoabdominopélvica de reevaluación para realizar tras este ciclo.
+
+Diagnóstico
+Tumor maligno de células pequeñas concordante con tumor neuroectodérmico primitivo de cuello de útero, estadio IV (metástasis ganglionares, pulmonares y hepáticas). Administración de quimioterapia según esquema VAC. Nefrostomía percutánea bilteral.
+
+Tratamiento
+Se propuso quimioterapia según esquema VAC (vincristina 2 mg + doxorrubicina 75 mg/m2 + ciclofosfamida 1200 mg/m2) del que cual ha recibido dos ciclos de forma ingresada con buena tolerancia sin apenas toxicidades y sin haber presentado síndrome de lisis tumoral.

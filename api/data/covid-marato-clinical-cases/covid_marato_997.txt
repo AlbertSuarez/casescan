@@ -1,0 +1,33 @@
+Anamnesis
+
+Antecedentes personales
+Mujer de 36 años de edad sin alergias medicamentosas conocidas. No presenta antecedentes personales de interés salvo migrañas ocasionales. Como antecedentes ginecoobstétricos, la paciente relata menarquia a los 14 años y fecha su última regla hace 20 días. Niega toma de anticonceptivos orales y ha tenido un embarazo y un parto eutócico.
+Sin tratamiento habitual.
+
+Antecedentes familiares
+Padre fallecido por cáncer gástrico a los 65 años. Dos tíos paternos con cáncer gástrico a los 42 y 45 años respectivamente. Una prima con cáncer gástrico a los 41 años.
+
+Historia oncológica
+En enero de 2018, la paciente acudió a consultas de Ginecología tras la detección de nódulo mamario de 2 cm en el cuadrante superoexterno de mama izquierda.
+En dicho servicio, se realizó ecografía de la mama que confirma la existencia de un nódulo sólido 5,5 mm (BIRADS 4), por lo que se realizó biopsia con aguja gruesa (BAG) de la misma.
+El diagnóstico anatomopatológico fue de carcinoma lobulillar de mama izquierda grado 2 con receptores hormonales positivos (receptores de estrógeno 80 %, receptores de progesterona 90 %) y HER-2 negativo (HercepTest® 2+; FISH ratio 1,2). Expresión de ki67 en el 5 % de las células tumorales.
+La paciente fue sometida a mastectomía izquierda y biopsia selectiva del ganglio centinela, confirmando los resultados obtenidos en la biopsia previa: carcinoma lobulillar de mama izquierda, estadio tumoral IA (pT1b [0,9 cm] N1mi [2/2]). AJCC 8º edición.
+Posteriormente es derivada a consultas externas de Oncología para valorar tratamiento complementario.
+
+Exploración física
+IK 100 %. Cicatriz de mastectomía izquierda sin alteraciones. Mama contralateral normal. Sin adenopatías axilares palpables. El resto de la exploración física sin hallazgos.
+
+Pruebas complementarias
+La analítica, la radiografía de tórax y la gammagrafía ósea no mostraron alteraciones.
+Se solicitó test genómico PAM50 para estimar de forma más precisa el riesgo de recurrencia. Tras dicho estudio, el tumor fue clasificado como luminal A, con una probabilidad de recaída a 10 años de 6%.
+
+Diagnóstico
+Carcinoma lobulillar infiltrante de mama izquierda, luminal A. Estadio IA.
+
+Tratamiento
+Ante estos resultados, se inició tratamiento hormonal con tamoxifeno 20 mg/24 horas.
+
+Evolución
+Se recogieron de forma más detallada los antecedentes familiares de cáncer. Ante la importante agregación familiar de casos de cáncer gástrico difuso en su linaje paterno, previa realización de asesoramiento genético, se solicitó estudio en línea germinal del gen CDH-1. Se encontró la variante patogénica en el exón 10 del gen CDH-1, consistente en la deleción del último nucleótido del exón 10 y primero del intrón 10 (c.1565_1565+1del2), lo que produce un codón STOP en la proteína: p.Thr522AsnfsX34 (codón STOP 556). Esta variante es considerada patogénica, por lo que se confirma la existencia de un síndrome de cáncer gástrico difuso hereditario.
+La paciente fue informada del riesgo aumentado de desarrollar cáncer gástrico a lo largo de su vida, y de su asociación con el carcinoma lobulillar infiltrante de mama. Una vez expuestas las opciones de seguimiento y medidas reductoras de riesgo, la paciente decidió someterse a gastrectomía total reductora de riesgo y mastectomía contralateral profiláctica. En el estudio anatomopatológico de las piezas quirúrgicas, no se encontraron focos neoplásicos.
+La paciente actualmente sigue con tratamiento hormonal con buena tolerancia al mismo. A su vez, se remitió a sus familiares para realizar estudio genético predictivo.

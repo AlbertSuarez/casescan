@@ -1,0 +1,29 @@
+Anamnesis
+Paciente de 38 años sin antecedentes médicos de interés (dos embarazos, dos partos, ningún aborto). Antecedentes familiares: abuela tratada por cáncer de estómago a los 82 años.
+Acude al Servicio de Ginecología en febrero de 2011 por metrorragias intermenstruales sin síndrome constitucional asociado.
+
+Examen físico
+Performance status (ECOG) de 0. Auscultación cardiorrespiratoria sin alteraciones. Abdomen levemente doloroso a la palpación, con una masa en la fosa iliaca izquierda, sin signos de defensa, ruidos conservados. Miembros inferiores: no edemas ni datos de trombosis. Exploración neurológica normal.
+
+Pruebas complementarias
+- Se realiza una ecografía, que demuestra una tumoración de 9-10 cm dependiente del ovario izquierdo, sin líquido libre en la cavidad abdominal.
+- El estudio radiológico se completa con una TC abdómino-pélvica, en la que se objetiva una masa pélvica retrouterina de 10 x 7 x 10 cm dependiente del ovario izquierdo y sin plano de clivaje con el recto-sigma.
+- Analíticamente destacaban marcadores tumorales Ca 125, CEA, beta-hCG, AFP, HE-4 dentro de los límites de la normalidad, y marcador tumoral CA 72 con valores preoperatorios elevados (155 ng/dl).
+
+Diagnóstico
+Tumor de Krukenberg en el ovario izquierdo, con áreas infiltradas por células en anillo de sello con sospecha de primario gástrico.
+
+Tratamiento
+La paciente se interviene en marzo de 2013 mediante laparotomía media debido al tamaño de la lesión y a la sospecha radiológica de posible infiltración del recto-sigma.
+Se practica inicialmente una anexectomía izquierda con biopsia intraoperatoria no cloncluyente, sin poder confirmar la malignidad, motivo por el cual se difirió la cirugía de estadificación reglada en espera del resultado anatomopatológico definitivo.
+En el estudio histológico definitivo se confirmaron los hallazgos como concordantes con tumor de Krukenberg en el ovario izquierdo, con áreas infiltradas por células en anillo de sello.
+Con el diagnóstico de tumor de Krukenberg en el ovario izquierdo, con áreas infiltradas por células en anillo de sello y ante la sospecha de primario gástrico, es remitida a Oncología Médica para completar el estudio y valoración.
+Se realizan una colonoscopia, sin hallazgos relevantes, y una gastroscopia, apreciándose una úlcera gástrica de aspecto maligno en la incisura-curvatura menor del cuerpo gástrico, cuya biopsia demuestra carcinoma de células en anillo de sello.
+Los estudios de extensión (gammagrafía ósea y TC) no observaron enfermedad a otro nivel.
+
+Evolución
+Tras comentar el caso clínico en el Comité Multidisciplinar de Tumores Digestivos, se propone como mejor alternativa terapéutica resección del primario gástrico y cirugía reglada en la pelvis. En mayo de 2013 se practica una gastrectomía total con resección del nódulo hepático, colecistectomía, histerectomía, anexectomía derecha, apendicectomía y muestras peritoneales.
+En la anatomía patológica se objetiva afectación con células en anillo de sello en la pieza de la gastrectomía, en 7/8 ganglios, en la serosa de la vesícula biliar y en el ovario derecho. Resto de las estructuras negativas para malignidad.
+Inmunohistoquímica: HER2 negativo.
+Los estudios postoperatorios no objetivaron enfermedad residual, por lo que se propone tratamiento con esquema cisplatino-taxotere por 6 ciclos. La TC, la RM hepática y la PET-TC no demostraron enfermedad, por lo que se valora la posibilidad de realizar peritonectomía +/- HIPEC. Finalmente, se decide continuar con el mismo esquema de quimioterapia hasta completar 9 ciclos.
+En la última TC realizada tras completar 9 ciclos de tratamiento persiste la ausencia de enfermedad, por lo que actualmente la paciente permanece en controles periódicos sin datos de recidiva.

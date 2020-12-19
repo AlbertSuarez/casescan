@@ -1,0 +1,27 @@
+Anamnesis
+Mujer de 80 años de edad con antecedentes de diabetes mellitus tipo 2 y cardiopatía isquémica. Acude a su médico de cabecera por clínica de tos persistente. Se solicita radiografía de tórax en la que se observa una masa en lóbulo superior derecho.
+Tras realizar tomografía computarizada (TC) toracoabdominopélvica y cerebral, rastreo óseo, tomografía por emisión de positrones (PET-TC) y broncoscopia se diagnostica de un adenocarcinoma de pulmón izquierdo cT4 N2 M1c (metástasis óseas).
+El estudio molecular del receptor del factor de crecimiento epidérmico (EGFR), gen del receptor de la tirosina quinasa del linfoma anaplásico (ALK) y oncogén receptor de tirosina quinasa ROS 1 fueron negativos. Se identificó una expresión del ligando 1 de muerte programada (PD-L1) mayor del 95 %.
+Inició tratamiento de primera línea con pembrolizumab. Tras el 4º ciclo existía una disminución del volumen tumoral del 28 % sin llegar a alcanzar criterios de respuesta parcial ni por RECIST ni por criterios inmunorrelacionados. Recibió el quinto ciclo de pembrolizumab dos semanas antes del comienzo del cuadro.
+En las últimas dos semanas, comienza con malestar general, astenia y anorexia. Asociaba debilidad y mareos con sensación de desvanecimiento, sin pérdida de consciencia y náuseas sin vómitos con dolor abdominal leve y difuso.
+Exploración física
+Durante la exploración física, la paciente se encuentra con mal estado general, tendencia al sueño. Escala de Glasgow de 14 (Glasgow ojos: 4; Glasgow motor: 5; Glasgow verbal: 5).
+Mantiene en un principio buenos registros tensionales, pero posteriormente tendencia a la hipotensión con presión arterial (PA) de 75/53 mm Hg y deterioro global. Se apreciaba una palidez cutánea y sequedad de piel y mucosas. No existía focalidad neurológica. Mínimo edema pretibial.
+
+Pruebas complementarias
+En la analítica realizada en Urgencias se evidencia un leve deterioro de la función renal con creatinina de 1,34 mg/dl, hiponatremia (sodio: 130 meq/l) e hiperpotasemia (potasio: 5,8 meq/l). En el estudio analítico tiroideo que se había realizado días antes previo al futuro sexto ciclo existían niveles de hormona estimulante de tiroides (TSH) elevados (75,84 mcui/ml) y niveles indetectables de T4 libre.
+Los niveles de cortisol fueron indetectables. Los de corticotropina (ACTH) estaban elevados (484 pg/ml, siendo los valores de referencia en nuestro laboratorio de 7-62 pg/ml).
+Se realizó una resonancia magnética cerebral sin evidenciarse alteraciones a nivel hipofisario.
+En analíticas posteriores, también se objetivó una elevación de los anticuerpos antiperoxidasa (349,07 ui/ml; positivo a partir de 7 ui/ml) y de anticuerpos anti-21-hidroxilasa (46 U/ml; positivo a partir de 1 U/ml), datos presentes en un 90 % las adrenalitis autoinmunes (1). El resto de hormonas de secreción central estaban dentro de los valores normales.
+
+Diagnóstico
+» Hipotiroidismo primario grado 3.
+» Insuficiencia suprarrenal primaria grado 4.
+
+Tratamiento
+En la puerta de Urgencias se inicia tratamiento con levotiroxina 200 mcg, metilprednisolona 100 mg y tratamiento de soporte con fluidoterapia (2).
+
+Evolución
+Tras iniciarse el tratamiento sustitutivo, la paciente experimenta franca mejoría clínica y progresiva normalización de alteraciones analíticas.
+Actualmente, la paciente se encuentra en seguimiento por Endocrinología y Oncología, y en tratamiento con levotiroxina 50 mcg al día, hidrocortisona 20 mg cada 8 horas y fludrocortisona 0,1 mg al día.
+Teniendo en cuenta la gravedad del cuadro y los deseos de la paciente, optamos por suspender el tratamiento con pembrolizumab. Actualmente, la paciente sigue presentando criterios de enfermedad estable.

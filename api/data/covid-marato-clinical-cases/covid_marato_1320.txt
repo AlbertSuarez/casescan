@@ -1,0 +1,21 @@
+Anamnesis
+Este caso ilustra un caso de microangiopatía trombótica tipo púrpura trombocitopénica trombótica en una paciente en curso de tratamiento con sunitinib; su importancia radica en los escasos casos publicados respecto a este efecto secundario.
+Paciente mujer de 56 años de edad, fumadora, con antecedentes de bronquitis crónica y duplicidad completa pieloureteral con infecciones urinarias de repetición. Diagnosticada de carcinoma renal de células claras con diseminación hepática, pulmonar y adenopático en mayo de 2013. Se valora como neoplasia renal de mal pronóstico según los criterios del MSKCC (Motzer), manteniendo buen ECOG. Se inicia tratamiento sistémico con sunitinib a dosis de 50 mg/día
+Previamente al inicio del tratamiento presentaba analítica con hemoglobina 6,7 g/dl, plaquetas 621.000, leucocitos 27.500, con función renal dentro de valores de normalidad.
+A los 10 días de iniciado el tratamiento la paciente acudió a Urgencias por presentar astenia grado 3, disnea a medianos esfuerzos, epistaxis bilateral y diarrea grado 2.
+
+Examen físico
+En urgencias se objetivó fiebre de hasta 38 ºC. En la exploración física destacaba palidez mucocutánea, petequias y equimosis en la piel, siendo el resto de la exploración anodina.
+
+Pruebas complementarias
+- Se realiza una analítica que muestra una hemoglobina 6,5 g/dl, plaquetas 5.000, creatinina 1,7 mg/dl, coagulación normal, resto dentro de valores normales.
+
+Diagnóstico
+Se orientó inicialmente como bicitopenia y toxicidad digestiva secundaria al sunitinib, así como insuficiencia renal prerrenal secundaria a las diarreas.
+
+Tratamiento
+Se suspendió el tratamiento con sunitinib e inició tratamiento con sueroterapia, transfusión de concentrados de hematíes y plaquetas y antibiótico de amplio espectro basado en antibiogramas anteriores.Tras 48 horas, la paciente presenta empeoramiento clínico con aparición de clínica neurológica: bradipsiquia y mioclonías. En el análisis de control se observó persistencia de bicitopenia grado 4 y emperoramiento de la función renal hasta creatinina de 2,3 mg/dl y LDH elevada. Se revisó la sangre periférica, observándose 3 esquistocitos por campo. Ante la sospecha de púrpura trombótica trombocitopénica se inició tratamiento con recambio plasmático y corticoides.
+
+Evolución
+Tras tres recambios plasmáticos, la paciente presentó mejoría parcial tanto clínica como analítica, pero tras 6 recambios plasmáticos presentó un nuevo empeoramiento analítico a pesar de la estabilidad clínica, y se decidió suspender dicho tratamiento. Se continuó el tratamiento corticoideo y de soporte, objetivando mejoría analítica progresiva hasta la normalización de parámetros del hemograma y la función renal; ante la persistencia de ECOG 3 se descarta tratamiento oncoespecífico.
+La paciente reingresó nuevamente al mes y medio del alta con deterioro del estado general secundario a progresión de la enfermedad oncológica, y fallece a las 72 horas. No presentaba signos clínicos o analíticos de recidiva de la púrpura trombótica trombocitopénica.

@@ -1,0 +1,32 @@
+Anamnesis
+Paciente varón de 22 años, sin antecedentes clínicos de interés ni tratamiento activo que sufre traumatismo deportivo en enero de 2008 con aparición de masa gemelar.
+
+Examen físico
+En la extremidad inferior izquierda, a nivel del gemelo, se palpaba una tumoración blanda, sin cambios en la temperatura y levemente dolorosa.
+
+Pruebas complementarias
+- Se llevó a cabo una resonancia magnética que diagnosticó un hematoma intramuscular en el músculo gastrocnemio, que fue drenado quirúrgicamente. La cirugía se planificó sobre la hipótesis de una recidiva del hematoma, hallándose la tumoración durante la cirugía.
+Se trató quirúrgicamente mediante cirugía conservadora probablemente marginal, con resultado patológico R0 y funcional muy bueno. Tras la cirugía se produjo dehiscencia grave de la herida, que persiste en forma de úlcera de cicatrización lenta por segunda intención.
+
+Diagnóstico
+El tumor se obtiene fragmentado, midiendo en conjunto unos 15 cm, presentando una inmunohistoquímica positiva para vimentina, Bcl2 y CD99 (difusa); EMA, S100 y CD77 (focal); y negativa para CAM 5.2, AE1/3, CD34, MyoD1, actina músculo liso, actina sarcomérica, colágeno IV, sinaptofisina y neurofilamentos. El índice MIB1 era del 30%. En el estudio genético, era negativos el reordenamiento EWS y positivo SYT-SSX. Se sugería un sarcoma sinovial.
+
+Tratamiento
+En el primer diagnóstico de extensión con TC-PET aparecen metástasis pulmonares bilaterales. Se iniciaron de enero a agosto de 2008 nueve ciclos de quimioterapia según protocolo de Pappo1 con vincristina, adriamicina e ifosfamida, combinándose con radioterapia sobre la pierna. La evaluación al final del tratamiento era de no evidencia de enfermedad en la pierna y remisión parcial en los pulmones, con persistencia de nódulos milimétricos bilaterales.
+
+Evolución
+En julio de 2009 se objetivó progresión de la enfermedad pulmonar y se intervino a cargo de cirugía torácica, realizándose una metastasectomía triple, hallándose un sarcoma sinovial bifásico en dos de las tres muestras. Se inició tratamiento con gemcitabina y docetaxel en agosto.
+En octubre de 2009 la TC de reevalución tras los tres primeros ciclos mostraba el aumento de una lesión en el lóbulo inferior izquierdo (de 4 a 10 mm), así como la aparición de múltiples lesiones pseudonodulares, hipodensas y mal definidas, distribuidas por ambos hemitórax. Aunque estas lesiones fueron inicialmente interpretadas como progresión de la enfermedad y la duda persiste hasta cierto punto, una evaluación posterior las relaciona con toxicidad pulmonar a causa de la gemcitabina.
+En febrero de 2010 se reevaluó el caso en Comité de tumores de tórax, concluyéndose que solo el mayor de los nódulos ofrecía un aspecto compatible con metástasis pulmonar, y aun con dudas. Se decidió un seguimiento estrecho, repitiendo la TC torácica de alta resolución en 2meses, y posponiendo la actitud quirúrgica.
+En septiembre de 2010 se realizó cirugía plástica sobre la pierna mediante colgajo libre. Finalmente, el colgajo sufrió trombosis y perdió la viabilidad, por lo que fue sometido a desbridamiento y cobertura con injertos de piel de espesor parcial del muslo ipsilateral, con buen resultado.
+En octubre, y ante una discreta progresión de las lesiones pulmonares, sin aparición de nuevas lesiones, se solicitó una PET para plantear la alternativa entre metastasectomía y radioterapia. La PET informa de un incremento patológico de la captación en dos nódulos pulmonares del LID, uno de ellos lateral basal con amplia base de implantación pleural y otro subpleural posterior. Se planteó el caso en sesión clínica, aconsejándose la cirugía.
+En diciembre, se practicó la metastasectomía mediante toracotomía postero-lateral derecha. Se encontró una metástasis que pende de la pleura visceral del lóbulo del inferior, que fue resecada con EndoGIA 60 carga verde. Otra metástasis en el mismo lóbulo, palpable, fue resecada con láser. No se palpaban otras lesiones sospechosas en el resto del pulmón. Ambas correspondieron a sarcoma sinovial de patrón bifásico.
+Se decidió el inicio de tratamiento con pazopanib, con intención adyuvante.
+De marzo a junio de 2012, apenas iniciado el tratamiento antiangiogénico, se produjo una necrosis del injerto cutáneo de la pierna, lo que obligó a reducir el fármaco primero, suspenderlo después y reintroducirlo a dosis reducidas con aumento progresivo. La interrupción del tratamiento fue aprovechada para realizar una técnica plástica mixta de injerto cutáneo e implante de células progenitoras, que mejoró con rapidez la cobertura de la úlcera crónica. Durante esta temporada permaneció libre de progresión.
+En julio de 2012, en ausencia de síntomas, la TC y la PET-TC diagnostican una progresión metastásica pulmonar bilateral muy severa, con aparición de grandes masas pulmonares en ambos hemitórax, la mayor ocupando la práctica totalidad del lóbulo inferior derecho con extensión por contigüidad a la pared torácica y transdiafragmática a segmentos posterosuperiores del lóbulo hepático derecho.
+Se inició en diciembre de 2012 tratamiento con ifosfamida a dosis altas, habiendo recibido cuatro ciclos con muy buena tolerancia, salvo diarrea de patrón infeccioso.
+En mayo de 2013 el paciente ingresa por sospecha de síndrome de vena cava, confirmándose en la TC una franca progresión con marcado crecimiento de conglomerado metastásico pleural, con desplazamiento de estructuras mediastínicas, afectando a la totalidad del parénquima derecho, así como progresión de la infiltración hepática a través del diafragma desde dicha lesión.
+El día 8 de mayo se realiza punción yugular derecha con guía ecográfica para realizar cavografía superior, que confirma la presencia de estenosis severa de cava superior, colocándose dos stents (14 x 80 mm y 14 x 60 mm), con control posterior que mostraba permeabilidad venosa.
+El día 10 de mayo se pauta un primer ciclo de trabectedina en 3 horas.
+Una semana después, el paciente ingresa por mal control analgésico con aparición de dolor toracoescapular derecho y progresión del síndrome de vena cava, con empeoramiento progresivo de la respiración, con disnea incontrolable y aumento de la necesidad de mórficos de rescate en su domicilio a pesar de mórficos a altas dosis.
+Tras 24 horas ingresado, y ante el mal estado general, se decidió sedación por astenia e insuficiencia respiratoria incontrolable, certificándose el exitus tras escasas horas.

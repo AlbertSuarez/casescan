@@ -1,0 +1,34 @@
+Anamnesis
+Presentamos el caso de un varón de 22 años diagnosticado de un hepatoblastoma metastásico.
+Consultó en Urgencias de otro hospital en julio de 2014 por un cuadro de dolor abdominal. Presentaba como único antecedente personal tabaquismo, con un consumo acumulado de 10 años/paquete. No antecedentes familiares oncológicos. Se trataba de un varón con apoyo familiar. El paciente refería desde hacía aproximadamente 2 meses un dolor abdominal difuso, más acentuado en el hipocondrio derecho, alternando episodios de diarrea y estreñimiento; asociaba anorexia y pérdida ponderal de 10 kg en 4 meses.
+
+Exploración física
+El paciente presentaba estabilidad hemodinámica, un performance status de 1 y únicamente destacaba un abdomen doloroso de manera difusa con hepatomegalia de tres traveses de dedo y una caquexia moderada, siendo el resto de la exploración física normal.
+
+Pruebas complementarias
+Ante la clínica referida ingresó para su estudio:
+» A nivel analítico no había alteraciones del hemograma ni de la coagulación, y destacaban: bilirrubina total (BT) de 2,78 mg/dl, GOT 115 UI/l, GPT 225 UI/l y LDH 663 UI/l; proteinograma normal, sin detectarse componente monoclonal; alfa-fetoproteína (AFP) 1,5 ng/ml; serología de virus de hepatitis negativa.
+» Las radiografías de tórax y abdomen no evidenciaban patología y la ecografía cardíaca mostró una fracción de eyección del ventrículo izquierdo del 71%.
+» Se completó el estudio con ecografía abdominal, tomografía computarizada (TC) y resonancia magnética (RM), donde se evidenciaba una gran masa sólido-quística de 105-107 mm localizada en la encrucijada duodeno-pancreática con infiltración hepática difusa de todos los segmentos hepáticos, así como infiltración de la vía biliar intra y extrahepática, esplénica y pancreática. También se evidenciaba infiltración de estructuras vasculares (arteria esplénica, arterias hepáticas, tronco celíaco y vena cava inferior), así como trombosis portal.
+» Se realizó una biopsia hepática, la cual informó de infiltración hepática por tumor de células pequeñas compatible con hepatoblastoma. El estudio inmunohistoquímico mostraba positividad para beta-catenina, antiquimotripsina, citoqueratina A1/A3, citoqueratina 19 y CD99. Presentaba negatividad para S-100, cromogranina, TTF1, WT1, BCL2 y CD56 entre otras, siendo el índice de proliferación Ki-67 del 60%. La biopsia no pudo ser revisada ni se realizaron estudios moleculares en nuestro centro por falta de muestra.
+
+Diagnóstico
+Durante el proceso diagnóstico el paciente desarrolló un fracaso hepático grave con ictericia franca y ascitis moderada, así como cifras de BT de 34 mg/dl y alargamiento de los tiempos de coagulación.
+Con el diagnóstico de hepatoblastoma de alto riesgo estadio PRETEXT-IV (pretreatment tumor extension) por afectación de todos los segmentos hepáticos, E+ (afectación extrahepática), M+ (metástasis pancreáticas) y AFP < 100 ng/ml, y tras revisar el protocolo SIOPEL-4 de la International Society of Pediatric Oncology, se decide iniciar tratamiento quimioterápico de intensificación con intención neoadyuvante y posterior cirugía radical en función de la respuesta.
+
+Tratamiento
+Inicia tratamiento quimioterápico con CDDP en monoterapia a dosis de 100 mg/m2, del cual recibe un total de tres ciclos entre julio y septiembre de 2014. Tras tres ciclos de quimioterapia con CDDP presenta enfermedad estable radiológica.
+Ante el aumento de la ictericia con coluria, acolia y cifras de BT de 18,04 mg/dl, y dado que estaba previsto su traslado a nuestro centro por disponer de atención continuada de Oncología y así optar a tratamiento de intensificación con antraciclinas y platinos, se administran 80 mg/m2 de CDDP el día 24 de septiembre de 2014 y es trasladado.
+
+Protocolo de tratamiento:
+» Bloque A1: día +1 CDDP 80 mg/m2 en perfusión continua (PC) 24 h. Días +8 y +15, CDDP 70 mg/m2 en PC 24 h. Días +8 y +9, doxorrubicina 30 mg/m2.
+» Bloque A2: días +29 +36 y +43, CDDP 70 mg/m2 en PC 24 h. Días +36 y +37, doxorrubicina 30 mg/m2.
+» Bloque A3: días +57 y +64, CDDP 70 mg/m2 en PC 24 h. Días +57 y +58, doxorrubicina 30 mg/m2.
+Se decide, previamente a la quimioterapia, colocar un drenaje de la vía biliar interno-externo. Tras la normalización de la BT, inicia tratamiento quimioterápico (bloque A1) el día 12 de noviembre de 2014 y finaliza el bloque A3 (día +78) el 17 de febrero de 2015.
+Durante el tratamiento presenta como complicaciones un debut diabético de dificil control, bacteriemia asociada a catéter venoso central y una neutropenia febril que implicó retraso en el inicio del bloque A3.
+Presenta como toxicidades tras completar el tratamiento una trombopenia grado 4 y una neuropatía grado 2.
+
+Evolución
+Tras completar el tratamiento (bloques A1, A2 y A3), el paciente presenta una mejoría clínica franca, con recuperación del estado general, pudiendo reintroducirse progresivamente en sus tareas habituales y siendo autónomo para las actividades de la vida diaria. La valoración de la respuesta aplicando criterios RECIST 1.1 es de enfermedad estable, persistiendo trombosis portal y afectación pancreática confirmada por TC y tomografía por emisión de positrones. Valorado en comité multidisciplinario, se descarta cirugía radical dada la presencia de trombosis portal y la presencia de enfermedad metastásica pancreática, siendo candidato a recibir el ciclo B del protocolo SIOPEL-4 basado en carboplatino y adriamicina.
+Debido a las toxicidades relacionadas con el tratamiento de hiperesplenismo, se decide realizar únicamente tratamiento de soporte y seguimiento estrecho, y se valorará tratar a la progresión.
+Actualmente, el paciente disfruta de su vida en familia con su mujer y su hija de 7 meses y sigue controles periódicos con un intervalo libre de progresión de 3 meses y una supervivencia tras el diagnóstico de 11 meses.

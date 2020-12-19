@@ -1,0 +1,37 @@
+ANAMNESIS
+Mujer de 65 años con antecedentes de hipertensión arterial, diabetes mellitus tipo 2 y dislipemia que consulta en Urgencias por distensión abdominal de 3 semanas de evolución, náuseas, estreñimiento y dificultad para el ventoseo. No refería síndrome constitucional ni fiebre.
+
+EXPLORACIÓN FÍSICA
+Presentaba un performance status de 1 y destacaba un abdomen globuloso y doloroso a la palpación en hemiabdomen izquierdo, sin palparse masas ni megalias. No presentaba peritonismo. El resto de la exploración física era normal.
+
+PRUEBAS COMPLEMENTARIAS
+Se realizó una tomografía computerizada (TC) de tórax, abdomen y pelvis, que evidenció una tumoración estenosante en colon izquierdo con adenopatías en su vecindad, una masa paramediastínica izquierda de aproximadamente 9 centímetros, y lesiones pleurales izquierdas sugestivas de metástasis.
+
+Analíticamente destacaba una Hemoglobina de 11,5 mg/dL y un Antígeno Carcinoembrionario de 12,1 mg/dL.
+
+ANATOMÍA PATOLÓGICA
+El diagnóstico anatomopatológico inicial de la biopsia pleural fue de carcinoma de células escamosas. No se objetivaron mutaciones en EGFR y no se puedo evaluar ALK ni ROS-1 por escasez de células tumorales. El estudio de PD-L1 fue positivo en el 80% de las células tumorales. Tras revisión del caso en comité multidisciplinar, Radiodiagnóstico consideró la posibilidad diagnóstica de carcinoma tímico dadas las características de la lesión pulmonar por imagen. Revisado el diagnóstico por parte de Anatomía Patológica se confirmó dicha hipótesis, siendo el diagnóstico final de carcinoma tímico.
+La biopsia colónica fue compatible con un adenocarcinoma de colon bien diferenciado, sin inestabilidad de microsatélites.
+
+JUICIO DIAGNÓSTICO
+Diagnóstico sincrónico de adenocarcinoma de colon estenosante, estadio clínico T3N1M0, y un carcinoma tímico escamoso con afectación pleural múltiple (PD-L1 del 80%).
+
+TRATAMIENTO
+Dado el diagnóstico inicial de carcinoma escamoso pulmonar metastásico, se consideró prioritario el tratamiento del mismo. Se inició primera línea de tratamiento con pembrolizumab y en función de la respuesta al tratamiento y sintomatología de la paciente, se consideraría intervención quirúrgica.
+
+EVOLUCIÓN
+Inició tratamiento con excelente tolerancia, presentando respuesta parcial a nivel de la masa paramediastínica e implantes pleurales por criterios RECIST 1.1 tras 6 ciclos. Como toxicidad más relevante había presentado edemas grado 1. Se evidenciaba además por imagen un edema de planos grasos, líquido libre abdominal y derrame bilateral leve.
+
+Tras el séptimo ciclo consultó en Urgencias por astenia, edemas y disnea. A la exploración física destacaban edemas en miembros inferiores grado 3, ascitis no a tensión y crepitantes hasta campos medios bilaterales a la auscultación. Analíticamente destacaba una hiponatremia moderada e hipoproteinemia. Se inició tratamiento con furosemida, suplementos proteicos, y se procedió al ingreso de la paciente para estudio.
+
+Dentro del estudio del estado edematoso, se realizó una ecocardiografía que fue normal, no se evidenció proteinuria en rango nefrótico en orina, tampoco alteración renal, suprarrenal ni hipofisaria y el estudio autoimunitario (complemento, anticuerpos nucleares extractables totales y antinucleares) fue negativo.
+
+De forma paralela al cuadro de anasarca la paciente precisó intervención quirúrgica urgente por peritonitis purulenta secundaria a perforación colónica a nivel de la prótesis. Recibió tratamiento antibiótico y se realizó una hemicolectomía izquierda y colostomía terminal, precisando estancia prolongada en la Unidad de Cuidados Intensivos (UCI) por complicaciones postquirúrgicas.
+
+Resuelto el cuadro infeccioso y tras su recuperación postquirúrgica, la paciente permanecía en estado de anasarca, con empeoramiento respiratorio progresivo que requirió nuevo ingreso en la UCI. Precisó ventilación mecánica no invasiva y colocación de tubo de tórax para drenaje del derrame pleural (compatible con un trasudado, con citología negativa para malignidad). De forma conjunta con el Servicio de Nefrología, se fue intensificando progresivamente el tratamiento depletivo, asociándose albúmina, acetazolamida y metolazona.
+
+Paralelamente presentó durante su evolución elevación de enzimas hepáticas (Aspartato Aminotransferasa (GOT) 169 U/L, Alanina Amino Transferasa (GPT) 1027 U/L, Fosfatasa Alcalina 662 U/L, Bilirrubina total 7,3 mg/dL), por lo que se suspendió medicación hepatotóxica sin mejoría y sin un cuadro infeccioso ni autoinmunitario que lo justificara. Tampoco se hallaron anomalías en estudios de imagen (colagio-resonancia y resonancia magnética hepática).
+
+Dado que la paciente se encontraba en estado de anasarca refractario y ante el empeoramiento hepático, no objetivándose causa identificable para ninguna de las dos circunstancias, se inició tratamiento corticoideo a altas dosis ante la sospecha de efecto adverso inmunomediado, dados los antecedentes del tratamiento con anti-PD1. Se inició micofenolato mofetilo dada la sospecha de hepatitis tóxica inmunomediada. La paciente presentó una escasa mejoría clínica y analítica inicial, con posterior empeoramiento clínico progresivo.
+
+Dado que presentaba signos de sufrimiento activo y ante la refractariedad clínica a los tratamientos instaurados, se inició una perfusión de sedoanalgesia y la paciente falleció dos meses después de su ingreso. Se ofreció autopsia clínica que la familia desestimó.

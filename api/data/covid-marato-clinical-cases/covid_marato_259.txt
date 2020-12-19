@@ -1,0 +1,23 @@
+Anamnesis
+Paciente mujer de 61 años, nunca fumadora, sin alergias medicamentosas conocidas. Con antecedentes de hipertensión, dislipemia e intervenida por fístula de líquido cefalorraquídeo con síndrome de silla turca vacía.
+Diagnosticada en marzo de 2019 de un adenocarcinoma de pulmón estadio IV, masa cavitada de 2 x 1,5 cm en lóbulo superior izquierdo, nódulos pulmonares bilaterales, adenopatías mediastínicas y masa pericárdica de 2 cm con derrame pericárdico asociado. En el estudio molecular, no presentó mutación de EGFR, ni translocación de ALK, con alta expresión de PDL1 TPS 80 %. Marcadores séricos tumorales: antígeno carcino embrionario (CEA) 11,5 mg/ml (0-5) y enolasa neuronal específica 45,9 ng/ml (1-20).
+El 11 de abril, con un índice de Karnofsky (IK) del 80 % y con clínica de disnea de esfuerzo, inició cisplatino 140 mg (75 mg/m2), pemetrexed 935 mg (500 mg/m2) y pembrolizumab 200 mg.
+Tras la inserción del catéter central de inserción periférica (PICC), presentó trombosis venosa profunda en la vena subclavia, axilar y humeral derecha el 21/4/2019, inició tratamiento anticoagulante con bemiparina 10.000 UI cada 24 horas.
+La paciente ingresó el 26/4/2019 por aumento de disnea hasta hacerse de mínimos esfuerzos, con tos, sin expectoración ni fiebre.
+
+Pruebas complementarias
+En el análisis, el único parámetro fuera de la normalidad fue el dímero D de 3.278 ng/ml (0-230). La radiografía de tórax mostró una silueta cardiaca aumentada de tamaño con el signo de "la garrafa de agua".
+Se realizó una TC donde se objetivó trombo embolismo pulmonar (TEP) bilateral, masa en lóbulo superior izquierdo, nódulos pulmonares menores a 1 cm, adenopatías mediastínicas, masa pericárdica de 2 cm similares a la TC previa, y aumento de derrame pericárdico. El ecocardiograma confirma derrame pericárdico grave con datos de compromiso hemodinámico.
+
+Diagnóstico
+Diagnóstico de TEP bilateral y derrame pericárdico tumoral en paciente con adenocarcinoma de pulmón estadio IV.
+
+Tratamiento
+Se practicó pericardiocentesis evacuadora con extracción de 1.600 ml de líquido hemático sin complicaciones secundarias.
+
+Evolución
+La citología del líquido pericárdico fue positiva para células malignas compatibles con adenocarcinoma. El estudio microbiológico resultó negativo. En el último análisis del ingreso hospitalario presentó un CEA de 4,1 ng/ml y en la radiografía de tórax de control había una disminución de la silueta cardiaca, sin otros hallazgos.
+Fue dada de alta domiciliaria con diagnóstico de TEP bilateral y derrame pericárdico tumoral resuelto.
+En el control para el segundo ciclo se mantenía asintomática, y con un descenso del CEA hasta 1,7 ng/ml; con radiografía de tórax sin derrame pericárdico.
+Exploración física
+Durante la exploración física no se hallaron alteraciones significativas.

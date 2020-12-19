@@ -1,0 +1,38 @@
+Anamnesis
+» Paciente de 69 años sin antecedentes de interés.
+» Enviado a nuestro centro tras biopsia de lesión cutánea en talón derecho con resultado de Melanoma maligno, con 2 mitosis por campo.
+» Abril 2014: Ampliación de márgenes y Biopsia selectiva de ganglio centinela positiva, con resultado anatomopatológico de MELANOMA LENTIGINOSO ACRAL, Clark IV, Breslow 4,5mm, 6 mitosis x mm2, sin permeación vascular ni afectación perineural, con leve reacción inflamatoria peritumoral y bordes quirúrgicos libres.
+» Linfadenectomía inguinal derecha extirpando 15 ganglios: libres de enfermedad.
+
+Exploración física
+Consciente y orientado. Normocoloreado. Eupneico. ECOG: 0. AC: Rítmico, no soplos. AP: Normoventilación bilateral. Abdomen: blando, depresible, no masas ni megalias, peristaltismo presente.
+Cicatriz en talón dcho libre de enfermedad. Cicatriz en ingle derecha secundario a linfadenectomía, libre de enfermedad. Linfedema en EID.
+
+Pruebas complementarias
+TAC tap del 27/02/14: Libre de enfermedad.
+BRAF no mutado.
+RMN craneal 22/10/2015: Sin hallazgos de significación patológica.
+RMN craneal 17/03/2016: En silla turca y de forma bilateral se identifica en la serie con gadolinio nodulo hipointenso 5 mm en el lado derecho y de 4 en el izdo sugestivos de microadenomas. Leve atrofia hipofisaria. Resto del estudio sin alteraciones.
+
+Diagnóstico
+Melanoma lentiginoso acral en talón derecho, pT4aN1a (sn) M0 Estadío IIIA
+
+Tratamiento
+El 2/06/14 inicia tratamiento complementario con Interferón a altas dosis (Esquema Kirkwood).
+Continúa con dicho tratamiento hasta el 15/10/14 en que se suspende por toxicidad ocular, tras apreciarse exudados algodonosos sugestivos de Amaurosis fugaz. Posteriormente inicia seguimiento.
+
+Evolución
+Julio 2015: Acude a consulta antes de la revisión programada porque sobre la pierna tratada presenta lesiones cutáneas papulo-eritematosas de 2 meses de evolución.
+Se realiza una biopsia siendo compatible con metástasis dérmica en tránsito.
+Se descarta enfermedad a distancia por PET-TAC.
+ECOG 0, LDH normal, BRAF V600E wt.
+Ante enfermedad irresecable, se propone tratamiento con Ipilimumab 3 mg/kg/21 días x 4 dosis que recibe del 21/08/15 al 27/11/15.
+Tras el 3º ciclo de Ipilimumab acude por cuadro de cefalea, náuseas y debilidad generalizada.
+Con sospecha de enfermedad cerebral metastásica, ingresa y se inicia corticoterapia a altas dosis con Dexametasona 4 mg/iv/8h.
+Se descartan metástasis cerebrales por TAC y RMN craneal y tras mejorar clínicamente, se inicia descenso progresivo de corticoterapia.
+A la semana, nuevo ingreso por diarrea G3 que evoluciona favorablemente tras corticoterapia iv.
+Posteriormente, el paciente refiere además astenia intensa y voz gangosa.
+Se completa estudio con analítica que incluye perfil tiroideo, cortisol y ACTH, prolactina y testosterona comprobándose panhipopituitarismo, diagnosticándose de Hipofisitis en relación a toxicidad por Ipilimumab.
+Se instaura tratamiento sustitutivo con Hidroaltesona 20 mg/12h y posteriormente a la semana, Levotiroxina 125 mg/24h.
+Actualmente está recibiendo Nivolumab, ha desaparecido la clínica de astenia y han empezado a mejorar los niveles T4, T3
+Las metástasis en tránsito han empezado a remitir.

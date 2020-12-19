@@ -1,0 +1,24 @@
+Anamnesis
+Paciente varón de 62 años, sin alergias medicamentosas conocidas, exfumador, no enolismo, con antecedente de hipertensión y estenosis aórtica severa que requirió recambio valvular en noviembre de 2007 con prótesis biológica.
+Inició su historia oncológica en octubre de 2013, cuando se diagnosticó de carcinoma escamoso de laringe supraglótica, estadio IV (T3N2cM0), considerado candidato a quimioterapia de inducción bajo esquema TPF (cisplatino 120 mg, docetaxel 120 mg, 5-fluorouracilo 6.100 mg). Se administraron 3 ciclos, recibiendo el último el 18/12/2013; como toxicidades presentó mucositis grado 2, neutropenia grado 4, febril y diselectrolitemia severa, por lo que requirió ingreso posterior al terer ciclo. Se valoró como remisión parcial superior al 50%, tanto por la exploración como por la tomografía computarizada, y se planteó continuar el tratamiento radical con radioterapia y cetuximab. Recibió la primera dosis de cetuximab a 400 mg/m2 s.c. el 24/1/2014, teniendo pendiente el inicio de la radioterapia el 29/1/2014.
+A las 7 horas tras la infusión del cetuximab inició clínica de cefalea intensa frontal, dolor cervical, náuseas, vómitos en proyectil, fiebre de 38,1 ºC y desorientación, motivo por el cual fue llevado a Urgencias.
+
+Examen físico
+Ingresa hemodinámicamente estable, febrícula de 37,7 ºC, exploración cardiopulmonar y abdominal sin hallazgos de interés. Examen neurológico con deterioro del nivel de consciencia, agitación psicomotriz, Glasgow de 11 puntos.
+Pupilas isocóricas y reactivas, fuerza y sensibilidad conservadas, rigidez de nuca.
+
+Pruebas complementarias
+- El análisis sanguíneo del 25/1/2014 informó: electrolitos, glicemia, función hepática y coagulación en rango de normalidad, creatinina 119 mmol/l, urea 8,5 mmol/l, proteína C reactiva 6,7 mg/l. Hemoglobina 84 g/l, plaquetas 116 x 10 9/l, leucocitos 8,95 x 109/l, neutrófilos 6,82 x 109/l.
+- La punción lumbar mostró en el líquido cefalorraquídeo (LCR): número de células 334/mm, neutrófilos 92%, linfocitos 5%, macrófagos 3%, glucosa 3,5 mmol/l (2,4 a 4,4) (glicemia en sangre 7,4 mmol/l), proteína total 1,18 g/l (0,15-0,45), ADA 2,7 UI/l (0-9), LDH 62 UI/l. Tinción de Gram: no se observaron gérmenes. Antígeno del neumococo, detección de ácidos nucleicos de herpes virus 1, herpes virus 2, herpes virus 5, herpes virus 6 y enterovirus, todos negativos. Cultivos para bacterias, hongos y micobacterias: negativos.
+- Se cursaron hemocultivos, sedimento de orina y urocultivo, que fueron negativos.
+- Se realizó una tomografía cerebral, que fue reportada como normal.
+- La resonancia magnética cerebral fue reportada con realce meníngeo, sin ningún otro hallazgo de interés.
+
+Diagnóstico
+Se valoró como síndrome meníngeo y se planteó el diagnóstico diferencial entre meningitis aguda bacteriana y meningitis aséptica por cetuximab.
+
+Tratamiento
+Recibió terapia antibiótica empírica con ampicilina, meropenem y vancomicina. La ampicilina fue retirada al obtener la tinción de Gram del LCR negativa y se sustituyó por tratamiento con ceftriaxona en monoterapia a "dosis meníngeas", de acuerdo con el protocolo del Servicio de Enfermedades Infecciosas.
+
+Evolución
+La clínica neurológica desapareció completamente a las 24 horas del ingreso. Se indicó dexametasona 4 mg/día y se mantuvo el tratamiento con ceftriaxona durante 10 días; la punción lumbar del 5/2/2014 resultó normal. Desde las 24 horas del ingreso, el paciente permaneció totalmente asintomático y afebril. A los 12 días fue dado de alta con el diagnóstico de meningitis aséptica por cetuximab. El caso fue valorado en el comité de tumores, se desestimó seguir el tratamiento con cetuximab, y se decidió continuar el tratamiento oncológico con radioterapia a dosis radicales.

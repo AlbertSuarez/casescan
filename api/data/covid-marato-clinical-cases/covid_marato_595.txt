@@ -1,0 +1,31 @@
+Anamnesis
+Mujer de 74 años sin antecedentes personales ni familiares de interés que consultó en Urgencias en noviembre de 2011 por dolor en la fosa ilíaca derecha irradiado hacia la región lumbar, sin síndrome miccional ni fiebre ni otra sintomatología asociada.
+
+Exploración física
+Cabeza y cuello: no adenopatías en cadenas accesibles. Auscultación cardiopulmonar: rítmica sin soplos, murmullo vesicular conservado, sin ruidos añadidos. Abdomen: dolor a la palpación en la fosa ilíaca derecha con una masa de 15 cm de diámetro palpable a nivel profundo. Miembros inferiores sin edemas ni signos de trombosis venosa profunda y con pulsos presentes.
+
+Pruebas complementarias
+» Tras la realización de una ecografía transvaginal y abdominal se objetivó una masa pélvica de 15 x 12 cm que parecía depender del ovario derecho, de aspecto quístico con un tabique, un polo sólido a nivel posterior y papilas anteriores.
+» La TC de tórax, abdomen y pelvis la describía como una lesión sospechosa de malignidad, sin objetivar otras lesiones.
+» Los marcadores Ca 125 y Ca 19.9 fueron de 69 UI/ml (0,0-35) y de 65 UI/ml (0,0-90).
+
+Diagnóstico
+Lesión ovárica derecha sugestiva de malignidad por pruebas de imagen. Estudio de extensión negativo.
+
+Tratamiento
+En diciembre de 2011, tras la confirmación de malignidad con biopsia intraoperatoria, se realizó cirugía reglada de ovario mediante ooforectomía bilateral, histerectomía, adenectomía paraaórtica e ilíaca, omentectomía, toma de muestra de líquido ascítico, biopsias de cavidad peritoneal y apendicectomía.
+
+El diagnóstico definitivo fue de carcinoma de células claras de patrón tubuloquístico asociado a áreas de patrón adenofibroso pT1aN0M0 sin áreas de invasión linfovascular con patrón inmunofenotípico CD15, CK 7, vimentina positivos; CK 20 negativa, WT1 positivo en vasos negativo en tumor, con receptores de estrógenos positivos.
+
+En enero de 2012, con diagnóstico de carcinoma de ovario de células claras estadio IA (FIGO) se inició tratamiento con intención adyuvante según esquema carboplatino AUC 6-paclitaxel 175 mg/m2 cada 3 semanas, recibiendo cuatro ciclos con aceptable tolerancia.
+
+Evolución
+En la TC postratamiento no había evidencia de enfermedad, continuando con revisiones normales hasta octubre de 2012, cuando apareció una lesión nodular en el segmento medial del lóbulo superior derecho pulmonar que se confirma por PET y que es sugestiva de enfermedad metastásica. En ese momento el marcador Ca 125 estaba dentro de los límites de la normalidad.
+
+Tras abordaje multidisciplinar del caso en el comité de tumores torácicos, se decidió realizar resección de la lesión con biopsia intraoperatoria, llevándose finalmente a cabo una metastectomía en el lóbulo superior derecho el 13 de abril de 2012 con resultado anatomopatológico concordante con metástasis de carcinoma de células claras de origen ovárico.
+
+En junio de 2012 fue valorada de nuevo en la consulta de Oncología Médica, se solicitaron nuevos marcadores tumorales, que fueron negativos, y una PET postquirúrgica para decidir la actitud. En dicha PET se describía una lesión en el seno cardiofrénico izquierdo que había aumentado de tamaño y captación con respecto al estudio previo, siendo sospechosa de malignidad, por lo que se decidió puncionar. El resultado anatomopatológico fue de carcinoma concordante con origen ovárico metastásico y tras valoración de cirugía torácica de nuevo se realizó una metastectomía que confirmó el origen ovárico.
+
+En octubre de 2012 inició tratamiento con carboplatino-gemcitabina, recibiendo seis ciclos. En la TC tras tres ciclos se veía un nódulo inespecífico adyacente a la zona de resección de 1,3 cm que se reduce a 6 mm tras finalizar la quimioterapia en febrero de 2013. Continuó con controles, permaneciendo estable hasta agosto de 2013, que en la PET se objetivó crecimiento del nódulo conocido hasta alcanzar un tamaño de 2,3 cm de diámetro. Valorada de nuevo por Cirugía Torácica y por Oncología Radioterápica, se decidió administrar tratamiento local mediante SBRT (stereotatic body radiotherapy), alcanzando una dosis de 50 Gy. Al finalizar el tratamiento se objetivó otro nódulo adyacente al previo en el LSD marginal al campo de radioterapia, indicándose observación con prueba de imagen en 3 meses.
+
+En abril de 2014 se objetivó estabilidad de dicho nódulo, pero aumento de otro de 7 mm hasta 18 x 15 mm en el LSD. En la PET de julio y posteriormente de octubre de 2014 aumenta aún más de tamaño, considerándose sugestivo de progresión tumoral. En noviembre de ese año se realizó una lobectomía superior derecha y linfadenectomía con resultado de metástasis de carcinoma de células claras de ovario previamente diagnosticado. Cinco ganglios sin afectación y margen quirúrgico libre de afectación. La paciente rechazó recibir tratamiento quimioterápico después de dicha cirugía, solicitándose una TC 3 meses después de la misma (mayo de 2015) sin evidencia de enfermedad.

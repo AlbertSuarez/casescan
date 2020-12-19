@@ -1,0 +1,23 @@
+Anamnesis
+Varón de 57 años, con antecedentes de tabaquismo activo (Índice acumulado: 40 paquetes-año), hipercolesterolemia en tratamiento farmacológico y síndrome depresivo. No alergias medicamentosas conocidas.
+Fue diagnosticado en Abril-2013 de un melanoma maligno nodular (Índice de Breslow 6mm) en antebrazo izquierdo. Se realizó exéresis completa de la lesión. No se objetivaron adenopatías ni a la exploración física ni por ecografía. En Junio-2013 se valora al paciente en Oncología Médica, con tomografía computerizada (TC) de estadiaje negativo, y con el diagnóstico de melanoma pt4a-b N0M0 inició tratamiento adyuvante con interferón (IFN) alfa-2b el 15/07/13.
+
+Exploración física
+En la primera visita a nuestro servicio, el paciente presentaba ECOG 1. Hemodinámicamente estable.
+En el examen físico general y neurológico completo no se encontraron alteraciones reseñables.
+
+Pruebas complementarias
+En enero-2014, en el TC de control semestral, presenta crecimiento de una adenopatía axilar izquierda que se biopsia con resultado anatomo-patólogo (AP) de melanoma. Ante este hallazgo, en Marzo-2014 el paciente fue intervenido mediante linfadenectomía axilar izquierda y se suspendió el tratamiento con IFN realizando controles periódicos en consultas externas.
+En Octubre-2014 en TC de control se objetiva progresión de la enfermedad por aparición de metastasis a nivel ganglionar, pulmonar, hepático y esplénico. Se solicitó estudio molecular en la pieza de anatomía patológica, sin detectarse mutación V600E de BRAF e inició tratamiento con Dacarbicina.
+Al 8º ciclo (20/04/2015) se objetiva progresión de la enfermedad por crecimiento de las lesiones existentes por lo que el 11/05/2015 inicia tratamiento con Ipililumab.
+En TC de control de semana 16 (08/09/2015) nueva progresión por aparición de 3 nuevos nódulos pulmonares.
+
+Diagnóstico
+Melanoma cutáneo metastásico (pulmonar, mediastínico, esplénico, hepáticas), BRAF no mutado, en progresión a 3 líneas de tratamiento (IFN - Dacarbicina - Ipililumab)
+
+Tratamiento
+Con este diagnóstico, se considera al paciente candidato a ensayo clínico con Nivolumab iniciando tratamiento el 02/10/15.
+
+Evolución
+Tras 3 ciclos de tratamiento se objetiva progresión de la enfermedad tanto a nivel radiológico como a nivel clínico (en exploración física se palpa adenopatía axilar de nueva aparición y aqueja dolor en hipocondrio derecho) por lo que se discontinua el tratamiento dada la progresión y la falta de beneficio de tratamiento.
+Al mes de la interrupción del tratamiento, se realiza un control clínico y radiológico al paciente objetivandose desaparición de la adenopatía axilar y respuesta parcial a todos los niveles por lo que se reintroduce el tratamiento con anti-PD1.

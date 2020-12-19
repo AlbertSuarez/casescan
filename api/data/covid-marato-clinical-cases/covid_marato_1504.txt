@@ -1,0 +1,54 @@
+Anamnesis
+Un varón de 54 años debuta en noviembre de 2013 con lumbalgia que no cede a pesar de analgesia de primer escalón, por lo cual es valorado por Traumatología en un centro privado. Se realiza una resonancia magnética de columna lumbar, en la que se evidencia un abombamiento posterior de L5 que disminuye el espacio aracnoideo anterior. También se realiza una gammagrafía ósea, en la que se observa una captación patológica osteoblástica extensa en todo el esqueleto axial, costillas, cráneo y ambos fémures. Ante la dificultad para deambular secundaria al empeoramiento del dolor, el paciente ingresa en nuestro centro en enero de 2014 para completar el estudio.
+
+Exploración física
+General: ECOG 2 por lumbalgia intensa. Palidez cutánea, alerta, eupneico, bien hidratado, bien perfundido. Cabeza y cuello: no adenopatías, no ingurgitación venosa yugular, mucosa oral sin lesiones. Auscultación cardiopulmonar: sin hallazgos relevantes. Abdomen: ruidos hidroaéreos positivos, blando y depresible, no dolor a la palpación, no se palpan masas ni organomegalias. Sistema locomotor: simetría de las cuatro extremidades, eutróficas. Dolor a la espinopresión de la columna lumbar, en especial en lumbares bajas. Pulsos conservados, no signos de TVP. Neurológico: consciente y orientado en las tres esferas, pares craneales sin alteraciones, sensibilidad sin alteraciones, fuerza conservada en las cuatro extremidades (5/5), reflejos osteotendinosos conservados, salvo leve hiporreflexia patelar derecha, marcha difícilmente explorable por dolor, no disdiadococinesia.
+
+Pruebas complementarias
+» Analítica sanguínea inicial. Hemograma: Hb 13,8 g/dl. Reticulocitos absolutos 124.000 (valor normal 20.000-75.000). Plaquetas 139.000. Leucocitos 10.200 (neutrófilos 7,400). Hemostasia: TP 12,5s, INR 1,13, fibrinógeno 312. Bioquímica: AST 27 UI/l, ALT 30 UI/l, bilirrubina 1,5 UI/l, GGT 24 UI/l, fosfatasa alcalina 1.752 UI/l, LDH 232 UI/l, creatinina 0,95 mg/dl, urea 26 mg/dl, sodio 142 mEq/l, potasio 4,2 mEq/l.
+» Marcadores tumorales: alfa-fetoproteína 6,9. CEA 37,6. CA-125 5. CA 15-3 11. CA-19-9 26. CYFRA 21-1 11,9. PSA 0,77.
+» Evolutivo analítico al inicio del ingreso:
+- Hemoglobina 13,8 -> 13,8 -> 12,7 -> 9,8 -> 10.5.
+- Plaquetas 139.000 -> 84.000 -> 70.000 -> 50.000 -> 46.000.
+- Leucocitos 10.200 -> 17.800 -> 23.000 -> 15.000 -> 18.600.
+» Frotis de sangre periférica: anemia con discreta anisocitosis normocítica, se ven hematíes macrocíticos, esferocitos (algunos microesferocitos) y esquistocitos aproximadamente del 2%, leucocitosis con neutrofilia, trombopenia. Diagnóstico: anemia regenerativa sugestiva de microangiopatía
+» Coombs directo: negativo.
+» TC cuerpo: se observa la lesión metastásica en L5 conocida asociada a un componente de partes blandas con impronta en el canal raquídeo y afectación de la raíz L5-S1. Se evidencia una afectación osteolítica difusa. No se observan lesiones sugerentes de tumoración primaria en el resto del cuerpo.
+» Resonancia magnética de la columna (realizada fuera de nuestro centro): se confirma afectación ósea difusa con componente de partes blandas a nivel de L5 que impronta en el canal raquídeo.
+» TC craneal: sin alteraciones de interés.
+» Biopsia de médula ósea: se observa una infiltración multifocal por un adenocarcinoma pobremente diferenciado con células en anillo de sello. El perfil inmunohistoquímico sugiere un origen digestivo (positivo para citoqueratinas CEA, AE1/AE3, CK7, CK19, CK20/CDX2/CA19.9 (minoritario); negativo para CD45/CA125/TTF1). Her-2/Neu negativo.
+» Endoscopia digestiva alta: gastritis nodular. No se observan lesiones neoplásicas.
+» Colonoscopia: pólipo en el recto, que se reseca. Anatomía patológica: hiperplasia.
+» PET-TC: alta probabilidad de malignidad en múltiples lesiones óseas sugestivas de afectación metastásica. Asimetría de captación en el cavum izquierdo. No se observa captación sugestiva de malignidad en el resto del cuerpo.
+» Punción aspiración con aguja fina del tiroides: bocio multinodular.
+» Biopsia de cavum: no infiltración neoplásica.
+» Evolutivo analítico al iniciar el primer ciclo de quimioterapia:
+- Hemoglobina 9,5 -> 9,2 -> 8,8 -> 9,1.
+- Plaquetas 84.000 -> 62.000 -> 47.000 -> 23.000.
+- Leucocitos 15.600 -> 12.100 -> 7.500 -> 5.800.
+- Bilirrubina 4,1 -> 3,8 -> 4,1 -> 4,1.
+- LDH 313 -> 294 -> 491 -> 688.
+» Evolutivo analítico tras segundo ciclo de quimioterapia:
+- Hemoglobina 8,9 -> 10,2 -> 9,0 -> 8,8.
+- Plaquetas 36.000 -> 34.000 -> 54.000 -> 80.000.
+- Leucocitos 2300 -> 4000 -> 3800 -> 3100.
+- Bilirrubina 1,3 -> 1,1 -> 0,8 -> 0,9.
+- LDH 472 -> 476 -> 398 -> 371.
+
+Diagnóstico
+Metástasis óseas difusas con infiltración en la médula ósea de células en anillo de sello de probable origen digestivo. Sin tumoración primaria conocida.
+Anemia hemolítica microangiopática paraneoplásica.
+
+Tratamiento
+Ante el diagnóstico de metástasis óseas difusas sin un tumor primario conocido, se decide en comité de tumores comenzar tratamiento con quimioterapia a pesar de factores limitantes como trombopenia grado 4 con requerimiento transfusional diario para mantener las plaquetas > 50.000. Se decide tratamiento dirigido a la sospecha de origen digestivo con esquema mFOLFOX4 con disminución del 20% de dosis inicialmente (oxaliplatino 85 mg/m2 día 1 + leucovorín 400 mg/m2 en día 1 + 5-fluorouracilo 400 mg/m2 en bolo día 1 + 5-fluorouracilo 600 mg/m2/día en infusión continua de 24 horas días 1 y 2), empezándose en febrero de 2014. Posteriormente, tras el segundo ciclo se continúa con esquema mFOLFOX6 (oxaliplatino 85 mg/m2 día 1 + leucovorín 400 mg/m2 en día 1 + 5-fluorouracilo 400 mg/m2 en bolo día 1 + 5-fluorouracilo 2.400 mg/m2/día en infusión continua durante 48 horas) por comodidad de administración ambulatoria y para disminuir el riesgo de mielotoxicidad. Se inició tratamiento con ácido zoledrónico antes de la quimioterapia.
+
+Evolución
+Debido a la extensa afectación ósea, el paciente presentaba dos principales complicaciones: 1) mal control del dolor por aplastamiento de L5, sin compresión medular asociada por nivel afectado; 2) anemia hemolítica microangiopática asociada a trombopenia grado 4 de carácter paraneoplásico.
+Desde el ingreso, el paciente presentaba una importante anemización multifactorial: anemia hemolítica microangiopática y diátesis hemorrágica secundaria a trombopenia (sangrado gastrointestinal tras resección de un pólipo rectal y sangrado tras biopsia de cavum); por lo tanto, el paciente requería soporte transfusional diario de hematíes, plaquetas y fibrinógeno, con bajo rendimiento.
+Se decidió iniciar tratamiento quimioterápico urgentemente a pesar de la importante citopenia y riesgo de diátesis hemorrágica debido a que esta era secundaria a infiltración tumoral y una MAHA paraneoplásica, siendo la quimioterapia la única opción terapéutica en esta situación.
+Tras el primer ciclo, el paciente aún persistía con trombopenia < 30.000, requiriendo transfusión de plaquetas diarias, al igual que de concentrados de hematíes para mantener la hemoglobina > 9 g/dl.
+También se notó un ascenso de bilirrubina y LDH en probable relación con hemólisis mantenida. Tras el segundo ciclo, el paciente logra una estabilidad de cifras plaquetarias en torno a 40.000 sin requerimiento de transfusiones, y tras el tercer ciclo comienza a presentar un aumento exponencial de las cifras plaquetarias y de hemoglobina, al igual que progresivamente presentaba un descenso de marcadores de hemólisis (LDH y bilirrubina), hasta lograr la normalización de todos los valores. En general, la quimioterapia fue muy bien tolerada por parte del paciente, presentando astenia grado 1 como toxicidad relevante al inicio; posteriormente se suspendió el oxaliplatino tras el 15º ciclo por neuropatía grado 2 persistente.
+En cuanto a la clínica de dolor, el paciente requirió inicialmente dosis altas de fentanilo transdérmico con frecuentes rescates de fentanilo transmucoso para crisis irruptivas de dolor, logrando una mejoría progresiva del dolor tras administrar radioterapia antiálgica, con menor requerimiento de opioides y capacidad de deambulación por parte del paciente.
+
+Hasta la fecha continúa tratamiento quimioterápico activo, con muy buena tolerancia y con buen estado general (ECOG 1), pudiendo deambular sin ayuda y sin requerimiento de opioides. Ha continuado su seguimiento con TC, gammagrafía ósea y analíticas, sin evidencia de progresión tumoral hasta la fecha.
+En la última TC (febrero de 2015) persistían las lesiones óseas conocidas, pero sin evidencia de progresión de la enfermedad.

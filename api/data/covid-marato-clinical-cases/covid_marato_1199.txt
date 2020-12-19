@@ -1,0 +1,22 @@
+Anamnesis
+Paciente de 53 años sin antecedentes de interés.
+Presentaba dispepsia de larga evolución, pirosis posprandial y pérdida ponderal de 10 kg en 4 meses.
+
+Examen físico
+Buen estado general, con disfagia en el postoperatorio inmediato, buena tolerancia a líquidos y sólidos triturados.
+Abdomen: blando, depresible, con eventración supraumbilical reductible, ruidos hidroaéreos conservados. Resto de exploración sin hallazgos.
+
+Pruebas complementarias
+- Controles analíticos: hemograma, bioquímica y registro de marcadores tumorales, dentro de la normalidad.
+- TC de abdomen con contraste (14/11/2011): se aprecia engrosamiento con mala definición de la pared del asa de yeyuno, que se anastomosa con la cámara gástrica residual. Se identifican varias burbujas de aire libre extraluminal adyacente a la misma, así como líquido libre que rodea este asa y se extiende hasta la fascia pararrenal anterior izquierda. Existen marcados cambios inflamatorios de la grasa mesentérica adyacente. Los hallazgos son compatibles con perforación intestinal. En el ciego y el colon ascendente se observa una imagen de aire atrapado entre la pared y el contenido fecaloideo que simula una neumatosis intestinal. Esplenomegalia con dilatación varicosa del hilio esplénico y circulación colateral compatible con cierto grado de hipertensión portal.
+
+Diagnóstico
+Adenocarcinoma gástrico difuso IV (pT3 pN2 M1), cerbB2 negativo.
+
+Tratamiento
+Quimioterapia paliativa: capecitabina 625 mg/m2 + cisplatino 60 mg/m2 + epirrubicina 50 mg/m2. Tras el primer ciclo fue intervenido por perforación y dehiscencia de sutura; se suspendió la capecitabina.
+
+Evolución
+El paciente fue intervenido en agosto de 2011 mediante hemigastrectomía con anastomosis en Y de Roux gastro-yeyunal. Resultado anatomo-patológico: adenocarcinoma difuso e infiltrante en anillo de sello con metástasis en 14 de 24 ganglios afectos, cerbB2-negativo. En el postoperatorio inmediato se objetivaron lesiones pumonares sospechosas de metástasi,s se realizó fibrobroncoscopia y biopsia de las lesiones pulmonares, confirmando la naturaleza metastásica.
+Tras el primer ciclo de ECX fue intervenido por perforación y dehiscencia de sutura, decidimos suspender la capecitabina y solicitar un portal venoso central para la infusión de 5-FU; por problemas de logística no se citó para la colocación hasta el quinto ciclo, momento en el cual ya había alcanzado respuesta completa confirmada mediante TC, habiendo realizado todos los ciclos con cisplatino y epirrubicina. Se propuso la reintroducción de capecitabina ante la tardanza de la colocación, pero el paciente se negó en rotundo, ya que asociaba la perforación a la toma de capecitabina.
+Realizó quimioterapia paliativa entre diciembre de 2011 y mayo de 2012, alcanzando respuesta completa, que mantiene en la actualidad.

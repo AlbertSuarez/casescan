@@ -1,0 +1,28 @@
+Anamnesis
+Paciente de 40 años valorada en consultas de Oncología por primera vez en mayo de 2018.
+Entre sus antecedentes familiares destacaba madre con cáncer de ovario a los 30 años, no tiene antecedentes personales de interés salvo obesidad y tres episodios de cólico nefrítico varios años atrás. No realizaba ningún tratamiento habitual.
+La historia de la paciente comienza en junio de 2017 con mastodinia, que achacaba al aro del sujetador. Desde entonces notó un pequeño nódulo en cuadrante superior externo (CSE) de mama derecha que fue creciendo progresivamente al igual que el dolor. Finalmente, se realizó una mamografía y ecografía en marzo de 2018 con hallazgo de lesión en CSE de mama derecha de 4,6 x 3,1 cm junto con adenopatías de aspecto patológico en axila derecha de 19 mm la mayor. Se realizó biopsia tanto de la lesión en mama como adenopatía axilar con diagnóstico anatomopatológico de carcinoma ductal infiltrante en ambas muestras.
+
+Exploración física
+ECOG 1. Buen estado general, consciente y orientada, bien hidratada, eupneica, afebril. Auscultación cardiopulmonar con tonos rítmicos sin soplos, murmullo vesicular conservado bilateral. Exploración abdominal sin hallazgos patológicos. Mama derecha con piel de naranja, infiltración cutánea con enrojecimiento y nódulo cutáneo satélite en CSE, masa palpable en CSE de mama derecha de unos 8-9 cm adherida a piel, adenopatía axilar derecha de unos 3-4 cm.
+
+Pruebas complementarias
+» Analítica (mayo/2018): bioquímica con función renal y hepática normales, hemograma normal.
+» Mamografía (marzo/2018): se identifica en CSE de mama derecha masa hiperdensa, de márgenes irregulares, altamente sospechosa de malignidad. BIRADS 4.
+» Ecografía de mama y axila derecha (marzo/2018): masa en CSE con márgenes irregulares y espiculados, con medidas de 4,6 por 3,1 cm. En axila ipsilateral se visualizan adenopatías de tamaño y características patológicas, de 19 mm de diámetro, de aspecto maligno.
+» Biopsia (marzo/2018): se realiza biopsia con aguja gruesa con estudio anatomopatológico de carcinoma ductal infiltrante, estudio inmunohistoquímico receptores de estrógenos y progesterona negativos, HER-2 positivo, Ki67 80 %. Axila: carcinoma ductal infiltrante.
+» Tomografía por emisión de positrones/tomografía computarizada (PET/TC) (mayo/2018): lesión hipermetabólica en mama derecha con lesiones satélites en dicha mama, afectación cutánea y axilar ipsilateral, así como metástasis hepática única en paciente diagnosticada de carcinoma de mama localmente avanzado.
+
+Diagnóstico
+Carcinoma ductal infiltrante de mama derecha cT4 (infiltración cutánea), N2, M1 (hepática única), estadio IV. Receptores hormonales negativos, HER-2 positivo (3+), Ki67 80 %.
+
+Tratamiento
+La paciente inició tratamiento quimioterápico en mayo 2018 con docetaxel 75 mg/m2 cada 21 días y tratamiento anti-HER-2 con pertuzumab (840 mg dosis inicial y posteriormente 420 mg) y trastuzumab (8 mg/kg dosis inicial y posteriormente 6 mg/kg) cada 21 días. Recibió un total de 6 ciclos con los tres fármacos con respuesta completa, continuando con tratamiento de mantenimiento con pertuzumab y trastuzumab cada 21 días que mantiene hasta la actualidad (20 ciclos en total).
+Tras los ocho primeros ciclos, se realizó mastectomía bilateral y linfadenectomía axilar derecha en enero de 2019.
+
+Evolución
+La paciente inicialmente fue derivada a nuestro servicio para tratamiento neoadyuvante ante diagnóstico de cáncer de mama localmente avanzado. Tras la realización del PET/TC y diagnóstico de enfermedad metastásica inició tratamiento quimioterápico de primera línea para cáncer de mama HER-2 positivo con docetaxel, trastuzumab y pertuzumab con buena tolerancia.
+Como toxicidad principal presentó cuadro de diarrea G3 tras el cuarto ciclo que precisó ajuste de dosis de docetaxel con reducción del 10 % en los dos últimos ciclos. Como profilaxis de neutropenia febril, la paciente recibió factor estimulante de colonias durante los 6 primeros ciclos con quimioterapia.
+Ante el antecedente familiar de madre con cáncer de ovario a los 30 años y edad de nuestra paciente (40 años), se derivó para estudio genético, encontrándose una mutación en línea germinal en el gen p53 en heterocigosis (c.542G > A), responsable del síndrome hereditario conocido con síndrome de Li-Fraumeni.
+En las pruebas de reevaluación tras el 6º ciclo de tratamiento (resonancia de mamas, PET/TC y TC de tórax y abdomen realizados en noviembre 2018) se objetivó una respuesta radiológica completa. Ante la espectacular respuesta y el hallazgo de la mutación en p53 se presentó el caso en el comité multidisciplinar decidiéndose rescate quirúrgico sobre mama y axila derecha y mastectomía izquierda profiláctica que se realizó en enero 2019 con respuesta patológica completa en el estudio anatomopatológico.
+Actualmente, la paciente mantiene excelente calidad de vida, sigue con el doble bloqueo anti-HER-2 (trastuzumab y pertuzumab) y está pendiente de iniciar tratamiento radioterápico sobre mama y axila derecha. La paciente no tiene descendencia, sus padres y hermanos se encuentran pendientes del resultado del estudio genético.

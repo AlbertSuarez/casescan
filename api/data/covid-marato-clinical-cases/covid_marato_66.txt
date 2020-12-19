@@ -1,0 +1,31 @@
+Anamnesis
+Se presenta el caso de un paciente de 60 años sin alergias medicamentosas conocidas que presentaba como antecedentes personales más importantes un ingreso en Neumología por empiema pleural izquierdo e insuficiencia cardiaca. Como hábitos tóxicos el paciente era exfumador (IPA = 80 hasta hacía 12 años), exenolismo hasta hacía 12 años. Era un trabajador de la minería.
+El inicio del estudio comienza cuando acude a Urgencias por dolor costal derecho con hallazgo en la radiografía de una masa pulmonar. Se completó el estudio con una tomografía computarizada (TC) que mostraba una masa de 60 x 53 x 80 mm que infiltra el bronquio del segmento posterior del lóbulo superior derecho (LSD) y que invade cisura menor y se extiende hasta segmento seis del lóbulo inferior derecho (LID), contactando con pleura posterosuperior derecha. Existía además un ganglio extrapleural de 9 mm y un nódulo satélite espiculado en segmento apical LSD 10 x 6 mm y dos nódulos en segmento 6 del LID de 10 mm y 8 mm. Además, presenta adenopatías en origen de tronco braquiocefálico derecho, cadena paratraqueal superior derecha, subcarinal y ventana aortopulmonar sospechosas de metástasis, derrame pericárdico y derrame pleural derecho loculado.
+
+Exploración física
+Relativo buen estado general, pero limitado funcionalmente por lumbalgia intensa (Escala Visual Analógica [EVA] 8-9) con disminución de fuerza en ambas extremidades inferiores (4/5) y con grandes dificultades para mantener la bipedestación, sin existencia de afectación de los reflejos ni de la sensibilidad.
+
+Pruebas complementarias
+Se completó el estudio con una PET-TC en la que se objetiva una masa hipermetabólica de 7,8 x 7,7 cm (standardized uptake value [SUV] 9,6) en segmento superior de LID. Adenopatías broncopulmonares derechas (SUV 4,3 y 3,8), y múltiples captaciones patológicas óseas en 4º arco costal posterior derecho, 5º anterior izquierdo, 7º derecho a nivel del ángulo, cuerpo vertebral L3, pala iliaca izquierda, articulación sacroiliaca izquierda y rama ileopubiana izquierda.
+Se realizó una fibrobroncoscopia en la que se demostró una compresión extrínseca del bronquio del segmento apical del LSD. La Anatomía Patológica (AP) fue negativa para malignidad. Por lo que, para completar el estudio, se realizó un EBUS de las adenopatías de las estaciones 2R (right), 4L (left) y 7 que fueron positivas para adenocarcinoma poco diferenciado (2R y 7).
+
+Diagnóstico
+Se presentó el caso en comité multidisciplinar y se remitió a nuestras consultas con el diagnóstico de: adenocarcinoma de pulmón T4N2M1b (óseas).
+
+Tratamiento
+Se decide ingreso en Oncología para analgesia e inicio de tratamiento. Dada la clínica de impotencia funcional, se solicitó una resonancia magnética (RM), donde se objetivó diseminación metastásica vertebral con fracturas de la mayoría de los cuerpos vertebrales por compresión, además de una fractura craneocaudal del cuerpo vertebral L3 con desplazamiento del muro posterior que causa compresión de la cola de caballo.
+Inició tratamiento con quimioterapia esquema carboplatino area under the curve (5-AUC), dosis total 700 mg y paclitaxel 175 mg/m2 (287 mg), con premedicación habitual que consistía en: granisetrón 1 mg, dexametasona 12 mg, dexclorfeniramina 5 mg, ranitidina 50 mg, y la antiemesis posterior: dexametasona, granisetrón, metoclopramida, que transcurrió sin incidencias. Durante el alta, presentaba una mínima escoriación en sacro que se atribuyó a encamamiento.
+
+Evolución
+Acude a Urgencias a la semana de la administración de la quimioterapia por febrícula y aparición de lesiones ampollosas en glúteos, sacro y antebrazo izquierdo.
+Exploración física
+Estable hemodinámicamente: Tensión arterial 111/60 mm Hg, frecuencia cardiaca 86 lpm, 36,3 ºC, 88 % de saturación de oxígeno.
+Lesiones erosivas secundarias a ampollas en zona lateral de muslo izquierdo, antebrazo izquierdo, pierna izquierda y glúteo/sacro. Las lesiones se presentaban con rotura espontánea y drenaje de contenido seroso.
+El análisis al ingreso sólo destacaba un sodio de 126 y una discreta leucocitosis con desviación izquierda (leucocitos 11.700, neutrófilos 11.500), anemia grado 1 (hemoglobina 11,7) y una actividad de protrombina de 74 %.
+Con sospecha de necrólisis epidérmica tóxica (NET)/ síndrome de Stevens-Johnson (SJS) con sospecha de toxicidad farmacológica, ingresa en Oncología para estudio y tratamiento.
+Durante el ingreso en planta es valorado por cirugía plástica y dermatología, se toman cultivos y biopsia de la piel que son positivas para Pseudomonas aeruginosa y Staphylococcus aureus.
+Anatomía Patológica
+» Fragmento de piel con necrosis dermoepidérmica, ulceración de toda la epidermis.
+» Discreta dermatitis perivascular e intersticial neutrofílica, superficial (predominantemente) y profunda, con ulceración de la epidermis y extravasación hemática.
+Ante la sospecha de necrólisis epidérmica tóxica secundaria a quimioterapia o antiinflamatorios no esteroideos (AINE) se suspenden éstos últimos sin mejoría del paciente.
+El sujeto presenta un empeoramiento progresivo con leucocitosis y plaquetopenia y finalmente el paciente precisa de sedación paliativa por mal control del dolor, falleciendo sólo dos semanas después del inicio del tratamiento de quimioterapia.

@@ -1,0 +1,23 @@
+Anamnesis
+
+Mujer de 70 años sin antecedentes familiares de interés, fumadora de 20 paquetes-año, diagnosticada de carcinoma de mama localizado en 2003 tratado con cirugía conservadora y linfadenectomía axilar seguido de radioterapia y tamoxifeno durante 5 años sin evidencia de recidiva.
+En abril de 2018 presenta metrorragias, por lo que se realiza histeroscopia diagnóstica con resultado de carcinoma papilar seroso grado 3 de endometrio; en estudios de extensión se observa afectación retroperitoneal con carcinomatosis peritoneal. Valorado el caso en sesión multidisciplinar se decide iniciar carboplatino 5-AUC + paclitaxel 175 mg/m2 por tres ciclos y valoración de cirugía de intervalo según respuesta.
+Tras primer ciclo de tratamiento, la paciente acude a Urgencias por clínica de una semana de mareo, inestabilidad para la marcha y vómitos de repetición con intolerancia oral siendo diagnosticada de vértigo periférico. Ante la ausencia de mejoría pese a tratamiento con sulpirida, acude nuevamente a Urgencias decidiéndose ingreso para ampliar estudios.
+Durante el ingreso, se realiza analítica y punción lumbar que descartan origen metabólico/hidroelectrolítico e infeccioso, pruebas de imagen sin lesiones a distancia, incluso una TC que objetivaba respuesta parcial tras un primer ciclo de tratamiento. Con dichos resultados, se sospechó un síndrome paraneoplásico neurológico, por lo que se envió muestra de plasma al servicio de Inmunología, detectando positividad para anticuerpos anti-Yo mediante blot que se confirmaron por inmunofluorescencia indirecta (tinción con citoplasma de células de Purkinje). Ante dichos hallazgos y la clínica, la paciente fue diagnosticada de síndrome paraneoplásico tipo degeneración cerebelosa.
+
+Exploración física
+ECOG: 2. Lenguaje correcto y fluido. Sin rigidez cervical. Pares craneales normales. Motilidad ocular normal con nistagmos vertical bilateral. No hay déficit sensitivo en cara. Fuerza y sensibilidad conservada en las cuatro extremidades. Dismetría izquierda. Reflejo cutáneo plantar indiferente. Ataxia de tronco.
+
+Pruebas complementarias
+Analítica sin alteraciones. LCR con pleocitosis y elevación de IgG sin bandas oligoclonales. TC y RM de cráneo sin alteraciones ni signos de enfermedad metastásica encefálica intra ni extraaxial. TC toracoabdominal: respuesta parcial con disminución de masa endometrial e implantes intraperitoneales.
+
+Diagnóstico
+Adenocarcinoma papilar seroso de endometrio estadio IV por carcinomatosis peritoneal con síndrome paraneoplásico tipo degeneración cerebelosa con anticuerpos anti-YO positivos.
+
+Tratamiento
+Se inició pauta de tratamiento con corticoides intravenosos e inmunoglobulinas. Pese al tratamiento, la paciente presenta escasa mejoría de los síntomas con persistencia de ataxia sin poder permanecer en bipedestación y diplopía a la dextroversión.
+
+Evolución
+Tras el alta acude a consulta dos semanas después con notable mejoría, recuperación de fuerza en extremidades, caminando con andador y capaz de levantarse sola de la silla. Dada la aparición del síndrome paraneoplásico y que ginecología no va a realizar intervención quirúrgica a la espera de ver evolución clínica de la paciente decidimos modificar pauta de tratamiento a carboplatino 4-AUC + doxorrubicina liposomal pegilada 30 mg/m2.
+Tras el segundo ciclo, la paciente sufre nuevo empeoramiento neurológico acudiendo a consulta en silla de ruedas, nulas ingestas, realizando vida cama-sillón, mal estado general y deterioro clínico con episodios nocturnos de agitación.
+Dada la situación de la paciente, posiblemente relacionada con el síndrome paraneoplásico tipo degeneración cerebelosa, y el deterioro clínico no pautamos más tratamiento con quimioterapia, decidimos pasar a seguimiento por Unidad de Cuidados paliativos, falleciendo en octubre de 2018.

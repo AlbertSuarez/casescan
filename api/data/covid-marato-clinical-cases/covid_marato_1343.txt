@@ -1,0 +1,35 @@
+Anamnesis
+Presentamos el caso de un varón diagnosticado a los 31 años de un adenocarcinoma de páncreas localmente avanzado, con una historia de cáncer pancreático familiar. La combinación de quimioterapia mas cirugía y, a la recaída, la utilización de gemcitabina y nab-paclitaxel, han conseguido obtener una larga supervivencia.
+Paciente de 31 años sin antecedentes médicos de interés, excepto una litiasis renal, con historia familiar oncológica positiva de cáncer de páncreas, que solicita segunda opinión en nuestro centro tras el diagnóstico de un adenocarcinoma de páncreas locamente avanzado. El paciente fue diagnosticado como hallazgo casual tras la realización de tomografía computerizada (TC) durante el estudio de litiasis renal. El TC informó de abombamiento difuso de cola pancreática de 35 x 70 mm, así como un engrosamiento de pared gástrica sin plano de separación con cola pancreática, sugestivo de neo-formación de cola de páncreas.
+
+Exploración física
+Al diagnóstico, la exploración física era normal y presentaba un PS 0 sin sintomatología derivada de la enfermedad.
+
+Pruebas complementarias
+No presentaba ninguna alteración analítica al diagnóstico incluyendo el Ca 19-9.
+
+Ante los hallazgos en la TC compatibles con neoplasia de cola pancreática, se completó el estudio con una resonancia magnética nuclear (RMN) y con una gastroscopia.
+RMN: presencia de una lesión pancreática infiltrante a pared gástrica, sin invasión de estructuras vasculares.
+Gastroscopia: lesión ulcerada en cara posterior de antro gástrico de hasta 2 cm compatible con infiltración extrínseca, a nivel del bulbo duodenal se evidenció zona eritematosa.
+Se tomaron biopsias para estudio y el diagnostico fue compatible con infiltración por adenocarcinoma bien diferenciado y, a nivel duodenal, con linfangitis carcinomatosa.
+El paciente en nuestro centro se evaluó con un TC y ecoendoscopia.
+TC toracoabdominal y pélvico: neoplasia conocida con probable infiltración de vasos esplénicos, que condiciona circulación colateral e infiltración de pared gástrica. Se descartaron metástasis a distancia.
+Ecografía endoscópica (EUS): evidencia a nivel de cola pancreática lesión bien delimitada de 33 x 43 mm que comprime pared gástrica. Arteria mesentérica superior, tronco celiaco y arteria hepática no infiltradas. Se realizó punción aspiración con aguja fina (PAAF) obteniendo celularidad compatible con adenocarcinoma.
+
+Diagnóstico
+El Juicio diagnóstico fue de adenocarcinoma de cola de páncreas localmente avanzado, un cT4 cN0 cM0 estadio III.
+Se realizó consejo genético: todas las determinaciones fueron negativas.
+
+Tratamiento
+Revaluado el diagnóstico en comité multidisciplinar, se decide iniciar tratamiento con intención preoperatoria con oxaliplatino 85 mg/m2, irinotecan 180 mg/m2, leucovorin 400 mg/m2 y 5-fluorouracino 400 mg en bolo seguido de 2400 mg/m2 en perfusión continua durante 48 horas cada 2 semanas (FOLFIRINOX) del cual recibe 3 ciclos entre febrero y marzo de 2013.
+En TC de valoración de respuesta se objetiva un respuesta parcial (RP) según criterios RECIST 1.1 con disminución del tamaño de la lesión pancreática de 70 a 44 mm (37%) considerándose candidato a cirugía con intención radical.
+El 10 de abril de 2013 se realiza pancreatectomía total, gastrectomía lateral y esplenectomía.
+Intraoperatoriamente no se objetiva carcinomatosis peritoneal. La AP es de un adenocarcinoma ductal bien diferenciado de cola de páncreas, con infiltración por contigüidad de pared gástrica y píloro y con extensión a cápsula esplénica. Se aíslan 39 adenopatías libres de infiltración y todos los márgenes quirúrgicos están libres. Se trata de un adenocarcinoma de páncreas ypT4 ypN0 M0 estadio III.
+Recibe tratamiento adyuvante con gemcitabina en monoterapia 1000 mg/m2 días 1, 8 y 15 cada 28 días de la cual recibe un total de 6 ciclos hasta Octubre de 2013.
+
+Evolución
+En abril de 2014 tras un intervalo libre de enfermedad (ILE) de 12 meses, tras episodios repetidos de dolor abdominal cólico y con pruebas complementarias (TC y RNM) normales, se solicita tomografía por emisión de positrones (PET) donde se evidencia captación a nivel del ciego con un standardized uptekes values (SUV) de hasta 9,1 mg/dl, sugestivo de carcinomatosis peritoneal.
+Tras ser evaluado el caso en comité multidisciplinar, se decide realizar laparotomía exploradora, evidenciando múltiples implantes compatibles con carcinomatosis peritoneal. Se resecan 3 implantes, 2 de ellos en intestino delgado, que generaban oclusión parcial del mismo, quedando enfermedad macroscópica tras cirugía.
+Objetivada la recaída peritoneal, se decide inicio de tratamiento quimioterápico de primera línea con nab-paclitaxel 125 mg/m2 y gemcitabina 1000 mg/m2 los días 1, 8 y 15 de cada 28 días. Recibió 6 ciclos hasta diciembre de 2014, con importante beneficio clínico. No enfermedad medible en TC.
+En abril de 2015, se evidencia un implante subcutáneo cuya biopsia es compatible con metástasis por adenocarcinoma de origen pancreático. Tras un intervalo libre de progresión (ILP) de 5 meses se decide reiniciar tratamiento con nab-paclitaxel y gemcitabina. El paciente recibe dos ciclos sin obtener beneficio clínico.
+En septiembre de 2015 en TC se objetiva progresión de enfermedad (PE) pulmonar, hepática y peritoneal por lo que se decide tratamiento con gemcitabina y oxaliplatino (GEMOX) del que recibe un ciclo con escaso beneficio clínico y precisando ingreso hospitalario inmediato por cuadro encefalopático de etiología no filiada, TC y RNM cerebral normales. Se planteó diagnóstico diferencial con carcinomatosis leptomenígea, encefalopatía hepática, encefalopatía por oxaliplatino o encefalitis infecciosa. Dado el mal pronóstico y el marcado deterioro clínico del paciente con un PS 3 se limitó el esfuerzo diagnóstico, siendo éxitus en noviembre de 2015 con una supervivencia global de 32 meses.

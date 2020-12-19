@@ -1,0 +1,33 @@
+Anamnesis
+Paciente de 51 años, fumador de 40 paquetes/año, con criterios clínicos de bronquitis crónica e hiperactividad bronquial y enolismo moderado. Fue estudiado en septiembre de 2009 por expectoración hemoptoica de 4 meses, siendo diagnosticado de carcinoma epidermoide de pulmón derecho, estadio III-B (T4N2M0), tratado con quimiorradioterapia radical.
+Tomografía computarizada (TC) (septiembre de 2009): pérdida de volumen del lóbulo superior derecho (LSD) con aumento del tamaño de densidad que pudieran corresponder a tractos fibrosos cicatriciales y presencia de bronquiectasias. Aumento de tamaño y densidad en la porción de hilio izquierdo por probable patología tumoral sobreañadida.
+Broncoscopia: Infiltración mucosa de árbol bronquial derecho con estenosis del 60% y oclusión completa de lóbulo superior derecho de aspecto neoplásico. Se realiza biopsia y aspirado bronquial. -Biopsia bronquial: Carcinoma epidermoide
+Tras comentar el caso en comité multidisciplinar de tumores pulmonares, se recomienda tratamiento concomitante con Cisplatino-Vinorelbina y Radioterapia (RT). Recibe 4 ciclos de quimioterapia, entre noviembre 2009 y enero 2010 (2º y 3º ciclo concomitantes con RT). En el día +22 del 4ºciclo ingresa por neumonía +/- neumonitis post-RT, evidenciando TAC: notable respuesta de la masa mediastínica e hiliar derecha, ademas de tromboembolismo pulmonar (TEP) bilateral. Tras la respuesta parcial el paciente pasa a controles periódicos.
+El primer TAC de control se realiza en mayo 2010, muestra importante mejoría radiológica de la masa LSD y del mazacote ganglionar hiliar y mediastinico. Neumonitis post-RT en mejoría. Sin signos de TEP. En posteriores revisiones, el paciente permanece clínicamente estable con ECOG:0-1, marcadores tumorales en rango de la normalidad y TAC estables
+En TAC de diciembre de 2010, aparece lesión hipodensa en cuerpo de páncreas de 3x3cm a valorar pseudo-quiste vs tumoración, (sin progresión local) por lo que se recomienda valorar con resonancia magnética (RMN).
+El paciente se encuentra clínicamente asintomático.
+
+Examen físico
+Peso 79 kg, talla 1,67 cm. ECOG 0. Bien nutrido. Normocoloreado. Buen estado general. No presenta adenopatías ni ingurgitación yugular. Auscultación cardíaca: rítmica, sin soplos. Auscultación pulmonar: leve hipofonesis generalizada.
+Abdomen: blando, sin masas ni megalias. Extremidades inferiores: no se palpan edemas ni signos de trombosis venosa.
+
+Pruebas complementarias
+RMN (30-03-2011): hallándose tumoración en cuerpo-cola pancreática, inferior a cámara gástrica de 9,6 x 8,1 x 6,2 cm compatible con pseudoquiste pancreático, siendo menos probable que se trate de una neoplasia mucinosa de origen pancreático.
+Se decidió eco-endoscopia y PAAF para confirmación histológica.
+Eco-endoscopia (abril de 2011): se observa en cuerpo hacia la cola del páncreas, neoplasia sólido-quística con trabeculación interna, de paredes bien definidas, de 9 x 6,5 cm. No se observan adenopatías perilesionales.
+Se realiza punción-aspiración con aguja fina (PAAF): (con amilasa alta en el líquido y PAAF positiva para células tumorales) sugestiva de metástasis de carcinoma epidermoide, cavitado.
+
+Diagnóstico
+Carcinoma epidermoide de pulmón derecho T4N2M1 (estadio IV por metástasis pancreática única).
+
+Tratamiento
+Dado que el tumor estaba encapsulado y no afectaba a estructuras vasculares, en paciente joven y con buen estado general, se plantea en Comité de Tumores Pancreáticos de noviembre de 2012 valorar resección.
+
+Evolución
+Ante la metástasis de carcinoma epidermoide susceptible de quimioterapia de segunda línea, se decide actualizar TC (el previo era de diciembre de 2010) e iniciar quimioterapia con taxotere 75 mg/m2 entre abril y julio de 2011 (x 4 ciclos; con importante reacción de hipersensibilidad por taxotere).
+La TC de mayo de 2011 (basal a la QT) mostraba un importante crecimiento de la masa pancreática (7,5 x 11,2 cm); y clínicamente comienza con molestias abdominales. La reevaluación tras el 4.º ciclo con TC (julio de 2011) mostró que persistía la masa hiliar derecha sin cambios, pero presentaba un aumento del tamaño de la masa pancreática (10 x 14 cm).
+Ante la progresión radiológica se decide tratamiento de 3.ª línea con erlotinib (no se disponía del resultado de Mutaciones). Tras cuatro meses de tratamiento, con beneficio clínico (mejoría del dolor abdominal), se realiza nueva TC, en noviembre de 2011, objetivándose leve crecimiento de la masa, pero considerándose enfermedad estable.
+Dado que el tumor estaba encapsulado y no afectaba a estructuras vasculares, en paciente joven y con buen estado general, se plantea en Comité de Tumores Pancreáticos de noviembre de 2012 valorar resección.
+En el acto quirúrgico se observa una masa pancreática de 15 cm, de contenido líquido, que infiltra el estómago en el tercio medio y superior, la raíz del yeyuno próximo al ángulo de Treitz y la raíz de mesocolon transverso, realizándose una resección multivisceral (gastrectomía total, resección espleno-pancreática corporo-caudal y resección de parte izquierda de colon transverso y resección de primer asa yeyunal).
+El resultado anatomopatológico confirma metástasis de carcinoma escamoso moderadamente diferenciado (de 20 x 15 x 7 cm) de origen pulmonar, que infiltra páncreas, musculares propias del estómago, submucosa duodoneal y pericólica, con 7/27 ganglios afectados, e infiltración de la glándula suprarrenal izquierda.
+Tras dos meses de la intervención, la TAC de marzo de 2012 de reevaluación se informa como colecciones postquirúrgicas y el estudio torácico sin cambios, por lo que, al no haber evidencia de enfermedad, no se ofrece tratamiento oncológico. Ha seguido revisiones sin progresión, la última en febrero de 2013 con TC sin cambios respecto a previos a nivel torácico y con cambios secundarios a cirugía abdominal. El paciente mantiene ECOG 0, y está haciendo vida normal. Solamente está en tratamiento con vitamina B12 y en seguimiento por nutrición (habiendo presentado pérdida de peso desde la refección gástrica ampliada).

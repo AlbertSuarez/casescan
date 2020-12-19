@@ -1,0 +1,30 @@
+Anamnesis
+Se trata de una paciente de 52 años sin antecedentes médicos ni quirúrgicos de interés. Tampoco refiere antecedentes oncológicos ni endocrinopatías en su familia y no toma ningún tratamiento de forma habitual.
+En el año 2013 consulta tras detectarse un nódulo en el cuello, no doloroso. Cuenta también episodios de diarreas autolimitadas en los meses previos.
+Se realiza una Ecografía cervical en la que se aprecia un nódulo de unos 2’5 cm de diámetro mayor en lóbulo tiroideo derecho, mal delimitado, heterogéneo y con calcificaciones, acompañado de unas adenopatías laterocervicales derechas. A continuación se lleva a cabo una PAAF donde se encentran imágenes citológicas compatibles con carcinoma. Las técnicas de inmunohistoquímica revelan intensa inmunorreactividad frente a Calcitonina y sinaptofisina, todo ello compatible con Carcinoma Medular de tiroides.
+
+Exploración física
+La paciente presenta un nódulo palpable, fijo, mal delimitado, en región laterocervical derecha. Se palpan pequeñas adenopatías asociadas en esta zona, también indoloras. El estado general de la paciente es bueno con un PS 0.
+
+Pruebas complementarias
+- Se realiza una Tomografía cervico-torácica (TAC) en la que se confirma la presencia de un nódulo de unos 3 cm. Se logra identificar un grupo de adenopatías de centro necrótico en reborde inferior de la tiroides que se extienden a mediastino superior, junto con otras adenopatías cervicales similares a nivel II, III y V derechos. Se plantea posible infiltración de nervio laríngeo recurrente derecho. A nivel torácico se detectan 3 nódulos en pulmón izquierdo, de pequeño tamaño y bien delimitados.
+
+- Para completar la información, se lleva a cabo una RMN Cervical en la que se confirma la presencia de un nódulo tiroideo con aumento de tamaño del lóbulo tiroideo derecho, junto con diversos nódulos de menor tamaño con centro necrótico quístico
+- Se solicitan niveles de Catecolaminas y metanefrinias urinarias 24h: sin alteraciones. El resto de la analítica no muestra otros hallazgos, al igual que la Radiografía de tórax.
+- Los niveles de Catecolaminas son de 5.342’00 pg/mL.
+Diagnóstico
+Los hallazgos encontrados son compatibles con Carcinoma medular de tiroides con diseminación linfática y posibles metástasis pulmonares. No existe historia familiar ni clínica sugerente de MEN 2 y se realiza determinación de la mutación germinal RET que resulta negativa, por lo que se considera finalmente un Carcinoma medular de tiroides esporádico pT3N1b.
+
+Tratamiento
+El tratamiento de elección en estos casos es la Tiroidectomía total, junto con vaciamiento ganglionar cervical central y yugular derecho.
+Tras la cirugía, desde el servicio de Oncología médica se plantean nuevas exploraciones para valorar la situación postoperatoria y, según esto, plantear la posibilidad de terapia adyuvante.
+Se realizan analíticas donde se detectan valores de Calcitonina postoperatorios de 67’70 pg/ml y resto de parámetros analíticos dentro de la normalidad. Se lleva a cabo, además, un PET-TAC en el que se detecta una asimetría de cuerdas vocales y un incremento de la actividad en la región cricoaritenoidea, hallazgos que justifican la disfonía que presentaba la paciente. No se detecta actividad metabólica en estaciones ganglionares. Se siguen visualizando tres nódulos pulmonares milimétricos sin actividad metabólica, aun así sugestivos de metástasis.
+Ante esto, se descarta la terapia sistémica y se decide iniciar Radioterapia. Una vez finalizada, se decide seguimiento de la paciente sin nuevas intervenciones. Como único tratamiento farmacológico se pauta Eutirox.
+
+Evolución
+La paciente es valorada cada 6 meses y durante todo el seguimiento se encuentra asintomática, con un PS0, asociando como únicas complicaciones una mínima disfonía postquirúrgica y eritema postRT grado 1.
+Se realizan pruebas complementarias, no encontrándose hallazgos patológicos y persistiendo los nódulos pulmonares sin cambios durante esos meses.
+Sin embargo, en Octubre de 2014, la paciente informa de que ha sido diagnosticada de una Leucemia mieloide crónica y que va a iniciar tratamiento con Dasatinib por parte de Hematología.
+Por ello, ante la ausencia de recidiva tumoral a nivel tiroideo y dado que estos tumores suelen tener un comportamiento indolente, se decide dar prioridad al tratamiento de su neoplasia hematológica y se continúa con el seguimiento de la paciente.
+
+En su última visita a Consultas en Marzo de 2016 la paciente relata únicamente un cuadro de lesiones vasculares, artralgias, prurito y fiebre vespertina que fue considerado un efecto secundario del Dasatinib y que cedió con tratamiento sintomático. Los nódulos pulmonares han ido decreciendo de tamaño hasta prácticamente desaparecer. El resto de pruebas complementarias continúan normales y la paciente se encuentra estable y en respuesta molecular mayor al tratamiento con Dasatinib.

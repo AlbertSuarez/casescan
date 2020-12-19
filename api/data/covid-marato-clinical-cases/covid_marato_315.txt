@@ -1,0 +1,22 @@
+Anamnesis
+Mujer de 16 años, sin antecedentes reseñables, ni tratamiento domiciliario. La paciente consulta por dolor y tumoración glútea de rápido crecimiento que no se asocia a traumatismos previos, ni síndrome constitucional.
+
+Exploración física
+» ECOG 0.
+» Presenta masa pétrea, dolorosa, adherida a planos profundos en el espesor de la musculatura glútea izquierda, no asociada a signos inflamatorios cutáneos. Movilidad y sensibilidad conservada en ambos miembros.
+
+Pruebas complementarias
+Se realiza TC que evidencia una enorme masa de unos 12 cm en el espesor de la musculatura glútea con extensión a pelvis menor, con erosión de la cortical del hueso iliaco, del que parece depender. No se aprecian signos de diseminación a distancia.
+La biopsia percutánea monocompartimental muestra infiltración de tejidos por neoplasia monomorfa compuesta por células pequeñas de núcleo hipercromático con patrón inmunohistoquímico polifenotípico con positividad a marcadores mesenquimales y epiteliales, sugerente de sarcoma de Ewing.
+Para confirmar el diagnóstico se solicita estudio de traslocaciones del gen del sarcoma de Ewing (EWS), encontrando un patrón atípico para la traslocación t(22q12).
+
+Diagnóstico
+Sarcoma de Ewing de hueso iliaco con extensión intra y extrapélvica (T3bN0M0).
+
+Tratamiento
+Se remite a la Unidad de tumores óseos que juzga el caso como resecable, aunque conllevaría una hemipelvectomía. Se trata de una intervención muy agresiva, con la desarticulación completa del miembro inferior, la escisión de la mitad de la pelvis, asociando generalmente, colostomía y urostomía. Cabe destacar que la protetización posterior de este tipo de intervención requiere un programa de rehabilitación largo y complejo, con resultados generalmente poco satisfactorios. Ante estos hechos, se decide iniciar quimioterapia con intención neoadyuvante, que la paciente entiende y acepta.
+Comienza poliquimioterapia con esquema vincristina-adriamicina-ciclofosfamida//ifosfamida-etopósido (VAC-IE) alternante. Tras una inicial aparente respuesta con disminución del dolor y aumento de la autonomía para la deambulación, al 4º ciclo se constata clínicamente progresión local de la tumoración.
+Dado que la refractariedad precoz al tratamiento quimioterápico es un evento poco frecuente en los sarcomas de Ewing en primera línea, y que la traslocación de EWS era atípica, se decide rebiopsiar la lesión y se deriva al Hospital Virgen del Rocío como centro de referencia en esta patología.
+
+Evolución
+Tras la revisión de la Anatomía Patológica, se repite el estudio del gen EWS, y se encuentra traslocación t(11;22) (p13;q12) con el gen WT-1, por lo que el diagnóstico se cambia al de tumor desmoplásico de células pequeñas y redondas primario óseo. Dado el viraje diagnóstico, se inicia esquema con docetaxel-gemcitabina con progresión de la enfermedad por aparición de conglomerados adenopáticos pélvicos y retroperitoneales tras 4 ciclos. La paciente recibe ifosfamida a altas dosis con estabilización de la enfermedad durante 9 ciclos. En este punto, ingresa por crisis convulsiva y desviación de la comisura bucal por lo que se realiza TC de cráneo evidenciando múltiples metástasis cerebrales. Recibe radioterapia holocraneal que no controla los síntomas, con lo que su estado se deteriora rápidamente, sobreviniendo el exitus a los 15 meses de su diagnóstico.

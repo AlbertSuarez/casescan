@@ -1,0 +1,62 @@
+Anamnesis
+» Motivo de ingreso:
+Paciente varón de 38 años que ingresa a cargo de Medicina Interna en Septiembre 2007 para estudio de esplenomegalia detectada en revisión de trabajo.
+
+» Antecedentes personales:
+- No alergias medicamentosas conocidas.
+- No HTA, no DM, no dislipemia.
+- Asma desde la infancia.
+- No intervenciones quirúrgicas.
+- No medicación habitual.
+
+» Enfermedad actual:
+El paciente había notado en Junio 2007 un bulto en hipocondrio izquierdo al que no le dio importancia. Desde Agosto 2007 refería además sudores nocturnos. En Septiembre 2007, en una revisión de trabajo, se objetiva esplenomegalia en la exploración física, por lo que ingresa y en Medicina Interna para estudio.
+
+Exploración física
+Consciente y orientado, bien hidratado y perfundido, normocoloreado, eupneico. ECOG 0.
+CyC: no se palpan adenopatías periféricas.
+Auscultación cardiopulmonar: normal.
+Abdomen: Se palpa bazo a unos 10 cm que llega a cruzar la línea media, de consistencia dura. No se palpa hepatomegalia.
+EEII: no edemas ni signos de TVP.
+
+Pruebas complementarias
+» Analítica: discreta pancitopenia (Hb 10.4, L 2960, plaq 122000). Marcadores tumorales negativos. 
+Serologías hepatitis B, C, VIH: negativas. B2 microglobulina elevada (6.09 mcg/ml)
+» Rx tórax: ensanchamiento mediastínico.
+» TAC toracoabdominal: Gran masa mediastínica que ocupa mediastino superior y región paratraqueal derecha, extendiéndose en una longitud aproximada de 8 cm, sugestiva de conglomerado adenopático. En vena subclavia derecha, adherida a su pared interna, se evidencia un pequeño defecto de replección, no oclusivo, que mide 10 mm en eje anteroposterior, sugestivo de trombo. Hígado: tamaño y morfología normal. No se evidencian lesiones focales. Bazo: importante aumento de tamaño (17 cm), no se evidencian lesiones focales. Adenopatías patológicas en ligamento gastrohepático.
+Adenopatías mesentéricas de tamaño patológico. Adenopatías retroperitoneales de tamaño patológico a nivel precava, interaórtico cava y paraórticas izquierdas. CONCLUSIÓN: Masa mediastínica paratraqueal derecha sugestiva de conglomerado adenopático. Esplenomegalia. Adenopatías mesentéricas y retroperitoneales de tamaño patológico. Se recomienda descartar como primera posibilidad proceso linfoproliferativo. Pequeño trombo no oclusivo en vena subclavia derecha.
+» Mediastinoscopia: Biopsia de adenopatías paratraqueales derechas 4R y 2R.
+Cultivo microbiológico: negativo.
+Anatomía Patológica: Compatible con linfoma difuso de alto grado.
+» Biopsia-aspiración de crestas: sin evidencia de afectación tumoral.
+» Citometría de flujo: Se detecta una mínima población linfoide B que coexpresa CD19/CD10/CD38 y sin expresión de IgS que sugiere población centrofolicular.
+» FEVI: 0.67 (normal).
+» Gammagrafía con Galio-67: Acúmulos patológicos del radiofármaco en mediastino y zona epigástrica, en región periumbilical, sugestivo de afectación neoplásica, probablemente en ganglios mediastínicos superiores y paraaórticos.
+
+Diagnóstico
+Linfoma Difuso de Célula Grande B. Estadio IIIBs. IPI 3.
+
+Tratamiento
+Plan: QT con esquema RCHOP14 x 8 ciclos.
+» 9/10/07: Inicia tratamiento.
+» TAC de valoración de respuesta al 4º ciclo: respuesta parcial, con gran respuesta a nivel de mediastino y retroperitoneo y disminución de la esplenomegalia. Se decide continuar con el tratamiento hasta completar 8 ciclos.
+» Por astenia G2 y neurotoxicidad G2 en manos, se suspende la Vincristina al 7º ciclo.
+» 22/01/08: Recibe el 8º y último ciclo de tratamiento.
+» TAC de valoración de respuesta: RP importante (disminución de adenopatías mediastínicas >75%, adenopatías retroperitoneales <1.5 cm).
+» Gammagrafía con Ga-67: normal.
+» PET-TAC: focos hipermetabólicos a nivel de adenopatías retroperitoneales, siendo normal a nivel mediastínico y esplénico, todo ello compatible con persistencia de proceso linfoproliferativo a nivel retroperitoneal.
+» Se valora el caso junto al Sº de Hematología y se decide control evolutivo radiológico.
+» Se repite el TAC a los 2 meses: estabilidad de las adenopatías a nivel mediastínico y retroperitoneal, así como esplenomegalia heterogénea estable.
+» Se realiza PET-TAC, sin evidencia de afectación ganglionar metabólicamente activa en relación al proceso linfoproliferativo conocido del paciente.
+» Respuesta completa (RC).
+
+Evolución
+» Revisiones.
+» Respuesta completa desde Mayo 2008 hasta Noviembre 2011. ILE: 3 años y 4 meses.
+» En TAC de revisión de Noviembre 2011: se objetiva leve crecimiento de la adenopatía laterotraqueal e hiliar derechas.
+» PET-TAC: aumento de metabolismo en adenopatía paratraqueal derecha (SUV max: 13.6) e hilio derecho (SUV max: 20,9). Resto sin alteraciones. Conclusión: focos hipermetabólicos coincidentes con TAC en adenopatías paratraqueal derecha e hilio derecho. Este hallazgo, puede estar en relación con recidiva de su enfermedad linfoproliferativa, si bien no pueden descartarse otras causas.
+» Toracotomía diagnóstica (30/11/11): se visualiza adenopatía hiliar macroscópicamente aumentada de tamaño, se realiza resección parcial de la misma.
+» AP: compatible con LINFOMA HODGKIN PREDOMINIO LINFOCÍTICO. Descripción microscópica: "Ganglio linfático que muestra un borramiento completo de su estrucura normal con presencia de una población linfoide predominante de tamaño pequeño o intermedio de contorno ligeramente irregular destacando dispersas células grandes con núcleo vesicular, alguno binucleado con nucleolos de tamaño intermedio o algunos más grandes eosinófilos, con citoplasmas también amplios mal definidos con morfología de tipo células L&H. Con IHQ complementaria la celularidad atípica es positiva con EMA y OCT-2 y negativa con CD20. CD79 y BCL6 son positivas en algunas células atípicas. CD15 y CD30 son negativas. La morfología es diferente a la del ganglio biopsiado en 2007 donde la celularidad atípica era netamente positiva con CD20 y negativa para EMA. En el estudio molecular realizado del ganglio de 2007 se aprecia reordenamiento monoclonal B y es negativo en el estudio del ganglio actual. La valoración conjunta de los hallazgos nos plantea enfermedad de Hodgkin predominio linfocítico en el ganglio actual con posible negativización de CD20 en posible relación con tratamiento con Rituximab".
+» Se remite el caso a consulta de 2ª opinión al grupo del Dr Piris del H Valdecilla de Santander, que confirma el diagnóstico.
+» Se decide tratamiento con RT externa exclusiva (40Gy en 20 sesiones), que finaliza en Febrero 2012.
+» Desde entonces, continúa revisiones y permanece en respuesta completa.

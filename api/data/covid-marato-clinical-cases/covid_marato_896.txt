@@ -1,0 +1,38 @@
+Anamnesis
+Mujer de 64 años con antecedentes personales de hipertensión en tratamiento dietético y hepatectomía derecha en la infancia por un quiste hidatídico, sin hábitos tóxicos, tratamientos habituales ni alergias medicamentosas conocidas. No tenía antecedentes familiares de enfermedades neoplásicas.
+
+Fue derivada a Dermatología por su médico de Atención Primaria (MAP) por la aparición de lesiones eritematoedematosas en el dorso de las manos, el escote, la cara y los párpados desde hace 8 meses. A la anamnesis también relataba astenia, pérdida de 7 kg de peso en ese mismo período de tiempo, y dificultad para levantar los brazos y deambular.
+
+Aportaba una analítica realizada por su MAP, en la que destacaba una GPT de 162 UI/l (5-35), GOT 139 UI/l (5-31), GGT 13 UI/l (5-36), LDH 793 UI/l (135-214) y CPK 3.012 UI/l (34-145), siendo el hemograma y el resto de la bioquímica normales.
+
+Exploración física
+General: normocoloreada, bien hidratada, perfundida y nutrida. Cardiopulmonar: normal. Abdomen: cicatriz de laparotomía subcostal derecha; no se palpan masas ni megalias. Exploración dermatológica: eritema en la cara, el escote y el cuello, donde adopta una morfología digitiforme. Eritema liláceo de morfología lineal en borde libre de ambos párpados superiores. Lesiones eritematoedematosas en el dorso de los dedos (articulaciones metacarpofalángicas), que se extiende hasta el dorso de las manos, levemente eccematosas. Eritema periungueal y hemorragias en astillas.
+
+Pruebas complementarias
+La paciente ingresó a cargo de Dermatología para su estudio, donde se realizaron las siguientes pruebas diagnósticas:
+» Biopsia muscular: miopatía inflamatoria tipo dermatomiositis (linfocitos B en zonas perimisiales y linfocitos T endomisiales, sin predominio de CD4 sobre CD8).
+» Electromiograma: patrón mixto con sospecha de miopatía inflamatoria.
+» Serologías: VIH1,2 Ag y Ac negativos, anti-HBc negativo, Ag-HBs negativo, anticuerpos anti-VHC negativos.
+» Estudio de autoimunidad: anticuerpos anti-DNA, anti-nucleares, anti-SSA/Ro, anti-SSA/Ro52, anti-SSA/Ro60, anti-SSB-La, anti-RNP, antiproteínas centroméricas, anti-topoisomerasa, anti-Jo-1, anti-ribosomal, anti-Sm, anti-Sm-RNP y anti-cromatina negativos.
+» Marcadores tumorales: alfa-FP, SCC, TPS, gastrina, Ca 125, Ca 19.9, Ca 125, Ca 72.4, CYFRA 21.1 y enolasa, resultando todos normales.
+» Ecografía abdominopélvica: cambios secundarios a lobectomía hepática derecha. Posible colelitiasis con engrosamiento de la pared vesicular.
+» TC toracoabdominopélvica: tórax normal. Hepatectomía derecha con calcificaciones en el borde quirúrgico.
+» Gastroscopia: hernia hiatal por deslizamiento. Gastritis crónica atrófica.
+» Colonoscopia: pólipo hiperplásico y adenoma tubular.
+» Ecografía transvaginal: útero atrófico normal, endometrio lineal, anejos normales.
+» Mamografía: sin hallazgos.
+» Citología de cérvix: negativa para lesiones intraepiteliales y para malignidad.
+
+Diagnóstico
+Con dichos resultados, la paciente fue diagnosticada de dermatomiositis idiopática.
+
+Tratamiento
+Comenzó tratamiento con prednisona (a dosis de 1 mg/kg inicialmente y posteriormente descenso hasta llegar a una dosis de 30 mg/día), calcio y vitamina D orales, omeprazol y trimetoprim-sulfametoxazol a dosis profilácticas.
+
+Evolución
+Con el tratamiento esteroideo la CPK disminuyó hasta 65 UI/l y las lesiones cutáneas mejoraron.
+Continuó seguimiento por Dermatología.
+
+Cuatro meses después del diagnóstico de la dermatomiositis, la paciente acudió a Urgencias por dolor abdominal de predominio en el hipocondrio derecho, y febrícula de hasta 37,4 ºC. Se realizó una ecografía abdominal urgente, que mostraba la vesícula biliar con una imagen litiásica en su interior y con un grosor de la pared en el límite alto de la normalidad. Junto a la vesícula presentaba una imagen ecográfica sugestiva de colección de 3,6 x 5,8 cm. Con el diagnóstico de una posible colecistitis aguda perforada o una hidatidosis complicada (dado el antecedente de hepatectomía por quistes hidatídicos de la paciente), se intervino quirúrgicamente a la paciente. Se realizó una relaparotomía subcostal derecha, realizándose una colecistectomía de vesícula biliar necroinflamatoria y una colectomía segmentaria (por presencia de una voluminosa lesión laterohepática que afectaba al ángulo hepático del colon) con anastomosis latero-lateral. En la anatomía patológica de la pieza quirúrgica se objetivó un adenocarcinoma moderadamente diferenciado de vesícula biliar pT2N1 (infiltraba todo el espesor de la vesícula biliar, con áreas de perforación, infiltración del conducto cístico e infiltración perineural). En una TC que se realizó un mes después de la intervención presentaba desaparición de la gran colección del hipocondrio-flanco derecho, observándose una pequeña colección posteroinferior al borde derecho hepático con afectación de la grasa y fascias circundantes. Se reintervino quirúrgicamente, encontrándose una perforación colónica que se reparó. Además, se objetivó una extensa afectación adenopática retroportal y en el tronco celíaco. Se resecó una de esas adenopatías, siendo positiva para infiltración por adenocarcinoma.
+
+La paciente fue derivada por su cirujano a consultas de Oncología Médica con el diagnóstico de adenocarcinoma de vesícula biliar E IV (pT2N1M1, adenopatías a distancia). La CPK se había vuelto a elevar (había pasado de 65 a 474 UI/l), y la debilidad muscular y las lesiones cutáneas habían vuelto a empeorar tras la primera cirugía. Se le propuso comenzar tratamiento sistémico con cisplatino 30 mg/m2 día 1 y gemcitabina 1.000 mg/m2 días 1 y 8, de cada 21 días. La paciente toleró bien el tratamiento, salvo una neuropatía grado 2, y progresivamente los síntomas musculares y cutáneos fueron mejorando, acompañándose de un descenso de la CPK. En la TC de reevaluación se observó una respuesta parcial de las adenopatías. Completó un total de seis ciclos, suspendiéndose el tratamiento por toxicidad hematológica. Actualmente se encuentra en seguimiento con controles estrechos.

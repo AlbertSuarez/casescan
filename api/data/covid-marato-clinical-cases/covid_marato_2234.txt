@@ -1,0 +1,20 @@
+Anamnesis
+Mujer de sesenta años sin antecedentes personales ni tratamiento habitual, que dos meses antes del diagnóstico presenta molestias inespecíficas retroesternales, sin presentar fiebre, molestias digestivas o síndrome general. Por dicho motivo, se realiza una radiografía de tórax donde se objetiva una masa mediastínica.
+
+Exploración física
+Performance status 1. No se palpan adenopatías cervicales ni supraclaviculares; el resto de la exploración física fue normal.
+
+Pruebas complementarias
+Hemograma, bioquímica y marcadores tumorales: dentro de límites normales. Radiografía de tórax: masa mediastínica. Tomografía computarizada (TC) torácica: gran masa de 6,5 x 4,5, heterogénea (discreto realce y áreas hipodensas de la periferia), que se localiza por detrás del corazón, por debajo de la carina, en íntimo contacto con arterias pulmonares principales y esófago distal. Sin adenopatías mediastínicas de significado patológico. Abdomen superior sin alteraciones valorables. Broncoscopia: carina principal ensanchada y fija, con mucosa engrosada, que protruye en el bronquio principal izquierdo con estenosis del 20 % en su porción más inicial.
+
+Diagnóstico
+Se realiza PAAF transbronquial de región subcarinal con presencia de células pequeñas de hábito linfoide, acompañadas de células fusiformes pleomórficas dispuestas en placas, sugestivo de timoma.
+
+Tratamiento
+Con el diagnóstico de posible timoma y tras comentar el caso en el Comité Multidisciplinar de Tumores Torácicos, se deriva al paciente al servicio de Cirugía Torácica siendo realizada la escisión mediastínica en mayo de 2016 con los siguientes hallazgos: gran masa que infiltra el área de adenopatía 7 y estructuras vecinas (borde inferior de bronquio intermediario, bronquio izquierdo y aurícula izquierda).
+Se reseca la mayor parte de la masa dejando tumor macroscópicamente visible en las tres zonas anteriormente descritas. Se realiza, así mismo, linfadenectomía de las estaciones ganglionares 4R, 7 y 8R; la Anatomía Patológica confirma un timoma tipo A, con infiltración capsular. Inmunofenotipo: AE1-EA3 positivo; EMA positivo; P53 positivo (20 %); CD5 negativo; ki67 entre 5-10 %; PAX 8 positivo; TDT negativo, con afectación de la estación ganglionar 4R.
+
+Evolución
+Por tanto, tenemos un timoma tipo A, estadio IVB según la estadificación de Masaoka-Koga (1994), R2. Se solicita TC torácica abdominal postquirúrgica, observándose una masa residual paraesofágica izquierda de 3 cm. En hígado, en segmento V, se observa una lesión de baja densidad y mal definida de 1,4 cm que podría corresponder a un hemangioma.
+Valorada en Oncología Médica en junio 2016, se propone para tratamiento con radioterapia y quimioterapia concurrente con paclitaxel 45 mg/m2 y carboplatino AUC 2 semanal. Se administran un total de 66 Gy, 2 Gy/fracción, finalizando en agosto 2016. Recibe posteriormente dos ciclos de consolidación con paclitaxel 200 mg/m2 y carboplatino AUC 6. En TC de fin de tratamiento se observa la lesión residual de 3 cm y cambios secundarios a la radioterapia, con una colección líquida mediastínica paraesofágica derecha y neumonitis en ambos lóbulos inferiores. Se inicia entonces seguimiento. En TC toracoabdominal de febrero de 2017m se observa una disminución del residuo tumoral previamente descrito, fibrosis posradioterapia y múltiples angiomas hepáticos. Ante estos hallazgos se realiza ecografía que informa de angiomas atípicos.
+En TC de control de noviembre 2017, se evidencia crecimiento de las lesiones hepáticas previamente descritas como angiomas atípicos. Se solicita entonces TC-PET que sugiere afectación hepática metastásica. Se solicita de nuevo una ecografía hepática que esta vez advierte lesiones múltiples en ambos lóbulos compatibles con metástasis. Se solicita biopsia tru-cut hepática informada como: abundante componente de necrosis, presencia de células linfoides dispersas, y presencia de células epiteliales atípicas agrupadas, con moderado pleomorfismo, compatible con timoma.

@@ -1,0 +1,22 @@
+Anamnesis
+Se describe el caso de un varón de 68 años, alérgico a penicilina, con antecedentes de ángor en 1994 sin tratamiento ni seguimiento. Exconsumidor ocasional de cocaína y exfumador con un consumo acumulado de 57 paquetes-año. No tiene hábito enólico. Sin historia familiar de enfermedad oncológica ni tratamientos habituales. Estado civil soltero con dos hijos. Independiente para las actividades básicas de la vida diaria.
+
+Exploración física
+Clínica y hemodinámicamente estable. Consciente y orientado en las tres esferas. Normohidratado, normoperfundido, normocoloreado. Eupneico en reposo. Sin focalidad neurológica. Auscultación cardiaca rítmica sin soplos. Auscultación pulmonar con murmullo vesicular conservado, sin ruidos sobreañadidos. Abdomen blando y depresible, doloroso a la palpación en hipogastrio, sin signos de irritación peritoneal, ruidos hidroaéreos presentes, se palpa masa indurada en flanco izquierdo.
+Miembros inferiores sin edemas ni signos de trombosis venosa profunda.
+
+Pruebas complementarias
+En septiembre de 2008, presenta rectorragia que motiva la realización de colonoscopia con toma de biopsia, objetivándose a nivel de sigma una estenosis concéntrica secundaria a una neoformación que sólo deja permeable dos milímetros de luz. De la misma forma, se realiza una tomografía computarizada abdominopélvica (TAC-AP), apreciándose un engrosamiento excéntrico de la pared de un segmento de sigma proximal con adenopatías locales de tamaño patológico. El estudio anatomopatológico reveló que se trataba de un adenocarcinoma de colon moderadamente diferenciado.
+
+Diagnóstico
+El 30/09/2008 se realiza hemicolectomía izquierda más extirpación serosa duodenal por gran tumoración en colon izquierdo que infiltra colon transverso y cuarta porción duodenal. El estudio histológico confirmó el diagnóstico de adenocarcinoma moderadamente diferenciado (G2) que infiltra peritoneo visceral de transverso sin infiltración de la pastilla serosa duodenal, con infiltración perineural focal, sin embolización intravascular y con bordes quirúrgicos libres, con un índice de proliferación celular, Ki 67, del 90 % y expresión de la proteína p57 del 95 %. Finalmente se completa el estadiaje tumoral mediante el sistema TNM: pT4 pNx (0/4) M0.
+
+Tratamiento
+El 04/11/2008 el paciente inicia quimioterapia esquema capecitabina más oxaliplatino (XELOX) hasta completar ocho ciclos. Finaliza tratamiento adyuvante el 01/04/2009 e inicia revisiones habituales.
+Presenta neuropatía periférica residual grado 3 tras quimioterapia.
+
+Evolución
+En octubre de 2010, en control rutinario, se objetiva aumento del marcador tumoral por lo que se realiza estudio completo con tomografía por emisión de positrones (PET-TC) y TC-TAP, evidenciándose en lóbulo pulmonar inferior izquierdo una masa de 39 x 34 x 40 mm (anteroposterior, transversal y craneocaudal respectivamente) con márgenes espiculados e hipercaptación con un valor estandarizado de captación (SUV) de 12,8, sin encontrar enfermedad a otro nivel. Tras la confirmación histológica de adenocarcinoma de origen colónico conocido, se lleva a cabo lobectomía de lóbulo inferior izquierdo más linfadenectomía reglada el 28/01/2011. Adenopatías resecadas negativas para malignidad.
+En este contexto, y considerando la neuropatía residual preexistente, se decide iniciar quimioterapia adyuvante según esquema capecitabina más irinotecán (XELIRI) hasta completar 8 ciclos que finaliza en agosto de 2011 con buena tolerancia.
+En julio de 2012, tras un intervalo libre de enfermedad (ILE) de 17 meses, el paciente consulta por un nódulo de 3-4 cm de localización laterocervical izquierda baja. Se solicita entonces TC de macizo facial y cuello apreciándose tumoración de aspecto agresivo infiltrativo (3,2 x 2,5 cm, nivel 3) compatible con metástasis ganglionar con signos de extensión extracapsular. Se objetiva invasión de vena yugular interna y contacto en aproximadamente el 50 % de la circunferencia de la arteria carótida común izquierda. Tras confirmación histológica de adenocarcinoma de colon y PET-TC que descarta enfermedad a otro nivel, se decide en comité multidisciplinar de tumores digestivos llevar a cabo vaciamiento cervical el 25/07/2012, seguido de quimioterapia (capecitabina) hasta completar ocho ciclos, más radioterapia adyuvante (60 Gy) que finaliza en diciembre de 2012.
+Actualmente presenta ILE de seis años y diez meses, continuando los controles periódicos pertinentes en consultas externas de Oncología.

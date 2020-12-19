@@ -1,0 +1,69 @@
+Anamnesis
+Se trata de un paciente de 52 años, como antecedentes patológicos destaca: ex-enolismo sin consumo hace 8 años, dislipemia, asma bronquial, hernia de hiato, trastorno obsesivo compulsivo y osteocondrosis degenerativa (tratamiento habitual: Simvastatina, Omeprazol, Montelukast, Quetiapina, Prozac, Anafranil, Diazepam). Consulta al servicio de Urgencias por cuadro de una semana de evolución de mal estar general, cefalea que trata con Hemicraneal® y cambios de humor. En las últimas 24h caída en domicilio con pérdida de conocimiento de minutos de duración y movimientos clónicos a cuatro extremidades. En la exploración física; constantes: TA 146/78mmHg, FC 90bpm, Afebril. Regular estado general, consciente y orientado, normocoloreado y normohidratado. Exploración cardiorrespiratoria normal. Abdomen blando y depresible, no doloroso. No signos de ascitis. Exploración neurológica: Tan solo destaca bradipsíquia. Resto de exploración normal, sin focalidad neurológica aparente. 
+
+Pruebas complementarias
+Se realizan exploraciones complementarias donde destaca:
+· Analítica Urgencias: Hemograma: Hb 17,3g/dl, Hto 51,9%, Leucocitos 14.17x103/mm3, Neutrófilos segmentados 82,8%, Linfocitos 7,3%. Coagulación normal. Bioquímica: Creatinina 1,71mg/dl, Urea 70md/dl, Sodio 129mmol/l, Potasio 4,3mmol/l, CPK 137 U/l, LDH 904U/l, GPT 85U/l, PCR 25,5mg/l. Etanol 4mg/dl.
+· Tóxicos en orina: Benzodiacepinas y antidepresivos tricíclicos.
+· ECG: Ritmo sinusal a 80lpm, eje 30º, no alteraciones en la repolarización.
+· Rx tórax: Índice cardiotorácico <0.5. Senos costofrénicos libres. No imagen de condensación pleuroparenquimatosa.
+· TC craneal: Hipodensidad focal en región subinsular izquierda, de predominio subcortical y dudosa naturaleza (¿origen isquémico?). A correlacionar clínicamente, se sugiere RNM. Parénquima cerebral sin otras alteraciones. No desplazamiento significativo respecto la línea media. Sistema ventricular normal. Cisternas basales libres. Fosa posterior sin anomalías valorables. 
+Se decide ingreso del paciente para estudio. A las 24 horas de ingreso presenta notable deterioro de su estado general y desorientación. Discreta rigidez nucal terminal a la exploración, resto sin cambios.
+Se realizan nuevas pruebas complementarias, donde destaca:
+· Analítica de control: Hemograma: Leucocitos: 22.41x103/mm3, Neutrófilos segmentados 90%. Bioquímica: Creatinina: 2,13mg/dl, Sodio 129mmol/l, GOT 94U/l, GPT 96U/l, GGT 223U/l, LDH 1113U/l, PCR 46,5mg/dl.
+· Serología hepatitis negativa. HIV 1,2 anticuerpos negativos.
+· Sedimento de orina negativo
+· Punción lumbar - Líquido cefalorraquídeo: normal. Aspecto claro y transparente. Leucocitos 1mm3, Hematíes 16mm3, Proteína total 46,1mg/dl, Glucosa 69mg/l, ADA 2,21U/l.
+A las 48 horas de ingreso presenta disminución del nivel de conciencia y es el primer día desde el inicio del cuadro en que se objetiva pico febril de 38.8ºC. Reinterrogando a familiares, concomitantemente al cuadro presentaba epigastrálgia intensa que trató con Almax®, hasta 4 comprimidos al día.
+Se extraen hemocultivos y nuevas pruebas complementarias de control:
+· Analítica sanguínea urgente: Hemograma: Hemoglobina: 15.9g/dl, Hto 47.6%, Leucocitos 27.85x103/mm3, Neutrófilos segmentados 86%, neutrófilos en banda 6%. Coagulación normal. Bioquímica: Creatinina 4.27mg/dl, Urea 185mg/dl, Glucosa 75mg/dl, Amonio 53μmol/l, ácido láctico 41mg/dl, Sodio 135mmol/l, Potasio 4mmol/l, GOT 155U/l, GPT 104U/l, GGT 213U/l, Osmolaridad 286mOsm/Kg, PCR 243.3mg/dl.
+· Gasometría venosa: pH 7.36, pCO2 42mmHg, pO2 21mmHg, HCO3 23.6mmol/l, EB -1.8mmol/l
+· Ecografía abdominal: Exploración muy artefactada por nula colaboración involuntaria del paciente. Patrón de hepatopatía difusa sin que se puedan descartar lesiones focales sobreañadidas. Resto sin alteraciones ecográficas valorables. En el transcurso del día el paciente se muestra estuporoso, con signos de mala perfusión periférica y dificultad respiratoria, con FR 35rpm y SatO2 89%, T. 38.8ºC. TA 75/50mmHg, FC 120lpm. Agitado, apariencia de encefalopatía hepática. Se comenta paciente con la Unidad de Cuidados Intensivos y se decide ingreso en su servicio. Se realiza intubación del paciente sin incidencias. Se inicia Noradrenalina y descargas de suero fisiológico y gelafundina con recuperación de TA. Se inicia cobertura antibiótica con Meropenem y Linezolid. Paciente sedado con morfina y propofol (se retira sedación y no despierta), se mantiene.
+· Analítica sanguínea UCI destaca: Troponina 1.73ng/ml, CPK 927U/l.
+· ECG RS 100bpm, no alteraciones repolarización.
+· SHOCK SÉPTICO DE ORÍGEN DESCONOCIDO
+· EPIGASTRALGIA INTENSA. ALTERACIÓN BIOLOGIA HEPÁTICA EN EX ENÓLICO.
+· DISMINUCIÓN DEL NIVEL DE CONCIÉNCIA (2º a ¿sepsis?, ¿carcinomatosis meníngea?, ¿síndrome neuroléptico maligno?)
+· INSUFICIENCIA RENAL AGUDA, componente prerrenal
+· INSUFICIENCIA RESPIRATORIA. Agudización asma bronquial secundaria.
+· IAM subendocárdico
+
+Diagnóstico diferencial
+Según anamnesis el paciente lleva más de ocho años sin consumo de alcohol, y únicamente se encuentra en tratamiento con psicótropos que se retiran durante el ingreso sin mejoría clínica, con lo cual descartamos dicha causa. En este momento ya se puede realizar un diagnóstico diferencial entre causas neurológicas y sistémicas, destacando entre ellas: 
+1/ neurológicas: accidente cerebrovascular, tumor cerebral (primario, metástasis, carcinomatosis meníngea);
+2/ sistémicas: hiponatremia, uremia, hepatopatía, sepsis, infarto agudo de miocardio…
+Pequeñas pinceladas de nuestro diagnóstico diferencial hasta el momento:
+- Accidente cerebrovascular: Dada la clínica que presenta el paciente (cefalea intensa, deterioro del estado de conciencia, rigidez nucal) podría orientarnos hacía un evento hemorrágico. El TC craneal es capaz de diagnosticar el 100% de dichos eventos, en TC craneal realizado se objetiva hipodensidad focal en región subinsular izquierda que correspondería a posible isquemia en territorio de la arteria cerebral media; síndrome silviano superficial que no corresponde a la clínica de nuestro caso.
+- Carcinomatosis meníngea: Complicación grave de tumores sólidos, en particular adenocarcinomas de mama (12-34%), pulmón (10-26%), melanoma (17-25%), cáncer GI (4-16%) y otros. Se presenta en fases avanzadas y pronóstico infausto con supervivencia media sin tratamiento de 4-6 semanas. El diagnóstico se realiza con pruebas de imagen y citología de LCR que si resulta positiva confirma el diagnostico. En nuestro caso, extensión citológica sin evidencia de células malignas.
+- Hiponatremia leve: En general no produce síntomas hasta que la concentración sérica de sodio es inferior a 120-125mmol/l. A las 48h de ingreso; Na+ 135mmol/l
+- Encefalopatía hepática: Indispensable hepatopatía y factores desencadenantes como la insuficiencia renal, posible infección, estreñimiento, sedantes (BZD) presentes en nuestro paciente. Ante dicha sospecha se inició tratamiento con lactulosa sin mejoría clínica.
+- Shock cardiogénico o shock séptico: Paciente con IAM subendocárdico y además con sospecha de sepsis grave de origen desconocido (con temperatura axilar 39º, PCR 243…)
+- Posteriormente, durante el ingreso en UCI, se objetiva en analítica de control una hipercalcemia con un valor de calcio total de 4.17mmol/l que corresponde a un calcio corregido de 4.75mmol/l (16.71mg/dl); valores normales: 8.5 – 10.5 mg/dl.
+- Hipercalcemia
+
+Para completar el diagnóstico diferencial de la hipercalcemia es imprescindible descartar un hipertiroidismo, hiperparatiroidismo, sarcoidosis, síndrome paraneoplásico, fármacos, etc. por lo que se solicitan nuevas pruebas complementarias. A la espera de dichos resultados, la esposa comenta antecedente familiar (madre) de enfermedad de Paget por lo que se revisan Rx tórax y TC craneal sin objetivarse lesiones líticas. Se inicia tratamiento con bifosfonatos, tras el cual, a las 48h de su inicio, se obtiene un calcio corregido de 14.1mg/dl. A destacar, como incidencia, broncoaspiración con bronconeumonía secundaria, que a pesar de cobertura antibiótica con Meropenem y Linezolid persiste con fiebre. Se obtienen resultados de lavado broncoalveolar con crecimiento de Cándida Albicans, con lo que se amplia cobertura con Fluconazol. Resultados de pruebas complementarias del estudio de hipercalcemia:
+· Analítica sanguínea: Creatinina 4.29mg/dl, en descenso. PCR 142, procalcitonina 18. Factor reumatoide 13, ECA normal. PTH 76.7 (14-72). Calcitonina normal. Proteinograma normal. TSH 0.07, T4 8.3 " Hipotiroidismo (se inicia tratamiento con levotiroxina), cuando una de las causas de hipercalcemia es el hipertiroidismo.
+· Marcadores tumorales: α-feto proteína <1.3, CEA 73,16 (0-5), PSA 0,66, CA 19.9 43,45 (0-37), CA 15.3 32,10, β-HCG normal, enolasa neuro-específica 41.6 (0-18)
+· TC craneal de control: lesión isquémica sin cambios respecto al ingreso
+· TC cervico-toraco-abdominal: Importante neumotórax derecho que condiciona moderado desplazamiento contralateral de estructuras mediastínicas. Importantes signos de enfisema centrolobular bilateral. Atelectasia-condensación en lóbulo superior derecho. Moderado derrame pleural bilateral. Importante afectación de la región duodenopancreática (de predominio cefálico), que muestra aumento de su tamaño, con aspecto de pseudomasa (68x74x73mm) que asocia aumento de la densidad de la grasa circundante, con contornos mal definidos, que, des del punto de vista radiológico podría estar en relación a proceso inflamatorio local, sin que se pueda descartar origen neoformativo (estudio sin contraste y múltiples artefactos). Imagen nodular de 52x37x48mm de aspecto sólido, en íntima relación con la cortical del tercio medio renal izquierdo (¿quiste hemorrágico?, ¿neoformación?)
+Dados estos hallazgos en la prueba de imagen y con la elevación tan marcada de los marcadores tumorales CA 19.9, CEA y enolasa neuroespecífica, nos sugiere la posibilidad de encontrarnos ante un paciente con cáncer pancreático, sin poder descartar un proceso secundario a pancreatitis aguda complicada (aunque con amilasa y lipasa normales).
+Nuestro objetivo en este punto era mejorar la función renal para poder realizar un TC abdominal con contraste y según los resultados valorar biopsia renal y/o punción de la masa duodenopancreática por eco endoscopia. Pero durante su ingreso en UCI el paciente persiste con insuficiencia renal aguda sin importante cambios en sus valores de creatinina.
+Persiste bajo sedación y analgesia sin apertura ocular, febrícula y persistencia de leucocitosis al octavo día de cobertura antibiótica. Coincidiendo con nuevo pico febril con temperatura axilar de 39ºC presenta cuadro de inestabilidad hemodinámica requiriendo fármacos vasoactivos y cambio de cobertura antibiótica con Piper-Tazobactam y Ciprofloxacino. A pesar de ello, deterioro progresivo con episodios recurrentes de inestabilidad hemodinámica conjuntamente con broncoespasmos que se van solventando. Finalmente, al 10º día de ingreso se muestra inestable a nivel respiratorio que inicialmente recupera con aumento de FiO2, pero que a las pocas horas repite desaturación seguida de bradicardia extrema. Se inician maniobras de RCP sin éxito y el paciente resulta exitus. Se solicita autorización para necropsia a los familiares, quienes aceptan. En este punto, tenemos:
+Paciente de 52años;
+- Shock séptico de origen desconocido
+· ¿PANCREATITIS AGUDA?
+- Hipercalcémia
+· ¿NEOPLASIA DE PANCREAS ?
+- Insuficiencia renal aguda probablemente secundaria a hiperca.
+- Lesión subinsular izquierda
+- Pneumonía lsd 2ª a broncoaspiración
+- Neumotórax iatrogénico
+- Hepatopatía crónica
+- Hipotiroidismo
+- IAM subendocárdico
+Informe Anatomía Patológica (autopsia)
+- Carcinoma escamoso poco diferenciado a lóbulo superior de pulmón derecho con invasión angliolinfática extensa, invasión de ganglios linfáticos mediastínicos y metástasis hepática extensa (80% del parénquima hepático).
+- Calcificación metastásica a pulmón, riñón (nefrocalcinosis), páncreas, miocardio y vasos sanguíneos
+- Enfisema pulmonar centro-lobular
+- Enfisema subpleural
+- Quiste simple renal izquierdo

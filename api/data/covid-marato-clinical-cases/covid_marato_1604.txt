@@ -1,0 +1,42 @@
+Anamnesis
+Una mujer de 46 años es derivada a consulta de Ginecología por problemas de fertilidad.
+Como antecedentes médicos de interés es obesa, exfumadora, ha tenido dos gestaciones abortadas y fue operada de un folículo hemorrágico mediante laparotomía con 21 años. No toma tratamiento habitual.
+
+Exploración física
+La paciente es valorada en consultas externas de Ginecología.
+En la exploración física presenta una masa indurada y dolorosa en hipogastrio.
+Durante la exploración vaginal presenta una tumoración dura que ocupa todo el Douglas y que desplaza el cérvix hacia el pubis y el recto hacia el posterior.
+Ante estos hallazgos insospechados en un primer momento ante una paciente sin comorbilidad ni clínica importantes salvo infertilidad, desde Ginecología se decide ampliar estudio con pruebas complementarias.
+
+Pruebas complementarias
+Se le realiza una ecografía abdominal, que revela imágenes en ambos ovarios de aspecto maligno. Se describe la ecografía como una gran masa cuyo límite inferior se pierde en la pelvis, de unos 17 cm de longitud transversal. La estructura de la masa es mixta con áreas sólidas irregulares y abundante componente líquido. Dadas estas características, se considera que posiblemente depende de ovario. Así mismo, se objetiva una lesión hepática solitaria, altamente compatible con metástasis.
+La ecografía ginecológica describe ambos ovarios con ecogenicidad mixta, sólido-quística con tabiques gruesos y flujo en su interior.
+La mamografía es normal, BIRADS 2.
+Se amplía estudio con TC toracoabdominal. Ésta describe las siguientes alteraciones: tres imágenes nodulares hipodensas en hígado en segmento VII de 41 x 39 mm, en segmento VIII de 32 x 24 mm y en segmento VI de 8 mm, compatibles con metástasis hepáticas. Masa en pelvis menor dependiente de ovario izquierdo, que crece en dirección posterior y medial ocupando el Douglas y desplazando el útero en dirección anterior, de un tamaño aproximado 13 x 12 mm. La masa es mixta con zonas sólidas y quísticas, con septos gruesos en su interior. Se observa otra masa de las mismas características, de 8 x 7 cm, que parece depender de ovario derecho. Son altamente sugestivas de neoplasia ovárica bilateral.
+Ante estos hallazgos, se realiza punción eco-guiada del ovario izquierdo. La anatomía patológica de ovario revela: adenocarcinoma mucosecretor con patrón inmunohistoquímico con CK-20 y CEA positivos y CK-7, receptores tumorales y vimentina negativos, compatibles con metástasis de origen colorrectal.
+La colonoscopia objetiva una masa dura de aspecto infiltrativo y maligno a 20 cm del margen anal que estenosa la luz, cuya histología es de adenocarcinoma infiltrativo moderadamente diferenciado.
+Los marcadores tumorales son: CEA: 93.6; Ca 125: 41.1; HE4: 117.7.
+
+Diagnóstico
+La paciente es derivada a consultas de Oncología Médica en junio de 2015. El estudio molecular revela RAS nativo y BRAF no mutado, por lo que el diagnóstico es:
+Adenocarcinoma de colon estadio IV con 3 metástasis hepáticas y metástasis ováricas bilaterales, RAS nativo y BRAF no mutado.
+
+Tratamiento
+La paciente inicia tratamiento en junio de 2015 con quimioterapia con intención paliativa con el esquema Xelox (capecitabina-oxaliplatino) + bevacizumab. Presenta en este momento muy buena situación basal, con un ECOG de 0.
+Como toxicidad aparece neuropatía periférica grado II, por lo que se reduce la dosis de Xelox un 20 %. La clínica mejora levemente, por lo que, tras el quinto ciclo, se suspende el oxaliplatino, continuándose con tratamiento de mantenimiento con capecitabina + bevacizumab.
+Con este esquema la paciente experimenta respuesta parcial, con disminución progresiva del tamaño de las masas hepáticas y anexiales en dos TC de reevaluación.
+Varios meses después, en enero de 2016, la paciente presenta progresión tumoral por crecimiento de las lesiones ováricas. Se inicia segunda línea de quimioterapia con irinotecán-panitumumab, del que recibe cuatro ciclos hasta marzo de 2016. Con este esquema la paciente presenta respuesta parcial en la TC de reevaluación.
+El resultado de Anatomía Patológica de la pieza quirúrgica es de adenocarcinoma de intestino grueso residual, tras tratamiento neoadyuvante, que infiltra toda la pared, alcanzado el tejido adiposo perirrectal. La fibrosis predomina sobre los nidos tumorales residuales (grado de regresión tumoral 1, moderada respuesta) con metástasis ováricas bilaterales, (CK20, CDX2, CEA positivos; CK7, receptores de estrógenos, p53, pAX8 y TTF1 negativos). Se aíslan 25 ganglios linfáticos libres de infiltración tumoral.
+La evolución posquirúrgica es buena. Como complicación aparece una hernia abdominal laparotómica, no complicada, que le ocasiona dolor abdominal leve crónico.
+Dos meses tras la cirugía, en julio de 2016, se reinicia tratamiento quimioterápico con el fin de eliminar la enfermedad micrometastásica. Se emplea el mismo esquema que venía realizando, irinotecán-panitumumab, diez ciclos más (catorce en total), hasta diciembre de 2016.
+Como toxicidad con esta línea aparece afectación cutánea grado 2-3 mantenida. Además, presenta diarrea, náuseas y vómitos los primeros días después de cada ciclo, que originan hipomagnesemia leve y mucositis oral. También anemización leve (Hb 10,3). Además, tuvo que reducirse la dosis de quimioterapia un 20 % por aparición de toxicidad renal leve (aclaramiento de creatinina de 65,7).
+Acabado este esquema, en la reevaluación clínica y radiológica no se objetiva enfermedad neoplásica, por lo que se decide descanso de tratamiento activo y se programan revisiones.
+En el programa de seguimiento, en una reevaluación con TC en enero de 2017, se aprecia progresión neoplásica en forma de adenopatías retroperitoneales a nivel del hilio renal izquierdo, de 2 x 1,8 cm la mayor. Se confirma la afectación ganglionar sin datos de recidiva a otro nivel en estudio de PET-TC. Ante estos hallazgos, se comienza con la tercera línea de quimioterapia con el esquema
+Folfiri-Aflibercept.
+Como toxicidades con este tratamiento presenta deterioro del estado general, anorexia grado 2 y vómitos y diarrea grados 2-3. Se reduce un 20 % la dosis de la quimioterapia y algún ciclo sin 5-FU, para mejorar la tolerancia.
+Con este esquema, la paciente presenta respuesta parcial con leve disminución de las adenopatías retroperitoneales. Valorado el caso en comité de tumores, se plantea posibilidad de rescate quirúrgico tumoral o de cirugía de reparación de eventración abdominal. Ambas opciones son desestimadas por cirugía general por probable escaso beneficio clínico. Se decide, por tanto, tratamiento local con radioterapia añadida a la quimioterapia sistémica. Realiza radioterapia SBRT, 12 sesiones a dosis hipofraccionadas, tras la cual se decide descanso de tratamiento.
+En la PET-TC de reevaluación se objetivan cambios posradioterapia en el hilio renal izquierdo, sin datos de enfermedad en otro nivel. Se inicia programa de revisiones cada 3 meses.
+
+Evolución
+Todas las terapias que la paciente ha recibido han contribuido a controlar la enfermedad. Han aparecido diversas complicaciones y progresión de la enfermedad, tratadas y controladas de la mejor manera posible.
+Actualmente, en marzo de 2018, la paciente lleva 1 año sin evidencia de enfermedad neoplásica, ni clínica, ni radiológica ni analítica, y realiza vida normal.

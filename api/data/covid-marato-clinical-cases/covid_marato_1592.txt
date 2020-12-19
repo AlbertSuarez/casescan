@@ -1,0 +1,39 @@
+Anamnesis
+Varón de 42 años que, en octubre de 1999, fue diagnosticado de timoma maligno, a raíz de haber presentado dificultad para masticar, debilidad facial difusa y fatigabilidad de predominio vespertino, siendo compatible con miastenia gravis paraneoplásica. Inició tratamiento con prednisona a dosis bajas y micofenolato 500 mg cada 12 horas, controlando la sintomatología completamente y que mantenía en la fecha actual.
+En el momento del diagnóstico, se decidió iniciar tratamiento con 3 ciclos de quimioterapia neoadyuvante de primera línea basada en cisplatino, adriamicina y ciclofosfamida, esquema PAC. Presentó una respuesta favorable, tras lo cual se realizó toracotomía exploradora, observándose numerosos implantes pleurales, diafragmático y mediastínicos, por lo que se consideró irresecable. Continuó tratamiento con dicho esquema PAC, hasta completar 9 ciclos y radioterapia sobre el lecho tumoral, obteniéndose así respuesta parcial mayor radiológica en junio de 2000.
+En diciembre de 2004 presentó una recidiva de la enfermedad a nivel pulmonar, hepático y óseo, por lo que inició tratamiento con esquema cisplatino-VP16 por 6 ciclos, con lo que se consiguó una estabilización de enfermedad. En octubre de 2005 inició quimioterapia de tercera línea con docetaxel completando 6 ciclos con nueva estabilización de enfermedad. Posteriormente, comenzó con octeótrido de liberación prolongada 30 mg intramuscular cada 28 días que mantenía en la fecha actual.
+En abril de 2007 consulta por fiebre elevada de 39º de varios días de evolución, cefalea continua en la región occipital, marcado deterioro del estado general y pérdida de peso de 10 kg.
+
+Examen físico
+Mal estado general, PS 3-4. Palidez de piel y mucosas, diaforesis. Agitación psicomotriz, falta de respuesta a órdenes sencillas, desconjugación ocular divergente y rigidez nucal. Abdomen globuloso, hepatomegalia elástica de 2 trasverses y esplenomegalia hasta la línea media abdominal, ambas no dolorosas. Auscultación cardiopulmonar anodina.
+
+Pruebas complementarias
+- Hemograma: destaca 1.500 leucocitos, de los cuales 70% son neutrófilos, hemoglobina 11,3 g/dl con VCM 92 fl y 37.000 plaquetas.
+- Bioquímica y hemostasia: sin hallazgos significativos.
+- Radiografía de tórax: pérdida de volumen en hemitórax derecho. Imagen nodular sugestiva de metástasis.
+- Radiografía de abdomen: hepatoesplenomegalia.
+- Tomografía computarizada craneal: no se observan lesiones agudas en el parénquima cerebral, cerebeloso y troncoencefálico. No hay presencia de colecciones hemáticas. Talla ventricular dentro de la normalidad.
+- Líquido cefalorraquídeo: glucorraquia 18 mg/dl; proteínas totales 231 mg/dl; células 63 cél./mm; mononucleares 93%; polinucleares 7%; líquido xantocrómico y turbio.
+- Cultivo del líquido cefalorraquídeo: positivo para Listeria monocytogenes tipo I.
+- Citología del líquido cefalorraquídeo: ausencia de células malignas.
+- Se realizó despistaje de meningitis linfocitaria.
+- DNA de enterovirus, herpesvirus, arbovirus, influenza, adenovirus: no fue detectado en líquido cefalorraquídeo.
+- Ziehl-Neesen en líquido cefalorraquídeo: negativo.
+- Hemocultivo: positivo para Listeria monocytogenes tipo I.
+- Electroforesis de proteínas plasmáticas: hipergammaglobulinemia policlonal.
+- Serologías de inmunoglobulina M e inmunoglobulina G para Leishmania: positivas.
+- Serología del VIH: negativa.
+- Punción-aspirado de médula ósea: presencia de Leishmania intracorpuscular y extracorpuscular.
+
+Diagnóstico
+Meningitis aguda por Listeria monocytogenes y Leishmaniasis visceral.
+
+Tratamiento
+Durante las primeras 48 horas recibió tratamiento antibiótico empírico con meropenem y se retiró el micofenolato. El paciente presentó marcada mejoría, desapareciendo la fiebre y recuperando el nivel de conciencia de forma completa.
+Tras el aislamiento microbiológico positivo de Listeria monocytogenes en el líquido cefalorraquídeo y en la sangre, se modificó la pauta antibiótica, iniciando tratamiento con ampicilina y gentamicina endovenosa. Se mantuvó durante 21 días, permaneciendo apirético. Como incidencia a la retirada del micofenolato, presentó exacerbación de clínica miasténica, manifestándose como diplopía binocular y debilidad facial. Debido a ello, se mantuvo el tratamiento con prednisona 30 mg cada 24 horas y se inició control sintomático con piridostigmina 60 mg cada 8 horas, presentando franca mejoría.
+Por otra parte, se había realizado una punción-aspiración de médula ósea que mostró la presencia de Leishmania tanto intracorpuscular como extracorpuscular. Se comenzó tratamiento con anfotericina B liposomal endovenoso 300 mg cada 24 horas y aopurinol 300 mg cada 8 horas vía oral, presentando buena tolerancia al mismo y quedando totalmente asintomático.
+
+Evolución
+En 2010 presentó progresión de la enfermedad a nivel cerebral, con metástasis cerebral única y aparición de nuevas lesiones a nivel vertebral. Se realizó metastasectomía cerebral y descompresión neuroquirúrgica por compresión medular de D2 a D4.
+Se inició tratamiento con quimioterapia de cuarta línea basada en adriamicina liposomal pegilada y radioterapia paliativa cerebral. Presentó buena tolerancia al tratamiento, a excepción de astenia grado 1.
+Finalmente, en 2011 presentó disnea de comienzo súbito y dolor torácico. En la analítica destacaba unos dímeros-D de 4.500 ng/ml. Se realizó tomografía computariza con contraste de arterias pulmonares, donde se observó defecto de llenado en la arteria central del lóbulo inferior izquierdo. Se diagnóstico de tromboembolismo pulmonar y falleció a los 2 días por insuficiencia respiratoria.

@@ -1,0 +1,26 @@
+Anamnesis
+Varón de 57 años, sin alergias medicamentosas conocidas. Como antecedentes medicoquirúrgicos relevantes presenta HTA, insuficiencia cardiaca congestiva con varios ingresos hospitalarios por descompensación y un cuadro depresivo. En seguimiento por Medicina Interna debido a una PAN con mononeuritis múltiple idiopática. Intervenido de fístula perianal hace años. En tratamiento crónico con betabloqueantes, antidepresivos y corticoides orales.
+El paciente consulta en junio de 2013 en Atención Primaria por astenia de varias semanas de evolución, así como dispepsia ocasional, sin otra sintomatología acompañante.
+
+Exploración física
+En la exploración física general no presenta hallazgos de interés: buen estado general, normocoloreado, hidratado y perfundido. Constantes vitales en rango y afebril. No se palpan adenopatías periféricas. Auscultación cardiopulmonar sin alteraciones, exploración abdominal anodina. Miembros inferiores sin edemas.
+
+Pruebas complementarias
+En la analítica sanguínea (10/06/2013) se objetiva anemia (Hb 9,5 mg/dl) de perfil ferropénico, sin otras alteraciones significativas. Asimismo, se realiza gastroscopia (26/06/2013) que evidenció lesión vegetante de 3-4 cm a nivel cardial, ulcerada, tomándose muestras de la misma para análisis anatomopatológico.
+Dado el hallazgo anterior se realiza TC abdominal (08/07/2013) que confirma masa subcardial de aproximadamente 4 cm en relación con probable neoplasia gástrica sin extensión a la grasa y al menos una adenopatía en ligamento gastrohepático.
+
+Diagnóstico
+La biopsia revela adenocarcinoma gástrico moderadamente diferenciado de tipo intestinal.
+
+Tratamiento
+En la analítica sanguínea (10/06/2013) se objetiva anemia (Hb 9,5 mg/dl) de perfil ferropénico, sin otras alteraciones significativas, por lo cual se realiza gastroscopia (26/06/2013) que evidenció lesión vegetante de 3-4 cm, ulcerada, a nivel cardial, de la que se toman muestras. Dado el hallazgo anterior se realiza TC abdominal (08/07/2013) que confirma masa subcardial de aproximadamente 4 cm en relación con probable neoplasia gástrica sin extensión a la grasa y al menos una adenopatía en ligamento gastrohepático
+
+Evolución
+En diciembre de 2013, se detecta elevación asintomática de marcadores tumorales Ca 19,9 y Ca 72,4 por lo que se realiza PET (02/01/2014) que revela lesión hipermetabólica en cúpula hepática, segmento VIII, de aproximadamente 2,4 cm sospechosa de etiología tumoral vs. infecciosa. La RM (24/01/2014) confirma lesión nodular en segmento VIII, con realce en anillo, sugestiva de metástasis necrosada/abscesificada.
+Dada la dificultad anatómica para realizar PAAF, se valora en comité multidisciplinar y, ante la necesidad de diagnóstico histológico, se realiza cirugía hepática (evidenciándose finalmente 3 lesiones) con toma de biopsias que demostraron infiltración hepática por adenocarcinoma en 2/3 lesiones. Dada la progresión a dicho nivel, se solicita HER-2 a fin de planificación de tratamiento oncoespecífico, que resulta positivo (+++).
+Se completa estudio con ecocardiograma que resulta normal y TC abdominal (27/03/2018) que evidencia las 3 LOE hepáticas previamente descritas. Se inicia 1ª línea con cisplatino-capecitabina-trastuzumab en abril de 2018 con respuesta mayor al 50 % tras 4 ciclos, como toxicidades relevantes presentó infección por CMV que requirió ingreso hospitalario y alteraciones hidroelectrolíticas refractarias a manejo ambulatorio. Dada la persistencia de dichas alteraciones, se decide continuar desde el 5º ciclo con trastuzumab en monoterapia.
+Tras 7 ciclos el paciente continúa en respuesta por TC, con persistencia únicamente de una lesión hepática de 1 cm.
+Se reevalúa el caso en comité y se solicita PET-TC para valoración de rescate quirúrgico, desestimándose finalmente pues la PET-TC revela implante peritoneal en mesogastrio, así como dos adenopatías en hilio pulmonar de dudosa etiología. Se continúa trastuzumab en monoterapia con enfermedad estable tras 12 y 18 ciclos. Tras 22 ciclos, se evidencia respuesta completa por PET-TC y normalización de los marcadores tumorales por lo que en julio de 2015 se para el tratamiento.
+En mayo de 2016 (ILP de 10 meses) presenta en analítica elevación de Ca 19,9, sin datos de enfermedad en TC, pero con evidencia en PET-TC de lesión a nivel de cúpula hepática. Se inicia 2ª línea con 5-FU + trastuzumab, con buena tolerancia y nueva respuesta completa radiológica tras 8 ciclos. Sin embargo, la PET seguía evidenciando foco de hipermetabolismo (aunque con disminución de la actividad glucídica respecto al anterior) a nivel de la cúpula hepática, por lo que se lleva el caso nuevamente a comité multidisciplinar y se decide cirugía con intención curativa.
+El 01/03/2017 se realiza mastectomía hepática en segmento VIII.
+En la actualidad el paciente sigue revisiones en consultas externas sin datos de recidiva.

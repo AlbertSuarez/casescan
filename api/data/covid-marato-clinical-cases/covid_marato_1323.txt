@@ -1,0 +1,25 @@
+Anamnesis
+Varón de 25 años, sin antecedentes de interés, que es valorado por Urología en noviembre de 2012 por dolor en testículo derecho y autopalpación de una masa dolorosa.
+
+Examen físico
+El examen físico general no muestra datos de interés. A la exploración del testículo derecho, se objetiva aumento de consistencia del mismo, con masa de unos 2 cm de diamétro en polo inferior, doloroso a la palpación.
+
+Pruebas complementarias
+Con estos hallazgos, se solicitan:
+Ecografía testicular (5/11/12): masa heterogénea en teste derecho con calcificaciones de 3 cm, sugestivo de tumor embrionario.
+Marcadores tumorales: beta-HCG < 1,2 mUI/ml; alfafetoproteína 5,33 ng/ml.
+
+Diagnóstico
+El día 3 de diciembre de 2012 se realiza una orquiectomía derecha, siendo el estudio histológico de la pieza quirúrgica compatible con carcinoma embrionario limitado al testículo y epidídimo con invasión vascular. Estadio pT2(is) Nx (UICC).
+
+Tratamiento
+Orquiectomía derecha.
+
+Evolución
+En Oncología Médica, se solicita estudio de extensión postquirúrgico:
+TC de tórax-abdomen-pelvis (16/1/13): presencia de adenopatías claramente patológicas, de aspecto necrótico y de contornos desflecados que ocupan el retroperitoneo periaórtico, la mayor de ellas con un diámetro de 25 mm. Resto normal.
+Marcadores tumorales: BHCG < 1,2 mUI/ml y AFP 37. LDH 287287 ng/ml.
+Con diagnóstico de carcinoma embrionario testicular pT2 cN2 M0 S1 (estadio IIB), se inicia tratamiento quimioterápico el 21/1/13, según esquema BEP cada 21 días (bleomicina 30 mg semanal durante 12 semanas, etopósido 100 mg/m2, días 1 a 5 y cisplatino 20 mg/m2, días 1 a 5). Recibe un total de 4 ciclos con buena tolerancia.
+Tras finalizar tratamiento, se solicitan marcadores tumorales, que son normales, y TC de tórax-abdomen-pelvis, en la que no existe evidencia de enfermedad, pero se objetiva un defecto de replección en la aurícula derecha adyacente a la punta del catéter central, sugestivo de trombo a dicho nivel. Con este hallazgo se solicita resonancia magnética nuclear cardíaca, que objetiva trombo subagudo gigante en aurícula derecha (3,3 x 2,2 cm) adherido a pared, por delante de vena cava inferior.
+Se valora por Cirugía Cardíaca, que realiza trombectomía cardíaca, cursando la cirugía sin incidencias.
+El paciente pasa a revisiones en nuestras consultas.

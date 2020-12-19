@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 57 años sin hábitos tóxicos. Carpintero de profesión. Acude por dolor centrotorácico opresivo, irradiado a miembros superiores y cortejo vegetativo, que comienza con el ejercicio. En ecocardiografía urgente, se aprecia derrame pericárdico severo sin datos de taponamiento y en la tomografía computarizada (TC) de tórax, ocupación del mediastino anterosuperior derecho por masa de partes blandas, con áreas sólidas y necróticas.
+Se realiza drenaje pericárdico y toracocentesis derecha previos a la mediastinoscopia con toma de biopsia, identificándose una masa en mediastino anterior, blanquecina y de consistencia dura, muy vascularizada e irresecable.
+
+Examen físico
+Aceptable estado general, PS1. Bien hidratado y perfundido. Saturación basal 96 %. TA 110/79 mm Hg. FC 110 lpm. Ingurgitación yugular. Exploración por aparatos: anodina.
+
+Pruebas complementarias
+Analítica: hemograma, coagulación y bioquímica con enzimas cardíacas y perfil tiroideo, normal. GPT 107 U/l; GGT 231 U/l; FA 87 U/l; proteínas 5,7 g/dl; albúmina 3,5 g/dl; calcio 8,8 mg/dl. Ca 19.9 142 U/ml.
+Electrocardiograma: ritmo sinusal a 110 lpm. Eje QRS normal. Supranivelación de ST en II, III, aVF y V5-V6.
+Radiografía de tórax: cardiomegalia y ensanchamiento mediastínico.
+Ecocardiografía: derrame pericárdico severo con separación máxima de 3 cm. FEVI conservada, sin signos de taponamiento.
+TC toracoabdominopélvica: masa mediastínica anterior derecha de 99 x 72 x 106 mm, lobulada, heterogénea, con áreas quísticas y necróticas, y calcificaciones múltiples centrales. En contacto con aorta ascendente, vena cava superior e innominada. Moderado derrame pericárdico y pleural bilateral.
+Biopsia mediastínica: tumoración de células epiteliales con empalizada periférica basaloide. Expresa citoqueratinas de amplio espectro, CAM 5-2, p63, CD117 y CD5. Negatividad para TTF1, CK20 y CK7.
+Citologías de líquidos pleural y pericárdico: negativas para malignidad.
+
+Diagnóstico
+Carcinoma basaloide de timo localmente avanzado, irresecable.
+
+Tratamiento
+Dada la irresecabilidad del tumor y la comorbilidad cardiovascular, se propone tratamiento con carboplatino AUC6/paclitaxel 225 mg/m2, que acepta.
+
+Evolución
+Tras 6 ciclos de quimioterapia con buena tolerancia, se objetiva enfermedad estable en TC de reevaluación. Dado que la lesión continua siendo irresecable, recibe radioterapia externa secuencial (dosis total 60 Gy), alcanzándose respuesta parcial. El paciente continúa revisiones en nuestra Unidad y se encuentra asintomático tras intervalo libre de progresión (ILP) de 16 meses.

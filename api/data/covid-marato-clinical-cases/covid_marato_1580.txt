@@ -1,0 +1,37 @@
+Anamnesis
+Paciente mujer de 35 años, sin alergias conocidas, ni comorbilidades de interés. Fumadora de 20 cigarrillos al día.
+Antecedentes ginecológicos: menarquia a los 13 años, normorreica, con controles ginecológicos periódicos dentro de la normalidad.
+Diagnosticada en agosto de 2012 de un carcinoma escamoso de cérvix estadio IIB de la FIGO, pT2 pN1 M0 , tratado mediante histerectomía radical con preservación de anejos, y tratamiento adyuvante con quimioterapia y radioterapia concomitante, que completó sin complicaciones entre enero y marzo de 2013, recibiendo una dosis total de 45 Gy sobre la pelvis y el área paraórtica y 6 ciclos de cisplatino 40 mg/m2 semanal concomitante seguido de braquiterapia endocavitaria vaginal HDR (2 fracciones de 5,5 Gy) y sobreimpresión parametrial bilateral hasta llegar a una dosis total de 60 Gy.
+Precisó la colocación de un catéter doble J derecho por ureterohidronefrosis posquirúrgica en enero de 2013 y retirada del mismo en agosto de 2013 por molestias secundarias, realizándose una cistoscopia que informaba de calcificación de catéter doble J.
+Desde entonces realizó seguimientos sin evidencia de recidiva, siendo la última revisión en octubre de 2013, en la que la paciente aportaba una TC de control tóraco-abdómino-pélvica que informaba de ausencia de recidiva local o a distancia de la enfermedad.
+A mediados de octubre de 2013 la paciente presenta un cuadro tórpido subagudo de disnea a mínimos esfuerzos de inicio súbito, dolor pleurítico, artromialgias generalizadas y malestar general.
+
+Examen físico
+A la exploración física, la paciente presentaba un ECOG 2, y destacaban múltiples hematomas de manera generalizada en el tronco, los miembros superiores e inferiores. Impresionaba de normohidratada, normocoloreada y bien perfundida.
+No presentaba signos de focalidad neurológica.
+Las constantes vitales objetivaban saturación de oxígeno 91% a aire ambiente, con estabilidad hemodinámica, tensión arterial 120-135/80 mmHg y frecuencia cardiaca 80-85 lpm, rítmica.
+A nivel cardiorrespiratorio se encontraba rítmica, sin soplos audibles, taquipneica, precisando de gafas nasales a 3-41 lpm, que permitían saturaciones de oxígeno del 100%. La auscultación pulmonar revelaba murmullo vesicular conservado, con buena entrada de aire bilateral.
+A la exploración abdominal se palpaba un abdomen blando y depresible, no doloroso, sin signos de peritonismo.
+Peristaltismo conservado. Las extremidades inferiores impresionaban de edemas y hematomas múltiples. Los pulsos periféricos estaban presentes y simétricos.
+
+Pruebas complementarias
+- Se completó el estudio mediante una radiografía de tórax, en la que no se observaban infiltrados parenquimatosos.
+- Un electrocardiograma mostraba ritmo sinusal a 50 lpm y morfología de bloque de rama derecha del Haz de Hiss.
+- En la analítica general destacaba una hemoglobina de 9,7 g/dl, plaquetas 21.700/mcl, TP 57%, INR 1,54, TTPA 35,6 s.
+Fibrinógeno 218 mg/dl. Función renal correcta: creatinina 0,8/UI, 44 mg/dl. Diuresis espontánea conservada. Ionograma: Na+ 143/K+ 3,9 mmol/l.
+- Se realizó finalmente una angio-TC, en la que se objetivaba un defecto de repleción de gran tamaño en el origen de la arteria pulmonar con dilatación de la misma. Además, se apreciaba un defecto de repleción intraventricular derecho adherido al ápex con importante dilatación del ventrículo derecho y reflujo a la vena cava inferior, también dilatada, así como otros defectos de repleción en las ramas segmentarias de la arteria lobar superior izquierda y posiblemente en ramas más distales. Pequeñas áreas de aumento de densidad pulmonar periféricas bilaterales que estaban en relación con el embolismo pulmonar.
+- Se realizó un ecocardiograma transtorácico, objetivándose cavidades derechas dilatadas con abundante contenido trombótico, desflecado en el ventrículo derecho y tronco supraventricular derecho con insuficiencia tricuspídea moderada, con función sistólica subjetivamente conservada.
+- Por sospecha de recidiva tumoral a nivel cardiaco se completó ell estudio con una RM cardiaca que objetivaba ventrículo derecho no dilatado con hipertrofia parietal y extenso realce tardío subendocárdico en las secuencias de supresión miocárdica, lo que sugería patología inflamatoria /infiltrativa no neoplásica. La función sistólica global estaba conservada (FEVD 57%). Defectos de repleción en el tracto de salida del ventrículo derecho y en la cavidad ventricular compatibles con trombos intracavitarios. Insuficiencia tricuspídea. Dilatación moderada de la aurícula derecha (31 cm2).
+Se completó el estudio mediante la realización de una PET-TC que objetivaba: ventrículo derecho ocupado por una masa intracavitaria de 65 x 42 x 17 mm, hipermetabólica (SUV máx. de 9,5) que se extendía hacia el tracto de salida y hacia el espesor de las paredes anterior y apical del ventrículo.
+A nivel pulmonar se observaban: condensaciones bibasales subpleurales de morfología triangular y en vidrio deslustrado en el lóbulo superior izquierdo compatibles con infartos pulmonares. Patrón pulmonar bilateral micronodular de distribución en tree-in-bud que traducía microembolismos pulmonares y diseminación por arteria centrolobulillar.
+
+Diagnóstico
+Con los resultados de las pruebas realizadas, fue valorado inicialmente como un tromboembolismo pulmonar secundario a un gran trombo/masa intracardiaca en el ventrículo derecho, tracto de salida del ventrículo y arteria pulmonar que cursaba con plaquetopenia severa secundaria.
+
+Tratamiento
+Se inició anticoagulación con heparina sódica a pesar de trombopenia severa, y dadas las altas probabilidades de recidiva tumoral cardiaca, se presentó en sesión médico-quirúrgica con el equipo de Cardiología y Cirugía Cardiaca, decidiéndose la realización de toma de biopsia por cateterismo.
+
+Evolución
+Previamente a la realización de la prueba, la paciente presentó empeoramiento respiratorio progresivo con disnea, taquipnea e insuficiencia respiratoria hipercápnica.
+Se procedió a la intubación orotraqueal y conexión a ventilación mecánica con deterioro hemodinámico progresivo y sospecha de nuevos embolismos, precisando de tratamiento con drogas vasoactivas (noradrenalina), sin conseguir la estabilidad hemodinámica pese al ascenso progresivo.
+Se avisó a Cirugía Cardiaca y, dada la situación de la paciente, se planteó la posibilidad de trombectomía emergente en quirófano, informando a la familia del alto riesgo quirúrgico. La familia desestimó la intervención quirúrgica, siendo finalmente exitus por shock refractario a soporte vasoactivo .

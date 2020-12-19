@@ -1,0 +1,30 @@
+Anamnesis
+Paciente varón de 75 años con antecedentes personales de fibrilación auricular crónica anticoagulada e hipertrofia prostática benigna. Sin alergias medicamentosas conocidas. Su tratamiento habitual consiste en dabigatrán y alopurinol.
+
+En noviembre de 2000 es intervenido de una lesión cutánea en la espalda resultando el diagnóstico de melanoma maligno pT2N0M0 nivel III de Clark, Breslow 2m2 mm, sin ulceración y con márgenes libres de enfermedad (estadio IIA de la clasificación TNM). En abril de 2014, durante una revisión, se detecta una tumoración axilar izquierda con ganglio centinela positivo. El paciente está asintomático y la exploración física en ese momento es normal. El hemograma y la bioquímica básica muestran valores dentro de los límites normales. La PET de abril de 2014 muestra una captación aumentada en la axila izquierda (SUVmáx. 3,2)secundaria a cambios inflamatorios postquirúrgicos, sin poder descartar persistencia de infiltración neoplásica, junto a micronódulos pulmonares inespecíficos no caracterizables, siendo el resto de la exploración normal y el estudio molecular en la biopsia axilar con resultado de melanoma maligno con mutación BRAF V600E. Se realiza vaciamiento ganglionar axilar izquierdo, que cursa sin complicaciones, con informe histopatológico de ganglios resecados libres de enfermedad y se decide, basándonos en la preferencia del paciente y teniendo en cuenta las dudas de la PET-TC, el seguimiento estrecho.
+
+En septiembre de 2014, durante la revisión se detecta en la TC tóraco-abdómino-pélvica (T-A-P) una recaída locorregional (adenopatía axilar izquierda de 59 x 35 x 22 mm) y a distancia (metástasis hepática en el segmento IVa, nódulos pulmonares bilaterales e implante peritoneal único en la gotera parietocólica derecha). El paciente rechaza su inclusión en un ensayo clínico, por lo que inicia vemurafenib a dosis plenas (960 mg/12 h). En la evaluación tras la segunda semana de tratamiento presenta una tolerancia aceptable (astenia, artralgias, dolor abdominal y enrojecimiento facial, grados 1). En la revisión de la semana 4 de tratamiento precisa reducción de la dosis (480 mg/12 h), junto a tratamiento corticoideo a bajas dosis (prednisona) por toxicidad subjetivamente intolerable (fiebre, astenia, náuseas y estreñimiento, grados 2). Se mantiene esta pauta un total de 5 semanas de forma aceptable (tan solo presenta astenia grado 1).En la semana 12acude a revisión rutinaria con clínica de artralgias generalizadas y astenia grados 1, así como aparición de lesiones cutáneas verrucosas en el cuello, tórax superior y miembros inferiores. Además, la TC T-A-P de control (enero de 2015) objetiva progresión locorregional y a distancia (conglomerado adenopático axilar izquierdo, metástasis hepáticas y pulmonares). Se inicia reescalada de dosis (720 mg/12 h) con buena tolerancia(sequedad cutánea, alopecia y astenia grados 1) durante 4 semanas. En la semana 16 de tratamiento acude a revisión con nueva reducción de dosis (480 mg/12 h) por toxicidad subjetivamente intolerable (vómitos y dolor abdominal grados 2), por lo que se le solicita una nueva evaluación radiológica, que confirma la progresión locorregional.
+En marzo de 2015 inicia tratamiento de segunda línea con ipilimumab a dosis de 3 mg/kg. Tras 5 días del segundo ciclo es ingresado con diagnóstico clínico de colitis asociada a ipilimumab (vómitos y diarrea grados 3).
+
+Exploración física
+ECOG 3; afebril. Consciente y orientado. Signos de deshidratación. Astenia grave. Auscultación cardíaca: tonos rítmicos a 110 lpm, sin soplos audibles. Auscultación pulmonar: normoventilación generalizada. Abdomen: blando, depresible, globuloso, se palpan nódulos subcutáneos en la pared abdominal anterior, dolor generalizado a la palpación, sin presentar signos de irritación peritoneal.
+Peristaltismo conservado. Extremidades: edemas periféricos de predominio izquierdo, sin signos de trombosis venosa profunda.
+
+Pruebas complementarias
+Durante el ingreso se realizaron las siguientes pruebas complementarias:
+» Hemograma y bioquímica completa: hemoglobina 12,7 g/dl, leucocitos 17.000/mm3 con neutrófilos 83%, plaquetas 144.000/mm3, albúmina 21 g/dl, LDH 863 UI/l, PCR 14,2 mg/l.
+» Testosterona total 1,04 ng/ml [2,41-8,27], TSH 0,35 mU/l [0,35-5,5], T4 1,8 μg/dl [4,5-11,5], T4L 1,09 ng/dl [0,8-1,8], T3 0,2 μg/l [0,6-1,9].
+» Coprocultivos negativos para gérmenes típicos y Clostridium difficile, con leucocitos negativos.
+» Calprotectina en heces > 1.800 μg/g de heces [< 50 ].
+» TC abdómino-pélvica (8/4/2015): progresión franca de la enfermedad a distancia (ganglionar intra y retroperitoneal, inguinal izquierda, implantes peritoneales múltiples, metástasis pancreática, en tejido subcutáneo y crecimiento de las metástasis hepáticas).
+» Colonoscopia: pancolitis con restos hemáticos sin úlceras en la pared.
+» Biopsia del intestino grueso: inflamación crónica agudizada de intestino grueso con criptitis y edema de lámina propia.
+
+Diagnóstico
+Dados los antecedentes, resultados y evolución del paciente, se llega al diagnóstico clínico de colitis (grado 3) e hipopituitarismo (grado 1) autoinmunes secundarios a ipilimumab.
+
+Tratamiento
+Inicia tratamiento con soporte nutricional (nutrición enteral y albúmina) y corticoides a altas dosis (metilprednisolona 2 mg/kg/día), sin mejoría hasta la semana 5 de ingreso, con normalización paulatina del hábito intestinal que permite el descenso progresivo de corticoides.
+
+Evolución
+Sin embargo, la mejoría del paciente se interrumpe, con un posterior empeoramiento de las funciones vitales por progresión de la enfermedad hepática hasta fallecer en la primera semana de junio de 2015.

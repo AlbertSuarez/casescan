@@ -1,0 +1,22 @@
+Anamnesis
+Mujer de 73 años con antecedentes de hipertensión arterial, dislipemia, diabetes mellitus no insulinodependiente y nunca fumadora, aunque sí fumadora pasiva (marido fumador activo fallecido por cáncer de pulmón). Intervenida de prótesis de rodilla bilateral. Tratamiento crónico con atorvastatina 20mg, glimepirida 4 mg y ramipril 2,5 mg. No tiene alergias medicamentosas. Está jubilada tras trabajar como panadera. Antecedente oncológico familiar de hermano con cáncer no microcítico de pulmón.
+Presenta en junio de 2018 episodio de derrame pericárdico, por lo que estuvo ingresada en Cardiología donde se realizó pericardiocentesis de 1.500 l de líquido serohemático, con citología negativa para malignidad. Actualmente vuelve a presentar dolor torácico y disnea.
+
+Exploración física
+Regular estado general, hipotensión, taquicardia, taquipnea, regurgitación yugular, pulso paradójico. Ruidos cardiacos apagados.
+
+Pruebas complementarias
+» Radiografía de tórax: aumento silueta cardiomediastínica.
+» Ecocardiograma: derrame pericárdico grave.
+» Citología y biopsia pericárdica de ventana pericárdica: adenocarcinoma con muestra insuficiente para determinaciones moleculares
+» Tomografía computarizada (TC) toracoabdominopélvica: masa en lóbulo superior izquierdo de 80 x 20 mm, nódulo en lóbulo medio y adenopatías hiliares bilaterales y subcarinal.
+» Fibrobroncoscopia y biopsia: adenocarcinoma de pulmón EGFR negativo, ALK y ROS-1 negativos, PDL-1 5 %.
+
+Diagnóstico
+Taponamiento cardiaco. Adenocarcinoma de pulmón E-IVa (c T4N3M1a), EGFR, ALK, ROS-1 negativos, PDL-1 5 %.
+
+Tratamiento
+Dado paciente con performance status (PS) 0 tras resolución del derrame, se decide inicio de tratamiento con carboplatino-pemetrexed, que inició el 15/9/2018.
+
+Evolución
+Tras 3 ciclos, presenta enfermedad estable, completando 4 ciclos y posteriormente pemetrexed de mantenimiento, con buena tolerancia al tratamiento, sin presentar toxicidades secundarias. Tras 7 ciclos de mantenimiento, en febrero de 2019, se objetiva progresión de enfermedad pulmonar y hepática y empeoramiento clínico, con reaparición de la disnea y tos, dolor torácico y síndrome constitucional. En ese momento, se hace una secuenciación masiva en biopsia líquida que muestra la presencia de una mutación driver BRAF V600E positiva. Dado que la paciente presenta mutación de BRAF, se solicita tratamiento con dabrafenib + trametinib, y se inicia tratamiento el 15/3/2019. Desde inicio del tratamiento, la paciente presenta mejoría clínica, con desaparición de la tos y dolor torácico, mejoría de la disnea y del apetito, con ganancia de peso, sin toxicidades derivadas de tratamiento. En la última visita, en junio de 2019, tras 3 ciclos se objetiva respuesta parcial. Actualmente, la paciente ha recibido el cuarto ciclo, con excelente estado general, PS0 y buena tolerancia al tratamiento.

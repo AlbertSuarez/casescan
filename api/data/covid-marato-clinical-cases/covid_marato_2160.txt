@@ -1,0 +1,30 @@
+Anamnesis
+Varón de 58 años, sin alergias medicamentosas. Con antecedentes personales de hipertensión arterial (tratamiento dietético). Intervenido quirúrgicamente de pólipos cuerdas vocales (1990), hiperplasia benigna próstata (2003). Fumador de 20 paquetesaño.
+No tiene tratamiento habitual. En octubre 2010, consultó por náuseas, vómitos, dolor abdominal de dos meses de evolución que se acompañaba de fiebre, coluria intermitente y localización del dolor en hipocondrio derecho de 24 horas de evolución. No presenta síndrome constitucional ni otra clínica. Se diagnosticó en Urgencias de colangitis aguda, por lo que ingresó en Digestivo para tratamiento y amplificación de estudio.
+
+Exploración física
+ECOG 0. Índice de masa corporal 28 kg/m2.
+Fiebre 38,3 ºC. Discreta ictericia cutáneo-conjuntival.
+Abdomen: globuloso, molestias difusas a palpación y sensación empastamiento en hipocondrio derecho, Murphy positivo, pero blando y depresible sin irritación peritoneal. Peristaltismo normal. Resto exploración física normal. Tríada de Charcot (fiebre + ictericia + dolor hipocondrio derecho) característica de la colangitis aguda.
+
+Pruebas complementarias
+• Análisis sanguíneos (21 de febrero de 2011): creatinina 1,48 mg/dL; bilirrubina total 2,80 mg/dL; directa 1,05 mg/dL; fosfatasa alcalina 170 U/L; gammaglutamil transpeptidasa 165 U/L; 28.000 leucocitos con 24.200 neutrófilos; actividad protrombina 57%.
+• Ecografía abdominal (21 de febrero de 2011): dilatación de la vía biliar intrahepática. Extrahepática normal. Próstata aumentada de tamaño. Resto normal.
+• TC toracoabdominal (22 de febrero de 2011): dilatación aneurismática de un asa de intestino delgado (íleon) de 66 x 48 mm, con componente inflamatorio regional moderado que asciende por raíz de mesenterio donde existen adenopatías de aspecto inflamatorio reactivo. Mínima cantidad de líquido intraperitoneal adyacente. Hallazgos compatibles con tumoración ileal tipo linfoma o tumores del estroma gastrointestinal (GIST).
+• Ileocolonoscopia (1 de marzo de 2011): normal.
+• Enterorresonacia (2 de marzo de 2011): masa heterogénea de 84 mm inframesocólica en íntimo contacto con pared de íleon proximal con dilatación proximal de este lo que sugiere origen intraluminal. Sugiere como primera posibilidad un GIST con posible abscesificación.
+• Anatomía patológica:
+– Macroscopia: segmento de intestino delgado con tumoración de crecimiento vegetante e infiltrante de 6 x 5 cm que atraviesa capas musculares e infiltra mesenterio. No hay metástasis en 0 de 6 ganglios aislados. Márgenes quirúrgicos libres.
+– Microscopia: tumoración sólida, estirpe mesenquimal, que ocupa toda la pared intestinal con afectación y ulceración de la mucosa. Constituida por células de talla grande, poligonales, ovaladas y en ocasiones alargadas; con citoplasmas eosinófilos, núcleos de membrana irregular, cromatina grumosa y nucléolo patente. Se identifican numerosas figuras mitóticas, algunas de ellas atípicas. Las células neoplásicas expresan vimentina, actina y citoqueratina AE1/AE3.
+• Inmunohistoquímica (tabla I): Ki-67 positividad del 80 %. Las células neoplásicas expresan actina, vimentina y citoqueratina AE1/AE3 positivos.
+Desmina, c-kit (CD 117) y CD34 negativos.
+
+Diagnóstico
+Colangitis aguda y Leiomiosarcoma yeyunal de alto grado no GIST.
+
+Tratamiento
+Se realiza el 18 de marzo de 2011 una resección segmentaria de intestino delgado con anastomosis término-terminal manual.
+Posteriormente, valorado por Oncología Médica, se pauta quimioterapia adyuvante ifosfamida 2.500 mg y doxorrubicina 25 mg/m2 día 1, 2, 3 cada 21 días durante cuatro ciclos (27 de abril a 2 de julio de 2011).
+
+Evolución
+El paciente ha seguido controles posteriores, el último en abril de 2012, continuando asintomático y libre de enfermedad.

@@ -1,0 +1,35 @@
+Anamnesis
+Se presenta el caso de una mujer de 63 años, en tratamiento por hipertensión arterial y dislipemia, fumadora hasta hace 10 años con un índice paquete-año de 7,5. Se realizó amigdalectomía e histerectomía total por útero miomatoso. No presenta antecedentes familiares de interés, y es ama de casa.
+Su historia oncológica se inicia en 2003, tras evidenciar incidentalmente en prueba de imagen masa renal de aspecto sospechoso de malignidad. Se realiza nefrectomía radical izquierda. La Anatomía Patológica informó de carcinoma renal de células claras (CCRc), estadio II (pT2) G1 de Fuhrman. Llevó a cabo seguimientos periódicos posteriores.
+En diciembre 2009, la paciente comienza con molestias localizadas en parte anterior del cuello, palpándose nódulo tiroideo pétreo. En la ecografía se objetiva nódulo hipoecoico en lóbulo tiroideo derecho TIRADS 4. Se realiza hemitiroidectomía derecha en febrero 2010. El estudio inmunohistoquímico (IHQ) fue positivo para citoqueratina (CK) AE1-AE3, vimentina, CD56, EMA y RCC focal, y negativo para PTH, cromogranina y sinaptofisina. El Ki67 fue del 6-8 %. Esto es compatible con metástasis procedentes de CCRc.
+En 2010 se objetiva en tomografía computarizada toracoabdominopélvica (TC-TAP) dos nódulos heterogéneos en cuerpo y cola de páncreas de 11 mm, y una lesión ocupante de espacio (LOE) de 15 mm hepática, sugestivos de metástasis. Se realiza en esta misma fecha ecografía tiroidea por aumento del tamaño de lóbulo tiroideo izquierdo, objetivándose nódulo de 10 mm TIRADS 4. Por todo esto, comienza tratamiento con sunitinib el 21/06/2011. Finaliza tratamiento el 03/02/3012, tras siete ciclos. En abril de 2012, se realiza hemitiroidectomía izquierda, con resultado de metástasis tiroidea por CCRc.
+Dos años más tarde, en febrero 2014 se objetiva en TC-TAP cuatro LOE en polo inferior del riñón derecho, y una LOE en segmento hepático 4. Ante recaída local y a distancia, inicia sunitinib en febrero 2014, completando 11 ciclos de tratamiento hasta julio 2015, con enfermedad estable (persiste LOE hepática y pancreática).
+
+Exploración física
+Buen estado general. Está consciente y orientada. Normocoloreada y normohidratada. Eupneica en reposo. Afebril. Performance status 0. ORL: nódulo tiroideo pétreo en lóbulo tiroideo derecho (2009). Auscultación cardiopulmonar sin hallazgos patológicos. Abdomen blando, depresible. No es doloroso, sin palpar masas ni megalias. Miembros inferiores sin edemas ni signos de trombosis venosa profunda, con pulsos presentes.
+Neurológico: Glasgow 15, lenguaje coherente y bien articulado. Exploración por pares craneales normal. Fuerza y sensibilidad 5/5 en todos sus miembros. Sin focalidad neurológica.
+
+Pruebas complementarias
+» Ecografía tiroidea diciembre 2009: nódulo hipoecoico en lóbulo tiroideo derecho TIRADS 4.
+» TC-TAP 2010: dos nódulos heterogéneos en cuerpo y cola de páncreas de 11 mm, y una LOE de 15 mm hepática, sugestivos de metástasis.
+» Ecografía tiroidea 2010: aumento del tamaño de lóbulo tiroideo izquierdo, por nódulo de 10 mm TIRADS 4.
+» TC-TAP febrero 2014: cuatro LOE en polo inferior del riñón derecho, entre 7 y 17 mm, heterogéneas, con realce mural, compatibles con tumores renales. En el segmento hepático 4, se identifica una LOE de 16 mm en su diámetro mayor.
+» Resonancia magnética (RM) abdominal febrero 2014: cuatro LOE en polo inferior del riñón derecho, entre 7 y 17 mm, heterogéneas, con realce mural, compatibles con tumores renales. En el segmento hepático 4, se identifica una LOE de 16 mm en su diámetro mayor. Se realiza estudio dinámico, manteniéndose en el resto de la secuencia con patrón restrictivo en difusión, siendo sugestiva de implante tumoral.
+» TC-TAP octubre 2018: nódulo mamario de nueva aparición de 12 mm.
+» Eco-mamografía octubre 2018: se observa nódulo de bordes bien definidos, hipoecoico, de dureza similar al tejido mamario circundante y vascularización periférica, localizado en cuadrante supero-externo de mama derecha, con dimensiones de 18 x 17 x 8 mm (BIRADS 4).
+
+Diagnóstico
+Carcinoma renal de células claras, Fuhrman 2, estadio IV (metástasis pancreáticas, hepáticas, suprarrenales, tiroides y mamarias). Actualmente está libre de enfermedad.
+
+Tratamiento
+» 2003: nefrectomía radical izquierda.
+» 2010: hemitiroidectomía derecha.
+» 21/06/2011: sunitinib 50 mg. Tras dos ciclos, presenta respuesta completa en estudio de extensión (salvo nódulo tiroideo). Como toxicidades derivadas del tratamiento, presentó vómitos y diarrea grado 2 (G2), neutropenia, mucositis y enfermedad palmo-plantar G2, e hipertensión arterial. Por lo tanto, se redujo la dosis a 37,5 mg al cuarto ciclo de tratamiento. Finaliza tratamiento el 03/02/3012, tras siete ciclos.
+» Abril de 2012: hemitiroidectomía izquierda.
+» Febrero de 2014: ante recaída local y a distancia, inicia sunitinib, a dosis de 50 mg al día (ya que obtuvo respuesta completa en 2010, y su última dosis fue en febrero 2012). Como toxicidades derivadas del tratamiento presentó aumento del meteorismo con dolor abdominal intenso, aumento de cifras de tensión arterial, eritema y prurito G1, epistaxis leve nasal y diarrea G2 a partir de la tercera semana de tratamiento, por lo que se redujo la dosis al tercer ciclo de nuevo a 37,5 mg diarios, completando once ciclos de tratamiento hasta julio 2015, con enfermedad estable (persiste LOE hepática y pancreática).
+» Septiembre 2015: radioterapia guiada por imágenes (IGRT) con intención curativa sobre segmento 4 hepático y sobre cola de páncreas, con una dosis total de 60 Gy en cada localización, con única toxicidad de astenia G2 durante tratamiento.
+» 13/12/2018: cuadrantectomía de mama derecha.
+
+Evolución
+En los seguimientos posteriores, la paciente presenta muy buen estado general, asintomática. Hace vida normal y activa, con un intervalo sin tratamiento de cuatro años hasta octubre 2018. En este momento acude a consulta con TC-TAP de control, en la que llama la atención nódulo mamario de nueva aparición de 12 mm. En la ecomamografía se observa nódulo de bordes bien definidos, hipoecoico, de dureza similar al tejido mamario circundante y vascularización periférica, localizado en cuadrante supero-externo de mama derecha, con dimensiones de 18 x 17 x 8 mm (BIRADS 4).
+Se realiza biopsia y se envía a Anatomía Patológica, con resultado de carcinoma de células claras en paciente con antecedente de CCRc. Se remite a cirugía para exéresis de la lesión, siendo intervenida el 13/12/2018 con cuadrantectomía de mama derecha. Anatomía Patológica: metástasis por carcinoma de células claras, Fuhrman 2. La IHQ presentó positividad para CD10, PAX8 y vimentina. Límites de cuadrantectomía libres de tumor. La paciente continúa seguimiento en consultas externas de Oncología Médica con TC-TAP y analítica cada tres meses.

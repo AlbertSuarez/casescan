@@ -1,0 +1,24 @@
+Anamnesis
+Presentamos el caso clínico de una paciente mujer de 47 años, con reacción alérgica al metamizol (pirazolonas), sin hábitos tóxicos ni otros antecedentes médicos ni quirúrgicos de interés. Presenta antecedentes familiares de historia oncológica: padre con cáncer de colon, abuelo con cáncer gástrico, tía paterna con cáncer óseo y hermana con adenocarcinoma de endometrio. No refiere tratamiento médico de forma habitual.
+En enero de 2018, se le realizó cirugía ginecológica programada tras fracaso de tratamiento antibiótico por sospecha de enfermedad inflamatoria pélvica. Se objetivó un plastrón en fosa iliaca derecha incluyendo trompa derecha, ciego y apéndice, realizándose histerectomía más doble anexectomía. Los resultados de Anatomía Patológica (AP) describen un fragmento correspondiente a adenocarcinoma moderadamente diferenciado de origen intestinal que infiltra hasta la capa muscular.
+Posteriormente, en mayo de 2018, se completa cirugía oncológica mediante una hemicolectomía derecha. La AP indica adenocarcinoma con infiltración extrínseca de pared de intestino delgado, cuatro ganglios con metástasis de 8 aislados. Los márgenes quirúrgicos son libres de tumor. El estudio inmunohistoquímico no detecta perdida de expresión de proteínas reparadoras de ADN (MLH1, MSH2, MSH6 y PMS2), siendo KRAS mutado.
+Es valorada en consultas externas de Oncología en mayo de 2018, donde se actualiza estudio de extensión con un TC toracoabdominopélvica dentro de la normalidad y una discreta elevación de marcador tumoral Ca 19,9 de 75,20U/ml (< 37 U/ml) con CEA dentro de la normalidad (2,92 n g/ml [0-5,00 ng/ml]). Dados los antecedentes familiares de la paciente, se solicita valoración en Unidad Consejo Genético, objetivando mutación de ADN polimerasa (POLD-1) situado en el exón 11, detectándose la mutación c.1421T > C;p (Leu474Pro) siendo considerada patogénica.
+Por tanto, con diagnóstico de adenocarcinoma colorrectal estadio III, se planifica tratamiento adyuvante con 12 ciclos de esquema FOLFOX que completa desde 7 de junio de 2018 a 22 de noviembre de 2018.
+En diciembre de 2018, la paciente ingresa por clínica de dolor objetivándose en la TC abdominopélvica de progresión de enfermedad, con presencia de masa pélvica infiltrante de 43 mm (cúpula vaginal, recto y sigma) y numerosas adenopatías metastásicas de gran tamaño en cadenas iliacas, junto a probable infiltración venosa de ambos ejes iliacos.
+Dada la progresión tumoral de la paciente, se decide iniciar primera línea para enfermedad metastásica con esquema FOLFIRI-bevacizumab. Tras el 4º ciclo (finales de febrero de 2019), ingresa por dolor y sospecha de fistula enterovaginal, por lo que se actualiza el estudio de extensión objetivándose progresión de enfermedad.
+
+Exploración física
+La paciente presentaba buen estado general con ECOG 1 (por dolor abdominopélvico).
+
+Pruebas complementarias
+En estudio de marzo de 2019 por TC, se objetiva progresión de enfermedad por aparición de metástasis pulmonares, aparición de adenopatías retroperitoneales superiores y crecimiento de las adenopatías preexistentes. Se identifica infiltración del recto sigma y de la pared posterolateral de vejiga que condiciona ureterohidronefrosis grado III derecha, implante en cúpula vaginal y presencia de fístula recto-vaginal.
+En la analítica sanguínea de marzo de 2019, se observó elevación de los marcadores tumorales con de CEA 5,99 ng/ml (0-5,00 ng/ml) y Ca 19,9 de 3.376,35 U/ml (< 37 U/ml).
+
+Diagnóstico
+Adenocarcinoma de colon derecho pT4bN2aM1 RAS mutado POLD-1 mutado.
+
+Tratamiento
+Ante rápida progresión de enfermedad, la paciente precisa ajuste analgésico con dosis altas de mórficos y se realiza colostomía paliativa en marzo de 2019 por presencia de fístula enterovesical activa.
+
+Evolución
+Hasta la fecha, la paciente ha recibido 5 ciclos de nivolumab con beneficio clínico (control del dolor) desde el primer ciclo, sin presentar hasta la fecha toxicidad significativa. Tras la administración del 5º ciclo, se realizó TC de reevaluación (mayo de 2019), que objetiva respuesta parcial mayor, con una significativa reducción de tamaño de conglomerados adenopáticos paraaórticos y de adenopatías mesentéricas, así como mejoría de la afectación rectosigmoidea. No se observan actualmente datos de uropatía obstructiva.

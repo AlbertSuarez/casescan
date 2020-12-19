@@ -1,0 +1,35 @@
+ANAMNESIS
+Se trata de un paciente de sexo masculino de 60 años de edad, con antecedentes personales de hipertensión arterial, dislipemia, ataque isquémico transitorio (AIT, 06/2018), fumador (con un índice paquete/año de 66), y en cuanto a su ocupación es trabajador de la madera. Respecto a su historia oncológica, se realizó exéresis por carcinoma epidermoide de suelo de boca estadío I (T1N0M0) en mayo 2014, con resección completa y posterior seguimiento por Otorrinolaringología.
+En junio 2018, durante ingreso hospitalario por AIT, se observa de forma incidental en radiografía de tórax lesión pseudonodular en base pulmonar derecha de nueva aparición. Se completa el estudio con Tomografía Axial Computarizada (TAC), en la que se confirma la lesión, que presenta un tamaño de 14 mm. Con estos hallazgos se remite a Cirgía Torácica para valorar actitud.
+
+EXPLORACIÓN FÍSICA
+- Performance Status 0, Peso 81 kilogramos, Talla 160 centímetros, Índice de Masa Corporal 31’64 kg/m², Superficie corporal 1’84 m².
+- Buen estado general. Consciente y orientado en las tres esferas. Normocoloreado, normohidratado y normoperfundido. Eupneico en reposo. Afebril.
+- Auscultación cardio-pulmonar: Tonos cardiacos rítmicos sin soplos. Murmullo vesicular conservado con crepitantes bibasales.
+- Abdomen, miembros inferiores y sistema neurológico: Sin hallazgos patológicos.
+
+PRUEBAS COMPLEMENTARIAS
+1. Analítica Sanguínea: Sin hallazgos significativos.
+2. Serologías negativas.
+3. Radiografía de tórax 06.06.2018: Lesión pseudonodular subpleural en pulmón derecho que no se ve en el estudio previo, compatible con interposición de partes blandas dada su morfología y situación.
+4. Tomografía Axial Computarizada (TAC) de tórax 06.2018: Nódulo subpleural en segmento superior de lóbulo inferior derecho de 14 mm.
+5. Tomografía por Emisión de Positrones (PET) 09.2018: En segmento superior de lóbulo inferior derecho se identifica nódulo pulmonar subpleural hipermetabólico (13 mm y Valor estandarizado de captación (SUV) máximo 4’8), que no permite descartar malignidad.
+6. Pruebas de Función Respiratoria:
+- Capacidad Vital Forzada (FVC) 90%,
+- Volumen Espiratorio Forzado en primer segundo (FEV1) 1,65 (62.2%),
+- Índice de Tiffenau 55%,
+- Capacidad de Difusión pulmonar (DLCO) 81%,
+- Volumen respiratorio (VR) 170%.
+
+EVOLUCIÓN
+Ante nódulo subpleural sin poder descartar malignidad, se presenta el caso en el Comité de Tumores, y se remite al paciente a Cirugía Torácica. Se interviene el día 26/11/2018, mediante resección transegmentaria del segmento 6 del pulmón derecho.
+El examen histopatológico describe: tumoración bien delimitada, fusocelular con estroma mixoide y acompañado de infiltrado inflamatorio linfoplasmocitario. El tumor engloba estructuras alveolares en su crecimiento. La celularidad tumoral no presenta atipias ni mitosis. Pleura y margen de resección, libres de infiltración tumoral 
+
+El estudio inmunohistoquímico del tumor es
+- Positivo para Vimentina y Actina músculo liso (parcheada).
+- Negativo para ALK, Desmina y S100, CD34, CD31, HMB45, CK AE1/AE3 y CK7.
+- Ki 67: 3%
+
+JUICIO DIAGNÓSTICO
+Tumor Miofibroblástico inflamatorio de pulmón ALK negativo con resección completa.
+Actualmente en seguimiento.

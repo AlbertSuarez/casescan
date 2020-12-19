@@ -1,0 +1,36 @@
+Anamnesis
+Varón de 45 años, que acude a Urgencias en diciembre de 2014 por presentar dolor torácico de un mes de evolución. El dolor es continuo, no relacionado con movimientos, aunque sí aumenta con el decúbito lateral. No se acompaña de clínica vegetativa. No refiere traumatismo previo ni sobreesfuerzo. Presenta tos, con expectoración blanquecina.En la actualidad, se encuentra en tratamiento con cefuroxima por una infección de vías respiratorias altas.
+
+Como antecedente de interés, destaca la resección de un quiste mediastínicoa los 7 años (posible teratoma; no aporta informes, y no se ha realizado seguimiento), sin otras patologías conocidas. Es fumador de 10 cigarrillos/día. No refiere antecedentes familiares destacables.
+
+Exploración física
+Paciente consciente y orientado. Hidratado. Normal coloración cutánea y de mucosas. Eupneico. Colabora. Tórax: cicatriz de incisión de toracotomía lateral derecha. Auscultación cardíaca: tonos rítmicos; no soplos. Auscultación pulmonar: murmullo vesicular conservado en ambos campos (plano posterior). Murmullo vesicular disminuido en el campo pulmonar izquierdo (plano anterior). Abdomen: blando y depresible; no doloroso a la palpación; hepatomegalia de dos traveses de dedo. Miembros inferiores y superiores: sin alteraciones.
+
+Pruebas complementarias
+» ECG: ritmo sinusal a 75 lpm, eje QRS a 60º, sin alteraciones en la repolarización.
+» Analítica: sin alteraciones destacables (hemograma, bioquímica, coagulación).
+» Radiografía de tórax: masa en la región anterior del campo pulmonar izquierdo, ocupando prácticamente su totalidad.
+» Desde el Servicio de Urgencias se solicita la realización de una TC urgente torácica, en la que se describe una masa en el mediastino anterior de 10 x 12 x 12 cm, que impronta hacia el hemitórax izquierdo, con múltiples formaciones esféricas en su interior, además de calcificaciones irregulares en sus paredes. Produce un efecto compresivo, condicionando atelectasia en el parénquima adyacente.
+» En los cortes axiales abdominales adquiridos se identifican múltiples lesiones focales hepáticas.
+Con estos hallazgos, se diagnostica de hidatidosis como primera posibilidad, sin poder descartar un proceso neoformativo, por lo que el paciente ingresa en Medicina Interna para continuar el estudio diagnóstico.
+» Se amplia el estudio con una TC abdominal, donde se objetivan múltiples lesiones focales hepáticas de aspecto necrótico y realce periférico, distribuidas prácticamente por todo el parénquima hepático. Adenopatías en el ligamento gastrohepático de hasta 8 mm. Páncreas, bazo, glándulas suprarrenales y ambos riñones sin hallazgos. No se identifica líquido libre ni afectación en el marco óseo evaluado.
+» Desde el servicio de Radiología se sugieren lesiones compatibles con teratoma con degeneración maligna, con metástasis hepáticas.
+» Gammagrafía ósea: no se objetivan lesiones óseas sugerentes de metástasis.
+» Marcadores tumorales (AFP, B-HCG): normales.
+
+Diagnóstico
+Una vez realizadas las pruebas de imagen descritas, y con el resultado de la anatomía patológica, se cataloga como teratoma maligno mediastínico estadio IV (metástasis hepáticas).
+
+Tratamiento
+En enero de 2015 el paciente es trasladado a la planta de Oncología para inicio de tratamiento quimioterápico. Se decide tratamiento según el esquema BEP en pauta trisemanal (cisplatino 20 mg/m2, días 1 a 5, etopósido 100 mg/m2, días 1 a 5, bleomicina 30 mg, días 2, 9 y 16), del que recibe tres ciclos. Es necesario el ajuste de dosis por toxicidad hematológica.
+
+Evolución
+Durante la administración de los ciclos de tratamiento quimioterápico, el paciente sufre varios episodios infecciosos, de foco respiratorio, que ocasionan su ingreso en la planta de Oncología por sepsis e insuficiencia respiratoria, condicionando retrasos en la administración de los ciclos.
+
+En las radiografías de tórax de control realizadas se objetiva un aumento de la masa mediastínica, por lo que, tras el tercer ciclo, se realiza estudio de reevaluación mediante TC toracoabdominopélvica. En él se confirma el aumento de la masa mediastínica en 1 cm,pero se objetiva una respuesta parcial de las lesiones hepáticas.
+
+Debido a las complicaciones ocasionadas por la masamediastínica (dolor, insuficiencia respiratoria, infecciones con necesidad de ingreso para antibioterapia), además de riesgo de rotura de la lesión, y ante la respuesta de las lesiones hepáticas, se valora el caso con el Servicio de Cirugía Torácica para plantear una resección de la masa mediastínica. Se decide la administración de un cuarto ciclo previo a la cirugía y posterior intervención quirúrgica.
+
+Se interviene sin incidencias el día 28 de abril mediante esternotomía media, resecando completamente la masa mediastínica, descrita en el acto quirúrgico como una masa anterior de unos 15 cm, de contenido mucinoso y material denso en su interior. La anatomía patológica de la lesión es compatible con teratoma quístico necrótico.
+
+El paciente ha presentado un postoperatorio sin complicaciones. En este momento se encuentra completando quimioterapia con quinto y sexto ciclos de BEP, a la espera de la TC de reevaluación.

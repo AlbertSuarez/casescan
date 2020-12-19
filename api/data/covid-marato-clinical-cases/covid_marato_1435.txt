@@ -1,0 +1,35 @@
+Anamnesis
+Paciente de 50 años que acude al Servicio de Urgencias del hospital por pérdida de visión en el ojo izquierdo. Ante la sospecha de desprendimiento de retina, es derivada a un hospital de referencia para estudio oftalmológico. Entre sus antecedentes personales destaca un hemangioblastoma cerebeloso intervenido quirúrgicamente a los 14 años y amaurosis del ojo derecho. En cuanto a hábitos tóxicos, la paciente era fumadora y bebedora. Alérgica a penicilinas. No tiene antecedentes familiares de cáncer.
+En consulta de Oftalmología, la paciente fue examinada objetivándose por fondo de ojo una lesión en cuadrante inferonasal del ojo izquierdo, con desprendimiento de retina acompañante, que se confirmó con ecografía ocular.
+
+Exploración física
+» Buen estado general. Normohidratada y normoperfundida. Eupneica en reposo.
+» Consciente, orientada y colaboradora. Auscultación cardiorrespiratoria: tonos rítmicos sin soplos auscultables. Murmullo vesicular conservado.
+» Abdomen blando y depresible. No es doloroso. Sin masas ni megalias. Sin signos de defensa ni peritonismo. Ruidos hidroaéreos conservados y normales.
+» Miembros inferiores sin edemas y pulsos conservados.
+
+Exploración neurológica
+» Amaurosis derecha. Movimientos oculares extrínsecos conservados. Pares craneales conservados. Sin pérdidas de fuerza y sensibilidad en ninguno de los cuatro miembros. Reflejos osteotendinosos simétricos y normales. Sin dismetrías ni disdiadococinesia. Romberg negativo.
+
+Exploración oftalmológica
+» Agudeza visual: ojo derecho 0,15/ojo izquierdo 0,5
+» Fondo de ojo: en ojo izquierdo se observa desprendimiento de retina inferonasal con masa subretiniana.
+» Presión intraocular: ojo derecho 12 mm Hg/ojo izquierdo 19 mm Hg.
+
+Pruebas complementarias
+Ante los hallazgos de la exploración oftalmológica se realizaron una RM de órbita y una PET-TC de cuerpo entero.
+RM de órbita: se observa una lesión focal de aproximadamente 10,9 x 9,5 x 6,4 cm en el suelo anterior del globo ocular izquierdo que presenta señal intermedia en T1 y ligera hiperintensidad en T2 con algún foco central de posible cavitación/necrosis, y que se asocia a un desprendimiento retiniano de la pared posterior del globo ocular. Presenta intenso realce periférico con contraste iv. Es compatible con lesión tumoral sólida de origen desconocido. No parece compatible con hemangioma.
+PET-TC de cuerpo entero: se observaron varios focos hipermetabólicos sugestivos de actividad tumoral en globo ocular izquierdo, en suprarrenal izquierda, riñón izquierdo y múltiples micronódulos pulmonares que no captaban FDG.
+Dados los hallazgos de estas pruebas se procedió a la filiación del proceso neoplásico mediante la toma de biopsias de tres de los micronódulos pulmonares por video-toracoscopia.
+El resultado anatomopatológico fue el siguiente: metástasis de carcinoma renal de células claras.
+
+Diagnóstico
+Carcinoma renal de células claras metastásico.
+
+Tratamiento
+Tras el diagnóstico anatomopatológico de las lesiones pulmonares, y dada la duda que presentaban las masas por el estudio de PET (primario renal con metástasis suprarrenal vs. primario suprarrenal), se decidió la realización de nefrectomía radical izquierda, suprarrenalectomía izquierda y linfadenectomía izquierda. La Anatomía Patológica de la lesión renal y suprarrenal confirmó del diagnóstico de carcinoma renal de células claras que, además, presentaba componente rabdoide y sarcomatoide.
+Dada la presencia de enfermedad a distancia (lesión tumoral coroidea sintomática de dudoso origen y la presencia de micronódulos pulmonares), se decidió en comité multidisciplinar comenzar tratamiento con sunitinib 50 mg cada 24 horas en ciclos de 4/2. La tolerancia a sunitinib fue buena durante los primeros ciclos, disminuyendo la sintomatología de dolor retroocular asociada a la tumoración sólida coroidea, lo que hizo sospechar que se tratase de una metástasis coroidea de su cáncer renal. No se decidió la enucleación debido a que era el único ojo funcional que le quedaba a la paciente.
+
+Evolución
+La paciente continuó el tratamiento con sunitinib presentando hipertensión y náuseas al cabo de algunos ciclos que se controlaron adecuadamente con la medicación correspondiente. En una PET de control realizada tras 4 meses de tratamiento con sunitinib, se objetiva una respuesta completa de la enfermedad, tanto a nivel de los micronódulos pulmonares, como de la tumoración coroidea. Esta regresión de la tumoración coroidea fue confirmada por la exploración oftalmológica. Dados los antecedentes de hemangioblastoma cerebeloso junto a la existencia de un tumor renal de reciente diagnóstico, se realizaron estudios genéticos para síndrome de Von-Hippel-Lindau que fueron negativos, tanto en la detección de las mutaciones habituales, como en la secuenciación del exoma del mismo. Sin embargo, a pesar de ello, la paciente cumple criterios clínicos de síndrome de Von-Hippel-Lindau.
+Nuestra paciente, continuó tratamiento durante 1 año más con sunitinib hasta que ingresó por Urgencias por un cuadro de hematemesis, melenas y coagulopatía de consumo en el contexto de una sepsis por bacteroides. Se realizó una TC abdominal urgente que reveló una peritonitis en el contexto de una perforación gástrica. Dado el altísimo riesgo quirúrgico junto a las escasas posibilidades de éxito que tanto cirugía como anestesia vieron a la situación, las voluntades anticipadas de la paciente y los deseos de la familia, finalmente, se iniciaron medidas de confort.

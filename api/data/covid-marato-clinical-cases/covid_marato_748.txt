@@ -1,0 +1,32 @@
+Anamnesis
+Varón de 71 años, actualmente sin antecedentes familiares oncológicos. Niega reacciones alérgicas medicamentosas. Exfumador. Hipertensión arterial y dislipemia. Infarto agudo de miocardio en abril de 2014. En tratamiento crónico con enalapril, bisoprolol, clopidogrel y AAS.
+
+Diagnosticado en el año 2000 de un melanoma de muslo derecho T1N0M0 con índice de Breslow de 3mm resecado, sin tratamiento complementario. En 2003 presenta recurrencia local, tratado de nuevo mediante exéresis con injerto sobre el mismo área.
+
+En abril de 2011 comienza con molestias abdominales e ingresa en el Servicio de Cirugía General ante sospecha diagnóstica de invaginación intestinal por tomografía computarizada (TC) y ecografía abdominal. Se realiza una resección intestinal con anastomosis latero-lateral, encontrando a 40 cm del ángulo de Treiz una invaginación completa causada por dos lesiones del intestino delgado, una de 4 cm y otra de 3 cm, con anatomía patológica compatible con metástasis de melanoma, por lo que se solicita consulta en Oncología Médica para valoración de tratamiento.
+
+Exploración física
+Índice de Karnofsky 90%. Peso 78 kg. Talla 170 cm. Vitíligo en región dorsolumbar y cuello. No presenta adenopatías periféricas palpables. Auscultación cardiaca: ruidos cardiacos rítmicos sin soplos audibles. Auscultación pulmonar: normal. Abdomen con cicatrices de laparotomía, sin organomegalias ni masas palpables. Extremidades inferiores con cicatriz de injerto en el muslo derecho sin signos de recidiva local.
+
+Pruebas complementarias
+Anatomía patológica de resección cutánea (15/6/2000): tumoración melanocítica atípica, fundamentalmente fusiforme con índice mitótico moderado. En la zona central, la lesión es predominantemente nodular, observándose infiltración periférica radial en unión dermoepidérmica, no alcanzando los bordes quirúrgicos. Estadio IV de Clark. 3 mm de espesor de Breslow.
+
+TC toracoabdominal (28/4/2011): en el yeyuno proximal, a 20 cm del Treiz, se objetiva una imagen en diana compatible con invaginación intestinal que condiciona obstrucción y dilatación del yeyuno y del duodeno proximal. Ganglios menores de 1 cm en grasa mesentérica. Resto del estudio sin hallazgos.
+
+Analítica en junio de 2011: hemoglobina 10 g/dL; leucocitos 4.500 con fórmula normal; plaquetas 150.000. LDH 186. Bioquímica con función renal, iones y función hepática normal.
+
+Diagnóstico
+Recidiva peritoneal de un melanoma de muslo derecho negativo para mutación BRAF.
+
+Tratamiento
+Inicialmente se realiza la intervención quirúrgica ante la sospecha de invaginación intestinal visualizada en la TC y ecografía abdominal, encontrando durante la intervención los dos implantes tumorales. Se hizo resección de los mismos, confirmando la anatomía patológica metástasis de melanoma y cuatro ganglios linfáticos mesentéricos sin metástasis. Índice mitótico elevado (ki67 > 20%), c-kit positivo débil focal y mutación BRAF negativa.
+En la tomografía de emisión de positrones (PET), tras la resección de la recidiva intestinal, se aprecia un único nódulo mesentérico de 3 cm con captación patológica compatible con afectación metastásica, y se inicia primera línea de tratamiento con fotemustina durante tres meses, presentado únicamente como toxicidad leucopenia.
+
+Evolución
+Ante respuesta parcial a fotemustine, se decide intentar un nuevo rescate quirúrgico de la lesión en octubre de 2011. Durante la intervención, se objetiva, además, un bloque adenopático en el ángulo de Treiz que fue irresecable, por lo que, en noviembre de 2011, se inicia una segunda línea de tratamiento con ipilimumab 3 mg/kg cada 21 días por cuatro ciclos, presentando como toxicidades leve síndrome pseudogripal y toxicidad hepática grado 2. En la TC, tras cuatro ciclos de inducción, se observa respuesta parcial del implante peritoneal. Mantiene la respuesta hasta noviembre de 2012, momento en el que hay un aumento de 2 cm de la metástasis peritoneal y aparición de una adenopatía peritumoral, por lo que se hace una reinducción con ipilimumab progresando durante la misma.
+
+En marzo de 2013 se envía a un centro de referencia para realizar un rescate quirúrgico de la lesión mediante resección del yeyuno proximal sin signos de tumor residual y con anatomía patológica compatible con metástasis de melanoma, sin recibir en ese momento tratamiento adyuvante.
+
+En noviembre de 2013 comienza con clínica de sinusitis y epistaxis, por lo que fue valorado en consulta de Otorrinolaringología y se detectó una formación polipoidea en la mucosa nasal que fue extirpada y era compatible con metástasis de melanoma c-KIT y BRAF negativo. En junio de 2014, sufre una nueva recidiva en fosa nasal derecha y recibe tratamiento radioterápico en esa zona mediante Radioterapia de Intensidad Modulada (IMRT).
+
+Estando en seguimiento, en la TC de control en enero de 2015 se observa progresión tumoral pulmonar bilateral sin más hallazgos a otros niveles, por lo que se inicia nueva línea de tratamiento con pembrolizumab 10 mg/kg cada 3 semanas, actualmente en respuesta parcial de los nódulos pulmonares en TC de control de mayo de 2015.

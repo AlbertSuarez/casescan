@@ -1,0 +1,21 @@
+Anamnesis
+Se trata de un paciente varón de 43 años con antecedentes patológicos de un tumor germinal intervenido y tratado con quimioterapia adyuvante hace > 20 años y hepatitis B en el año 2015. El paciente consulta a Urgencias por dolor anal, tendencia al estreñimiento y hematoquecia de 3 semanas de evolución.
+
+Exploración física
+En la exploración física destaca la presencia de una tumoración a 4 cm del margen anal en el tacto rectal.
+
+Pruebas complementarias
+Con la sospecha de neoplasia de recto, se completa el estudio con colonoscopia, que objetiva una lesión proliferativa exofítica, ulcerada, sugestiva de neoplasia rectal, no estenosante.
+En la TC se informa de la presencia de un engrosamiento de aspecto tumoral en las paredes de tercio medio de recto con signos de infiltración de la grasa y múltiples adenopatías perirrectales, así como a nivel retroperitoneal. La resonancia magnética confirma el engrosamiento parietal rectal asociado a una afectación adenopática locorregional.
+En el estudio histológico de la biopsia de la masa rectal no se observan células con rasgos de malignidad, con una mucosa cólica distorsionada y aumento del infiltrado inflamatorio crónico. Se cursan estudios de inmunohistoquímica para citomegalovirus y treponema, siendo ambos negativos.
+Ante la sospecha de etiología infecciosa se realiza frotis uretral y rectal, con detección de ácidos nucleicos positivo para Chlamydia trachomatis.
+
+Diagnóstico
+Se concluye así que se trata de un linfogranuloma venéreo de presentación rectal causado por C. trachomatis.
+Durante el estudio del cuadro se realiza una analítica sanguínea que evidencia una transaminitis grado 4 (AST 2497U/l-límite superior de la normalidad 37U/l) e hiperbilirrubinemia grado 3 (bilirrubina total de 106 μmol/l-límite superior de la normalidad 17 μmol/l). Se cursan serologías, siendo la determinación de la IgM para virus hepatitis A positiva (hepatitis B, hepatitis C, VIH y lúes negativas), orientándose como una primoinfección por hepatitis A concomitante al cuadro de linfogranuloma venéreo.
+
+Tratamiento
+Se inicia tratamiento antibiótico con doxiciclina (100 mg cada 12 horas) un total de 3 semanas.
+
+Evolución
+En los controles posteriores se objetiva una normalización progresiva del perfil hepático, así como desaparición de la clínica anal. En la colonoscopia de control a los 3 meses del tratamiento, se observa mejoría del grado de inflamación.

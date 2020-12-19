@@ -1,0 +1,45 @@
+Anamnesis
+Mujer de 29 años, sin alergias medicamentosas conocidas, fumadora y bebedora social, obesidad grado 3 (Índice de Masa Corporal 36). Sin tratamiento habitual. Abuela materna fallecida a los 78 años con diagnóstico de neoplasia uterina.
+
+Acude a Urgencias en julio de 2014 por dolor precordial de mayor intensidad con el decúbito supino y la inspiración profunda que mejora con la inclinación hacia delante. Se realiza ecocardiograma transesofágico (ETT) que objetiva derrame pericárdico moderado-severo precisando ingreso y pericardiocentesis evacuadora con citología negativa para malignidad.
+
+En agosto de 2014 consulta de nuevo por cuadro de epigastralgia, náuseas y disnea progresiva documentándose en un nuevo ETT derrame pericárdico muy severo con compromiso hemodinámico. Requiere nuevo ingreso y pericardiocentesis evacuadora con citología negativa para malignidad. Durante este ingreso, una tomografía computarizada (TC) corporal descarta la presencia de imágenes sugestivas de proceso neoplásico.
+
+Un nuevo episodio de derrame pericárdico severo con compromiso hemodinámico y disnea progresiva en septiembre de 2014 precisa pericardiocentesis evacuadora asociada en esta ocasión a realización de ventana pericárdica y biopsia por videotoracoscopia (VATS). El informe anatomopatológico resulta sin evidencia de malignidad. Se lleva a cabo una nueva TC corporal que describe una masa mediastínica anterior de 3,8 x 2 cm, derrame pleural izquierdo de importante cuantía, defecto de repleción de 3 cm en orejuela derecha de probable orígen pericárdico y una lesión hipodensa en el lóbulo hepático derecho (LHD) de 1,8 cm.
+En una radiografía de tórax de control en octubre de 2014 se objetiva derrame pleural izquierdo masivo con desviación contralateral del mediastino que precisa de drenaje pleural con colocación de tubo de tórax.
+
+Exploración física
+ECOG 1. Frecuencia cardiaca 104 lpm. Hemodinámicamente estable. Buen estado general. Obesa. Discreta palidez de piel y mucosas. Presión venosa yugular no valorable por morfología cervical ancha. A la auscultación cardiopulmonar únicamente destaca hipofonesis en base pulmonar derecha. En extremidades inferiores presenta edema sin fóvea hasta las rodillas. El resto del examen físico es anodino.
+
+Pruebas complementarias
+Ingresa el 14/10/2014 de nuevo en el Servicio de Cardiología:
+» Hemograma, bioquímica básica, troponinas y coagulación (14/10/2014): Hb 10,5 g/dL; resto: dentro de la normalidad.
+» Perfil bioquímico, alfafetoprotenía, beta-hCG, hormonas tiroideas (27/10/2014): LDH 377 U/L; resto: dentro de la normalidad.
+» Inmunología (24/10/2014): ANA, anti-DNA nativo y anti-sm negativos.
+» Bioquímica del líquido pleural (29/10/2014): glucosa 71 mg/dL; LDH 319 U/L; proteínas totales 4 g/dL; ADA 54 U/L.
+» Citología del líquido pleural (16/10/2014): sin evidencia de malignidad.
+» Biopsia de grasa mediastínica y pleural por VATS (16/10/2014): hiperplasia linfoide tímica y pleuritis fibrosa eosinofílica con hiperplasia mesotelial.
+» TC corporal (24/10/2014): engrosamiento nodular pericárdico que engloba los vasos principales e infiltra aurícula derecha, tres lesiones ocupantes de espacio hepáticas sugestivas de metástasis y metástasis óseas múltiples.
+
+En busca de diagnóstico histológico se realizan:
+» Biopsia de médula ósea (30/10/2014): sin evidencia de infiltración neoplásica.
+» Biopsia hepática guiada por ecografía (05/11/2014): Proliferación celular formada por células cohesivas que forman estructuras canaliculares simples y complejas con intensa atipia celular y numerosas mitosis. Infiltración por angiosarcoma (CD 31 y CD 34 positivos; CD3 y CD20 negativos).
+
+Dados los resultados se traslada al Servicio de Oncología Médica el 5/11/2014, estando clínicamente asintomática.
+
+Diagnóstico
+Angiosarcoma de probable orígen pericárdico estadio IV por afectación hepática y ósea.
+Derrame pericárdico de repetición de probable etiología tumoral.
+Derrame pleural izquierdo masivo.
+
+Tratamiento
+A su llegada al Servicio de Oncología Médica, se presenta el caso en el Comité Multidisciplinar de Sarcomas donde se decide inicio de tratamiento quimioterápico con intención paliativa.
+
+Se administra primera dosis del primer ciclo de paclitaxel semanal a dosis de 80 mg/m2 sin incidencias, por lo que la paciente es dada de alta a domicilio con seguimiento ambulatorio.
+
+Evolución
+Completa un total de cuatro ciclos de paclitaxel semanal finalizando el 02/03/2015 con buena tolerancia y respuesta clínica evidente sin nuevos episodios de derrame pericárdico.
+
+En la TC corporal de reevaluación (16/03/2015) se objetiva estabilidad del engrosamiento pericárdico con infiltración de la aurícula derecha que engloba a los principales vasos y comprime el tronco de la arteria pulmonar, aumento en número y tamaño de metástasis hepáticas siendo la mayor de ellas de 85 x 40 mm en LHI, así como múltiples imágenes hipodensas en palas ilíacas, sacro y vértebras lumbares en probable relación con metástasis óseas ya presentes y estables respecto a estudio previo.
+
+En vista de la clara progresión hepática, se inicia nueva línea de quimioterapia con doxorrubicina a dosis de 75 mg/m2 de la que ha recibido hasta ahora un total de dos ciclos (el último el 13/5/2014) con toxicidad en forma de anemia grado 3 que requirió retraso de la segunda administración.

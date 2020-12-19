@@ -1,0 +1,30 @@
+Anamnesis
+Mujer de 51 años que consulta en abril de 2015 a su médico de Atención Primaria por autopalpación de nódulo indoloro en la mama izquierda, según refiere, de un año de evolución, por lo que es remitida al servicio de Ginecología para estudio.
+Antecedentes Personales: No antecedentes médico-quirúrgicos de interés. Anticonceptivos orales durante 8 años.
+
+Exploración física
+A la exploración física la paciente presenta marcada asimetría mamaria. La mama derecha es de aspecto normal mientras que en la izquierda se palpa tumoración fija y dura de aproximadamente 10cm, adherida a planos profundos y muy cercana a la piel. No se palpan adenopatías axilares.
+
+Pruebas complementarias
+» Mamografía bilateral (14/04/2015): En mama izquierda se identifica masa de 8 cm de bordes mal definidos.
+» Ecografía de mama bilateral (14/04/2015): Masa hipoecoica, heterogénea de contenido sólido que impronta sobre el complejo de areola-pezón, con aparente infiltración. No se identifican adenopatías.
+» RMN de mama (03/05/2015): Masa de 8 cm localizada en cuadrantes internos de mama izquierda, hipervascular, con marcado realce y con afectación cutánea. Lesión de 18mm en cuadrantes supero-internos de mama contralateral de aspecto similar. Ganglios axilares bilaterales inespecíficos.
+» TAC tóraco-abdómino-pélvico (07/05/2015): Sin evidencia de enfermedad a distancia.
+» Marcadores tumorales (07/05/2015): CEA 1.8, CA 15-3 5.4.
+
+Diagnóstico
+Mama derecha: Angiosarcoma (CD34+, CD31+).
+Mama izquierda: Angiosarcoma (CD34+, CD31+) HHV8 negativo. Ausencia de mutación en k-RAS y NRAS. Ki67 25%.
+Angiosarcoma primario bilateral de mama.
+
+Tratamiento
+Se realiza en un primer tiempo (26/05/2015), mastectomía simple de mama izquierda y cuadrantectomía de mama derecha, decidiéndose, posteriormente, realizar mastectomía derecha por márgenes insuficientes (23/06/2015). 
+AP: Angiosarcoma (Expresión CD31 y CD34). Ki67 20-25%. Grado 2. No permeación vascular ni infiltración perineural.
+El caso es presentado en el comité de tumores de mama decidiéndose que, dada la histología, la paciente sería candidata a tratamiento de radioterapia adyuvante por lo que se lleva a cabo, realizándose sobre hemitórax izquierdo debido al tamaño del tumor.
+Se decide no administrar tratamiento de quimioterapia adyuvante debido al escaso beneficio esperado.
+
+Evolución
+Se inicia seguimiento de la paciente. En el primer TAC realizado para reevaluación el 20/09/2015 se observa aparición de lesiones hepáticas en segmento VI y VII y otra de mayor tamaño en segmento VI.
+En este momento se decide inicio de primera línea de quimioterapia para enfermedad avanzada con Paclitaxel 80mg/m2 días 1, 8 y 15 cada 28 días, que comienza el 16 de octubre de 2015. Tras cuatro ciclos de tratamiento, se realiza el 31 de enero de 2016, TAC toraco-abdómino-pélvico, donde se observa persistencia de las lesiones hepáticas descritas previamente, pero con mayor contenido necrótico en su interior lo que podría traducirse en respuesta parcial al tratamiento. La paciente presenta buena tolerancia al tratamiento, aunque con neurotoxicidad grado 1.
+Tras la administración de 7 ciclos se realiza el 22 de abril de 2016, nuevo TAC tóraco-abdomino-pélvico donde se aprecia discreta progresión de enfermedad a nivel hepático con dos lesiones esplénicas de nueva aparición.
+Se decide completar el estudio molecular del tumor con el fin de realizar tratamiento dirigido, no observándose reordenamiento de ALK ni inestabilidad de microsatélites, presentando amplificación de MET en tan solo un 10%. Se inicia nueva línea de tratamiento con doxorrubicina liposomal pegilada en mayo de 2016

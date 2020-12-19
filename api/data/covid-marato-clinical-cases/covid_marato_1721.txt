@@ -1,0 +1,30 @@
+Anamnesis
+Varón de 18 años de edad, sin antecedentes, inició estudio en mayo 2007 por síndrome constitucional, con pérdida ponderal de 5 kg, dolor en hipocondrio derecho de 4 meses de evolución y hepatomegalia.
+La tomografía computarizada (TC) confirmó un tumor hepático primario de 12 cm, con satelitosis, infiltración suprarrenal derecha y adenopatías retroperitoneales, sin metástasis. Se intervino realizando hepatectomía derecha, colecistectomía, suprarrenalectomía derecha y linfadenectomía.
+El estudio patológico mostró hepatocarcinoma fibrolamelar (FLC) de 12 cm con patrón multinodular, satelitosis, necrosis y calcificación, sobre hígado no cirrótico y 1 adenopatía metastásica.
+Ante resección completa, no recibió adyuvancia, iniciando seguimiento. En control, 15 meses post-cirugía, estando asintomático, presentó:
+
+Examen físico
+Performance Status = 0. Sin hallazgos.
+
+Pruebas complementarias
+Hemograma, hemostasia y bioquímica normales, salvo GPT 82 UI/l y GGT 168 UI/l. Marcadores tumorales negativos.
+AFP 2,2 ng/ml.
+Tomografia computarizada toracoabdominopélvica (TC T-A-P): 2 nódulos sólidos de 1,5 cm en pulmón izquierdo.
+Hígado sin lesiones. Masa retroperitoneal heterogénea de 11 x 9 cm. Adenopatías retrocrurales. 
+Biopsia de masa retroperitoneal positiva para hepatocarcinoma fibrolamelar (FLC).
+
+Diagnóstico
+Recidiva pulmonar y retroperitoneal irresecable de hepatocarcinoma fibrolamelar.
+
+Tratamiento
+Se decidió tratamiento con esquema pediátrico de cisplatino-doxorrubicina, según protocolo INT-0098 (1).
+Entre diciembre de 2008 y abril de 2009 completó 6 ciclos con buena tolerancia, consiguiendo respuesta parcial, con reducción de la masa (4,5 x 2 cm).
+Siguió mantenimiento con sorafenib 400 mg c/12 h con enfermedad estable hasta abril de 2010, donde presentó progresión retroperitoneal, pautándose sunitinib a 37,5 mg/día.
+
+Evolución
+En mayo de2010 presentó suboclusión intestinal por compresión duodenal extrínseca que requirió gastroyeyunostomía.
+Posteriormente, inició gemcitabina-oxaliplatino por dos ciclos, suspendido en julio de 2010 por deseo del paciente. El 24/7/10 acudió por infección respiratoria baja; inició levofloxacino 500 mg c/24 h por 10 días. La función hepática era normal en ese momento. No llevó otro tratamiento farmacológico.
+Al finalizar antibioterapia, en agosto de 2010 ingresó por ictericia progresiva con LDH elevada y serologías negativas. Se descartó anemia hemolítica, y progresión hepática u obstrucción biliar por TC y resonancia magnética (RM). La biopsia hepática concluyó colostasis de origen tóxico (quinolonas). Ante este diagnóstico y bilirrubina 87 mg/dl, se realizó diálisis frente a albúmina para detoxificación en la Unidad de Cuidados Intensivos (UCI).
+Con todo, finalmente falleció.
+La necropsia confirmó necrosis hepática tóxica y hemorragia digestiva como causa inmediata de la muerte.

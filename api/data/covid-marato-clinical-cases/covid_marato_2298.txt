@@ -1,0 +1,8 @@
+﻿Un hombre de 26 años acudió al servicio de urgencias con dolor torácico pleural derecho repentino y disnea progresiva de 3 días de evolución. El paciente no había viajado en las dos semanas anteriores y no tenía antecedentes de traumatismo torácico ni de fiebre, tos u otros síntomas sistémicos. Por lo demás estaba sano y no tomaba ninguna medicación. Su pareja presentaba tos no productiva desde hacía una semana. El paciente prefirió no revelar más detalles.
+
+A la exploración, las constantes vitales mostraron una temperatura, una presión arterial y un pulso normales (118/80 y 122 l.p.m.). Presentaba dificultad respiratoria leve con una saturación de oxígeno normal en aire ambiental. Su índice de masa corporal era de 17,6 kg/m2. Su análisis de sangre reveló linfocitopenia (0,69 [normal 1,0–3,2] × 109/L). La radiografía torácica mostró un gran neumotórax derecho con colapso completo del pulmón derecho, sin desplazamiento mediastínico.
+
+A causa de los síntomas respiratorios del paciente, se realizó un frotis nasofaríngeo para una prueba de RT-PCR, que demostró que había infección por síndrome respiratorio agudo grave de coronavirus 2 (SARS-CoV-2). Se colocó un tubo de drenaje torácico, que posteriormente se retiró; para la intervención el médico usó equipo de protección individual completo, incluida una mascarilla N95. 
+
+Tras 48 horas, los síntomas y el neumotórax del paciente remitieron. Fue dado de alta del hospital estando estable y luego informó de una desaparición completa de los síntomas, mediante videollamada, el día 1 posterior al alta.
+

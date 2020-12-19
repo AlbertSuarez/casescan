@@ -1,0 +1,21 @@
+Anamnesis
+Mujer de 75 años sin antecedentes personales de interés, que se encontraba en seguimiento por enfermedad de Paget vulvar. La paciente consulta en diciembre de 2017 por empeoramiento del prurito en la zona vulvo-vaginal.
+
+Exploración física
+Se aprecia neoformación vulvar en introito vaginal, con crecimiento hacia vagina y extensión superficial al resto de la vulva en forma de enfermedad de Paget.
+
+Pruebas complementarias
+Se realiza una tomografía computarizada (TC) en enero de 2018, describiéndose adenopatías de aspecto patológico en la cadena iliaca externa-femoral derecha de al menos 5,5 x 2,6 cm, así como adenopatías inguinales ipsilaterales sospechosas de 2,9 x 1,6 cm. Engrosamiento nodular en cúpula vaginal izquierda y ligero engrosamiento cutáneo en la región vulvar.
+Se toma biopsia del introito vaginal, mostrándose infiltración por carcinoma compatible con primario vulvar. También se realiza biopsia de las adenopatías inguinales, mostrando infiltrados de células grandes con morfología que corresponde a adenocarcinoma mal diferenciado. El perfil inmunohistoquímico (positividad para CK7, EMA, receptores de andrógenos y CEA; negatividad para CK20, estrógenos, progesterona y GCDFP-15) orienta a origen vulvar.
+Ante estos hallazgos, se completa con una tomografía por emisión de positrones (PET), donde se objetiva captación en hemivulva derecha, cúpula vaginal izquierda y adenopatías inguinales derechas, en la cadena iliaca externa derecha y en la bifurcación iliaca común derecha.
+
+Diagnóstico
+Enfermedad de Paget vulvar estadio IV por afectación ganglionar.
+
+Tratamiento
+Se inicia tratamiento de primera línea con carboplatino AUC 4 y paclitaxel 135 mg/m2 cada 21 días. Dosis reducidas por fragilidad de la paciente.
+
+Evolución
+La paciente inicia tratamiento en marzo de 2018. Tras tres ciclos, en la TC de reevaluación se objetiva respuesta parcial a nivel ganglionar, manteniéndose dicha respuesta tras otros 3 ciclos más (6 en total).
+Se decide en sesión multidisciplinar administrar radioterapia de consolidación sobre las cadenas ganglionares y la zona vulvar, con una dosis total de 57.2 Gy (11 sesiones de 5.2 Gy). En la primera TC tras la radioterapia, la paciente mantenía la respuesta parcial. No obstante, en febrero de 2019 presenta progresión hepática, con estabilidad de las lesiones ganglionares. Tras el mismo, el resultado de la determinación de HER-2 resulta positivo mediante inmunohistoquímica.
+En este momento, se solicita determinación de HER-2, resultando positiva por inmunohistoquímica con valor de tres cruces (+++). Se decide entonces iniciar una segunda línea de tratamiento con trastuzumab 600 mg subcutáneo cada 21 días y paclitaxel 80 mg/m2 días 1, 8 y 15. El paclitaxel se redujo a 40 mg/m2 en el ciclo 1, día 8 por neurotoxicidad, teniendo que ser suspendido a partir del 2º ciclo, continuando exclusivamente con trastuzumab 600 mg subcutáneo cada 21 días. Se realiza TC de control tras el 4º ciclo, donde se evidencia respuesta parcial.

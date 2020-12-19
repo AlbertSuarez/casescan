@@ -1,0 +1,47 @@
+Anamnesis
+
+Antecedentes personales
+Sin alergias medicamentosas conocidas. Fumador acumulado de 40 paquete-año y enolismo moderado (150 g/24 h). No presenta antecedentes de riesgo cardiovascular, hepatopatía ni nefropatía conocidas. Tampoco presenta antecedentes quirúrgicos.
+» Laborales: trabaja en el campo y previamente trabajó en una fábrica de pan.
+» Sociales: vive con su mujer, tiene una hija que vive en Bulgaria.
+» Antecedentes oncológicos familiares: no presenta.
+
+Historia oncológica
+Primer síntoma: presenta clínica de disfonía intermitente de 2-3 años de evolución y aparición de tumoración a nivel cervical IV izquierdo de unos 2 meses de evolución de crecimiento progresivo, junto con dolor cervical y disfagia.
+
+Síntomas al diagnóstico
+El paciente presenta dolor laterocervical izquierdo posterior irradiado a fosa posterior con cefalea secundaria, que ha aumentado progresivamente, con EVA de 6-7/10. En tratamiento con dexketoprofeno cada 8 h, con dolor regularmente controlado.
+
+Además, disfagia a sólidos y signos de broncoaspiración con los líquidos, por lo que precisa colocación de sonda nasogástrica (SNG) para nutrición enteral. No muestra otra sintomatología.
+
+Exploración física
+» PS 1; IK 80.
+» Adenopatía laterocervical de 3-4 cm nivel IV izquierdo.
+» Mazacote adenopático cervical de 8-10 cm nivel II-III izquierdo. Adenopatía de 1 cm nivel IIA derecho.
+» Auscultación pulmonar con aceptable ventilación con algunos roncus dispersos.
+» Nasofibrolaringoscopia: tumoración laríngea con afectación de ambas cuerdas vocales que llega hasta cara laríngea de epiglotis, luz glótica reducida un 70 %.
+
+Pruebas complementarias
+Primeros estudios: se objetiva en exploración con nasofibrolaringoscopia dismorfia septal grave derecha, cavum libre, con tumor que compromete toda la cuerda vocal derecha, comisura anterior y tercio anterior de la cuerda vocal izquierda. Asimismo, palpación de adenopatía de 3-4 cm de diámetro, móvil, no dolorosa, indurada a nivel IV izquierda y adenopatía de 1 cm en nivel IIA derecho. Se realiza PAAF de adenopatía ganglionar que resulta compatible con carcinoma escamoso.
+En la TC de valoración se objetiva tumoración transglótica intralaríngea con adenopatías cervicales bilaterales, que también se objetiva en PET-TC realizada como estudio de extensión. Asimismo, se objetivan probables implantes tumorales peritoneales, destacando uno de mayor tamaño y actividad en contacto con asa de íleon en hemipelvis derecha; engrosamiento hipermetabólico en hemiescroto izquierdo adyacente al conducto inguinal que podría corresponder a otro implante; múltiples metástasis óseas de predominio lítico y afectación tumoral del músculo cuadrado femoral derecho.
+Presenta analítica sanguínea sin alteraciones.
+
+Diagnóstico
+Paciente de 57 años con hábitos tóxicos, sin comorbilidad conocida, diagnosticado en junio de 2017 de un carcinoma escamoso de laringe estadio IVc de debut (enfermedad locorregional voluminosa y sintomática, metástasis óseas e implantes peritoneales), según la octava edición del TNM. Se presenta el caso en un comité de tumores de cabeza y cuello el 23 de junio de 2017, y se decide tratamiento con quimioterapia paliativa.
+
+Tratamiento
+Se inicia tratamiento quimioterápico según esquema EXTREME C1 el día 28 de junio de 2017, con cisplatino con reducción de dosis al 80 %. Se realiza dicho ciclo de tratamiento ingresado, con buena tolerancia. Presenta como sintomatología esputos hemoptoicos que con tratamiento médico se autolimitan.
+
+Evolución
+Tras primer ciclo de quimioterapia presenta cómo toxicidades rash cutáneo secundario a cetuximab G2 en cara y tronco, conjuntivitis G2 y queilitis G1, sin otra sintomatología. Presenta mejoría de la disfagia y mejor control del dolor, por lo que es posible progresiva ingesta oral y retirada de sonda nasogástrica. Presenta, por lo tanto, respuesta clínica y por exploración con disminución del tamaño adenopático.
+Realiza ciclos 2 (C2) y 3 sin incidencias y a dosis del 100 %. Como toxicidades, presenta náuseas G1 los primeros 3-4 días, mucositis G1, secundarias a cisplatino y 5-fluorouracilo; ototoxicidad G1, secundaria a cisplatino; con empeoramiento de la toxicidad cutánea hasta G3 secundaria a cetuximab.
+En la valoración de respuesta (24/8/2017), tras 3 ciclos de EXTREME, el paciente presenta buena respuesta radiológica con respuesta parcial de > 50 % de tumor primario, respuesta de más del 70 % de adenopatías laterocervicales bilaterales y respuesta completa a nivel peritoneal. A nivel clínico, aceptable tolerancia al tratamiento, respuesta clínica con suspensión de analgesia por ausencia de dolor y resolución completa de la disfagia.
+El paciente sigue tratamiento según mismo esquema, recibiendo C4 EXTREME con reducción de dosis de cetuximab al 80 % por toxicidad cutánea y posteriormente recibe C5 con reducción también de cisplatino al 80 %, con respuesta importante de tumoración laríngea por exploración y luz glótica libre. Recibe C6 el 18/10/17 en esta ocasión sustituyendo cisplatino por carboplatino por incipiente ototoxicidad (con acúfenos e hipoacusia G1).
+Tras 6 ciclos de EXTREME presenta una respuesta completa de la T y a nivel peritoneal, pero progresión a nivel adenopático con reaparición del dolor a dicho nivel. Se ofrece la posibilidad de tratamiento dentro del estudio ZScores rama B3 (AZD9150 + durvalumab), que el paciente acepta.
+Inicia C1D1 el día 5/12/2017. Presenta el día C1D8 hipercalcemia asintomática G4 (probablemente tumoral en relación a metástasis óseas), por lo que se debe interrumpir tratamiento e ingresa para tratamiento. Asimismo, presenta hipofosfatemia G3 que se resuelve con tratamiento sustitutivo. No es posible administrar tratamiento correspondiente a C1D8 y C1D15.
+Posteriormente, tras resolución del cuadro sigue tratamiento con C2 el día 4/1/18, recibiendo C2D1 y C2D8. En TC de valoración de respuesta (17/1/2018), presenta incremento de las lesiones adenopáticas y aparición de nuevas adenopatías, por lo que el paciente sale del ensayo dada la progresión tumoral. Asimismo, presenta reaparición de dolor, por lo que se reinicia tratamiento analgésico con ibuprofeno cada 8 h y paracetamol alterno. Se realiza a partir de este momento seguimiento conjunto con Unidad de Cuidados Paliativos, para mejor ajuste de tratamiento sintomático.
+En dicho momento, el paciente presenta como toxicidades residuales neurotoxicidad G1 en manos y pies y astenia G1, manteniendo un PS de 1. Se considera el paciente candidato a tercera línea de tratamiento quimioterápico con paclitaxel semanal a 80 mg/m2 a pesar de la neurotoxicidad residual (G1). El paciente acepta e inicia tratamiento el 24/1/2018.
+Tras primer ciclo presenta buena tolerancia al tratamiento y mejoría del estado general, con astenia grado 1, neurotoxicidad grado 2 y control del dolor con parche de fentanilo de 25 mcg y rescates de fentanilo intranasal de 100 mcg. Tras 3 ciclos de paclitaxel semanal, presenta respuesta clínica importante, pero con empeoramiento de la toxicidad cutánea a G2, neuropatía G2 y anemia G3. Se realiza una semana de descanso de tratamiento.
+Presenta buena tolerancia a los siguientes ciclos de tratamiento, pero con empeoramiento de toxicidades en forma de neuropatía G3, disfagia G1 y dolor bien controlado con analgesia. Tras 16 ciclos de paclitaxel semanal (4 meses), el paciente presenta respuesta completa de lesión adenopática en TC de cuello (mayo 2018) y persiste respuesta completa en el resto de niveles.
+Dada la persistencia de neurotoxicidad G3 en pies y G1 en manos, en junio de 2018, se decide de forma conjunta con el paciente suspender el tratamiento e iniciar controles. Tras un mes sin tratamiento el paciente presenta mejoría de la neurotoxicidad tanto en manos (G1) como en pies (G2), y en TC de control mantiene respuesta completa.
+El paciente sigue controles hasta el último disponible (enero 2019), donde en TC cérvica-torácica-abdominal se informa de ausencia de datos de recidiva a ningún nivel manteniendo respuesta completa. Asimismo, permanece asintomático, excepto por neurotoxicidad que ha mejorado a grado 1 en pies y se ha resuelto en manos. Por el resto realiza vida activa. Está previsto que siga realizando controles de forma periódica.

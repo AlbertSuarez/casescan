@@ -1,0 +1,30 @@
+Anamnesis
+
+Exploración física
+Varón de 49 años con antecedentes personales de Hepatitis Crónica C genotipo 1 diagnosticado en 2010, sin tratamiento activo por ausencia de respuesta a tratamientos previos. Sin hábitos tóxicos ni antecedentes familiares de interés. Vida activa con buen apoyo familiar.
+
+Pruebas complementarias
+HISTORIA ONCOLÓGICA
+En enero de 2014, comienza con síndrome miccional irritativo por lo que consulta a Urología que realiza biopsia de próstata, objetivándose Adenocarcinoma de prostata Gleason 9 (4+5) en todos los cilindros, con estudio de extensión en aquel momento de TAC torax-abdomen (28/02/2014) con glándula prostática de pequeño tamaño, de aspecto heterogéneo sin adenopatías de tamaño significativo en pelvis o en el retroperitoneo. Destacando la presencia de una afectación metastásica blástica múltiple dispersa por el esqueleto. Gammagrafia (28/01/2014): Metástasis oseas múltiples: en columna cervical, dorsal y lumbar, pelvis , esternón , escápulas ,clavículas , tercio próximal de húmeros, fémures , etc.
+Inicia Bloqueo Androgénico Completo (análogo LHRH: Leuprorelina (45mg cada 6 meses) asociado a Bicalutamida (50 mg al día) con respuesta de PSA en un primer momento ( 2871 ng/mL previo al inicio del tratamiento y 8 ng/mL tras el mismo).
+A pesar de tratamiento con BAC, se observa una elevación progresiva del PSA compatible con progresión bioquímica por lo que se realiza una maniobra hormonal y en junio de 2014, por elevación de las cifras de PSA: 150 ng/ml y considerando un cáncer de próstata estadio IV por afectación ósea hormono-resistente, inicia tratamiento de primera línea de quimioterapia con esquema Docetaxel (75mg/m2 cada 21 días) -Prednisona (5mg cada 12 horas)- Zometa (4mg cada 21 días) continuando con análogo.
+
+Desde el inicio del tratamiento se observa un descenso progresivo de las cifras de PSA (nadir 43 ng/ml) y en diciembre de 2014 reevaluación por TAC tórax-abdomen con respuesta parcial a nivel óseo y enfermedad estable ósea por gammagrafía.
+Posteriormente, comienza con elevación de las cifras de PSA sin observarse cambios clínicos ni radiológicos por TAC y GGO de abril sin objetivarse progresión de la enfermedad por lo que se decide continuar con quimioterapia hasta recibir un total de 16 ciclos.
+
+Diagnóstico
+En junio de 2015, el paciente comienza con clínica neurológica, con diplopía y debilidad de MID.
+Además refiere deterioro del estado general, incontinencia urinaria y debilidad en miembros inferiores, por lo que se cursa ingreso realizándose TAC cráneo que identifica una infiltración extraaxial distribuida por la práctica totalidad del cráneo con presencia de lesiones con densidad de partes blandas que realzan tras la administración de contraste. Destaca una lesión situada en la convexidad izquierda de 12 cc de volumen que asocia moderada cantidad de edema vasogénico e impronta el seno longitudinal superior, pudiendo existir componente intraaxial en esta localización. Se aprecian además lesiones blásticas en la punta del peñasco derecho y en el ala mayor del esfenoides izquierdo. Borramiento parcial de surcos del hemisferio izquierdo. Línea media centrada y cisternas de la base permeables.
+Hallazgos en relación infiltración metastásica dural y ósea de su enfermedad de base. Se realiza también RM espinal completa que muestra alteración generalizada de la señal de la médula ósea en columna cervical, dorsal y lumbar en relación a la afectación metastásica ósea por su neoplasia de base. No se observaban áreas de compresión medular ni de alteración en el calibre del canal raquídeo.
+Se inicia tratamiento corticoideo y se realiza punción lumbar en dos ocasiones, siendo negativa para malignidad y para proceso infeccioso.
+Con este empeoramiento clínico, teniendo ECOG-2 y PSA 925 ng/ml en junio de 2015, inicia segunda línea de tratamiento con Abiraterona 1000 mg/24 h vía oral, asociado a Prednisona 10 mg/24h.
+A pesar de no tener confirmación histológica, dada la clínica y los hallazgos radiológicos se asume el diagnóstico de carcinomatosis meníngea, iniciándose quimioterapia intratecal con Metrotexate 12mg.
+
+Tratamiento
+Dada la estabilidad clínica continúa control y tratamiento ambulatorio. Retoma tratamiento con Abiraterona 1000mg/24h, Zometa 4mg iv cada 28 días y QT intratecal (Metotrexate 12 mg una inyección semanal) con buena tolerancia y mejoría de los síntomas neurológicos.
+
+Evolución
+Tras 5 meses de tratamiento con Abiraterona y Metotrexate intratecal con un total de 9 dosis, aumento de síntomas en forma de astenia y dolor no controlado, obteniendo en pruebas complementarias progresión minor.
+Desde el inicio del tratamiento con quimioterapia intratecal, el paciente presenta mejoría de los síntomas realizando una vida independiente para las actividades de la vida diaria y con ECOG-1 hasta Diciembre de 2015 que requiere ingreso en Unidad de Cuidados Paliativos por cuadro de desorientación temporo-espacial en domicilio, así como crisis de ansiedad y agresividad verbal con familiares y dificultad para la marcha. Durante su ingreso se controlan los síntomas, evolucionando hacia la estabilidad clínica, por lo que es dado de alta para seguir control en Hospital de Día.
+El paciente se reevalúa y se observa que está en progresión bioquímica, radiológica y clínica por lo que se programa para tratamiento con Cabazitaxel que finalmente no puede iniciar por empeoramiento hasta el éxitus.
+El paciente fallece por fracaso multiorgánico el día 14/01/16 tras 24 meses desde el diagnóstico de cáncer de próstata y tras 7 meses desde el diagnóstico de carcinomatosis meníngea.

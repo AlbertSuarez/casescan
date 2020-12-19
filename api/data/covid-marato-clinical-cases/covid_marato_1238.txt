@@ -1,0 +1,33 @@
+Anamnesis
+Se trata de una mujer de 45 años de edad, como único antecedente patológico destaca una neurofibromatosis tipo 1 diagnosticada en la infancia en forma de neurofibromas múltiples subcutáneos, efélides axilares y manchas cafe-au-lait; no había habido afectación neurológica, ósea ni ocular. Su madre fue diagnosticada de un cáncer de colon a la edad de 67 años, pero no había antecedentes familiares de neurofibromatosis.
+
+Exploración física
+La paciente acudió inicialmente a su Hospital de referencia en Enero de 2013 con clínica de más de un año de evolución consistente en dolor y en la aparición de una tumoración en la escápula derecha. Se realizaron estudios de imagen con ecografía de tejidos blandos donde se apreciaba una masa solida de 45 mm con vascularización y características típicas de neurofibroma y posteriormente una resonancia de escapula derecha que describió una gran masa de 15 cm con necrosis central y signos de vascularización de "características benignas", con lo cual se procedió a realizar una resección marginal en de la lesión en diciembre de 2013. Desgraciadamente, el estudio patológico informó de un sarcoma pleomorfico de alto grado, compatible con un tumor maligno de la vaina nerviosa periférica (TMVNP).
+
+Con los datos de anatomía patológica y la cirugía no compartimental sin criterios oncológicos realizada, se procede a remitir a la paciente a nuestro hospital. En ese momento la paciente se encontraba bien, aunque refería rápida reaparición del dolor en el hombro tras la cirugía; en la exploración se aprecia una tumoración fija y gomosa en la escápula derecha. Se apreciaban múltiples neurofibromas múltiples subcutáneos, efélides axilares y manchas cafe-au-lait.
+
+Pruebas complementarias
+» PET-TAC de extensión en febrero de 2014: muestra una masa de partes blandas de 6,2 x 2,8 cm con intenso hipermetabolismo patológico (SUVmáx 20,2 g/ml) que erosiona la escápula derecha, sugestivo de comportamiento agresivo, además se observan múltiples nódulos en la piel, todos ametabólicos, que corresponden a neurofibromas cutáneos.
+
+Diagnóstico
+Expuesto el caso con estos datos en la comisión de tumores, se consideró que la paciente era candidata a tratamiento QT neoadyuvante (para disminuir la extensión de la lesión y con ello la morbilidad de la cirugía) seguida de cirugía con criterios radicales y radioterapia adyuvante.
+
+La paciente es incluida en el ensayo clínico GEIS 25 de QT neoadyuvante adaptada al histiotipo (epirrubicina-ifosfamida frente a ifosfamida-VP16 en el caso de TMVNP). La paciente recibe tres ciclos de ifosfamida-VP16 entre marzo y mayo de 2014, con evidente respuesta clínica desde el primer ciclo. La evaluación tras tres ciclos mostró una reducción muy significativa, mayor del 90 % de la tumoración, que se limita prácticamente a la fosa infraespinosa, con zonas avasculares en su interior sugestivas de necrosis, y ausencia de extensión local y a distancia.
+
+Vista la excelente respuesta parcial mayor tras la QT, se procede a la planificación de la cirugía con criterios oncológicos por parte del equipo de tumores óseos, realizando escapulectomía subtotal a través del cuello de la escápula manteniendo junto a la pieza extirpada el subescapular, supraespinoso, infraespinoso y redondo menor en junio de 2014.
+
+El resultado patológico de la pieza quirúrgica muestra una celularidad mayoritariamente pleomórfica con otras áreas de morfología fusocelular pura y estroma amplio mixoide, zonas de necrosis con células espumosas y células inflamatorias mononucleadas en aproximadamente el 50% del volumen total del tumor. En el estudio inmunohistoquímico las células pleomórficas expresan diferenciación muscular estriada (vimentina + desmina + calponina + miogenina + nuclear, MYOD1 + nuclear). Las fusiformes son focalmente positivas para MyoD1, CD34, y pS100. EMA, beta-catenina, AE1/3, actina. Los bordes de resección estaban libres de tumoración. Todos estos hallazgos eran compatibles con un TMVNP con diferenciación rabdomiosarcomatosa (tumor de tritón).
+
+Se complementa el tratamiento con RT externa adyuvante para una dosis total de 66 Gy.
+
+Tratamiento
+QTT neoadyuvante seguida de cirugía con criterios radicales y RT adyuvante.
+
+Evolución
+La paciente inicia seguimiento en nuestras consultas. En enero de 2015, seis meses tras la cirugía radical, se aprecia en la TC un nódulo pulmonar posterobasal derecho que mide aproximadamente 20 mm de diámetro. La PET-TC confirma la presencia de un nódulo redondeado de 26 x 26 x 29 mm hipermetabólico (SUVmáx 5,8 g/ml) en la base del LID, que ha crecido con respecto al estudio TC previa y que no aparecía en el estudio inicial. La paciente permanecía clínicamente asintomática.
+
+Dada la presencia de metástasis única con tumor primario controlado, remitimos a la paciente a cirugía torácica para valoración de metastasectomía pulmonar.
+
+Se procedió a una cirugía exploradora en febrero de 2015, apreciándose un nódulo de gran tamaño ocupando prácticamente toda la pirámide basal con adenopatías en cisura perivasculares; se practica una lobectomía inferior derecha y una disección ganglionar paratraqueal derecha, localizando además otra adenopatía precava (también resecada). La biopsia confirma la proliferación celular mesenquimal atípica bien delimitada, no encapsulada, formando haces entrecruzados en alternancia con zonas de necrosis y degeneración de aspecto mixoide, además una población celular mayoritaria conformada por elementos fusiformes, sugestiva de TMVNP, aunque no se observa diferenciación rabdomiosarcomatosa. Los bordes quirúrgicos y las adenopatías están libres.
+
+Se considera que no hay criterios para tratamiento con QT pseudoadyuvante y la paciente sigue controles en nuestras consultas sin evidencia de enfermedad activa en el momento actual.

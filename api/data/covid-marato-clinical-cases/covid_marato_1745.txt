@@ -1,0 +1,30 @@
+Anamnesis
+Se trata de un varón de 73 años con antecedentes personales de hipertensión arterial en tratamiento con doxazosina 8 mg diarios, hiperplasia prostática benigna en tratamiento con dutasterida 0,5 mg diarios y síndrome ansioso-depresivo en tratamiento con lorazepam 1 mg diario y escitalopram 15 mg diarios; analgesia a demanda. No intervenido previamente. Sin antecedentes familiares de interés.
+Acude al Servicio de Urgencias el día 2/7/2014 por cuadro de lumbalgia con irradiación a la extremidad inferior izquierda de más de un año de evolución, con empeoramiento en los últimos días hasta impedir la deambulación.
+
+Exploración física
+Hemodinámicamente estable. Afebril. Auscultación cardiopulmonar normal. Abdomen blando y depresible, no doloroso, no se palpan masas ni megalias. Exploración neurológica: hipoestesia L4 izquierda y paresia en el cuádriceps 3-4/5 izquierdo.
+
+Pruebas complementarias
+En Urgencias se realizan las siguientes pruebas complementarias:
+» Analítica sanguínea: sin alteraciones significativas.
+» Radiografía simple de columna dorsolumbar: sin alteraciones significativas.
+» Tomografía computarizada (TC): se objetiva una voluminosa tumoración paravertebral izquierda a nivel de L4-L5 que se introduce por el agujero de conjunción ipsilateral con compromiso de la raíz L4.
+Ante estos hallazgos, se decide su ingreso en Medicina Interna para el estudio y filiación de la lesión:
+» En vistas a completar el estudio, se solicita una resonancia magnética (RM) el 4/7/2014, en la que se observauna tumoración de intensidad de señal intermedia en ambas secuencias y pequeños focos de señal líquido en su margen lateral, de unos 6,9 x 4,8 x 4,7 cm, que ocupa el espacio del psoas homolateral con una extensión de menor tamaño hacia el agujero de conjunción L4-L5, en estrecha dependencia con la raíz L4 ipsilateral. Al realzar de forma intensa y homogénea tras la administración de contraste, sugiere como opción schwannoma dependiente de la raíz L4 izquierda.
+» Se solicita valoración por el Servicio de Neurocirugía, incluyendo al paciente en lista de espera para intervención quirúrgica de probable schwannoma. Se realiza intervención quirúrgica el día 9/12/2014, sin incidencias, con resección de la porción extraforaminal del tumor, y se envía muestra para filiación patológica. Posteriormente, se constata mejoría clínica evidente del dolor.
+El resultado anatomopatológico se resume en lo siguiente:
+» En el estudio microscópico: se objetiva un tumor constituido por células pequeñas redondas, monomorfas y con escaso citoplasma, con cromatina en grumos, que se disponen con un crecimiento en sábana separados por tractos conectivos finos, con vasos y algunos eosinófilos y hematíes.
+Numerosos fenómenos de apoptosis. Infiltración de músculo esquelético con cápsula incompleta.
+» En la inmunohistoquímica destaca expresión positiva para AE1-AE3, vimentina, enolasa focal, racemasa, CD-99 y CD-56; son negativas para S100, CD-30, LCA, CD 136 y CD38, desmina, P40 y trombomodulina y SOX-100, todo ello compatible con tumor maligno de la vaina nerviosa periférica (neurofibrosarcoma).
+Se realiza estudio molecular hibridación in situ fluorescente (FISH) para el gen EWS (22q12) con dos sondas marcadas que flanquean al gen por sus extremos, objetivándose en un 90% de los núcleos una señal normal de fusión y otra anómala de separación, lo que indica que existe un punto de ruptura en la secuencia del gen EWS en uno de los dos cromosomas 22, y por tanto una translocación de parte de su secuencia a otro punto; se concluye, pues, que existe ruptura del gen EWS (22q12).
+El paciente es enviado a consultas de Oncología Médica.
+
+Diagnóstico
+Tumor neuroectodérmico primitivo periférico (PNET-Ewing) con ruptura del gen EWS (22q12).
+
+Tratamiento
+El paciente inicia el 23/2/2015 tratamiento quimioterápico según el esquema VAC (vincristina-doxorrubicina-ciclofosfamida) asociado a factores estimuladores de colonias (filgrastim 30 MU subcutáneo durante 7 días) en ciclos trisemanales. Como toxicidad secundaria se objetivan: astenia G1 tras el segundo ciclo, náuseas G1 con el tercer ciclo y artromialgias generalizadas no incapacitantes secundarias a la administración de filgrastim.
+
+Evolución
+Tras el tercer ciclo, se realiza una TC de control el 27/4/2015, en la que se objetiva una discreta disminución del tamaño tumoral en relación con el último control, por lo que se propone continuar con el mismo esquema quimioterápico. Actualmente, el paciente ha recibido el quinto ciclo de tratamiento el 22/5/2015 y está prevista la realización de un nuevo control radiológico tras el sexto ciclo de quimioterapia. En el momento de envío del caso, el paciente acaba de recibir el quinto ciclo de quimioterapia, ha mejorado clínicamente y próximamente se realizará un nuevo control radiológico para, en caso de mantener respuesta, valorar terapias a nivel local como la cirugía o la radioterapia. Clínicamente presenta un buen estado general (ECOG 1), con práctica desaparición del dolor irradiado a nivel de la extremidad inferior izquierda.

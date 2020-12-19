@@ -1,0 +1,25 @@
+Anamnesis
+Varón de 41 años exfumador de un paquete al día desde hace 6 años, sin otros antecedentes de interés.
+En marzo de 2017, acude a la consulta de su médico de Atención Primaria por cuadro bronquítico de repetición sin mejoría tras tratamiento antibiótico y antiinflamatorio. Se solicita radiografía de tórax, evidenciándose masa hiliar derecha por lo que se deriva a Neumología para estudio.
+
+Exploración física
+Buen estado general. ECOG 0. Estable hemodinámicamente. ACP: ruidos rítmicos sin soplos ni roces. Buen murmullo vesicular. Abdomen blando y depresible, no doloroso durante la palpación, sin masas o megalias. RHA presentes. MMII sin hallazgos patológicos.
+
+Pruebas complementarias
+TC de tórax y abdomen superior: masa en lóbulo superior derecho (LSD) de 6 x 9 x 6,5 cm que contacta con pleura mediastínica y rodea la región distal de arteria pulmonar derecha y arteria del LSD. Adenopatías paratraqueales derechas.
+PET/TC: masa hipermetabólica que correspondería a la descrita previamente en TC, sugestiva de malignidad. Adenopatías paratraqueales derechas de baja tasa de proliferación celular con escasa probabilidad de malignidad.
+Fibrobroncoscopia: lesión estenosante a nivel de bronquio lobular superior derecho.
+Anatomía patológica: carcinoma de células no pequeñas diferenciado tipo epidermoide. IHQ: p40 positiva y negativas para factor 1 de transcripción tiroideo (TTf1) y napsina A. EGFR, ALK, ROS-1 negativos. PDL-1 < 1 %.
+
+Diagnóstico
+Carcinoma de pulmón epidermoide T4N0M0, estadio IIIA por infiltración de grandes vasos.
+
+Tratamiento
+En abril de 2017 se presenta el caso en comité multidisciplinar, decidiéndose tratamiento con quimioterapia, esquema cisplatino 80 mg/m2 día 1 + vinorelbina 25 mg/m2 día 1 intravenoso, y 60 mg/m 2 vía oral día 8, por 4 ciclos y radioterapia secuencial.
+
+Evolución
+Tras el tercer ciclo de quimioterapia es valorado por Oncología Radioterápica, que desestima tratamiento complementario por estabilización de la enfermedad, decidiéndose entonces continuar quimioterapia hasta completar 6 ciclos.
+En agosto de 2017, tras 5º ciclo de quimioterapia, el paciente refiere febrícula y aparición de lesión mandibular izquierda, dolorosa durante la palpación, pétrea e inmóvil con signos inflamatorios con aumento del tamaño hasta 5 cm, sin respuesta a tratamiento antibiótico y antiinflamatorio. El paciente completó los 6 ciclos de tratamiento.
+Se solicita biopsia de dicha lesión, siendo ésta compatible con metástasis de carcinoma epidermoide.
+Ante la progresión de la enfermedad, se inicia tratamiento con nivolumab 3 mg/kg intravenoso día 1 y 15 cada 28 días en septiembre 2017. Tras el segundo ciclo, se observa desaparición completa de lesión mandibular.
+Actualmente ha completado 8 ciclos de nivolumab con respuesta parcial radiológica de la enfermedad tras el tercer ciclo, y manteniéndose la respuesta tras el 6º ciclo. Como toxicidades, únicamente ha presentado artromialgias grado 1 y pirexia grado 1 ocasional. Ha mantenido ECOG 0-1 en todo momento.

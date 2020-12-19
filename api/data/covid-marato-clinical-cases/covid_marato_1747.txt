@@ -1,0 +1,43 @@
+Anamnesis
+Mujer de 32 años de origen marroquí, sin antecedentes médicos ni familiares de interés. Como antecedentes ginecológicos refiere 4 gestaciones, con 3 partos vaginales y 1 aborto. Actualmente puerperio de 3 días tras parto prematuro de 7 meses, eutócico y sin complicaciones.
+Sigue tratamiento con proteinsuccinilato de hierro 40 mg al día y ácido fólico 1 comprimido al día.
+La paciente fue diagnosticada 2 años antes de su consulta de carcinoma ductal infiltrante de mama derecha estadio IIIB con afectación cutánea (cT4d cN1cM0), tras clínica de aparición de un nódulo doloroso a dicho nivel. La RM mamaria evidencia en los cuadrantes externos de la mama derecha, una masa bilobulada de 5,6 x 6,8 x 6,5 cm (AP x T x L) hipointensa en T1 e iso/hipointensa en T2 con centro necrótico y engrosamiento cutáneo difuso, asociada a una lobulación de 3,7 x 4,3 x 3,3 cm (AP x T x L) en la cola axilar y al menos tres adenopatías axilares derechas (la de mayor tamaño mide 3,3 x 2 cm). Se realiza BAG de la lesión mamaria, que informa de carcinoma ductal infiltrante RE 1%, RP negativos, HER2 negativo, Ki67 80%. Asimismo, PAAF de adenopatías axilares derechas, positiva para infiltración por carcinoma ductal de mama. El estudio de extensión no evidenció metástasis a distancia.
+Inició tratamiento neoadyuvante con epirrubicina 75 mg/m2 + docetaxel 75 mg/m2. Tras el cuarto ciclo, se evidencia progresión clínica, por lo que se inicia segunda línea con cisplatino 75 mg/m2 día 1 + gemcitabina 1.000 mg/m2 días 1 y 8 cada 21 días x 3 ciclos, seguida de radioterapia mamaria y axiloclavicular derecha, con respuesta parcial clínica, tanto a nivel de la masa mamaria como a nivel axilar. Posteriormente se realizó mastectomía radical modificada derecha con linfadenectomía axilar. El estudio anatomopatológico informó de carcinoma ductal infiltrante de mama derecha con afectación axilar ipsilateral, pT4dpN1. Tras la cirugía, se administró tratamiento adyuvante con tres ciclos de cisplatino-gemcitabina a las mismas dosis que el previo a la cirugía.
+Posteriormente continuó revisiones periódicas en consultas externas de Oncología, sin evidencia de recaída hasta el momento de su consulta actual.
+Acude al Servicio de Urgencias por un cuadro de dolor dorsal y fiebre. Tres días antes, parto eutócico prematuro de 7 meses sin complicaciones. La fecha aproximada del embarazo había sido 18 meses tras la cirugía oncológica. La paciente comenzó con picos febriles y escalofríos en el tercer día posparto, asociados a dolor torácico posterior izquierdo de características pleuríticas, así como un episodio de taquicardia y taquipnea a su llegada al servicio médico.
+
+Examen físico
+ECOG: 0. Tensión arterial: 101/60 mmHg. Frecuencia cardiaca: 110 lpm. Temperatura: 38 ºC.
+Consciente y orientada en espacio, tiempo y persona. Buen estado general.
+Auscultación cardiaca: rítmica, no se auscultan soplos ni extratonos.
+Auscultación pulmonar: hipoventilación en la base pulmonar izquierda, sin ruidos patológicos sobreañadidos.
+Cicatriz de mastectomía derecha sin signos de sobreinfección. Mama izquierda: turgente (actualmente dando lactancia), dolorosa a la palpación, con aumento moderado de la temperatura local, no eritematosa. Destaca zona más indurada al tacto a nivel del cuadrante inferoexterno.
+Abdomen blando y depresible, no doloroso a la palpación, no se palpan masas ni organomegalias, no signos de irritación peritoneal, ruidos hidroaéreos conservados.
+Miembros inferiores con leve edema perimaleolar, sin fóvea.
+
+Pruebas complementarias
+- Analítica: glucemia 126 mg/dl, creatinina 0,56 mg/dl, PCR 6,4 mg/dl, Hb 10,5 g/dl, plaquetas 559.000/μl, leucocitos 16.520/μl (neutrófilos totales 12.860/μl). Coagulación con AP del 71%. Resto anodino.
+- Gasometría venosa: pH 7,44, resto sin alteraciones.
+- Radiografía de tórax: no cardiomegalia, no presencia de derrame pleural. Elevación del hemidiafragma izquierdo con disminución de volumen del lóbulo inferior izquierdo.
+- TC de tórax con contraste: se observa una masa retroperitoneal paravertebral izquierda de 6 x 9 cm que desplaza hacia arriba el hemidiafragma izquierdo, con derrame pleural, atelectasia compresiva asociada y pérdida de volumen pulmonar. No se objetivan defectos de repleción de contraste en el cono de la arteria pulmonar, arterias pulmonares principales, arterias lobares, segmentarias y subsegmentarias. Hilios pulmonares sin alteraciones evidentes. Juicio diagnóstico: masa retroperitoneal izquierda que se asocia a pérdida de volumen en el hemitórax izquierdo con discreto derrame pleural.
+- TC abdominal con contraste: masa paravertebral izquierda a nivel D8-D11, de 5,5 x 6,7 x 11 cm (T x AP x CC), de densidad heterogénea, compatible con metástasis. Leve derrame pleural y atelectasia compresiva asociadas.
+- Ecografía abdominal: lesión retroperitoneal sólida, de aspecto heterogéneo.
+- Marcadores tumorales: CEA 0,4 ng/ml, Ca 15.3 27 ng/ml.
+- Hemocultivo: positivo para Staphylococcus haemolyticus sensible a quinolonas, resistente a penicilina y oxacilina.
+- BAG de lesión retroperitoneal: infiltración masiva por carcinoma escasamente diferenciado con patrón inmunohistoquímico sugestivo de origen ductal mamario.
+
+Diagnóstico
+- Carcinoma ductal de mama triple negativo con recaída retroperitoneal.
+- Fiebre puerperal de probable etiología mixta (infecciosa y tumoral).
+
+Tratamiento
+Ante la sospecha de fiebre puerperal, se inicia tratamiento empírico con amoxicilina/ácido clavulánico 1.000/200 mg/8 horas, que se mantiene durante 10 días tras obtener hemocultivo positivo para Staphylococcus haemolyticus sensible al antibiótico pautado (5 días con administración intravenosa seguido de tratamiento oral ambulatorio a su alta a domicilio), quedando afebril.
+La paciente presenta un nuevo pico febril tras finalizar el tratamiento antibiótico, por lo que se reinicia la antibioterapia empírica con ceftriaxona 2 g/24 h, añadiendo azitromicina 500 mg/24 h durante los primeros 3 días por un posible foco pulmonar, y dexametasona a dosis de 20 mg i.v. cada 24 horas ante la sospecha de participación del proceso neoplásico en el cuadro febril. La paciente continuó con fiebre a pesar del tratamiento pautado, sin evidencia de aislamiento microbiológico en los nuevos cultivos obtenidos. Se inicia entonces escalada antibiótica a meropenem 1 g/8 h y vancomicina a dosis terapéuticas, quedando la paciente afebril tras 24 horas del inicio del tratamiento.
+Ante la evidencia de recaída retroperitoneal de carcinoma ductal de mama triple negativo, se inicia primera línea de quimioterapia para enfermedad metastásica según el esquema paclitaxel 90 mg/m2 días 1, 8 y 15 asociado a bevacizumab 10 mg/m2 días 1 y 15 cada 28 días1. La paciente no presenta toxicidad aguda grado 2 o superior.
+
+Evolución
+Tras el alta hospitalaria, la paciente es vista en consultas externas de Oncología Médica para la administración del tratamiento. Presenta mala situación funcional, mal control del dolor dorsal izquierdo, siendo EVA 8/10 en ocasiones, asociado a astenia intensa y fiebre de hasta 39 ºC sin escalofríos asociados, así como edemas sin fóvea en ambos miembros inferiores. Dada la situación clínica, se cursa ingreso hospitalario.
+Durante el ingreso se inicia tratamiento para control del dolor con opioides mayores, así como antibioterapia empírica con ceftriaxona 2 g/24 h por sospecha de infección con foco urinario, al evidenciar un sedimento urinario patológico. En el urocultivo extraído se documenta positividad para Klebsiella pneumoniae y Morganella morgani sensibles a quinolonas, por lo que se procede al inicio de tratamiento dirigido con ciprofloxacino 400 mg/12 h. No obstante, la paciente continúa presentando picos febriles bien tolerados, sospechando un posible origen tumoral del cuadro febril.
+Se realiza una TC de reevaluación, donde se objetiva progresión tumoral según criterios RECIST, con presencia de una masa retrocrural izquierda de 9 cm de diámetro máximo, asociada a un gran derrame pleural izquierdo.
+Iniciamos entonces una segunda línea de quimioterapia para la enfermedad metastásica según el esquema cisplatino 75 mg/m2 día 1 + gemcitabina 1.000 mg/m2 días 1 y 8 cada 21 días, dada la buena respuesta obtenida en la neoadyuvancia, presentando como toxicidad aguda náuseas grado 2.
+En la última reevaluación, tras 4 ciclos de tratamiento, se evidencia respuesta parcial según criterios RECIST, con masa retrocrural persistente de 4,2 x 3 cm de diámetros máximos (AP x T) y desaparición del derrame pleural asociado en el estudio radiológico previo. No se evidencia presencia de nuevas lesiones sugestivas de enfermedad metastásica.

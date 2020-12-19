@@ -1,0 +1,51 @@
+Anamnesis
+Se trata de un paciente varón de 66 años de edad, tabaquista activo de 1 paquete-año desde hace 50 años que presenta como antecedentes de hipertensión arterial y miocardiopatía dilatada diagnosticada en 2011 con fracción de eyección conservada en seguimiento por Cardiología.
+El paciente consulta en octubre 2017 por dolor subcostal punzante y continuo a nivel subcostal izquierdo. Se le realiza radiografía de tórax que evidencia opacidad nodular en lóbulo superior derecho y se activa vía rápida de diagnóstico de cáncer de pulmón y se realiza tomografía computarizada (TC) torácica, biopsia pulmonar guiada mediante TC y posterior tomografía por emisión de positrones (PET-TC): probable neoplasia primaria de pulmón, estatificación propuesta T2a N1 M1b (metástasis suprarrenal izquierda única).
+
+En Anatomía Patológica: adenocarcinoma de origen pulmonar, ligando 1 de muerte programada (PDL1) positivo, con expresión mayor a 50 %. EGFR (receptor del factor de crecimiento epidérmico), ALK (quinasa del linfoma anaplásico) no traslocado, ROS-1 (protooncogén tirosina quinasa 1) negativo.
+Se comenta en Comité De tumores Torácicos y se decide remitir a Cirugía Torácica donde realizarán mediastinoscopia y si se descartara N2, resección pulmonar y linfadenectomía. Posteriormente, se valoraría el tratamiento de la metástasis suprarrenal ya que se ha interpretado como enfermedad oligometastásica.
+Se realiza lobectomía superior derecha en febrero 2018.
+Un mes tras el alta por cirugía torácica el paciente consulta nuevamente por deterioro del estado general con pérdida de peso y astenia importante más acusada en las últimas 2 semanas. Se decide ingreso en el cual se realiza TC de valoración informando de un crecimiento significativo de la masa suprarrenal (previamente 51 x 27mm, actualmente 54 x 36 mm) con infiltración de estructuras adyacentes y la aparición de 3 adenopatías significativas en hilio renal.
+Ante una enfermedad rápidamente progresiva y aparición de nuevas lesiones se decide iniciar tratamiento sistémico.
+Dado que presenta un PDL1 positivo 50 %, se decide inmunoterapia en 1ª línea con pembrolizumab.
+Mejoría progresiva, particularmente del dolor subcostal izquierdo, no requiriendo analgesia tras 3 ciclos de pembrolizumab. Se solicita TC de control, donde se visualizan múltiples pequeños nódulos pulmonares bilaterales y difusos, sospechándose de origen metastásico. Dado el beneficio clínico y que el paciente no presenta clínica secundaría a la progresión, se decide interpretar como pseudoprogresión (según criterios RESIST 1.1) y se continúa tratamiento con realización de TC de valoración precoz.
+Tras el 4º ciclo de pembrolizumab, el paciente acude nuevamente a Urgencias por un cuadro de ortopnea y episodios intermitentes de disnea.
+
+Exploración física
+» Buen estado general, eupneico en reposo. Performance Status 1.
+» Normotenso. SatO2: 97 % (basal).
+» Auscultación cardíaca: rítmica sin soplos.
+» Auscultación pulmonar: hipofonesis en base derecha sin ruidos patológicos sobreañadidos.
+
+Pruebas complementarias
+» TC torácica y abdominopélvica con contraste intravenoso (02/05/2019).
+» Estudio comparativo con explotación basal de marzo de 2018 y estudio nadir, correspondiente al 29/01/2019.
+Lesiones diana
+» Metástasis suprarrenal izquierda que ha disminuido de tamaño, actualmente de 20,5 mm en nadir 21 mm y en exploración basal de 54 mm.
+» Adenopatía mediastínica prevascular derecha de 7 mm en NADIR 8 mm y en estudio basal de 13 mm.
+
+Nuevas lesiones metastásicas
+» No se identifican.
+Lesiones no diana
+» Persistencia, sin cambios, del nódulo pulmonar en lóbulo inferior derecho adyacente a ligamento pulmonar inferior en paciente con cambios de lobectomía superior derecha. Sin visualizar otros nódulos pulmonares.
+Notas adicionales
+» Lobectomía superior derecha.
+» Adenopatía lobar inferior derecha sin cambios
+» Síndrome de Leriche con oclusión completa de aorta abdominal infrarrenal y arterias iliacas comunes.
+» Diverticulosis de colon.
+» No se observan hallazgos que sugieran toxicidad pulmonar farmacológica en la exploración actual.
+» SV actual: 28, SV basal: 67, SV nadir: 28
+» Juicio diagnóstico: persiste establece en respuesta parcial de enfermedad.
+
+Diagnóstico
+» Pseudoprogresión.
+» Neumonitis G3.
+» Respuesta parcial mantenida tras 11 meses sin tratamiento.
+
+Tratamiento
+Se inician corticoides a dosis altas ante la sospecha de toxicidad por inmunoterapia con mejoría clínica progresiva.
+
+Evolución
+Dado que el paciente presentó neumonitis G3 se suspende pembrolizumab, se decide seguimiento estrecho.
+En el control por TC al mes, disminución de los nódulos pulmonares metastásicos bilaterales de pequeño tamaño y de masa suprarrenal (39 mm y en exploración basal de 54 mm) con respuesta parcial de enfermedad (disminución de la carga tumoral del 30 %). En los sucesivos controles, mejoría progresiva de la respuesta parcial hasta obtenerse una disminución de la carga tumoral del 44 %.
+En último control de mayo 2019, el paciente continúa en respuesta parcial mantenida tras 11 meses del último ciclo de inmunoterapia.

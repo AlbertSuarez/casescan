@@ -1,0 +1,32 @@
+Anamnesis
+Mujer de 68 años de edad con carcinoma ductal infiltrante (CDI) de mama, estadio IIIA. En tratamiento oncológico activo con quimioterapia neoadyuvante, acude al Servicio de Urgencias por fiebre y escalofríos persistentes.
+
+Historia oncológica
+Mujer de 68 años, de raza caucásica, jubilada en la actualidad (azafata de vuelo en su vida profesional). Entre sus antecedentes personales, resalta hipertensión arterial, hipotiroidismo y varios episodios depresivos menores. No presenta hábitos tóxicos conocidos, reacciones adversas medicamentosas ni antecedentes quirúrgicos personales. No muestra antecedentes oncológicos familiares. Como tratamiento domiciliario, mantiene enalapril/hidroclorotiazida 20/12,5 mg/día, levotiroxina 75 mcg/día y lorazepam 1 mg/día.
+En enero de 2019, con 67 años, es valorada en Ginecología por lesión en pezón derecho tipo "eritema-eczema", de varios meses de evolución y asintomática. Inicia estudio por sospecha de neoplasia mamaria, siendo diagnosticada de CDI de mama, grado histológico 3, receptor de estrógenos positivo, receptor de progesterona negativo, receptor 2 del factor de crecimiento epidérmico humano (HER-2) negativo y Ki67 del 50 % (luminal B), estadio IIIA (T3N1M0, según la clasificación TNM de la American Joint Committee on Cancer, 8ª edición). Las pruebas complementarias describen un aumento de densidad mamaria derecha (lesión tipo BI-RADS 4) y adenopatías axilares ipsilaterales (por mamografía y ecografía mamaria y axilar, respectivamente). El diagnóstico de carcinoma es confirmado por biopsia con aguja gruesa (BAG), tanto de la mama como de una de las adenopatías axilares. El estudio de extensión (resonancia magnética mamaria, la TC de tórax, abdomen y pelvis con contraste y gammagrafía ósea) descarta la presencia de enfermedad a distancia.
+Se plantea tratamiento neoadyuvante basado en paclitaxel semanal (recibiendo 12 ciclos) y, posteriormente, doxorrubicina liposomal pegilada + ciclofosfamida (1 ciclo hasta el momento).
+
+Historia actual
+Dos semanas después de recibir quimioterapia, acude a Urgencias por ardor uretral, disuria y sensación de escalofríos intermitente, de tres días de evolución. La exploración física y las pruebas complementarias solicitadas demuestran signos compatibles con neutropenia febril de bajo riesgo e infección no complicada del tracto urinario inferior, por lo que es dada de alta con antibiótico oral, tres dosis de factor estimulante de colonias granulocíticas (G-CSF) y medidas higiénico-dietéticas.
+Sin embargo, acude en una segunda ocasión, diez días después, por persistencia de la disuria, empeoramiento de los escalofríos y aparición de fiebre (máximo de 38,2º termometría), a la que se ha añadido sensación diatérmica, artromialgias generalizadas, dolor lumbar inespecífico e insomnio pertinaz.
+
+Exploración física
+Constantes: TA 183/63 mm Hg, FC 110 lpm, FR 15 rpm, SatO2 97 % (basal) y Tª 37,7ºC.
+Inspección general: nivel 1 del Eastern Cooperative Oncology Group (ECOG). Aparente buen estado general. Eupneica en reposo. Normocoloreada. Adecuada perfusión distal.
+Exploración por aparatos y sistemas: los exámenes neurológicos, de cabeza y cuello, cardiorrespiratorio, abdominal y de extremidades no demuestran signos patológicos destacables ni desvelan hallazgos anómalos.
+
+Pruebas complementarias
+En la bioquímica urgente destacan una proteína C reactiva (PCR) elevada (426,4 mg/l; NV 0-5), una procalcitonina elevada (1,2 ng/ml; VN < 0,25) y una LDH elevada (321 U/l; VN 40-240). El hemograma sanguíneo revela anemia (Hb 8,5 g/dl; VN 12-16) normocítica normocrómica y trombocitosis (504.000/μl; VN 150.000-450.000). La cifra de neutrófilos se ha recuperado. La coagulación es normal.
+El electrocardiograma y la radiografía de tórax PA y lateral no demuestran datos de isquemia ni desvelan consolidaciones parenquimatosas ni derrame pleural, respectivamente.
+El sedimento urinario es patológico, revelando la presencia de hematuria microscópica, piuria y bacteriuria abundante. Los nitritos son negativos. El urocultivo solicitado en la anterior visita a Urgencias es negativo.
+Se solicitan, asimismo, hemocultivos diferenciales y urocultivo.
+
+Diagnóstico
+Sospecha de ITU complicada resistente a antibioterapia oral en paciente inmunodeprimida.
+
+Tratamiento
+Ingreso hospitalario con antibioterapia intravenosa dirigida a foco urinario, consistente en ceftriaxona 2 g/24 horas, y realización preferente de ecografía urológica.
+
+Evolución
+La paciente ingresa con estabilidad clínica y hemodinámica. Durante el ingreso se administra antibioterapia dirigida a foco urinario. La ecografía urológica no demuestra colecciones sugerentes de absceso ni dilatación de la vía excretora. Pese a la ausencia de aislamientos microbiológicos, la paciente continúa con fiebre, distermia asociada y empeoramiento del estado clínico general, con astenia limitante. Se aumenta la cobertura antibiótica con piperacilina-tazobactam y vancomicina, y se extraen nuevos cultivos. Los extraídos en urgencias son negativos.
+Se solicita entonces ecocardiograma transtorácico y TC de tórax, abdomen y pelvis con contraste para descarte de complicaciones que justifiquen el cuadro clínico. La primera describe un discreto engrosamiento periaórtico, de dudosa significación; la segunda revela la presencia de un llamativo engrosamiento y realce del cayado aórtico, de la aorta descendente y de los troncos supraaórticos, sugerentes de vasculitis de grandes vasos. Con esta sospecha como posible causa del síndrome febril, se solicita estudio inmunológico y de autoinmunidad, serología viral y estudio de posibles fármacos desencadenantes de iatrogenia. Como resultados destacables, llama la atención una velocidad de sedimentación globular elevada (VSG; 140 mm; VN 1-20) y un título positivo bajo (1/80) de anticuerpos antinucleares (ANA), ambos inespecíficos. El título de IgG4 es normal. Todas las serologías son negativas y la paciente no cumple criterios para diagnóstico de enfermedad reumatológica. Una vez descartadas las demás causas, se considera el diagnóstico de vasculitis de grandes vasos secundaria a fármacos (más probable, G-CSF). Se prohíbe la administración de dicho fármaco y se inicia tratamiento con prednisona oral a dosis altas.

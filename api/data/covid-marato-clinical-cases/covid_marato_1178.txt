@@ -1,0 +1,26 @@
+Anamnesis
+Hombre de 47 años sin antecedentes patológicos de interés que acude a consulta en su médico de Atención Primaria por la aparición de una lesión cutánea en el flanco izquierdo. Refiere que le apareció hace aproximadamente 1 mes y ha ido aumentando de tamaño, siendo además pruriginosa. No comenta ningún otro síntoma acompañante.
+
+Exploración física
+Destaca la presencia de un nódulo subcutáneo, de unos 3 cm de diámetro, eritematoso, no doloroso, adherido a planos profundos y localizado en el flanco izquierdo. El resto de la exploración física resulta anodina.
+
+Pruebas complementarias
+Se decide realizar una exéresis del nódulo subcutáneo, siendo el resultado anatomopatológico compatible con carcinoma de células claras.
+Además, solicitamos una TC toracoabdominopélvica que pone de manifiesto la presencia de una masa renal izquierda heterogénea, con zona central necrótica, con ejes máximos de 98 x 80 mm, que surge de la cara posterior y que alcanza la práctica totalidad del riñón, con amplio contacto e infiltración de la arteria renal en el hilio y contacto con adelgazamiento focal de un segmento intrarrenal de la vena renal izquierda. También se observa una densidad de tejidos blandos de 27 mm de eje mayor que realza fuertemente, localizada entre el músculo oblicuo externo y el tejido celular subcutáneo del flanco izquierdo a la altura del riñón, en relación con nódulo subcutáneo metastásico (nódulo resecado). A su vez, existen nódulos pulmonares bilaterales de distribución difusa compatibles con metástasis, así como adenopatías hiliares bilaterales, la mayor de 19 mm. El resto del estudio no muestra otros hallazgos.
+El análisis sanguíneo resulta normal, incluyendo la función renal y el hemograma. De igual modo en la TC craneal no se observan hallazgos patológicos.
+
+Diagnóstico
+Con estos resultados, el paciente se somete a una nefrectomía radical izquierda por vía laparoscópica y exéresis de la metástasis subcutánea. El informe anatomopatológico confirma la presencia de un carcinoma renal de células claras (Fuhrman grado 1) de 9 cm (pT3a pN0 pM1). Nos encontramos pues ante un hombre de 47 años, sin antecedentes patológicos de interés, afecto de un carcinoma renal de células claras metastásico con afectación pulmonar y cutánea.
+
+Tratamiento
+Tras presentar el caso en el Comité de Tumores Urológicos se decide iniciar una primera línea de tratamiento anti-TKI-VEGF con sunitinib 50 mg/24 h con un esquema de 4 semanas de tratamiento y 2 de descanso.
+
+Evolución
+Tras 3 meses de tratamiento, el paciente presenta una respuesta parcial. Como toxicidades destaca un síndrome mano-pie, diarrea, disgeusia y astenia en relación con sarcopenia, todas ellas de grado 1, que no le limitan sus actividades cotidianas de la vida diaria.
+A los 5 meses de tratamiento, se mantiene la respuesta parcial pero la toxicidad comienza a ser más intensa, por lo que se decide modificar esquema de tratamiento a sunitinib 50 mg/24 h durante 2 semanas seguida de 1 de descanso.
+Con esta nueva posología, la calidad de vida del paciente mejora, pudiendo volver a realizar sus actividades cotidianas con normalidad. Al cabo de un año de tratamiento con sunitinib, el paciente presenta una respuesta parcial.
+Tras 16 meses de tratamiento, el paciente acude a consulta asintomático, salvo por el síndrome mano-pie residual, pero la TC de reevaluación objetiva una progresión pulmonar en relación con el crecimiento significativo de varios de los nódulos pulmonares metastásicos. En este momento se decide solicitar la aprobación de tratamiento con nivolumab en segunda línea.
+Tras obtener la aprobación del tratamiento, inicia segunda línea con nivolumab 3 mg/kg cada 14 días. A los 3 meses de tratamiento, el paciente se encuentra completamente asintomático y el estudio iconográfico muestra nuevamente una respuesta parcial, con marcada disminución de los nódulos pulmonares. Tras 32 ciclos de nivolumab, el paciente realiza vida normal y como única toxicidad destacable del tratamiento presenta una neumonitis a nivel de la língula que no le ocasiona disnea ni otra sintomatología. Para el estudio de la neumonitis realizamos pruebas de función respiratoria, broncoscopia y lavado broncoalveolar, sin evidencia de enfermedad.
+Al cabo de 6 meses de tratamiento con nivolumab, el paciente alcanza una respuesta completa, con una tolerancia excelente al mismo y llevando a cabo una vida normal.
+A los 15 meses de tratamiento con nivolumab se observa en la TC un nódulo de 1,5 cm en la glándula suprarrenal derecha, manteniéndose la respuesta completa en las lesiones pulmonares. Se presenta nuevamente el caso en el Comité de Tumores Urológicos y se decide realizar una suprarrenalectomía derecha. El estudio anatomopatológico desvela que se trata de una metástasis de carcinoma de células claras. El paciente continúa tratamiento con nivolumab y la TC posquirúrgica constata la persistencia de la respuesta completa tumoral sin otros hallazgos relevantes salvo la neumonitis ya conocida, y que no condiciona ninguna sintomatología.
+Actualmente el paciente presenta una supervivencia global de 3 años, ha recibido 42 ciclos de nivolumab, mantiene la respuesta completa, se encuentra asintomático y realiza una vida absolutamente normal.

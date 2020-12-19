@@ -1,0 +1,39 @@
+Anamnesis
+Se trata de un varón de 22 años, sin alergias medicamentosas conocidas, que no presenta antecedentes médicos ni quirúrgicos de interés. No existen antecedentes oncológicos familiares y no recibe tratamiento concomitante.
+
+En enero de 2014 es evaluado en otro centro por dolor abdominal, diarrea y sensación de distensión abdominal, sobre todo en el flanco izquierdo. Se realizó una tomografía computarizada tóraco-abdómino-pélvica (TC-TAP), que objetivó una masa suprarrenal izquierda, sin enfermedad a distancia. Se completó el estudio con analítica, marcadores tumorales, catecolaminas en orina, gammagrafía con yodo-131-metayodobenzilguanidina (MIBG) y biopsia de médula ósea.
+
+Con todo, se decidió realizar resección de dicha masa. En el estudio anatomopatológico el resultado fue de neuroblastoma anaplásico. Con ese diagnóstico se decidió remitir a nuestro hospital. Nuestra valoración inicial fue la de un neuroblastoma anaplásico del adulto estadio 1 del INSS (International Neuroblastom Stanging System). En este momento, dada la radicalidad de la cirugía, la ausencia de enfermedad demostrada (estadio 1) y sin factores biológicos conocidos desfavorables (c-Myc negativo), decidimos el seguimiento cada 3 meses durante el primer año con catecolaminas en orina de 24 horas, enolasa y estudio de imagen con tomografía por emisión de positrones (PET-TC), ya que la gammagrafía con MIBG había resultado negativa previamente.
+
+Sin embargo, en septiembre de 2014 en la TC-TAP se evidenció una recidiva local precoz en forma de cuatro nódulos periesplénicos. Se decidió en Comité Multidisciplinar de Sarcomas la resección de dichos nódulos.
+
+En noviembre de 2014 se realizó una laparotomía exploradora y se evidenciaron tres implantes en la superficie del bazo y en el ligamento gastroesplénico. Se procedió a la resección en bloque de bazo, epiplón mayor, parte del ligamento gastroesplénico y coloesplénico y la cápsula de Gerota.
+
+Exploración física
+Se valoró de nuevo al paciente tras la segunda intervención. Presentaba un buen estado general. En el abdomen había una ligera molestia en la palpación en la región epigástrica y en el hipocondrio izquierdo, pero no se palpaban masas ni megalias.
+
+Pruebas complementarias
+» Analítica dentro de la normalidad. Se solicitó la enolasa neuronal específica, que resultó de 9,78 nanogramos/mililitro (0-15).
+» Catecolaminas en orina de 24 horas: sin alteraciones.
+» Biopsia de médula ósea: sin evidencia de infiltración neoplásica.
+» Resonancia magnética: en la topografía de la glándula suprarrenal izquierda se apreciaba una imagen nodular de 17 x 16 mm que presentaba un aspecto heterogéneo, con una zona medial de aspecto más sólido y pequeñas áreas de aspecto microquístico.
+» PET-TC: recidiva tumoral por la visualización de hasta cuatro nódulos en el hipocondrio izquierdo.
+El mayor de ellos en el ligamento gastroesplénico de 15 mm y SUVmáx (Maximum Standardized
+Uptake Value) de 4,6 g(ml).
+» Biopsia: se remitieron muestras de bazo y epiplón. Se observaron tres implantes de tumor neuroectodérmico primitivo en la superficie esplénica y múltiples implantes en la grasa perihiliar esplénica. A nivel microscópico, dichos implantes estaban constituidos por una proliferación de alta densidad celular. Las células eran azules, redondas y con aumento de la actividad mitótica. En el estudio inmunohistoquímico la celularidad tumoral expresaba intensamente CD99 de patrón membranoso y mostraba diferenciación neuronal (sinaptofisina positiva). Sin embargo, era negativa para CD45. La traslocación del gen EWS mediante FISH (hibridación fluorescente in situ) fue positiva. La expresión de c-Myc fue negativa.
+
+Diagnóstico
+Con el resultado de la nueva biopsia, y habiendo revisado la muestra proveniente de otro centro, se trata de un caso excepcional: un sarcoma de Ewing-PNET (tumor neuroectodérmico periférico) en la glándula suprarrenal izquierda resecado pero con recaída precoz esplénica, nuevamente resecada y con persistencia de enfermedad a nivel abdominal en forma de implantes peritoneales. De esta manera, se descarta el diagnóstico inicial de neuroblastoma anaplásico del adulto.
+
+Tratamiento
+El post-operatorio inmediato cursó sin complicaciones, excepto por la presencia de febrícula mantenida que obligó a realizar una TC, que mostraba una colección postquirúrgica y una nueva recidiva precoz peritoneal.
+
+En diciembre de 2014, se decidió presentar nuevamente el caso en Comité Multidisciplinar de Sarcomas por la persistencia de implantes peritoneales pélvicos y en el peritoneo anterior izquierdo en la TC postquirúrgica y el diagnóstico de sarcoma de Ewing. De manera conjunta se tomó la decisión de comenzar con quimioterapia de inducción según esquema VIDE (vincristina, ifosfamida, adriamicina, etopósido) por seis ciclos cada 21 días y con profilaxis de neutropenia con factores estimulantes de colonias de granulocitos, con evaluación tras tercer y sexto ciclo y posteriormente plantear laparotomía exploradora y resección de toda la enfermedad residual.
+
+Evolución
+Recibió tres ciclos con muy buena tolerancia, excepto emesis grado 1 y un ingreso por fiebre neutropénica sin foco. Se evaluó tras la administración de tres ciclos con TC, que mostraba disminución de tamaño de los nódulos peritoneales, compatible con una buena respuesta parcial.
+
+Continuó con quimioterapia esquema VIDE por tres ciclos más.
+
+La evaluación de respuesta tras seis ciclos mostró excelente respuesta parcial, con la persistencia de un único nódulo pélvico. Por ello, tras finalizar la quimioterapia de inducción, en mayo de 2015, ha sido sometido a tratamiento quirúrgico de resección de enfermedad residual. Se ha realizado una resección de epiplón con tres nódulos, el mayor de 3 cm. Asimismo, resección de tres implantes en el peritoneo pélvico, que se han resecado en bloque.
+En la actualidad se encuentra pendiente de comenzar tratamiento con quimioterapia de consolidación según esquema VACtCD (vincristina, ciclofosfamida, actinomicina D) por ocho ciclos. 

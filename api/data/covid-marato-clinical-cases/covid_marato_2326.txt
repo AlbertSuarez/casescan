@@ -1,0 +1,34 @@
+Anamnesis
+Presento el caso de una mujer de 63 años, hipertensa, sin alergias medicamentosas conocidas y sin hábitos tóxicos.
+Diagnosticada en 2004, con 55 años, de adenocarcinoma de endometrio tipo endometrioide estadio IIA de la FIGO (T3aN0M0) a raíz de clínica de metrorragia posmenopáusica. Recibe tratamiento quirúrgico radical, histerectomía y doble anexectomía, radioterapia externa (44Gy) y braquiterapia (2 fracciones de 4 Gy). Inicia seguimiento en consultas externas de Oncología, permaneciendo asintomática.
+En 2013, se visualiza en RM hepática una lesión sugestiva de tumor fibroso solitario, que no varía de tamaño en los siguientes controles. En 2016 aparece clínica de dolor abdominal, y mínimo crecimiento de la lesión, por lo que se decide estudio histológico.
+
+Exploración física
+» ECOG 0. Tensión arterial: 138/70 mm Hg, frecuencia cardiaca: 65 lpm, frecuencia respiratoria 15, saturación de oxígeno 100 %.
+» Consciente y orientada. Normohidratada, normocoloreada. Buena perfusión distal.
+» Cabeza y cuello: ausencia de adenopatías en cadenas laterocervicales.
+» Auscultación pulmonar: ruidos respiratorios fisiológicos normales.
+» Auscultación cardiaca: rítmica, sin soplos.
+» Abdomen: blando, doloroso durante la palpación de hipocondrio derecho, Blumberg negativo, Murphy negativo, sin otros signos de irritación peritoneal, ausencia de semiología ascítica. Signo de Kehr positivo.
+» Extremidades inferiores: ausencia de edemas ni lesiones. Pulsos distales presentes, bilaterales y simétricos.
+
+Pruebas complementarias
+En junio de 2013 se realiza una RM hepática en la que aparece una masa de señal heterogénea (5,1 x 6,3 x 3 cm), con efecto masa sobre el hemidiafragma derecho, cuyas características plantean como primera posibilidad que se trate de un tumor fibroso solitario. Se realizan controles periódicos hasta enero de 2016 en que se describe un crecimiento de la masa de 2 cm con respecto a estudios previos. Se completa el estudio mediante TC abdominal, que informa de la presencia de una masa en la porción posterior del hemidiafragma derecho con unos diámetros de 6,2 x 7,6 x 3,4 cm que comprime el parénquima hepático, infiltrando la porción más central y que produce una pequeña atelectasia del LID pulmonar, no pudiendo valorarse si existe infiltración de la pleura diafragmática. La masa presenta captación de contraste heterogénea con áreas de necrosis en su interior. Plantea como primera posibilidad que se pueda tratar de un tumor fibroso solitario, sin poder descartar otras neoplasias primarias diafragmáticas de tipo neurogénico mesenquimal (leiomiomas, tumor desmoide, etc.).
+En el hemograma y bioquímica no se detectan alteraciones clínicamente relevantes, y únicamente destaca una mínima elevación de CA 125.
+Se decide evaluar el caso en comité multidisciplinar de tumores digestivo y, dado el comportamiento discordante para un tumor benigno con un crecimiento relevante en los últimos tres meses, se remite a cirugía para diagnóstico histológico de la lesión.
+
+Diagnóstico
+La anatomía patológica (AP) de la tumorectomía es compatible con: infiltración de lóbulo hepático derecho, diafragma, lóbulo inferior del pulmón derecho y pleura por adenocarcinoma de alto grado (6,5 cm de diámetro), con características inmunohistoquímicas concordantes con origen endometrial. Los bordes se encuentran a 0,9 cm del borde quirúrgico pulmonar y a 2 mm del borde quirúrgico hepático.
+El perfil inmunohistoquímico revela expresión intensa y difusa de CKAE1/AE3, CK7, CK19, vimentina, TTF-1, PAX8 y RRHH en las células tumorales. Napsina, CDX2, SATB2, CK20, mamoglobina y GCDFP15 negativos.
+Por tanto, se trata de recidiva de adenocarcinoma de endometrio tras 12 años de intervalo libre de progresión (ILP).
+
+Tratamiento
+» La paciente es evaluada en consultas externas donde se solicita PET para valorar la presencia de enfermedad residual y poder plantear quimioterapia complementaria.
+» La PET informa de ausencia de captación patológica a ningún nivel por lo que el día 21/06/2016 se inicia quimioterapia según esquema carboplatino AUC 5 (25 + 52): 385 mg + paclitaxel 175 mg/m2: 280 mg x 6 ciclos, que finaliza en septiembre de 2016.
+» Inicia seguimiento en consultas.
+
+Evolución
+En TC de control, tras finalizar tratamiento QMT, en octubre de 2016 aparece una lesión quística en la periferia esplénica de aproximadamente 2 cm que ha doblado su tamaño respecto a estudio de TC previo. Se solicita PET-TC para valorar rescate quirúrgico de la lesión.
+En PET se observan adenopatías con intenso aumento del metabolismo glucídico a nivel IIa derecho (12 mm y SUVmax 13,7 g/ml) y a nivel IIa izquierdo (7 mm y SUVmax 6,1 g/ml). Se observa también implante/metástasis hepática en segmento VI (lesión hipodensa de 15 x 7 mm y SUVmax 8,2 g/ml) y una dudosa afectación tumoral de la cúpula hepática adyacente a la malla quirúrgica.
+Ante progresión de enfermedad a nivel ganglionar y hepática, con un intervalo libre de platino menor a dos meses, el día 24/11/2016 se inicia quimioterapia en 2ª línea según esquema topotecán 3 mg/m2 días 1, 8 y 15, cada 28 días x 6 ciclos. La paciente presenta toxicidad hematológica y astenia intensa tras el tercer ciclo, que obligan a retrasar una semana el 4º ciclo y a reducir la dosis al 80 %. Tras 3 ciclos, respuesta radiológica > 75 % y se alcanza respuesta completa radiológica tras 6 ciclos, por lo cual finaliza quimioterapia en mayo de 2017.
+Inicia de nuevo seguimiento en consultas externas de Oncología, vista por última vez el 15/04/2018, sin datos de recidiva, con ILP de 11 meses.

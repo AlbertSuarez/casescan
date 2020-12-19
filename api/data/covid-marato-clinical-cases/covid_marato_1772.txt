@@ -1,0 +1,22 @@
+Anamnesis
+Mujer de 59 años de edad, sin alergias medicamentosas conocidas, no fumadora, con hipertensión arterial y dislipemia, ingresa en el Servicio de Medicina Interna en abril de 2010 por estudio de síndrome tóxico y cuadro de hipoestesia en el labio superior, así como parestesias en la mano derecha.
+
+Examen físico
+Paciente consciente y orientada, eupneica en reposo. TA 160/86 mmHg, FC 68 lpm, saturación basal 99%, temperatura 36 ºC. AC: ritmo sinusal, sin ruidos sobreañadidos. AR: MVC, no broncoespasmo. ABD: blando y depresible, peristaltismo presente, no masas ni visceromegalias. NRL: pares craneales presentes y simétricos; fuerza y sensibilidad conservadas en todas las extremidades. No edemas en las extremidades ni signos de TVP.
+
+Pruebas complementarias
+- Durante su estancia en la Sala de Hospitalización, se realizan diversas pruebas complementarias, entre las cuales se realiza un análisis sanguíneo, donde destaca una anemia microcítica microcroma, sin otras alteraciones, una TC de cráneo y posterioremente una RM del SNC, donde se aprecian múltiples lesiones expansivas intraparenquimatosas bihemisféricas, supra e infratentoriales, la mayoría situadas a nivel cortico o corticomedular, sugestivas de metástasis.
+- Se realiza también una TC TA, donde destaca un nódulo pulmonar de 25 mm en el LII sugestivo de neoformación pulmonar.
+- Se completa el estudio con una FBS, que no evidencia lesiones, y una PET, observándose en esta última una masa hipermetabólica en el segmento posterior del LII y adenopatias patológicas hiliares izquierdas, subcarinales y paratraqueales derechas.
+
+Diagnóstico
+Finalmente, se realiza biopsia transtorácica de la lesión pulmonar en el LII, siendo compatible con adenocarcinoma de pulmón, y el análisis molecular muestra mutación en EGFR (deleción del exón 19).
+Por tanto, se diagnostica finalmente de adenocarcinoma de pulmón estadio IV por múltiples metástasis cerebrales, en paciente mujer, no fumadora, con buen estado clínico, y con deleción del exón 19 del gen EGFR.
+
+Tratamiento
+El primer tratamiento que se realizó es radioterapia holocraneal, dada la gran extensión metastásica en el SNC y la clínica neurológica (hipoestesia peribucal y parestesias en las manos). Una vez finalizada la radioterapia, el 5 de mayo de 2010 se inició tratamiento con un inhibidor tirosina-cinasa de EGFR como gefitinib.
+
+Evolución
+Tras varios meses de tratamiento con gefitinib, se observó respuesta completa radiológica, tanto a nivel cerebral como a nivel extracraneal, así como desaparición de la clínica neurológica.
+En mayo de 2012, tras 2 años de tratamiento continuado con gefitinib, en la TC de control se objetivó la aparición de una lesión en el SNC sugestiva de metástasis, así como una lesión pulmonar en el LII y adenopatías hilio-mediastínicas, estando la paciente asintomática. En este momento se decidió tratamiento con quimioterapia esquema cisplatino-pemetrexed, alcanzando respuesta parcial tras 4 ciclos. La paciente siguió entonces tratamiento con gefitinib.
+En abril de 2014, una nueva TC de tórax mostraba progresión pulmonar y adenopática. Clínicamente, la paciente presentaba leve aumento de la disnea y la astenia, por lo que se inició tratamiento con un inhibidor irreversible tirosina-cinasa (afatinib). Actualmente, estamos pendientes de valoración radiológica, pero la paciente presenta buena tolerancia, con mejoría significativa de la clínica.

@@ -1,0 +1,55 @@
+Anamnesis
+Mujer de 70 años con los siguientes antecedentes personales:
+- No alergias medicamentosas conocidas.
+- HTA, no DM, no DL.
+- No antecedentes familiares de interés.
+- No hábitos tóxicos.
+- Antecedentes ginecológicos: menarquia 12 años; FUR 48 años; G4A1 (embarazo ectópico) V3. Edad del primer embarazo a término 22 años. Lactancia natural 24-48 meses.
+- Intervenciones quirúrgicas: embarazo ectópico, apendicectomía, colecistectomía, histerectomía por prolapso vaginal.
+Tratamiento habitual: letrozol, losartán, amlodipino.
+Historia oncológica: mujer de 70 años que en una mamografía de cribado realizada en agosto de 2013 se objetiva un área asimétrica con microcalcificaciones en el cuadrante inferoexterno de la mama derecha. Se realiza una biopsia, con el resultado anatomopatológico de carcinoma intraductal tipo comedo (receptores de estrógenos 100%+, receptores de progesterona 90%+, Ki 67 < 14%, HER2-). El día 10 de septiembre de 2013 se realiza cuadrantectomía del cuadrante inferoexterno de la mama derecha y biopsia selectiva de ganglio centinela, que resulta negativa por método OSNA.
+La biopsia de la pieza quirúgica fue compatible con carcinoma ductal infiltrante grado 1 de Nottingham multifocal (foco de 4 x 2,5 mm a 6 mm del borde superior; foco de 2 x 1 mm a 1 cm del borde interno) con extenso carcinoma intraductal de bajo grado (patrón cribiforme con microcalcificaciones a 1 mm del borde externo y 3 mm del borde interno). El parénquima mamario mostraba focos de hiperplasia ductal típica y atípica y signos de biopsia previa. En los bordes de ampliación se identificaba carcinoma intraductal de bajo grado en los bordes superior, interno y externo, quedando adyacente al borde quirúrgico superior. El perfil inmunohistoquímico del componente infiltrante mostraba receptores de estrógenos 100%+, receptores de progesterona 20%+, Ki 67 8-10%, HER2-.
+El día 23 de octubre de 2013 se realizó ampliación del borde superior, sin restos tumorales en el análisis anatomopatológico.
+El juicio clínico definitivo fue de carcinoma ductal infiltrante grado 1 de Nottingham pT1aN0M0, Luminal A-like.
+Se realizó estudio de extensión con analítica completa y radiografía de tórax, sin que se objetivasen datos de enfermedad a distancia, y el día 29 de noviembre de 2013 inició tratamiento adyuvante con hormonoterapia con letrozol y radioterapia desde el 19 de diciembre de 2013 al 13 de enero de 2014, recibiendo una dosis de 4.250 Gy sobre la mama derecha.
+En enero de 2014, la paciente refería cuadro catarral con fiebre termometrada de más de 39 ºC, por lo que había seguido tratamiento con amoxicilina y posteriormente levofloxacino durante 10 días, con mejoría del cuadro. Por este motivo se solicitó una radiografía de tórax, en la que se objetivan adenopatías mediastínicas e hiliares e imágenes pseudonodulares en vidrio deslustrado. Tras los hallazgos en la radiografía de tórax se amplió el estudio de imagen con una TC tóraco-abdómino-pélvica, que confirmaba dichas alteraciones.
+Se optó por realizar un nuevo control radiológico en febrero de 2014, persistiendo los hallazgos mencionados anteriormente, por lo que se solicitó estudio que descartaba patología autoinmune e infección por microorganismos típicos. Por este motivo la paciente ingresó para completar el estudio.
+
+Examen físico
+TA 130/70 mmHg; FC 85 lpm; temperatura 36,6 ºC; SatO2 97%.
+Consciente y orientada. Eupneica en reposo. Buen estado de nutrición, hidratación y perfusión. Buena coloración de piel y mucosas.
+Cabeza y cuello: carótidas rítmicas y simétricas. PVY normal. No adenopatías.
+Auscultación cardiaca: rítmica, sin soplos.
+Auscultación pulmonar: murmullo vesicular conservado sin ruidos sobreañadidos.
+Mamas: cicatriz en la unión de intercuadrantes inferiores y cambios posradioterapia en la mama derecha. Mama izquierda normal. Axilas libres.
+Abdomen: blando, depresible. No doloroso a la palpación profunda. No masas ni megalias. RHA+. No signos de irritación peritoneal.
+EEII: no edemas, no signos de TVP. Pulsos pedios positivos.
+Neurológico: no focalidad neurológica ni signos de irritación meníngea.
+Espinopercusión no dolorosa.
+
+Pruebas complementarias
+- Bioquímica, incluyendo función renal, hepática, iones y perfil lipídico, normal, salvo fosfatasa alcalina 113 mU/ml y LDH 554 mU/ml.
+- Marcadores tumorales: CA 15-3 41,5 U/ml.
+- Hemograma normal.
+- Anticuerpos antinucleares IgG negativos.
+- Serologías Chlamydia pneumoniae, VIH y Mycoplasma pneumoniae negativos.
+- Radiografía de tórax: asimetría en las mamas. Clips en la mama derecha. Cardiomegalia. Adenopatías mediastínicas en diferentes cadenas ganglionares, las de mayor tamaño a nivel hiliar derecho y subcarinal. Pequeño granuloma en el lóbulo superior izquierdo. No se visualiza derrame pleural.
+- TC de tórax-abdomen-pelvis: múltiples adenopatías mediastínicas: en el mediastino superior de 7-9 mm, paratraqueales derechas de 12 mm, subcarinales de 24 mm e hiliares bilaterales de tamaño impreciso pero sin apariencia patológica. Cambios en la mama derecha en relación con neoplasia de mama y cambios postratamiento. No se objetiva derrame pleural. Nódulo pulmonar calcificado (granuloma) de 6 mm en el lóbulo superior izquierdo.
+Engrosamiento de los septos intersticiales en el lóbulo medio y el lóbulo inferior derecho con opacidades nodulares en vidrio deslustrado en el lóbulo inferior derecho. No se visualizan adenopatías abdómino-pélvicas de tamaño patológico, masas o líquido libre. Hígado, bazo, páncreas, suprarrenales y riñones sin alteraciones morfológicas relevantes.
+- Broncoscopia: cuerdas vocales, tráquea y carina sin alteraciones. Ambos árboles bronquiales sin hallazgos. Se realiza PAAF de carina y biopsia transbronquial.
+- PAAF de carina (PCR): micobacteria no tuberculosa (Mycobacterium avium complex).
+- Biopsia transbronquial: granulomas epitelioides no queratinizantes.
+
+Diagnóstico
+Carcinoma de mama pT1aN0M0, luminal A.
+Infección pulmonar por micobacteria no tuberculosa.
+
+Tratamiento
+La paciente fue remitida al Servicio de Enfermedades Infecciosas, iniciando tratamiento con triple terapia antibiótica.
+- Azitromicina 500 mg: 1 comprimido lunes, miércoles y viernes.
+- Rifampicina 600 mg: 1 comprimido en ayunas martes, jueves y sábado.
+- Etambutol 400 mg: 3 comprimidos martes, jueves y sábado.
+
+Evolución
+Actualmente ha cumplido 3 meses de tratamiento antibiótico, con buena tolerancia subjetiva, presentando como toxicidad diarrea leve y sin alteraciones en los controles analíticos realizados, aunque en las pruebas de imagen aún persisten las adenopatías.
+Además, continúa con el tratamiento adyuvante con letrozol sin datos de recidiva de su neoplasia mamaria.

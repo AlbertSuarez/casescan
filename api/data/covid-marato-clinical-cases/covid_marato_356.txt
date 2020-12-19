@@ -1,0 +1,20 @@
+Exploración física
+La paciente presenta buen estado general, normocoloreada, bien hidratada y perfundida, eupneica. Destaca en la exploración la aparición en mama izquierda de una lesión violácea en la zona superior del cuadrante interno de 2 cm y otra lesión violácea, indurada y dolorosa con equimosis subyacente de unos 5 cm sobre la cicatriz. En la palpación no se aprecian adenopatías periféricas. El resto de la exploración es anodina.
+
+Pruebas complementarias
+Se toma biopsia de la lesión de mayor tamaño, resultando inespecífica y sin signos de malignidad. Ante el aumento de tamaño de la lesión y adquisición de aspecto necrótico, en diciembre de 2016, se remite al servicio de Dermatología quienes repiten la biopsia, obteniéndose los mismos resultados.
+Se decide, por tanto, realizar exéresis quirúrgica de la lesión cutánea por parte de Dermatología el 31 de diciembre 2016, siendo informada como histología compatible con angiosarcoma cutáneo.
+Se realiza TC toracoabdominal para estadiaje de la enfermedad, visualizándose un aumento de la densidad mamaria con engrosamiento cutáneo asociado, sospechoso de malignidad sin evidenciarse adenopatías mediastínicas ni intrabdominales.
+
+Diagnóstico
+Angiosarcoma cutáneo convencional de 4,5 cm, grado histológico 3 (según sistema de gradación de la FNCLCC), extensión tumoral hasta tejido celular subcutáneo, índice mitótico de 24 mitosis/10 CGA con márgenes libres. Inmunohistoquímica positiva para CD34 y negativa para HHV8 con un Ki 67 de 60 %. Estadio TNM: pT1a Nx Mx.
+
+Tratamiento
+Ante la sospecha de persistencia de la enfermedad y rápido crecimiento local, se valora el caso en comité de tumores de mama conjuntamente con Nefrología y Ginecología, decidiéndose realizar mastectomía simple de mama izquierda, que se lleva a cabo en febrero de 2017.
+
+Evolución
+Es remitida a consulta de Oncología en febrero 2017 para seguimiento y tratamiento posterior, encontrándose la paciente asintomática con ECOG 0.
+En marzo 2017, se realiza PET para actualizar la situación de la enfermedad, objetivándose un nódulo subcutáneo de 8 mm hipermetabólico con SULpeak 1.9 situado en región anterior al extremo proximal de clavícula izquierda, y que impresiona de adenopatía patológica (SULpeak de referencia 2.65). Se realiza ecografía de partes blandas, apreciándose la adenopatía sospechosa de 12 x 10 mm, en tejido graso subcutáneo, no adherida ni dependiente del hueso, y se realiza biopsia percutánea.
+Los resultados de Anatomía Patológica revelan tejido de necrosis sin poder reconocer ganglio linfático. Al realizarse inmunohistoquímica se observa expresión de CD31, CD34 y factor VIII , con expresión de receptores estrogénicos negativos, lo que sugiere metástasis de angiosarcoma.
+En abril de 2017, se reseca quirúrgicamente la metástasis con bordes libres.
+Dada la ausencia de enfermedad residual macroscópica objetivada en nueva PET (mayo 2017), se desestima tratamiento radioterápico y se decide, tras valorar de nuevo el caso conjuntamente con Nefrología, la administración de paclitaxel a dosis de 80 mg/m2 semanal con intención adyuvante, que se inicia el 5 de junio de 2017. Actualmente, lleva tres ciclos de los 12 planificados, administrados sin incidencias y manteniendo la función renal estable (creatinina basal en torno a 3.5).

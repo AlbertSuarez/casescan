@@ -1,0 +1,26 @@
+Anamnesis
+Paciente de 19 años que consulta por crecimiento progresivo de tumoración en nalga derecha de un año de evolución.
+
+Examen físico
+A la exploración, destaca tumoración dependiente de nalga derecha de, aproximadamente, 20 cm de diámetro.
+Resto del examen físico sin hallazgos.
+
+Pruebas complementarias
+Resonancia magnética pélvica: tumoración excéntrica en nalga derecha de 13,5 x 16 x 8,8 cm con aporte de pequeños vasos a nivel craneal, condicionando alta vascularización en su porción media y áreas de fibrosis y necrosis en su porción periférica.
+Tomografia computarizada toracoabdominopélvica (TC): ganglios linfáticos aumentados en regiones inguinales y cadenas ilíacas derechas con una adenopatía ilíaca externa derecha de 11 mm de eje corto.
+Se realiza exéresis quirúrgica completa de la tumoración con resultado anatomopatológico (AP) de sarcoma de células redondas grandes de alto grado de 20 cm de diámetro mayor. Márgenes libres. Invasión vascular y linfática.
+Inmunohistoquímica: CD99+++, CKAE1/AE3++, Ki67: 85 %. Las determinaciones para traslocación EWS-FLI1 y EWS-ETS para sarcoma de Ewing fueron negativas, enviándose tejido en fresco para estudio de traslocaciones poco comunes, detectándose traslocación CIC/DUX4 t(4:19), correspondiente a sarcoma Ewing-like.
+Ante dicho diagnóstico se realiza:
+Tomografía por emisión de positrones (PET): dos acúmulos patológicos en cadena ganglionar ilíaca interna derecha (20 mm, SUVmáx 4.3) y en adenopatía inguinal inferior derecha (28 mm, SUVmáx 5.0).
+TC pélvica: aumento de adenopatías inguinales derechas, las mayores de 38 y 28 mm de eje corto.
+
+Diagnóstico
+Sarcoma indiferenciado de células redondas grandes de alto grado tipo Ewing-like. Estadio III, T2aN1M0.
+
+Tratamiento
+Tras la exéresis quirúrgica y completar estudio de extensión, se presenta el caso en el Comité decidiéndose inicio de tratamiento según esquema VAC-IE (vincristina-doxorrubicina-ciclofosfamida alternado con ifosfamida-etopósido).
+
+Evolución
+Tras tres ciclos de tratamiento, a la exploración, se aprecia aumento de tamaño de la adenopatía inguinal derecha. Se solicita TC donde se objetiva un marcado crecimiento de adenopatías inguinales derechas, de 44 y 48 mm de eje corto.
+Ante la evidente progresión ganglionar, se comenta el caso en Comité y se decide la exéresis ganglionar inguinal derecha. El resultado AP mostraba metástasis por sarcoma indiferenciado en 2/2 ganglios linfáticos inguinales derechos extirpados, el mayor de 90 mm, con el mismo perfil inmunohistoquímico que la lesión primaria, tipo Ewing-like.
+Actualmente pendiente de la realización de PET para decisión terapéutica.

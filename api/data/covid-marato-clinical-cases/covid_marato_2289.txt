@@ -1,0 +1,31 @@
+Anamnesis
+Diagnosticado en diciembre 2012 de carcinoma de células renales tras hallazgo casual en revisión ecográfica. Se plantea el caso en Comité de Tumores Urológicos, que, al tratarse de enfermedad localizada, sin afectación a otro nivel en estudio de extensión, se decide nefrectomía radical con intención curativa. La Anatomía Patológica confirma el diagnóstico de carcinoma renal de células claras estadificándose como T3aN0M0.
+El paciente continúa seguimiento en consultas de Oncología mediante pruebas de imagen, manteniéndose en respuesta completa hasta marzo 2014 cuando, en TC de reevaluación, se identifica progresión a nivel pulmonar con múltiples nódulos pulmonares bilaterales de un tamaño máximo de 11 mm.
+Siendo catalogado el paciente como de buen pronóstico atendiendo a la clasificación de Heng, se inicia tratamiento antiangiogénico de primera línea con pazopanib: 800 mg/día vía oral. Como toxicidad secundaria a pazopanib, presentó palidez cutánea y coloración blanca del cabello, astenia grado 3, disgeusia grado 2 y diarrea grado 2 que requirió reducción de dosis a 600 mg/día con buena tolerancia.
+Continúa tratamiento con pazopanib, presentando respuesta parcial durante los primeros meses y posteriormente manteniéndose en enfermedad estable con una adenopatía mediastínica y una única lesión pulmonar visible en lóbulo superior decidiéndose continuar pazopanib. Después de cuatro años con enfermedad estable mantenida con pazopanib, presenta en TC de febrero de 2018 nueva progresión a nivel pulmonar con reaparición de las lesiones pulmonares al diagnóstico.
+Inició tratamiento de segunda línea con inmunoterapia con nivolumab, consiguiendo estabilización de su enfermedad oncológica hasta que en junio 2018 (cinco meses tras haber comenzado con nivolumab), ingresa en planta de Oncología por detectarse en analítica de control trombocitopenia severa (5.000 plaquetas) y sangrado externo consistente en epistaxis y petequias en extremidades inferiores. Ante sospecha de toxicidad hematológica inmunomediada, se solicitan test de Coombs directo e indirecto, siendo ambos negativos así como serología de virus, detectándose positividad para parvovirus B19. Se valoró posibilidad de púrpura trombocitopénica inmune grado 4 secundaria a nivolumab, y se pautó tratamiento mediante corticoterapia con recuperación de cifras de plaquetas.
+Ante la duda de que el cuadro hematológico fuera secundario a antibióticos que el paciente había recibido en el mes previo por infección respiratoria o bien desencadenada por cuadro vírico, se decidió reiniciar tratamiento con nivolumab.
+Un mes después, el paciente acude a Urgencias por fiebre 39 ºC, aumento de tos sin expectoración, disnea de moderados esfuerzos de cuatro días de evolución.
+
+Exploración física
+ECOG 1. Estable hemodinámicamente. Taquipnea durante la conversación. Durante la auscultación cardiopulmonar: tonos cardiacos rítmicos, crepitantes bibasales. Extremidades inferiores: aumento de edemas con discreta fóvea sin signos de trombosis venos profunda.
+
+Pruebas complementarias
+Hemograma y bioquímica sanguínea incluyendo ionograma, función renal y pruebas de función hepática sin alteraciones. Gasometría arterial: insuficiencia respiratoria, alcalosis respiratoria.
+Radiografía de tórax: infiltrados pulmonares de predominio derecho.
+TC de tórax: extensa afectación intersticial de predominio en hemitórax derecho con patrón de predominio reticular secundario al tratamiento inmunoterápico. Áreas de consolidación en lóbulo superior derecho en relación con sobreinfección.
+Durante el ingreso, refiere persistencia de fatiga, debilidad generalizada, náuseas y vómitos. Se solicita perfil hormonal destacando hipotiroidismo e insuficiencia suprarrenal secundarios de nueva aparición. Se decidió completa el estudio mediante resonancia magnética (RM) cerebral con gadolinio sin objetivarse captaciones patológicas, hipófisis de tamaño, morfología y situación normales.
+
+Diagnóstico
+» Neumonitis inmunomediada grado 3 secundaria a tratamiento con nivolumab.
+» Panhipopituitarismo secundario a hipofisitis grado 2 por nivolumab.
+
+Tratamiento
+En cuanto al manejo de la neumonitis; se solicita colaboración con Unidad de Enfermedades Infecciosas para descartar etiología de sobreinfección atípica. Se suspende tratamiento con nivolumab. Se administra metilprednisolona intravenoso 1 mg/kg/día, se añade antibioterapia empírica y se realiza broncoscopia con resultados microbiológicos negativos.
+Para el manejo del panhipopituitarismo, se trabaja conjuntamente con endocrinología pautándose tratamiento corticoide y suplementación hormonal.
+
+Evolución
+El paciente presentó una evolución tórpida con un largo ingreso complicado con descompensación de insuficiencia cardiaca y aparición de fibrilación auricular rápida de novo que requirió ajuste de tratamiento por parte de Cardiología.
+Como complicaciones secundarias a altas dosis y uso prolongado de corticoterapia, el paciente desarrolló síndrome de Cushing iatrogénico y cuadro maniaco-depresivo que precisó control por parte de Psicosomática.
+Tras recuperación de la clínica por la que precisó el ingreso, y a pesar de no existir progresión de su enfermedad oncológica en pruebas de imagen, dada imposibilidad de continuar con inmunoterapia por toxicidad secundaria (púrpura trombocitopénica inmune grado 4/neumonitis grado 3/hipofisitis grado 2), se comienza tercera línea con cabozantinib en octubre 2018 manteniéndose en enfermedad estable hasta el momento actual. Como clínica que ha limitado su calidad su vida durante este tiempo ha sido persistencia de astenia grado 3 y exacerbación de su disnea habitual, motivo por el cual ha precisado seguimiento por parte de Cardiología, detectándose en ecocardiograma de control, fracción de eyección del ventrículo izquierdo en torno a 20 %.
+Actualmente, se debe valorar riesgo-beneficio de mantener tratamiento con cabozantinib, aun sabiendo que dicho tratamiento empeoraría su disnea y astenia y se ha decidido reiniciar cabozantinib a dosis reducida (40 mg/día).

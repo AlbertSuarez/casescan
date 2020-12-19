@@ -1,0 +1,29 @@
+Anamnesis
+Mujer de 51 años sin antecedentes patológicos ni familiares de interés que en octubre de 2016 es diagnosticada de melanoma coroideo derecho estadio IV por diseminación hepática múltiple, sin presentar mutación en el Gen BRAF.
+En diciembre de 2016 comienza tratamiento dentro de un ensayo clínico de fase II con la combinación de inmunoterapia con los fármacos nivolumab e ipilimumab con buena tolerancia inicial al mismo.
+Durante el tratamiento, tras la administración del segundo ciclo del mismo, se derivó a consultas de Endocrinología para valoración y tratamiento de tiroiditis autoinmune con tirotoxicosis y gammagrafía tiroidea hipocaptante, además de elevación de los anticuerpos antitiroperoxidasa (anti-TPO) que evolucionó rápidamente a hipotiroidismo grave precisando tratamiento sustitutivo con Levotiroxina a 75 microgramos al día.
+Posterior a la administración del tercer ciclo, recibe tratamiento con braquiterapia orbitaria derecha con una dosis total recibida de 63 Gray (Gy).
+A las dos semanas de finalizar la braquiterapia, y tras cuatro semanas de haber recibido el tercer ciclo de tratamiento con nivolumab e ipilimumab, pendiente de administrar el cuarto ciclo, comienza con una clínica inespecífica de una semana de evolución de cefalea frontal con náuseas y vómitos alimenticios no relacionados con la ingesta, fotofobia, deterioro del estado general con astenia intensa y sensación vertiginosa al deambular.
+Ante el empeoramiento progresivo de dichos síntomas decide acudir a Urgencias donde se realiza una tomografía computarizada (TC) cerebral sin hallazgos, salvo la tumoración ocular derecha conocida, por lo que ingresa en planta para completar estudio.
+
+Exploración física
+Presenta unas constantes vitales estables, con tendencia a la hipertensión, frecuencia cardiaca normal, afebril y saturación de oxígeno basal normal.
+Durante la exploración física se muestra consciente y orientada; sin focalidad neurológica, con la exploración de los pares craneales normales salvo alteración en la movilidad del ojo derecho secundario a la braquiterapia administrada. No presenta alteración del patrón respiratorio, con una auscultación pulmonar sin alteraciones. Se encuentra bien perfundida y coloreada, con una auscultación cardiaca normal, sin soplos cardiacos ni extratonos. En la exploración abdominal se objetiva una hepatomegalia de tres traveses de dedos, indolora, con el resto de la exploración abdominal normal.
+
+Pruebas complementarias
+Ante la clínica de la paciente y los antecedentes de la misma, se solicita un análisis de sangre completo donde presenta un hemograma normal, una bioquímica normal salvo hiponatremia de 125 miliequivalentes por litro (mEq/l) e hipocloremia de 87 mEq/l. El perfil hepático está alterado con una enzima fosfatasa alcalina (FA) de 357 unidades por litro (U/l), gamma-glutamil transpeptidasa (GGT) de 683 U/l, glutamato-oxalacetato transferasa (GOT) de 94 y glutamato piruvato transaminasa (GPT) de 121 U/lc(dicha alteración ya la presentaba anteriormente en relación con la diseminación metastásica). Con respecto al análisis de las hormonas del eje hipotálamo-hipofisario, presenta los resultados que a continuación se describen: una tiroxina libre de 0,80 nanogramos por decilitro (ng/dl), una tirotropina (TSH) de 0,22 miliunidades internacionales por litro (mUI/l), cortisol 2l9 microgramos por decilitro, adrenocorticotropa (ACTH) 5,2 picogramos por mililitro, estradiol < 5 picogramos por mililitros, y el resto normal.
+Además, se solicita una resonancia magnética nuclear (RMN) de la silla turca e hipófisis, donde se objetiva un aumento de la glándula hipofisaria con presencia de un nódulo hipocaptante anterior con extensión posterolateral izquierda compatible con macroadenoma sin invasión de las estructuras adyacentes.
+
+Diagnóstico
+Hipofisitis secundaria al tratamiento inmune. Hiponatremia moderada. Astenia moderada secundaria.
+
+Tratamiento
+Ante el actual escenario, con la suma de los síntomas clínicos, el resultado de los análisis donde se observa un hipopituitarismo y el macroadenoma de la hipófisis descubierto en la RMN, se comenta el caso con el Servicio de Endocrinología y el cuadro parece ser compatible con una hipofisitis secundaria al tratamiento inmune.
+Se inicia tratamiento con corticoides con metilprednisolona a una dosis de 1,5 miligramos (mg) por cada kilogramo de la paciente al día con administración intravenosa (60 mg al día).
+
+Evolución
+Tras el inicio de la pauta de corticoides la paciente presenta mejoría progresiva de los síntomas, con disminución de la cefalea, así como de la astenia, resolución completa de las náuseas y vómitos, y normalización progresiva del eje hormonal y la hiponatremia.
+Tras la buena evolución de la paciente se decide alta a domicilio con pauta en descenso lento de corticoides con equivalentes orales.
+Se realiza un control con RMN tras un mes de inicio de tratamiento corticoide donde presenta disminución del tamaño de la glándula hipofisaria.
+Tras resolución de la hipofisitis, en abril de 2017, recibe el cuarto ciclo de nivolumab más ipilimumab.
+En mayo de 2017, acude a consulta de forma urgente por empeoramiento del estado general, dolor en hipocondrio derecho con mal control del mismo a pesar del inicio de opioides, ictericia conjuntival, por lo que se ingresa para estudio objetivándose un aumento del tamaño de las lesiones hepáticas, así como empeoramiento de la función hepática. Se pautan corticoides a altas dosis, se ajusta analgesia y se inicia hidratación con posterior deterioro del estado general precisando inicio de sedación para control de los síntomas, produciéndose el exitus de la paciente.

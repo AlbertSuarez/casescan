@@ -1,0 +1,46 @@
+Anamnesis
+Varón de 59 años, sin alergias medicamentosas conocidas, exfumador desde hace 20 años con un consumo acumulado de 25 paq/año y sin otros antecedentes personales de interés, que en junio de 2014 acude a Urgencias de nuestro centro por clínica respiratoria de una semana de evolución consistente en tos productiva, dolor leve de características pleuríticas y febrícula de 37.5ºC. No disnea, previamente tos crónica irritativa de larga data.
+
+Exploración física
+Paciente con buen estado general, bien hidratado y perfundido. Hemodinámicamente estable, con febrícula de 37.3ºC.
+Eupneico, tolera conversación sin uso de musculatura accesoria.
+Ausencia de adenopatías palpables laterocervicales o supracervicales.
+A la auscultación, ritmo regula a 90lpm, MVC sin ruidos sobreañadidos.
+Abdomen blando y depresible, sin masas ni megalias, no doloroso a la palpación, ruidos hidroaéreos conservados.
+Miembros inferiores sin edemas ni signos de TVP.
+
+Pruebas complementarias
+Se realiza radiografía de tórax que muestra una imagen compatible con masa en zona hiliar izquierda y una analítica con resultado normal, de la que solo destaca PCR 20mg/dl. Ante estos hallazgos, se decide ingreso a cargo de Neumología que completa estudio.
+Se solicita tomografía computarizada (TC) de tórax que evidencia una masa pulmonar de 10 centímetros de diámetro máximo en lóbulo superior derecho (LSD) que invade arteria y vena pulmonar izquierda con invasión endoluminal de ambas. Además, contacta con la aurícula izquierda, asocia adenopatías mediastinicas e hiliares contralaterales junto con nódulos pulmonares múltiples bilaterales.
+Se completa estudio que descarta enfermedad a otros niveles, se realiza espirometría con valores dentro de la normalidad (CVF (capacidad vital forzada): 3940 (87%) y FEV1 (volumen espiratorio forzado en un segundo): 3560 (100%), FEV1/CVF: 90) y broncoscopia con resultado histopatológico de carcinoma escamocelular.
+
+Diagnóstico
+Con el estudio ya completado, es dado de alta de Neumología y remitido a nuestra consulta para valoración con el diagnóstico de carcinoma pulmonar no microcítico (CPNM) de tipo escamoso Estadio IV (T4N3M1).
+
+Tratamiento
+El 07 de julio de 2014 inicia primera línea de tratamiento quimioterápico paliativo con Carboplatino (AUC 5, día 1) más Gemcitabina (1000mg/m2 día 1 y 8) en ciclos de 21 días.
+Tras 3 ciclos de tratamiento se evidencia remisión parcial de la masa hiliar y tras completar los 6 ciclos previstos, en noviembre de 2014, la TC de reevaluación informa de reducción de la masa principal (que mide 8.2x6.4x5.4cm) con disminución de la afectación intravascular así como de los nódulos pulmonares bilaterales.
+Como toxicidades presentadas destaca anemia grado II bien tolerada por la que precisó transfusión de 2 concentrados de hematíes en una única ocasión.
+
+Evolución
+Dada la buena respuesta ya observada tras 3 ciclos y el peligro derivado de la invasión de la arteria pulmonar, se comenta el caso con equipo de Radioterapia que están de acuerdo en valorar tratamiento por su parte tras finalizacion de quimioterapia.
+En diciembre de 2014 se administra radioterapia externa con intención paliativa sobre masa pulmonar en hemitórax izquierdo con intención de prevenir posibles complicaciones y citamos en un mes con TC de control con intención de iniciar revisiones.
+En TC de enero de 2015 (17/01/15) se observa que la masa parahiliar izquierda ha disminuido discretamente de tamaño (7.6x5.2x4.7cm) al igual que la invasión que provoca en la arteria pulmonar izquierda, pero se informa de un aumento de tamaño de los nódulos contralaterales.
+Ante el hallazgo radiológico de progresión, el 19 de enero de 2015 inicia nuevo esquema de tratamiento con Carboplatino (AUC 5, día 1) más Paclitaxel semanal (80mg/m2) con ciclos de 28 días.
+
+El paciente permanece oligosintomático, ECOG 1.
+Durante el tratamiento presenta astenia grado II que obliga en una ocasión a retrasarlo una semana e incluso reducción de dosis de un 20%, permaneciendo el resto del tratamiento con una astenia grado I mantenida. También desarrolla neurotoxicidad grado I-II.
+Tras completar 4 ciclos, en mayo de 2015, acude a recoger resultados de TC. Se encuentra con empeoramiento del estado general, dolor en hemitórax derecho de tipo pleurítico, expectoración grisácea y febrícula. A la auscultación destacan crepitantes secos en base derecha y en la analítica destaca leucocitosis de 15000 con neutrofilia y PCR 86, resto normal. El escáner muestra estabilización de la enfermedad del punto de vista oncológico y áreas de infiltrado en base derecha de reciente aparición. Se prescribe tratamiento antibiótico empírico con levofloxacino 500mg/24h durante 7 días con buena evolución clínica posterior. Inicia revisiones. ECOG 0.
+El 31 de Junio de 2015 se objetiva nueva progresión de enfermedad. Paciente continúa con ECOG 0.
+Se le informa del ensayo CheckMate-171 (CA209171) que el paciente acepta, iniciando al día siguiente tratamiento con Nivolumab 3mg/kg, ciclos de 14 dias, hasta progresión o toxicidad no tolerable.
+Desde el inicio del tratamiento, presenta excelente tolerancia, permaneciendo con ECOG 0, exploración normal y controles analíticos sin alteraciones de interés. En octubre de 2015, respuesta parcial tras 8 ciclos.
+A finales de diciembre de 2015 acude al 13er ciclo. Continúa con buen estado general y asintomático.
+En TC de control evidencia una discreta zona de neumonitis alrededor de la masa principal no presente previamente. Las lesiones pulmonares ya conocidas han disminuido levemente. No consideramos progresión por criterios RECIST ante la posibilidad de que pudiese tratarse de una reacción inflamatoria, siendo una neumonitis rádica la principal sospecha diagnóstica. Solicitamos control radiológico en un mes y continuamos con nivolumab.
+Mientras, el paciente permanece asintomático, eupneico, con saturación de oxígeno basal al 98% y ausencia clínica de disnea incluso con grandes esfuerzos. A la auscultación, murmullo ventricular conservado sin ruidos sobreañadidos. Analíticamente sin alteraciones.
+En febrero de 2016 la nueva tomografía informa de áreas multinodulares bilaterales de apariencia inflamatoria y leve reducción de la masa pulmonar hiliar izquierda. Nódulos milimétricos sin cambios. El paciente continúa asintomático, la auscultación es normal y la analítica no muestra signos de infección, siendo completamente anodina. Se descarta neumonitis rádica ante la bilateralidad de las lesiones, confirmándose que se trata de una neumonitis inmunorrelacionada secundaria a nivolumab. Dada la ausencia de clínica se decide continuar con el tratamiento, se mantiene dosis y no se inicia corticoterapia por el momento.
+Nuevo control radiológico a finales de marzo de 2016. Paciente oligosintomático. Refiere disnea leve con grandes esfuerzos pero mantiene actividad física sin cambios (corre, va al gimnasio...).TC muestra discreto aumento radiológico de la neumonitis. Enfermedad estable.
+
+Se solicitan pruebas de función respiratoria para comprobar repercusión clínica con resultado tanto de pletismografía y espirometría dentro de la normalidad (CVF: 3860 (84%), FEV1: 3140 (87%), FEV1/CVF: 81) junto con test de difusión pulmonar de monóxido de carbono (DLCO) con resultado de disminución moderada (59% Normalidad. 85-120%).
+Ante estos hallazgos se inicia tratamiento con esteroides a 1mg/kg/día vía oral durante una semana con pauta descendente posterior, completando 2 semanas de corticoterapia. Se retrasa 19º ciclo de nivolumab una semana, reiniciándolo a misma dosis. Se programa nuevo control radiológico en un mes que es informado de clara mejoría de las lesiones pulmonares secundarias a neumonitis.
+El 26 de mayo de 2016, acude a 22º ciclo. Presenta toxicidad cutánea grado 1 inmunorrelacionada de tipo rash en miembros superiores de 2 días de evolución. Mínimo prurito. Cese de la disnea, continuando con su actividad habitual. Mantiene peso. Resto de exploración normal. Se mantiene tratamiento con nivolumab y se prescriben corticoides tópicos con resolución completa de la toxicidad cutánea a los 5 días.
+El 9 de junio de 2016 se administra el 23º ciclo con nivolumab. Ya no presenta rash cutáneo, sigue yendo al gimnasio y continúa con su vida habitual. Exploración física normal al igual que los controles analíticos durante todo el tratamiento. Próxima cita el 23 de junio. Pendiente de nueva TC para primeros de julio de 2016.

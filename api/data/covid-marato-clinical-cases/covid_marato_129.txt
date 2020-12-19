@@ -1,0 +1,41 @@
+Anamnesis
+Paciente varón de 31 años.
+No reacciones adversas medicamentos conocidas.
+No presenta antecedentes familiares ni personales relevantes para episodio actual.
+Sin hábitos tóxicos reconocidos.
+En Marzo del 2002 es intervenido de gastrectomía subtotal por presentar un GIST con fenotipo epitelioide con metástasis hepáticas.
+En Junio del 2002 inicia tratamiento con imatinib 400mg diario.
+
+Exploración física
+Paciente en buen estado general, eupneico y colaborador. ECOG 0
+A la exploración cardiopulmonar: Corazón rítmico a 80 latidos por minuto, sin soplos. Buena murmullo vesicular sin ruidos patológicos.
+Abdomen blando depresible. Con cicatriz de laparotomía sin signos de complicación, se palpa hepatomegalia no dolorosa.
+Miembros inferiores sin edemas ni signos de trombosis.
+
+Pruebas complementarias
+Hemograma: normalidad de las tres series
+Bioquímica: sin alteraciones
+Perfil abdominal: sin alteraciones
+Estudio anatomopatológico:
+Gastrectomía: Tumor del estroma gastrointestina epitelioide, G1, grupo 6b deAFIP, correspondiente aalto potencial maligno para esta localización.
+Estudio inmunohistoquímico:
+CD117 positivo, DOG 1 positivo, CD 34 positivo, PKC- teta positivo (focal), S100 negativo
+Patología molecular:
+Duplicación en el exón 9 del gen ckit.
+
+Diagnóstico
+GIST con metástasis hepáticas
+
+Tratamiento
+Primera línea: Imatinib 400 mg 1 comp cada 24 horas (Junio 2002 a Junio 2006)
+Segunda línea: Sunitinib 50 mg 1 comp cada 24 horas durante 4 semanas y 2 semanas de descanso.
+Tras dos ciclos se reduce dosis a 37.5 mg por toxicidad hematológica (neutropenia) e manera indefinida (Junio 2006 a Agosto 2013)
+Tercera línea: Regorafenib 40 mg 4 comp cada 24 horas durante 3 semanas y 1 semana de descanso.
+En enero del 2015 se decidió reducir dosis a 80mg por toxicidad hematológica. (Agosto del 2013 hasta la actualidad)
+
+Evolución
+Desde el diagnóstico en marzo del 2002 el paciente había mantenido una estabilidad de enfermedad asociado a buena calidad de vida recibiendo tratamiento con imatinib 400 mg diarios. Sin embargo, en mayo del 2006 se evidenció progresión de enfermedad por resonancia magnética donde se pudieron apreciar múltiples metástasis hepáticas siendo la mayor de 12 centímetros.
+Se decidió iniciar tratamiento de segunda línea con sunitinib a dosis de 50 mg diarios durante 4 semanas y 2 semanas de descanso. Tuvo buena tolerancia inicial, con estabilización de enfermedad, pero al tercer ciclo se tuvo que reducir la dosis a 37,5 mg por toxicidad hematológica (neutropenia).
+En Agosto del 2013, tras 72 ciclos de sunitinib, el paciente presenta estabilidad de enfermedad, sin embargo inicia episodios diarreicos intermitentes que no se lograron controlar con tratamiento sintomático asociado a anemia moderada, motivo por el cual se decidió cambiar a una tercera línea de tratamiento con regorafenib 160mg diario cada 24 horas durante 3 semanas y 1 semana de descanso.
+Tras 1 año de tratamiento empieza a tener nuevamente episodios de anemia sintomática por lo que se decide reducir la dosis a 80mg.
+Actualmente el paciente lleva 14 años con estabilidad de enfermedad, se encuentra totalmente asintomático, con muy buena calidad de vida incluyendo el ámbito laboral.

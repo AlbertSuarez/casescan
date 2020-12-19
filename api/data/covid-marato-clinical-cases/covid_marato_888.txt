@@ -1,0 +1,29 @@
+Anamnesis
+Paciente de 74 años, sin reacciones adversas a medicamentos conocidas, ni antecedentes familiares relevantes para el episodio actual. Es hipertenso, con insuficiencia renal crónica 3b y asma bronquial.
+En abril de 2014, se identificó una masa renal izquierda, por lo que fue sometido a nefroureterectomía izquierda, llegando al diagnóstico definitivo de carcinoma de células claras Fürhmann 3 situado en pelvis renal. El seguimiento por Urología con TC de septiembre del 2015, sin hallazgos patológicos.
+En enero del 2016 acudió a Urgencias por cervicalgia de 2 meses que había aumentado de manera progresiva hasta llegar a un EVA 10/10, esto le impedía la rotación normal del cuello, e incluso lo había mantenido postrado en cama desde las dos últimas semanas.
+Es hospitalizado para control del dolor y completar estudios.
+
+Exploración física
+Sin pérdida de fuerza ni de sensibilidad.
+A nivel de región laterocervical posterior, se podía palpar una tumoración de 4 X 6 cm dolorosa. El resto de la exploración física sin alteraciones.
+
+Pruebas complementarias
+RMN sin contraste de cráneo (15/1/16): múltiples metástasis óseas hipervasculares, algunas con importante componente de partes blandas circundantes, distribuidas fundamentalmente por vértebras de la región cervical y lumbosacra, sin invasión del canal.
+TC con contraste de tórax, abdomen, cuello y cráneo (18/1/16): dos lesiones con importante destrucción ósea a la altura de C1 y múltiples lesiones en columna vertebral a predominio de L4, S1, S2 y ambas palas iliacas. El testo del estudio, sin hallazgos patológicos.
+
+Diagnóstico
+BAG de lesión cervical con resultado de metástasis de carcinoma sarcomatoide de probable origen renal (inmunorreacción positiva para CK y CD10 y negativa para EMA, desmina, CD45, p63, S100, CD34, RCC, CK20, AML, TTF1). Al ser una BAG, no se ha podido confirmar que se trate de una metástasis de carcinoma de células claras con diferenciación sarcomatoide.
+
+Tratamiento
+Se colocó un collarín ortopédico y se inició tratamiento con mórficos, lo cual llevó a una mejoría parcial del dolor.
+El 24/2/16 inició sunitinib 37,5 mg diarios de forma continuada; la tolerancia al tratamiento con esta dosis fue adecuada, pero el dolor persistía, principalmente cuando se incorporaba de la cama; por este motivo, fue valorado por Oncología Radioterápica, quienes indicaron radioterapia paliativa a la altura de C1 llegando a recibir 30 Gy en 10 sesiones a 3 Gy por fracción (EVA pre radioterapia: 9/10 y EVA posradioterapia: 5/10).
+La mejoría fue progresiva y el paciente empezó a deambular, por lo que fue dado de alta para continuar seguimiento en consulta externa. Dentro de las indicaciones al alta, se incluyó tratamiento con mórficos para dolor basal e irruptivo, además de acetato de megestrol por hiporexia.
+
+Evolución
+En consultas externas el paciente se encontraba asintomático, utilizando el collarín únicamente cuando salía de casa. Sin embargo, 2 meses después de haber iniciado el tratamiento, presentó astenia grado 2-3, mucositis, anemia y trombopenia grado 2 por lo que se redujo la dosis de sunitinib a 25 mg/día.
+Se realizó TC control el 6/7/16 donde hubo disminución del tamaño de la lesiones de partes blandas a nivel cervical y estabilidad de las lesiones situadas a nivel lumbosacro y ambas palas iliacas.
+A pesar de la reducción de dosis, el paciente persistía con toxicidad, empeorando a trombopenia grado 3, por lo que el 14/7/16 se decidió suspender el tratamiento.
+Una semana después de la última visita en consulta externa, el paciente ingresó en la planta de Oncología Médica por trombosis venosa profunda de femoral común, superficial, profunda y poplítea derecha. Fue dado de alta con tinzaparina sódica 12.000 UI cada 24 horas, y retirando acetato de megestrol. Se realizó una nueva TC de reevaluación el 19/8/16 donde se describe estabilidad de enfermedad.
+Debido a las toxicidades desarrolladas, y una vez resueltas a grado 0-1, se decidió cambiar el tratamiento a pazopanib 400 mg 1 vez al día, iniciando el 21/9/16.
+Actualmente el paciente se encuentra en buen estado general, pendiente de nuevos estudios de imagen de reevaluación.

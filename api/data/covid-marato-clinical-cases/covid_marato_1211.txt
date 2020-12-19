@@ -1,0 +1,43 @@
+Anamnesis
+Presentamos el caso de un paciente varón de 59 años de edad sin alergias medicamentosas conocidas hasta la fecha.
+No antecedentes médicos de interés ni intervenciones quirúrgicas previas. Sin antecedentes familiares oncológicos.
+En mayo de 2015 el paciente es remitido a consultas de Urología por elevación de antígeno prostático específico (PSA) en analítica realizada por Médico de Atención Primaria.
+
+Exploración física
+Paciente estable hemodinámicamente. Refiere polaquiuria y nicturia.
+Además, dolor leve a nivel de cadera izquierda que no aumenta con la movilización ni origina limitación funcional. Cede con paracetamol que el paciente toma a demanda de manera ocasional. No se evidencian otras alteraciones en la exploración física.
+
+Pruebas complementarias
+Con PSA 10.57 ng/ml, se plantea realización de biopsia prostática ecodirigida que se lleva a cabo el 9 de julio de 2015.
+El informe anatomopatológico confirma el diagnóstico de adenocarcinoma infiltrante de próstata en lóbulo derecho con presencia tumoral en tres de los cinco cilindros prostáticos remitidos. Grado de Gleason 6(3+3) sin observarse invasión linfovascular ni local.
+Se completa el estudio con TAC toraco-abdomino-pélvico que muestra lesión lítica a nivel sacroiliaco izquierdo con proliferación subyacente hacia tejidos blandos. Con intención de confirmar posible metástasis ósea, se solicita PET-TAC con metil-11C-colina que informa de metástasis ósea única en ala sacra-sacroiliaca izquierda.
+
+Diagnóstico
+Adenocarcinoma infiltrante de próstata estadio IV con metástasis ósea única a nivel sacroiliaco izquierdo.
+
+Tratamiento
+Presentado el caso en comité multidisciplinar de tumores urológicos se desestima tratamiento radical sobre próstata. En Agosto de 2015, inicia terapia de deprivación androgénica asociando Bicalutamida 50mg al día con Triptorelina 11.25mg vía intramuscular cada 3 meses.
+
+Evolución
+Tras inicio de tratamiento, el paciente continua controles periódicos en urología. En diciembre de 2015 se confirma buena respuesta bioquímica con descenso de PSA hasta 1.06 ng/mL. No obstante, el paciente presenta dolor aumento de dolor en hemipelvis izquierda a pesar de tratamiento con tramadol 75mg/Paracetamol 650 mg cada 12 horas junto con Metamizol 575 mg cada 8 horas.
+Refiero dolor lancinante de inicio en glúteo izquierdo con irradiación por cara posterior de extremidad inferior izquierda hasta tercio distal de pierna. Dado el posible componente neuropático del mismo, se añade pregabalina 75 mg cada 12 horas al tratamiento que es preciso suspender a las 48 horas por mala tolerancia.
+Ante difícil control sintomático, precisando ajuste continuo de tratamiento analgésico y con dolor basal (valorado mediante escala visual analógica) alcanzando 8 sobre 10, se remite al paciente a Clínica del dolor y se decide plantear tratamiento radioterápico paliativo sobre zona sacra-sacroiliaca izquierda.
+Recibe 30 Gy con fraccionamiento 300 cGy entre el 13 de enero de 2016 y el 27 enero de 2016.
+A pesar de dicho tratamiento y del descenso progresivo en los valores de PSA, en marzo de 2016 consulta de nuevo por empeoramiento clínico progresivo. Continuaba dolor en hemipelvis izquierda con EVA 6 sobre 10 y asociaba descenso de hemoglobina hasta 8 g/dl, habiendo presentado hasta ese momento valores en rango de normalidad. Además, de manera progresiva se constata aumento de volumen en extremidad inferior izquierda compatible con edema.
+Valorado en Servicio de Cirugía Vascular, tras exploración física y realización de Ecodoppler, se considera baja probabilidad de trombosis venosa profunda.
+En ese momento es presentado de nuevo en comité multidisciplinar de tumores urológicos remitiendo al paciente a consultas de Oncología médica desde donde se solicita ingreso hospitalario para completar estudio y ajustar tratamiento.
+En el momento del ingreso, el paciente se encuentra hemodinámicamente estable con performance status de 1. Destacaba intensa palidez cutánea. En extremidad inferior izquierda: pulsos pedios presentes, edema a nivel maleolar con fóvea. Dolor con la flexo-extensión de cadera izquierda.
+Durante el ingreso se realizaron las siguientes pruebas complementarias:
+» A nivel analítico destacaba creatinina 1.69 mg/dl, Urea 0.85 g/L, hemoglobina 8.5 g/dl con volumen corpuscular medio normal con resto de estudio bioquímico y hemograma sin alteraciones.
+» Se solicita metabolismo del hierro con hierro 34 microgr/dl, transferrina 181.9 mg/dl, índice de saturación de transferrina 14.72% y ferritina 992 ng/ml.
+» Para filiar origen de la anemia se realizó test de sangre oculta en heces que fue positivo por lo que se continúo el estudio con la realización de colonoscopia y gastroscopia que no mostraron alteraciones.
+» Cápsula endoscópica realizada en un segundo tiempo evidencia dos erosiones aisladas sin signos de sangrado activo.
+» Los marcadores tumorales solicitados (CEA; Ca 19.9; PSA y CYFRA21) resultaron negativos. Tan sólo Enolasa se encontró elevada con valor de 27.1 ng/ml. Testosterona <0.2 ng/ml.
+» Se solicita nuevo TAC toraco-abdomino-pélvico que muestra aumento de tamaño de tumoración sacroiliaca izquierda con respecto a estudio previo fundamentalmente a expensas de componente necrótico.
+» Gammagrafía ósea evidencia imagen heterogénea en pelvis que se extiende desde sacro hasta articulación sacroiliaca e iliaco izquierdo con hipercaptación periférica del trazador.
+» Proteinograma e inmunoglobulinas dentro de la normalidad.
+Revisadas las características radiológicas con radiólogo responsable y puesto que no existe evidencia de enfermedad a otro nivel, se plantea diagnóstico diferencial entre metástasis ósea, plasmocitoma y tumor de células gigantes.
+La disociación entre la buena respuesta de marcadores prostáticos y el empeoramiento sintomático presentado por el paciente, conduce a solicitar biopsia trucut de lesión ósea buscando confirmar el diagnóstico de tumor óseo primario.
+El 29 de mayo se realiza biopsia guiada por escopia. Tras estudio anatomopatológico, se confirma el diagnóstico de tumor de células gigantes del hueso con amplias zonas de necrosis. A pesar de que el índice de proliferación medido con Ki67 fue alto, no se observaron mitosis atípicas ni otra alteración que indicara "transformación maligna".
+Puesto que el paciente continúa con importante limitación funcional y ya había recibido con radioterapia sobre la zona afectada, se presenta el caso en comité multidisciplinar de cara a plantear la posibilidad de realizar una cirugía de legrado.
+En el momento actual, el paciente se encuentra pendiente de la realización una RNM de cara a completar el estudio y valorar la posibilidad de realizar una cirugía completa.

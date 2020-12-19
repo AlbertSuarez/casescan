@@ -1,0 +1,24 @@
+Anamnesis
+Paciente de mujer de 42 años con antecedente familiar de una tía materna diagnosticada de cáncer de mama y sin antecedentes personales de interés.
+En septiembre de 2014, consulta tras palparse nódulo en mama derecha, realizándose mamografía y ecografía que confirman la presencia de un nódulo de 5 cm en cuadrante inferior interno de mama derecha. Se realiza biopsia del mismo con diagnóstico de tumor estromal fusocelular de grado histológico intermedio/bajo. Ante estos resultados, se decide realizar tumorectomía que se realiza el 03/10/2014 con diagnóstico definitivo de tumor Phyllodes de alto grado de 10,5 cm con márgenes infiltrativos, actividad mitótica de 20 mitosis/10 campos de 40x y expresión inmunohistoquímica de actina de músculo liso, calponina y vimentina.
+Se presenta el caso en comité multidisciplinar y, ante la presencia de márgenes afectos, se decide intervenir de nuevo a la paciente y el 11/11/2014 se realiza mastectomía simple sin complicaciones precoces y que confirma, de nuevo, el diagnóstico, siendo derivada a Oncología Médica y Oncología Radioterápica para valorar tratamiento adyuvante.
+La paciente es valorada por primera vez en la consulta de Oncología Médica el 10/12/2014. Presentaba un adecuado estado general con un ECOG de 0, la exploración física era normal y la cicatriz de la mastectomía no presentaba datos de infección. Se le solicitó una analítica completa en la que sólo destacaba una cifra levemente elevada de colesterol total (245 mml/l) y una TC de tórax y abdomen que, únicamente, mostraba adenopatías inespecíficas y de tamaño no patológico en hilio derecho y retroperitoneo superior derecho.
+Dadas las características del tumor, se propone tratamiento adyuvante con adriamicina 75 mg/m2 cada 21 días por un total de 4 ciclos que inicia el 26/12/2014 y finaliza el 27/02/2015 con buena tolerancia y presentando como única toxicidad mucositis grado 1. Posteriormente, recibe tratamiento de radioterapia en pared costal derecha finalizando en mayo de 2015 e iniciando seguimiento.
+En septiembre de 2018, tras un intervalo libre de enfermedad de 3 años y 11 meses, la paciente consulta en Urgencias por dolor en zona orbitaria derecha y exoftalmos.
+
+Exploración física
+Durante la exploración destacaba exoftalmos del ojo derecho con irritación conjuntival y pérdida de visión por dicho ojo en todos los campos visuales. Resto anodino.
+
+Pruebas complementarias
+Se realiza RM craneal que muestra una tumoración en región inferolateral de la órbita derecha que deforma el globo ocular, desplaza el nervio óptico y pierde plano de clivaje con el músculo recto lateral, siendo compatible en primer lugar con lesión de naturaleza metastásica.
+
+Diagnóstico
+Metástasis orbitaria de tumor Phyllodes de mama.
+
+Tratamiento
+Tras ser valorada por Oftalmología, el 14/09/2018 se realiza resección de la lesión sin complicaciones precoces. El diagnóstico anatomopatológico resultó compatible con metástasis de tumor Phyllodes de alto grado.
+
+Evolución
+Tras la intervención, la paciente recupera la visión de manera progresiva con desaparición del exoftalmos.
+El caso es valorado en sesión conjunta con Oncología Radioterápica, desestimándose tratamiento de radioterapia local complementario tras la resección, por el alto de riesgo de complicaciones, dada la localización de la lesión.
+La paciente continúa actualmente con revisiones en consulta de Oncología Médica, con últimas pruebas de imagen de febrero de 2019 sin evidencia de recidiva local ni a distancia.

@@ -1,0 +1,35 @@
+Anamnesis
+Varón de 68 años de edad, exfumador de 3 paquetes/día, sin alergias medicamentosas conocidas y con antecedentes médicos de: HTA, DM tipo 2, dislipemia, bronquitis crónica, osteoporosis con espondiloartrosis, meningitis en la infancia. No intervenciones quirúrgicas previas.
+Acudió a urgencias en Enero de 2016 por cuadro de dolor abdominal en región epigástrica irradiado hacia HCI y zona lumbar, de 1 mes de evolución que había sido valorado por MAP impresionando de patología degenerativa vertebral. Asociaba disuria, polaquiuria y tenesmo vesical, por lo que había recibido antibioterapia empírica ante sospecha de infección del tracto urinario (ITU). Refería además síndrome constitucional progresivo con pérdida de 15 Kg. de peso en las últimas 5 semanas, asociando también astenia intensa y debilidad generalizada.
+
+Exploración física
+Temperatura axilar 36,3ºC, Tensión Arterial 150/93 mmHg, Frecuencia cardíaca 140 lpm y Saturación basal de oxígeno del 96%.
+Consciente, orientado en las tres esferas, ictericia cutánea, ligera deshidratación de piel y mucosas.
+Eupneico en reposo. Regular estado general, afectado por intenso dolor, no existían datos de encefalopatía ni signos de descompensación hemodinámica. AC: tonos rítmicos, sin soplos ni extratonos. AP: hipoventilación en hemitórax izquierdo. En la exploración abdominal no existía distensión, signos de irritación peritoneal, masas ni visceromegalias, presentaba dolor a la palpación en hipocondrio y flanco izquierdo. No edemas ni signos de TVP en EEII.
+
+Pruebas complementarias
+- ECG: ritmo sinusal a 130 lpm, sin patrón de sobrecarga ventricular ni alteraciones de la repolarización aguda.
+- Analítica urgente: bioquímica, hemograma y GSV sin alteraciones destacables.
+- Radiografía simple de tórax: aumento de densidad en LSI sin apreciar con claridad masa subyacente ni ensanchamiento mediastínico. No se observa derrame pleural.
+- Radiografía simple de columna dorso-lumbar: no se aprecian líneas de fractura ni aplastamientos vertebrales en las proyecciones efectuadas. Espondilosis y calcificación del ligamento longitudinal anterior.
+- Ecografía abdominal: aparecen múltiples imágenes en parénquima hepático compatibles con enfermedad secundaria metastásica.
+
+Diagnóstico
+Síndrome constitucional con enfermedad metastásica hepática de tumor primario desconocido
+
+Tratamiento
+Se instauraron medidas dietéticas, tratamiento sintomático y analgesia pautada de primer escalón
+
+Evolución
+Ingresó en el Servicio de Medicina Interna para completar estudio. Durante el mismo se solicitaron varias pruebas complementarias incluyendo TAC toraco-abdominal con contraste en el que se observaba masa en hilio pulmonar izquierdo de 45 mm con marcada infiltración de pleura mediastínica y englobando la arteria pulmonar ipsilateral y la del LSI. Adenopatías en 4L, 5, 6, 10L y mínimo derrame pleural bilateral. Hígado con nódulos hipodensos inferiores a 15 mm que sugerían enfermedad secundaria y afectaban ambos lóbulos hepáticos. Múltiples imágenes líticas que afectaban a la práctica totalidad del esqueleto (costal bilateral, cuerpos vertebrales y pala ilíaca derecha). Estudio radiológico compatible con neoplasia de pulmón en LSI T4 N2 M1b.
+En la analítica general existía un perfil nutricional con proteínas totales: 6,88 gr/dl; albúmina: 3,49 gr/dl, perfil hepático con AST: 40 U/L; ALT: 20 U/L; GGT: 234 U/L; Fosfatasa alcalina: 115 U/L; LDH: 660 U/L; y en el metabolismo fosfo-cálcico destacaba cifra de calcio corregido con proteínas: 12,53 mgr/dl con PTH: 7 pg/ml y TSH 1,83 microU/ml. Se solicitaron también marcadores tumorales encontrando una enolasa: 234,2 ng/ml y CEA: 303,6 ng/ml; resto (incluyendo PSA, AFP y Ca 19.9) dentro de parámetros de normalidad.
+Ante dichos hallazgos se solicitó al Servicio de Neumología realización de fibrobroncoscopia que mostró a nivel del bronquio del LSI mucosa con signos de infiltración y disminución progresiva de la luz por compresión extrínseca. Se toman muestras para estudio anatomo-patológico a través de cepillado bronquial que confirman la presencia de células malignas compatibles con carcinoma de célula pequeña (CCP). Se completó estudio de extensión con TC cerebral sin apreciar lesiones ocupantes de espacio.
+Dada la intensidad del dolor (EVA 8-9) se inició tratamiento endovenoso con cloruro mórfico en bomba de perfusión continua para control analgésico, con buena respuesta y tolerancia. Se instauró tratamiento con fluidoterapia intensiva y se administró dosis única de 4 mg de ácido zoledrónico endovenoso para corregir la hipercalcemia inducida por tumor, con disminución progresiva de los niveles de calcio total.
+
+Con el diagnóstico de CARCINOMA PULMONAR DE CÉLULA PEQUEÑA ESTADIO IV es trasladado al Servicio de Oncología Médica para valorar tratamiento.
+Comenzó entonces con síndrome confusional agudo con desorientación temporoespacial, agresividad verbal y episodios de agitación psicomotriz de difícil control a pesar de tratamiento neuroléptico.
+Inicialmente se sospechó posibilidad de toxicidad neurológica en relación con tratamiento opioide, obligando a ajustar el tratamiento analgésico a pesar de lo cual el cuadro clínico persistió.
+Se solicitó valoración al Servicio de Neurología quienes solicitaron RMN cerebral en la que se objetivaban lagunas inespecíficas de hiperseñal a nivel de sustancia blanca bilateral y silla turca parcialmente vacía con aracnoidocele intraselar como únicos hallazgos. Además mediante estudio microbiológico y analítico completo se descartaron otras posibles etiologías infecciosas y/o metabólicas que pudiesen explicar el cuadro clínico.
+Finalmente, dada la marcada sintomatología y ante la sospecha de síndrome paraneoplásico, a pesar de tratarse de un paciente con mal estado general y ECOG 4, se decidió administrar previo recuento analítico y firma de consentimiento informado por parte de tutores/familiares, primera línea de tratamiento quimioterápico paliativo con esquema Carboplatino AUC 5 + VP-16 100 mg/m2 d1-3 c/21d. Presentó buena tolerancia aguda, sin complicaciones inmediatas, con evolución clínica favorable hasta la desaparición completa del cuadro confusional a las 48-72h de su administración.
+Posteriormente, tras objetivar en RM dorsal múltiples metástasis vertebrales distribuidas por todo el raquis se solicitó colaboración al Servicio de Oncología Radioterápica que planificó varias sesiones antiálgicas a nivel dorsal (D9) consiguiendo adecuado control del dolor somático e incremento progresivo de movilidad hasta deambulación e independencia para ABVD con apoyo del Servicio de Rehabilitación.
+En la actualidad ha completado 6 ciclos de QT con buena tolerancia aguda. Ha presentado como toxicidad: Anemia G1, Leucopenia G2, Naúseas G1. El TAC de reevaluación muestra respuesta parcial de la enfermedad pulmonar y adenopática, estabilidad de lesiones hepáticas, progresión radiológica de la enfermedad ósea. Mantiene buen estado general, con ECOG 1 y se encuentra pendiente de iniciar RT holocraneal profiláctica.

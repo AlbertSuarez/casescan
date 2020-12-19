@@ -1,0 +1,54 @@
+Anamnesis
+Se trata de un paciente varón de 74 años de edad, valorado en primera consulta de Oncología Médica el 3 de marzo de 2017.
+En cuanto a sus antecedentes de interés:
+» Socio-familiares: actualmente jubilado, trabajó en la metalurgia. Soltero, vive solo. Completamente autónomo para las actividades de la vida diaria.
+» Patológicos: no tiene alergias medicamentosas conocidas. Exfumador hace más de 20 años.
+Hipertensión arterial (HTA) en tratamiento. Fibrilación auricular anticoagulada con acenocumarol. Gastritis crónica. Poliposis colónica con resección de varios pólipos. Hipertrofia benigna de próstata. Pielonefritis aguda que precisó ingreso en febrero de 2017. Intervenido de hernia inguinal derecha.
+En tratamiento con: bisoprolol, olmesartán/amlodipino, acenocumarol.
+Resumen del proceso oncológico actual
+La historia oncológica se inicia en junio de 2005 cuando nuestro paciente es intervenido mediante laparotomía media de una extensa tumoración pélvica de más de 12 cm en las pruebas de imagen. El diagnóstico fue de tumor fibroso solitario con diámetro máximo de 16 cm.
+El estudio anatomopatológico de la pieza de resección fue:
+» Descripción macroscópica: tumoración grisácea de 760 g con tamaño de 16 x 15 x 12 cm, de superficie lisa con excrecencias lobuladas rojo-violáceas.
+» Descripción microscópica: tumoración sólida con áreas de necrosis bien delimitada y constituida por una proliferación de elementos fusocelulares ricamente vascularizada con frecuentes imágenes de trombosis vascular y áreas de hemorragia. Presenta moderado índice mitótico con un Ki67 de I/III.
+Inmunohistoquímica:
+» Positividad para CD34, CD68 y vimentina.
+» Negatividad para CD117, desmina y panqueratinas.
+Posteriormente, en mayo de 2012, el paciente es reintervenido por el servicio de Cirugía General, realizándose una linfadenectomía iliaca derecha, así como una segmentectomía hepática (segmento V). Ambas resultaron positivas para metástasis de tumor fibroso solitario (con un tamaño de 9,5 cm la localizada en hígado).
+Un año después, en mayo de 2013, se objetiva recidiva hepática de la enfermedad, apareciendo dos lesiones: una en segmento VIII de 33 mm y otra en VI de 14 mm, procediéndose a la ablación por radiofrecuencia percutánea de dichas lesiones.
+A continuación, nuestro paciente va a requerir una serie de ablaciones por radiofrecuencia:
+» En 3 ocasiones en 2013 de la lesión situada en el segmento VIII.
+» En febrero de 2014, lesión hepática entre el segmento VI-VII de 3,5 cm.
+» En febrero de 2015, lesión entre segmentos VII-VIII.
+» En febrero de 2016, la última, lesiones en segmento VIII de 3,5 cm y en segmento VI de 2,6 cm.
+Durante el ingreso de febrero de 2017 por pielonefritis aguda, a raíz de un episodio de disnea se realiza una TC torácica en la que muestra 3 nódulos pulmonares: de 9 mm en lóbulo superior derecho y dos de unos 4 mm en lóbulo inferior derecho. No estaban presentes en estudios previos y sugieren metástasis como primera posibilidad. Por ello, tras comentarse el caso en el comité multidisciplinar de respiratorio, se decide derivar al paciente a consulta de Oncología Médica.
+
+Exploración física
+» Durante la exploración física, nuestro paciente presentaba un performance status (PS) ECOG de
+1. Consciente, orientado y colaborador. Buen estado general. Bien perfundido. Buena mecánica ventilatoria en reposo.
+» Auscultación cardiopulmonar: arrítmico, sin soplos, buena ventilación global, sin ruidos sobreañadidos.
+» Abdomen: cicatriz de laparotomía previa con buen aspecto. No sufre dolor en la palpación. No hay signos de irritación peritoneal. Peristaltismo presente.
+» EEII: mínimos edemas maleolares sin fóvea. Sin semiología de trombosis venosa profunda.
+
+Pruebas complementarias
+Analítica sanguínea (09/03/2017):
+» Bioquímica: bilirrubina total 1,5 mg/dl (0,5-1,4). Bilirrubina directa 0,5 mg/dl (0,2-1,2). Bilirrubina indirecta 1,0 mg/dl. Gamma GT 139 U/l (8-64). Función renal, hepática, iones, proteínas y glucosa dentro de los límites de la normalidad.
+» Hemograma normal.
+TC-PET (10/03/2017):
+Nódulo pulmonar subpleural en lóbulo superior derecho de 9 mm, con discreto aumento del metabolismo (SUVmax 1,15). Aumento del metabolismo de distribución heterogénea a nivel de glándula prostática con SUVmax de 16,63 en lóbulo derecho y SUVmax de 11,88 en el izquierdo.
+RM hepática (12/05/2017):
+Crecimiento de una lesión hipervascular subcapsular del segmento III compatible con metástasis. Aparición de otra lesión en el segmento VIII sugestiva de metástasis.
+
+Diagnóstico
+Se descartó, mediante biopsia prostática, ausencia de malignidad del tejido prostático.
+Se desestimó, tras comentar con Cirugía General, la nueva realización de ablación hepática, teniendo en cuenta la aparición de 3 metástasis hepáticas simultáneas y presencia de nódulos pulmonares sugestivos de malignidad con PET-TC no concluyente debido al tamaño milimétrico de los mismos.
+Por lo tanto, nos encontramos ante el diagnóstico de:
+» Recidiva hepática y pulmonar de tumor fibroso solitario pélvico intervenido en 2005.
+
+Tratamiento
+El 26 de junio de 2017, el paciente inició tratamiento con imatinib a dosis de 400 mg/día (fuera de indicación de ficha técnica). Buena tolerancia al mismo, sin presentar toxicidades reseñables. En octubre de ese mismo año, cuando acude a valoración de respuesta, en la TC toracoabdominopélvica y en la RM hepática se apreciaba un crecimiento milimétrico de las lesiones a nivel de nódulo de lóbulo inferior derecho y segmentos hepáticos II-III, VIII y VII. El paciente en aquellos momentos estaba asintomático y, ante la ausencia de nuevas lesiones, se interpreta el resultado como progresión minor, decidiéndose continuar con el mismo tratamiento.
+En enero de 2018, el paciente acudió a control, presentando dolor en hemitórax derecho que mejoraba con paracetamol y se agravaba con accesos de tos ocasionales. La TC mostraba crecimiento progresivo de las lesiones descritas previamente y, como hallazgo de nueva aparición: lesión hipervascular de 24 x 14 mm a nivel de pared costal entre 8º y 9º arcos costales derechos, sugestivo de metástasis. Por lo tanto, ante la progresión de la enfermedad, se decidió inicio de 2ª línea de quimioterapia según esquema: temozolamida 150 mg/m2 días 1-7 y 15-21 junto con bevacizumab a dosis de 5 mg/kg los días 8 y 22, cada 28 días. Inició el mismo con reducción de dosis al 75. La tolerancia al tratamiento fue excelente, salvo epistaxis grado 1, sin otra toxicidad a destacar ni clínica ni analítica, con buen control de las cifras de tensión arterial sin precisar modificaciones en su tratamiento antihipertensivo habitual, y sin aparición de proteinuria en los controles periódicos.
+
+Evolución
+Actualmente, nuestro paciente persiste clínicamente con dolor costal derecho de características pleuríticas que controla con la toma puntual de paracetamol y metamizol. Continúa manteniendo una vida activa sin aquejar astenia. Mantiene un performance status ECOG de 0, sin alteraciones en la exploración física.
+En cuanto al tratamiento, continúa con una excelente tolerancia al mismo sin haber presentado más toxicidad que la epistaxis grado 1.
+A día de hoy, acaba de finalizar el tercer ciclo de temozolamida-bevacizumab y está pendiente de las pruebas de valoración de respuesta.

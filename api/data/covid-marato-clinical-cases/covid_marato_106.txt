@@ -1,0 +1,26 @@
+Anamnesis
+Mujer de 49 años, fumadora de 25 cigarrillos/día (dosis acumulada de 20 paquetes-año) y enolismo moderado, con antecedente de carcinoma de mama izquierda (MI) a los 45 años intervenida mediante mastectomía radical modificada (MRM). El estudio anatomopatológico reportó carcinoma ductal infiltrante (CDI), grado III/III, con márgenes negativos.
+Estadío pT2 N20+/22 M0, con receptores estrogénicos (RE) negativos, receptores de progesterona (RP) negativos, HER 2 3+. El 6/5/2005 inició tratamiento adyuvante con quimioterapia (QT) bajo esquema EC x 4, seguido de docetaxel x 4 (dentro del ensayo clínico de GEICAM) que finalizó el 6/10/2005. Desde noviembre hasta diciembre del 2005 la paciente recibió radioterapia locorregional. Presentó amenorrea quimioinducida tras el primer ciclo de QT.
+Tras la publicación de los resultados significativos de mejoría de la supervivencia libre de enfermedad y la supervivencia global con la adición de trastuzumab adyuvante a la QT estándar en pacientes HER2 positivas, tras 3 meses del último ciclo de QT adyuvante se decide añadir tratamiento con trastuzumab durante un año (18/1/2006-10/1/2007).
+Tras un intervalo libre de enfermedad de 3 años y 5 meses, la paciente inicia en agosto de 2008 un cuadro de torpeza en el hemicuerpo derecho de instauración progresiva y disartria leve.
+
+Examen físico
+En la exploración física destaca ECOG 1, lecho quirúrgico sin lesiones, inestabilidad de la marcha con Roomberg positivo y dismetría. Además, presentaba una adenopatía palpable axilar derecha, sin otras adenomegalias.
+
+Pruebas complementarias
+- Mediante mamografía y ecografía se objetivaron varias adenopatías axilares derechas patológicas de entre 5 y 22 mm.
+- La punción-aspiración con aguja fina (PAAF) fue compatible con metástasis de carcinoma de mama.
+- Se practicó una resonancia magnética mamaria (12/9/2008), que observó una lesión en el cuadrante súpero-externo de la mama derecha (MD) y adenopatías axilares patológicas. Se practicó una PAAF del nódulo mamario, sin que se llegara a obtener material suficiente para el diagnóstico. El resto del estudio de extensión fue negativo.
+- La RM craneal fue informada sin hallazgos patológicos. El estudio del líquido cefalorraquídeo (LCR) mostró pleocitosis linfocitaria. Ante la sospecha de enfermedad paraneoplásica, se realizaron estudios de anticuerpos onconeuronales mediante estudio inmunohistoquímico sobre cerebelo de rata, confirmado mediante inmuno-blot, con positividad para anticuerpos anti-Yo.
+
+Diagnóstico
+Se orientó como doble neoplasia metacrónica con afectación ganglionar homolateral y debut de síndrome de degeneración cerebelar paraneoplásico (DCP).
+
+Tratamiento
+El 17/9/2008 se practicó una tumorectomía de la MD y la exéresis de una adenopatía axilar. El estudio AP del tumor mamario mostró la existencia de un carcinoma ductal in situ de 27 mm, y en su interior un foco de CDI de 7 mm, con comedonecrosis, grado II/III, márgenes a 1 mm, RE 90% 3/3, RP negativo, HER2 negativo (1+). El estudio AP de la adenopatía objetivó un nódulo de 2 cm de una metástasis de carcinoma de origen mamario con ruptura capsular focal con estudio inmunohistoquímico (IHQ) con RE negativos, RP negativos, HER2 3+. Se consideró como un segundo tumor mamario en MD contralateral y recidiva a distancia del primer tumor de MI.
+El 18/10/2008 se administró una dosis de docetaxel 100 mg/m2 y trastuzumab con G-CSF. La paciente presentó un empeoramiento clínico brusco muy importante en los siguientes días del tratamiento, llegando a presentar imposibilidad para la deambulación autónoma, disartria franca y problemas de coordinación motora en las extremidades superiores.
+Ante síndrome pancerebereloso paraneoplásico secundario a anticuerpos anti-Yo, se administraron bolos de 1 gramo de metilprednisolona durante 5 días. De acuerdo con el Servicio de Hematología, se administraron pauta de 3 g de ciclofosfamida + 300 ug G-CSF x 5 días para movilización de células madre hematopoyéticas y posterior trasplante autólogo de médula ósea.
+El deterioro neurológico prosigue en los siguientes días, suspendiéndose el tratamiento y derivándose a un centro de grandes discapacitados, sin recibir otras terapias para su neoplasia.
+
+Evolución
+La paciente ha permanecido 5 años institucionalizada en un centro para discapacitados con cuadro pancerebeloso grave e incapacitante, sin evidencia de enfermedad, hasta marzo de 2014, cuando contacta de nuevo con el Servicio de Ginecología de nuestro hospital. Sus familiares traen a la paciente tras la detección de un tumor de 5 cm en la MD con signos inflamatorios en menos de un tercio de la mama, sin afectación ganglionar axilar. La biopsia de dicha lesión confirma que se trata de un carcinoma infiltrante grado III, RE 90% 3/3, RP negativo, HER2 negativo (1+), cuya morfología e IHQ es igual al segundo tumor mamario diagnosticado en 2008. La paciente no presenta ningún síntoma ni signo clínico de recidiva del CDI de la MI, con receptores hormonales negativos, HER2 positivo, que recayó en forma de adenopatías axilares contralaterales.

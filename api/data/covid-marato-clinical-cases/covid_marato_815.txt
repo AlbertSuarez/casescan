@@ -1,0 +1,45 @@
+Anamnesis
+Varón de 67 años, exfumador de 20 años/paquete, sin antecedentes médico-quirúrgicos de interés salvo un nódulo pulmonar solitario en control por Neumología, biopsiado y negativo para malignidad.
+
+En julio de 2012 es remitido a Urología por clínica de hematuria, realizándose RTU vesical con diagnóstico de carcinoma urotelial pTa GII. Posteriormente se administró BCG intravesical.
+
+En mayo de 2013 la RTU informa de carcinoma mixto urotelial más adenocarcinoma, por lo que se completa el tratamiento con mitomicina C intravesical.
+
+En agosto se realiza nueva cistoscopia y RTU de zona eritematosa sobre la zona de la antigua RTU periméatica derecha, con resultado de carcinoma urotelial con diferenciación glandular T1 de bajo grado.
+
+Acude a control en enero de 2014.
+
+Exploración física
+Sin hallazgos patológicos. PS 0.
+
+Pruebas complementarias
+En la cistoscopia de control se observa persistencia de la zona ulcerada perimeática ureteral derecha, plana, de 1 cm, además de papilas sobresaliendo por el meato derecho. Asocia una lesión papilar superficial subcentimétrica en la cara anterior.
+
+El análisis anatomopatológico informa que la tumoración papilar de la cara anterior corresponde a fragmentos de mucosa vesical con hiperplasia del epitelio urotelial y que la zona ulcerada perimeática corresponde a carcinoma urotelial, de bajo grado de la OMS, que infiltra la muscular. La lesión podría corresponder a una variante tipo nested de carcinoma urotelial.
+
+Se realiza una nueva RTU durante la que se extirpa la tumoración papilar de la cara anterior y se observa una zona perimeática derecha ulcerada y desestructurada que se reseca con base aparentemente sana. Se desinserta el uréter derecho endoscópicamente, con reimplante en el mismo acto.
+
+La anatomía patológica confirma la correspondencia de la histología con carcinoma urotelial tipo nested.
+
+Se solicita TC de estadiaje, en la que se observa el engrosamiento focal de la pared lateral vesical (que coincide con la biopsia previa), sin objetivarse tumoraciones ureterales, adenopatías ni metástasis a distancia.
+
+Diagnóstico
+Véanse las Pruebas complementarias.
+
+Tratamiento
+En julio de 2014, con el diagnóstico de carcinoma urotelial infiltrante de vejiga tipo nested, se realiza una cistectomía radical tipo Bricker.
+
+En el análisis de la pieza quirúrgica se objetiva la tumoración en la cara lateral derecha vesical de 1,5 x 2 cm que corresponde a carcinoma urotelial infiltrante de alto grado tipo nested que invade en profundidad la muscular propia (tercio externo). Márgenes de resección libres.
+
+En la cadena ileoobturatriz derecha destaca la infiltración por carcinoma urotelial de la capa muscular de una arteria trombosada (trombo vascular). En la cadena ilioobturatriz izquierda se analizan 10 ganglios sin infiltración.
+
+Por tanto, en base a la clasificación TNM, nos encontramos ante un estadio II pT2b N0 M0 con invasión vascular extravesical.
+
+Evolución
+Tras objetivar en la cistoscopia + RTU la presencia de una lesión cuya histología correspondía con carcinoma urotelial infiltrante de variante tipo nested, se decide realizar cirugía radical como tratamiento principal, y posteriormente es remitido a Oncología para la valoración de tratamiento adyuvante.
+
+Dado que la variante histológica tipo nested del carcinoma urotelial se considera de mal pronóstico y que en nuestro caso el paciente presentaba además infiltración extravesical, se solicitó estudio de extensión con TC y gammagrafía para la estadificación y valoración de tratamiento adyuvante.
+
+Con el estudio de extensión sin evidencia de enfermedad ganglionar ni metastásica, en septiembre de 2014 inicia quimioterapia adyuvante con gemcitabina 1.000 g/m2 i.v. los días 1, 8 y 15 y cisplatino 70 mg/m2 i.v. el día 2 cada 28 días. Recibe un total de cuatro ciclos, finalizando en diciembre de 2014, sin complicaciones ni toxicidades destacables.
+
+Actualmente se encuentra libre de enfermedad, y realiza seguimiento trimestral.

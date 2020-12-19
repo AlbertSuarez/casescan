@@ -1,0 +1,16 @@
+Anamnesis
+Mujer de 53 años, sin alergias medicamentosas. Exfumadora desde hace 18 años de 10 cigarrillos/día sin otros hábitos tóxicos. Trombosis venosa profunda a los 23 años, osteoporosis y lumbociática tratadas con homeopatía.
+
+Examen físico
+
+Pruebas complementarias
+La paciente acude a Urgencias de hospital comarcal el 18.10.2012 por disnea progresiva de 2 meses hasta hacerse de mínimos esfuerzos y dolor pleurítico. Placa de tórax con patrón nodulillar bilateral. La broncoscopia identificó inflamación difusa. Las biospsias bronquiales, lavados y aspirados bronquiales obtuvieron una citología negativa. La tomografía computarizada (TC) de tórax demostró adenopatías mediastínicas, patrón intersticio-alveolar bilateral y lesión sólida periférica subpleural de 12 mm. La paciente fue derivada a un Hospital Universitario donde realizan una biopsia pulmonar abierta. Esa noche ingresa en la Unidad de Cuidados Intensivos (UCI) por insuficiencia respiratoria, requiriendo soporte con ventilación no invasiva (BPAP). Se repite TC torácica en el que presenta múltiples nódulos bilaterales inferiores a 5 mm, bien delimitados. Aumento de vidrio deslustrado, patrón "en empedrado", múltiples condensaciones del parénquima pulmonar de predominio apical y lóbulos superiores con imágenes de broncograma aéreo y engrosamiento peribronquial. Múltiples adenopatías prevasculares, ventana aorto-pulmonar, subcarinales y parahiliares bilaterales con leve derrame pericárdico. Se orienta como altamente sugestivo de sarcoidosis en estadio 2, iniciándose tratamiento con corticoides sistémicos.
+
+Diagnóstico
+La anatomía patológica (20.11.13) demostró un adenocarcinoma papilar de pulmón con infiltración masiva de vasos linfáticos. Estadio IV (linfangitis carcinomatosa bilateral) en una paciente con ECOG 4 ingresada en UCI, requiriendo FiO2 del 80-100 % con BPAP por insuficiencia respiratoria secundaria a la diseminación avanzada de su enfermedad.
+
+Tratamiento
+Se realizó reunión familiar en la que se informa del diagnóstico e incurabilidad de la enfermedad. Se ofrece la posibilidad de recibir tratamiento con erlotinib por si presentase mutación de epidermal groth factor receptor (EGFR). En caso de no mejorar en una semana, se acuerda tratamiento de soporte exclusivamente. Se inicia erlotinib 150 mg/día. Tras 2 días, la paciente presenta mejoría con disminución de soporte ventilatorio. Se traslada a planta de Oncología, se realiza gammagrafía ósea: diseminación ósea múltiple. El 30 de noviembre es dada de alta con erlotinib 150 mg, manteniendo saturaciones sin oxigenoterapia. Resultado de estudio molecular confirma mutación del EGFR en exón 19.
+
+Evolución
+La TC a los dos meses demostró una mejoría radiológica con disminución de la afectación neoplásica parenquimatosa, pleural bilateral y de las metástasis óseas. Por toxicidad cutánea (rash acneiforme) de grado (G) 2 y xeroftalmos G2, se disminuye a erlotinib 100 mg/día, con buena tolerancia y manteniendo vida normal con un ECOG 0 actualmente.

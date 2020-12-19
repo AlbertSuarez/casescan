@@ -1,0 +1,43 @@
+Anamnesis
+Paciente de 52 años, exfumador desde hace 6 años de 20 paquetes/año y sin otros antecedentes médicos ni familiares de interés más allá del sinus pilonidal. Trabajador de la construcción, casado y sin hijos.
+Historia oncológica: desde el año 2000 presenta un quiste pilonidal que motiva la realización de varias intervenciones (fistulectomías). A partir de 2004 presenta zona sacra sin epitelización, con exudados periódicos que precisan curas periódicas.
+Ocho años después, en agosto de 2012, aparece una lesión excrecente multilobulada y fistulizada de 10 cm de diámetro, que afecta al plano profundo (hasta el hueso sacro). Se realiza biopsia de la zona positiva carcinoma epidermoide. Es remitido a nuestro centro para completar el estudio y valorar tratamiento definitivo.
+
+Examen físico
+Buen estado general. ECOG 1 (en relación con los síntomas locales).
+Lesión descrita multilobulada exudativa a nivel coccígeo en contacto con plano óseo sacro.
+No se palpan adenopatías inguinales.
+No adenopatías supraclaviculares.
+Auscultación cardiorrespiratoria: rítmica, sin soplos ni roces. Buen murmullo vesicular.
+Abdomen: blando, depresible, no doloroso a la palpación, peristaltismo conservado.
+No edemas en los miembros inferiores, pulsos presentes.
+
+Pruebas complementarias
+- Análisis sangre (2/2012): Bioquímica: normal. PCR 102. Hemograma: hemoglobina 11,2 g/dl. Leucocitos 12.900 (9.000 neutrófilos). Plaquetas 388.000. Marcadores tumorales: SCC 43,4. Resto normal (CEA normal).
+- TC tóraco-abdómino-pélvica y osteoarticular (22/2/2013): masa en el sacro con adenopatía en la cadena iliaca interna derecha y ganglios retroperitoneales de tamaño en el límite superior de la normalidad. Nódulo pulmonar de 4 mm de carácter inespecífico, a controlar.
+- RM raquis completo (25/2/2013): tumoración agresiva en el sacro, de 10 cm de diámetro transversal y craneocaudal y 5,5 cm de diámetro anteroposterior. Su límite craneal es S2, con ocupación completa del foramen izquierdo S2-S3 y parcial del foramen derecho. Caudalmente a S2 están afectados todos los forámenes neurales.
+El límite lateral son las articulaciones sacroiliacas, sin aparente afectación del espacio articular, con extensión a ambos músculos piramidales, más significativo en el lado izquierdo y a ambos músculos glúteos mayores.
+En la parte más caudal se extiende hasta ambos ligamentos sacroespinosos y a ambos músculos elevadores del ano (más evidente en el lado izquierdo), y contacta con la pared posterior del recto y el canal anal, sin claros signos de infiltración de la misma.
+En el interior de la masa se ven pequeñas colecciones que pueden ser purulentas o por necrosis tumoral. En la línea media de la parte más caudal se ve una colección lineal que comunica con la piel.
+Diagnóstico: tumoración agresiva en el sacro que por imagen es indistinguible entre una neoplasia maligna o una osteomielitis con importante inflamación de las partes blandas adyacentes. También podrían coexistir ambas etiologías.
+La lesión infiltra todo el sacro caudalmente a S2, los músculos piramidales y glúteos y los músculos elevadores del ano.
+- PET-TC (21/3/2013): gran masa con densidad de partes blandas, hipermetabólica en PET (SUV máx. 16,69) de localización presacra, con extensión al sacro, la musculatura glútea y la región cutánea adyacente (interglútea y lumbar).
+Es más dudosa la afectación de la pared posterior del recto. Estos hallazgos son sugestivos de neoplasia primaria.
+Existen dos ganglios hipermetabólicos en el promontorio derecho (SUV máx. 2,6) a investigar.
+
+Diagnóstico
+Carcinoma epidermoide sobre sinus pilonidal localmente avanzado (invasión y destrucción sacra).
+
+Tratamiento
+Quimiorradioterapia concomitante (cisplatino 75 mg/m2 día 1 + 5-fluorouracilo 3.750 mg/m2 dosis total del ciclo, repartida entre los días del 1 a 5) con intención neoadyuvante y posterior rescate quirúrgico mediante exanteración pélvica.
+
+Evolución
+Marzo 2013: con el diagnóstico de "carcinoma epidermoide sobre sinus pilonidal localmente avanzado (invasión y destrucción sacra)", es comentado en Comité de Tumores de raquis y, dada la irresecabilidad inicial, se decide plantear quimiorradioterapia concomitante (cisplatino 75 mg/m2 día 1 + 5-fluorouracilo 3.750 mg/m2 dosis total del ciclo durante días 1 a 5) con intención neoadyuvante y posterior evaluación de rescate quirúrgico según la situación clínica y la respuesta.
+Tras el primer ciclo de quimioterapia (se administró profilaxis antibiótica con levofloxacino) ingresa por sepsis de foco cutáneo y respiratorio. Precisa de transfusión de concentrado de hematíes por sangrado tumoral. Se decide administrar un segundo ciclo con reducción de dosis al 80% previo a la quimiorradioterapia.
+Entre mayo y junio de 2013 recibe radioterapia sobre el lecho tumoral y área presacra hasta alcanzar 55,8 Gy concomitante con dos ciclos más de quimioterapia al 75%.
+La valoración clínica y radiológica tras finalizar el tratamiento es de respuesta parcial, por lo que se decide realizar un rescate quirúrgico.
+Septiembre de 2013: se realiza una exéresis radical (sacrectomía subtotal más resección sigma distal con peritonización y colostomía terminal). Se remite la pieza quirúrgica a Anatomía Patológica, evidenciándose una respuesta completa patológica (cambios posquimiorradioterapia sin carcinoma residual).
+Octubre/noviembre/diciembre de 2013: postoperatorio complejo durante 2-3 meses, marcado por dehiscencia de la herida y osteomielitis tratada con antibioterapia. También requiere de desbridamiento de úlcera sacra con colgajo por parte de Cirugía Plástica. Posteriormente tiene lugar una dehiscencia del colgajo y una fístula vesical que requiere sondaje. Se realiza un nuevo desbridamiento de dehiscencia sacra y abdominal. La herida abdominal precisa de tratamiento con presión negativa y ambas curas diarias.
+Es valorado en la Unidad de Rehabilitación por el déficit neurológico, pautándose sesiones de cinesiterapia asistida para mejorar la capacidad funcional y la movilización activa de la zona.
+Abril de 2014: posteriormente continúa controles en consultas de la Unidad de Raquis, Oncología Médica y Cirugía Plástica y rehabilitación. En el momento actual se encuentra libre de enfermedad (resonancia magnética + TC tórax-abdomen-pelvis).
+Presenta un Performance Status II. Ha ganado peso, no presenta cuadro constitucional, continúa con la rehabilitación activa, ha conseguido deambular de nuevo con ayuda y se ha retirado la sonda urinaria.

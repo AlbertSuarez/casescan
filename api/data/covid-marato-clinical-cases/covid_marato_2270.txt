@@ -1,0 +1,32 @@
+Anamnesis
+Presentamos el caso de una mujer de 70 años, con hipertensión y dislipemia en tratamiento como únicos antecedentes personales, que es diagnosticada en abril de 2018 a raíz de un cuadro de metrorragia de un tumor endometrial mülleriano mixto sin invasión miometrial profunda ni adenopatías significativas.
+Tras realizar un estudio de extensión con TC toracoabdominopélvica que resulta negativo, se realiza una cirugía laparoscópica que consistió en la realización de histerectomía total y doble anexectomía, linfadenectomía pélvica bilateral, omentectomía y lavado peritoneal. Según el informe definitivo de Anatomía Patológica, se trataba de un tumor mülleriano mixto estadio IB con un 90 % de sarcoma de alto grado con diferenciación rabdomioblástica y 10 % de carcinoma seroso de alto grado con una citorreducción completa.
+Tras este diagnóstico, la paciente es derivada a nuestras consultas donde se le ofrece la participación en un ensayo clínico que añade quimioterapia adyuvante con carboplatino-paclitaxel al tratamiento estándar con radioterapia. La paciente rechaza la participación en el mismo puesto que no desea recibir quimioterapia.
+La paciente realiza el seguimiento habitual hasta que, en diciembre de 2018, en la TC de reevaluación, se objetiva una recaída a nivel peritoneal y ganglionar con adenopatías patológicas en la cadena iliaca externa izquierda. En ese momento, inicia un tratamiento de primera línea para cáncer de endometrio avanzado con carboplatino AUC-5 y paclitaxel 175 mg/m2.
+Tras dos ciclos, se realiza una nueva TC que objetiva progresión peritoneal y ganglionar.
+Se propone en ese momento iniciar una segunda línea con ifosfamida 3 g los días 1-3 cada 21 días, que comienza el 15/04/2019.
+
+Última anamnesis
+El día 17 de abril, tras finalizar la tercera dosis del primer ciclo de ifosfamida, nos avisan del hospital de día porque la paciente refiere alteraciones visuales en forma de alucinosis, mareo y náuseas.
+
+Exploración física
+» Neurológica: sin signos de irritación meníngea, lenguaje fluente. Pares craneales conservados. Fuerza y sensibilidad en miembros superiores e inferiores conservadas. Reflejo cutáneo plantar flexor bilateral. Sin dismetría ni disdiadococinesia. No nistagmo. Marcha con leve aumento de la base de sustentación.
+» Auscultación cardiopulmonar: rítmica, sin soplos, con murmullo vesicular conservados y sin otros ruidos sobreañadidos.
+» Resto de exploración física anodina.
+
+Pruebas complementarias
+» Analítica sanguínea: función renal conservada, iones en rango, albúmina 2,5, bilirrubina total 0,55, GOT 44, GPT 25, GGT 117, LDH 867, FA 89. PCR 36, PCT 0,20. Hemograma sin alteraciones.
+» Hemostasias con INR 0,99.
+» Básico de orina: normal, sin datos de infección.
+» TC craneal con contraste iv: buena diferenciación cortico-subcortical. Sin datos de patología aguda intracraneal.
+» Estudio de líquido cefalorraquídeo: Aspecto normal. Leucocitos 0, hematíes 1, glucorraquia 64 mg/dl, proteinorraquia 36,4.
+» Cultivo del líquido cefalorraquídeo: tinción Gram negativa.
+
+Diagnóstico
+Encefalopatía aguda por ifosfamida.
+
+Tratamiento
+Se inicia tratamiento con azul de metileno iv cada 4 horas y tiamina intravenosa durante 3 días.
+
+Evolución
+Tras la suspensión de la infusión de ifosfamida y el inicio de azul de metileno, la paciente experimentó una mejoría clínica muy importante, pese a que las alucinaciones continuaron durante más de 48 horas. A las 72 horas, el cuadro había cedido por completo. Al alta, se mantuvo el tratamiento con tiamina una semana más hasta volver a ser valorada en consultas externas. Allí, se decidió suspender el tratamiento con ifosfamida y continuar con adriamicina en monoterapia.

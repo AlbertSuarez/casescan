@@ -1,0 +1,28 @@
+Anamnesis
+Varón de 27 años sin antecedentes personales de interés, no fumador y soldado de profesión, que presenta como antecedentes familiares padre con leucemia crónica, madre con cáncer de mama, tío materno con cáncer renal, tía abuela materna fallecida de cáncer de mama, tío abuelo materno fallecido de tumor cerebral y abuelo materno fallecido de cáncer de cabeza y cuello.
+Acude al Servicio de Urgencias en mayo de 2011 por disnea de varias semanas de evolución, que se ha hecho progresivamente más intensa, sin presentar fiebre ni otra sintomatología acompañante.
+
+Exploración física
+ECOG 1. Auscultación pulmonar: disminución del murmullo vesicular en la base pulmonar derecha, sin ruidos patológicos sobreañadidos, siendo el resto de la exploración normal, incluida la neurológica.
+
+Pruebas complementarias
+» Analítica: sin alteraciones.
+» Tomografía computarizada (TC) tóraco-abdómino-pélvica: masa en el lóbulo medio que asocia derrame pleural derecho e implantes pleurales múltiples, el mayor de ellos de 16 mm, en el hemotórax derecho. Resto del estudio sin hallazgos.
+» Broncoscopia: normal, no se aprecian lesiones endobronquiales.
+» Biopsia con aguja gruesa de masa pulmonar guiada por TC: adenocarcinoma. Estudio inmunohistoquímico que muestra positividad para TTF-1 y CK-7, con negatividad para CK-20.
+» Citología de líquido pleural: positiva para células malignas.
+
+Diagnóstico
+Adenocarcinoma de pulmón estadio IV (PL).
+
+Tratamiento
+Con el diagnóstico de adenocarcinoma de pulmón estadio IV, inicia tratamiento de primera línea con carboplatino + paclitaxel + bevacizumab en mayo de 2011, presentando respuesta parcial tras recibir tres ciclos, que se mantiene tras el sexto, por lo que continúa con bevacizumab de mantenimiento hasta septiembre de 2011.
+
+Evolución
+En septiembre de 2011 presenta progresión de la enfermedad a nivel peritoneal, pleural y cerebral. Se realiza una pleurectomía derecha en noviembre de 2011 y posteriormente recibe radioterapia holocraneal a dosis de 300 cGy durante 10 sesiones, recibiendo un total de 30 Gy.
+
+En diciembre de 2011 inicia una segunda línea de tratamiento con pemetrexed en monoterapia, presentando de nuevo progresión a nivel pleural, peritoneal y cerebral en mayo de 2012. En ese momento, el paciente se traslada a nuestro centro, en donde nos planteamos la posibilidad de realizar un estudio mutacional del gen ALK y EGFR, apreciando imágenes de translocación de ALK en el 55% de las células con FISH.
+
+Dada la presencia de reordenamientos en ALK, inicia tratamiento con crizotinib, apreciándose tras 3 meses de tratamiento respuesta parcial mayor, que mantiene en controles posteriores. En la TC de enero del 2015, se aprecia una imagen nodular en la cisura mayor derecha, que ha incrementado discretamente su tamaño con respecto al estudio previo. Con la sospecha de oligoprogresión, se decide continuar el tratamiento con crizotinib y realizar un control precoz con prueba de imagen. En la última TC de control no se objetivan cambios.
+
+Con los antecedentes familiares arriba indicados, se remite a la Unidad de Consejo Genético para el estudio de la mutación BRCA, siendo el paciente negativo para esta, pero encontrándose mutación en el gen BRCA en su hermano sano y en la madre del paciente. Asimismo, resulta portador de mutación su tío materno, que posteriormente desarrolla un carcinoma de células claras renal.

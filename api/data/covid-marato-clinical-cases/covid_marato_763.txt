@@ -1,0 +1,90 @@
+Anamnesis
+
+Antecedentes
+» Paciente de 49 años de edad, sin alergias medicamentosas conocidas hasta la fecha.
+» Antecedentes personales: hipertensión arterial.
+» Sin antecedentes familiares de interés.
+» Hábitos tóxicos: fumador de 20 cigarrillos-día.
+» Medicación habitual: diazepam 5 mg; omeprazol 20 mg; enalapril/hidroclorotiazida 20 mg/12,5 mg; gabapentina; AINE a demanda.
+Historia oncológica
+» Noviembre 2005: tras cuadro de meses de evolución de masa en región cervical, se realiza estudio y es valorado en comité de tumores.
+» RM cuello: masa de 4,5 x 3,5 x 3,3 cm en músculo semiespinoso de la cabeza del lado izquierdo, que desplaza el ligamento nucal hacia la derecha e infiltra el músculo esplenio adyacente. No se aprecian otras lesiones en el resto de la exploración.
+» TC de tórax: normal.
+» TC cerebral: se observa una lesión de partes blandas en la región occipital izquierda, no apreciándose alteraciones óseas y mostrándose normal la charnela.
+» Biopsia abierta del tumor: sin alteraciones morfológicas valorables (musculoesquelético).
+» Diciembre 2005: se procede a la exéresis de la tumoración.
+» El informe anatomopatológico reveló que se trataba de un sarcoma sinovial monofásico de partes blandas (con presencia de translocación t[x;18]): patrón de crecimiento: infiltrativo. Patrón histológico: fusocelular homogéneo, densamente celular, alternando con áreas periféricas más fibroesclerosadas con menor atipia. Grado de diferenciación: alto grado, con arquitectura fusocelular preservada pero un índice mitótico alto (hasta 4 y 5 mitosis por campo de gran aumento). Márgenes quirúrgicos: presumible resección íntegra, aunque la fragmentación impide asegurarlo taxativamente (revisión de Anatomía Patológica).
+» Recibió tratamiento QT adyuvante con adriamicina-ifosfamida durante 4 ciclos, el último de ellos el 9/3/06, y posteriormente también recibió radioterapia adyuvante, que finalizó en junio de 2006.
+» Mayo 2008: recidiva local por TC. Exéresis de la tumoración. AP: sarcoma sinovial del mismo tipo que la vez anterior, con margen microscópico de resección tangencialmente afecto. Se planteó la posibilidad de ampliación de márgenes, que no fue viable por la localización de la lesión.
+» Septiembre 2008: En TC de control, adenopatías cervicales bilaterales no palpables entre 10-15 mm de origen incierto, y de difícil acceso para punción. Se realizó PET que no mostraba enfermedad metabólicamente activa.
+» Julio 2015: en TC de control, nueva recidiva local con PET/TC en la que la masa cervical se comportaba como ametabólica.
+» Septiembre 2015: nueva exéresis macroscópicamente completa. AP: sarcoma sinovial monofásico.
+» Junio 2016: RM cervical en que se aprecia lesión de 11 x 8mm paraespinal izquierdo compatible con recidiva tumoral, con RM en octubre que confirma recidiva local.
+» Noviembre 2016: exéresis de la lesión con márgenes de seguridad. AP: sarcoma sinovial de patrón fusocelular monofásico con márgenes quirúrgicos libres de enfermedad.
+» Septiembre 2017: TC detecta una lesión de 18 x 9 mm en región occipital izquierda y en RM de octubre confirma dos lesiones a nivel de la musculatura de C1-C2 de 24 x 16mm y 9 x 13 mm.
+» Noviembre 2017: fue operado de uno de los nódulos cervicales, quedando otro que no era resecable.
+» Diciembre 2017: inicia tratamiento dentro del ensayo clínico GEIS52 con sunitinib + nivolumab.
+» Una vez iniciada la terapia mencionada, el paciente presentó a las pocas semanas un cuadro de artritis en tobillo izquierdo, motivo por el cual se le realizó una ecografía de dicha articulación y fue derivado a Reumatología para evaluar el origen de la misma.
+» Se realizaron análisis que incluían pruebas de autoinmunidad, resultando: factor reumatoide, anticuerpos antinucleares, anticuerpos anti-ADN, anticuerpo IgG antipéptido cítrico citrulinado, anti-ADN bicatenario y complemento (C3,C4), todos ellos en rango dentro de la normalidad, dejando a un lado como primera sospecha un cuadro autoinmune como Lupus o artritis reumatoide.
+» Tras este cuadro, el paciente presentó en el cuero cabelludo una serie de extensas lesiones eritematosas, descamativas y con eritema perilesional, por las que no solicitó ninguna consulta médica.
+
+Historia actual
+En marzo de 2018, encontrándose en proceso de estudio de manera ambulatoria de cuadro de artritis de tobillo, el paciente acude a Urgencias por cuadro de fiebre vespertina de entre 38 y 39ºC de 72 horas de evolución, asociada a disnea de esfuerzo, mínima tos sin expectoración y malestar general.
+Además, refiere dolor a nivel de extremidad inferior izquierda, así como inflamación persistente a nivel de tobillo izquierdo que dificulta la deambulación.
+No refiere clínica miccional. Hábito deposicional mantenido. No presentaba dolor abdominal. Sin ambiente epidémico.
+
+Exploración física
+» Paciente consciente, eupneico, normocoloreado, normohidratado. Orientado en tiempo y espacio.
+» Lenguaje coherente. Eutímico.
+» Auscultación cardiaca: rítmica, sin soplos, no taquicárdico.
+» Auscultación pulmonar: normoventilación en ambos hemitórax.
+» Abdomen: blando, depresible, no doloroso a la palpación, no se aprecian masas ni megalias.
+» EEII: se aprecia inflamación a nivel de tobillo izquierdo, acompañado de aumento de la temperatura local.
+» A nivel de cuero cabelludo, se aprecian extensas placas descamativas con eritema perilesional.
+» Constantes: (a su llegada a urgencias) Tensión arterial 126/84 mm Hg, temperatura 37,7 ºC, saturación de oxígeno 98 %.
+
+Pruebas complementarias
+Dada la anamnesis, a su llegada a Urgencias, se solicitan: análisis de sangre, radiografía de tórax y hemocultivos con el fin de descartar un origen infeccioso del cuadro febril.
+Análisis de sangre:
+Bioquímica: glucosa 104 mg/dl, urea 44 mg/dl, Cr 1,77 mg/dl (cifras previas 1.00 mg/dl), Ca 8,5 mg/dl, Cl 97 meq/l, Na 132 mEq/l, K 4,3 mEq/l.
+Hemograma: 5.700 leucocitos (65 % neutrófilos), Hemoglobina 11,7 g/dl, coagulación sin alteraciones.
+Análisis de orina: proteínas 0,3 g/l, glu 0,0 g/l, Hemoglobina: +++, nitritos negativos, hematíes 10-25 por campo x 400 aumentos. Resto sin alteraciones reseñables.
+Hemocultivos: negativos
+Radiografía de tórax: no se identifican alteraciones pleuroparenquimatosas de evolución aguda.
+Dado el empeoramiento de la función renal, se solicita ecografía abdominal para descartar causas obstructivas cuyo resultado fue: riñones de ecoestructura y tamaño normal. No se observa ectasia ureteral ni lesiones obstructivas. No se observa líquido libre intraperitoneal. Bazo y páncreas sin alteraciones. Vías biliares no dilatadas.
+El análisis de sangre, no reveló datos patológicos, salvo el aumento de creatinina sérica indicando un deterioro brusco de la función renal, que convenía evaluar detalladamente en el contexto de un paciente tratado con inmunoterapia, por existir la posibilidad de presentar una nefritis tóxica. Los resultados en orina (presencia de hematuria microscópica y presencia de proteínas en orina en cantidad de 300mg/l) apoyaban la sospecha de una incipiente nefritis tóxica en el contexto del tratamiento con nivolumab.
+Una vez descartadas mediante imagen ecográfica causas obstructivas que justificasen dicho empeoramiento, se procedió a contactar con el Servicio de Nefrología para iniciar el tratamiento más apropiado. Tras valorar al paciente y los resultados ecográficos y analíticos no recomendaron corticoterapia de inicio. Inicialmente se aconseja tratamiento conservador con fluidoterapia intensiva y retirada de fármacos nefrotóxicos (IECA, AINE, diuréticos, gabapentina). Solicitan recogida de orina de 12 h y, en caso de ausencia de mejora, estudiarían inicio de corticoterapia.
+
+Diagnóstico
+DIAGNÓSTICO DIFERENCIAL
+Ante la exploración física y los resultados analíticos, nos enfrentamos a una serie de alteraciones dentro de las cuales hemos de establecer diagnósticos diferenciales:
+» Cuadro infeccioso: infección localizada sin foco claro (pulmonar, articular, urinario, digestivo, artritis infecciosa, etc.) infección sistémica (bacteriemia).
+» Monoartritis: artritis por depósito, artritis psoriásica, artritis séptica.
+» Insuficiencia renal: causa prerrenal (deshidratación por cuadro febril), toxicidad a nivel parenquimatoso en el contexto de tratamiento con inmunoterapia, causas posrrenales obstructivas (descartadas con alta probabilidad tras realización de ecografía).
+Dada la ausencia de leucocitosis y sintomatología que sugiriera un foco claro de infección, se consideró como opción poco probable inicialmente una etiología infecciosa. Esta hipótesis quedó luego respaldada al resultar negativos los hemocultivos extraídos hasta en dos ocasiones durante el ingreso, así como la desaparición del cuadro febril al inicio del tratamiento con corticoterapia sin incluir antibioterapia entre las medidas terapéuticas pautadas.
+A la luz de la exploración física, dada la existencia de artritis monoarticular de tobillo en ausencia de traumatismo, cabría pensar en artritis por depósito o artritis infecciosa, dado que ambas entidades son compatibles con la presencia de fiebre. Sin embargo, otra entidad todavía más probable en el contexto en el que nos encontramos es la aparición de una artritis psoriásica, diagnóstico apoyado por la presencia en cuero cabelludo de placas eritematosas y descamativas. Dicha entidad fue confirmada y tratada por el Servicio de Reumatología (diagnóstico clínico).
+En cuanto a la insuficiencia renal, una vez descartadas causas obstructivas, debemos establecer el nivel al que se produce el fallo (prerrenal o parenquimatoso). La presencia de hematíes en orina, así como el hallazgo de proteinuria en rango no nefrótico, orientaban hacia una posible nefritis tóxica en el contexto de un paciente tratado con nivolumab.
+DIAGNÓSTICOS FINALES
+» Artritis psoriásica.
+» Nefritis tubulointersticial aguda tóxica.
+Tratamiento
+Tras la descripción de los diagnósticos establecidos, procedemos a detallar el tratamiento empleado.
+Inicialmente el manejo del empeoramiento de la función renal fue tratado a base de fluidoterapia intravenosa:
+» 1.000 CC de suero fisiológico iv/día.
+El dolor articular y el cuadro de fiebre fueron manejados inicialmente con pauta analgésica (intentando evitar en la medida de lo posible la nefrotoxicidad del grupo de los AINE) y con antitérmicos.
+» Paracetamol 1 g iv si precisa por fiebre > 38 ºC.
+» Metamizol 575 mg iv cada 12 h.
+Tras interconsulta con el servicio de Reumatología, y una vez establecido (diagnóstico clínico) el diagnóstico de artritis psoriásica, se recomienda pauta descendente de corticoides.
+» 30 mg de prednisona vía oral cada 24 horas durante la primera semana.
+» 20 mg de prednisona vía oral cada 24 horas durante la segunda semana.
+» 10 mg de prednisona vía oral cada 24 horas durante la tercera semana.
+
+Evolución
+Como se ha explicado, dados los hallazgos analíticos, se sospecha una incipiente nefritis por nivolumab y se contacta con Servicio de Nefrología quienes, tras valorar al paciente y los resultados analíticos, no recomiendan inicio de corticoterapia. Inicialmente aconsejan tratamiento conservador, manejo con fluidoterapia y retirada de fármacos nefrotóxicos (IECA, AINE, diuréticos, gabapentina). Solicitan recogida de orina durante 12 horas y, en caso de ausencia de mejora de los parámetros analíticos, estudiarán iniciar corticoterapia.
+Se ingresa al paciente en el servicio de Oncología para observación y tratamiento.
+Analíticamente, el paciente evoluciona de manera favorable, llegando a valores normales de creatinina sin necesidad de corticoides pasadas 48 h desde el ingreso.
+El resultado analítico de la recogida de orina de 12 h mostraba mejora respecto al análisis básico recogido en Urgencias el día anterior, siendo:
+» Básico de orina: proteínas 0,00, glucosa 0,00, hemoglobina +, nitritos negativos, resto sin alteraciones reseñables.
+Habiendo disminuido la cantidad de proteínas en orina y la hemoglobinuria, Nefrología decide mantener tratamiento conservador, sin iniciar corticoides y modificando la terapia antihipertensiva del paciente, eliminando del tratamiento la combinación de enalapril/hidroclorotiazida y sustituyéndolo por doxazosina. Asimismo, recomiendan retirar el dexketoprofeno como analgésico habitual por ser nefrotóxico y manejo con metamizol y/o tramadol.
+Sin embargo, persiste la fiebre y el dolor articular a nivel de extremidad inferior izquierda. Dada la persistencia del cuadro febril, se extraen nuevamente hemocultivos, resultando estos negativos.
+Durante el ingreso, se solicita colaboración al Servicio de Reumatología, quienes establecen el diagnóstico de artritis psoriásica (diagnóstico clínico). Se recomienda pauta corticoide descendente, como se detalla previamente, de manera que, tras el inicio del tratamiento, cesan los episodios de fiebre-febrícula en 48-72 horas. Asimismo, es notable la disminución de la inflamación articular en pocos días, permitiendo al paciente recuperar la funcionalidad articular que tenía previamente.

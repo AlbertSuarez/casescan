@@ -1,0 +1,24 @@
+Anamnesis
+Paciente de 53 años que acude a consulta de Oncología Médica en marzo de 2011. No tiene antecedentes familiares ni personales de interés. Fue intervenido en 1991 de un astrocitoma de bajo grado frontal izquierdo. En febrero de 2011 se confirmó una recurrencia con signos radiológicos de viraje a alto grado y se realizó exéresis de la lesión.
+
+Examen físico
+Karnofsky 90 %. Fuerza en el hemicuerpo izquierdo, normal; en hemicuerpo derecho, 3/5. Minimental test 28/30. Leve afasia expresiva. Ausencia de adenopatías periféricas palpables. Exploraciones cardiopulmonar y abdominal normales.
+
+Pruebas complementarias
+Analítica: normal, salvo LDH 303 Ul/l.
+Tomografía computarizada (TC): restos hemáticos en el lecho tumoral. Captación patológica compatible con restos de tumoración glial.
+Anatomía patológica: población celular densa y muy pleomórfica. GFAP positiva. Synaptofisina negativa. Ki67 alto. No se identifican áreas de necrosis, pero la morfología es propia de un astrocitoma grado IV.
+Biología molecular: metilación del promotor de MGMT y mutación de R132 en IDH1. Pérdida de heterocigosidad en PTEN y TP53. Deleción de CDKN2A.
+
+Diagnóstico
+Astrocitoma de alto grado frontal izquierdo, con metilación MGMT positiva.
+
+Tratamiento
+Se trata de una recurrencia tras 20 años de un astrocitoma que ha virado a alto grado. Tiene varios factores de buen pronóstico: Karnofsky > 70 %, estado cognitivo conservado y metilación de MGMT. Por ello, tras la resección quirúrgica, se pauta tratamiento adyuvante con radio y quimioterapia, a base de temozolamida (TMZ), según esquema de Stupp.
+
+Evolución
+Mientras recibía radioterapia concomitante con temozolamida (TMZ) a 75 mg/m2/día se produjo una importante trombopenia con sangrado cutáneo y una progresión tumoral confirmada por TC. Debido al rápido deterioro y empeoramiento de la clínica neurológica, pasa a fase de cuidados paliativos, aunque continúa en seguimiento por Neurocirugía.
+A los 4 meses presenta un tromboembolismo pulmonar bilateral del que se recupera. Un año después tiene buen estado general y, aunque en la resonancia magnética se observa una nueva progresión tumoral, se decide administrar TMZ a dosis densa.
+Tras 3 y 6 meses de tratamiento con buena tolerancia y mejoría clínica, la RM confirma respuesta parcial.
+A los 9 meses presenta hemiparesia derecha y crisis parciales faciales. En la RM se observa un infarto lacunar izquierdo y una nueva disminución del volumen tumoral.
+Dado que ya estaba recibiendo heparinas a dosis terapéuticas, se asocian estatinas y ácido acetilsalicílico con mejoría clínica. Actualmente, el paciente lleva un año con TMZ a dosis densa con beneficio clínico y radiológico y sin ninguna toxicidad.

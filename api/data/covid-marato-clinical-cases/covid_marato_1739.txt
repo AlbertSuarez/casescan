@@ -1,0 +1,24 @@
+Anamnesis
+Mujer de 41 años, sin antecedentes patológicos ni familiares de interés.
+Diagnosticada en 2015 de una neoplasia de ovario estadio IV por citología pleural positiva. El 13/07/15 fue sometida a cirugía primaria (histerectomía, doble anexectomía, omentectomía, apendicectomía, y linfadenectomía pélvica y paraaórtica), con diagnóstico de carcinoma mixto de ovario (endometrioide bien diferenciado y tumor de células claras). Recibió tratamiento complementario con quimioterapia basada en platino (CBDCA)-paclitaxel trisemanal asociado a bevacizumab, del 11/08 hasta el 03/12/2015, con posterior mantenimiento con bevacizumab hasta completar los 15 meses de tratamiento (23/11/2016), alcanzándose la remisión completa de la enfermedad. En tomografía computarizada (TC) de control de junio de 2017, se objetivó diseminación peritoneal, a los 18 meses del fin de tratamiento con platino, confirmada por biopsia, no subsidiaria de rescate quirúrgico y comenzó segunda línea de tratamiento con un doblete de platino (CBDCA y DLP-doxorrubicina liposomal pegilada) el 05/07/2017.
+El 16/07/2017, acude a Urgencias por mareo inespecífico, estreñimiento y repetidos vómitos alimenticios, con meteorismo mantenido, de una semana de evolución. Durante la valoración inicial, la paciente se muestra ansiosa, con parestesias en extremidades y clínica de tetania. Se realiza radiografía de tórax y abdomen, sin evidencia de cuadro obstructivo, electrocardiograma con alargamiento del intervalo QTc y analítica, con único hallazgo de hipocalcemia (6,76 mg/dl), siendo el valor previo, de 72 horas antes, de 8 mg/dl e hipomagnesemia de 0,3 mg/dl. Con este cuadro, ingresa a cargo de Oncología Médica.
+
+Exploración física
+Presión arterial 110/61 mm Hg, frecuencia cardiaca 82 lpm, saturación de oxígeno basal 100 %, frecuencia respiratoria 28 rpm, con buena mecánica respiratoria.
+Estado general conservado, consciente y orientada, bien hidratada y perfundida, normocoloreada. Pulsos centrales y periféricos presentes y simétricos y yugulares normales. Signo de Trousseau positivo, Chvostek negativo. Auscultación cardiopulmonar anodina. Abdomen globuloso, blando y depresible durante la palpación, indoloro y sin signos de peritonismo. No se palpan masas ni megalias. Presencia de cicatriz de intervención quirúrgica previa. Ruidos disminuidos.
+
+Pruebas complementarias
+» Analítica (16/07/2017): creatinina (Cr) 0,75. Calcio (Ca2+) 6,5 (corregido por proteínas 6,76, normal 8,6-10,2), magnesio (Mg2+) 0,3 (normal 1,59-2,56), potasio (K+) 3,4, hemoglobina 8,5, plaquetas 190.000/mm3, leucocitos 6.310/mm3 con fórmula anodina.
+» Radiografía de tórax (16/07/2017): sin hallazgos cardiopulmonares significativos.
+» Radiografía de abdomen (16/07/2017): patrón gaseoso intestinal sin alteraciones.
+
+Diagnóstico
+Se plantea diagnóstico diferencial entre toxicidad renal 2ª a quimioterapia, con hipomagnesemia e hipocalcemia sintomáticas, versus alteración iónica en relación al florido episodio de emesis de la paciente.
+
+Tratamiento
+Se ajusta el tratamiento con suplementos endovenosos de calcio y magnesio. El día 24 de julio, tras mejoría bioquímica y sintomática, es dada de alta con tratamiento oral con magnesio, 3 comprimidos diarios y calcio, 1 comprimido cada 12 horas, programándose un control evolutivo estrecho en hospital de día de Oncología Médica.
+
+Evolución
+En la analítica realizada a los 4 días del alta, se objetiva nuevo deterioro de la calcemia y la magnesemia, presentando clínica similar a la previa (parestesias y vómitos), por lo que reingresa. Es valorada por servicio de Nefrología y, tras ampliar el estudio, se objetiva una ligera alcalosis metabólica etiquetándose el cuadro como una tubulopatía por quimioterapia, sin hipocalemia que haga sospechar un síndrome de Bartter/Gitelman.
+Nuevamente, se maneja con ajuste diario de suplementos intravenosos y orales, y termina yéndose de alta con hospitalización a domicilio (HaD), dependiendo de una bomba de infusión continua de magnesio, pues presentaba diarreas intensas con la suplementación oral y las cifras en sangre del electrolito se mostraron muy inestables sin la reposición endovenosa. Además, se decide continuar con el tratamiento quimioterápico, retirando el CBDCA, dejando la doxorrubicina en monoterapia.
+En los siguientes meses, mantiene óptimos niveles séricos de calcio y magnesio. Desafortunadamente, en octubre presenta progresión tumoral a nivel pulmonar, ganglionar y retroperitoneal, iniciándose una tercera línea de tratamiento con paclitaxel, que comienza el 25/10/2017. En noviembre ingresa por deterioro generalizado, asociado a síndrome febril y disnea, falleciendo 10 días más tarde por un proceso infeccioso pulmonar con insuficiencia respiratoria secundaria.

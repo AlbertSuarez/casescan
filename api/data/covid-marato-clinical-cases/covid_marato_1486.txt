@@ -1,0 +1,22 @@
+Anamnesis
+Mujer de 58 años, sin alergias medicamentosas conocidas, nunca fumadora, sin antecedentes patológicos, personales ni familiares de interés, que consulta en mayo de 2014 por cuadro de disnea de medianos esfuerzos progresiva y astenia, así como por opresión torácica.
+Durante el ingreso para estudio del dolor torácico, se objetiva en las pruebas de imagen un nódulo pulmonar solitario en lóbulo superior izquierdo.
+
+Exploración física
+Buen estado general. Consciente y orientada, pupilas isocóricas y normorreactivas, pares craneales conservados. Bien hidratada y perfundida. Sin ingurgitación yugular, ni adenopatías laterocervicales, axilares ni supraclaviculares. Auscultación cardiorrespiratoria sin hallazgos. Abdomen anodino. Extremidades sin edemas ni signos de trombosis.
+
+Pruebas complementarias
+ Se realiza una tomografía computarizada (TC) toracoabdominal donde se objetiva una masa pulmonar de 56,3 x 32,5 mm de diámetro, localizada en segmento apicoposterior de LSI. La tumoración se asocia a múltiples pequeños ganglios linfáticos subcentimétricos mediastínicos en área prevascular y en región de ventana aortopulmonar, con presencia de una adenopatía inespecífica de 13,2 mm y una adenopatía de 1 cm en hilio pulmonar izquierdo.
+ El resultado anatomopatológico de la punción pulmonar fue positivo para adenocarcinoma moderadamente diferenciado.
+ En la tomografía por emisión de positrones (PET), se detecta una masa tumoral hipermetabólica en el lóbulo superior izquierdo (SUVmax: 10,10) en contacto con el mediastino. A nivel de hilio pulmonar se observa una adenopatía hipermetabólica (SUVmax: 3,98) de 10 mm de diámetro sugestiva de infiltración ganglionar.
+ Ante el hallazgo de metástasis ganglionar, se realiza mediastinoscopia en enero de 2014 que descarta adenopatías afectas a nivel de N2.
+
+Diagnóstico
+Se trata de un adenocarcinoma moderadamente diferenciado, 5,5 cm con afectación en 5/10 ganglios, pT2bpN2M0, estadio IIIA (N2). Presenta una mutación en el exón 21 del gen EGFR.
+
+Tratamiento
+Se decide tratamiento adyuvante con QT-RT secuencial esquema cisplatino 80 mg/m2 día 1 + vinorelbina 20 mg/m2 días 1 y 8 cada 4 semanas por cuatro ciclos, que finaliza en junio de 2014 seguido de RT (60 Gy totales en 30 sesiones), que finaliza en septiembre de 2014.
+
+Evolución
+En enero de 2015, a 10 meses de la cirugía, en TC torácica de control, presenta aparición de múltiples metástasis pulmonares bilaterales. Se propone inclusión en ensayo clínico GOAL, aleatorizada a la rama de gefitinib 250 mg al día + olaparib 250 mg al día, que inicia en febrero de 2015 con respuesta completa. Tras 14 ciclos, inicia cuadro de afasia global, letargo, descoordinación, orientando el cuadro inicialmente como ictus isquémico e ingresando en planta de Neurología para estudio. Dado que no se evidencian lesiones isquémicas por TC craneal, se realiza RMN cerebral que muestra captación de contraste leptomeníngeo supratentorial, compatible con diseminación intracraneal de su adenocarcinoma, sin evidencia de enfermedad extracerebral. La citología del LCR resulta positiva para células malignas de adenocarcinoma metastásico, y se detecta la mutación del exón 21 de EGFR, sin la mutación T790M. Se plantea iniciar tratamiento con erlotinib semanal a dosis de 1.500 mg en marzo de 2016 y se mantiene con enfermedad estable meníngea hasta enero de 2017.
+Durante el tratamiento, la paciente presenta buena tolerancia, apareciendo como principal efecto adversos astenia G2. En enero de 2017. presenta empeoramiento de la clínica neurológica, en forma de afasia de expresión. Se confirma progresión por RMN cerebral sin enfermedad extracerebral y en el análisis del líquido cefalorraquídeo se detecta la mutación T790M, que plantea el uso de osimertinib. En contexto de una neumonía nosocomial, la paciente presenta importante deterioro del estado general que impide recibir ningún tratamiento adicional para su neoplasia. La paciente fallece en marzo de 2017.

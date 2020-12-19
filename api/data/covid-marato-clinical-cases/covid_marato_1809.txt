@@ -1,0 +1,41 @@
+Anamnesis
+Presentamos un varón de 37 años, sin alergias medicamentosas conocidas y fumador ocasional desde la adolescencia. Padre de dos hijos de 3 y 7 años.
+Como antecedentes patológicos únicamente presenta asma alérgica y, como antecedentes familiares, se ha registrado abuelo paterno con diagnóstico de neoplasia de colon y abuela paterna con leucemia.
+Sin tratamiento habitual.
+
+Historia oncológica
+En junio de 2017 ingresa en el hospital por dolor lumbar e inguinal bilateral de 2-3 meses de evolución, acompañado de tumoración en antebrazo derecho. Se trata de un dolor continuo, que mejora con el reposo, aumentando con la sedestación y los cambios posturales, provocándole parestesias en ambas extremidades inferiores.
+Asimismo, presenta pérdida de aproximadamente 5 kg de peso en los últimos 3 meses y disnea progresiva hasta hacerse de moderados esfuerzos. Sin dolor torácico, tos, expectoración, fiebre ni otra clínica acompañante.
+
+Exploración física
+Durante la exploración física destaca una hipofonesis en hemitórax inferior derecho con murmullo vesicular conservado en pulmón izquierdo. Exploración neurológica sin alteraciones. A nivel locomotor, se apreciaba una tumoración de consistencia dura y adherida a planos profundos, no dolorosa durante la palpación en antebrazo derecho y muslo izquierdo.
+
+Pruebas complementarias
+Durante el ingreso se realizan las siguientes pruebas complementarias:
+» Radiografía de tórax: derrame pleural masivo derecho sin desplazamiento mediastínico.
+» Marcadores tumorales CEA 34,6, Ca 19,9 > 700, Ca 12,5 260,1.
+» TC de cuello-tórax-abdomen: metástasis pleurales, óseas, musculares múltiples, cerebrales y posibles pulmonares con sospecha de neoplasia primario pulmonar.
+Por presencia de derrame pleural derecho, se solicita pleurodesis guiada por videotoracoscopia con solicitud de biopsia pleural.
+Ante la marcada sospecha de primario de origen pulmonar, se solicita el perfil mutacional correspondiente (KRAS, EGFR, ALK):
+» Citología liquido pleural: compatible con infiltración por adenocarcinoma. TTF-1 positivo, lo cual favorece un origen pulmonar.
+» Biopsia muscular: adenocarcinoma (ADK) metastásico. KRAS mutado. EGFR wild type. ALK no traslocado.
+» Biopsia pleural: ADK con fenotipo de origen gastrointestinal (estómago, pancreático y biliar).
+Positividad para CK7, CK20, y CDX-2 (aisladas células TTF-1). Negativas para napsina, PAX 8 y PSA. HER-2 negativo.
+Por discordancia entre una primera sospecha de primario pulmonar y el resultado posterior de biopsia pleural compatible con ADK de origen gastrointestinal, se amplía el estudio con las siguientes pruebas complementarias:
+» Gastroscopia: examen endoscópico normal.
+» Citología orina: negativo para malignidad. Celularidad urotelial con cambios reactivos.
+» Ecografía renal: ambos riñones, vejiga y próstata sin alteraciones ecográficamente valorables.
+
+Diagnóstico
+Ante el diagnóstico de adenocarcinoma de origen desconocido con metástasis múltiples: pleurales, óseas, musculares, cerebrales y posible pulmonares, se solicita un estudio de secuenciación genética masiva.
+
+Tratamiento
+A la espera de dichos resultados, se realiza en julio de 2017 RT holocraneal (entre el 26/6/2017 y el 10/7/2017 se administraron 30Gy a fraccionamiento de 3Gy/fracción) y se inicia quimioterapia de primera línea esquema carboplatino AUC 6/paclitaxel 175 mg/m2 cada 21 días durante 2 ciclos, presentando mala tolerancia con náuseas, vómitos grado 2 y diarrea grado 2.
+
+Evolución
+Ingreso hospitalario en agosto 2017 por anemia grado 4 y mal control del dolor. Se realiza TC toracoabdominopélvica que evidencia progresión de la enfermedad. Para el control del dolor se inicia morfina sulfato retard (MST) 60 mg cada 12 horas y rescates de fentanilo sublingual 200 mcg.
+Ingresa nuevamente en septiembre 2017 por síndrome febril sin semiología infecciosa y cultivos negativos; por lo que se cataloga de origen tumoral, y se inicia indometacina con resolución del cuadro.
+Asimismo, presenta dolor y aumento del perímetro de la extremidad inferior izquierda (en TC se observaba afectación ósea en cadera izquierda y muscular en ambos miembros inferiores como probable causa); se realiza Eco-Doppler que determina trombosis venosa profunda en vena femoral izquierda, iniciándose tinzaparina 12.000 UI cada 24 horas. Por dolor mal controlado, precisa perfusión de morfina iv y posterior rotación de opioides progresiva a metadona, con mejor control, pero necesitando rescates de morfina subcutánea.
+También presenta astenia marcada y anemia grado 3 post-QT (hemoglobina 6,9 g/dl) que obligan a transfusión de concentrados de hematíes en varias ocasiones (sospecha de infiltración tumoral de medula ósea).
+Ante la falta de respuesta clínica y radiológica a la quimioterapia tras la administración de 2 ciclos de tratamiento, se decide iniciar, en octubre de 2017, QT paliativa con irinotecan 180 mg/m2 cada 2 semanas según resultado de test de secuenciación genética.
+Se da de alta hospitalaria y acude a consulta para administrar 2º ciclo de irinotecan quincenal. A pesar de presentar mejoría clínica con buen control del dolor, el paciente fallece en noviembre de 2017.

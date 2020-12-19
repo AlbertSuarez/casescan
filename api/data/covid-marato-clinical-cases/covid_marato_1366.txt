@@ -1,0 +1,29 @@
+Anamnesis
+Paciente varón de 60 años, sin alergias medicamentosas conocidas. Jubilado hace 10 años. Sin factores de riesgo cardiovascular ni tratamiento habitual. Intervenido de apendicectomía y fisura anal.
+Historia oncológica: en 1998, fue diagnosticado de carcinoma adenoide quístico pulmonar, tratado quirúrgicamente mediante neumonectomía derecha, sin tratamiento posterior, iniciando revisiones.
+En abril de 2006, se realizó extirpación del lóbulo caudado hepático por metástasis de carcinoma adenoide quístico pulmonar. En noviembre de 2007, se detectaron metástasis hepáticas múltiples, que se trataron con radiofrecuencia.
+Es remitido al Servicio de Oncología Médica en septiembre de 2008 tras la aparición de nuevas lesiones hepáticas. El paciente presentaba leve dolor en hipocondrio derecho de meses de evolución.
+
+Exploración física
+Paciente con ECOG 0. Durante la exploración física destaca únicamente hipoventilación en hemitórax derecho. Resto sin alteraciones.
+
+Pruebas complementarias
+Las pruebas analíticas resultaron normales.
+Se decidió hacer estudio de extensión mediante TC de tórax y RMN hepática:
+» La TC de tórax presentaba neumonectomía derecha sin nuevas lesiones.
+» La RMN hepática informó de cambios secundarios a cirugía hepática y lesiones focales localizadas en segmento 4 (1 cm), 5 (1 cm), 7 (1,7 cm) y 8 (1,5 cm) de origen metastásico.
+
+Diagnóstico
+Metástasis hepáticas de carcinoma adenoide quístico de pulmón.
+
+Tratamiento
+Véase en Evolución.
+
+Evolución
+Ante la presentación de un tumor de lento crecimiento y la posibilidad de tratamiento local, se decidió la realización de quimioembolización con CPT 11 en dos tiempos, febrero y mayo de 2009.
+Ya en diciembre de 2009, sufrió una nueva progresión hepática múltiple, por lo que comenzó tratamiento con cisplatino y vinorelbina durante 6 ciclos, consiguiendo estabilización de la enfermedad.
+En enero de 2012, en una TC de control se describió progresión de las lesiones hepáticas. Ante esta situación clínica, se decidió comenzar una segunda línea de tratamiento con adriamicina y ciclofosfamida durante 6 ciclos, consiguiendo estabilización nuevamente.
+Casi un año después, en abril de 2013, sufrió nueva progresión hepática. Para la toma de decisión terapéutica y ante los datos procedentes de estudios con imatinib, en este punto se solicitó la determinación c-kit, resultando negativa. Se inició tercera línea de tratamiento con cisplatino y 5-fluoracilo con buena tolerancia, durante 6 ciclos, obteniéndose nuevamente estabilización de la enfermedad.
+Tras un año de seguimiento, en diciembre de 2014, el paciente empezó con ictericia, coluria, acolia y aumento de las transaminasas (GOT 106,9, GGT 1.483, bilirrubina total 4,73). Dada la clínica, se solicitó una ecografía abdominal que demostró la progresión hepática sin datos de obstrucción biliar. Valoradas opciones, y de acuerdo con el paciente, se comenzó una cuarta línea de tratamiento con carboplatino y vinorelbina ajustada dosis a función hepática, durante 6 ciclos, hasta mayo de 2015. El paciente presentó beneficio clínico con normalización de las pruebas de función hepática (GOT 73,3, GGT 65, bilirrubina total 0,92) y estabilización radiológica.
+Cuatro meses después, mostró nuevo empeoramiento clínico y analítico, por lo que se inició quinta línea de tratamiento, carboplatino y vinorelbina (6 ciclos), hasta marzo de 2016, con nueva estabilización.
+Finalmente, a finales de 2016 sufrió una progresión hepática y pulmonar con claro deterioro de su estado general, terminando con su fallecimiento en enero de 2017.

@@ -1,0 +1,34 @@
+Anamnesis
+Varón de 66 años de edad, con antecedentes personales de tabaquismo activo (35 paquetes/año) y úlcera duodenal.
+
+En agosto de 2004 fue diagnosticado, en el contexto de una alteración del ritmo deposicional, de un adenocarcinoma de recto a 4 cm del margen anal, cT4N0M0, estenosante. El día 14/11/2004, por cuadro suboclusivo, se realizó una colostomía en loop y, posteriormente el paciente inició tratamiento neoadyuvante con quimioterapia (5-fluorouracilo) y radioterapia (45 Gy) concomitantes (inicio: 7/2/2005; fin: 14/3/2005). El 2/5/2005 se intervino quirúrgicamente, realizándoseuna resección anterior con colostomía; la resección fue macroscópicamente incompleta (R2) al quedar tumor residual en el muñón rectal inextirpable en ese momento. El paciente inició tratamiento con quimioterapia esquema FOLFOX-4, del que realizó un total de ocho ciclos con buena respuesta radiológica, por lo que en Ssptiembre de 2005 se realizó una resección posterior del recto y resección en cuña de la pared posterior de la vejiga ; la anatomía patológica fue compatible con adenocarcinoma moderadamente diferenciado de 4 cm que infiltraba todas las capas de la pared, se extendía a la vesícula seminal y alcanzaba el límite radial. Posteriormente, el paciente inició controles.
+
+En febrero de 2009, tras un intervalo libre de progresión superior a tres años, en la TC de control se detectó un nódulo pulmonar en el segmento apical del lóbulo inferior izquierdo sin evidenciarse enfermedad a otros niveles, por lo que se decidió intervención quirúrgica. En enero de 2010 se realizó una lobectomía inferior izquierda, con anatomía patológica compatible con adenocarcinoma moderadamente diferenciado con extensa necrosis (3 cm) compatible con metástasis del primario rectal conocido. Tras la cirugía, el paciente realizó tratamiento con esquema FOLFIRI (seis ciclos totales, el último en julio de 2010).
+
+En marzo de 2011 el paciente acudió a Hospital de Día de Oncología por cefalea y acúfenos de 15 días de evolución.
+
+Exploración física
+Exploración neurológica: paciente consciente y orientado en las tres esferas, pupilas isocóricas normorreactivas, movimientos oculares extrínsecos correctos y bilaterales, campimetría por confrontación conservada. Pares craneales conservados.
+Disminución de fuerza en extremidad superior izquierda 4/5, resto extremidades sin alteraciones. No presenta alteraciones sensitivas. Reflejo cutáneo plantar flexor bilateral.
+No se observa inestabilidad a la marcha.
+Pruebas complementarias
+Se completó estudio con:
+» TC craneal urgente: aparición de tumoración parietal derecha, córtico-subcortical, sólida y de intenso realce con el contraste, de 36 x3 1 mm de diámetro máximo axial, compatible con metástasis.
+» Resonancia magnética cerebral: metástasis cerebral única parietal derecha.
+» PET-TC: ausencia de enfermedad extracraneal.
+
+Diagnóstico
+Valorado como recaída cerebral única a 14 meses de la resección de metástasis pulmonar (ocho meses desde fin de tratamiento) sin enfermedad extracraneal se consideró al paciente candidato a resección quirúrgica de metástasis cerebral.
+
+Tratamiento
+El día 8/4/2011 se realizó craneotomía y exéresis de la tumoración parietal derecha, sin complicaciones. La anatomía patológica confirmó metástasis de adenocarcinoma compatible con diseminación del primario rectal conocido.
+El paciente fue valorado posteriormente por Oncología Radioterápica y se consideró candidato a Radioterapia holocraneal con 30 Gy y sobreimpresión en el lecho tumoral con 16 Gy, que finalizó el 10/6/2011.
+
+Evolución
+En julio de 2011, un mes tras el fin de la radioterapia, el paciente consultó en Urgencias por paresia braquio-crural izquierda, con signos por TC y RM de recaída local. A nivel extracraneal no presentaba signos de enfermedad, por lo que se decidió reintervención que se realizó el 29/7/2011.
+
+En mayo de 2012, el paciente consultó por parestesias en la extremidad superior izquierda, siendo diagnosticado nuevamente de recidiva en el lecho tumoral. Ante la ausencia de recaída en otras localizaciones, se realizó nueva craneotomía y metastasectomía. Sobre esta última biopsia se procedió al estudio de KRAS, detectándose una mutación (Gly12Val) en exón 2 de K-RAS.
+
+En octubre de 2013, en la RM de control se observaron signos de nueva recaída a nivel dural que, al mantenerse el paciente sin enfermedad extracraneal, se resecó el 15/11/2013.
+
+Desde entonces, el paciente se ha mantenido sin nuevos síntomas ni signos de recidiva local ni a distancia de su enfermedad, con TA craneal en marzo de 2015 y TC toracoabdominal en abril de 2015 sin evidencia de enfermedad.

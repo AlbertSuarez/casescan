@@ -1,0 +1,31 @@
+Anamnesis
+Mujer de 68 años, con antecedentes de hipotiroidismo primario en tratamiento sustitutivo, sin otros antecedentes medicoquirúrgicos de interés y sin hábitos tóxicos, es valorada en abril de 2015 en Consultas Externas de Oftalmología por presentar alteraciones visuales consistentes en moscas volantes en ojo derecho (OD) y disminución de agudeza visual de un año de evolución hasta pérdida completa de la misma en las últimas dos semanas. Refiere tumoración heterogénea superficial en axila izquierda de un año de evolución, en ocasiones tumefacta y enrojecida, con dolor a la palpación.
+Se realiza un fondo de ojo, que muestra una tumoración de gran tamaño en retina inferior de OD, pigmentada, sospechosa de melanoma coroideo.
+La paciente ingresa en Medicina Interna para realizar estudio de extensión.
+
+Exploración física
+IK 90. Destaca la palpación de adenopatías de 2 cm cm en axila izquierda, dolorosas. No se palpan adenopatías periféricas a otros niveles. La exploración mamaria, cardiopulmonar, abdominal y neurológica es anodina.
+Pruebas complementarias
+» RMN órbitas y cerebral: En el suelo del globo ocular, en posición intraocular, se pone de manifiesto la presencia de una tumoración redondeada, bien definida, de 13 mm de diámetro mayor. Se trata de una lesión con amplia base de implantación, que muestra una señal hipointensa homogénea en T2 y capta contraste. Dicha lesión es altamente sospechosa de melanoma coroideo. A nivel de la tienda del cerebelo en el lado izquierdo, se identifica un engrosamiento leptomeíngeo hipointenso en las secuencias ponderadas T2 y FLAIR que muestra captación intensa de contraste, correspondiendo a un pequeño meningioma.
+» TAC TAP: masa sólida localizada en el segmento apical del LSD que presenta un eje máximo oblicuo en el plano axial de hasta 35 mm, sospechosa de metástasis/tumoración primaria pulmonar.
+Adenopatías de hasta 22 mm en axila izquierda, patológicas.
+» Fibrobroncoscopia: en el bronquio del apical derecho se observa una lesión de aspecto necrótico que obstruye dicho bronquio.
+» Espirometría: dentro de la normalidad.
+» Análisis: dentro de la normalidad, incluidos marcadores tumorales y estudio inmunológico.
+
+Diagnóstico
+Ante la presencia de masa pulmonar sólida en LSD objetivada en TAC, con captación patológica en PET-TC, se realiza fibrobroncoscopia y toma de biopsia de la lesión, con diagnóstico definitivo de adenocarcinoma de pulmón de tipo papilar cT2a (3.5 cm) N0 M0, estadio IB. Se realiza exéresis de la masa axilar izquierda con resultado de carcinoma de patrón papilar sólido con tejido mamario con focos de carcinoma ductal in situ de bajo grado, RE 100%, RP 50%, Ki67 15%, Cerb2 negativo, cTx Nx M0.
+
+Tratamiento
+En mayo de 2015 se realiza enucleación de OD con diagnóstico anatomopatológico (AP) compatible con Melanoma uveal, con afectación de cuerpo ciliar, pT4b, con márgenes de resección libres, EGFR y BRAF wild type.
+En julio de 2015 se realiza resección pulmonar (lobectomía superior derecha) con resultado AP definitivo compatible con adenocarcinoma de pulmón papilar, pT2aN0M0, estadio IB EGFR mutado, ALK negativo.
+En agosto de 2015 se realiza tumorectomía de mama izquierda y linfadenectomía axilar con resultado AP de Carcinoma ductal infiltrante grado III, con extenso componente in-situ, RE + (99%), RP + (60%), HER 2 negativo. Ki-67 9%. pT1b pN1a (por un ganglio intramamario afacto) M0, estadio IIA. Se identifica margen externo afecto (tanto en cara posterior como anterior), por lo que se propone ampliación de márgenes que la paciente rechaza.
+Inicia en octubre de 2015 tratamiento quimioterápico adyuvante según esquema TC (Docetaxel 75mg/m2 + Ciclofosfamida 600mg/m2) día 1 cada 21 días, durante un total de 4 ciclos.
+
+Evolución
+En TAC de reevaluación tras finalizar tratamiento adyuvante, se identifica la presencia de implante peritoneal en mesogastrio/flanco derecho, no presente en TC previo, con captación patológica (SUV max 2.6) en PET-TC. Se realiza PAAF del nódulo con resultado no representativo.
+
+En marzo de 2016 inicia tratamiento adyuvante con RT externa sobre adyuvante sobre lecho tumoral y glándula mamaria y hormonoterapia con Letrozol.
+Fue valorada en la Unidad de Consejo Genético en Cáncer. Tras evaluar su caso y estudiar la historia familiar y personal de la paciente, se determinó que no existían criterios para continuar con el estudio genético
+En PET-TC de control en abril de 2016 se objetiva la persistencia del nódulo peritoneal de 7x8 mm y engrosamiento pleural posterior derecho con SUV 4.13.
+Se plantea a la paciente la realización de rebiopsia del nódulo mesentérico y biopsia pleural, pendiente de resultados definitivos en el momento actual.

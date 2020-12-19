@@ -1,0 +1,62 @@
+Anamnesis
+» Varón de 50 años. Peso 75 kg, talla 172 cm.
+» Sin alergias medicamentosas conocidas.
+» Sin antecedentes familiares de interés.
+» Antecedentes personales: hipertensión arterial.
+» Hábitos tóxicos: bebedor ocasional, no fumador.
+» Tratamiento habitual: ramipril 10 mg/24 h.
+» Trabaja en la hostelería. Buen apoyo familiar. Independiente para las actividades básicas de la vida diaria.
+Paciente con los antecedentes descritos que consulta a su médico de Atención Primaria por notar un aumento del tamaño del testículo derecho de unos meses de evolución. No presenta dolor ni molestias miccionales. No tiene fiebre ni síntomas bacteriémicos. Ausencia de relaciones sexuales de riesgo.
+Se deriva a la consulta de Urología para estudio de una posible masa testicular.
+
+Exploración física
+» Constantes vitales mantenidas. Afebril.
+» Consciente, orientado y colaborador. Eupneico en reposo. Normohidratado y normoperfundido. Buen estado general.
+» Neurológico: no hay signos groseros de focalidad.
+» Auscultación cardiaca: tonos rítmicos, sin soplos audibles.
+» Auscultación respiratoria: murmullo vesicular conservado, sin ruidos sobreañadidos.
+» Abdomen: blando, depresible, no doloroso a la palpación. No hay masas ni organomegalias. Sin signos de peritonismo.
+» Testículos: aumento de tamaño de testículo derecho de forma global y de consistencia dura, no doloroso a la palpación. Sin líquido libre aparentemente. Escroto sin alteraciones.
+» Miembros inferiores: sin edemas ni signos de trombosis venosa profunda.
+» Exploración cadenas ganglionares: no se palpan adenopatías cervicales, axilares ni inguinales.
+
+Pruebas complementarias
+Tras la exploración física en Urología se realiza analítica con marcadores tumorales y ecografía testicular:
+» Analítica: bioquímica, hemograma y coagulación sin alteraciones.
+» Marcadores tumorales: gonadotrofina coriónica humana (BHCG) 26,9 (elevada, valor normal < 0,6), alfa-fetoproteína (AFP) normal.
+» Ecografía testicular: desestructuración del contenido de la bolsa escrotal derecha, donde se identifica una tumoración sólida hipervascularizada de 70 x 60 mm de máximas dimensiones, de estructura heterogénea y alguna calcificación grosera en su interior. No es posible distinguir epidídimo ni testículo normales. Hallazgos compatibles con neoplasia agresiva testicular avanzada, de tipo primario o linfoma (dada la edad del paciente).
+Tras los hallazgos clínicos, ecográficos y analíticos, que orientan más probablemente hacia una neoplasia primaria testicular, se programa para cirugía y se completa el estudio de extensión:
+» TC de tórax: se identifican tres lesiones nodulares sólidas de límites bien definidos y centro hipodenso, localizadas en los espacios prevascular (34 mm), paratraqueal derecho y retrocrural derecho (ambas de 30 mm). El resto sin alteraciones.
+» TC abdominopélvica: conglomerado adenopático masivo retroperitoneal situado bajo la salida de los vasos renales, con adenopatías de hasta 6 x 5 cm de máximas dimensiones. Compatible con metástasis ganglionares de neoplasia testicular o linfoma primario.
+» PET-TC: se aprecian focos hipermetabólicos que se correlacionan con los hallazgos descritos por la TC, localizados en mediastino y retroperitoneo, sugerentes de actividad metastásica.
+» Anatomía Patológica de la pieza quirúrgica: seminoma clásico con extensas áreas de necrosis. Infiltra la túnica albugínea. Imágenes de invasión vascular y afectación del cordón espermático. Borde quirúrgico de resección libre de tumor.
+
+Diagnóstico
+La Anatomía Patológica confirma la sospecha de neoplasia testicular primaria tipo seminoma, apoyada además por la elevación del marcador BHCG.
+Juicio clínico: seminoma estadio IV.
+
+Tratamiento
+Se inicia primera línea de quimioterapia para tumores germinales con el esquema BEP, con 4 ciclos de tratamiento (cada 21 días).
+BEP
+»P: cisplatino 20 mg/m2 días 1-5.
+»E: etopósido 100 mg/m2 días 1-5.
+»B: bleomicina 30 mg DT días 1, 8 y 15.
+Tras el primer ciclo, se normaliza el marcador tumoral y, como efectos secundarios, presenta astenia y sabor metálico de los alimentos, manteniéndose dichos síntomas durante todo el tratamiento. Tras el tercer ciclo comienza con conjuntivitis y neurotoxicidad leve.
+
+Evolución
+Con el fin del tratamiento se realiza una PET/TC de control, en la que se aprecia que, tanto el conglomerado adenopático retroperitoneal, como las adenopatías mediastínicas tienen captación patológica, lo que sugiere actividad metastásica residual.
+Ante estos hallazgos, se presenta en el Comité de Tumores multidisciplinar y se decide iniciar una segunda línea de quimioterapia con el esquema TIP por 4 ciclos:
+» T: paclitaxel 250 mg/m2 día 1.
+» I: ifosfamida 1,2 g/m2 IC días 1-5.
+» P: cisplatino 20 mg/m2 días 1-5.
+Con esta línea aparecen de nuevo efectos secundarios, como son astenia y neurotoxicidad. Los marcadores tumorales siguen negativos.
+Se realiza tras finalizar el tratamiento otra PET/TC, en la que no sólo no han desaparecido las lesiones descritas en el anterior, sino que además ha aumentado la captación del conglomerado retroperitoneal y ha aparecido una nueva lesión en la articulación esternoclavicular derecha.
+Hasta hoy, lo que sabemos es que la presencia de masas residuales tras la quimioterapia es infrecuente en los seminomas, y más aún tras haber completado una segunda línea de tratamiento.
+Dada la evolución tórpida se decide biopsiar la lesión más accesible (hilio pulmonar izquierdo): las células tumorales son positivas para citoqueratina 5,6 y CD 63, compatibles con carcinoma epidermoide de pulmón.
+Con el diagnóstico del tumor sincrónico pulmonar ya sí entendemos por qué las supuestas metástasis del seminoma no respondían al tratamiento.
+Nuevo juicio clínico: seminoma en respuesta completa. Carcinoma epidermoide de pulmón E-IV.
+A continuación, se inicia quimioterapia con carboplatino-gemcitabina (por 6 ciclos) para tratar el Ca. epidermoide junto con radioterapia en mediastino a dosis de 50 Gy. Regular tolerancia al mismo, con neutropenia grado IV (por debajo de 500 neutrófilos) tras el segundo ciclo y teniendo que retrasar los ciclos posteriores, además de emplear factores estimuladores de granulocitos.
+» Primer control por PET/TC tras el tratamiento: respuesta parcial, con desaparición de algunas de las lesiones mediastínicas.
+» Segundo control (6 meses después): aumento de la masa hiliar izquierda que provoca atelectasia del bronquio inferior izquierdo --> progresión tumoral.
+Tras evidenciarse progresión del tumor pulmonar se inicia tratamiento con nivolumab (anticuerpo monoclonal anti-PDL-1 aprobado en el tratamiento del Ca. pulmón). Tras seis meses de tratamiento han disminuido algunas de las lesiones presentes en el estudio previo, aunque no hay una respuesta completa al mismo --> estabilización de la enfermedad. Como síntomas con el tratamiento de inmunoterapia presenta astenia, principalmente en los dos primeros meses. Continúa con las secuelas de neurotoxicidad de los tratamientos anteriores y, tras un año, aparece clínica de insuficiencia respiratoria, posiblemente en relación con la afectación tumoral a nivel pulmonar.
+En la actualidad, la enfermedad pulmonar continúa estable, en el mismo punto que tras el primer control de nivolumab. Se encuentra en descanso de tratamiento por astenia. El seminoma sigue en respuesta completa.

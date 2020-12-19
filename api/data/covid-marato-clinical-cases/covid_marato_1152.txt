@@ -1,0 +1,23 @@
+Anamnesis
+Varón de 68 años, sin alergias medicamentosas conocidas. Exfumador con un factor de exposición acumulado de 34 paquetes-año. Entre sus antecedentes médicos destacan hipertensión arterial esencial, dislipemia, una cardiopatía isquémica (diagnosticada en el año 2001, portador de 2 stents, y con una fracción de eyección del ventrículo izquierdo del 59 %) y una enfermedad pulmonar obstructiva crónica (EPOC) (GOLD III, con una media de dos reagudizaciones al año). Sin antecedentes familiares oncológicos.
+En septiembre del 2016, fue diagnosticado de un adenocarcinoma (ADC) de colon izquierdo a raíz de un episodio de rectorragias, realizándose una hemicolectomía izquierda urgente. El estudio de Anatomía Patológica mostró un ADC con infiltración de la capa serosa (pT4a) y presencia de un depósito tumoral mesentérico (pN1c). Se completó el estudio con una tomografía computarizada toracoabdominopélvica (TC-TAP) que mostró nódulos pulmonares bilaterales, compatibles con metástasis.
+El diagnóstico final es ADC de colon izquierdo estadio IV (pT4a pN1c M1). El estudio molecular evidenció ausencia de mutación de KRAS (en exones 2, 3 y 4) y NRAS (en exón 4), presencia de mutación V600E en el exón 15 de BRAF y expresión conservada de los genes reparadores del ADN (expresión nucleolar por inmunohistoquímica de MLH1, MSH2, MSH6 y PMS2).
+Dados los antecedentes del paciente y el perfil molecular tumoral, se decide iniciar primera línea de tratamiento con irinotecan a 150 mg/m2 cada 2 semanas. El paciente presentó buena tolerancia al tratamiento, consiguiendo estabilidad radiológica de las lesiones metastásicas según criterios RECIST.
+En agosto de 2017, tras 16 ciclos de tratamiento, el paciente acude a consulta por dolor mandibular y es derivado a Cirugía Oral y Maxilofacial para su estudio.
+
+Exploración física
+Durante la exploración física, se apreció una lesión exofítica y friable en la cara vestibular de la encía cercana al segundo molar inferior izquierdo (pieza 37). No se palparon adenopatías laterocervicales durante la exploración cervical. El resto de la exploración no tuvo alteraciones.
+Ante la sospecha de un tumor primario de cavidad oral, se realiza una biopsia de la lesión y se solicita una resonancia magnética (RM) de cabeza y cuello.
+
+Pruebas complementarias
+La RM evidencia una lesión exofítica en trígono retromolar izquierdo con infiltración del hueso mandibular focal junto a dos adenopatías metastásicas en cadenas ganglionares Ib y IIa ipsilaterales. El resultado de la biopsia muestra un adenocarcinoma (con CK7 y CK20 negativo) compatible con origen gastrointestinal (CDX2 positivo focal).
+Se realiza un estudio mediante NGS del tumor primario y de la lesión metastásica que mostró las mismas alteraciones moleculares: mutaciones en BRAF (p.V600E), RNF43 (p.E187X) y TP53 (p.R282W).
+
+Diagnóstico
+Metástasis en trígono retromolar de un adenocarcinoma de colon izquierdo con mutación en BRAF V600E.
+
+Tratamiento
+Inicia tratamiento antiálgico con radioterapia a nivel del trígono retromolar (dosis total 30 Gy en 10 fracciones). Como toxicidades, el paciente presentó una mucositis grado 2. De forma paralela, el paciente es valorado por el Servicio de Cardiooncología, quienes determinan que el paciente tiene una función cardiaca óptima para recibir fluoropirimidinas.
+
+Evolución
+Previamente a iniciar un tratamiento de segunda línea, el paciente ingresa en planta de Oncología por reagudización de su EPOC. La evolución fue desfavorable, desarrollando insuficiencia respiratoria aguda con altos requerimientos de oxigenoterapia. Finalmente el paciente fallece el 30 de enero de 2018.

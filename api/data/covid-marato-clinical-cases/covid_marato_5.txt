@@ -1,0 +1,18 @@
+Anamnesis
+Mujer sin antecedentes patológicos de interés, cuya historia oncológica comienza a la edad de 23 años a raíz de una autopalpación de nódulo en su mama izquierda. En ese momento, es diagnosticada de un carcinoma ductal infiltrante de mama, estadio cT3N1 con perfil de inmunohistoquímica luminal B HER-2 positivo. Realizó terapia neoadyuvante bajo el régimen basado en 4 ciclos de adriamicina y ciclofosfamida, seguido de 12 ciclos de carboplatino con paclitaxel con adecuada tolerancia. Se le realizó una mastectomía radical modificada con reconstrucción inmediata, siendo el estadiaje posquirúrgico pT1N1 con 3 ganglios axilares afectos de 30 removidos. La paciente completó radioterapia adyuvante, así como 14 ciclos de trastuzumab. Posteriormente, completó 5 años de tratamiento hormonal adyuvante con tamoxifeno más triptorelina. Como antecedentes familiares, destacaba abuela materna con neoplasia de mama. En ese momento, se determinó estatus de BRCA1/2 que resultaron negativos.
+
+Exploración física
+En uno de los controles, a la edad de 31 años y después de 5 años de la finalización de la terapia hormonal, la paciente presentó su primera recidiva metastásica asintomática a raíz de un aumento de marcadores tumorales.
+
+Pruebas complementarias
+Se solicita PET-TC que evidencia recidiva a nivel de hilio pulmonar derecho, adenopática supradiafragmática y ósea confirmadas histológicamente. Paralelamente, en las imágenes PET/TC, se evidencia una imagen intraabdominal sólida y heterogénea, por lo que se decide biopsiar también.
+
+Diagnóstico
+La histología fue compatible con tumor de estirpe mesenquimal conocido como PEComa (de sus siglas en inglés perivascular epithelioid cell neoplasms). Dado que se trata de una mujer joven con un diagnóstico de neoplasia de mama y un reciente diagnóstico de un PEComa, la paciente fue derivada a la Unidad de Consejo Genético para descartar el síndrome de Li-Fraumeni. Se le realizaron pruebas genéticas a la paciente y a sus familiares de primer grado: la paciente, su abuela paterna y el hijo de la paciente son portadores de la mutación pR213Q en el gen TP53, confirmándose de esta manera el Síndrome de Li-Fraumeni.
+
+Tratamiento
+La paciente inicia primera línea metastásica para la neoplasia de mama con docetaxel más doble bloqueo anti-HER-2 con trastuzumab y pertuzumab, alcanzando a los 3 meses respuesta completa. Se decide intervenir el PEComa, siendo una cirugía óptima además de la realización de ooforectomía.
+Posteriormente, la paciente siguió tratamiento con doble bloqueo anti-HER-2 y letrozol con muy buena tolerancia.
+
+Evolución
+Desafortunadamente, la paciente, luego de 2 años de la intervención del PEComa, presenta recidiva a nivel hepático confirmada histológicamente. Dado que la paciente mantenía respuesta completa de su neoplasia de mama, y luego de presentar el caso en Comité multidisciplinar, se decide intervención de las lesiones hepáticas. En su última valoración, la paciente persiste en respuesta completa de su neoplasia de mama y sin evidencia de recidiva del PEComa.

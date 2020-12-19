@@ -1,0 +1,20 @@
+Anamnesis
+Paciente varón de 66 años de edad que acudió a consulta en agosto 2016 por bultoma en región retroauricular izquierda, no acompañado de otra sintomatología.
+Como antecedentes personales, el paciente era alérgico a la penicilina con aparición de rash cutáneo, exfumador con un IPA 10 y bebedor diario de vino; estaba diagnosticado de hipertensión arterial, diabetes mellitus tipo 2 y enfermedad renal crónica estadio III. Fue intervenido a los 30 años mediante parotidectomía total de un adenoma pleomorfo en parótida izquierda.
+
+Exploración física
+Durante la exploración física, el paciente presentaba un ECGO 1, parálisis facial izquierda, lagoftalmía izquierda residual por la cirugía. No se palpan ganglios en cadenas laterocervicales, retroauriculares, ni supraclaviculares. Auscultación cardiopulmonar dentro de la normalidad.
+
+Pruebas complementarias
+Ante la aparición del bultoma en región retroauricular izquierda, se comienza el estudio por parte de ORL, quienes realizan una ecografía de la zona donde se evidencia una masa hipoecoica heterogénea posterior a la glándula parótida izquierda de unos 2,9 x 3,2 cm, que es puncionada mediante PAAF; en los estudios histológicos, la punción informó de afectación de carcinoma, tanto en la lesión posterior a la parótida interna con en la lesión intraparotídea izquierda. Ante la sospecha de recidiva, se solicita una TC con contraste.
+En dicho estudio se objetivó una masa heterogénea con extensión cutánea de 3 x 2,8 x 3,6 cm con nódulos satélites adyacentes en región parotídea izquierda, sobre el lecho quirúrgica y adenomegalias ipsilaterales, la mayor de 14 x 15 mm.
+
+Diagnóstico
+Carcinoma ex adenoma pleomorfo T4bN2bM0, HER2 +.
+
+Tratamiento
+Tras comentar el caso en comité, se decide realizar rescate quirúrgico que se lleva a cabo en diciembre de 2016, realizando parotidectomía y vaciamiento ganglionar cervical izquierdo. En marzo de 2017, se decide administrar quimiorradioterapia adyuvante. Tras recibir 2 ciclos de cisplatino, se suspende por alteración de la función renal y se mantiene radioterapia sobre lecho quirúrgico y cadenas ganglionares alcanzando una dosis de 59,4 Gy y finaliza el tratamiento en abril 2017.
+En estudio radiológico de control mediante TC en septiembre de 2018 se evidencian nódulos pulmonares bilaterales sugestivos de metástasis.
+
+Evolución
+El paciente fue derivado a consultas externas de Oncología Médica tras los hallazgos de progresión pulmonar en la TC de septiembre de 2018. Ante esta nueva situación clínica, se decidió iniciar tratamiento con TAXOL 1, 8, 15 más trastuzumab cada 3 semanas. Se administraron 3 ciclos de quimioterapia con respuesta parcial, pero tras 6 ciclos se evidenció una respuesta completa de los nódulos pulmonares.

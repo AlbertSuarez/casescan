@@ -1,0 +1,19 @@
+Anamnesis
+Mujer de 40 años que consulta por la aparición de una adenopatía supraclavicular izquierda en agosto de 2014. Entre sus antecedentes destaca episodio de parada cardiorrespiratoria 1 año antes por obstrucción de tronco coronario que requirió intervención quirúrgica cardiovascular urgente.
+Exfumadora desde dicho episodio. Trabaja como administrativa. Antecedentes familiares por línea paterna de muerte súbita a edad menor de 50 años. No tiene antecedentes familiares oncológicos. En tratamiento crónico con ácido acetilsalicílico, omeprazol y atorvastatina.
+
+Exploración física
+Durante la exploración la paciente presenta un Eastern Cooperative Oncology Group (ECOG) de 0, mide 150 cm y pesa 54 kg. No presenta otras adenopatías cervicales y el resto de la exploración física es normal.
+
+Pruebas complementarias
+A nivel analítico, destaca elevación de los marcadores tumorales Ca 19,9 de 1063 UI/ml (rango normal de 0 a 34) y CEA de 252,7 ng/ml (rango normal de 0 a 5), encontrándose el resto de parámetros analíticos dentro de rangos normales. Se realiza biopsia excisional de la adenopatía supraclavicular, siendo el diagnóstico histopatológico, adenocarcinoma TTF1 positivo.
+Se realiza estudio de extensión mediante tomografía cervical, torácica, abdominal y pélvica, visualizándose múltiples adenopatías cervicales y supraclaviculares bilaterales, una masa mediastínica anterior de 7,7 x 4,8 cm que engloba grandes vasos y se extiende al ápice pulmonar izquierdo, donde se aprecia una opacidad de bordes espiculados de 3,2 x 2,4 cm; asimismo, se observan dos lesiones focales en los segmentos II y VI hepáticos. Se cursa estudio de EGFR y ALK con resultado negativo para mutaciones.
+
+Diagnóstico
+Adenocarcinoma de pulmón estadio IV con EGFR y ALK negativos.
+
+Tratamiento
+Se inicia primera línea de quimioterapia con carboplatino y gemcitabina. Tras 3 ciclos, presenta progresión de la enfermedad según criterios Response Evaluation Criteria In Solid Tumors (RECIST) versión 1.1, por lo que se inicia segunda línea de quimioterapia con pemetrexed, alcanzando como mejor respuesta enfermedad estable y con toxicidad no hematológica en forma de astenia grado 2 y retención hídrica grado 2. En abril de 2015, tras 9 ciclos de pemetrexed, presenta dolor a nivel supraclavicular izquierdo, y recibe radioterapia antiálgica. Ante progresión de la enfermedad, inicia tercera línea con nivolumab dentro del acceso expandido en mayo de 2015.
+
+Evolución
+A los 3 meses de inicio del tratamiento, la paciente presenta criterios de respuesta parcial, con disminución de la lesión en el lóbulo superior izquierdo hasta un diámetro menor a 1 cm, disminución de las adenopatías cervicales y supraclaviculares, reducción del tamaño de la masa mediastínica en un 50% y de las lesiones hepáticas de un 80 %. En la actualidad, tras 25 meses de tratamiento con nivolumab, mantiene la respuesta alcanzada, con un ECOG 0, habiéndose reincorporado a la vida laboral. Como toxicidad en relación al tratamiento, con nivolumab ha presentado hipotiroidismo grado 2 asintomático en tratamiento sustitutivo y xerosis cutánea y de mucosas grado 1.

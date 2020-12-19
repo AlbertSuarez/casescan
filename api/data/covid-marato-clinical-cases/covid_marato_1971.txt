@@ -1,0 +1,34 @@
+Anamnesis
+Mujer de 17 años estudiante de la escuela secundaria obligatoria con los siguientes antecedentes:
+» Sin alergias a medicamentos.
+» Ningún factor de riesgo cardiovascular.
+» Sin patologías previas ni tampoco cirugías.
+» Toda vacunación de la infancia completa y correctamente aplicada.
+Comienza cuadro con déficit de la fuerza de miembro inferior derecho (MID) que le provocaba la claudicación leve de dicha extremidad; dicho síntoma fue culpado a que 4 días atrás al estar nadando sufre un traumatismo en rodilla de dicha extremidad, siendo vista por Urgencias de Traumatología, diagnosticando contusión sin signos de mayor gravedad. Conforme pasaron las horas, el padecimiento fue empeorando al grado de necesitar el uso de muletas para el desplazamiento y, en ocasiones, la ayuda completa de familiares para desplazamiento.
+Finalmente, decide acudir a Urgencias ya que comienza con parestesias en miembro inferior izquierdo (MII) y sensación de acorchamiento y, durante estancia en el área de Urgencias, sufre episodio de incontinencia urinaria e interrogando llevaba 4 días de estreñimiento, siendo ella de hábito defecatorio de al menos una vez por día.
+
+Exploración física
+» Funciones corticales y pares craneales preservados salvo la hipoestesia de V1, V2, V3 Izquierdos.
+» Motor: miembros superiores sin alteración alguna. MID fuerza 0/5 pero retira al realizar reflejo cutáneo plantar. MII: flexión de cadera 3/5, abducción de cadera 4+/5, aducción de cadera 4+/5, flexoextensión de rodilla 5/5, flexión dorsal/plantar 4/5.
+» Sensibilidad: vibratoria conservada, tactoalgésica con nivel sensitivo medular a nivel de D4 izquierda y que se mantiene hasta D12 aproximadamente. Hipoestesia parchada en todo MII.
+» Reflejos osteotendinosos ++/++++ generalizados.
+» Exploración cerebelosa normal.
+
+Pruebas complementarias
+» Analíticas en sangre: hemograma normal. Vitamina B12 de 162,5 pg/ml (límite inferior 160 pg/ml), ácido fólico 2,5 ng/ml (límite inferior 2,6 ng/ml). Marcadores reumatológicos normales, marcadores tumorales con elevación de enolasa neuronal especifica 31,6 ng/ml, resto negativos. Serologías, QuantiFERON® y Mantoux negativos. Anti-NMO negativo.
+» Analítica en LCR: citobioquímica: glucosa de 48 mg/dl, proteínas totales: 47 mg/dl, lactato 18 mg/dl, LDH 155 mU/ml, hematíes 243 /mm3, leucocitos 3 /mm3, aspecto incoloro. Zhiel-Nilsen en LCR negativo, ADA: negativo. Cultivo y serologías negativas.
+» Resonancia magnética (RM) del ingreso: engrosamiento e hiperseñal T2 difusa del cordón medular desde C3-C4 hasta D6-D7, identificando una lesión nodular intramedular a nivel de D3 que afecta principalmente la hemimédula derecha y asocia ensanchamiento del cordón medular. Mide aproximadamente 8 x 8 x 20 mm. Con realce en anillo grueso tras administración de contraste. Se plantea como primera posibilidad origen infeccioso-inflamatorio, por la frecuencia y dejando patología tumor al como una causa menos probable.
+» Tomografía toracoabdominopélvica: sin hallazgos significativos.
+» RM de control tras megadosis de corticoides: persiste la lesión intramedular de morfología fusiforme a nivel de D3 que afecta principalmente la hemimédula derecha con ensanchamiento del cordón medular con menor grosor de realce en anillo y mayor componente de necrosis de tamaño similar al previo.
+
+Diagnóstico
+Glioma difuso de la línea media con mutación H3-K27M del gen H3F3A (grado IV de la OMS 2016).
+
+Tratamiento
+Se realiza laminoplastia a nivel D1-D4, mostrando aracnoides engrosada diseccionando hasta exposición de LOE intramedular de carácter sólido sin pus ni material caseoso asociado. Se evidencian vasos trombos a dos, y se realiza resección macroscópica subóptima con aspirador ultrasónico.
+
+Evolución
+Debido a los hallazgos sugestivos de origen infeccioso en RM de columna dorso lumbar, se realiza punción lumbar con resultados anodinos y sin evidencia de infección tuberculosa en la tinción de Zhiel-Nilsen. Tras haber descartado causas infecciosas, se decide iniciar tratamiento con metilprednisolona 1 g cada 24 horas por 5 días. Tras dicho tratamiento se realiza nueva RM de control donde se observa una disminución del edema perilesional, así como de la propia lesión además que dicha disminución de inflamación se acompañó de mejoría clínica, consiguiéndose el control de esfínteres y el descenso del nivel sensitivo con hipoestesia localizadas únicamente en MII distal a la rodilla, aunque persistiendo plejía de MID.
+Tras comentar caso con Neurocirugía, éstos concluyen que el riesgo de secuelas al realizar biopsia de la lesión es alto y, siendo ahora la patología inflamatoria/inmunomediada la primera posibilidad junto a la mejoría con megadosis de corticoides, se decide iniciar tratamiento con inmunoglobulinas (IG) y plasmaféresis concomitante con 6 sesiones en total, siendo las ultimas 3 en concomitancia con IG con escasa mejoría. Tras finalizar sesiones, se realiza RM de control con pocas diferencias respecto a la previa.
+Finalmente, y tras evaluación multidisciplinaria del riesgo-beneficio, se decide el abordaje diagnostico quirúrgico de la lesión que, tras la evaluación de muestras por Anatomía Patológica, fueron diagnósticas de un glioma difuso de línea media K27M.
+Finalmente, tras la cirugía, la paciente fue valorada por el Servicio de Oncología médica; sin embargo, debido al ECOG 3 de la paciente al momento de la valoración, no fue posible al tratamiento adyuvante.

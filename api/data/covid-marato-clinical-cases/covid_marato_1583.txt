@@ -1,0 +1,29 @@
+Anamnesis
+Paciente varón de 59 años, fumador activo de 1 paquete de tabaco desde los 15 años (dosis total acumulada de 40paquetes-año), obesidad grado 2 y enfermedad pulmonar obstructiva crónica (EPOC) Gold 2 con controles erráticos.
+Padre diagnosticado a los 72 de un carcinoma escamoso de pilar amigdalino izquierdo. Soltero, vive con su madre y actualmente está desempleado.
+
+Exploración física
+Consulta en Urgencias de nuestro centro en octubre de 2017, cuando sufre una caída aparentemente accidental, con traumatismo craneoencefálico y posterior aparición de disartria e hipoestesia en hemicara izquierda (lengua, labio y mejilla).
+A su llegada, hemodinamia correcta y afebril. Exploración física neurológica sin alteraciones en los pares craneales, persiste disartria leve. Romberg negativo. Desde el punto de vista respiratorio, no presentaba ningún signo o síntoma a destacar. No se palpaban adenopatías supraclaviculares ni laterocervicales.
+
+Pruebas complementarias
+En Urgencias se realiza una tomografía computarizada (TC) cerebral que objetiva múltiples lesiones supra e infratentoriales con captación periférica de contraste, sugestivas de metástasis.
+Ingresa en Medicina Interna donde se realiza una TC toracoabdominal que muestra una masa de 6 x 3 cm en lóbulo inferior derecho, y una broncoscopia, con una lesión roja brillante a nivel de la pirámide basal derecha. La Anatomía Patológica de ésta es compatible con un tumor neuroendocrino tipo carcinoide, con positividad para CD56, cromogranina y sinaptofisina, siendo el índice de proliferación estimado por Ki-67 del 1 % aproximadamente.
+En cuanto a marcadores tumorales, destaca cromogranina A 174 ug/l (0-100) y enolasa 15,3 mcg/l (0-16). PET-TC que muestra afectación adenopática mediastínica bilateral, sin otras lesiones a distancia.
+Al alta, se deriva a consultas externas de Oncología Médica. Orientado inicialmente como un tumor neuroendocrino estadio IV, al médico oncólogo que atiende el paciente le llama la atención el excelente estado general que presenta el paciente, la Anatomía Patológica apuntaba a un tumor carcinoide típico (Ki67 1 % y ausencia de necrosis) pero, sin embargo, con un patrón de diseminación inusual en dicho subtipo histológico.
+Por ello, se repite la broncoscopia en la que se realiza una criobiopsia a nivel de la masa endobronquial, sugestiva esta vez de carcinoide atípico (Ki67 5 %, mitosis y necrosis de la mayor parte del tejido). Sin embargo, la punción con aguja fina (PAAF) de la adenopatía paratraqueal izquierda resulta positiva para carcinoma de célula no pequeña, con presencia de grupos de células grandes y nucléolo prominente.
+Se decide realizar una mediastinoscopia que finalmente da un resultado más ajustado al patrón de diseminación que presenta el paciente: adenocarcinoma de pulmón. EGFR no mutado, ALK no traslocado con un PD-L1 del 1 %.
+También se realiza un Octreoscan que objetiva una lesión pulmón derecha que expresa receptores de somatostatina, descartando otras lesiones a distancia.
+
+Diagnóstico
+Finalmente se orienta el caso como un paciente joven, de 60 años, con dos neoplasias sincrónicas de pulmón. En primer lugar, un adenocarcinoma mal diferenciado de lóbulo inferior derecho estadio IV por diseminación mediastínica y cerebral múltiple, EGFR no mutado, ALK no translocado y PD-L1 con baja expresión. Y, en segundo, un tumor carcinoide atípico localizado.
+
+Tratamiento
+Durante el ingreso en Medicina Interna inicia radioterapia holocraneal. En total, se administran 30 Grays (Gy), repartidos en 10 sesiones a 3 Gy por sesión. Finaliza el tratamiento el día 15/11/2017, sin incidencias.
+Dado que el pronóstico viene marcado por el adenocarcinoma mal diferenciado, se decide iniciar el día 16/1/2018 una primera línea de quimioterapia estándar con cisplatino 75 mg/m2 junto a pemetrexed 500 mg/m2 cada 3 semanas.
+Se decide no asociar análogos de la somatostatina para no sumar toxicidades al esquema anterior.
+
+Evolución
+Realiza el tercer ciclo de cisplatino-pemetrexed el día 26/2/2018. Como toxicidades, presentó, tras 3 ciclos, astenia grado dos y diarrea grado 1.
+Sin embargo, a finales de marzo ingresó en Oncología Médica por reagudización de su EPOC. Durante el ingreso se realiza una TC que muestra estabilidad de la lesión pulmonar, pero aparición de una lesión hepática sugestiva de metástasis.
+El paciente evoluciona favorablemente desde el punto de vista respiratorio. Actualmente, está pendiente de valoración de nuevas opciones de tratamiento en consultas externas.

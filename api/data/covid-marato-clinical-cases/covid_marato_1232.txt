@@ -1,0 +1,21 @@
+Anamnesis
+Paciente varón de 44 años, estudiado en septiembre de 2012 por cuadro de síndrome general de 2 meses de evolución, además de disnea y dolor pleurítico. Antecedentes patológicos: artritis gotosa. Cirugías previas: hernia inguinal.
+Exfumador de 40 cig./día.
+
+Examen físico
+Paciente lúcido, orientado, hidratado, bien perfundido. Ap. CV: ruidos cardíacos rítmicos, no soplos. Ap. respiratorio: murmullo vesicular conservado en ambos campos pulmonares. Dolor a la palpación a nivel costal derecho. Abdomen: blando, depresible, no doloroso a la palpación. Exploración neurológica: pares craneales normales, fuerza y sensibilidad conservadas. Lenguaje y equilibrio conservados.
+
+Pruebas complementarias
+Función tiroidea normal, cortisol normal.
+TC de reevaluación en enero de 2013: disminución de lesiones a nivel adenopático mediastínico y ligera disminución de lesiones hepáticas.
+TC de reevaluación en abril de 2013: estabilización de la enfermedad a nivel adenopático y progresión a nivel hepático.
+
+Diagnóstico
+El paciente ingresa para estudio en Medicina Interna. En la radiografía de tórax se aprecia ensanchamiento mediastínico y en la TC se observa conglomerado adenopático derecho, paratraqueal, subcarinal y paraesofágico y lesiones hepáticas sugerentes de metástasis, derrame pericárdico y derrame pleural izquierdo. En la fibrobroncoscopia se evidencia neoplasia endobronquial izquierda que produce compresión extrínseca y estenosis total del bronquio segmentario VI. El resultado de la PAAF fue carcinoma neuroendocrino (sinaptofisina +, cromogranina -), estadio diseminado. Se inició tratamiento de quimioterapia con esquema carboplatino-etopósido. Inicialmente, se detectó un Na sérico de 112 mmol/l, osmolaridad sérica de 216,4, Na orina 134 mmol/l, Osmolaridad orina 368.79 mOsmol/kg, catalogándose como SIADH.
+
+Tratamiento
+Tolvaptan 15 mg c/24 horas, luego 30 mg c/24 horas y, finalmente, 60 mg c/24 horas.
+
+Evolución
+El paciente ingresa en la planta de Oncología al encontrársele en revisión un Na de 113 mmol/l sin clínica neurológica.
+Persiste la hiponatremia pese al tratamiento de quimioterapia, restricción hídrica, uso de diuréticos y aporte de Na de forma parenteral, por lo que se decide iniciar en octubre del 2012 tratamiento con tolvaptán a dosis de 15 mg/día, obteniendo una rápida recuperación de Na sérico a 135 mmol/l. Posteriormente, en TC de reevaluación de abril de 2013 se evidencia progresión a nivel hepático, por lo que se inicia topotecán. En mayo de 2013 ingresa con Na 113, cefalea, vómitos y mareo, y se incrementa dosis de tolvaptan hasta 60 mg al día con resolución del cuadro clínico.

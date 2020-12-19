@@ -1,0 +1,23 @@
+Anamnesis
+Mujer de 49 años remitida en octubre de 2018 desde Atención Primaria a consultas externas de Cirugía General, por aparición de nódulo palpable en mama derecha, de un mes de evolución.
+En ese momento, la paciente no presentaba antecedentes medicoquirúrgicos de interés, ni refería hábitos tóxicos. Trabajaba como ama de casa y tenía buen apoyo familiar. Como antecedentes familiares, una tía paterna fue diagnosticada de carcinoma de mama a los 65 años.
+Como tratamiento crónico, se había pautado recientemente acetato de medroxiprogesterona por hiperplasia endometrial simple.
+
+Exploración física
+La paciente presentaba buen estado general, con un performance status (PS) 0. En la exploración física, se palpaba un nódulo sólido, de aproximadamente 4 cm en cuadrante superoexterno de mama derecha. La exploración axilar resultó dentro de la normalidad, así como el resto de la exploración física.
+
+Pruebas complementarias
+Se solicitó mamografía/ecografía, que mostraba un nódulo ovoide, de 4 x 4 cm, lobulado, con un pequeño componente líquido en su interior, clasificado como BIRADS 4B por su rápido crecimiento. Se realizó biopsia con aguja gruesa (BAG) guiada por ecografía, con resultado anatomopatológico de tumor fusocelular maligno, positivo para actina, músculo liso y desmina, compatible con leiomiosarcoma
+Por otro lado, se solicitó tomografía computarizada (TC) toracoabdominopélvica como estudio de extensión que mostró, como hallazgo incidental, la presencia de un adenoma suprarrenal confirmado con TC abdominal en vacío y estudio hormonal. Además, se objetivaron lesiones ocupantes de espacio (LOE) uterinas que, tras ser valoradas en Comité Multidisciplinar de Tumores Ginecológicos, se concluyó que las imágenes no eran sugestivas de malignidad, pero sí tenían indicación quirúrgica en un segundo tiempo, tras completar tratamiento del leiomiosarcoma de mama. No se encontró, por tanto, evidencia de enfermedad tumoral a otros niveles.
+
+Diagnóstico
+El diagnóstico definitivo fue de leiomiosarcoma de mama localizado (pT2 N0 M0).
+
+Tratamiento
+Con este diagnóstico, fue intervenida realizándose tumorectomía, con resultado anatomopatológico de leiomiosarcoma de alto grado, con resección completa y bordes libres. Se completó con biopsia selectiva de ganglio centinela (BSGC), que resultó negativa.
+Tras comentar el caso en Comité Multidisciplinar, dada la agresividad de la enfermedad con alto riesgo de recaída y el borde libre de resección insuficiente (0,5 mm), se decidió realizar en abril de 2019, ampliación quirúrgica mediante mastectomía.
+Además, se realizó una búsqueda de ensayos clínicos disponibles en nuestra comunidad, no siendo candidata, por lo que se decidió completar tratamiento adyuvante con quimioterapia con esquema de epirrubicina e ifosfamida por tres ciclos, seguido de tratamiento con radioterapia.
+
+Evolución
+Así, la paciente inició tratamiento sistémico con esquema de quimioterapia con epirrubicina e Ifosfamida cada 21 días con soporte de factor estimulante de colonias, del que recibió 3 ciclos, que ha completado recientemente, con buena tolerancia.
+La paciente sigue manteniendo buen estado general, estando actualmente pendiente de inicio de tratamiento radioterápico para completar el tratamiento local.

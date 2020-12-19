@@ -1,0 +1,29 @@
+Anamnesis
+Paciente masculino de 59 años. Antecedentes de ser exfumador (30 años). Tuberculosis pulmonar en la juventud.
+Ausencia de factores de riesgo cardiovascular y de enfermedad cardiológica. En analítica de rutina en el mes de junio de 2006 se detectó PSA 24,85 ng/ml, por lo que fue remitido al urólogo. En el interrogatorio refería tenesmo, dolor miccional discreto y escasa pérdida de peso no cuantificada. Se realizaron estudios complementarios y se diagnosticaron dos tumores sincrónicos con estudio de extensión negativo.
+
+Examen físico
+Exploración física normal excepto tumoración palpable en hipocondrio izquierdo que contactaba con la zona lumbar.
+Tacto rectal con próstata aumentada de tamaño y consistencia del lóbulo izquierdo.
+
+Pruebas complementarias
+TC 16/08/2006: masa en polo superior renal izquierdo de 10 cm, sugestiva de hipernefroma.
+
+Diagnóstico
+1. Carcinoma renal izquierdo de células claras convencional con zonas cromófobas G2pT2N0M0.
+2. Adenocarcinoma de próstata, Gleason 3 + 4 lóbulo prostático izquierdo pT3N0M0.
+
+Tratamiento
+Nefrectomía radical izquierda el 23/08/06 y prostatectomía radical el 3/5/2007.
+El estudio histológico de la nefrectomía demostró: carcinoma renal izquierdo de células claras convencional con zonas cromófobas, de 13 x 11 x 9 cm en el polo superior, limitado al parénquima renal, con infiltración capsular en foco único de 0,5 x 0,4 cm. No afectaba a cálices renales, vena renal hiliar ni uréter.
+El estudio histológico de la lesión prostática demostró la existencia de un adenocarcinoma de próstata Gleason 3 + 4 en el lóbulo prostático izquierdo con afectación de la cápsula prostática.
+
+Evolución
+Se remite a Oncología Médica en el mes de julio de 2008 por detectarse dos nódulos pulmonares subcentimétricos en LSD y LII, decidiéndose seguimiento.
+TC en junio de 2011: aumento del tamaño y número de los nódulos pulmonares. Lesión en el lóbulo hepático derecho de 9 mm. PET y biopsia pulmonar positivas para metástasis de carcinoma de células claras con factores de buen pronóstico.
+El 27/10/2011 se inicia primera línea con sunitinib a una dosis de 50 mg oral diario por 4 semanas cada 6 semanas.
+En revisión del mes de noviembre de 2011 se constata hipertensión y se inicia tratamiento con enalapril, con buen control posterior. No hay otro efecto adverso.
+TC 02/04/2012: trombosis mural de la aorta (cayado y descendente) y disección aórtica tipo B. Criterios de enfermedad estable.
+Se implanta prótesis Medtronic Captiva con buena evolución. Continúa tratamiento con sunitinib y tras 1 año presenta una respuesta parcial según RECIST.
+En diciembre de 2012 ingresa por ascitis, derrame pleural, edema de miembros inferiores y genital. Analítica: Cr 2,55 mg/dl, proteinuria 12,94 g/24, albúmina 1,8 g/dl, proteínas totales 3,9 g/dl.
+Diagnóstico: síndrome nefrótico grado 4. Se suspende sunitinib y se trata el síndrome nefrótico.

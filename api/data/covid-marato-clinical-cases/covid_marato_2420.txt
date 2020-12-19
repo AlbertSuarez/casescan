@@ -1,0 +1,37 @@
+Anamnesis
+Nuestra paciente, una mujer de 48 años, consulta en febrero del 2013 por notarse nodulación en mama derecha con eritema asociado. La paciente no presentaba antecedentes médico-quirúrgicos de interés y no tenía hábitos tóxicos.
+En el estudio diagnóstico se realizan: ecografía mamaria que evidencia un nódulo hipoecoico de 2*2 cm en el cuadrante súperoexterno (CSE) de la mama derecha, engrosamiento difuso de piel y adenopatías axilares; mamografía que evidencia tumoración de 3*2cm en CSE de mama derecha. Se amplía el estudio con una RMN que destaca engrosamiento cutáneo de la piel con retracción asociada, encontrándose el volumen tumoral CSE pero con proyecciones espiculadas y nodulares que se extienden por todo el tejido mamario.
+Se realiza una biopsia por aguja gruesa (BAG) del nódulo mamario que evidencia un carcinoma ductal infiltrante de mama con receptores de estrógenos (+) y de progesterona (++) positivos, HER 2 negativo.
+La biopsia de la adenoapatía axilar revela metástasis por carcinoma ductal.
+Tras descartarse enfermedad metastásica en el estudio de extensión se decide administrar quimioterapia neoadyuvante según el esquema TAC (docetaxel, adriamicina, ciclofosfamida) por 4 ciclos. Posteriormente, se realiza una mastectomía radical modificada de mama derecha.
+El estudio de anatomía patológica muestra un foco tumoral de 21x23 mm, infiltración subareolar por células tumorales sueltas y 2 micrometástasis en 14 adenopatáis resecadas, los bordes quirúrgicos estaban libres de infiltración tumoral. A la visión microscópica se evidencia un tejido de proliferacion epitelial neoplásica constituida por un área escasamente nodular con proliferación de células cuboideas, frecuentes mitosis con abundante celularidad inflamatoria, positivas para CK5/6 pero negativas para CK14, débil expresión del receptor de estrógeno (Hsocre 10/300, Allred 3/8 en 10% de células), ausencia de receptores de progresterona (Hscore 0/300 y Allred 0/8) y una alta expresión de Ki67 (50% en áreas periféricas), expresión de Her2 negativa.
+Se trata por lo tanto de un carcinoma infiltrante de mama ypT4d ypN1 mic ypM0 RE+ RP- Her2 - ki67 50% fenotipo luminal B.
+Se completa el tratamiento adyuvante con TAC x 2 y con radioterapia externa hasta una dosis total de 50 Gy, tratamiento que finaliza en octubre del 2013.
+La paciente presenta posteriormente la siguiente evolución de enfermedad recibiendo los siguientes tratamientos de enfermedad avanzada:
+Noviembre del 2014: Progresión pulmonar, hepática y ósea: Placlitaxel-Bevacizumab x 6 ciclos + Zolendronato terminando en abril del 2015 por progresión de enfermedad.
+Mayo del 2015: Progresión de enfermedad hepática: Capecitabina - Zolendronato
+Noviembre del 2015: Progresión de enfermedad ganglionar y hepática: Exemestano-everolimus + Zolendronato.
+Diciembre del 2015: Progresión de enfermedad cerebral: Recibe radioterapia holocraneal (4 sesiones de 500cGy por sesión) y se inicia tratamiento con Navelbina que comienza el 22 de enero del 2016. La paciente no recibe el día + 8 del 2º ciclo por síndrome febril.
+
+EPISODIO ACTUAL:
+La paciente acude a hospital de Día el 27 de febrero del 2016 por presentar fiebre resistente a antibioterapia oral con levofloxacino. Asocia cefalea y náuseas de una semana de evolución, además de episodios de desorientación temporo-espacial de unos dos meses de evolución pero que han aumentado en frecuencia en los últimos días. La paciente se encontraba hemodinámicamente estable y a la exploración física y neurológica no destacaba ningún hallazgo salvo la desorientación temporo-espacial.
+
+Exploración física
+La paciente se encontraba hemodinámicamente estable y a la exploración física y neurológica no destacaba ningún hallazgo salvo desorientación temporo-espacial. No existían signos de rigidez nucal.
+
+Pruebas complementarias
+Se realiza una analítica al ingreso donde destaca: GGT 219 U/l, LDH 2276 U/l (previo 1660), Hb 11 g/dl, CEA 2,7 ng/ml, Ca 15.3 1088 U/ml (previa 1038), siendo el resto de parámetros del hemograma, bioquímica y coagulación dentro de la normalidad. Se realizan radiografías de tórax y abdomen sin hallazgos de interés, se serian hemocultivos siendo todos negativos, urinocultivos negativos y cultivo de punta de catéter PICC negativo.
+Ante sospecha de encefalitis se inicia tratamiento antibiótico con ceftriaxona, vancomicina, aciclovir y ganciclovir con escaso beneficio. Se realiza una punción lumbar que muestra un líquido cefaloraquídeo (LCR) claro y transparente y como únicos hallazgos evidencia una pleocitosis linfocitaria de 10 células/ul y una proteinorraquia de 75 mg/dl. Se realiza una serología de sangre periférica que muestra negatividad para Borrelia, CMV, VHS 1 y 2, VEB, VZV y VHH6 negativos.
+Se solicita una resonancia magnética nuclear (RMN) cerebral que evidencia un extenso cambio de señal que afecta al córtex temporal y perisilviano bilateral, aunque de predominio derecho, que no se modifica tras la administración de contraste paramagnético (14 ml de gadolinio). No se advierten captaciones anómalas que sugieran afectación metastásica. Imágenes compatibles con encefalitis límbica.
+Se estudió la autoinmunidad de algunos anticuerpos antineuronales (anti-Yo, Ri, Hu, Tr, NMO, NMDA, MAG, VGCC y anti-islotes de Langerhans), siendo todos negativos.
+
+Diagnóstico
+Encefalitis límbica paraneoplásica
+
+Tratamiento
+Ante la sospecha de encefalitis límbica paraneoplásica se decide comenzar el tratamiento específico antes de la confirmación diagnóstica. Se administra metilpredinosolona en bolos de un gramo durante 5 días, descartándose la plasmaféresis por el estado general de la paciente, y ante la escasa mejoría se administran posteriormente inmunoglubulinas 0,4 g/kg de peso durante 3 días.
+Se planteó el inicio de una nueva línea de tratamiento específica contra su enfermedad de base, sin embargo no fue posible iniciar nuevo tratamiento con quimioterapia debido a un importante deterioro clínico y rápida afectación del estado general.
+
+Evolución
+La paciente presentó una evolución desfavorable a pesar del tratamiento administrado y falleció posteriormente con buen control de síntomas.
+Ya habiendo fallecido la paciente, se evidenció en el proteinograma del LCR la presencia de bandas oligoclonales que apoyan el diagnóstico de encefalitis límbica paraneoplásica.

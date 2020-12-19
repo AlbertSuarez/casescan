@@ -1,0 +1,30 @@
+Anamnesis
+Varón de 38 años, sin alergias medicamentosas, fumador con dosis acumulada 10 paquetes/año. Sin antecedentes patológicos de interés.
+Primer síntoma: neumonía en julio de 2013 con radiografía de tórax que muestra ensanchamiento mediastínico, por lo que se inicia estudio.
+Primer diagnóstico: tomografía computarizada (TC ) de tórax con contraste que informa de condensación pulmonar en receso pleuro-pericárdico anterior del segmento medial del lógulo medio derecho (LMD), diagnóstico diferencial entre condensación neoformativa e inflamatoria y adenopatía de 2 cm en hilio derecho y mazacote adenopático de 6 y 5 cm en espacios mediastínicos subcarinales y traqueobronquial derecho. Se plantea el diagnóstico diferencial entre proceso neoformativo e inflamatorio.
+Se realiza fibrobroncoscopia (FBS) que resulta normal, con lavado broncoalveolar negativo y punción-aspiración con aguja fina transtorácica con material insuficiente para diagnóstico.
+Posteriormente se llevan a cabo dos mediastinoscopias, también insuficientes para el diagnóstico, por lo que finalmente se decide realizar toracotomía derecha, obtienendo biopsia con anatomía patológica diagnóstica para sarcoma sinovial monofáscio fusocelular con alto índice mitótico, EMA positivo focal y débil en escasas células, CAM 5.2 positiva en escasa células, vimentina positiva de forma difusa, CD 56 positivo, 013 positivo; gen EWSR1 no translocado, gen SS18 traslocado.
+Descartando enfermedad a distancia con el estudio de extensión y con intención quirúrgica, se valora resecabilidad por resonancia magnética que informa de infiltración de pleura y parénquima pulmonar derecho con estenosis de la arteria pulmonar derecha, sus ramas, el bronquio pulmonar derecho y la vena cava superior a nivel del ostium de la aurícula derecha. Además, se aprecia colapso de más del 50% de la aurícula derecha con infiltración de sus paredes posteriores y del septo interauricular, estenosis de la vena pulmonar inferior derecha y colapso de la vena pulmonar superior derecha.
+Con el diagnóstico de sarcoma sinovial mediastínico irresecable por infiltración de grandes vasos, pared auricular y septo interauricular, se plantea tratamiento quimioterápico con intención neoadyuvante.
+Está a la espera de iniciar tratamiento,
+Acude derivado por su médico de Atención Primaria por disnea progresiva de tres días de evolución, ortopnea y expectoración purulenta.
+
+Examen físico
+Performance status 2. Orofaringe: eritema orofaríngeo sin pústulas. Auscultación respiratoria: murmullo vesicular conservado con hipofonesis basal derecha y algún crepitante basal derecho, semiología de derrame pleural.
+Auscultación cardiaca: tonos cardiacos regulares, apagados, sin roce, sin soplos. Ingurgitación yugular ligera, con reflujo hepato-yugular y tendencia al colapso en dos tiempos, sin signos de Kussmaul, pulsos centrales normocinéticos, sin soplos, periféricos presentes y simétricos; pulso paradójico no significativo. Resto sin alteraciones.
+
+Pruebas complementarias
+- Radiografía de tórax (17/12/2013): muestra aumento del índice cardiotorácio y aumento del derrame pleural derecho.
+- Ecocardiografía (2/12/2013): derrame pericárdico moderado con signos leves de compromiso hemodinámico. Masa retroauricular de gran tamaño que contacta con la pared posterior de las aurículas.
+
+Diagnóstico
+Taponamiento cardiaco secundario a sarcoma sinovial.
+
+Tratamiento
+Se inicia tratamiento con antibiótico, oxigenoterapia y suero, con lo que el paciente presenta mejoría clínica progresiva y se mantiene estable sin necesidad de pericardiocentesis, con ecocardiografía de control que muestra disminución del derrame pericárdico.
+
+Evolución
+Dada la estabilidad clínica, el paciente es alta a domicilio e inicia tratamiento oncoespecífico de forma ambulatoria con combinación de ifosfamida 2 g/m2 y adriamicina 20 mg/m2 neoadyuvantes , del 5 de diciembre 2013 al 3 de febrero de 2014. Habiendo recibido un total de 3 ciclos se objetiva enfermedad estable a la revaloración, por lo que se descarta opción quirúrgica.
+Se decide nueva línea de tratamiento con ifosfamida a altas dosis (10 g/m2 durante 5 días) por 3 ciclos.
+Estando pendiente de revaloración, reingresa por nuevo empeoramiento de su disnea habitual que se controla con sueroterapia y tratamiento sintomático con cloruro mórfico, benzodiacepinas y oxigenoterapia.
+Durante el ingreso se realiza TC de tórax y de abdomen que muestra nueva progresión de enfermedad a nivel mediastínico, sin extensión a distancia, por lo que inicia tratamiento en tercera línea con pazopanib.

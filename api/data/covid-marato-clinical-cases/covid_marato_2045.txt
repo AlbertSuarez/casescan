@@ -1,0 +1,37 @@
+Anamnesis
+Mujer de 55 años de edad, con antecedentes de hipertensión, hipotiroidismo y obesidad mórbida. Sin antecedentes familiares de interés. Sin exposición a tóxicos.
+Durante la realización de pruebas preanestésicas para cirugía bariátrica en febrero de 2015, se describe, como hallazgo casual, un nódulo pulmonar, motivo por el cual se solicita una TC toracoabdominopélvica para completar estudio.
+
+Exploración física
+Paciente con buen estado general, ECOG 0. Exploración por aparatos anodina.
+
+Pruebas complementarias
+Durante este periodo, en marzo de 2015, la paciente consulta por detectarse un nódulo en mama derecha, por lo que se le realiza una mamografía, que objetiva una imagen nodular de contorno liso compatible con un quiste, sin lograr identificar el nódulo palpable en región inframamaria. Se completa estudio con ecografía, que pone de manifiesto una masa sólida de 4 centímetros de diámetro en línea intercuadrántica inferior, a nivel de surco inframamario que se acompaña de adenopatías múltiples axilares derechas.
+Ante los hallazgos, se programa para biopsia percutánea con marcaje y punción aspirativa de ganglios axilares.
+Mientras tanto, se realiza también la TC toracoabdominopélvica, donde se describen múltiples nódulos pulmonares bilaterales de hasta 16 mm, además de la masa conocida en mama derecha y las adenopatías axilares.
+Los resultados del estudio anatomopatológico del tumor mamario son de un carcinoma ductal infiltrante. El estudio inmunohistoquímico indica receptores hormonales negativos, un Ki67 50 % y sobre expresión de HER-2 ++-/+++, por lo que se realiza FISH que no detecta amplificación del gen.
+La citología de las adenopatías axilares es positiva para células malignas.
+Se realiza también estudio de mutaciones de BRCA que no detecta ninguna mutación conocida.
+En la analítica que se realiza para completar el estudio, no presenta alteraciones significativas y los marcadores tumorales (Ca15.3) están en valores normales.
+
+Diagnóstico
+Carcinoma ductal infiltrante triple negativo estadio IV por metástasis múltiples pulmonares, estadiándose como cT3 cN2 M1.
+
+Tratamiento
+Ante paciente diagnosticada de cáncer de mama triple negativo metastásico se inicia quimioterapia de 1ª línea con esquema secuencial de carboplatino-docetaxel 4 ciclos, seguido de epirrubicina-ciclofosfamida durante 4 ciclos más. Tras recibir 2 ciclos, presenta reacción alérgica a docetaxel, por lo que se modifica el esquema a carboplatino-paclitaxel del que recibe otros 2.
+
+Evolución
+Se solicita TC toracoabdominopélvica de valoración de respuesta en junio de 2015, tras finalizar los 4 ciclos primeros ciclos, con criterios de enfermedad estable, tanto en la masa de mama derecha como en las metástasis pulmonares.
+Completa el tratamiento con epirrubicina-ciclofosfamida durante 4 ciclos más, y en nueva TC de revaluación realizada tras finalizar la quimioterapia, en octubre de 2015, se informa de reducción significativa del tumor mamario con un tamaño de 15 x 7 mm, sin apreciarse componente adenopático axilar. Persisten las metástasis pulmonares múltiples bilaterales con leve incremento del tamaño y con la aparición de algunas lesiones nuevas.
+Dicha reducción del nódulo mamario también se objetiva en la mamografía con similares dimensiones.
+Ante la existencia de una respuesta disociada, con una excelente respuesta en el nódulo mamario y ausencia de respuesta en los pulmonares, se plantea la posibilidad de realización de biopsia pulmonar para filiar etiología, que se realiza en diciembre de 2015. La lesión biopsiada se corresponde con metástasis por carcinoma neuroendocrino de bajo grado (KI67 4 %).
+Se decide completar el estudio del tumor neuroendocrino solicitando Octreoscan®, que resulta normal, y en el que no se detectan captaciones, analítica con cromogranina (78,6 ng/ml) e indolacético en orina (12,0 mg en 24 horas, leve incremento respecto a nivel normal) y sin síntomas clínicos asociados.
+
+Juicio diagnóstico
+Dos tumores sincrónicos:
+» Carcinoma ductal infiltrante T3N2M0, estadio IIIB, triple negativo.
+» Tumor neuroendocrino de bajo grado con metástasis al diagnóstico y de origen desconocido.
+Ante estos resultados, en enero de 2016 la paciente es intervenida de su carcinoma de mama, realizándose tumorectomía y linfadenectomía axilar, siendo el estudio anatomopatológico de la pieza extirpada de ausencia de neoplasia residual con márgenes de resección libres. Sin afectación de los 18 ganglios resecados. Posteriormente, la paciente recibe radioterapia externa (RT) sobre la mama derecha
+Tras finalizar RT en agosto de 2016, se realiza una nuevo TC para evaluar la situación, en la que no se evidencian cambios significativos en el número y tamaño de las lesiones pulmonares descritas del tumor neuroendocrino, y no detectan otras lesiones.
+La paciente refiere la aparición de episodios ocasionales de hemoptisis autolimitada y disnea de esfuerzo, por lo que, ante paciente con tumor neuroendocrino de bajo grado de origen desconocido, metastásico a nivel pulmonar y con clínica asociada, se decide iniciar tratamiento con análogos de la somatostatina.
+En el momento actual, la paciente ha recibido 15 ciclos de análogos de somatostatina, se encuentra asintomática, con buen estado general, estabilidad radiológica de la enfermedad pulmonar neuroendocrina y con un intervalo libre de enfermedad de 27 meses de su carcinoma de mama.

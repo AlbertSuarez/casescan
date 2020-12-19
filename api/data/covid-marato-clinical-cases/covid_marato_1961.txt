@@ -1,0 +1,26 @@
+Anamnesis
+Paciente mujer de 49 años sin antecedentes de interés que acude a Urgencias en noviembre de 2016 por ataxia subaguda y diplopía de una semana de evolución por lo que ingresa en neurología para estudio. Se realiza analítica completa (serologías, anemias, tiroides, etc.), TC cerebral, RM cerebral y medular sin hallazgos patológicos.
+Tras la realización de estas pruebas, comienza con mayor intensificación de los síntomas, la ataxia le impide la deambulación y bipedestación, persiste diplopía, aparece dismetría de MMSS y afasia motora.
+Se le realiza punción lumbar sin alteraciones y se solicitan anticuerpos onconeuronales con el resultado de Ac anti-Yo positivos y se continúa el estudio para la búsqueda de algún tumor primario.
+
+Exploración física
+ECOG4. Eupneica en reposo. Ataxia que le impide la bipedestación, diplopía con nistagmos en mirada vertical, seguimiento ocular en sacudidas, dismetría de MMSS y afasia motora.
+
+Pruebas complementarias
+Se le solicita TC TAP, objetivándose adenopatías axilares derechas (una de ellas claramente patológica). Lesión ovárica izquierda que parece un cuerpo lúteo.
+Ecografía mamaria y mamografía: adenopatías de tamaño y morfología derecha en axila derecha, la mayor de 14 mm. Densidad focal asimétrica en MD, sin transducción ecográfica.
+BAG axilar: ganglio linfático infiltrado por ADC de probable origen mamario, RH (-), HER-2 (+++) y Ki 67 60 %.
+
+Diagnóstico
+Síndrome paraneoplásico con Ac anti-Yo positivos en cáncer de mama HER-2 (+), RH (-), Ki 67 60 %, 7 de 20 ganglios positivos.
+
+Tratamiento
+Se inició tratamiento en un primer lugar con corticoides e inmunoglobulinas para el síndrome paraneoplásico sin respuesta. Se comentó el caso en Comité de Tumores Ginecológicos y se decidió mastectomía radical derecha con linfadenectomía y laparoscopia exploradora que finalizó con anexectomía bilateral.
+Pieza de anexectomía con cuerpo lúteo en uno de los ovarios.
+Mama derecha sin evidencia de malignidad con área de mastopatía fibroquística. Metástasis de carcinoma mamario en 7 de los 20 ganglios aislados.
+Posteriormente, ante la nula mejoría de la paciente se dio nueva tanda de corticoides e inmunoglobulinas y se inició tratamiento para el cáncer de mama con paclitaxel-trastuzumab y paclitaxel.
+
+Evolución
+Tras el primer ciclo de quimioterapia y el resto de tratamiento, la paciente seguía sin mejorar por lo que neurología le solicitó rituximab y se continuó hasta 3 ciclos de tratamiento sin obtener resultados.
+Ante la situación clínica de la paciente con importante deterioro neurológico, ECOG 4 y posibles síntomas asociados a tratamiento se habló con la familia y se decidió limitación del esfuerzo terapéutico con priorización del confort de la paciente.
+Se interconsultó con la Unidad de Paliativos Hospitalarios, que comenzó el seguimiento y, en los meses posteriores, la paciente falleció.

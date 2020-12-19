@@ -1,0 +1,48 @@
+Anamnesis
+Mujer de 78 años, alérgica a la penicilina, con antecedentes de hernia de hiato, hipertensión arterial en tratamiento con enalapril, diabetes mellitus en tratamiento con metformina y una cardiopatía degenerativa con dilatación del ventrículo izquierdo en controles semestrales por el Servicio de Cardiología. En el último ecocardiograma de control se observa una función sistólica disminuida (FEVI) en torno al 35-40%, junto con una insuficiencia mitral moderada. Además, recibe tratamiento con AAS, ivabradina y simvastatina. No hábitos tóxicos. Ama de casa. No antecedentes oncológicos familiares.
+
+Es derivada a la Unidad de Patología Mamaria en agosto de 2013 por edema y eritema de la mama izquierda de aproximadamente 1 mes de evolución.
+
+Exploración física
+Paciente frágil. ECOG: 1-2. Mama izquierda aumentada de tamaño con edema y eritema. Auscultación cardíaca: tonos rítmicos con soplo sistólico eyectivo con segundo ruido conservado. ECG: ritmo sinusal a 75 lpm. PR constante a 0,2 ms. Eje QRS 0º. Bloqueo de rama izquierda con trastornos de repolarización secundarios.
+
+Pruebas complementarias
+» Se realiza una mamografía, observándose un aumento difuso de la mama izquierda con moderado engrosamiento cutáneo que en la ecografía de mama se comporta como edema difuso cutáneo y del tejido celular subcutáneo sugerente de tumor inflamatorio, catalogándose de BIRADS-5 (B5). Además, en la ecografía axilar izquierda se observan adenopatías axilares con engrosamiento cortical que sugieren infiltración tumoral.
+» Se realiza una biopsia con aguja gruesa (BAG) de la lesión mamaria con diagnóstico anatomopatológico de carcinoma ductal infiltrante (CDI), grado II, receptores de estrógenos y progesterona (RE, RP) negativos, Her-2 +++, Ki-67 10%. Una punción aspiración con aguja fina (PAAF) confirma la positividad para metástasis de carcinoma en la axila izquierda.
+» Se completa el estudio de extensión con analítica rutinaria, donde destaca la elevación del CEA: 9,5 ng/ml (N: 0-4,7 ng/ml).
+» Radiografía de tórax, ecografía abdominal y gammagrafía ósea dentro de la normalidad. FEVI inicial (ventriculografía isotópica de equilibrio): 23%.
+
+
+Diagnóstico
+Carcinoma inflamatorio de mama izquierda localmente avanzado -cT4N1M0, RE y RP negativos, Her-2 positivo- en una paciente con antecedente de cardiopatía degenerativa con FEVI deprimida.
+
+Tratamiento
+Comentado en Comité multidisciplinar de tumores de mama, al tratarse de una paciente con una neoplasia mamaria de tipo inflamatorio, se decide comenzar tratamiento quimioterápico neoadyuvante. Dado que se trata de un tumor Her-2+ en una paciente de avanzada edad y cardiópata se decide evitar esquemas que incluyan antraciclinas y trastuzumab, por lo que inicia tratamiento neoadyuvante en septiembre de 2013 con lapatinib 1.000 mg diarios durante 6 semanas seguido de 12 semanas de dicha terapia anti-Her-2 junto con paclitaxel 80 mg/m2 en régimen semanal.
+
+Durante el tratamiento la paciente presenta retrasos en la administración del mismo, requiriendo ajuste de dosis de lapatinib al 75% por toxicidad gastrointestinal grado II, llegándose a suspender a la décima semana del tratamiento por diarrea grado III.
+
+Se realizaron controles periódicos de la FEVI mediante ventriculografía isotópica por el servicio de Medicina Nuclear, sin observarse deterioro de la función ventricular (FEVI al final de la neoadyuvancia del 44,8%)
+
+Finaliza la administración de paclitaxel en enero de 2014 con notable mejoría clínica, tras lo cual se realizan ecografía, mamografía y resonancia mamaria de control postratamiento, donde no se visualizan captaciones patológicas, es decir, respuesta completa radiológica.
+
+La paciente es intervenida quirúrgicamente en febrero de 2014 mediante mastectomía y linfadenectomía axilar izquierdas sin complicaciones. El estudio histológico de la pieza resecada no evidenció restos tumorales y los ganglios resecados fueron igualmente negativos, por lo que se trataba de una respuesta completa patológica.
+
+Dada la toxicidad gastrointestinal producida por lapatinib que obligó a su retirada antes de completar el tratamiento neoadyuvante, se desestima continuar con el mismo tras la cirugía. Completó tratamiento con radioterapia externa, recibiendo 50 Gy sobre lecho quirúrgico, entre marzo y mayo de 2014, comenzando entonces seguimiento estricto.
+
+Evolución
+En julio de 2014, la paciente consulta por cuadro de astenia, anorexia y pérdida de peso. Se realiza analítica de control con marcadores tumorales en la que destaca la presencia de anemia (Hb: 9,3 g/dl) normocítica y normocrómica y una nueva elevación del CEA: 5,64 ng/ml (N: 0-4,7 ng/ml), que se había mantenido en valores normales desde el tratamiento neoadyuvante.
+
+Se solicita una sangre oculta en heces para descartar un posible sangrado por vía digestiva, y al resultar negativa y empeorar la clínica de la paciente, se solicita una TC toracoabdominal, en la que se observa la aparición de al menos tres lesiones hepáticas nodulares hipodensas de bordes mal definidos de aproximadamente 37 mm en el segmento III del LHI y de 21 mm en el segmento VIII y de 10 mm en el segmento VII del LHD compatibles con metástasis, sin evidencia de enfermedad a otro nivel.
+Gammagrafía ósea negativa.
+
+Ante la buena respuesta obtenida en el tratamiento neoadyuvante con lapatinib, se decide comenzar de nuevo tratamiento en agosto de 2014 según esquema capecitabina 1.000 mg/m2 cada 12 h/días 1 a 14 + lapatinib 1.000 mg diarios cada 21 días, ajustando las dosis de inicio al 75% debido a la toxicidad gastrointestinal observada anteriormente, obteniéndose respuesta clínica y estabilidad radiológica en el control de noviembre de 2014.
+
+En diciembre de 2014, la paciente comienza tratamiento con levofloxacino 500 mg c/24 h por sospecha de infección respiratoria alta. Veinticuatro horas más tarde, la paciente acude a Urgencias por persistencia de fiebre, con aparición de cuadros de pérdida de consciencia de segundos de duración compatibles con síncopes que han ido aumentando en frecuencia a lo largo del día.
+
+En el ECG destaca un intervalo QT anormal, por lo que se procede a monitorizar a la paciente. Durante la anamnesis, la paciente pierde nuevamente la consciencia, observándose un patrón electrocardiográfico compatible con una taquicardia ventricular de QRS ancho a 250 lpm sugerente de torsade de pointes que revierte espontáneamente transcurridos unos segundos.
+
+Se solicita valoración por el Servicio de Cardiología, que decide su traslado a la Unidad de Coronarias para la colocación de un marcapasos externo transitorio. Se corrige la magnesemia y se suspenden todos los fármacos que pueden producir alargamiento del intervalo QT: ivabradina, levofloxacino y lapatinib, con corrección progresiva del QT, por lo que a los 2 días se retira el marcapasos transitorio sin complicaciones y se traslada a planta de Oncología.
+
+Al ingreso presenta datos de sepsis de origen respiratorio, por lo que se inicia tratamiento empírico con amikacina y linezolid, con mejoría clínica y analítica, recibiendo el alta hospitalaria en enero de 2015.
+
+Dada la edad, el empeoramiento en el performance status de la paciente y la toxicidad aparecida se decide continuar con tratamiento sintomático.

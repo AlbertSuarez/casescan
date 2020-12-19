@@ -1,0 +1,25 @@
+Anamnesis
+Paciente de 57 años, exfumador con un IPA de 120, exbebedor y exconsumidor de cocaína, con hepatopatía crónica por VHC no tratada con signos de hipertensión portal y enfermedad por reflujo gastroesofágico.
+El paciente es diagnosticado en el año 2011 de un adenocarcinoma de pulmón resecable localizado en el LSD.
+Fue intervenido quirúrgicamente, realizándose una lobectomía superior derecha con resultado histológico de adenocarcinoma infiltrante predominantemente acinar de 2,5 cm de diámetro máximo (pT1b) con bordes de resección libres de infiltración tumoral, sin afectación ganglionar ni a distancia, estadio IA. No se indica tratamiento adyuvante.
+En septiembre de 2012, tras un intervalo libre de enfermedad de un año, el paciente comienza con molestias epigástricas que se exacerban con la ingesta, sin mejoría con analgésicos menores, con pérdida ponderal y sensación de distensión abdominal.
+
+Examen físico
+Abdomen blando y depresible, doloroso a la palpación abdominal superficial y profunda localizado a nivel epigástrico, sin signos de irritación peritoneal y con hepatomegalia palpable a unos tres traveses de dedo, sin otros hallazgos significativos.
+
+Pruebas complementarias
+Se inicia estudio con los siguientes resultados:
+Endoscopia digestiva alta: en el cuerpo medio gástrico, por encima de la incisura, se observa una masa mamelonada, con una gran ulceración y friable, de unos 6-7 cm de diámetro máximo, de la que se toman biopsias.
+TC de abdomen: neoplasia gástrica no obstructiva con posible infiltración del ligamento gastrohepático. Se identifican múltiples adenopatías en ligamento gastrohepático y tronco celíaco, que se acompañan de adenopatías también en el espacio portocava, raíz de mesenterio del intestino delgado y retroperitoneales altas hasta los hilios.
+Posibles implantes omentales metastásicos.
+TC de tórax donde únicamente destacan cambios postquirúrgicos.
+En los resultados de anatomía patológica de la biopsia gástrica presenta adenocarcinoma moderadamente diferenciado compatible con metástasis gástrica de adenocarcinoma de origen primario pulmonar. ALK y EGFR negativos.
+
+Diagnóstico
+Adenocarcinoma de pulmón estadio IV, con metástasis gástricas y probable carcinomatosis peritoneal.
+
+Tratamiento
+Se inicia tratamiento de primera línea para adenocarcinoma de pulmón metastásico con aarboplatino AUC5 y pemetrexed a dosis de 500 mg/m2, recibiendo tres ciclos.
+
+Evolución
+Progresa tras el tercer ciclo de tratamiento. Ingresa por deterioro del estado general, disfagia y clínica de descompensación hidrópica. Ante el deterioro severo sintomático, se deriva a Cuidados Paliativos.

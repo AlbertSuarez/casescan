@@ -1,0 +1,32 @@
+Anamnesis
+Este caso versa sobre un varón de 63 años sin antecedentes personales ni familiares de interés, fumador activo de 20 cigarrillos al día desde los 20 años (lo que hace un consumo acumulado de 43 paquetes-año).
+En agosto de 2018 comienza estudio en el servicio de Neumología por aumento de tos y expectoración habitual. Asocia síndrome constitucional con pérdida de peso de 4 kg en 3 meses, dolor costal izquierdo con los accesos tusígenos y un dolor lumbar de características mecánicas, no invalidante pero progresivo en intensidad.
+El paciente vive con su mujer e hijos, es independiente para las actividades básicas de la vida diaria y continúa trabajando por cuenta propia (comparte un taller mecánico con sus hijos) aunque no puede hacer ejercicio extenuante, exclusivamente trabajo de oficina.
+Como único tratamiento activo presenta parche transdérmico de fentanilo de 50 mcg/72 h y rescates puntuales de ibuprofeno.
+
+Exploración física
+A su llegada a nuestras consultas, el paciente tiene un buen estado general. Una escala funcional según el Eastern Cooperative Oncology Group de 1.
+Estable hemodinámicamente. Eupneico en reposo, saturando al 97 % con aire ambiente. Sin hallazgos relevantes en la auscultación pulmonar ni en la exploración abdominal.
+Destaca el dolor a la palpación en apófisis espinosas a los niveles aproximados de L3-L4, donde impresiona de masa de partes blandas indurada.
+
+Pruebas complementarias
+Tras una radiografía posteroanterior de tórax donde se vislumbra una masa en lóbulo medio (LM) y ensanchamiento mediastínico, el paciente es sometido a una tomografía computarizada torácica (TC) el 9 de septiembre de 2018 con hallazgo de masa en LM pulmonar de 6,5 cm de diámetro mayor con afectación ganglionar sospechosa de malignidad hiliar y mediastínica derecha, así como lesiones óseas en esternón, 7º arco costal anterior izquierdo y cuerpo vertebral D9.
+Ante dichos hallazgos, se realiza una fibrobroncoscopia con toma de muestras mediante biopsia de masa pulmonar, aspirado y citología en ramas lobares derechas, así como punción-aspiración con aguja fina en adenopatías paratraqueales derechas.
+El resultado anatomopatológico es de celularidad compatible con carcinoma no microcítico de pulmón tipo adenocarcinoma (TTF1+, p40 -) moderadamente diferenciado, tanto en la masa principal como en los ganglios paratraqueales derechos.
+El estudio inmunohistoquímico refleja una expresión de PDL-1 del 10 % sin hallarse mutación en el gen EGFR. La muestra no era válida para el estudio de la traslocación ALK.
+Finalmente, se amplía el estudio de extensión con una TC craneal y abdominal sin hallazgos patológicos y una resonancia magnética (RM en adelante) dorsolumbar que corrobora la afectación metastásica ósea a nivel sacro, ambas palas iliacas y masa de partes blandas e nL3 que invade el espacio epidural.
+
+Diagnóstico
+» Por tanto, estamos ante un paciente sin comorbilidad de interés diagnosticado de un adenocarcinoma de pulmón, GH2. cT3-cN2-cM1c (metástasis óseas a nivel esternón, 7º arco costal izquierdo, dorsales, sacras, ilíacas y masa de partes blandas en L3).
+» Estadiaje (AJCC 8ª edición) IVB.
+» Expresión de PDL-1 del 10 %. EGFR no mutado. ALK y ROS-1 no valorables.
+
+Tratamiento
+El paciente recibe radioterapia (RT en adelante) con intención antiálgica y descompresiva a nivel L3 recibiendo 20 Gy en 5 sesiones, finalizando el 17 de octubre de 2018.
+Una semana después comienza una primera línea paliativa con el esquema cisplatino 75 mg/m2 + pemetrexed 500 mg/m2 d1 previa medicación con ácido fólico 5 mg/12 h y vitamina B12.
+
+Evolución
+El paciente, tras la RT antiálgica y 4 ciclos de QT con cisplatino-pemetrexed, presenta mejoría clínica con buen control del dolor y descenso del tratamiento analgésico. Han disminuido los accesos de tos y continúa haciendo una vida activa, ECOG 1.
+Como toxicidades relevantes refiere astenia G1 prácticamente desde el inicio y náuseas G1 que no impiden la ingesta ni provocan vómitos.
+Repentinamente, el día 20 de diciembre de 2018 acude a Urgencias por disnea brusca e insuficiencia respiratoria aguda no hipoxémica. Es diagnosticado de tromboembolismo pulmonar bilateral de alta carga trombótica necesitando ingreso en Neumología (20 y 22/12/18). Durante su ingreso se realiza TC de reevaluación con enfermedad estable por lo que al alta prosigue con pemetrexed de mantenimiento.
+Tras el 4º ciclo de pemetrexed de mantenimiento, se realiza nueva TC de reevaluación donde se describe nuevamente EE pero se objetiva aparición de micronódulos pulmonares bilaterales y lesión cavitada en LSI de nueva aparición. En dicha consulta, el paciente refiere síndrome subfebril de unos 5 días de evolución, ligero aumento de la tos y expectoración, manteniendo el estado general (ECOG = 1).

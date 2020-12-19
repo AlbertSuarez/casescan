@@ -1,0 +1,29 @@
+Anamnesis
+Varón de 43 años, que ha trabajado como pintor y carpintero, con antecedentes personales de: ex-ADVP (heroína y cocaína) consumiendo actualmente cannabis y metadona, VHC sin controles en el Servicio de Digestivo y fumador activo (IA: 25 paquetes-año).
+Acude en febrero de 2012 con síndrome general y dolor abdominal, siendo diagnosticado e intervenido quirúrgicamente el 20/04/2012 de un adenocarcinoma de colon derecho G3 pT3 pN1 (1/38) L1 V1 Pn0 M0, estadio III. Del 25/05/2012 al 20/11/2012 recibe 8 ciclos de tratamiento adyuvante según esquema XELOX (capecitabina 1.000 mg/m2/12 horas días 1-14 + oxaliplatino 130 mg/m2 día 1 cada 21 días) con excelente tolerancia. En TC de control, tras fin de tratamiento adyuvante, no se objetivan signos de recidiva ni diseminación tumoral, por lo que el paciente es dado de alta de Oncología Médica y siguió controles en el servicio de Cirugía Colorrectal.
+
+Exploración física
+ PS0. Peso: 58 kg. Talla 175 cm.
+ Consciente y orientado en las 3 esferas. Bien hidratado y perfundido. Normocoloreado.
+ Cabeza y cuello: no se palpan adenopatías supraclaviculares ni laterocervicales.
+ Tórax: auscultación cardiaca: rítmico, sin soplos. Auscultación pulmonar: murmullo vesicular conservado.
+ Abdomen: pequeñas cicatrices en relación a cirugía. Blando y depresible. No sufre dolor durante la palpación ni signos de irritación peritoneal. No se palpan masas ni megalias. Ruidos intestinales presentes.
+ EEII: sin edema.
+
+Pruebas complementarias
+Estando el paciente asintomático en controles en cirugía colorrectal con CEA normal, en TC realizado en abril/2013 (intervalo libre de enfermedad: 3 meses) se objetiva:
+ Adenopatías subcentimétricas mediastínicas e hiliares de aspecto inespecífico.
+ Nódulo de 9 mm en vértice pulmonar a descartar metástasis en el contexto del paciente.
+ PET (07/05/2013): captación en pulmón izquierdo congruente con el nódulo conocido en vértice pulmonar que obliga a descartar etiología agresiva, no pudiendo discernir entre origen primario o secundario. Incremento en territorio 4R que sugiere afectación ganglionar reactiva.
+ EBUS de adenopatía 4R y 7 (19/06/2013): negativo para células malignas.
+ PBA de nódulo pulmonar (20/06/2013): negativo para células malignas.
+ Estudio funcional respiratorio (21/06/2013): FEV1 3.650 (108,7 %), KCO 69,3 %.
+
+Diagnóstico
+Nódulo pulmonar sin histología de malignidad e hipermetabólico en PET que obliga a descartar malignidad.
+
+Tratamiento
+Se presenta el caso en el Comité de Tumores Torácicos, decidiéndose una resección atípica del nódulo con biopsia intraoperatoria que se realiza el 01/08/2013.
+
+Evolución
+El informe de Anatomía Patológica dicta que se trata de tejido pulmonar subpleural con nódulos antracóticos y reacción granulomatosa sin evidencia de tuberculosis.

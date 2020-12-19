@@ -1,0 +1,64 @@
+Anamnesis
+Varón de 17 años.
+
+Antecedentes Personales
+» No alergias medicamentosas conocidas.
+» No hábitos tóxicos.
+» No patologías previas.
+» No intervenciones quirúrgicos.
+
+Antecedentes Familiares
+» Madre con diabetes gestacional sin diabetes Mellitus actual.
+» Padre con pólipos colónicos.
+» Abuelo paterno fallecido por IAM.
+» Abuela paterna fallecida (desconocen causa).
+» Abuela Materna HTA, diverticulosis.
+» Abuelo materno DM tipo 2 fallecido tras ACV.
+» 1 hermano sano.
+Comienza en agosto 2015con cuadro persistente de poliuria intensa, nicturia de una vez por noche y polidipsia con ingesta de unos 4 litros al día de agua por sensación de sed importante y sequedad bucal. Todo acompañado por pérdida de peso de 10 kilos en un año, además de pérdida de apetito por saciedad precoz y dolor abdominal posterior. Ante este cuadro, es derivado a Endocrinología desde
+Atención Primaria, quienes solicitan un test de deshidratación nocturna y hormonas.
+
+Exploración física
+REG, C,O,C, ligera deshidratación cutánea-mucosa. Palidez cutánea.
+Peso: 46.8kg, Talla: 168cm.
+Cuello: no palpo bocio, adenopatía cervical derecha rodadera.
+ACP: ruídos cardiorrespiratorios rítmicos, sin soplos audibles.
+MVC: sin ruidos sobreañadidos.
+Abdomen: blando, depresible, no doloroso, no masas ni megalias, RHA+.
+EEII: no edemas no signos de TVP.
+NRL: PCC conservados. Pupilas isocóricas normorreactivas. No otra focalidad neurológica.
+
+Pruebas complementarias
+Test de deshidratación patológico con Osm orina de 108, Na 145, Osm plasm 297 y cortisol de 1.6. Cortisol basal 2.81; ACTH 10. RMN agosto 2015: Masa en región pineal con captación profusa de contraste y áreas quísticas en su interior que comprime el acueducto de Silvio y la pared posterior del III ventrículo, provocando dilatación triventricular. Se aprecia también en el suelo del IV ventrículo un área de captación de contraste sugestiva de infiltración tumoral por diseminación de la lesión. Se realiza RNM craneal y de columna en la que se confirman las lesiones ya descritas y se descarta diseminación leptomeníngea al resto del neuroeje. Marcadores tumorales negativos en sangre periférica.
+Alfa fetoproteína y b-HCG normales.
+
+Diagnóstico
+Seminoma pineal con afectación del neuroeje local, sin otra afectación a distancia. Alfa fetoproteína, bHCG dentro de parámetros normales.
+Los tumores de células germinales (GCTs) se clasifican como extragonadales si no hay evidencia de tumor primario en testículos u ovarios. Normalmente, tienen tropismo por estructuras del eje en el caso de estar en el sistema nervioso central. Aunque se trate igualmente a adultos y niños, la literatura se basa principalmente en pacientes por debajo de los 15 años, extrapolando los resultados a adultos jóvenes. Epidemiológicamente, los tumores germinales presentan entre 0.5 y 3% de los tumores del SNC en Europa, con un pico de edad en la segunda década de la vida, entre los 10-12 años (predominio en hombres de entre 2:1 hasta 3:1, especialmente tumores en la región pineal).
+Histológicamente, estos tumores se clasfican, según la OMS: Germ cell tumors (GCTs) germinomas -65%- o non-germinomatous GCTs (NGGCTs, compuesto por carcinoma embrionario, tumor seno endodérmio, coriocarcinoma, teratoma maduro e inmaduro y tumores mixtos).
+En nuestro caso, nos encontramos ante un seminoma, germinoma puro (siempre que exista aumento de b-HCG, alfa fetoproteína, nos encontramos ante NGGCTs. Sin embargo, los seminomas, aunque más comúnmente se asocian a no elevación de marcadores, pueden elevarlos).
+La evaluación inicial de los GCTs consiste en:
+» RMN cerebral y columna (por la predisposición a hacer diseminación leptomeníngea y del neuroeje).
+» Cuantificación de alfa fetoproteína (AFP) y b-HCG en suero y líquido cefalorraquídeo.
+» Citología de líquido cefalorraquídeo (siempre que sea positiva, estaría indicada la radioterapia de la columna a pesar de que no se vea lesión en RMN).
+» Biopsia de la lesión primaria para diagnóstico histopatológico.
+
+Factores pronósticos: en el año 1997 se elaboró una clasificación pronóstica en germinomas testiculares de enorme alcance, aún vigente, crítica a la hora de determinar el tratamiento más adecuado para cada enfermo: Clasificación Pronóstica del International Germ Cell Cancer Collaborative Group (IGCCG).
+A pesar de no haber consenso, existe una clasificación para los tumores germinales extragonadales usada comúnmente en Japón, que los clasifica igualmente en grupos de "buen pronóstico" (seminoma y teratoma maduro, supervivencia global mayor al 90%), "mal pronóstico" (coriocarcinoma, yolk sac tumor, carcinoma embrionario y germinomatosos mixtos. SG: 40%) y "pronóstico intermedio" (resto. SG: 70%).
+
+Tratamiento
+El día 14 de septiembre 2015 se realiza exéresis quirúrgica, quedando posibles restos tumorales hacia la región superior adheridos a la vena de Galeno, hacia ambos lados englobando ambas venas basales de Rosenthal y hacia la porción inferior, en la cisterna cuadrigémina.
+Una vez el que el paciente recuperó su situación basal, es trasladado a servicio de Oncología Médica.
+Resumen: seminoma pineal puro con afectación local del neuroeje, descartándose infiltración leptomeníngea.
+El consenso a seguir en los germ cell tumors (GCTs) intracraneales non-germinomatous (NGGCTs) es neoadyuvancia seguida de radioterapia craneoespinal, preferiblemente a la quimioterapia o radioterapia solas. En cuanto a los GCT germinomatous con enfermedad localizada, el tratamiento estandarizado es la radioterpia holocraneal, con un boost en la tumor primario (Grade 1B).
+» Radioterapia como tratamiento de la enfermedad localizada, 21-24 Gy en los ventrículos, seguido de un boost en el tumor primario de 40-45 Gy.
+» Varias series de pacientes han demostrado que se podría hacer una reducción de la dosis de radioterapia en los pacientes que presentan respuesta completa después de quimioterapia, sin comprometer la SLP. El estudio prospectivo llevado a cabo por el Children’s Oncology Groug (COG) determinará si la quimioterapia neoadyuvante permite o no la reducción de dosis de radioterapia, sin influir en la respuesta al tratamiento.
+» Aunque la mayoría de los germinomas son sensibles a quimioterapia, la tasa de respuesta a quimioterapia sola es inaceptable.
+» La radioterapia craneoespinal está indiada en pacientes con germinomas multifocales o metastásicos, con RMN o por citología de LCR positivas. También está indicada en tumores que tumores que no han respondido a la quimioterapia o lo han hecho parcialmente.
+Tras exéresis quirúrgica, el paciente comenzó tratamiento con esquema BEP (Bleomicina, etopósido, cisplatino), el más ampliamente usado, desde octubre 2015 a enero 2016. Completó tratamiento con radioterapia holocraneal (21 Gy) y un boost de 42 (Gy) en el lecho quirúrgico, acabando tratamiento en febrero de 2016. Toleró tratamiento sin complicaciones, habiendo sufrido únicamente neutropenias GI, náuseas GII, diarreas GI.
+
+Evolución
+Como complicaciones postquirúrgicas, el paciente presentó en septiembre de 2015 hematoma epidural agudo con parada cardiorrespiratoria asociada, precisando de posterior ingreso en Unidad de Medicina Intensiva. La evolución del paciente fue favorable. Tras la intervención, presentaba una exploración física generalizada normal, a excepción de la exploración neurológica. Se objetivaba parálisis de la mirada vertical arriba, midriasis bilateral, nistagmo de convergencia-retracción, retracción del párpado y mirada conjugada hacia abajo ("signo del sol poniente"). Este conjunto de síntomas, se conocen con el nombre de Síndrome de Parinaud, que surge de la lesión directa o por compresión del mesencéfalo, muy común en pacientes jóvenes con tumores de la glándula pineal. Sincrónicamente, en octubre de 2015, el paciente comenzó con cefaleas intensas, siendo diagnosticado de hidrocefalia secundaria, que precisó de derivación ventrículo-peritoneal.
+El 22 de enero de 2016, una vez finalizado el tratamiento quimioterápico, ingresó por fiebre. A la exploración física el paciente presenta exantema maculopapular generalizado en cara y región occipital, extendiéndose a troncos y extremidades. Además, se acompaña de lesionesen diferentes estadíos: vasículas, máculas y pústulas, afectando a cuero cabelludo.
+Ante la sospecha clínica, se extrae cultivo de la lesión y se solicita serología, iniciando empíricamente Aciclovir, siendo tratamiento de elección una vez que se confirmó la sospecha clínica (IgM positiva para Virus Varizela Zoster). Presentó buena evolución clínica de la enfermedad, con resolución de la fiebre y desaparición de las lesiones cutáneas.
+Actualmente, el paciente continúa en respuesta completa. Acude a controles en Oncología Médica con RMN y analítica con marcadores tumorales cada 4 meses. Continúa tratamiento sustitivo de panhipopituitarismo y presenta limitación vertical de la mirada como única sintomatología.

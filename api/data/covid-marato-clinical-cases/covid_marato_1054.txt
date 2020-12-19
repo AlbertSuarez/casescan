@@ -1,0 +1,21 @@
+Anamnesis
+Mujer de 72 años con antecedentes personales de HTA, hipercolesterolemia y fumadora pasiva, con clínica de tos y expectoración persistente de 1 año de evolución.
+
+Examen físico
+ECOG 1. Sin hallazgos patológicos.
+
+Pruebas complementarias
+- Radiografía de tórax PA y L (10/8/2008): imagen nodular en el LSI.
+- TC c/c tórax-abdomen (19/9/2008): imagen espiculada de 2,5 cm en el LSI, con retracción de cisura. Adenopatías hiliares. Hiperplasia de la glándula suprarrenal izquierda.
+- PET de tórax-abdomen (16/9/2008): positividad para el nódulo del LSI (SUV 7), adenopatía hiliar izquierda de 1 cm (SUV 3,8) y adenopatía hiliar derecha (SUV 4,4). Estadio metabólico IIIB.
+- Fibrobroncoscopia (1/9/2008): sin hallazgos. Cepillado y biopsias negativas.
+- Videotoracoscopia derecha (10/10/2008): pulmón adherido a la pleura parieto-visceral que impide cámara aérea necesaria para la biopsia de adenopatía hiliar derecha. Se interviene mediante lobectomía superior izquierda y linfadenectomía. AP: CNMP tipo adenocarcinoma de pulmón de 4 cm, moderadamente diferenciado e infiltrante con patrón bronquioloalveolar y acinar, que no afecta a la pleura visceral y bordes de resección libres. Ausencia de metástasis en 0/8 ganglios hiliares y mediastínicos izquierdos. pT2 pN0 cM0.
+
+Diagnóstico
+Carcinoma no microcítico de pulmón (CNMP) subtipo bronquioloalveolar izquierdo pT2 (4 cm) pN0 (0/8) cM0, estadio IB, tratado mediante lobectomía superior izquierda + linfadenectomía (territorios 5, 6, 8 y 10) (10/2008) con factores de riesgo de mal pronóstico (tamaño tumoral y linfadenectomía incompleta). EGFR no mutado y ALK no traslocado.
+
+Tratamiento
+En diciembre de 2008 inicia tratamiento con QT adyuvante según el esquema CDDP 80 mg/m2 día 1 + VNR 30 mg/m2 días 1 y 8 durante 4 ciclos, ya que se había realizado linfadenectomía incompleta y el tumor medía 4 cm.
+
+Evolución
+Progresión pulmonar múltiple (12/2010-ILE 26 meses), por lo que inicia QT de primera línea paliativa con carboplatino AUC 5 y paclitaxel 200 mg/m2 cada 21 días durante 4 ciclos, con estabilización de la enfermedad pero mala tolerancia por toxicidad gastrointestinal grado 2 y neurotoxicidad grado 3, por lo que se suspende el tratamiento y se propone, a pesar de la ausencia de mutación de EGFR, el inicio de terapia de mantenimiento con erlotinib 150 mg/día, desde abril de 2011 hasta la actualidad con enfermedad estable mantenida, pero con requerimiento de reducción de dosis progresivo a 100 mg/día y 50 mg/día tras 6 y 10 ciclos o meses respectivamente por rash grado 3. En la actualidad, la paciente ha completado 34 ciclos de tratamiento, sin nueva toxicidad relacionada descrita, enfermedad estable desde un punto de vista radiológico y excelente calidad de vida.

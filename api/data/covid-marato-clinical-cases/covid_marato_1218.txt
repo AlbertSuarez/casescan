@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 45 años natural de Portugal con antecedente de papiloma invertido en fosas nasales desde 2005, recidivante, que ha requerido reintervención quirúrgica en repetidas ocasiones (2005, 2006 y 2009). Como hábitos tóxicos destaca que había sido fumador desde los 20 años hasta los 45, con un consumo acumulado de 12 paquetes-año. No tomaba alcohol y no tenía antecedentes familiares de interés.
+En agosto de 2014 consulta en su centro de referencia por dolor retroocular. Se realiza estudio de imagen con TC y RM, que muestran una lesión de aspecto maligno en fosa nasal derecha con extensión a la órbita, seno frontal y giro recto frontal. Se le realiza una biopsia que confirma un carcinoma escamoso surgido sobre un papiloma invertido (papiloma invertido malignizado). Ante este diagnóstico, se realiza una intervención quirúrgica multidisciplinar con Otorrinolaringología, Oftalmología y Neurocirugía, con abordaje endoscópico transnasal, para resección de la lesión de fosas nasales que invade la pared medial de la órbita, el suelo de la fosa anterior que se limita a la lámina cribosa y techo de la órbita derecha y que invade además la dura de la fosa craneal anterior.
+En la primera revisión, realizada en noviembre de 2014, se realiza una PET, que muestra recidiva local y captación en varias adenopatías laterocervicales. Se realiza PAAF de adenopatías sin objetivarse células malignas. Se completa estudio con resonancia magnética, que muestra una extensa recidiva tumoral en región orbitaria derecha y etmoides posterior bilateral, observando incluso un componente nodular intracraneal probablemente intradural. Ante la recidiva precoz, se decide administrar quimiorradioterapia. Se irradia las zonas de captación del PET (parte superior de la órbita derecha extendiéndose a seno frontal) y de la RM (incluyendo componente nodular intracraneal probablemente intradural), hasta recibir una dosis total de 80,25 Gy. Se administra además quimioterapia concomitante semanal según esquema paclitaxel 50 mg/m2-cisplatino 30 mg/m2 durante un total de 5 ciclos.
+En la primera revisión tras finalizar el tratamiento, realizada en febrero de 2015, se objetiva respuesta parcial con persistencia de enfermedad extraaxial y sospecha de infiltración del parénquima cerebral del giro recto derecho. Se decide continuar tratamiento de quimioterapia con esquema TPF (docetaxel-cisplatino-5-fluorouracilo), con lo que se consigue estabilidad de la enfermedad.
+En enero de 2016, se objetiva una imagen sospechosa en radiografía de tórax. Se indicó antibiótico y se citó a las 6 semanas. En la TC de control, realizada en marzo de 2016, se objetivaron múltiples metástasis pulmonares, la mayor de 15 mm, de predominio en lado derecho. Para valorar opciones de participar en ensayo clínico se realizó estudio del VPH en el tumor, que resultó positivo para el serotipo 39 (considerado de alto riesgo oncogénico).
+Dada la ausencia de ensayos clínicos en ese momento, se inicia tratamiento con paclitaxel-cetuximab bisemanal. Después de 10 ciclos, con respuesta parcial (casi completa) de los nódulos pulmonares, se inicia cetuximab de mantenimiento.
+En la revisión realizada en septiembre de 2016 se objetiva una imagen compatible con recidiva local, que afecta a la pared medial y al techo de la órbita derecha. Se realiza biopsia en quirófano por abordaje endoscópico nasal. El resultado anatomopatológico no muestra tumor, sino tejido de granulación. Ante sospecha de radionecrosis, se decide continuar tratamiento con cetuximab, añadiendo bevacizumab. En febrero de 2017 se continúa con mantenimiento exclusivo con bevacizumab.
+En abril de 2017 se revalúa de nuevo, confirmando empeoramiento radiológico de la lesión frontoorbitaria derecha y progresión pulmonar bilateral, por lo que comienza nueva línea de tratamiento con nivolumab (3 mg/kg). Ha recibido un total de 5 ciclos hasta la fecha de redacción de este caso clínico, con buena tolerancia y estabilidad de la enfermedad.
+
+Exploración física
+Véase Anamnesis.
+
+Pruebas complementarias
+Véase Anamnesis.
+
+Diagnóstico
+Véase Anamnesis.
+
+Tratamiento
+Véase Anamnesis.
+
+Evolución
+Véase Anamnesis.

@@ -1,0 +1,32 @@
+Anamnesis
+Presentamos el caso de una mujer de 38 años sin antecedentes personales a destacar, con antecedentes familiares de padre diagnosticado de cáncer de tiroides y próstata y abuelo materno fallecido por cáncer de páncreas.
+
+Exploración física
+En julio de 2010, acude a consulta tras notarse una masa en cuadrantes superiores de la mama derecha, en RM se objetiva una masa polilobulada extensa de 8,7 x 4,6 x 5 cm en cuadrante superoexterno, con múltiples nódulos satélites, adenopatías axilares y mamaria interna homolateral. La BAG informa de carcinoma ductal infiltrante receptores hormonales (RH) +, HER-2 negativo.
+
+Pruebas complementarias
+Paciente con un ECOG performance status de 0, tras descartar enfermedad a distancia, se programa quimioterapia neoadyuvante con adriamicina 60 mg/m2 y ciclofosfamida 600 mg/m2, sin beneficio clínico tras la administración de 3 ciclos.
+
+Diagnóstico
+En octubre de 2010, se realiza mastectomía y linfadenectomía axilar derecha, presentando la Anatomía Patológica positividad difusa para sinaptofisina con expresión focal de CD57 y cromogranina, positividad para receptores de estrógenos (RE) de un 70 %, receptores de progesterona (RP) un 20 %, Ki67 menor al 5 %, HER-2 y p53 negativo junto con afectación metastásica de 3 adenopatías en el nivel 1 y de 1 adenopatía en nivel 2. El diagnóstico definitivo es de carcinoma neuroendocrino de mama derecha pT3pN2aM0.
+
+Tratamiento
+En diciembre de 2011, tras comentar el caso en sesión clínica, se decide tratamiento adyuvante con tamoxifeno 20 mg diarios asociado a acetato de goserelina 3,6 mg cada 28 días, y radioterapia sobre lecho mamario derecho y áreas ganglionares homolaterales, dosis total de 50,4 Gy. Posteriormente, se realiza reconstrucción con colocación de expansor.
+En controles sucesivos, la paciente permanece en remisión completa (RC).
+En diciembre de 2013, en una TC se objetivan adenopatías en cadena mamaria interna derecha, se completa estudio con PET/TC y Octreoscan® presentando sobreexpresión de receptores de somatostatina en esas mismas localizaciones, por lo que se inicia octreótido 30 mg cada 28 días combinado con tamoxifeno y acetato de goserelina.
+En marzo de 2014 en el siguiente control por TC, persiste enfermedad con aumento de la afectación en región de mamaria interna derecha acompañado de un incremento del Ca-15,3 a 92,8 (previo 60,4) y del CEA en 22,8 (previo 12,9). Se completa con un Octreoscan® objetivando estabilidad.
+Se decide inicio de quimioterapia según esquema paclitaxel 175 mg/m2 y carboplatino AUC-5 cada 21 días que se suspende tras sólo 2 ciclos al no experimentar respuesta y aparición de derrame pleural con resultado citológico negativo para células tumorales malignas (C2).
+Se remite a Cirugía Torácica para biopsia tipo VATS de un ganglio linfático, con resultado de tejido fibroso masivamente infiltrado por carcinoma morfológicamente compatible con origen mamario, con RE + en un 80 %, RP menor al 1 % de núcleos, Ki67 de un 5 % y HER-2 negativo.
+Con los hallazgos referidos y sin evidenciar enfermedad a otros niveles, se inició tratamiento sistémico con letrozol 2,5 mg diario más acetato de goserelina y octreótido a misma dosis ya recibidas. Se realiza anexectomía bilateral por vía laparoscópica en agosto de 2014 y se suspende el acetato de goserelina.
+En controles sucesivos presenta remisión completa continuando con octreótido más letrozol.
+Posteriormente, se administra irradiación local sobre cadena mamaria afecta con una dosis total de 50,4 Gy finalizando en febrero de 2015.
+La paciente permanece asintomática y sin datos de recidiva tumoral locorregional o a distancia, suspendiendo en junio de 2015 el octreótido manteniéndose el letrozol. Se realiza reconstrucción mamaria derecha.
+En mayo de 2016, presenta área indurada de nueva aparición en región externa de la cicatriz de mastectomía, y en junio se realiza resección de recidiva cutánea, con confirmación anatomopatológica de carcinoma neuroendocrino de mama derecha, presentando márgenes libres. Recibe irradiación local con intención complementaria con un total de 50 Gy.
+En nueva revisión se objetiva aumento de densidad de receptores de somatostatina en hueso iliaco izquierdo confirmándose por PET/TC afectación única, se trata con irradiación externa con intención radical con un total de 45 Gy, finaliza en agosto de 2016. En ese momento, se añade octreótido 30 mg y ácido zoledrónico 4 mg cada 28 días e inicia exemestano 25 mg diarios que, debido a presentar mala tolerancia y ansiedad marcada, no se pudo realizar combinación con everolimus.
+En octubre de 2016, se evidencia la aparición de nuevas lesiones óseas metastásicas en D2 y S4 sin masas de partes blandas ni signos de compresión medular decidiendo nuevamente tratamiento con radioterapia externa con intención radical sobre ambas localizaciones.
+Continua con el mismo tratamiento hasta que en control con PET/TC en abril de 2017 se objetivan lesiones hepáticas, pulmonares y óseas no captantes, pero sugestivas de origen tumoral, se realiza BAG hepática con resultado de tumor neuroendocrino de alto grado, presentando Ki67 del 52 %. Inicia quimioterapia con cisplatino 60 mg/m2 día 1 más etopósido 120 mg/m2 días 1, 2 y 3 cada 21 días por 4 ciclos, presentando progresión en la primera reevaluación.
+
+Evolución
+Según la revisión de la literatura, las respuestas a la quimioterapia, incluso tratándose como un carcinoma neuroendocrino de alto grado son escasas, y el pronóstico es pobre. Se informa a la paciente que desea anteponer su calidad de vida y se retrata con octreótido-letrozol, habiendo presentado RC en 2014, ya que probablemente sea un caso de heterogeneidad tumoral en el cuál exista componente neuroendocrino de alto y bajo grado simultáneamente.
+En cualquier caso, la paciente decide anteponer calidad de vida y no desea recibir más líneas de quimioterapia.
+Paciente en seguimiento con datos clínicos y analíticos de progresión de enfermedad tumoral, en marzo de 2018 presenta empeoramiento franco y disminución funcional, por lo que se decide ingreso en Unidad de Cuidados Paliativos para control sintomático y tratamiento de soporte hasta que fallece.

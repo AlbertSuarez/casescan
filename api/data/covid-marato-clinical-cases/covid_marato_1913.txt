@@ -1,0 +1,23 @@
+Anamnesis
+Presentamos el caso de una mujer de 36 años, diagnosticada en enero de 2017 de cáncer de mama ductal infiltrante fenotipo triple negativo (cT2N0M0 según la 7ª Edición TNM/AJCC; GIII y Ki67 98 %), con antecedentes familiares de 1º y 2º grado de cáncer de ovario, mama y endometrio, y sin otros antecedentes personales de interés más que la toma previa de anticonceptivos orales y ser madre de un hijo sano que, encontrándose en curso de tratamiento de quimioterapia neoadyuvante, consulta por quebrantamiento del estado general, síndrome febril y afectación cutánea extensa.
+Tras el diagnóstico de cáncer de mama referido, se lleva a cabo una valoración multidisciplinar donde se consensúa, dado el perfil clínico y anatomopatológico de la paciente, una estrategia de tratamiento de quimioterapia neoadyuvante planificando un total de cuatro ciclos con esquema AC (doxorrubicina 60 mg/m2 y ciclofosfamida 600 mg/m2 D1 cada 28 días) y secuencialmente cuatro ciclos de taxano, valorando adición de platino en función de los resultados del estudio genético solicitado para el diagnóstico de un probable síndrome de cáncer de mama y ovario hereditario (SCHMO) subyacente. Recibe el primer ciclo el 13/02/2017, completando el total de tratamiento con antraciclinas con excelente tolerancia y respuesta clínica, y el 8/05/2017 se pauta la primera dosis de taxano (docetaxel 100 mg/m2) con soporte de factores estimulantes de colonias de granulocitos como profilaxis primaria (G-CSF, filgrastim 30 μg por 5 días), conociéndose a posteriori la presencia de la mutación patogénica en BRCA-1; c.1687C > T (p.Gln563Ter) que confirma el diagnóstico de SCHMO.
+La paciente acude a consulta de Urgencias a las dos semanas por la aparición brusca de placas eritematoedematosas en la práctica totalidad de su superficie corporal (cabeza, tronco y extremidades), con lesiones aisladas purulentas (pústulas) y ampollosas, sin afectación de mucosas y asociando intenso prurito y repercusión leve del estado general. Se pauta tratamiento empírico inicial con antihistamínico (hidroxicina 25 mg 1 comprimido cada 24 horas) y corticoide (deflazacort 30 mg 1 comprimido cada 24 horas) por 3 días, mejorando inicialmente pero con empeoramiento franco de la clínica sistémica tras la suspensión del tratamiento, volviendo a consultar con intenso malestar general, artromialgias generalizadas y aparición última de fiebre de hasta 39ºC.
+
+Exploración física
+Febril. Afectación moderada del estado general. No hay lesiones en mucosa ocular ni oral. Lesiones eritematoedematosas sobreelevadas en placas, de distribución anular, con varias lesiones pustulosas en región pretibial izquierda y lesión adyacente en ampolla, de distribución asimétrica, y bilateral, predominante en tronco, cabeza y cuello, y en menor cuantía en extremidades.
+
+Pruebas complementarias
+En el estudio diagnóstico realizado en urgencias (26/05/2017) se aporta:
+Hemograma y bioquímica sanguínea: hemoglobina 10,9 g/dl, leucos 25.200 cel/mm3, neutrófilos 24.300 cel/mm3 (96,5 %), eosinófilos 100 cel/mm3 (0,10 %), proteína C reactiva (PCR) 55 mg/l, ferritina 140 ng/ml.
+Análisis básico de orina: proteinuria 1+ y hematuria 1+.
+Radiografía de tórax postero-anterior y lateral: sin alteraciones significativas.
+Se procede a ingreso en Oncología Médica para inicio de tratamiento de soporte y completar diagnóstico etiológico, realizándose biopsia cutánea (punch) el 27-05-2017 que informa de la presencia de un infiltrado intersticial difuso neutrofílico y eosinofílico en todo el espesor de la dermis, en ausencia de lesiones de vasculitis, siendo dichos hallazgos histológicos para el anatomopatólogo compatibles con el diagnóstico de un síndrome de Sweet.
+
+Diagnóstico
+Por tanto, sumando el cuadro clínico de la paciente a los hallazgos analíticos e histopatológicos, se establece como juicio diagnóstico principal un síndrome de Sweet o dermatosis neutrofílica aguda febril.
+
+Tratamiento
+Durante la hospitalización se inicia tratamiento intravenoso corticoide (metilprednisolona 80 mg cada 24 horas) y antihistamínico (dexclorfeniramina 2 mg cada 8 horas).
+
+Evolución
+Con un total de siete días de tratamiento intravenoso, la paciente evoluciona satisfactoriamente, quedando afebril y con mejoría rápida y objetiva de la afectación cutánea, continuando al alta con tratamiento corticoide oral en pauta descendente progresiva y con última valoración por Oncología Médica en consultas externas el 5-06-17, donde reanuda el tratamiento de quimioterapia con esquema paclitaxel 80 mg/m2 semanal y carboplatino AUC 5 día 1 cada 21 días, sin incidencias posteriores.

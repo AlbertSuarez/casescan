@@ -1,0 +1,25 @@
+Anamnesis
+Varón de 59 años, sin antecedentes personales ni familiares de interés, que acude al Servicio de Urgencias en junio de 2012 por presentar dolor y distensión abdominal asociados a vómitos de 2 semanas de evolución.
+
+Examen físico
+ECOG 1. Consciente y orientado. Normocoloreado y normohidratado. Eupneico en reposo. Auscultación cardiaca: rítmico, sin soplos. Auscultación pulmonar: murmullo vesicular conservado, sin ruidos patológicos sobreañadidos.
+Abdomen: blando y depresible, no doloroso a la palpación, sin masas ni organomegalias, no signos de irritación peritoneal, peristaltismo conservado. Extremidades inferiores: sin edemas ni signos de trombosis venosa profunda.
+Pulsos palpables y simétricos. Exploración neurológica: no hay signos de focalidad neurológica.
+
+Pruebas complementarias
+- Analítica (6/2012): todos los parámetros dentro de la normalidad.
+- TC abdómino-pélvica (6/2012): cambios inflamatorios a nivel de la FID, consistente en plastrón que incluye íleon terminal con aparente resto de estructura tubular apendicular, leve cantidad de líquido entre las asas y algunas pequeñas adenopatías en la grasa mesentérica adyacente. Se observa un cuadro suboclusivo de intestino delgado, secundario a plastrón. Marco cólico sin hallazgos. Leve cantidad de líquido libre en la pelvis. Hígado, vesícula, vía biliar, bazo, páncreas, suprarrenales, riñones y vejiga dentro de los límites normales. Espondilosis. Discreta aterosclerosis aortoiliaca.
+- Ante los hallazgos en la TC, se realiza una laparotomía exploradora con biopsia de implante peritoneal y bypass ileo-transversocólico, objetivándose suboclusión intestinal secundaria a neoformación a nivel cecal, con infiltración a sigma y carcinomatosis peritoneal múltiple (probable origen apendicular).
+- Anatomía patológica: adenocarcinoma de células caliciformes con componente mucinoso menor del 50%, epiplón con infiltración por glándulas y nidos pequeños con poca atipia. En los nidos se ven frecuentes células caliciformes.
+Cromogranina y CD 56: negativas. CK 20 y CEA: positivo.
+
+Diagnóstico
+Adenocarcinoide apendicular estadio IV por afectación peritoneal.
+
+Tratamiento
+Ante el diagnóstico de adenocarcinoide apendicular estadio IV por afectación peritoneal, el paciente es valorado en Oncología Médica. Se decide el inicio de tratamiento con quimioterapia con esquema FOLFOX 6. El paciente recibe un total de 12 ciclos, con enfermedad estable como mejor respuesta. Posteriormente continúa con 5-FU/LV por neurotoxicidad G2 secundaria a oxaliplatino.
+En mayo de 2013, ante la estabilidad radiológica mantenida y el excelente estado general del paciente, se le deriva a un centro de referencia para realización de cirugía citorreductora junto con HIPEC con mitomicina C. Las muestras obtenidas pusieron de manifiesto implantes peritoneales múltiples por adenocarcinoma mucosecretor.
+
+Evolución
+Una semana después de la intervención en la TC abdómino-pélvica de control, se objetiva una colección hidroaérea en el flanco derecho con captación del peritoneo adyacente en la proximidad de las suturas quirúrgicas compatible con una colección. Se realiza drenaje percutáneo mediante control ecográfico de la colección 10 días después.
+Tras la intervención quirúrgica, se decide iniciar seguimiento periódico en consultas externas de Oncología Médica, siendo el último control clínico y radiológico en abril de 2014, sin objetivarse recaída.

@@ -1,0 +1,22 @@
+Anamnesis
+Mujer de 40 años. Sin hábitos tóxicos. Antecedentes personales de asma bronquial intrínseco, pielonefritis de repetición.
+Intervenida de síndrome del túnel carpiano izquierdo en 2007. Consulta en agosto de 2012 por hallazgo en autoexploración de masa en mama derecha.
+
+Examen físico
+A la exploración destaca obesidad (IMC = 35 kg/m2). Masa palpable en cuadrante súpero-externo de mama izquierda de unos 3 cm de diámetro y posible nódulo adyacente. Axila clínicamente negativa. Resto de exploración dentro de los límites de la normalidad.
+
+Pruebas complementarias
+En septiembre de 2012 se realizó mamografía y ecografía bilaterales, donde se apreció un nódulo de 2,6 cm de bordes imprecisos mal definidos con adenopatías izquierdas densas probablemente patológicas (BIRADS 5).
+La biopsia de la masa objetivó un carcinoma ductal infiltrante clásico con GN II y GH II-III. El estudio de inmunohistoquímica reveló positividad para receptores hormonales (receptores de estrógenos [RE] 99 % +++/+++, receptores de progesterona [RP] 60 % +++/+++) Her-2 negativo (1+/3+), Ki-67 45 %, p53 (-), citoqueratina (CK) 19 (+), CK 5/6 (-), cadherina (+). Se realizó punción-aspiración con aguja fina (PAAF) de adenopatía axilar, que fue compatible con adenocarcinoma.
+Se realizó el estudio de extensión mediante radiografía simple de tórax, ecografía abdominal y gammagrafía ósea, que fueron normales.
+
+Diagnóstico
+Adenoarcinoma ductal infiltrante estadio clínico T2N1M0, subtipo luminal B.
+
+Tratamiento
+Tras comentar el caso clínico en Comité de Tumores Multidisciplinar de Cáncer de Mama, se inició tratamiento sistémico neoadyuvante según esquema paclitaxel, doxorrubicina y ciclofosfamida (TAC) x 6 ciclos seguidos de reevaluación clínica trisemanal y radiológica tras el tercer ciclo.
+
+Evolución
+Tras el 3.er ciclo, la paciente presenta neutropenia febril de grado 4 (G4). Previo a la administración del 4.º ciclo, se realiza reevaluación radiológica mediante ecografía y mamografía bilateral con respuesta parcial. Posteriormente, es diagnosticada en el Servicio de Urgencias de tromboembolismo pulmonar (TEP) masivo (probabilidad intermedia de TEP en la escala de Wells y un riesgo intermedio en la escala de Khorana). Se inició tratamiento temprano con heparina sódica en perfusión continua e ingreso en UCI por inestabilidad hemodinámica. Se realizó fibrinólisis química con uroquinasa seguida de trombólisis mecánica. Se implantó filtro de vena cava inferior debido a la hipotensión mantenida, continuándose el tratamiento anticoagulante con heparina sódica durante 7 días más en planta.
+Progresivamente se retiró la oxigenoterapia y se modificó anticoagulación de heparina sódica a acenocumarol (INR 2-3).
+Consecuentemente, se suspendieron los siguientes ciclos previstos y 6 semanas más tarde se realizó mastectomía y linfadenectomía derechas.

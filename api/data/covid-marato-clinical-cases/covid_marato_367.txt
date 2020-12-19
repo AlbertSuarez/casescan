@@ -1,0 +1,42 @@
+Anamnesis
+Este caso versa sobre una mujer de de 42 años, sin factores de riesgo cardiovasculares ni otros antecedentes personales o familiares de interés para el caso, que en el 2004, cuando contaba con 30 años de edad, acude a su ginecólogo por molestias inespecíficas a nivel abdominal.
+Durante una exploración ecográfica ginecológica de rutina es diagnosticada de gran quiste ovárico con sospecha de comportamiento tumoral. Se decide intervenir por laparotomía, siendo diagnosticada en el mismo acto quirúrgico de masa pancreática en cola de páncreas de unos 6cm, con bordes bien delimitados, decidiéndose en el mismo acto añadir a la ooforectomía izquierda ya planeada una pancreatectomía distal, esplenectomía y biopsias de ovario contralateral.
+El estudio de la anatomía patológica (AP en adelante) mostraba dos neoplasias síncronas con diferente perfil inmunohistoquímico:
+1) Adenocarcinoma acinar bien diferenciado de páncreas de 7.5cm encapsulado. 
++ Antigeno epitelial de membrana (EMA) positivo. Citoqueratina (CK) 8-18 débilmente positiva. 
++ Antígeno carinoembrionario (CEA), citoqueratinas (CK) 7 y 20 negativa.
+2) Cistoadenocarcinoma de ovario mucinosos bien diferenciado que no rebasa la cápsula. 
++ CEA, EMA, CK 8-18 y CK 7 postivas. 
++ CK 20 negativa.
+3) Bazo y biopsia de ovario contralateral sin hallazgos patológicos.
+
+En seguimiento posterior en consultas de oncología médica, decidiéndose no añadir tratamiento adyuvante dada la naturaleza de los tumores y su resección completa, dándose de alta por el servicio tras 7 años de seguimiento con todas las pruebas de imagen de reevaluación (mayormente tomografías axiales (TAC)) y marcadores tumorales (Ca 19.9) sin alterarse en ningún momento.
+Mantuvo seguimiento por parte del servicio de Cirugía Hepatobiliar que en 2012, como parte del seguimiento rutinario, se realiza TAC abdomen que muestra tres lesiones ocupates de espacio (LOEs) en riñón izquierdo, la mayor de ellas de 23mm, con realce heterogéneo que impresionaban radiológicamente de comportamiento tumoral. Se decide, dados los antecedentes de la paciente, ser valorado conjuntamente por el comité de tumores urológicos del hospital donde se concuerda realizar nefrectomía izquierda y comenzar valoración por parte de oncología médica según resultados del estudio de extensión y estudios anatomopatológicos.
+
+Exploración física
+Durante el proceso de diagnóstico y tratamiento de las tres LOEs renales la paciente se encontró en todo momento asintomática, con un Performance Status (PS) de cero puntos. Estable hemodinámicamente, afebril. No mostró hallazgos de interés tanto en la anamnesis por aparatos como en la exploración física.
+
+Pruebas complementarias
+- TAC con contraste de Abdomen y Pelvis (prequirúrgico). El riñón izquierdo muestra tres LOEs sólidas, redondeadas, con realce heterogéneo a nivel de polo superior (23mm), zona media (5mm) y polo inferior (17 mm), sospechosas de malignidad.
+- Estudio anatomopatológico e inmunohistoquímico de la nefrectomía izquierda: carcinoma multifocal con tres nódulos.
++ EMA, CD10, Alfa-1-antitripsina y A1AQT positivos.
++ Renal cell CA, CK20, Ck7, CK19, Cromogranina, Sinaptofisina, CEA y Vimentina negativas.
+- TAC con contraste de Tórax y Abdomen (postquirúrgico): Torax sin hallazgos. Signos de esplenectomía y pancreatectomía parcial, con nefrectomía izquierda sin cambios significativos.
+
+Diagnóstico
+El estudio inmunohistoquímico de las tres lesiones resecadas en la nefrectomía izquierda mostraba que dichas lesiones eran sospechosas de metástasis de probable orígen pancreático, teniendo positividad para ciertos marcadores de naturaleza pancreática como el EMA o la Alfa-1-antitripsina. Así mismo la negatividad para marcadores de carcinoma renal apoyaba la sospecha de dicho orígen.
+
+A pesar de todo ello los marcadores neuroendocrinos (Cromogranina, Sinaptofisina) eran negativos.
+Ello quiere decir que de tratarse de un probable orígen pancreático, el tumor primario sería de estirpe exocrina. Dichos hallazgos no corresponden con la evolución del cuadro clínico, siendo de un curso indolente y con un intervalo libre de progresión tan amplio (ILE de aproximadamente 7 años) en contra de unas tasas de supervivencia a los 5 años del 14% en neoplasias pancreáticas exocrinas estadios IA como la de nuestro paciente.
+Dada la discordancia en estos hallazgos, se decide solicitar nuevo estudio inmunohistoquímico al servicio de Anatomía Patológica de nuestro hospital, que aun conservaba el tejido de la primera intervención (pancreatectomía y ooforectomía izquierda) con el siguiente resultado:
+- Páncreas y ovario izquierdo:
++ CK19, Alfa-1-AT, Sinaptofisina y Cromogranina positivo
++ EMA, CEA, CK7-, CK-20, Renal cell carcionma y Vimentina: negativos.
+La expresión de marcadores neuroendocrinos en la neoplasia pancreática resecada así como la de marcadores exocrinos orientan la neoplasia de páncreas de orígen mixto, tratándose por tando de Adenocarcinoma Acinar Endocrino. Así mismo se sospecha que las lesiones renales son de la misma estirpe pancréatica peses a la ausencia de marcadores neuroendocrinos, no excluyéndose dicho diagnóstico dado que los mismos se pueden negativizar en las neoplasias de estirpe endocrinas evolucionadas.
+
+Tratamiento
+El Adenocarcinoma Acinar Endocrino de páncreas es una entidad rara, como se explica más tardíamente en la discusión. Dado el predominio del componente neuroendocrino en los estudios inmunohistoquímicos, el estadió localizado al diagnostico de la neoplasia primaria como de las metástasis, con bordes de resección libres, se decidió no añadir tratamiento quimioterápico adyuvante, con un seguimiento estrecho analítico y radiográfico.
+
+Evolución
+La paciente ha continuado en seguimiento por parte del servicio de oncología médica, con TACs toraco-abdominales periódicos sin hallazgos de recidiva a ningún nivel y analíticas con marcadores tumorales (mayoritariamente CA 19.9) negativos.
+Actualmente asintomática, lleva una vida totalmente normal con un PS de cero puntos, valorándose periódicamente por parte de nuestro servicio.

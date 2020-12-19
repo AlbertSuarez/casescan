@@ -1,0 +1,31 @@
+Anamnesis
+Mujer de 79 años, alérgica a penicilinas y con antecedentes de HTA, retinopatía hipertensiva y dislipidemia. Sin hábitos tóxicos de interés.
+Acude a consulta de Medicina Interna en julio de 2015 por cuadro clínico de 5 meses de evolución caracterizado por pérdida de aproximadamente 3 kg de peso, dolor en escápula derecha y masa de partes blandas en antebrazo derecho de crecimiento progresivo, de manera dolorosa.
+
+Exploración física
+» Eastern Cooperative Oncology Group Performance Status (ECOG PS): 2.
+» Cuello: adenopatía submandibular izquierda (1,5 cm). Dura. Indolora. Adherida a planos profundos.
+» Axila izquierda: adenopatía dura. Adherida a planos profundos. No móvil. Indolora.
+» Extremidad superior derecha: dolor durante la palpación de articulación acromioclavicular.
+» Marcada limitación funcional
+» Antebrazo izquierdo: tumoración de 6 x 6 cm. Móvil. Ulcerada en su superficie. Dependiente de TCS.
+
+Pruebas complementarias
+» Tomografía computarizada (TC) toracoabdominopélvica: se evidencia nódulo axilar izquierdo y metástasis hepáticas y óseas múltiples, así como metástasis suprarrenal.
+» TC de extremidad superior izquierda: confirma lesión de partes blandas en TCS del dorso del tercio distal de antebrazo izquierdo de 38 x 33 x 25 cm, con plano de clivaje a estructuras musculares.
+» Ecografía axilar + biopsia con aguja gruesa (BAG) de adenopatía axilar: linfoma folicular grado 2.
+» Por el S. Dermatología se realiza punch de lesión tumoral en antebrazo izquierdo: carcinoma anaplásico neuroendocrino compatible con carcinoma de células de Merkel.
+
+Diagnóstico
+Carcinoma de células de Merkel estadio IV por afectación hepática ósea y suprarrenal más linfoma folicular asociado.
+
+Tratamiento
+Al tratarse de un CMM metastásico, se decidió tratamiento de primera línea con quimioterapia (QT) según esquema carboplatino AUC 5 + etopósido 100 mg/m2, que inicia en noviembre de 2015.
+
+Evolución
+Una vez administrados 2 ciclos de tratamiento QT se objetiva marcada mejoría clínica con ECOG 1, disminución parcial de dolor en zona de lesión dérmica, aunque persiste la necesidad de analgesia de tercer escalón e involución significativa de la tumoración.
+Tras la administración del tercer ciclo de tratamiento, la paciente acude a consulta con empeoramiento clínico por aumento de dolor local, siendo necesaria la toma de rescates de fentanilo de acción rápida en múltiples ocasiones en el día y además se objetiva ligero aumento de tamaño de la lesión tumoral. Dada la clínica de la paciente y los hallazgos en la exploración física, se decide complementar el tratamiento QT con RT local paliativa.
+Después del tratamiento con RT Local se observa reducción significativa de la lesión tumoral sin signos inflamatorios y cierre total de ulceración previa. Además, refiere que ha dejado de utilizar rescates de fentanilo de acción rápida y que presentó mareos y episodios de confusión que mejoran con la suspensión de opioides basales y se pasa a analgesia de segundo escalón con buen control del dolor.
+En febrero de 2016 (al finalizar cuarto ciclo QT), se realiza TC toracoabdominopélvica, donde se evidencia respuesta parcial mayor a nivel ganglionar y hepático, con estabilidad a nivel óseo y suprarrenal. Además, persiste control local de la enfermedad sin evidencia de recidiva a ese nivel y buen control analgésico.
+Posteriormente al octavo ciclo de tratamiento QT se realiza nueva evaluación, donde se observa estabilización de la enfermedad a todos los niveles, manteniendo la respuesta previamente mencionada.
+En septiembre de 2016, tras un intervalo libre de progresión de 11 meses, la paciente acude a consulta con deterioro del estado general, mal control analgésico a nivel de lesión dérmica, con marcado crecimiento de la misma. En TC de reevaluación se objetiva progresión tumoral a todos los niveles, por lo que se decide iniciar tratamiento con avelumab.

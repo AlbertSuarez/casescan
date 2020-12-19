@@ -1,0 +1,29 @@
+Anamnesis
+Varón de 50 años, sin antecedentes de interés, diagnosticado en octubre de 2001 de un melanoma en el antebrazo derecho de tipo epitelioide nivel III de Clark (1,5 mm de Breslow), con ulceración, sin satelitosis. Precisó ampliación de márgenes y, tras ser diagnosticado de melanoma maligno pT2b N0 M0 (estadio IIA), recibió tratamiento adyuvante con interferón (IFN) con regular tolerancia (no toxicidad ≥ grado 3), aunque completando el tratamiento. Desde entonces está en seguimiento por Oncología Médica.
+En diciembre de 2010 se le detecta un bulto en la axila derecha. Se realiza una linfadenectomía axilar, con resultado de 3 de 5 ganglios con metástasis de melanoma. En febrero de 2011 se realiza una PET-TC que no evidencia enfermedad a distancia. En aquel momento refiere dolor mecánico en la escápula y el hombro izquierdo de nueva aparición.
+Se solicitan una gammagrafía ósea, que resulta negativa, y una TC de tórax, que observa un nódulo milimétrico inespecífico en el lóbulo medio (LM). Acude a control en septiembre de 2011.
+
+Exploración física
+Buen estado general. ECOG 1. Cicatriz de tumorectomía en el antebrazo derecho, con buen aspecto y sin signos de sospecha. Auscultación cardiorrespiratoria con tonos cardíacos rítmicos e hipoventilación en el hemitórax izquierdo. Abdomen blando y depresible, no doloroso a la palpación, y miembros inferiores sin edemas.
+
+Pruebas complementarias
+» TC de tórax (9/2011): varios nódulos en el pulmón izquierdo y uno en el LID de nueva aparición, sugestivos de metástasis, persistiendo sin cambios el nódulo del LM.
+» TC abdomen (9/2011): lesión ocupante de espacio hepática quística de 1 cm de nueva aparición.
+
+Diagnóstico
+Melanoma metastásico (T2N2M1).
+
+Tratamiento
+Vemurafenib 960 mg cada 12 horas.
+
+Evolución
+Ante la evidencia radiológica de progresión de la enfermedad se realiza estudio mutacional en muestra ganglionar con Ante la evidencia radiológica de progresión de la enfermedad, se realiza el estudio mutacional en una muestra ganglionar, con resultado positivo para la mutación en BRAFV600E, iniciando tratamiento con vemurafenib en octubre de 2011.
+Presenta muy buena tolerancia y en abril de 2013 logra una respuesta completa radiológica.
+En febrero de 2014, tras más de dos años tratamiento, en la TC de control se observa una lesión pulmonar de 13 mm en el LII que capta de manera patológica en la PET-TC (SUVmáx 4,4). Se valora en comité oncológico la opción de tratamiento local, pero es descartado.
+Tras objetivar un empeoramiento en la TC de mayo de 2014, con afectación adenopática mediastínica, aumento del nódulo pulmonar conocido (25 x 18 mm), más dos nuevos nódulos y placas pleurales múltiples, inicia tratamiento con ipilimumab en junio de 2014.
+A las dos semanas, consulta por disnea a mínimos esfuerzos de días de evolución. Se solicita radiografia de tórax, que muestra derrame pleural masivo izquierdo que precisa toracocentesis y posterior pleurodesis.
+La citología del líquido pleural es negativa para células neoplásicas y se decide continuar con ipilimumab. Sin embargo, el paciente experimenta deterioro clínico (ECOG 2), precisando aumento de la analgesia de tercer escalón con dosis de 100 mcg de fentanilo en parches y rescates con fentanilo sublingual de 200 mcg.
+En septiembre de 2014 refiere un nuevo empeoramiento de su disnea a pesar de la estabilidad del derrame en las radiografías, por lo que se solicita una nueva TC de control, que demuestra nueva progresión tumoral al aparecer nuevas masas pleurales, metástasis única suprarrenal izquierda de novo, adenopatías mediastínicas, hiliares y abdominales. LDH: 720 UI/l.
+Ante estos hallazgos se solicita el uso compasivo de pembrolizumab, que inicia en noviembre de 2014.
+Tras tres ciclos, queda asintomático, ECOG 0, y no precisa analgesia basal, solo AINE a demanda.
+Además, se constatan mejoría analítica (4/2015: LDH 146 UI/l) y radiológica, con disminución del derrame. En la actualidad sigue vivo, asintomático, LDH normal, respuesta tumoral mantenida y en tratamiento activo con pembrolizumab.

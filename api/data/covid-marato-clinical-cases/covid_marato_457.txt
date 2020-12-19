@@ -1,0 +1,21 @@
+Anamnesis
+Cuando conocemos a la paciente en nuestra consulta, comenta astenia e hiporexia progresivos con pérdida ponderal de unos 10 kg de peso. Negaba disnea u otros síntomas respiratorios. Tampoco tiene dolor abdominal o clínica digestiva. Estabilidad de la actividad de artritis reumatoide de base sin artralgias actualmente.
+
+Exploración física
+Al inicio, presentaba ECOG 1 condicionado por la astenia, pero manteniendo vida activa. Presentaba buen aspecto general con leve palidez mucocutánea. La auscultación cardiopulmonar era anodina, y la exploración abdominal no mostraba hallazgos patológicos.
+
+Pruebas complementarias
+Se realizó analítica completa dentro de la normalidad con marcadores tumorales sin alteraciones. Se completa estudio con TC body el 19 de abril de 2016 que muestra una masa pulmonar en lóbulo inferior derecho de 3,6 x 2,5 cm asociada a adenopatías mediastínicas sospechosas, lesiones focales hepáticas agrupadas en segmento 4 y adenopatías retroperitoneales.
+Dado que no era accesible la masa pulmonar por fibrobroncoscopia, se realiza punción percutánea con diagnóstico anatomopatológico de adenocarcinoma de origen pulmonar. Posteriormente, se objetiva mutación de EGFR (deleción exón 19).
+
+Diagnóstico
+Con todo ello, se establece el diagnóstico de adenocarcinoma de pulmón E. IV (cT2N2M1 hepática) EGFR mutado con deleción del exón 19.
+
+Tratamiento
+En espera de conocer el perfil mutacional, recibe un primer ciclo de carboplatino + paclitaxel + bevacizumab el 17 de mayo de 2016 con regular tolerancia (HTA grado 1, neutropenia grado 2-3, náuseas y vómitos grado 2). Se conoce posteriormente informe de Anatomía Patológica con mutación driver por lo que, tras recuperación, se cambia tratamiento a gefitinib 250 mg/día desde el 8 de junio con buena tolerancia salvo rash grado 1.
+
+Evolución
+En la primera reevaluación en septiembre de 2016, se objetiva respuesta parcial de la masa pulmonar (de 25 a 12 mm) con progresión de las lesiones hepáticas, ahora confluentes formando una gran lesión de hasta 7 x 4 cm. Dada respuesta disociada al tratamiento, se decide realizar biopsia hepática guiada por TC con diagnóstico patológico de adenocarcinoma pobremente diferenciado con inmunohistoquímica congruente con origen primario más probable en área pancreatobiliar (TTF-1 y EGFR negativo). Con estos datos, nos encontramos con alta probabilidad con dos tumores sincrónicos de inicio que se consideraron dentro de una única entidad por ser lo biológicamente más plausible dentro del diagnóstico de la neoplasia pulmonar.
+En este punto, se prioriza el tratamiento del tumor con peor pronóstico y que comprometía más la situación de la paciente, pues había deteriorado francamente el perfil hepático y se inicia tratamiento con gemcitabina + oxaliplatino (GEMOX) en noviembre de 2016.
+Presenta regular tolerancia con neuropatía sensitiva grado 1-2, emesis grado 2, neutropenia grado 4 no complicada y trombopenia grado 3 asintomática. Tras 6 ciclos, se reevalúa la respuesta con estabilidad de la lesión pulmonar y respuesta parcial mayor hepática, lo cual también se había reflejado a nivel analítico con normalización de las transaminasas.
+Dada buena respuesta se decide completar 10 ciclos de GEMOX y posterior reinicio de gefitinib con buena tolerancia y manteniendo la respuesta a nivel radiológico, clínico y analítico hasta la actualidad sin toxicidad residual limitante.

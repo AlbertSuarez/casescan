@@ -1,0 +1,20 @@
+Anamnesis
+Varón de 17 años, sin hermanos ni antecedentes personales médicos de interés. Historia familiar en rama materna de cáncer de mama a los 30 años (tías abuelas maternas) y cáncer gástrico a los 40 años (tío abuelo materno).
+En agosto de 2016, presenta cuadro de shock cardiogénico-hipovolémico de causa incierta que requirió ingreso en Unidad de Cuidados Intensivos (UCI) con soporte hemodinámica y oxigenación de membrana extracorpórea (ECMO). Una vez estabilizado, comienza estudio diagnóstico en el que se detectaron metanefrinas en orina elevadas y TC de abdomen una masa retroperitoneal junto a la cabeza pancreática (21,1 x 18,2 x 43,3 mm) con captación en PET-TC-FDG y MIBG. Ante la sospecha de TNE funcionante tipo paraganglioma, se realizó, previo bloqueo adrenérgico, punción guiada de masa retroperitoneal cuya Anatomía Patológica (AP) fue compatible con paraganglioma (Ki67 20 % y positividad difusa para crA, sinaptofisina y S-100). En septiembre de 2016, se realiza exéresis de masa abdominal, linfadenectomía interaortocava y exéresis de adenopatías periliaca y mesentérica. El resultado AP confirma el diagnóstico de paraganglioma abdominal (masa retrocava de 4,2 x 2,7 cm y retropancreática de 0,8 x 0,9 y 6,6 x 4,5 cm) sin afectación ganglionar en 6 ganglios estudiados ni metástasis a distancia. Se realizó estudio genético que detectó mutación puntual con cambio de sentido en SDH-B, consistente en cambio de guanina por adenina en el nucleótido del cDNA c.642G > A, variante de significado incierto.
+Tras intervención quirúrgica, se mantuvo en seguimiento con intervalo libre de enfermedad de 2 años y 5 meses. En enero de 2019, en encontrándose el paciente asintomático, se objetiva un aumento de metanefrinas en orina (noradrenalina 105,28 mcg/24 h, límite 0-80). Se realiza RM abdominal y PET-TC-FDG que confirma la recidiva de la enfermedad a nivel abdominal (adenopatía retroperitoneal sobre psoas izquierdo [12 mm]) y óseo (vértebras C4, D1, D11, L1, L2, pelvis y 5ª costilla derecha).
+El paciente es derivado a consultas de Oncología Médica para valoración de tratamiento.
+
+Exploración física
+Asintomático, dolor controlado, sin episodios de crisis adrenérgicas. Constantes vitales en rango normal, buen estado general, y sin hallazgos patológicos en exploración física.
+
+Pruebas complementarias
+En analítica destaca en plasma CrA 317 ng/ml (normal < 100), metanefrinas en orina normales. En Octreoscan® y gammagrafía MIBG se observa depósito patológico del trazador en hemiabdomen superior, a nivel paramedial derecho e izquierdo, tórax y pelvis, concordante con algunas de las lesiones descritas en la PET-TC-FDG.
+
+Diagnóstico
+Recidiva de paraganglioma extraadrenal de localización abdominal, funcionante, estadio IV (metástasis óseas), con mutación de significado incierto en gen SDH-B.
+
+Tratamiento
+Al confirmarse expresión de R-SS en Octreoscan®, se propone en tratamiento con PRRT (117-Lu-Dotatate), recibiendo una primera dosis en mayo de 2019.
+
+Evolución
+El paciente recibe una primera dosis de PRRT en mayo 2019, bien tolerada, sin toxicidad relevante inmediata y con intensa captación en rastreo gammagráfico a las 24 h de su administración.

@@ -1,0 +1,28 @@
+Anamnesis
+Varón de 66 años, fumador de 5 paquetes/año, ingesta enólica de 40 g de etanol/día, HTA en tratamiento farmacológico y adenomectomía prostática (2008) por HBP.
+Diagnosticado en mayo de 2012 mediante ecografía urológica, TC abdominopélvica, PET y RTU con biopsia de carcinoma microcítico de vejiga (cromogranina y sinaptofisina positivas y Ki67 50 %) T3N2M0. Se propone QRT radical basada en carboplatino-etopósido junto con RT (60 Gy). Completa 6 ciclos entre mayo y septiembre de 2012 con respuesta completa radiológica y por PET.
+En diciembre de 2012 ingresa para estudio por cuadro de 2 semanas de evolución de desorientación, pérdida de memoria, inestabilidad, cefalea y alteración del comportamiento con agresividad.
+
+Examen físico
+ECOG 3. Lenguaje espontáneo prácticamente nulo, intoxicación con órdenes semicomplejas, desorientación en tiempo y circunstancia. Resto, normal.
+
+Pruebas complementarias
+Hemograma y perfil Bbioquímico (con calcio, magnesio, hormonas tiroideas, vit. B12 y ác. fólico): normales.
+Serología VIH, hepatitis y sífilis: negativos.
+TC craneal: normal.
+Bioquímica del LCR: glucosa 13 mg/dl, hematíes 1687 U/l, células 65 U/l y proteínas totales 817 mg/dl.
+Estudio inmunocitológico del LCR: negativo.
+TC corporal: sin enfermedad a distancia.
+RM cerebral: incremento de señal en el espacio subaracnoideo a nivel de la cisura interhemisférica anterior, en surcos de convexidad frontal izquierda, valles silvianos, entre las folias cerebelosas, en superficie del tronco cerebral, unión bulbomedular y en trayecto de V,VII, VIII pares craneales, compatible con carcinomatosis leptomeníngea.
+Citología del LCR: células atípicas sugestivas de carcinoma microcítico.
+
+Diagnóstico
+Carcinoma microcítico de vejiga T3N2M0.
+Carcinomatosis leptomeníngea.
+
+Tratamiento
+Tratamiento esteroideo a altas dosis, a pesar de lo cual se constata un deterioro progresivo neurológico, no tributario de tratamiento activo por ECOG e ILE menor a 3 meses, procediéndose a la sedoanalgesia.
+
+Evolución
+Fallece en las siguientes 24 horas. Se solicita y concede la necropsia.
+El estudio necrópsico confirma la infiltración del parénquima troncoencefálico, cerebelo, tejido perihipofisario y muestra una afectación masiva meníngea por carcinoma de células pequeñas de vejiga, sin afectación en ningún otro órgano.

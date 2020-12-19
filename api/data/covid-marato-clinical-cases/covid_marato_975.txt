@@ -1,0 +1,20 @@
+Anamnesis
+Mujer de 45 años con antecedentes de exfumadora desde hace 2 años con un IPA de 25 paquetes-año, y con antecedentes quirúrgicos de fractura quística de astrágalo derecho que precisó múltiples intervenciones. Se palpa una masa cervical derecha en mayo del 2018 que había ido creciendo de forma progresiva en los dos últimos meses por lo que acude a su médico de Atención Primaria y, ante ausencia de mejoría tras antibioterapia, se decide derivar a Hematología para completar estudios.
+
+Exploración física
+ECOG 0. Consciente, orientada y colaboradora. Bien hidratada, normocoloreada, normoperfundida.
+Nódulo cervical derecho de < 2 cm en el nivel II y adherido a planos profundos. Resto del examen físico dentro de la normalidad.
+
+Pruebas complementarias
+Se realiza una ecografía cervical (7/8/2018) que describe, en la región laterocervical derecha superior, cuatro nódulos de aspecto ecográfico sólido, compatibles con adenopatías patológicas con un tamaño de 13 x 20 x 16 mm, la mayor de ellas, y 4 x 10 x 14 mm la menor. Ante estos hallazgos se remite a Otorrinolaringología quienes realizan una nasofibroscopia que describe una lesión sobreelevada de 1cm en parte posterior de la banda ventricular derecha, realizándose el día 22/8/218 una microcirugía laríngea diagnóstica con toma de biopsia con resultado de carcinoma indiferenciado de célula pequeña infiltrante con una inmunohistoquímica positiva para CK8, CD56 y sinaptofisina, positivo parcialmente para cromogranina, TTF-1 y CD45 negativo y un ki67 del 85%. Se completa estudio con TC cervical (13/8/2018) y TC torácica (13/8/2018) que describe un engrosamiento focal e hipercaptación de la mucosa del margen anterior de la banda ventricular derecha de 6 x 3 mm y un conglomerado adenopático en área laterocervical II derecha de 14 x 21 mm en su eje mayor.
+
+Diagnóstico
+Por lo tanto, es diagnosticada de un carcinoma neuroendocrino de células pequeñas (microcítico) de laringe (banda ventricular derecha) T1 N2 M0, estadio IVa (AJCC 8th edition).
+
+Tratamiento
+Ante ausencia de enfermedad a distancia se decide realizar el 1/10/2018 una laringectomía parcial con láser CO2 y vaciamiento funcional derecho sin incidencias en el postoperatorio y con resultado de anatomía patológica: carcinoma neuroendocrino de células pequeñas (microcítico) con ulceración superficial de la mucosa: 6 mm de extensión y 2 mm de profundidad (medidos sobre preparación histológica): pT1 con permeación vásculo-linfática y sin identificarse permeación perineural con bordes libres. El resultado del vaciamiento ganglionar es de metástasis en cuatro de diecinueve ganglios examinados (4/2019) por Carcinoma neuroendocrino de células pequeñas (microcítico) sin extensión extranodal: pN2b.
+Se completa tratamiento con quimioterapia basada en cisplatino trisemanal a dosis de 100 mg/m2 durante 4 ciclos concomitante con radioterapia externa con un total de 60 Gy en 30 sesiones a 2 Gy/sesión.
+
+Evolución
+Presenta como toxicidades más relevantes diarrea G1, mucositis G2 con radiodermitis G1 y emesis G1 que recuperó favorablemente tras 1 mes del fin del tratamiento en febrero del 2019. Se ha realizado TC cérvico-toracoabdominal tras 8 semanas del fin del tratamiento donde no se evidencia recaída local ni sistémica.
+Mantiene revisiones periódicas en el momento actual sin toxicidad residual.

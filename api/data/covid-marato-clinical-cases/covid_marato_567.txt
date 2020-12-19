@@ -1,0 +1,37 @@
+Anamnesis
+Varón de 68 años, fumador de 20 cigarros/día y hábito enólico de 1 litro/día durante 25 años, con antecedentes familiares oncológicos de cáncer broncogénico (padre fallecido a 58 años) y tumor cerebral (madre fallecida a los 46 años), diagnosticado en febrero 2009 de carcinoma epidermoide de amigdala a raíz de cuadro de disfagia-odinofagia de 4 semanas de evolución. Es tratado mediante resección quirúrgica completa de la lesión y linfadenectomía radical con vaciamiento ganglionar derecho (Anatomía Patológica: carcinoma epidermoide de amígdala derecha T2N1M0), además de quimio-radioterapia concomitante adyuvante con cisplatino a dosis de 100 mg/m2 los días 1, 21 y 42.
+Como toxicidad presenta mucositis grado IV, importante odinofagia de difícil control, muguet oral y desnutrición calórico-proteica con pérdida de 24 kg de peso desde inicio de tratamiento oncológico.
+Por otra parte presenta dolor crónico en región cervical tras la realización del vaciamiento cervical bilateral por posible lesión del nervio espinal derecho, es de características mecánicas y se irradia al hombro dificultando la elevación del mismo, por lo que precisa tratamiento y seguimiento por la Unidad del Dolor y el servicio de Rehabilitación.
+Se mantiene en revisiones periódicas por el servicio de Oncología y Cirugía Maxilofacial, sin evidencia de recidiva de su enfermedad neoplásica, hasta mayo del 2015 donde se evidencia nódulo pulmonar en lóbulo superior derecho (LSD) en tomografía axial computarizada (TAC) de control, por lo que se solicita tomografía por emisión de positrones (PET) en el que se describe lesión pseudonodular en ápex pulmonar derecho con SUV max. de 2.1 y lesión esofágica con SUV max. de 3.2, por lo que se amplia estudio.
+
+Exploración física
+Consciente y orientado. Delgadez. Eupneico en reposo. Normohidratado y normocoloreado. ECOG 0-1.
+Cabeza y cuello: no adenopatías palpables. PVY normal.
+Tórax: AC: rítmico sin soplos. AP: MVC con crepitantes gruesos bibasales.
+Abdomen, extremidades inferiores y exploración neurológica sin hallazgos.
+
+Pruebas complementarias
+ANALÍTICA: No alteraciones hematológicas, bioquímicas relevantes. Marcadores tumorales normales.
+TAC TORACOABDOMINOPELVICO con civ: No se visualizan adenopatías mediastínicas, hiliares, ni axilares de tamaño patológico. En parénquima pulmonar persiste sin cambios significativos la opacidad densidad vidrio deslustrado y consolidación pseudonodular de 21x15mm en segmento apical de LSD, asociada a bronquioloectasias por tracción. Dada su estabilidad, la lesión impresiona de residual (¿fibrosis post-RT?). Resto del parénquima pulmonar sin hallazgos patológicos. No se objetiva derrame pleural. Resto del estudio toraco-abdominopélvico sin hallazgos patológicos.
+PET/TAC: Se observa lesión pseudonodular en el ápex pulmonar derecho con discreta detectabilidad metabólica (SUV máx 2.1) con un diámetro aprox de 23.6x18.9x26mm. Los hallazgos del ápex derecho pudieran estar en relación con proceso infecto-inflamatorio en resolución, no obstante no pueden descartarse otras etiologías. Se observa una formación adenopática de aprox 1 cm de diámetro menor localizada paratraqueal derecha alta, con un SUV máx de 2, que impresiona de la misma etiología. Se evidencia un aumento focal de la actividad metabólica en esófago, en región medio-distal a la altura de D6-D7, con un SUV máx de 3.2. CONCLUSIÓN: Hallazgos en ápex pulmonar derecho y adenopatía paratraqueal derecha, metabólicamente sospechosos de malignidad, si bien, no se puede descartar proceso infectoinflamatorio. Hallazgos en esófago de la que se recomienda valoración clínica.
+GASTROSCOPIA: Esófago: A unos 30 cm se observa una tumoración mamelonada de unos 4cm, deprimida en el centro, de aspecto maligno del que se toman biopsias. Hernia hiatal. Estómago: Cuerpo, gastritis eritematosa. Antro, mucosa eritematosa con pliegue prepilórico engrosado.
+ANATOMÍA PATOLÓGICA: Biopsia de esófago: Carcinoma epidermoide pobremente diferenciado.
+ECOENDOSCOPIA: En tercio medio esofágico (30 cm de arcada dentaria) se visualiza lesión mamelonada de unos 4 cm. Ecograficamente corresponde a engrosamiento parietal hipoecogénico, con perdida de estructura en capas una (7 mm), que ocupa un tercio de la circunferencia esofágica.
+Presenta un borde externo regular sin signos de afectación de la la adventicia (estadio T2).
+Inmediatamente perilesional adenopatía redondeada de 10x18mm y centro necrótico, de aspecto maligno. No existe líquido libre regional. Resumen diagnóstico: Neoplasia en esofago medio. Estadio T2. Adenopatía perilesional. Estadio N1.
+
+Diagnóstico
+- Carcinoma epidermoide pobremente diferenciado de esófago T2N1Mx
+- Nódulo pulmonar en LSD inespecífico
+- Carcinoma epidermoide de amígdala derecha, T2N1M0, intervenido y tratado con quimio-radioterapia adyuvante en remisión completa
+
+Tratamiento
+Se comenta el caso con el servicio de Radiología y se realiza revisión de las tomografías previas objetivándose la presencia del nódulo desde el 2008, por lo que debido a su apariencia inespecífica y a su estabilidad en el tiempo se decide seguimiento radiológico estrecho. Se realiza nuevos TAC de control en julio y en octubre del 2015 sin presentar cambios en dicha lesión.
+Se inicia tratamiento con intención radical con quimioterapia (carboplatino AUC 2 y paclitaxel 60 mg/m2 semanal) más radioterapia concomitante (recibe 25 sesiones con dosis total de 5000 Gy, 200 cGy por sesión), que se administra entre noviembre 2015 y enero 2016.
+Como complicaciones presenta dificultad ocasional para la deglusión y sepsis de origen respiratorio sin aislamiento microbiológico que precisa de ingreso hospitalario.
+
+Evolución
+A las 6-8 semanas de haber finalizado el tratamiento oncológico se realiza TAC de reevaluación donde se observa aumento de la consolidación pseudonodular en LSD con persistencia de la opacidad en vidrio deslustrado (imágenes 3 y 4). Se realiza punción-aspiración por aguja fina (PAAF) guiado por TAC de la lesión, siendo la anatomía patológica positiva para células malignas con material constituido por grupos tridimensionales atípicos con nucleólo, compatible con adenocarcinoma. En la inmunohistoquímica las células son positivas para CK7 y negativas para p63, por lo que sugiere origen pulmonar.
+Se realiza PET/TAC que describe respuesta metabólica completa de la lesión esofágica conocida, estabilidad metabólica de la lesión en el ápex pulmonar derecho, sin cambios en su tamaño y adenopatía prevascular (SUV máx. 2.0) y en mediastino superior.
+Ante estos resultados se completa estudio con broncoscopia y pruebas de función respiratoria y se realiza canalización al servicio de Cirugía Torácica del Hospital Puerta de Hierro de Madrid para valoración quirúrgica.
+Actualmente pendiente de decisión terapéutica definitiva.

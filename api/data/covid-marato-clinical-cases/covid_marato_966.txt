@@ -1,0 +1,66 @@
+Anamnesis
+Paciente de 72 años. Que en revisión de consulta se objetiva hiperbilirrubinemia y deterioro clínico por astenia.
+
+Como antecedentes de interés presenta intolerancia a la lactosa sin alergias conocidas. Hipertensión arterial en tratamiento médico desde los 50 años. Presentó 1 año antes un TEP (Tromboembolismo pulmonar) a nivel de arteria pulmonar derecha, en língula y lóbulo inferior izquierdo, en abril de 2015, con trombosis venosa profunda en vena poplítea derecha. Mantenia tratamiento anticoagulante con Bemiparina (Hibor) que ha suspendiendo recientemente por hematemesis. Estudiado ANA Positivo. ANCA y antiDNA negativos.
+Oncocitoma renal izquierdo con 46 años tratado con nefrectomía parcial y suprarrenalectomía izquierdas.
+Síndrome prostático en tratamiento con Dutasterida. PSA en marzo de 2015: 2,8 ng/ml.
+Otros: Glaucoma en tratamiento. Colon irritable desde los 30 años con episodios mensuales de diarrea.
+No presenta antecedentes familiares de interés y de la medicación que tomaba constaba: Atenolol 50 mg. Pantoprazol 40 mg. Primperan desde hace 48 horas. Paracetamol si dolor. Bemiparina 10000 UI.
+
+Historia oncológica
+Diagnosticado en abril de 2015 de adenocarcinoma gástrico con infiltración de la mucosa esofágica, sin amplificación del gen HER2 por técnica de FISH. El estudio de extensión con TAC torácico - abdominal mostraba adenopatías locorregionales, retroperitoneales y mediastínicas, metástasis hepáticas bilaterales, un tromboembolismo pulmonar bilateral y un nódulo tiroideo derecho.
+
+A finales deabril de 2015 inició quimioterapia con pauta FLOT (triple terapia para intentar disminuir carga tumoral en paciente sintomático con mucha carga tumoral, esquema con Docetaxel+Oxaliplatino+Fluorouracilo) completando 8 ciclos con estabilización de la enfermedad inicial y posterior progresión.
+
+En septiembre de 2015 se objetivó progresión de la enfermedad a nivel hepático y adenopática con mínimos nódulos pulmonar de nueva aparición. Dada la expresión tumoral de CEA >30% +++ de las células, inició tratamiento dentro de ensayo clínico BP29435 con MPDL3280A 800mg+ RO 6895882 15mg (Atezolizumab + variante de Interleuquina 2). Presentó progresión tras 3 ciclos a nivel hepático y adenopático con estabilización pulmonar, por lo que inició nueva línea con esquema Mitomicina, Irinotecan, Bevacizumab. Recibió dos sesiones, el último ciclo el 21 de diciembre de 2015. En este momento continuaba con Heparina por persitencia de TVP en extremidad inferior derecha.
+
+En enero de 2016, se decidió retrasar el 3º ciclo por deterioro clínico en forma de diarrea grado 2, hiporexia y astenia grado 3. En ese momento, presentó en su ciudad un episodio de hematemesis por lo que ingresó en su centro de referencia donde se le diagnosticó de HDA (hemorragia digestiva alta) autolimitada y se le suspendió la heparina y acudió a nuestro centro donde por presentar coluria y acolia, por lo que ante la sospecha de obstrucción biliar que pudiera estar justificante en cuadro completo se decidió ingreso para completar estudios.
+
+A su llegada a planta de oncología, el paciente refería ortopnea de 2 almohadas, disnea de mínimos esfuerzos no súbita, que se achacaba inicialmente a la anemia. No fiebre ni foco, no tos ni expectoración. Disfonía de un mes de evolución con posibles atragantamientos de nueva aparición.
+Había suspendido la heparina desde hace 7 días.
+
+Exploración física
+Las constantes vitales al ingreso registradas fueron: Presión arterial de 135/89 mmHg, frecuencia cardiaca de 90 lpm, saturación de 02 del 97%. Peso 90 kg. 
+
+ECOG 2. Consciente y colaborador. Ligera palidez mucocutánea.
+
+Orofaringe sin alteraciones
+
+Auscultación cardiaca: rítmico, no ausculto soplos.
+
+Auscultación pulmonar: murmullo vesicular fisiológico.
+
+Abdomen: blando, depresible, no doloroso. Ruidos hidroaéreos presentes. No masas ni megalias.
+
+Espinopalpación vertebral y puñopercusión renal bilateral negativas.
+
+Presencia de edemas grado II sobre IV en extremidades inferiores sin signo de Homans.
+
+Exploración neurológica: pares craneales dentro de los límites de la normalidad a excepción de una parálisis facial izquierda conocida. No pérdida de fuerza ni de sensibilidad
+
+Pruebas complementarias
+ANALÍTICA
+Dímero D >20000 [VN del laboratorio: (150 - 500)]. ProBNP: 9111 pg/mL [VN del laboratorio: (0 - 194)]. Troponina: 0,08 ng/mL [VN del laboratorio: (0 - 0,035)]
+
+EAB (equilibrio arterial)
+P02 de 46,6 mmHg, ph de 7.53 y pC02 de 32 mmHg.
+
+ELECTROCARDIOGRAMA
+Ritmo sinusal, alteraciones de onda T en cara inferior y anterior, presencia de onda Q en III.
+
+ANGIO-TAC TORACOABDOMINAL
+Tromboembolismo pulmonar bilateral en ramas principales: en el lado izquierdo se extiende a ramas lobares, segmentarias y subsegmentarias del lóbulo superior, língula y, en menor medida del lóbulo inferior y en el lado derecho afecta a ramas lobares, segmentarias y subsegmentarias del lóbulo superior, lóbulo medio y lóbulo inferior.
+Afectación adenopática mediastínica y supraclavicular izquierda. Nódulos pulmonares bilaterales.
+
+Diagnóstico
+DIAGNÓSTICOS PRINCIPALES
+1. Adenocarcinoma de la unión gastroesofágica estadio IV sin amplificación de HER-2, que ha recibido 3 líneas de tratamiento quimioterápico. Recibe el segundo ciclo de Mitomicina+Irinotecán+Bevacizumab el 21 de Diciembre de 2015.
+2. Infarto pulmonar en lóbulo superior derecho secundario a TEP masivo bilateral en ramas principales, con sobrecarga de ventrículo derecho. En tratamiento anticoagulante con Hibor 10000 UI. Presencia de TVP de ambas extremidades inferiores.
+
+Tratamiento
+Se inicia tratamiento con oxigenoterapia y heparina no fraccionada en perfusión continua con monitorización estricta de las pruebas de coagulación. Tras 96 horas se pasa medicación a vía subcutánea (Bemiparina de 10000 UI).
+
+Evolución
+Ante la alta sospecha clínica y la presencia de los cambios electrocardiográficos sugestivos de sobrecarga/hipertensión pulmonar derecha , se procede a la realización de angio-TAC donde se observa signo de tromboembolismo pulmonar bilateral en ramas principales con signos de infarto pulmonar en lóbulo superior derecho.
+Tras valoración por el Departamento de Hematología se inicia perfusión de heparina no fraccionada; es mantenida 96 horas, momento en el que se inicia Bemiparina 10.000 UI. Además, al ingreso se inicia antibioterapia profiláctica con augmentine, completando 7 días.
+Se decide parar tratamiento oncológico activo y el paciente es dado de alta a los 8 días con oxigenoterapia y soporte domiciliario.

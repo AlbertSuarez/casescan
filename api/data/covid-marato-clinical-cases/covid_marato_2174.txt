@@ -1,0 +1,21 @@
+Anamnesis
+Se trata de un varón de 69 años que, como antecedentes personales de interés, presenta HTA en tratamiento con adecuado control y artritis reumatoide.
+No tiene antecedentes familiares oncológicos.
+En diciembre de 2018, consulta en el Servicio de Urgencias por dolor abdominal a nivel de FID de 48 h de evolución.
+
+Exploración física
+Presentaba un abdomen doloroso, de predominio a nivel de FID, con defensa a la palpación a este nivel y Blumberg +. No se objetivaron masas ni megalias. El resto de la exploración física se encontraba dentro de la normalidad.
+
+Pruebas complementarias
+Se realizó analítica de urgencia en la que sólo destacaba la presencia de leucocitosis con neutrofilia y elevación de reactantes de fase aguda. Se completó el estudio mediante ecografía, que confirmaba la sospecha clínica de apendicitis.
+
+Diagnóstico
+Ante la sospecha de apendicitis, fue sometido a apendicectomía de urgencia. La Anatomía Patológica de la pieza quirúrgica fue compatible con tumor carcinoide de células caliciformes, localizado a nivel de tercio proximal del apéndice, el tumor alcanzaba el margen quirúrgico proximal, infiltraba la pared y sobrepasaba la capa muscular propia (pT3 en la muestra), no se objetivó invasión vasculolinfática ni perineural (IHQ: CK20 +, CDX2+, cromogranina +, sinaptofisina no valorable, CD56+).
+
+Tratamiento
+Ante los hallazgos anatomopatológicos, se realizó un estudio de extensión mediante TC-TAP en el que no se evidenció enfermedad a otros niveles, y fue sometido a una hemicolectomía derecha programada. La histología no demostró la presencia de infiltración neoplásica en la pieza quirúrgica (pT3pN0).
+Presentó una recuperación favorable tras la cirugía y fue remitido a nuestra consulta. El paciente mostró un Eastern Cooperative Oncology Group (ECOG) de 1.
+Tras revisión de la literatura, y tras valoración del caso en sesión clínica, dada la agresividad de este subtipo tumoral y siendo un estadio II, se decidió extrapolar el tratamiento al del adenocarcinoma de colon. El paciente inicio de tratamiento quimioterápico con capecitabina (el oxaliplatino no fue considerado en este caso dado el antecedente de artritis reumatoide y su potencial toxicidad) que mantiene en la actualidad.
+
+Evolución
+El paciente se mantiene actualmente en tratamiento sin evidencia de enfermedad y con adecuada tolerancia.

@@ -1,0 +1,41 @@
+Anamnesis
+
+Antecedentes personales
+Mujer de 63 años, sin alergias medicamentosas conocidas, farmacéutica de profesión. No tiene hábitos tóxicos. Antecedentes personales: dislipemia en tratamiento farmacológico desde 2017. Tratamiento crónico: rosuvastatina 10 mg 0-0-1, denosumab 60 mg 1/mes, calcio/colecalciferol 600 mg/1.000 UI
+1-0-0 y lormetazepam 0-0-1.
+
+Historia Oncológica
+Diagnosticada en diciembre de 2016 por dolor y distensión abdominal, de un carcinoma seroso de alto grado de ovario estadio IIIC que se trató con quimioterapia neoadyuvante con carboplatino-paclitaxel. Tras cuatro ciclos de tratamiento, respuesta parcial radiológica por criterios RECIST.
+En mayo de 2017, fue intervenida quirúrgicamente realizándose la cirugía de intervalo consistente en cirugía R0, con PCI (peritoneal cáncer índex) de 4. Posteriormente, completó 2 ciclos más de quimioterapia adyuvante que finalizó en julio de ese año.
+Durante el seguimiento, en julio de 2018, estando la paciente asintomática y con el marcador Ca125 normal, se objetivan en PET-TC de control adenopatías con captación patológica en zona retrocrural, hilio hepático, retroperitoneales e interaortocavas, de tamaño máximo 2 cm a nivel renal y SUV 16, que en una primera biopsia son negativas para malignidad.
+Ante esto, se solicita nuevo PET-TC que se realiza en octubre de 2018 persistiendo adenopatías de tamaño patológico y con incremento metabólico patológico a nivel interaortocava.
+En nueva biopsia ganglionar realizada en noviembre de 2018 positividad para carcinoma seroso de ovario de alto grado.
+
+Enfermedad actual
+Tras la realización de la segunda biopsia ganglionar, presenta clínica neurológica de rápida evolución por la que precisa de ingreso hospitalario: disartria, inestabilidad en la marcha, debilidad muscular generalizada con encamamiento secundario, alteración sensitiva, retención urinaria con dificultad para el inicio de la micción y dificultad para la deglución.
+
+Exploración física
+ECOG basal 3. Consciente y orientada en las tres esferas, receptiva, eupneica en reposo. Normocoloreada. Normohidratada. Auscultación cardiopulmonar normal y abdomen a la exploración normal.
+Exploración neurológica: funciones superiores conservadas, pupilas isocóricas normorreactivas, sin nistagmos. Pares craneales bajos normales. Lengua sin atrofia ni fasciculaciones, reflejo nauseoso preservado. En la exploración motora: tetraparesia mayor proximal y discretamente de extremidades izquierdas (deltoides 2/5, iliopsoas 3/5), reflejos miotáticos en miembros superiores exaltados.
+Miembros inferiores: presenta Hoffman izquierdo positivo con presencia de reflejos aquíleo y rotuliano derecho abolidos con presencia débil de los izquierdos. Reflejo cutaneoplantar extensor bilateral.
+Sensibilidad alterada con hipopalestesia distal y disminución artrocinética distal. La coordinación estaba alterada por parestesia que por situación de la paciente hace imposible valorar ataxia troncal, ni la marcha.
+
+Pruebas complementarias
+TC de tórax/abdomen/pelvis con contraste (16/11/2018): múltiples adenopatías descritas de características malignas de localización en hilio hepático, mesenterio anterior y retroperitoneo. Lesiones residuales hepáticas. Granulomas pulmonares.
+RM craneal (19/11/2018): RM cerebral dentro de límites normales. Sin evidencia de metástasis. RM cervical sin contraste (22/11/2018): protrusiones discales desde C3 hasta C7, sin evidencia de mielopatía ni signos de compresión radicular.
+Punción lumbar: líquido cefalorraquídeo claro y transparente, 27 leucocitos (100 % mononucleares), hematíes 0, glucosa 70, proteínas 63,2, lactato 2,3, LDH 28, ADA 6. Ac. onconeuronales (LCR) (IFI) Yo Alto, Ac. Anti-Gangliósidos IgG e IgM Negativo, IgG sérica 1.140 mg/dl, albumina sérica 33,90 g/l
+35, 00-52, 00. Albumina LCR 33,50 mg/dl 14,00-34,00. IgG LCR 7,66 mg/dl. BOC IgG LCR negativo.
+Informe de electromiografía (14/12/2018): hallazgos compatibles con signos de denervación activa y crónica, con fasciculaciones en miotomas cervicales, torácicos, lumbares y bulbar, en presencia de conducciones nerviosas sensitivas normales, siendo sugestivo de afectación generalizada de asta anterior/raíz anterior de grado moderado a grave.
+RM craneal y medular con contraste iv (20/12/2018): sin evidencia de patología metastásica intracraneal. Presencia de engrosamiento y realce meníngeo lineal en el cono medular, así como en las raíces de la cola de caballo. Abombamientos discales cervicales desde C3 hasta C7, de mayor entidad en C3/C4 y C5/C6. Conglomerados adenopáticos retroperitoneales, más evidentes a nivel de T2-L3, de probable origen metastásico.
+
+Diagnóstico
+Enfermedad de primera y segunda motoneurona de probable origen paraneoplásico. Degeneración cerebelosa con anticuerpos anti-YO positivos de origen paraneoplásico.
+
+Tratamiento
+En el alta de la Unidad de Cuidados Paliativos Domiciliarios, la paciente se va con el siguiente tratamiento: omeprazol 20 mg, una cápsula en desayuno. Domperidona 1 mg/ml una cucharada sopera antes de cada comida. Enoxaparina 40 mg, una inyección subcutánea al día. Prednisona 30 mg, un comprimido en desayuno hasta nueva orden. Lorazepam 1 mg, un comprimido antes de dormir y posteriormente si hay nerviosismo. Dieta rica en potasio (zumo, frutas, etc.), ingesta de líquidos con espesantes. Sonda vesical permanente: cough assist.
+
+Evolución
+Se trata de una paciente de 63 años diagnosticada de carcinoma seroso de ovario estadio IIIC en 2016 y que tres años después a la recidiva tumoral ganglionar, presenta un cuadro neurológico de probable origen paraneoplásico consistente en enfermedad de primera y segunda motoneurona y degeneración cerebelosa con anticuerpos onconeuronales positivos.
+En un primer momento en Urgencias y en planta se llevan a cabo las exploraciones complementarias orientadas hacia el descarte de afectación metastásica del sistema nervioso central, pero, ante los resultados negativos, se procede a realizar un estudio neurofisiológico que confirma en dos evaluaciones sucesivas una afectación de asta anterior/raíz de distribución en territorios bulbar, cervical y dorso lumbar, por lo que se realiza estudio con RM de neuroeje y, al menos, 9 citologías en tres punciones lumbares sucesivas que son negativas para células neoplásicas. En última RM se aprecia una captación de las raíces de la cola de caballo.
+El cuadro clínico, el estudio neurofisiológico y los resultados de las pruebas radiológicas y de LCR pueden ser compatibles con una enfermedad de segunda motoneurona/polirradiculitis asociada al cáncer y signos de afectación de primera motoneurona que, dada la evolución en el contexto de la recidiva tumoral y la presencia de anticuerpos anti-Yo a títulos muy altos en suero y LCR, sugieren como primera posibilidad un origen autoinmune/paraneoplásico, por lo que se optó inicialmente por tratar la causa (la recaída tumoral), administrándose el primer ciclo de quimioterapia de 1ª línea el día 7 de diciembre de 2018 con nula mejoría. En un segundo tiempo, se optó por administrar bolos de metilprednisolona e inmunoglobulinas. A pesar de todas las medidas tomadas, la paciente siguió empeorando progresivamente, permaneciendo encamada todo el tiempo y precisando de ayuda para todas las actividades básicas de la vida diaria.
+Una vez estabilizado el cuadro y con las medidas de control sintomático pertinentes (se decide dar el alta hospitalaria con posterior seguimiento por parte de la Unidad de Cuidados Paliativos Domiciliarios, siendo exitus en domicilio en abril de 2019.

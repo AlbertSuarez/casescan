@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 67 años con antecedentes personales de CCR en 1981 (estadio B-Dukes) tratado mediantehemicolectomía derecha, intervenido de artroplastia de rodilla, apendicectomía y amigdalectomía. Sin hábitos tóxicos reseñables. Diagnosticado de síndrome de Lynch con mutación patogénica en MLH-1. Realiza seguimiento por la Unidad de Consejo Genético con colonoscopia, gastroscopia, determinación de CEA, analítica general, citología urinaria y ecografía abdominal anual, siendo la última revisión en febrero 2016, con parámetros dentro de la normalidad.
+El paciente acude a Urgencias en marzo de 2017 por presentar dolor abdominal de predominio en epigastrio de intensidad moderada, irradiado en cinturón, de 1 mes de evolución, que no cede a pesar de analgesia pautada por su MAP. La analítica pone de manifiesto una elevación de la lipasa y de la proteína C reactiva. Se realiza una ecografía abdominal donde se objetiva un páncreas discretamente aumentado de tamaño, con una imagen mal definida a nivel de la cabeza y el cuello, de 25,8 x 26,8 mm de probable origen inflamatorio sin poder descartar origen infiltrativo, motivo por el que ingresa en el Servicio de Digestivo con el diagnostico de pancreatitis aguda alitiásica.
+
+Exploración física
+El paciente presentaba un Eastern Cooperative Oncology Group (ECOG) 1 y estaba hemodinámicamente estable. El abdomen era blando, depresible, doloroso en la palpación a nivel de epigastrio e hipocondrio derecho, Murphy negativo, ruidos normales, sin signos de irritación peritoneal. El resto del examen físico era completamente normal.
+
+Pruebas complementarias
+» Se realiza tomografía computarizada (TC) que identifica una extensa tumoración mal definida, de márgenes infiltrativos, de 6 x 5,8 x 4,6 cm en encrucijada biliopancreática con infiltración de placa hiliar hepática, tronco celiaco y con porta principal, que ocasiona dilatación de la vía biliar intrahepática.
+Además, presenta otra lesión de similares características en contacto con el lóbulo caudado y dudosamente dependiente del mismo de 3 cm, así como múltiples nódulos en la grasa mesentérica sugestiva de carcinomatosis peritoneal.
+» En la ecoendoscopia se confirman los hallazgos de la TC a nivel del hilio hepático y se realiza punción aspiración con aguja fina (PAAF), cuyos resultados de anatomía patológica (AP) es positivo para células malignas, adenocarcinoma.
+» Colonoscopia: explorado hasta ciego, normal.
+» Se solicita mejor caracterización histopatológica, así como determinación de IHQ de proteínas reparadoras del ADN, cuyos resultados muestran: positividad para CK19, CK 17 y negatividad para CK 20 y CDX2, apuntando como primera posibilidad a un tumor de origen pancreatobiliar. La IHQ de proteínas reparadoras MLH1, MSH2, MLH6 y PMS2 muestra expresión conservada de todas ellas.
+
+Diagnóstico
+Adenocarcinoma de origen biliar "esporádico" estadio IV en paciente con síndrome de Lynch.
+
+Tratamiento
+Se inicia tratamiento de primera línea según esquema cisplatino 25 mg/m2 y gemcitabina 1.000 mg/m2 d1, d8 cada 21 d. Presenta toxicidad gastrointestinal grado 2 y, tras primer ciclo, una trombosis venosa profunda en extremidad inferior derecha (que tratamos con heparina de bajo peso molecular).
+
+Evolución
+En mayo 2017, tras el 2º ciclo, precisa ingreso en la planta de Oncología Médica por mal control analgésico, precisando valoración por la Unidad del Dolor para la colocación de un reservorio intradural para la administración de analgesia de 3.er escalón, presentando un adecuado control analgésico.
+Así mismo, se realiza nueva biopsia, esta vez con aguja gruesa guiada por ecografía, de masas peritoneales palpables, para repetir determinación IHQ de proteínas reparadoras del DNA, ya que se esperaba que al tener un SL su tumor tuviese MSI y poder ofrecer un tratamiento de inmunoterapia; sin embargo, el resultado se repite y la muestra confirma la presencia de todas las proteínas reparadoras.
+Se realiza una TC de reevaluación tras segundo ciclo por sospecha de progresión y deterioro progresivo del estado general que muestra marcada progresión locorregional, así como a nivel de los implantes peritoneales. Tras progresión a 1ª línea, se decide iniciar tratamiento con 5-fluoracilo 3 g/m2 en perfusión continua semanal, pero, tras dos semanas de tratamiento, precisa nuevo ingreso por descompensación edemoascitica y mal control analgésico, con evolución tórpida, adoptando medidas de control sintomático. El paciente es exitus letalis en junio de 2017.

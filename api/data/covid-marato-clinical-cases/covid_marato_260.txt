@@ -1,0 +1,29 @@
+Anamnesis
+Se trata de un varón de 57 años fumador de 40 años-paquete, hipertenso bien controlado en tratamiento con un ARA-2, sin otros antecedentes médicos de interés y con un antecedente familiar de un hermano fallecido por melanoma a los 50 años.
+En octubre de 2013 se diagnostica de un melanoma cutáneo en hombro derecho que es intervenido mediante exéresis completa y realización de biopsia selectiva del ganglio centinela que resulta positiva para micrometástasis. Tras realizar la linfadenectomía y completar el estudio de extensión con PET-TC, se estadifica como T3N2M1b (estadio IV) por evidencia de metástasis pulmonares en lóbulos inferior izquierdo, medio e inferior derecho y metástasis subcutáneas múltiples (región deltoidea, poplítea izquierda, rodilla derecha y subescapular izquierda) confirmadas histológicamente. Ante ello, se solicita estudio molecular de BRAF y c-KIT con resultado nativo para ambos.
+En noviembre, inicia tratamiento de 1ª línea con temozolamida con evidencia de progresión de enfermedad tras 4 ciclos por aparición de un implante retroperitoneal y nuevas lesiones subcutáneas. Por tanto, en marzo de 2014 comienza tratamiento de 2ª línea con ipilimumab a dosis de 3 mg por kg del que recibe 4 ciclos sin ninguna toxicidad destacable. La valoración de respuesta global según los criterios de respuesta relacionados con la inmunidad (irRC) es de enfermedad estable con disminución de las lesiones pulmonares y cutáneas en un 20 %. En ese momento, se inicia seguimiento.
+En septiembre de 2014 ingresa en Oncología por estreñimiento, dificultad para el inicio de la micción y pérdida de fuerza leve en miembro inferior derecho.
+
+Exploración física
+» ECOG 2. Buen estado general. Hemodinámicamente estable.
+» Durante la exploración abdominal, destaca la presencia de globo vesical.
+» En la exploración neurológica se evidencia hipoestesia parcheada en miembro inferior izquierdo; miembro inferior derecho con pérdida de fuerza (4/5), hiperreflexia y reflejo cutáneo plantar extensor; y anestesia en región perineal con afectación de esfínteres.
+» Resto de la exploración sin hallazgos.
+
+Pruebas complementarias
+Durante el ingreso se realiza estudio de imagen con:
+» RM cerebral: se evidencian dos lesiones cerebrales frontales subcentimétricas en lóbulo frontal izquierdo y lóbulo frontal derecho, sugestivas de metástasis, ambas con discreto halo de edema. Sin otros hallazgos.
+» RM medular: se evidencia un edema intramedular que afecta a la médula dorsal con una discreta hiperintensidad de centro medular en la región posterior a soma vertebral D7 que presenta una captación nodular de contraste de unos 9 mm de diámetro mayor en su vertiente anterior derecha que, dados los antecedentes, sugiere una metástasis solitaria intramedular de melanoma.
+» TC T-A-P: aparición de nueva metástasis suprarrenal izquierda, implante mesentérico junto a asa de intestino delgado de vacío derecho y metástasis en cuerpo pancreático. Nódulo retroperitoneal, nódulos pulmonares y subcutáneo sin cambios respecto a estudio previo.
+
+Diagnóstico
+Compresión medular por metástasis intramedular a nivel de D7 asociada a progresión de enfermedad a nivel cerebral, suprarrenal, mesentérico y pancreático.
+
+Tratamiento
+Al ingreso se realiza sondaje vesical, enemas de limpieza y se inicia tratamiento médico con corticoterapia (dexametasona 4 mg/8 h) con mejoría clínica. El paciente permanece estable, sin aparición de nueva focalidad neurológica. Persiste leve disminución de fuerza en miembro inferior derecho por la que deambula con ayuda de bastón y anestesia en región perineal con afectación de esfínteres precisando sondaje vesical y laxantes para la defecación. Dada la estabilidad clínica, es dado de alta para completar tratamiento de forma ambulatoria.
+Con los hallazgos de la resonancia, en octubre de 2014 se realiza tratamiento con radioterapia externa sobre la lesión medular hasta alcanzar 25Gy en 5 fracciones de 5 Gy/fracción y radiocirugía sobre las dos lesiones cerebrales con una única dosis de 20 Gy. Tras el tratamiento, el paciente experimenta mejoría de la clínica neurológica con recuperación de la alteración esfinteriana que permite la retirada del sondaje. Como único síntoma presenta leve paresia residual en miembro inferior derecho por la que ya no precisa de apoyo para la deambulación.
+Ante la progresión de enfermedad, en noviembre de 2014 se inicia tratamiento de 3ª línea con pembrolizumab a dosis de 2 mg por kg cada 3 semanas.
+
+Evolución
+Desde la primera evaluación a las 12 semanas del inicio del tratamiento con pembrolizumab, se objetiva reducción progresiva de todas las lesiones metastásicas alcanzando respuesta completa a las 72 semanas de tratamiento, que se mantiene hasta la actualidad. En los controles con resonancia magnética a nivel cerebral y medular también se observa respuesta completa.
+Actualmente el paciente ha sobrepasado los 2 años de tratamiento y continúa sin evidencia de enfermedad. La clínica neurológica se ha resuelto por completo y presenta excelente tolerancia al tratamiento sin ningún efecto adverso destacable. En la última consulta, nos plantea hasta cuándo debemos continuar con el mismo.

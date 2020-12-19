@@ -1,0 +1,30 @@
+Anamnesis
+Mujer de 59 años, sin antecedentes médicos previos de interés. Es diagnosticada en junio de 1989 de un carcinoma lobulillar infiltrante (CLI) de mama izquierda, T2N1M0. Se realiza mastectomía radical y recibe quimioterapia adyuvante con ciclofosfamida, metotrexato y 5-fluorouracilo por 12 ciclos seguido de tamoxifeno.
+
+En 1992 se detecta recidiva a nivel de la cicatriz de la mastectomía sometida a resección quirúrgica, seguido de radioterapia (50 Gy sobre pared torácica izquierda, axila y cadena mamaria interna izquierda, 45 Gy en región supraclavicular y sobreimpresión en cicatriz) y hormonoterapia con acetato de megestrol durante 2 años. Continúa con revisiones periódicas, sin evidencia de enfermedad hasta que en noviembre-04 se detecta nueva recidiva local que fue biopsiada CLI, HER-2 positivo y RE/RP negativos, siendo remitida a nuestra consulta.
+
+Exploración física
+Buen estado general. IK 100. Destaca induración a nivel de cicatriz de mastectomía izquierda. Resto, anodino.
+
+Pruebas complementarias
+» Hemograma: leucocitos 4.100 (fórmula normal); hemoglobina 13 g/dL; plaquetas 150.000.
+» Bioquímica: parámetros dentro de la normalidad
+» CEA 2,5 ng/mL; CA-15.3 31,7 U/mL.
+» Mamografía derecha (marzo de 2004): sin hallazgos de interés
+» TC toraco-abdominal (noviembre de 2004): derrame pleural izquierdo encapsulado; adenopatías paratraqueales derechas, nódulo de 1,5 cm de diámetro en lóbulo hepático derecho y adenopatías retroperitoneales.
+
+Diagnóstico
+Recaída local, ganglionar paratraqueal, retroperitoneal y dudosa hepática por carcinoma lobulillar de mama izquierda HER-2 positivo y RE/RP negativos.
+Dolor lumbar incapacitante y resistente a AINE (diagnóstico diferencial entre enfermedad ósea metastásica vs. patología lumbar benigna).
+
+Tratamiento
+Con el diagnóstico de recaída local, ganglionar paratraqueal, retroperitoneal y dudosa hepática por CLI de mama HER-2 positivo y RE/RP negativos se inicia en diciembre de 2004 tratamiento con vinorelbina 30 mg/m2 días 1.º y 8.º junto con trastuzumab 6 mg/kg cada 21 días, con adecuada tolerancia y objetivándose respuesta parcial en la TC de reevaluación.
+
+Evolución
+En noviembre de 2006 comienza con lumbociatalgia izquierda que aumenta progresivamente de intensidad y persiste pese al tratamiento con antiinflamatorios. Ante la sospecha de afectación ósea secundaria a enfermedad oncológica, se solicita en primer lugar radiografía de columna lumbar que evidencia signos de espondilodiscitis L5-S1. Adicionalmente, se realiza una RM de columna lumbar que muestra marcada hipointensidad de los cuerpos vertebrales L5 y S1 tanto en T2 como en T1, con hiperintensidad del disco en T2 y en T1, con importante realce tras administración de contraste, sugestivo de espondilodiscitis, decidiéndose ingreso.
+
+Durante el ingreso permanece afebril, sin datos de leucocitosis, únicamente destacaba una PCR 5,8 mg/d. Se solicitan hemocultivos, serologías de Brucella y Salmonella, que resultan negativos y finalmente se decide realizar PAAF guiada por TC del disco intervertebral. El cultivo de dichas muestras mostró crecimiento de Staphilococcus coagulasa negativo, con sospecha de probable entrada cutánea por acupuntura. Se instaura tratamiento antibiótico con teicoplanina y ceftazidima durante 10 días y posteriormente con ciprofloxacino y clindamicina hasta completar 3 meses de forma ambulatoria.
+
+Tras el alta la paciente prosigue tratamiento oncológico con el esquema previo con buena respuesta, sin embargo, persiste dolor de predominio en la región sacroiliaca con EVA de 6/10 pese al tratamiento analgésico con opioide mayor y pregabalina, junto con infiltraciones L5-S1, por lo que se opta por realizar artrodesis L4-S1 con liberación postero-lateral amplia, lo que supone una llamativa mejoría clínica.
+
+Actualmente la paciente prosigue con el mismo esquema de tratamiento, manteniendo respuesta parcial.

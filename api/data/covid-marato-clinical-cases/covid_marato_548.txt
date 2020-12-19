@@ -1,0 +1,42 @@
+Anamnesis
+ANTECEDENTES PERSONALES
+Mujer de 51 años de edad que previamente había trabajado en labores de limpieza sin hábitos tóxicos (nunca fumadora). En el momento del diagnóstico, no tenía alergias conocidas a medicamentos, tampoco antecedentes médico-quirúrgico de interés ni realizaba tratamientos crónicos.
+ENFERMEDAD ACTUAL
+Consulta en el Servicio de Urgencias en febrero de 2014 por cuadro clínico de varias semanas de evolución de disnea progresiva hasta hacerse de mínimos esfuerzos y tos con esputos hemoptoicos; además de ello pérdida ponderal no cuantificada.
+
+Exploración física
+ Tensión arterial: 115/89 mm Hg; frecuencia cardiaca: 123 lpm; temperatura: 36,5 ºC; saturación O2 basal: 98 %; ECOG PS 3.
+ Consciente, orientada, taquipneica y disneica con estridor inspiratorio.
+ Tórax: corazón rítmico a 100 lpm, roncus inspiratorios fijos con predominio en hemitórax derecho y espiración alargada.
+ Abdomen: blando y depresible, no doloroso durante la palpación.
+ Extremidades inferiores: sin edemas ni datos de trombosis venosa profunda.
+
+Pruebas complementarias
+Rayos X de tórax (02/02/2014): masa hiliar derecha.
+Tomografía computarizada (TC) toracoabdominal (06/02/2014): masa de 6,8 cm en lóbulo inferior del pulmón derecho con infiltración del bronquio principal hasta la carina y tráquea distal, y que se continúa con conglomerados adenopáticos hiliares derechos, subcarinal y paratraqueales derechos, y sin plano de separación con el esófago y en contacto también con el platillo inferior de la vértebra D7. Resto de órganos toracoabdominales sin alteraciones.
+Broncoscopia (04/02/2014): tumoración a nivel de carina que protruye en cara posterior con estenosis de más del 50 % de la luz, que se biopsia; se realiza también punción-aspiración con aguja fina (PAAF) de conglomerado adenopático hiliar derecho.
+Estudio anatomo-patológico:
+ Biopsia masa carina traqueal: mucosa respiratoria con metaplasia escamosa e infiltración neoplásica por neoformación epitelial moderada/pobremente diferenciada, de hábito glandular. En el estudio inmunohistoquímico se evidencia positividad neoplásica franca para TTF-1 y CK7, moderada positividad para napsina-A y p63 mínimamente positivo y de forma muy dispersa. ALK (D5F3), CK5,6 y CK20 negativos.
+ PAAF conglomerado adenopático hiliar derecho y aspirado bronquial: Presencia de células compatibles con carcinoma pobremente diferenciado no microcítico.
+
+Diagnóstico
+Presentado el caso en el Comité Multidisciplinar de Tumores Torácicos, se diagnostica a la paciente de un adenocarcinoma de pulmón cT4 pN2 M0, estadio III B (7º Ed. TNM), irresecable.
+
+Tratamiento
+Se indica tratamiento combinado de quimioterapia (QT) y radioterapia (RT), pero la paciente ingresa con un ECOG PS 3, por lo que se desestima la concomitancia y se propone tratamiento inicial con RT torácica.
+Entre el 05 de febrero y el 20 de marzo de 2014, la paciente recibe tratamiento de RT externa sobre lesión pulmonar más márgenes hasta alcanzar una dosis total de 64 Gy con un fraccionamiento de 4 Gy/1 fracción, 6 Gy en 2 fracciones y 54 Gy en 27 fracciones; 5 fracciones/semana. Tuvo como toxicidad más destacable tos de tipo irritativo que controló adecuadamente con antitusivos. Tras su finalización, la paciente es remitida a las consultas de Oncología Médica para valoración de tratamiento QT secuencial.
+
+Evolución
+La paciente acude a las consultas de Oncología Médica el 21 de marzo de 2014 refiriendo mejoría de la disnea, encontrándose en la exploración física con un ECOG PS 1 y con disminución del murmullo vesicular en el hemitórax derecho. Evoluciona con dolor intenso en dicho hemitórax (escala visual análoga 8/10) y disnea de moderados esfuerzos por lo que se solicitó radiografía de tórax que demostró la presencia de un derrame pleural derecho que ocupaba la mitad del hemitórax con componente de atelectasia asociado. Dicho hallazgo se confirma por TC toracoabdominal, además de la presencia de un engrosamiento nodular pleural derecho y una adenopatía paratraqueal derecha alta de 9 mm de eje corto que había crecido respecto al estudio previo con una significativa disminución del tamaño de la masa del lóbulo inferior derecho, del que apenas persistía un manguito residual en torno al hilio pulmonar. No se evidenciaron otras alteraciones a nivel torácico o abdominal.
+El 13 de abril de 2014 se realizó toracocentesis derecha diagnóstico-terapéutica, obteniéndose 630 ml de líquido cetrino, con importante mejoría del dolor y de la disnea.
+- Citología del líquido pleural: abundante celularidad con frecuentes agrupaciones pseudonodulares de células atípicas con núcleos excéntricos, marcadamente agrandados, irregulares e hipercromáticos con amplio citoplasma vacuolado, junto con numerosos histiocitos, linfocitos, polimorfonucleares neutrófilos y células mesoteliales, sugestivo de adenocarcinoma.
+Revalorado el caso como adenocarcinoma de pulmón estadio IV por afectación pleural, se solicitó en biopsia inicial y en citología del líquido pleural determinación del estado de EGFR, con resultado en ambas muestras de EGFR mutado, deleción del exón 19.
+El 5 de mayo de 2014 la paciente inicia tratamiento de primera línea con intención paliativa con gefitinib 250 mg/día. Tras 3 meses de tratamiento, se objetivó en TC respuesta parcial con importante disminución de la nodularidad y del derrame pleural derecho y persistencia del tejido residual perihiliar derecho, presentando como toxicidad más destacable toxicidad cutánea facial grado 1. En los controles sucesivos se observa respuesta mantenida sin otras toxicidades destacables.
+Tras dos años de tratamiento, en TC de junio de 2016 se demuestra progresión de la enfermedad por aumento del engrosamiento nodular pleural derecho, aparición de un nuevo implante en la pleura costal derecha y de una adenopatía paraesofágica derecha, así como nuevas lesiones subcapsulares hepáticas en los segmentos 8 y 7 de hasta 5 cm.
+Se solicitó biopsia con aguja gruesa (BAG) de una de las lesiones subcapsulares hepáticas: parénquima hepático con una extensa infiltración por una celularidad de tamaño mediano con un aumento de la relación núcleo-citoplasma, con un núcleo homogéneo basófilo, y que se dispone de manera difusa. Tras la realización de técnicas de inmunohistoquímica, presentaba positividad para CD56, sinaptofisina y CK7. La muestra fue negativa para cromogranina, napsina-A y P-40. Ki-67 mayor del 80 %. Todos estos hallazgos compatibles con un tumor neuroendocrino de alto grado.
+Revisadas las piezas de anatomía patológica del tumor original y de la metástasis hepática, se confirma que corresponden a dos tipos histológicos diferentes. Se amplían estudios con sospecha de una segunda neoplasia metacrónica.
+Tomografía por emisión de positrones (PET)/TC: existencia de dos tipos de lesiones desde el punto de vista del comportamiento metabólico: las más agresivas localizadas a nivel subcapsular hepático, pleural posterior derecho y ganglionar en ligamento gastrohepático; por otro lado, las localizadas a nivel de hilio pulmonar derecho, pleura costal derecha, paratraqueal derecho alto, paraesofágico y nodulaciones epifrénicas con un comportamiento menos agresivo.
+Gammagrafía con octreótido: captaciones patológicas a nivel paratraqueal derecho e izquierdo, trayecto pleural y base pulmonar derecha, paracardiaco anterior, focales en língula e hilio izquierdo y en segmento 7 hepático.
+Ampliación estudio anatomo-patológico biopsia hepática: carcinoma neuroendocrino de alto grado.
+TTF-1 positivo; ALK negativo; presencia de deleción del exón 19 de EGFR.
+El 18 de julio de 2016, la paciente inicia tratamiento de QT según esquema carboplatino AUC-5 día 1 y etopósido 100 mg/m2 días 1, 2 y 3, cada 21 días. Debido a toxicidad, astenia grado 3 y neutropenia afebril grado 4, la paciente recibe el 2º ciclo con carboplatino en monoterapia. Después de este ciclo, ingresa por cuadro de convulsiones tónico-clónico generalizadas, demostrándose en TC cerebral la presencia de múltiples lesiones ocupantes de espacio supratentoriales sin efecto de masa. Entre el 1 y el 14 de septiembre de 2016 recibe RT holocraneal paliativa alcanzando una dosis total de 30 Gy. El 22 de septiembre de 2016 inicia tratamiento de 3ª línea con erlotinib 150 mg/día, que recibe únicamente hasta el 10 de noviembre de 2016, cuando se suspende de forma precoz por deterioro del estado general, quedando definitivamente la paciente en régimen de cuidados sintomático-paliativos, falleciendo el 25 de noviembre de 2016.

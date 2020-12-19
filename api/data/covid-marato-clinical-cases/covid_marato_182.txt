@@ -1,0 +1,21 @@
+Anamnesis
+Varón de 20 años sin alergias conocidas ni antecedentes médico-quirúrgicos de interés a quien, tras clínica de edema palpebral superior e inferior izquierdos de 6 semanas de evolución y sin signos inflamatorios ni alteraciones de la motilidad, se le realiza una TC craneal que informa de masa orbitaria, por lo que se remite para ingreso y estudio.
+
+Examen físico
+Destaca leve edema periorbitario, ptosis palpebral, ausencia de signos inflamatorios y herida de biopsia con pequeño hematoma inferior. Motilidad ocular normal. Reflejo pupilar normal, anisocoria casi imperceptible. Pares craneales conservados. Ausencia de adenopatías.
+
+Pruebas complementarias
+Bioquímica: glucosa 87 mg/dl, urea 27 mg/dl, creatinina 1,08 mg/dl, calcio 9,8 mg/dl, bilirrubina total 0,35 mg/dl, GOT 12 U/l, GPT 8 U/l, FA 72 u/l, GGT 15 U/l, LDH 114 U/l, sodio 144 mEq/l, potasio 4,4 mEq/l.
+Hemograma: Hb 14,1 g/dl, Hto 41,9 %, VCM 94,5 fl, plaquetas 267.000 u/l, leucocitos 10.300 u/l (5.510/ul neutrófilos).
+Resonancia magnética: lesión de 19 x 17 x 24 mm de localización en el techo orbitario izquierdo iso/hipointensa en T1 e hiperintensa heterogénea en T2, realce periférico grueso en el estudio postcontraste y realce dural adyacente que produce desplazamiento inferior del globo ocular y compresión de los músculos.
+Anatomía patológica: proliferación neoplásica de células de pequeño tamaño, citoplasma escaso, núcleos ovales algo reniformes, cromatina nuclear fina y nucleolos poco prominentes. Expresa de forma intensa vimentina, S-100, CD-1a, CD-4, de forma moderada CD-45 y de forma focal CD-68. Ki-67 35 %.
+PET-TC: lesión lítica en techo de órbita izquierda con SUV máximo de 4,3, de probable etiología maligna y difícil valoración debido a posible efecto de volumen parcial por incremento metabólico cerebral adyacente. Adenopatía en nivel cervical II derecho de 1,3 cm y SUV máximo de 3,6 de probable etiología inflamatoria y otra contralateral de 1 cm sin incremento metabólico.
+
+Diagnóstico
+Histiocitosis de Langerhans localizado.
+
+Tratamiento
+El día 04/09/2012 el paciente inició tratamiento con radioterapia y vinblastina 6 mg/m2/semanal x 6 semanas, prednisona 40 mg/m2/día durante 4 semanas con reducción posterior en 2 semanas y profilaxis antibiótica con trimetoprima-sulfametoxazol. Posteriormente, vinblastina 6 mg/m2 día 1 + prednisona 40 mg/m2 durante 5 días cada 21 días hasta completar 12 ciclos.
+
+Evolución
+El paciente ha presentado excelente tolerancia al tratamiento sin toxicidad. Hasta el momento ha recibido 17 ciclos de 18. En la reevaluación del día 16/05/2013 se objetiva lesión esclerótica residual en el reborde orbitario izquierdo sin captación de contraste.

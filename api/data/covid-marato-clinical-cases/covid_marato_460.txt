@@ -1,0 +1,32 @@
+Anamnesis
+Mujer de 49 años, sin alergias medicamentosas conocidas, ni antecedentes personales o familiares de interés. Historia ginecológica: menarquia a los 12 años, 2 gestaciones a término y lactancia, premenopáusica.
+En Agosto del 2012 la paciente se autopalpó dos nódulos en mama izquierda, tras realización de mamografía en la que se observan microcalcificaciones amorfas de varios focos del CSE de la mama izquierda con alta sospecha de malignidad se decidió completar el estudio mediante RMN en la que se describían: Mama Izquierda presencia de múltiples zonas de realce nodular a nivel retroareolar que se extiende por todo el cuerpo glandular hasta la pared torácica sin llegar a infiltrarla y realces nodulares múltiples irregulares en CSE el mayor de 1.4 cm (BI-RADS V); en Mama Derecha realce nodular de 1.7 cm en CSE (BI-RADS V). Se realiza BAG del nódulo izquierdo compatible con carcinoma ductal infiltrante con componente intraductal de alto grado, receptores de estrógeno (RE) débil (1-2%) y progestágeno negativo, Ki 10-15% y Her2 positivo por FISH.
+Se realiza PET-TAC donde se observa captación a nivel de mama izquierda, mama derecha de la axila izquierda, múltiples lesiones hepáticas, de cuerpo vertebral L5 y en pala izquierda.
+Ante el diagnóstico de un carcinoma de mama Her2 positivo, estadio clínico IV (metástasis hepáticas y óseas múltiples) iniciamos tratamiento de quimioterapia (QT) con doxorrubicina (60 mg/m2) más ciclofosfamida (600 mg/m2) cada 21 días por 4 ciclos, seguido de paclitaxel (80 mg/m2) semanal por 12 ciclos más trastuzumab (4 mg/kg primera dosis y 2mg/kg siguientes dosis). Excelente tolerancia al tratamiento.
+En junio 2013 el PET-TAC de reevaluación informó de respuesta completa a nivel hepático y óseo, disminución de la captación en mama izquierda. Se presenta el caso en el Comité de Tumores Ginecológicos y se decide rescate quirúrgico.
+En julio 2013 se realizó mastectomía radical modificada izquierda siendo el diagnóstico compatible con carcinoma intraductal de alto grado de 2.5 cm que contacta con el plano profundo quirúrgico, 12 ganglios linfáticos extirpados negativos. Recibe radioterapia sobre pared torácica y hueco clavicular (50Gy).
+Reinicia el tratamiento con Trastuzumab cada 21 días. Los controles radiológicos y marcadores tumorales no evidencian recidiva de enfermedad, en Julio 2014 se decide descanso terapéutico manteniendo las revisiones mensuales.
+En la revisión de noviembre del 2014 se observa la elevación de los marcadores tumorales (CEA 32 previo 5.1 y Ca 15.3 35.8 previo 26.8) se propone realizar Tc toracoabdominal pero la paciente expone que para mayor prontitud irá a Clínica Privada para realizarse pruebas complementarias.
+
+Exploración física
+Performance Status 0. Peso 50 Kg. Talla 158 cm. Superficie Corporal (SC) 1.48. No se palpaban adenopatías en los distintos niveles ganglionares. Exploración mamaria izquierda: pared torácica con cicatriz de mastectomía y linfadenectomía sin signos de recidiva, mama derecha se palpan nódulos fibrosos ya conocidos. Exploración de abdomen y miembros inferiores sin hallazgos relevantes. El resto de exploración fue normal.
+
+Pruebas complementarias
+» PET-TAC conclusión: no se evidencia captación patológica en relación a su enfermedad de base.
+Captación en vagina en probable relación con inflamación/infección.
+» RMN cerebral: el estudio muestra 3 lesiones metastásicas, 2 de ellas a nivel infratentorial en el lóbulo cerebeloso izquierdo que condicionan un descenso significativo de la amígdala cerebelosa de este lado además de una obliteración parcial del IV ventrículo y signos incipientes de hidrocefalia supratentorial. La 3ª lesión se localiza a nivel supratentorial en el lóbulo parietal derecho.
+
+Diagnóstico
+» Carcinoma ductal infiltrante de mama Her2 positivo, estadio clínico IV de inicio por metástasis hepáticas y óseas. (Respuesta completa prolongada desde mayo 2013)
+» Probable metástasis cerebrales múltiples de carcinoma de mama.
+
+Tratamiento
+» El 24/11/14 se realiza craneotomía parietal derecha y occipital izquierda con extirpación de la lesión cerebelosa, dos lesiones intratentoriales y la lesión parietal. La anatomía patológica confirma la existencia de metástasis cerebrales de carcinoma ductal infiltrante de mama, RE 80%, RP 30%, cErbB2 ++/+++.
+» Del 23/12/14 al 16/01/15 recibe radioterapia externa craneal adyuvante (51.30Gy) porque en la RMN post cirugía se observa a nivel infratentorial restos tumorales adheridos a la tienda del cerebelo.
+La RMN al finalizar este tratamiento no evidencia enfermedad residual.
+» En abril del 2015 pautamos tratamiento con Lapatinib (1250 mg/día) Capecitabina (2000 mg/m2, día 1 al 14 cada 21 días).
+
+Evolución
+La paciente desde el inicio presenta un excelente estado general y muy buena tolerancia al tratamiento, refirió un episodio de toxicidad dermatológica grado 2 que precisó reducción de dosis de Capecitabina solo un ciclo.
+En septiembre del 2015 se realiza una RMN cerebral que informa que no existen cambios en las zonas de realce en los bordes de las cavidades quirúrgicas, sin identificar en este momento lesiones nodulares que puedan sugerir recidiva; y un PET-TC en el que no se evidencia captación patológica en relación a su enfermedad de base. Los marcadores tumorales (CEA y CA 15-3) sin alteraciones patológicas.
+En el momento actual la paciente presenta respuesta completa prolongada.

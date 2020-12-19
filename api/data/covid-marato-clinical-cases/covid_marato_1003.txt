@@ -1,0 +1,38 @@
+Anamnesis
+1991: carcinoma renal células claras pTxNxM0.
+Diciembre de 2013: recidiva músculo sóleo izquierdo 10 x 13 cm en RMN, confirmado por BAG carcinoma renal células claras.
+
+Exploración física
+ECOG 0 desde el diagnóstico. Vida activa.
+
+Pruebas complementarias
+Ver imagenes
+
+Diagnóstico
+Enero 2014: M1 suprarrenal izquierdo 3,2 cm, M1 pulmonar bilateral múltiple subcentimétrica.
+
+Tratamiento
+1ª línea: pazopanib 800 mg/día 13/03/14. RTP sobre pantorrilla abril 2014. Toxicidades al pazopanib: hipertransaminasemia G3, resuelta tras suspensión una semana del tratamiento. Se reanudó a dosis plenas. TC 11/07/14 (tras 3 ciclos pazopanib): aumento de tamaño de la masa gemelar MID y nódulos pulmonares mm múltiples el mayor 1,6 cm en LII y M1 suprarrenal izquierda de 3,9 x 2,3 cm.
+2ª línea: everolimus 10 mg/día iniciado 05/08/14. RMN MID 22/9/14: edema de partes blandas en tejido celular subcutáneo con lesión en sóleo 7 cm (previa de 13 cm). TC noviembre de 2014: nódulo pulmonar nuevo parahiliar izquierdo aumento de uno de 1,3 cm (previo 1 cm) en LII, disminución y desaparición de otros nódulos pulmonares, disminución de tamaño de la M1 SR izquierda de 1,6 cm (previa de 3,5). Eco: partes blandas noviembre 2014: RP de la masa en sóleo. PET-TC 01/10/15: M1 pulmonares LII que comparadas con TC previa están aumentadas de tamaño, adenopatía hiliar izquiera con SUVmax = 8 así como la paraesofágica ipsilateral, SUVmax = 9,1. suprarrenal izquierda SUVmax = 7,3. Finalizó tratamiento 23/07/15.
+3ª línea: sunitinib 50 mg 4:2 iniciado el 09/10/15. Toxicidad: mucositis G1, EPP G1, anorexia y astenia G2. TC febrero 2016: crecimiento de la masa pulmonar LII de 4,3 cm (previa de 3) y crecimiento de la adenopatía paraesofágica izquierda de 1,9 cm (previa de 1,7) e hiliar izquierda de 2,4 cm (previo de 2), M1 SR izquierda sin cambios. Finalizó tratamiento 29/12/15.
+4ª línea: nivolumab 3 mg/kg iv cada 2 semanas. Iniciado 26/02/16 como uso compasivo.
+
+Evolución
+ Tras 5 ciclos, el paciente padece hipotiroidismo subclínico (TSH 30 mUI/l T4 normal, por lo que inicia Levotiroxina 50 mg/día el 11/5/16).
+ TC 15/6/2016 (tras 7º ciclo): RP del 42 % con disminución de adenopatías mediastínicas, nódulo pulmonar LII y masa suprarrenal izquierda.
+ 20/06/16: aumento levotiroxina a 75 mg/día por TSH > 50 mUI/l.
+ Julio 2016: artromialgias G1. TSH 32,3 mUI/l, T4 0,62 T4 0,62: Aumento levotiroxina 100 mg/día.
+ TC PS 7/9/16 (tras 13º ciclo): aparición de múltiples formaciones nodulares espiculadas de predominio periférico en ambos hemitórax con broncograma aéreo algunas, valórese posibilidad de sobreinfección, hongos (?).
+ Se contacta con UEI, se solicita galactomanano (negativo), Mantoux (negativo), FBC y se decide continuar con 14º ciclo de nivolumab administrado el 19/09/16.
+ FBC 04/11/16: negativa. Cultivo Mycobacterium negativos. Citología negativa.
+ Continua con nivolumab hasta 19 ciclos último el 13/12/16.
+ TC PS 16/12/16: progresión de las lesiones pulmonares, actualmente con patrón intersticio-alveolar periférico, bilateral, tendente a la confluencia y con broncograma.
+Neumonitis inmunorrelacionada G2
+ Suspendemos nivolumab.
+ Iniciamos metilprednisolona a 1 mg/kg (80 mg vo c/24 horas) x 15 días, con reducción a 40 mg vo c/24 horas x 15 días hasta nueva valoración clínica.
+ Consultas externas DE enero 2017: mejoría leve de la tos, pero aparición de pirosis, retención de líquidos, hiperglicemia leve, HTA, insomnio, etc. Toxicidad secundaria a corticoterapia.
+ TC 27/2/17: práctica desaparición de infiltrados pulmonares, no se objetivan metástasis pulmonares, ganglionares ni suprarrenales.
+ Acude a revisión consultas externas 07/03/17:
+ Analítica 03/03/17: creatinina 1,3 mg/dl, TSH > 46.000 mUI/L, T4
+ Control clínico y analítico con perfil tiroideo en un mes.
+ Control con TC en 2 meses.

@@ -1,0 +1,25 @@
+Anamnesis
+Mujer de 59 años, sin antecedentes de interés, que ingresa en diciembre de 2012 en Neurología por mareo rotatorio, alteración de la marcha y del equilibrio.
+Destacar de entre las pruebas realizadas, hallazgos sugestivos de enfermedad leptomeníngea cerebelosa en la resonancia magnética (RM) cerebral y en la tomografía computarizada (TC) toracoabdominal masa ovárica derecha, adenopatías ilíacas y retroperitoneales.
+Con estos hallazgos, la paciente es trasladada a Ginecología para cirugía el día 28/1/13 (histerectomía, anexectomía izquierda, omentectomía supramesocólica, hemicolectomía derecha con lavado peritoneal y exérsis de adenopatía iliaca derecha con biopsia intraoperatoria positiva para carcinoma indiferenciado).
+
+Examen físico
+Afebril y estable hemodinámicamente. Consciencia normal. Anartria. Comprensión de órdenes sencillas y respuesta a preguntas simples cerrando los ojos. Movimientos erráticos de la mirada conjugada en ambas direcciones. Tetraparesia proximal y distal con amiotrofia distal. Sensibilidad conservada.
+
+Pruebas complementarias
+Analítica: Hb 10 g/dl, Hto 29,4 %, plaquetas 773.000 y leucocitos 13.200 (N 10.900). Bioquímica, normal.
+Biopsia de útero: adenocarcinoma seroso papilar de alto grado (escasamente diferenciado) con amplias áreas de necrosis que metastatizan en adenopatías ilíacas.
+Informe de Inmunología: anticuerpos anti-Yo positivos.
+Electromiografía: reducción de las amplitudes de los potenciales motores evocados. Amplitudes de los potenciales sensitivos evocados normales. Reducción de la velocidad de conducción sensitiva del nervio mediano izquierdo.
+Ausencia de respuesta F en los nervios mediano y perineal. Ausencia de trazado voluntario tibial anterior izquierdo.
+Hallazgos congruentes con miopatía del enfermo crítico.
+
+Diagnóstico
+Cáncer de ovario estadio IIIC intervenido (enfermedad ganglionar retroperitoneal residual).
+Degeneración cerebelosa grave paraneoplásica (anticuerpos anti-Yo positivos).
+
+Tratamiento
+Una semana tras la cirugía, se inicia quimioterapia con carboplatino 175 mg/m2 IV y paclitaxel AUC6, recibiendo un total de tres ciclos con escasa mejoría clínica, por lo que posteriormente se administra metilprednisolona intravenosa (500 mg/24 h) durante 5 días consecutivos e inmunoglobulinas intravenosas (2 g/kg de peso/24 h) otros 5 días.
+
+Evolución
+A pesar del tratamiento recibido, el cuadro neurológico fue empeorando progresivamente precisando al final de su evolución ayuda para todas sus actividades habituales y alimentación por gastrostomía percutánea, siendo éxitus tres meses tras el diagnóstico inicial.

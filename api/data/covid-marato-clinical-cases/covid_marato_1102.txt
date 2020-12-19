@@ -1,0 +1,33 @@
+Anamnesis
+Mujer de 56 años fumadora activa hasta el diagnóstico, con un consumo acumulado de tabaco de 20 paquetes-año. En enero de 2016 comienza con clínica de tos con expectoración purulenta sin fiebre, ortopnea o disnea paroxística nocturna, inicialmente tratada como una infección respiratoria con broncodilatadores y antibióticos.
+Presenta mala evolución clínica con las medidas instauradas, por lo que acude a Urgencias de su hospital de referencia el 9 de febrero de 2018 por disnea intensa.
+Tras diagnóstico de SVCS secundario a gran masa suprahiliar derecha, sobreinfección respiratoria e insuficiencia respiratoria global con acidosis que precisa soporte ventilatorio, se traslada de forma urgente al Servicio de Neumología de nuestro centro para ventilación mecánica no invasiva (VMNI), estudio de la masa y tratamiento específico.
+A la mañana siguiente, se contacta con Anatomía Patológica, quienes biopsian el bloque adenopático supraclavicular, confirmándose histológicamente un carcinoma microcítico de pulmón.
+
+Exploración física
+TA 128/72 mm Hg. FC 120 lpm. Sat. O2 97 % con oxigenoterapia con VMNI con FiO2 50 %. Consciente, orientada y colaboradora. Mala perfusión periférica, con livideces y cianosis acra. Importante trabajo respiratorio, con taquipnea y utilización de musculatura accesoria. Gran adenopatía supraclavicular derecha, de consistencia pétrea, fija a planos profundos. Auscultación pulmonar con roncus dispersos y crepitantes base izquierda. Auscultación cardiaca con ruidos cardiacos rítmicos.
+Extremidades inferiores sin edemas ni signos de trombosis venosa profunda.
+
+Pruebas complementarias
+» Bioquímica: sodio, potasio, urea y creatinina normales, creatina quinasa 186 U/l, troponina I 6,1 ng/l, PCR 32,54 mg/dl.
+» Hemograma: hemoglobina 15,7 g/dl, plaquetas 252.000/mcl, leucocitos 23.000/mcl, 87 % polimorfonucleares.
+» Coagulación: tasa de protrombina 50 %.
+» Gasometría arterial basal: pO2 25,4 mm Hg, pCO2 70,7 mm Hg, SatO2 43,6 %, pH 7.287.
+» Gasometría de control con VMNI: pO2 138 mm Hg, pCO2 55,2 mm Hg, pH 7,38, exceso de bases 3,2, bicarbonato 29 mmol/l.
+» Electrocardiograma: taquicardia sinusal a 120 lpm.
+» Radiografía tórax portátil: infiltrado de aspecto alveolar en la base pulmonar izquierda, con broncograma aéreo, sugestivo de consolidación pulmonar. Masa suprahiliar derecha.
+» TC de tórax: gran masa suprahiliar derecha que infiltra las estructuras mediastínicas extendiéndose al lado contralateral y hacia la región supraclavicular, con adenopatías en rango patológico infracarinales, hiliares bilaterales y axilares derechas, todo ello sugestivo de neoplasia primaria de pulmón. Masa cavitada en el lóbulo superior derecho y nódulos pulmonares en lóbulo superior izquierdo, sugestivos de metástasis. Infiltrados de aspecto alveolar con áreas de consolidación en el lóbulo inferior izquierdo y língula, así como en el lóbulo medio, de probable origen inflamatorio-infeccioso agudo. Abundante circulación colateral en la pared costal izquierda y perivertebral, secundaria al colapso de la vena cava inferior por la masa previamente descrita.
+» Punción-aspiración con aguja fina de la lesión en región supraclavicular derecha: carcinoma de pulmón neuroendocrino de célula pequeña (carcinoma microcítico).
+
+Diagnóstico
+Síndrome de vena cava superior secundario a carcinoma microcítico de pulmón, enfermedad extensa por afectación supraclavicular que se extiende a región cervical y axilar.
+
+Tratamiento
+Tras la realización de la biopsia por parte de Anatomía Patológica, se contacta con Oncología Radioterápica, quienes administran un flash de radioterapia descompresiva 8 Gy sobre la lesión hiliar, y con Oncología Médica, quienes, tras confirmación histológica de carcinoma microcítico de pulmón, pautan primer ciclo de carboplatino 4 AUC + etopósido 80 mg/m2 (a 80 % de intensidad de dosis y evitando cisplatino ante mal estado general de la paciente), de forma urgente. Dosis total para una superficie corporal de 1,5 m2: carboplatino 500 mg iv día 1 + etopósido 120 mg iv días 1, 2 y 3.
+
+Evolución
+La paciente permanece ingresada en Neumología con progresiva mejoría del estado general y menor dependencia de la ventilación mecánica no invasiva, pudiéndose proceder a su retirada, siendo dada de alta tras 14 días de ingreso hospitalario, sin precisar oxigenoterapia domiciliaria. Durante el ingreso se realiza TC de cráneo, tórax y abdomen que muestra discreta reducción de la masa mediastínica (7 días tras la instauración del tratamiento).
+De forma ambulatoria, se realiza PET-TC que muestra afectación ganglionar metastásica local y a distancia, así como lesión retroperitoneal hipermetabólica sugestiva de metástasis.
+La paciente acude a Consultas Externas en la fecha correspondiente al segundo ciclo refiriendo disnea y tos productiva, con leucocitosis y neutrofilia en la analítica, precisando nuevamente ingreso hospitalario por insuficiencia respiratoria. Debido a la sospecha de infección respiratoria de origen nosocomial, se instaura oxigenoterapia y tratamiento antibiótico de amplio espectro. Ante la mala evolución en las horas siguientes contacta con Neumología y se decide realizar ventilación mecánica no invasiva hasta reevaluación radiológica de la enfermedad.
+Se realiza TC de tórax, abdomen y pelvis que muestra disminución del tamaño de la masa mediastínica e hiliar derecha, pero como consecuencia se aprecia necrosis con destrucción de la pared traqueal derecha, que se comunica con una cavidad aérea de 4 cm, la cual presenta fístula a una cavitación periférica de 5 cm. También se aprecia respuesta de dos nódulos pulmonares, con cavitación y presencia de nivel hidroaéreo en su interior. Aparición de consolidación del espacio aéreo con broncograma en el lóbulo inferior derecho y múltiples nódulos centrolobulillares y patrón de árbol en brote de predominio en lóbulos inferiores, compatible con un proceso infeccioso-inflamatorio asociado.
+Dado el mal pronóstico a corto plazo por las alteraciones que se presentadas en la TC y el sufrimiento físico de la paciente a pesar de las medidas instauradas, se retira VMNI y se inicia una sedación paliativa, siendo finalmente exitus.

@@ -1,0 +1,23 @@
+Anamnesis
+Varón de 56 años de edad, sin alergias medicamentosas conocidas ni hábitos tóxicos. Antecedentes de dislipemia sin tratamiento farmacológico actual e intervenido de hemorroidectomía y fístula perianal.
+
+Exploración física
+Destaca buen estado general, ECOG 0, abdomen blando, depresible, no doloroso durante la palpación. Hepatomegalia de 5 cm.
+
+Pruebas complementarias
+En diciembre 2013, a raíz de pérdida de peso de 5 kg y alteración de perfil hepático en analítica solicitada por su médico de familia (GOT 58 UI/l, GPT 62 UI/l, GGT 418 UI/l y FA 188 UI/l) junto con elevación del marcador tumoral CEA de 9,3 ng/l, se solicita ecografía abdominal donde se observan lesiones hepáticas compatibles con metástasis.
+A continuación, se realiza TC toracoabdominal que confirma numerosas lesiones hipodensas distribuidas por todo el parénquima hepático sugestivas de metástasis y un engrosamiento parietal de sigma sospechoso de tumoración primaria con mínima trabeculación de la grasa periférica. Se realiza fibrocolonoscopia donde describen a unos 45 cm del margen anal una masa sobreelevada, mamelonada y friable, que afecta a toda la circunferencia de la pared colónica y estenosa moderadamente la luz. La biopsia de la lesión de mucosa colónica resulta positiva para adenocarcinoma infiltrante, moderadamente diferenciado, RAS mutado.
+
+Diagnóstico
+Se valora como paciente de 56 años, con ECOG 0, diagnosticado de adenocarcinoma de colon sub-estenosante moderadamente diferenciado, K-ras mutado, codón 12-13, estadio IV por afectación hepática bilateral.
+
+Tratamiento
+Inicia tratamiento con quimioterapia (QT) paliativa esquema CAPOX-bevacizumab cada 21 días, capecitabina (CPC) 2.000 mg cada 12 horas y oxaliplatino 100 mg/m2, previa colocación de catéter central de inserción periférica (PICC).
+
+Evolución
+Al segundo ciclo, el paciente explica disnea de grandes esfuerzos de cinco días de evolución y taquicardia junto con aumento de diámetro del brazo donde lleva la PICC. Se solicita ecografía venosa Doppler, que objetiva trombosis de vena cefálica pericatéter. Se realiza angio-TC que confirma tromboembolismo pulmonar (TEP) bilateral de predominio derecho, indicándose inicio de anticoagulación con heparina de bajo peso molecular.
+Una vez recuperado, se prosigue con tres ciclos más de tratamiento sin bevacizumab, con neutropenia afebril grado II como toxicidad relevante. La TC de valoración de respuesta en marzo 2014 muestra respuesta minor hepática y del tumor primario, sin visualizarse TEP. El paciente continúa el tratamiento hasta realizar ocho ciclos, siendo la neurotoxicidad grado II y neutropenia afebril grado II las toxicidades a destacar. Sigue manteniendo respuesta minor hepática y estabilidad de la enfermedad del tumor primario.
+Por neurotoxicidad acumulada, reanuda tratamiento con capecitabina en monoterapia (julio 2014).
+Siendo la única afectación la hepática (confirmada por PET/TC) y estando la enfermedad estable desde el inicio del tratamiento, se propone al paciente para quimioembolización arterial transcatéter (TACE) con Drug Eluting-Beads Irinotecan (DEBIRI).
+Después del decimoquinto ciclo de capecitabina, se realiza embolización de las metástasis hepáticas mediante arteriografía hepática supraselectiva con la administración de 100 mg de irinotecan (diciembre 2014) y la segunda sesión 42 días después. En la tomografía computarizada (TC) de valoración de respuesta se objetivan múltiples imágenes pseudonodulares mal delimitadas, hipodensas distribuidas en segmentos III, IV, VII y V con disminución del tamaño respecto a estudio previo. Tras excelente evolución, sin toxicidad limitante y con enfermedad controlada, se propone, para intervención quirúrgica de la neoplasia primaria de sigma, que se realiza en junio de 2015, mediante sigmoidectomía laparoscópica y con informe patológico de adenocarcinoma de bajo grado pT2N0. continúa capecitabina-bevacizumab con enfermedad estable hepática en las siguientes valoraciones por TC. Se realizan dos nuevas sesiones de TACE con DEBIRI en febrero-marzo 2016.
+Actualmente, el paciente ha realizado 26 ciclos con enfermedad estable en última valoración, sin objetivarse nuevas lesiones ocupantes de espacio (LOES) hepáticas ni crecimiento de las ya existentes, manteniéndose asintomático y pendiente de nueva valoración de respuesta. Han pasado tres años y medio desde el diagnóstico sin fallo a primera línea de tratamiento.

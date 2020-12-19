@@ -1,0 +1,50 @@
+Anamnesis
+Varón 54 años en la actualidad, sin alergias medicamentosas conocidas, exfumador desde hace 20 años de un paquete diario, bebedor de una cerveza al día y diagnosticado de sarcoidosis pulmonar en 1995 en seguimiento por medicina interna sin tratamiento. Antecedentes familiares: hermano fallecido de hepatocarcinoma con 52 años.
+El 2 de Abril de 1997 el paciente consulta en digestivo por dolor abdominal de varios meses de evolución que aumenta en las últimas semanas. En la endoscopia digestiva alta se aprecia una masa de gran tamaño con úlcera fibrinada a nivel de curvatura mayor gástrica. La biopsia es compatible con fragmento de mucosa de tipo gástrico con adenocarcinoma.
+El 21 de abril de 1997 es intervenido apreciándose en acto quirúrgico una gran tumoración gástrica y de colon transverso, realizándose gastrectomía subtotal, colectomía transversa y linfadenectomía con extirpación del epiplón (anastomosis tipo Billroth I gástrica y termino- terminal en colon). La anatomía patológica fue compatible con adenocarcinoma de colon bien diferenciado ulcero-vegetante, perforado a estómago con la pared extensamente invadida por áreas de coloides y mucosa gástrica ulcerada. Las adenopatías, epiplón y bordes quirúrgicos estaban libres de tumor y el estudio de extensión posterior fue negativo para enfermedad a distancia.
+Tras ello, completa 12 ciclos de tratamiento de quimioterapia (QT) adyuvante con 5-fluorouracilo-leucovorín (5FU-LV) que finaliza en marzo de 1998, quedando en revisiones libre de enfermedad.
+En 2006 el paciente deja de venir a revisiones por decisión propia.
+En Julio de 2011 comienza con rectorragia ocasional sin dolor y se inicia de nuevo estudio desde digestivo.
+
+Exploración física
+El paciente presenta en ese momento buen estado general, eupneico, no ictericia de piel y mucosas, sin síndrome constitucional. ECOG 0. Auscultación: tonos ritmicos sin soplos ni extratonos. Murmullo vesicular conservado en ambos campos pulmonares. Abdomen blando y depresible, no doloroso ni signos de irritación peritoneal. Tacto rectal: no se palpa masa ni restos de sangre en el momento de la exploración.
+
+Pruebas complementarias
+» Colonoscopia: masa en sigma estenosante que no permite el paso del endoscopio.
+» Biopsia: adenocarcinoma infiltrante.
+» Estudio de extensión con TAC de tórax, abdomen y pelvis sin evidencia de metástasis.
+
+Diagnóstico
+El 28 de agosto del 2011 se interviene mediante sigmoidectomía con linfadenectomía.
+» La anatomía patológica demostró un adenocarcinoma moderadamente diferenciado que infiltraba hasta tejido adiposo incluido, con metástasis en 3 de los 18 ganglios aislados y con invasión linfovascular, correspondiente a un estadio IIIA (pT3N1).
+Durante el post-operatorio el paciente sufre un íleo obstructivo por plastrón en intestino delgado, secundario a absceso abdominal por dehiscencia anastomótica y una colitis isquémica izquierda que obliga a realizar una colectomía total e ileostomía terminal.
+» La anatomía patológica en este caso correspondía a signos de isquemia aguda y subaguda e inflamación aguda abscesificada transparietal, sin tejido tumoral ni afectación ganglionar metastásica en 35 ganglios analizados.
+
+Tratamiento
+El paciente permanece ingresado durante dos meses por complicaciones infecciosas y en Diciembre de 2011 acude a consulta para valoración clínica y terapéutica.
+» Analítica: hemograma y coagulación con parámetros dentro de la normalidad. Creatinina 1,20 mg/dl, enzimas hepáticas y bilirrubina en parámetros normales. CEA y CA 19,9 no elevados.
+» TAC de tórax, abdomen y pelvis (TAC TAP): 2 lesiones ocupantes de espacio hipovasculares altamente sospechosas de malignidad, de 2 cm en segmento 8 y de 8,6 cm x 6 cm adyacente, siendo el resto del estudio negativo. 
+» Estudio del gen RAS wild-type.
+Tras presentarse el caso en comité multidisciplinar, se decide comenzar con QT esquema FOLFOX y panitumumab. Tras tres ciclos de tratamiento se aprecia una respuesta parcial disminuyendo a 2,7 cm el tamaño de la lesión hepática.
+En abril de 2012 se realiza segmentectomía hepática siendo el postoperatorio muy favorable y sin complicaciones:
+» La anatomía patológica demostró adenocarcinoma intestinal moderadamente diferenciado con un componente mucosecretor extracelular.
+En Mayo de 2012 continúa FOLFOX sin panitumumab dos ciclos más y posteriormente 5FU sin oxaliplatino debido a neurotoxicidad grado 3, hasta completar 6 meses de tratamiento perioperatorio en Agosto de 2012.
+Comienza revisiones quedando el paciente libre de enfermedad e incluso se realiza una reconstrucción del tránsito intestinal con cierre de ileostomía sin complicaciones, que influye positivamente en la calidad de vida del paciente.
+
+Evolución
+En Marzo de 2013 acude a revisión con las siguientes pruebas complementarias:
+» TAC de TAP: lesión única de nueva aparición localizada en lóbulo inferior izquierdo (LII) de 18mm.
+Granulomas calcificados a nivel de lóbulo superior derecho (LSD) residuales. Resto de estudio sin evidencia de metástasis.
+» PET-TAC: se aprecia la lesión descrita en TAC en LII de 19 mm con SUV de 13,3 sugerente de malignidad.
+Tras presentar el caso en comité de tumores torácicos, en Abril de 2013 se realiza toracotomía con resección en cuña del nódulo.
+» La anatomía patológica demostró un adenocarcinoma con amplia necrosis, fibrosis y calcificación con inmunohistoquímica CD20+, p63-, TTF1+ focal y CDX-2+ que sugería origen intestinal primario. 6 ganglios linfáticos con antracosis ganglionar.
+De nuevo libre de enfermedad confirmada por TAC, el paciente no quiere fármacos de quimioterapia por vía intravenosa y comienza tratamiento adyuvante con capecitabina en monoterapia hasta Septiembre de 2013 (5 meses) suspendiéndose en ese momento por toxicidad palmoplantar y digestiva grado 3 y 2, respectivamente.
+En Febrero de 2014, el paciente acude a la consulta refiriendo tos ocasional con expectoración mucosa que no cede con acetilcisteína.
+» TAC de tórax: se evidencia a nivel del bronquio principal izquierdo dos formaciones polipoides localizadas en pared superior e inferior no existentes previamente, siendo el resto del estudio de TAC normal. 
+» Broncoscopia: al inicio del bronquio principal izquierdo (BPI) se aprecian cuatro implantes circunferenciales que producen estenosis de la luz siendo el resto de los bronquios lobares y el bronquio principal derecho normal.
+En Marzo de 2014 se realiza resección de los implantes y se implanta prótesis de silicona.
+» La anatomía patológica fue compatible con adenocarcinoma de carácter enteroide en los pólipos resecados.
+» Lavado bronquial negativo para malignidad.
+» Nuevo estudio de gen RAS: mutación en exón 4 del gen KRAS.
+Tras plantearse de nuevo en comité multidisciplinar, comienza tratamiento con QT adyuvante con esquema FOLFIRI en Abril de 2014 hasta Septiembre de 2014 con aceptable tolerancia.
+Desde entonces se encuentra en revisiones sin datos clínicos, analíticos y radiológicos que sugieran recidiva de la enfermedad. El paciente tiene buena calidad de vida y ocasionalmente padece infecciones respiratorias bacterianas que se tratan con antibióticos vía oral.

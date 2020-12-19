@@ -1,0 +1,36 @@
+Anamnesis
+A continuación presentamos el caso de un largo superviviente.
+
+Se trata de un paciente varón de 63 años de edad, no fumador, sin antecedentes clínicos de interés.
+Como antecedentes familiares destacar que su madre falleció de un carcinoma de pulmón.
+
+En diciembre de 2007 consultó por un hematoma subungueal de un año de evolución, no acudió previamente porque lo atribuía a la práctica del deporte. En enero de 2008 se estudió la lesión mediante biopsia, que fue compatible con melanoma lentiginoso acral ulcerado, de 4 mm, en fase vertical. Para completar el estudio, el 13 de febrero de 2008 se le realizó una PET/TC (tomografía por emisión de positrones-tomografía computarizada) donde se evidenció una captación a nivel del primer dedo del pie derecho con un SUV (standardized uptake value) máximo de 26,25 compatible con malignidad y un leve incremento de captación en un ganglio linfático a nivel inguinal derecho.
+
+El 26 de febrero de 2008 fue intervenido de exéresis del primer dedo del pie derecho y ganglio centinela inguinal con informe de melanoma de 4,3 mm con afectación del ganglio vecino al centinela. pT4 N1 M0. Estadio IIIB. Con BRAF y N RAS no mutados.
+
+El 2 de abril de 2008 se le practicó una linfadenectomía inguinal derecha con informe de linfadenitis reactiva en los siete ganglios resecados.
+
+Exploración física
+El 11 de abril de 2008 acudió a nuestro centro para una segunda opinión y continuar su tratamiento. A la exploración física el paciente presenta un fototipo III, con pelo castaño oscuro y ojos marrones.
+Presentaba un buen estado general con ECOG 0 (Eastern Cooperative Oncology Group performance status), se observaron escasos lentigos en los hombros y el tercio superior de la espalda, sin otros hallazgos de interés.
+
+Pruebas complementarias
+En las pruebas analíticas el hemograma y la bioquímica estaban en rango normal. La proteína S-100 fue de 0,02 mcg/l (normal < 0,2 mcg/l) y la LDH fue de 150 UI/l (normal de 90-225 UI/l).
+
+Diagnóstico
+Melanoma acral. pT4 N1 M0. Estadio IIIB. B RAF y N RAS no mutados.
+
+Tratamiento
+Se explicó al paciente el alto riesgo de recidiva y se propuso tratamiento adyuvante con interferón a altas dosis. Recibió la primera dosis de interferón alfa 2b (20 mU/m2sc) el 21 de abril de 2008, presentando un cuadro pseudogripal que se controló con paracetamol, sin otra toxicidad asociada al tratamiento. Toleró bien los cuatro ciclos de inducción e inició el mantenimiento con dosis del 100% cada 2 semanas; tras la primera dosis presentó una neutropenia grado 3 (900 neutrófilos), por lo que se redujo la dosis al 80%. Posteriormente, tras el tercer ciclo, se detuvo el tratamiento por toxicidad hepática grado 3, tras la recuperación de enzimas hepáticas se redujo la dosis al 50% (10 mU/m2sc).
+
+Continuó el mantenimiento con buena tolerancia hasta completar siete ciclos.
+
+Evolución
+En octubre de 2008 la TC de control evidenció una masa suprarrenal izquierda de 2,4 x 2,7 cm y una adenopatía inguinal derecha de 1,3 cm. Se completó el estudio con PET, que fue positivo para malignidad a nivel de la glándula suprarrenal izquierda, adenopatía inguinal derecha y cervical izquierda. Ante dichos hallazgos, en diciembre de 2008 inició tratamiento sistémico con dacarbazina a dosis de 1.000 mg/m2 sc con buena tolerancia. La valoración tras seis ciclos fue de remisión completa de todas las lesiones, restando la metástasis suprarrenal; se confirmó la localización única suprarrenal con una nueva PET-TC. El 22 de marzo de 2009 se resecó la metástasis suprarrenal con informe de metástasis de melanoma.
+En junio de 2009 en la TC de control se evidenciaron dos lesiones de 2 cm, una adyacente a la cápsula esplénica y otra yeyunal. Fue tratado con carboplatino a dosis de 876 mg por tres ciclos con neutropenia grado 3 tras el tercer ciclo. En la TC de valoración de respuesta se evidenció la progresión de la enfermedad a nivel de la cápsula esplénica.
+Ante la nueva progresión en septiembre de 2009 inició una nueva línea de tratamiento con taxol semanal en combinación con bevacizumab, siendo la valoración tras el tercer ciclo de respuesta disociada con desaparición de lesiones periesplénica y yeyunal y crecimiento de nódulos a nivel crural y diafragmático. La proteína S-100 que previamente estaba en rango normal estaba elevada, con valor de 0,22 mcg/l (normal < 0,2), la LDH era de 175 UI/l. Se realizó el estudio mutacional de C-KIT, que fue negativo.
+Se interpretó como progresión de la enfermedad y en diciembre de 2009, ante la buena respuesta previa a la dacarbazina, inició tratamiento con temozolamida a dosis de 150 mg/m2 sc los días 1 a 5. La valoración oncológica tras el tercer y el sexto ciclos fue de respuesta parcial, con disminución de la S-100 a 0,07 mcg/l. Tras el noveno ciclo se consiguió una estabilización de la respuesta en las pruebas radiológicas. Completó 13 ciclos.
+En la TC de control realizada en abril de 2011 se informó de progresión a nivel de la cápsula esplénica y aparición de un nódulo de 35,4 mm en el hipocondrio izquierdo.
+Ante la enfermedad progresiva en un paciente con ECOG 0 se inició tratamiento con ipilimumab a dosis de 3 mg/kg de peso (uso compasivo), recibiendo la primera el 16 de mayo de 2011; se le administraron 4 ciclos con buena tolerancia, que finalizó en julio de 2011; en la TC realizada al finalizar el tratamiento podemos observar que hay una respuesta disociada, ya que la lesión periesplénica había desaparecido, pero el nódulo en el hipocondrio izquierdo había crecido. Tras 24 semanas de tratamiento con ipilimumab se realizó una nueva TC, donde podemos observar una clara progresión a nivel del hipocondrio derecho con aumento de tamaño de la masa a 118 mm.
+En la analítica presentaba una elevación de la S-100 a 0,6 mcg/l (normal < 0,2mcg/l), la LDH estaba en rango normal. Ante esta nueva progresión en un paciente ECOG 0 con un melanoma metastásico no mutado para BRAF, NRAS y C-KIT, con múltiples tratamientos previos, se decidió administrar fotemustina a dosis de 100 mg/m2 cada 3 semanas. Tras el segundo ciclo la S-100 disminuyó a 0,22 mcg/l, alcanzando valores normales 0,04 mcg/l tras el tercer ciclo. En la TC de valoración de respuesta podemos observar una respuesta parcial, ya que la masa ahora mide 36 mm. Ante la buena respuesta y la localización única en el hipocondrio izquierdo confirmada por PET-TC se decidió resección quirúrgica de la metástasis, se le practicó el 2 de julio de 2012 una resección amplia del tumor más omentectomía con informe de anatomía patológica de esteatonecrosis, sin evidenciar células tumorales.
+En mayo de 2013, cuando se encontraron dos nódulos, uno en el epigastrio de 1,5 cm y otro en el mesogastrio de 1 cm, la biopsia fue positiva para metástasis de melanoma; se extirparon los nódulos confirmándose el origen metastásico, se evidenció afectación muscular con márgenes libres pero menores de 1,5 mm, por lo que se decidió tratamiento con radioterapia adyuvante, que finalizó en julio de 2013. Desde entonces sigue controles normales en nuestro centro, se mantiene asintomático con ECOG 0; en la última revisión en abril de 2015 la valoración por TC es de respuesta completa radiológica.

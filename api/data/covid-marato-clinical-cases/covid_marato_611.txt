@@ -1,0 +1,31 @@
+Anamnesis
+Mujer de 79 años, con antecedentes de hidatidosis hepática y pulmonar resecadas en el año 1994, gastritis crónica atrófica con déficit de B12 y anemia megaloblástica en tratamiento sustitutivo intramuscular bimensual. Antecedentes gineco-obstétricos: menarquia a los 12 años, FUR a los 51 años, G2 A0 V2. Sin tratamientos hormonales. Sin antecedentes familiares de interés.
+
+En TC toraco-abominal realizado durante el seguimiento de hidatidosis (septiembre de 2013), se detecta lesión sospechosa de malignidad en mama izquierda con afectación axilar homolateral. La paciente fue remitida a consultas de CGyD para completar estudio y tratamiento. Refiere molestias gástricas de 1 mes de evolución que consisten sensación de bolo alimenticio en epigastrio y digestiones pesadas, asociado a hiporexia y pérdida de 5 kg de peso.
+
+Exploración física
+ECOG 0. Hemodinámicamente estable. Tumor palpable en unión de cuadrantes superiores (UCS) de mama izquierda de 2 cm y adenopatía axilar de 1 cm. A nivel abdominal: doble cicatriz paramediana y subcostal de cirugías previas. Masa epigástrica palpable no dolorosa, sin otros hallazgos.
+
+Pruebas complementarias
+» Marcadores tumorales: CEA 15,3 ng/mL; CA 15-3 43,6 IU/mL; CA 19-9 3413.1 IU/mL; CA 125 28 IU/mL.
+» Mamografía y ecografía axilar izquierda: nódulo especulado de 2.5 cm en UCS sobre el que se realiza biopsia. Adenopatía axilar izquierda de 2,7 cm sobre la que se realiza PAAF. BI-RADS 5.
+» Biopsia de mama: carcinoma ductal infiltrante Grado II-III. Receptores de estrógeno positivo (75%), receptores de progesterona negativo. Índice de proliferación medio (20%). Her2 IHQ (++) borderline, FISH ausencia de amplificación.
+» PAAF de la axila: metástasis de carcinoma.
+» Ecoendoscopia + biopsias: engrosamiento hipoecogénico de la pared de cuerpo gástrico (12 mm), con pérdida del patrón en capas habitual y afectación circunferencial, compatible con linitis gástrica. En varios puntos se objetiva infiltración por fuera de la serosa gástrica. No se identifican adenopatías perigástricas de tamaño significativo ni ascitis.
+» Biopsia gástrica (1): fragmentos de mucosa gástrica tipo corporal que muestra una extensa metaplasia intestinal con un moderado infiltrado inflamatorio crónico en corion, compatible con gastritis crónica atrófica.
+» Endoscopia digestiva alta: se identifican en cavidad gástrica pliegues engrosados y ausencia de distensión al insuflar, todo ello compatible con proceso neoplásico tipo linitis plástica. Se toman biopsias.
+» Biopsia gástrica (2): fragmentos de mucosa gástrica con una marcada metaplasia intestinal que muestra en un mínimo fragmento un pequeño grupo de células epiteliales con signos sugerentes de infiltración, insuficientes para un diagnóstico conclusivo.
+» TC toraco-abdomino-pélvica: Sin evidencia de enfermedad a distancia.
+
+Diagnóstico
+Aunque las biopsias no son concluyentes, dado el antecedente de gastritis crónica atrófica y las imágenes endoscópicas de linitis plástica, existe una alta sospecha de tumor primario gástrico sincrónico en paciente diagnosticada de Carcinoma ductal infiltrante de mama izquierda subtipo luminal B con afectación axilar.
+
+Tratamiento
+Tras comentarse el caso en comité multidisciplinar, se decide iniciar tratamiento neoadyuvante para ambos tumores previo a rescate quirúrgico con intención radical. Es así que en octubre de 2013, la paciente inicia tratamiento hormonal con Letrozol 2.5mg/24 hrs para el tumor de mama; y quimioterapia esquema FOLFOX6 (oxaliplatino 85 mg/m2, leucovorín 400 mg/m2, 5-fluoroacilo 400 mg/m2 en bolo, día 1 y 5-Ffuoracilo 2.400 mg/m2 en infusión continua durante 48 h, cada 14 días) para el tumor gástrico.
+La paciente recibe 4 ciclos con regular tolerancia por toxicidad digestiva (náuseas y vómitos grado 1) y hematológica (neutropenia grado 2), pero con importante respuesta radiológica y normalización de los marcadores tumorales tras 3 ciclos de quimioterapia y 2 meses de hormonoterapia.
+
+Evolución
+En enero de 2014 es intervenida quirúrgicamente mediante gastrectomía D3, con la sorpresa de que el diagnóstico histológico fue de carcinoma lobulillar de alto grado (pleomórfico) metastásico de origen mamario, con positividad moderada en un 30% de las células tumorales para receptores de estrógenos y sin expresión de receptores de progesterona, HER-2 positivo moderado (++), FISH no amplificado. El tumor era CK7+/CK20-. Bordes quirúrgicos, ganglios linfáticos y grasa perinodal libre de afectación.
+Con estos hallazgos, se suspende la quimioterapia, continuando con Letrozol hasta que en abril de 2014 se realiza una mastectomía radical modificada izquierda con anatomía patológica de Carcinoma infiltrante mixto (lobulillar con áreas de ductal) grado 2 de 3 cm, metástasis de carcinoma de mama en 5 de 24 ganglios linfáticos, sin invasión linfovascular. E-cadherina negativo. Valoración de la respuesta patológica (S. de MILLER y PAYNE) G3: Disminución significativa de la celularidad tumoral invasiva, entre el 30 y 90% de la masa tumoral. Estadio ypT2ypN2.
+Finalmente, se llega al diagnóstico de carcinoma de mama infiltrante mixto (lobulillar clásico con áreas de ductal) estadio ypT2ypN2pM1 por metástasis gástrica en forma de linitis plástica, RH positivo, HER-2 negativo, tratado de forma radical tras un manejo multidisciplinar.
+La paciente que actualmente tiene 81 años ha continuado con 1ra línea de tratamiento hormonal, bien tolerado, mantiene un ECOG de 0, realiza revisiones trimestrales sin evidencia de enfermedad hasta la actualidad.

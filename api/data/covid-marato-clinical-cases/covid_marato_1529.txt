@@ -1,0 +1,36 @@
+Anamnesis
+Mujer de 38 años, sin antecedentes personales de interés, que acude a consulta por presentar metrorragia tras primer mes de puerperio. Es valorada por Ginecología con diagnóstico inicial de restos endocavitarios, siendo tratada mediante metilergometrina maleato intramuscular. Pese al tratamiento, las metrorragias van en aumento. Paralelamente, comienza con fiebre de predominio nocturno de 6 días de evolución acompañada de dolor pleurítico a nivel del costado derecho, por lo que acude nuevamente a consulta.
+
+Exploración física
+ ECOG 0. Hemodinámicamente estable y con saturación de oxígeno basal de 97 %. Consciente y orientada. Normocoloreada y bien perfundida. Eupneica en reposo.
+» Sin adenopatías, ni ingurgitación yugular. Abdomen y extremidades inferiores normales.
+» Auscultación cardiaca: soplo sistólico en foco aórtico.
+» Auscultación pulmonar: hipoventilación en base derecha y crepitantes dispersos en ambas bases, de predominio derecho.
+» » Tacto vaginal: cérvix permeable, no doloroso a la palpación. Útero en anteversión.
+
+Pruebas complementarias
+» Radiografía de tórax: nodulaciones bilaterales compatible con suelta de globos.
+» Analítica: hemoglobina 12,1 g/dl, LDH 313, proteína C reactiva 60,3 mg/l. Hemostasia normal. B-hCG: 59,631 UI/l.
+» Ecografía vaginal: imagen de contornos imprecisos en miometrio de 26 x 24 mm, que abarca desde tercio medio del miometrio hasta espacio intracavitario y con abundante vascularización en el Doppler. Quiste luteínico en ovario izquierdo.
+» TC cerebral, cervical y toracoabdominopélvica: metástasis pulmonares bilaterales de hasta 48 mm en lóbulo inferior derecho, con centro necrótico. Pequeño derrame pleural derecho. Lesiones hepáticas de 9 y 11 mm compatibles con hemangiomas. Prominencia del plexo venoso parauterino, probablemente en relación a parto reciente, sin identificarse extravasaciones de contraste.
+» Ecografía abdominal: confirma que las lesiones hepáticas son compatibles hemangiomas.
+» Ecocardiograma: función biventricular conservada. FEVI 60 %.
+» Histeroscopia: en cavidad uterina formación irregular en cara lateral derecha de 2,5 cm aproximadamente y que impide la visualización del ostium. En canal endocervical formación vesiculosa de 5 mm, de la que se toma biopsia.
+» RM de pelvis: lesión en endometrio compatible con foco primario de enfermedad trofoblástica.
+
+Diagnóstico
+Neoplasia trofoblástica gestacional estadio III (por afectación pulmonar), de alto riesgo (9 puntos).
+
+Tratamiento
+Tras la histeroscopia y biopsia endocervical, la paciente presenta hemorragia uterina que requiere colocación de sonda uterina, y posterior embolización de ambas arterias uterinas y ramas cérvico-vaginales derechas.
+Según el Score pronóstico FIGO: +0 puntos por edad menor de 40 años, +2 puntos por embarazo a término 1 mes antes, +2 puntos por B-hCG > 104, + 1 punto por metástasis pulmonar de < 5 cm, +4 puntos por múltiples pulmonares bilaterales. SCORE 9.
+Ante el diagnóstico clínico de neoplasia trofoblástica gestacional de alto riesgo estadio III-score 9, incluso antes de confirmación histológica, se inicia quimioterapia según esquema EMA-CO quincenal: etopósido 100 mg/m2/día y dactinomicina 0,5 mg intravenosos días +1 y +2; metotrexato 300 mg/m2 intravenoso día + 1; ciclofosfamida 600 mg/m2 y vincristina 1 mg/m2 intravenosos día +8.
+En un segundo tiempo se recibe confirmación histológica de coriocarcinoma en la biopsia endocervical.
+Se retrasa el 2º ciclo por neutropenia febril grado 4, que requiere ingreso y tratamiento con soporte de factores con 1 única dosis de filgrastim y transfusión por anemia grado 2, sin obtenerse aislamiento microbiológico. En la analítica se confirma el descenso de B-hCG a la mitad del valor previo (factor pronóstico).
+Tras el 2º ciclo, presenta nueva neutropenia febril grado 4, por lo que el 3er ciclo lo recibe con dos semanas de retraso y sin el día +2 de etopósido, ni daptomicina, siguiendo indicaciones de guías clínicas.
+Presenta normalización de la B-hCG tras los 4 primeros ciclos, completándose un total de 7 ciclos de tratamiento siguiendo las guías que recomiendan de 2 a 3 ciclos extra tras la negativización del marcador.
+Otras toxicidades reseñables: alopecia y astenia grado 2; y nuevo episodio de neutropenia afebril grado 3 tras 7º ciclo.
+
+Evolución
+Tras fin de tratamiento, presenta respuesta completa bioquímica y a nivel radiológico; se objetiva respuesta completa pélvica por RM, así como importante disminución de lesiones pulmonares, la de mayor tamaño en LID de 25 mm.
+De acuerdo con las guías, se realiza controles de B-hCG inicialmente de forma semanal, posteriormente bisemanal y finalmente mensual durante el primer año tras fin de tratamiento, manteniéndose asintomática y con el nivel de B-hCG en rango normal en todo momento.

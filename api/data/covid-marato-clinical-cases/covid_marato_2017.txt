@@ -1,0 +1,46 @@
+Anamnesis
+Mujer de 53 años de origen peruano y rasgos asiáticos residente en España desde hace más de 30 años
+
+Antecedentes familiares
+Prima con carcinoma de mama a los 45 años. Tía materna con carcinoma de mama a los 60 años. Otra tía materna con carcinoma de mama a los 58 años. Abuela paterna con carcinoma gástrico y tres hermanas de esta padecieron cáncer, pero desconoce la localización.
+
+Antecedentes personales
+» Sin alergias a medicamentos conocidas.
+» Factores de riesgo cardiovascular: hipertensión arterial; no diabetes mellitus, no dislipemia.
+» Hábitos tóxicos: fumadora de 3 cigarrillos al día durante 13 años (índice consumo acumulado de tabaco [ICAT] = 1,95).
+» Tuberculosis ganglionar cervical tratada con exéresis y antibioterapia durante un año.
+» Cefalea tensional.
+» Antecedentes ginecológicos: menopáusica. G2V2A0. Lactancia natural durante 2 años.
+» Intervenciones quirúrgicas: conización cervical a los 42 años por Ca in situ de cérvix. Extirpación de quiste ovárico izquierdo. Mastectomía + biopsia selectiva de ganglio centinela en octubre 2011, histerectomía + doble anexectomía en octubre 2016.
+» Tratamiento habitual: enalapril 20 mg/24 h; atenolol 50 mg/24 h; omeprazol 20 mg/24 h; morfina
+» MST 30 mg/12 h. Paracetamol y metamizol a demanda.
+
+Historia oncológica
+Carcinoma in situ en cuadrante superior externo de mama izquierda diagnosticado en octubre de 2011 y tratado mediante mastectomía + BSGC con resultado pT1s pN0. Cumplió dos años de tamoxifeno adyuvante que suspendió por engrosamiento endometrial iatrogénico. Realiza revisiones periódicas y se realiza estudio genético en la que se aprecia cambio de nucleótido en exón 11 del gen BRCA considerada una variante de significado incierto (VSI).
+
+Enfermedad actual
+En mayo de 2017 la paciente consulta en Urgencias por un cuadro de 5 meses de evolución de diplopía en ojo derecho y desde hace aproximadamente 3 meses episodios puntuales de cefalea holocraneal que han ido empeorando de forma gradual hasta hacerse intensidad alta en los últimos 5 días, aproximadamente EVA 8/10, asociando inestabilidad de la marcha y vómitos en escopeta. Se cursa ingreso en Servicio de Medicina Interna, durante el ingreso la paciente inicia tratamiento con corticoterapia (dexametasona 1 mg cada 8 horas) con mejoría sintomática, radioterapia (RT) holocraneal, una dosis total de 18 Gy en tres sesiones.
+
+Exploración física
+Presenta una exploración física dentro de la normalidad, incluyendo la valoración neurológica, y un PS de 0.
+
+Pruebas complementarias
+En la radiografía de tórax, se objetivó aumento de densidad paracardiaca derecha, en la TC craneal se ve una lesión ocupante de espacio (LOE) en hemisferio cerebeloso izquierdo con edema perilesional y efecto masa sobre IV ventrículo sospechoso de metástasis, se completó estudio con RM craneal evidenciándose una lesión metastásica en fosa posterior de hemisferio cerebeloso izquierdo y otras dos lesiones cerebrales. Se hizo por supuesto una TC de tórax y se objetiva una masa localizada en el segmento anterior del lóbulo inferior derecho con adenopatías interlobulares y en región paratraqueal derecha.
+Habiéndose ya obtenido un diagnóstico por imagen, se procede a intentar alcanzar un diagnóstico anatomopatológico y se realiza fibrobroncoscopia, en la cual se objetiva lesión mamelonada y vascularizada sugestiva de malignidad procedente del bronquio del segmento anterior del LID. Se realiza biopsia con resultado anatomopatológico de adenocarcinoma de patrón papilar.
+
+Diagnóstico
+Adenocarcinoma de pulmón estadio IVB (cT2 CN2 M1c).
+Con este diagnóstico, solicitamos estudio molecular sobre biopsia de pulmón realizada. El estudio de ALK es negativo, pero obtenemos EGFR mutado con deleción del exón 19 (del 13,22) (kit de Cobas en el aparato real time PCR System COBAS Z 480 de Roche).
+
+Tratamiento
+En vista de este resultado, iniciamos afatinib 40 mg diarios, dado su beneficio en supervivencia global en comparación con quimioterapia objetivado en el estudio LUX-Lung 6, especialmente en pacientes con deleciones del exón 19.
+
+Evolución
+Comienza tratamiento con afatinib con muy mala tolerancia al mismo, precisando ingreso hospitalario tras tres semanas de tratamiento por toxicidad dérmica G2 (rash cutáneo generalizado con prurito asociado) y toxicidad digestiva G3 que resulta invalidante (más de diez deposiciones diarreicas al día que no mejoraban con la toma de loperamida y se asociaba a náuseas y vómitos). Tras suspender el tratamiento, la paciente mejora progresivamente hasta alcanzar la normalidad tras 6 días desde su retirada.
+Dada la toxicidad grave que obligó a suspender el tratamiento, se valoró la reducción de dosis o cambio del mismo por otro ITK. Una vez dada de alta hospitalaria, en junio 2017, la paciente acude a consulta, mantiene PS1, con cefalea ocasional y dosis de corticoides de 4 mg de dexametasona al día, y optamos por iniciar tratamiento con erlotinib 150 mg diarios, con mejor tolerancia que a afatinib, aunque también con muchos efectos adversos. Inicialmente presentó episodios de fiebre, náuseas G1, vómitos G1 y paroniquias G1, por lo que decidimos mantener el tratamiento a mismas dosis, con mejoría progresiva de sintomatología, y retirada de corticoterapia de forma progresiva. En septiembre de 2017, tras más de tres meses de tratamiento, se hace reevaluación con TC, que objetiva discreta mejoría del tumor primario y disminución significativa de las lesiones cerebrales, considerándose respuesta parcial a nivel cerebral y estabilidad pulmonar, según criterios RECIST.
+La paciente continúa tratamiento con erlotinib con buena tolerancia, con cefalea ocasional como única sintomatología. En febrero de 2018 se realiza nueva reevaluación y se determina estabilidad a nivel cerebral pero franca progresión a nivel torácico, manteniendo la paciente un PS1, sin referir ninguna sintomatología pulmonar ni neurológica.
+Dada la progresión a la terapia dirigida, afectación cerebral controlada y que la paciente se mantenía estable clínicamente, se solicita biopsia líquida tratando de buscar la mutación de resistencia T790M, presente en alrededor del 50 % de los casos, manteniendo mientras tanto el tratamiento con erlotinib. El resultado en sangre fue negativo y, dado que la paciente seguía asintomática, mantenemos erlotinib y solicitamos rebiopsia de lesión pulmonar mediante fibrobroncoscopia para determinar la mutación de resistencia en tejido, debido a su mayor rentabilidad diagnóstica. El resultado en tejido también resultó negativo, decidiéndose continuar erlotinib mientras existiera estabilidad clínica. En mayo de 2018, tres meses tras progresión pulmonar conocida, la paciente comienza con tos irritativa, mayor cefalea que obliga a iniciar corticoterapia, realizándose TC que evidencia progresión radiológica (pulmonar y cerebral).
+En este contexto, consideramos que ya no existe beneficio de continuar tratamiento dirigido, y optamos por iniciar quimioterapia de primera línea con carboplatino (AUC5) y pemetrexed 500 mg/m2, previo inicio con ácido fólico 400 mcg/24 horas y vitamina B12 una inyección intramuscular cada 2 meses.
+Continúa el tratamiento durante cuatro ciclos con aceptable tolerancia y mejoría clínica, con desaparición de la tos y reducción de corticoterapia, con reevaluación radiológica en agosto 2018 que evidencia estabilidad de las lesiones cerebrales y respuesta parcial del tumor primario pulmonar. Tras cuatro ciclos y respuesta parcial obtenida, optamos por continuar con pemetrexed de mantenimiento, con excelente tolerancia, manteniendo la paciente un PS1, con cefalea ocasional que impide retirada por completo de corticoterapia y provoca facies Cushingoide. La paciente mantiene este tratamiento hasta enero de 2019, fecha en la que comienza con mayor cefalea y olvidos frecuentes, subiendo nuevamente corticoterapia. En RM se confirma progresión cerebral tras siete ciclos de pemetrexed de mantenimiento.
+Llegados a este punto, con una paciente con adenocarcinoma de pulmón con afectación cerebral que impide retirar corticoterapia, intolerancia a afatinib, progresión a erlotinib, con mutación de resistencia T790M en sangre y tejido negativa, y progresión a una primera línea de quimioterapia, se plantearon varias opciones: uso de gefitinib, el único anti-EGFR de primera generación no utilizado hasta el momento, y cuyo uso secuencial con quimioterapia ha mostrado beneficio en pacientes asiáticos; derivar a ensayo clínico, dado que, a pesar de progresión, mantenía un ECOG de 1, o realizar nuevamente la mutación de resistencia T790M en sangre antes de valorar nueva línea de quimioterapia o ITK.
+Dado que la paciente presentaba afectación cerebral que precisaba corticoterapia, su inclusión en ensayo clínico con inmunoterapia fue descartada, optándose por realizar nueva línea con ITK en función del resultado de la nueva biopsia líquida. En esta ocasión, se realizó técnica de NGS con el siguiente resultado: EGFR mutado (del19) y mutación T790M en exón 20. Con todo ello solicitamos el uso de osimertinib 80 mg diarios el 15 de febrero de 2019. La paciente continúa tratamiento actualmente con este fármaco, con buena tolerancia y mejoría de la calidad de vida, sin cefalea y reducción progresiva de corticoterapia.

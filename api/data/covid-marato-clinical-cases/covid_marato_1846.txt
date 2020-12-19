@@ -1,0 +1,20 @@
+Anamnesis
+Nos encontramos ante un varón de 58 años, sin alergias medicamentosas conocidas, que ha presentado únicamente como antecedente médico de interés brucelosis en la juventud. No refiere hábitos tóxicos ni tratamiento habitual.
+Comienza su sintomatología en diciembre/2016, refiriendo un dolor sordo continuo a nivel esternal, por lo que acude a consulta de su médico de Atención Primaria, que le pauta tratamiento con antiinflamatorios sin mejoría. Varios meses después, en abril/2017, evidencia bultoma a dicho nivel, por lo que es remitido al servicio de Traumatología para su estudio.
+
+Exploración física
+ECOG 0, hemodinámicamente estable, presentando como único hallazgo destacable adenopatía cervical en nivel IIA izquierdo, no dolorosa, rodadera de aproximadamente 1 cm.
+
+Pruebas complementarias
+Dentro del estudio de extensión se solicita una TC de cuello-tórax-abdomen y pelvis, donde se evidencia una masa mediastínica anterosuperior heterogénea que infiltra manubrio esternal con extensión extratorácica pectoral izquierda (8 x 10 cm) y adenopatía paratraqueal derecha de 28 mm. Así mismo, se solicita una BAG de dicha masa al Servicio de Cirugía Torácica, obteniéndose como resultado anatomopatológico infiltración por carcinoma epidermoide no queratinizante con invasión perineural, que mostraba un índice de proliferación elevado con un Ki67 80 %.
+Se completa estudio con PET-TC, confirmándose masa hipermetabólica en mediastino anterior que afecta a musculatura pectoral izquierda y cuerpo esternal (SUVmax 13,76) y adenopatía mediastínica superior derecha (SUVmax 9,3).
+
+Diagnóstico
+Finalizado el estudio, nos encontramos ante un carcinoma epidermoide de timo con estadificación cT3 N2 M0, irresecable, estadio IV-B, por lo que se procede a su valoración por el Servicio de Oncología Médica para establecer actitud.
+
+Tratamiento
+Tras valoración del paciente, se establece inicio de tratamiento citostático de inducción según esquema carboplatino AUC-5-paclitaxel 175 mg/m2 en pauta trisemanal x 4 ciclos que finaliza en octubre/2017, presentando como toxicidades alopecia grado 2 y neurotoxicidad grado 1. Tras finalización del 4º ciclo de tratamiento, se procede a estudio de reevaluación con TC que evidencia una respuesta parcial radiológica, continuándose tratamiento con radioterapia IMRT sobre volumen tumoral (DT 64 Gys) concomitante con carboplatino-paclitaxel semanal x 8 semanas, que concluye en enero/2018. Se registra como toxicidad por el tratamiento concomitante trombopenia grado 2, esofagitis grado 1 y neurotoxicidad grado 1.
+
+Evolución
+Una vez finalizado el tratamiento, se procede a la realización de un nuevo estudio de reevaluación con TC cuello-tórax-abdomen-pelvis, donde se evidencia una marcada disminución de tamaño de la masa mediastínica anterior, siendo la adenopatía paratraqueal derecha apenas visible. Se realiza además una PET TC dónde no se objetivan adenopatías con incremento metabólico significativo, y normalización morfometabólica de la masa localizada en mediastino anterior.
+Por lo tanto, nos encontramos ante una respuesta completa radiológica y metabólica, por lo que el paciente inicia seguimiento trimestral en consultas externas.

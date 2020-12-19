@@ -1,0 +1,24 @@
+Anamnesis
+Presentamos el caso de una mujer de 35 años, con antecedentes familiares de 2º grado de cáncer de ovario y mama, y con antecedentes personales de hábito tabáquico activo, talasemia minor en tratamiento con ácido fólico y nulípara, que consulta por molestias abdominales generales, de intensidad creciente progresivamente y, al menos, 4 meses de evolución.
+Como se expondrá a continuación, la paciente acaba siendo diagnosticada de una estirpe de tumor ovárico muy rara y letal, con un curso especialmente agresivo como el que finalmente seguirá.
+
+Exploración física
+ECOG basal de 1. Palpación de masa abdominal, a nivel de hipogastrio, no desplazable y con dolor reactivo, pero sin defensa abdominal ni peritonismo. El resto de la exploración general no tuvo hallazgos a destacar.
+
+Pruebas complementarias
+» Ecografía abdominal urgente (15/05/2017): útero y anejos con imagen de lesión sólida grande multilobulada y con estructura muy heterogénea de 95 x 92 x 100 mm y bordes irregulares.
+» Resonancia magnética (RM) pélvica programada (16/05/2017): masa mamelonada sólido-quística de 100 x 130 x 110 mm con tabiques y loculaciones. Dicha masa desplaza e impronta la vejiga y el útero sin infiltrarlos, así como también impronta en pared de recto-sigma. Parece depender de ovario derecho.
+» Análisis de sangre con marcadores tumorales (20/05/2017): Ca 125: 86, CEA: 47,9.
+» TC de tórax-abdomen-pelvis (TAP) (21/05/2017), donde destaca masa pélvica de 120 x 100 x 110 mm heterogénea, sólido-quística, de contornos mal definidos y que pierde plano de clivaje con grasa mesentérica del flanco derecho. A nivel de sigma no se objetiva plano de clivaje con la masa pélvica. Engrosamiento de asas de yeyuno sin causa orgánica que lo justifique.
+Con el diagnóstico clínico de una masa pélvica de alta sospecha de malignidad, limitada a cavidad abdominal y de presumible origen ginecológico (ovario), es valorado el caso en el comité multidisciplinar, donde se consensúa realización de laparotomía exploradora con biopsia intraoperatoria. En la misma se confirma inicialmente presencia de adenocarcinoma pobremente diferenciado en ovario derecho, y se decide continuar con cirugía de estadiaje completa (10/07/2017): "Se revisa exhaustivamente la cavidad abdominal (intestino delgado, grueso, estómago, diafragma, hígado, bazo) sin apreciar lesión macroscópica. Histerectomía total con anexectomía contralateral según técnica extrafascial + omentectomía + linfadenectomía pélvica bilateral y linfadenectomía paraaórtica; lavado de cavidad".
+
+Diagnóstico
+El diagnóstico histopatológico final emitido es de carcinoma de células pequeñas de tipo hipercalcémico limitado a ovario derecho (cápsula rota y tamaño 15 x 12 x 12 cm), estadio IC (pT2, pN0) y componente de células grandes. En el estudio inmunohistoquímico que permitió llegar a dicho diagnóstico destacó KI67 80 %, p53+, alfa-inhibina negativa, EMA +/- y estudio de SMARCA4/BRG1 negativo.
+
+Tratamiento
+Tras revisar la literatura existente al respecto, se propone tratamiento de quimioterapia adyuvante con esquema cisplatino 70 mg/m2 día 1 + etopósido 100 mg/m2 IV días 1,2 y 3 cada 21 días por 4-6 ciclos y posterior valoración de radioterapia adyuvante secuencial. La paciente recibe el primer ciclo de tratamiento el 9/08/2017 y completa un total de 6, con un perfil de toxicidad destacable: toxicidad digestiva grado 2 (náuseas y vómitos), neutropenia G4, un episodio de neutropenia febril y anemia G3 que precisó de transfusión de hematíes en dos ocasiones.
+
+Evolución
+En la evaluación radiológica posquimioterapia se visualiza en el TC-TAP (21/11/2017) una masa en pelvis altamente sugestiva de recidiva (34 x 47 mm), confirmando su carácter hipermetabólico en una PET-TC posterior y encontrándose en ese momento la paciente asintomática.
+Por parte de Ginecología, se plantea la irresecabilidad de la masa y la paciente es derivada a O. Radioterápica para valoración de tratamiento por su parte. Quedando pendiente de iniciar dicho tratamiento (con fines paliativos), la paciente consulta por aparición de molestias abdominales difusas, dolor de tipo neuropático lumbar EVA 6-8 de 3 semanas de evolución y desarrollo posterior de síndrome febril grave, que requiere ingreso hospitalario por tratarse de sepsis urológica secundaria a uropatía obstructiva izquierda. La uropatía obstructiva tenía su razón en la compresión de la masa pélvica que en menos de 2 meses había doblado su tamaño (79 x 88 mm) y llegaba a infiltrar de forma importante colon sigmoide. Tras colocación de catéter doble J, nefrostomía izquierda y antibioterapia, el cuadro infeccioso evoluciona favorablemente al igual que el control del dolor, por lo que se procede al inicio de tratamiento radioterápico con fines paliativos recibiendo un total de 10 sesiones.
+En el alta, con un ECOG 2 y 35 años de edad, queda pendiente de valorar por nuestra parte nueva línea de quimioterapia con fin paliativo.

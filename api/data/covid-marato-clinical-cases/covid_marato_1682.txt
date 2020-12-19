@@ -1,0 +1,26 @@
+Anamnesis
+Mujer de 19 años de edad, con antecedentes de megacolon agangliónico compatible con pseudohirschprung, intervenido quirúrgicamente a los tres años de edad. La paciente comienza en septiembre de 2008 con un cuadro de dolor cervical y estridor en decúbito por el que inicia estudio por el Servicio de Rehabilitación.
+
+Exploración física
+A la exploración física destacaba, además de un hábito marfanoide y una escoliosis patente, la presencia de un nódulo granular duro e irregular a nivel de lóbulo tiroideo derecho, y múltiples adenopatías cervicales de diversos tamaños, consistentes y bilaterales de hasta 1 cm. La auscultación cardiopulmonar resultaba normal y el abdomen, con cicatrices quirúrgicas previas, no presentaba hallazgos patológicos.
+Constantes normales.
+
+Pruebas complementarias
+• Ecografía cervical tiroidea: hiperplasia tiroidea bilateral con patrón heterogéneo multinodular, calcificaciones pleomórficas y múltiples adenomegalias bilaterales, cervicales y en fosas supraclaviculares de hasta 13 mm.
+• TC cervical-toracoabdominopélvica: tiroides aumentado de tamaño con varias lesiones que afectan a ambos lóbulos, de densidad heterogénea y con pequeñas calcificaciones, de hasta 2,6 cm de diámetro.
+A nivel torácico se objetivan masas de partes blandas con múltiples calcificaciones que provocan disminución del calibre traqueal, extendiéndose incluso a la región parafaríngea derecha. Adenopatías mediastínicas significativas de hasta 1,5 cm, paratraqueales derechas, pretraqueales, subcarinales e hiliares bilaterales. Múltiples y pequeñas lesiones, algunas de ellas calcificadas y otras con densidad heterogénea, sugestivas de metástasis a nivel hepático y pulmonar. Adenopatías patológicas en hilio hepático
+• RM abdominal: lesiones hepáticas calcificadas poco evidentes con RM. Zona anterior LHI sugerente de metástasis. Suprarrenal izquierda, nódulo de 16 mm, con escasa captación de contraste, compatible con feocromocitoma.
+• PAAF de la adenopatía cervical: frotis sugestivo de metástasis de carcinoma tiroideo, muy probablemente de origen medular.
+• Bioquímica y hemograma general: sin alteraciones.
+• Calcitonina: >15.100 pg/mL; CEA 126 ng/mL; cromogranina A 52 nmol/L.
+• Catecolaminas: en plasma: A 185, NA 740 pg/mL.
+En orina 24 horas A 49; NA 82 mg.
+• Estudio genético: portadora de la mutación c.2753T>Cp.M918T en el exón 16 del protooncogén RET.
+
+Diagnóstico
+Síndrome de neoplasia endocrina múltiple 2B, que cursa con: carcinoma medular de tiroides IV (mutación M918T en RET), feocromocitoma no funcionante, megacolon agangliónico compatible con pseudohirschprung y dismorfia (escoliosis y hábito marfanoide).
+
+Tratamiento y evolución
+Inicialmente, se decidió comenzar tratamiento sistémico con sunitinib 50 mg, con estabilidad de la enfermedad tras tres meses y aceptable tolerancia clínica presentando hipertensión arterial grado 1, síndrome de mano-pie grado 2, diarrea grado 1 y dermatofoliculitis facial y torácica grado 2.
+Teniendo en cuenta el estridor persistente, se planteó la realización de una tiroidectomía total y linfadenectomía, previa suprarrenalectomía laparoscópica izquierda, con diagnóstico de carcinoma medular tiroideo pT4a pN1 M1.
+Nueve meses después, la enfermedad presentaba progresión a nivel óseo, sin suponer deterioro clínico ni analítico, con imágenes de baja actividad metabólica en el PET-TC. Se decide entonces mantener tratamiento con sunitinib asociando octreotide LAR + ácido zoledrónico. Un año y medio más tarde, se observa progresión ganglionar cervical, decidiéndose reintervención, que supuso la aparición de diversas complicaciones locales postquirúrgicas. En los meses posteriores, a pesar de mantener enfermedad radiológicamente estable, en contexto de elevación progresiva de marcadores tumorales, se decide cambio de tratamiento sistémico a vandetanib 300 mg, con el que se encuentra actualmente, presentando excelente respuesta bioquímica a la espera de resultados de las pruebas de imagen de reevaluación.

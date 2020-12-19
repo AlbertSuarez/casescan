@@ -1,0 +1,30 @@
+Anamnesis
+Mujer de 79 años de edad, sin alergias conocidas a medicamentos; con antecedentes personales de hipertensión arterial, dislipemia, hiperuricemia y glaucoma crónico. Diagnosticada en febrero de 2011 de carcinoma ductal infiltrante de mama. Fue tratada con mastectomía radical derecha en marzo de 2011 pT2pN2 (9/9) M0. RE+++ RP+ c-erbB2 + (negativo) y quimioterapia adyuvante (28 de marzo a 30 de agosto de 2011): AC con myocet x 4 y docetaxel 75 x 2. Tras el tercer ciclo de quimioterapia la paciente comienza con peor tolerancia subjetiva y anemia. Tras el segundo docetaxel la paciente ingresa por vómitos, diarrea y astenia, suspendiéndose definitivamente la quimioterapia adyuvante. Recibió 21 sesiones de radioterapia locorregional.
+Acude a urgencias por deterioro de su estado general, astenia intensa, disfagia para sólidos y líquidos.
+No refiere fiebre ni dolor a otros niveles.
+
+Exploración física
+Tensión arterial 18/82 mm Hg; temperatura 36,4 °C; frecuencia cardíaca 88 lpm; saturación de oxígeno 97%. Palidez cutánea, mala hidratación.
+Signos de atrofia muscular. Dermitis grado 2 en FSCD. Cicatriz de mastectomía derecha normal.
+Mama izquierda y resto de examen físico normal.
+
+Pruebas complementarias
+• Bioquímica sanguínea: glucosa 217,1 mg/dL; urea 95,2 mg/dL; creatinina 0,7 mg/dL; proteínas totales 5,6 g/dL; albúmina 3,1 g/dL; sodio 130,8 mEq/L; potasio 3,46 mEq/L; magnesio 1,83 mg/dL; lactado deshidrogenasa (LDH) 325,0 mU/mL; proteína C reactiva (PCR) 1,0 mg/L.
+• Sistemático de orina: piuria.
+• Hemograma: 4.900 leucocitos/mm3 (94,9% neutrófilos); Hto 32,8 %; Hb 11,3 g/dL; volumen corpuscular medio (VCM) 97,3 fL; hemoglobina corpuscular media (HCM) 33,6 pg; concentración de hemoglobina corpuscular media (CHCM) 34,5 g/dL; 90.000 plaquetas/mm3.
+• Coagulación: dentro de los parámetros normales.
+• Radiografía de tórax: mastectomía derecha con clips quirúrgicos en la pared torácica y axilar.
+Índice cardiotorácico dentro de límites normales. No se visualizan masas ni adenopatías mediastínicas de tamaño significativo. Alteraciones inespecíficas del parénquima pulmonar sin evidencia de infiltrados parenquimatosos. Pleura sin alteraciones.
+• Electrocardiograma: ritmo sinusal a 80 lpm, sin alteraciones en la repolarización.
+• Exploración ORL: compatible con probable candidiasis esofágica.
+
+Diagnóstico
+Cáncer de mama en tratamiento adyuvante con radioterapia. Probable candidiasis esofágica. Diabetes esteroidea. Desnutrición. Anemia y trombopenia.
+Probable infección del tracto urinario.
+
+Tratamiento
+Se inicia tratamiento con dieta líquida, sueroterapia, insulina, antibioterapia, corticoides y fluconazol.
+
+Evolución
+La paciente evoluciona desfavorablemente por fiebre, empeoramiento de la disfagia y desnutrición; hipocalcemia, hipofosfatemia y pancitopenia; con hemograma 1.300 leucocitos/mm3 (1.100 neutrófilos/mm3), hemoglobina 7,3 g/dL, 17.000 plaquetas/mm3 y presencia de linfocitos activados en extendido de sangre periférica. Se inicia soporte nutricional y control del dolor. Se amplia el estudio, objetivándose desnutrición severa; déficit de vitamina D; hemocultivos positivos para Staphylococcus epidermidis y pancitopenia por hemofagocitosis en biopsia de médula ósea. No se realiza endoscopia alta por el mal estado general de la paciente y la trombopenia severa. Se amplia cobertura antibiótica, se añade de forma empírica aciclovir y se inicia tratamiento del dolor con opioides mayores, por dolor esofágico severo. Se solicita serologías para virus de Epstein-Barr y citomegalovirus. La paciente evoluciona favorablemente, con desaparición del dolor esofágico, pudiendo comenzar la alimentación oral en unos días y retirada de los opiáceos; recuperación paulatina de la pancitopenia. La paciente persiste con fiebre, que desaparece al retirar el catéter central.
+Se confirma en los análisis antigenemia muy positiva en sangre: IgG anticitomegalovirus positivo, IgM anticitomegalovirus positivo, ADN cuantitativo citomegalovirus 24.260 copias/mL. La paciente refiere, posteriormente, dolor de tipo neuropático en la región supraorbitaria izquierda. Con juicio diagnóstico de reactivación de infección por citomegalovirus en paciente inmunocomprometido (quimioterapia, radioterapia, corticoides, desnutrición) con esofagitis, hepatitis (analítica leve), diarrea (solo un día), pancitopenia con hemofagocitosis y neuritis, se administra ganciclovir durante 14 días.

@@ -1,0 +1,25 @@
+Anamnesis
+Varón de 58 años, exfumador desde hace 7 años de 30 paquetes-año. Como antecedentes personales más relevantes presenta dislipemia, tuberculosis latente hace 6 años para la que recibió 9 meses de terapia con isoniacida y espondiloartritis axial y periférica que precisó tratamiento con sulfasalazina y etanercept hasta 2016.
+En una radiografía realizada tras una revisión rutinaria se observó un ensanchamiento mediastínico. Tras la realización de tomografía computarizada (TC), broncoscopia y ecobroncoscopia fue diagnosticado de un carcinoma epidermoide de pulmón cT4N2M1a (metástasis pleural) con expresión del ligando del receptor de muerte programada 1 (PD-L1) del 95 %, sin mutación del gen del receptor del factor de crecimiento epidérmico (EGFR) ni translocación del gen de la cinasa de linfoma anaplásico (ALK). Ante dichos resultados, se decidió iniciar tratamiento con pembrolizumab 200 mg cada tres semanas.
+Enfermedad actual:
+Cuatro días después de la administración de la primera dosis de pembrolizumab, acudió a Urgencias por presentar disnea de dos días de evolución que fue aumentando progresivamente hasta hacerse de reposo. A su llegada a Urgencias, se detectó una insuficiencia respiratoria y en la radiografía de tórax se visualizó un derrame pleural moderado en hemitórax derecho y opacidad parahiliar izquierda. Ante la sospecha de infección respiratoria se decidió ingreso hospitalario.
+Tras 48 horas iniciales de estabilidad clínica con tratamiento antibiótico y oxigenoterapia, presentó empeoramiento grave de la función respiratoria, precisando aporte de 02 a alta concentración con mascarilla reservorio. Fue sometido a drenaje de líquido pleural con evacuación de 2 l, obteniendo alivio sintomático parcial.
+
+Exploración física
+El paciente estaba consciente orientado y colaborador; taquipneico. Durante la auscultación pulmonar, destacaba una disminución del murmullo vesicular en hemitórax izquierdo y crepitantes en base izquierda. El rsto de la exploración física no presentaba ninguna alteración.
+
+Pruebas complementarias
+En la radiografía de tórax de control tras el drenaje pleural, se comprobó la presencia de un extenso infiltrado pulmonar afectando a la totalidad del pulmón izquierdo, no presente en la radiografía del ingreso.
+Se realizó una TC de tórax que descartó una progresión tumoral, objetivándose aumento de densidad en vidrio deslustrado en la totalidad de hemitórax izquierdo, en cisura menor derecha y consolidaciones parenquimatosas de distribución parcheada en el lóbulo inferior derecho.
+Los estudios microbiológicos realizados (cultivo esputo, hemocultivos y serología de neumonía atípica) resultaron negativos.
+
+Diagnóstico
+Neumonitis relacionada con el sistema inmunitario.
+
+Tratamiento
+» Oxigenoterapia.
+» Prednisona 1 mg/kg/día.
+» Tratamiento antibiótico con levofloxacino 500 mg/24 horas y piperacilina/tazobactam 4 g/6 horas.
+
+Evolución
+Debido a la mala y rápida evolución a pesar de antibioterapia y a la vista de los hallazgos de la TC, se estableció el diagnóstico de sospecha de neumonitis relacionada con el sistema inmunitario, por lo que se inició tratamiento corticoide a dosis altas. Al no poder descartar un proceso infeccioso asociado, se mantuvo antibioterapia empírica. En días sucesivos, presentó una rápida mejoría clínica y radiológica, que condujo a la suspensión de la oxigenoterapia y la reducción progresiva de la dosis de corticoides. Ante la gravedad del cuadro respiratorio, se decidió suspender el tratamiento con pembrolizumab, continuando con tratamiento de quimioterapia.

@@ -1,0 +1,47 @@
+Anamnesis
+Varón de 55 años, independiente para actividades de la vida diaria. Ha trabajado de administrativo.
+» Antecedentes personales: síndrome de Wolff-Parkinson-White, hipercolesterolemia, sinusitis de repetición y toxoplasmosis en el año 1997.
+» Intervenciones quirúrgicas: intervenido de exéresis y ampliación de un nevus melanocítico en zona dorsal en 2012. Angioma en dedo y fractura tibial.
+» Antecedentes familiares: no tiene antecedentes familiares de interés.
+» Hábitos tóxicos: exfumador desde el año 1995. Bebedor ocasional.
+» Sin antecedentes alérgicos conocidos.
+» No toma fármacos.
+Comenzó en octubre de 2016 con un cuadro de lumbalgia con pobre respuesta a antiinflamatorios, por el que es valorado por su médico de Atención Primaria. Además, bultoma en región axilar con molestias a la palpación de aparición progresiva. Afebril y sin sensación distérmica. Sin tos ni expectoración. Tampoco ha presentado disuria ni alteraciones del ritmo miccional. Mantiene apetito e ingestas sin objetivarse pérdida de peso.
+
+Exploración física
+» Peso: 61 kg. Talla: 164 cm. Eupneico. ECOG 0.
+» Piel sin alteraciones en la coloración. Cicatriz a nivel dorsal con buen aspecto.
+» Sin adenopatías cervicales ni supraclaviculares.
+» Masa axilar fija de unos 4-5 cm, adherida a planos profundos, dolorosa a la palpación.
+» Auscultación cardiaca: ruidos cardiacos rítmicos sin soplos
+» Auscultación pulmonar: murmullo vesicular fisiológico.
+» Abdomen blando y depresible, sin masas ni visceromegalias. Peristaltismo presente normal.
+» Sucusión renal positiva con masa partes blandas sacroiliaca derecha.
+» No hay edemas en extremidades inferiores, ni focalidades neurológicas sensitivo-motoras.
+
+Pruebas complementarias
+Se realiza analítica de sangre, una resonancia magnética lumbar, ecografía con punción-aspiración con aguja fina de bultoma axilar, y estudio de extensión mediante TC toracoabdominal.
+» Analítica de sangre: hemograma, función hepática y renal sin alteraciones. Ionograma en rango de normalidad. LDH = 431 U/l.
+» Resonancia magnética: lesión de partes blandas de 4 x 4,4 x 4,9 cm (T x AP x CC) localizada en el margen posterior del hueso iliaco derecho, afectándose la articulación sacroiliaca, el musculo erector de la columna, glúteo mayor y medio y tejido celular subcutáneo profundo. La lesión realza tras la administración de contraste, y muestra una intensidad intermedia en T1 con alguna zona de mayor intensidad que sugieren zonas hemorrágicas y heterogénea en T2. Se aprecia ligero hundimiento de ambos platillos del cuerpo vertebral de L5, observando imagen redondeada en dicho cuerpo vertebral (17 x 18mm) que se muestra hipointensa en T1 con alguna zona de mayor intensidad, e hiperintensa en secuencia STIR, lo que sugiere lesión metastásica.
+» Ecografía axilar: conglomerado adenopático axilar izquierdo, hipoecogénicas de 3 x 5 cm. Se realiza punción aspiración del conglomerado, enviándose la muestra al servicio de Anatomía Patológica.
+» Se explora axila contralateral sin hallazgos. Área cervical sin adenopatías de tamaño significativo.
+» Tomografía computarizada: subclavia derecha aberrante. Adenopatía en mediastino anterior de 12 mm. Ganglios hiliares derechos de pequeño tamaño. Conglomerado de adenopatías axilares izquierdas.
+» En parénquima pulmonar, se aprecia un granuloma calcificado en LM sin otras alteraciones.
+» Páncreas, bazo, suprarrenales y riñones sin alteraciones. Hígado de tamaño y morfología normales con quiste simple en lóbulo caudado de 7 mm, sin evidencia de otras lesiones focales. No se aprecian adenopatías intra ni retroperitoneales.
+» Lesión lítica con pequeña masa de partes blandas en arco posterior de 9ª costilla izquierda. Se aprecia otra lesión lítica ya conocida en hueso iliaco derecho en la porción posterior de articulación sacroilíaca de 5 cm de diámetro y otra lesión probable en el cuerpo vertebral de L5.
+» Anatomía patológica: extensiones con fondo hemático y mínima representación linfocitaria, con abundante celularidad de talla grande de hábito epitelioide que muestra franca atipia nuclear, con disposición de forma suelta, acompañada de numerosos macrófagos pigmentados con material de tipo melánico.
+» Inmunohistoquímica: expresión para HMB45 y Melan A, con negatividad para citoqueratinas de amplio espectro (AE1/AE3); pobre positividad para S100. Presencia de mutación V600E en el gen BRAF.
+
+Diagnóstico
+» Melanoma estadio IV TxN2bM1c con presencia de mutación BRAF.
+» Metástasis óseas sacroiliaca y lumbar.
+
+Tratamiento
+Ante la presencia de mutación en el gen BRAF, se inicia tratamiento vía oral con dabrafenib 150 mg cada 12 h y trametinib 2 mg cada 24 h.
+Se solicita valoración por el Servicio de Oncología Radioterápica para tratamiento localizado paliativo sobre lesión sacroiliaca, administrándose 30 Gy con finalidad antiálgica.
+
+Evolución
+El paciente inicia revisiones en consulta de hospital de día, realizándose analíticas seriadas que no muestran alteraciones en enzimas hepáticas. Mejor control analgésico en localización lumbosacra. Tras dos meses de tratamiento, el paciente presenta pirexia con picos febriles de hasta 40 ºC con tiritona e intenso malestar general, por lo que de acuerdo con ficha técnica(1) se reduce la dosis de dabrafenib a 100 mg cada 24 h, manteniendo sin cambios la dosis de trametinib.
+Por aparición de adenopatía laterocervical, el 2 de febrero de 2017 (tras un total de 4 meses en tratamiento) se realiza TC de reevaluación en la que se objetiva crecimiento del conglomerado supraclavicular izquierdo y lesiones óseas en vértebras dorsales D8 y D9 de nueva aparición, interpretándose todo ello como progresión tumoral. Esto se confirma en resonancia magnética de columna dorsal. Se completa el estudio a nivel óseo con gammagrafía que muestra focos hipercaptantes en D8 y en parrilla costal derecha (arcos laterales de costillas 5ª, 6ª y 9ª).
+El paciente presenta buen estado general, con aparición de dolor a nivel esternal, columna dorsolumbar y región ganglionar axilar controlada con analgésicos de tercer escalón, por lo que se inicia tratamiento de segunda línea con pembrolizumab con pobre respuesta, apareciendo letálides cutáneas en cuero cabelludo y empeoramiento del dolor. Es valorado de nuevo por Oncología Radioterápica, realizándose un segundo tratamiento de radioterapia sobre zona axilosupraclavicular y lesión sacroiliaca con una dosis total de 20 Gy.
+Tras ello, se objetiva importante mejoría clínica y disminución de la lesión supraclavicular izquierda, letálides cutáneas craneales y disminución de los requerimientos de analgesia. Actualmente, ha recibido 6 ciclos y continúa tratamiento manteniendo un excelente estado general.

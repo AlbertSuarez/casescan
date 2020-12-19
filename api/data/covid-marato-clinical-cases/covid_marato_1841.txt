@@ -1,0 +1,26 @@
+Anamnesis
+El caso trata sobre un paciente de 60 años, varón, con tabaquismo activo como único antecedente relevante. Consulta por presentar heces melénicas de varios días de evolución junto con astenia importante, revelándose en la analítica posterior anemia que requirió transfusión. El paciente afirmaba no haber presentado ningún otro síntoma previo al inicio de las melenas.
+Se realiza endoscopia digestiva alta (EDA) de forma urgente en la que se observa una úlcera subcardial profunda, mamelonada y dura de unos 4 cm. de diámetro, de la que se toman biopsias.
+A la espera del informe de Anatomía Patológica (AP) se le realiza una PET, en la que se observa, además del aumento de metabolismo a nivel gástrico, otra captación en colon localizada en el ángulo hepático sugerente de tumor sincrónico en estadio localizado. Ante los hallazgos del PET, se completa el estudio con una colonoscopia hallándose hasta 4 pólipos, destacando uno de ellos a 45 cm del margen anal, plano con bordes sobrelevados sugerente de malignidad macroscópicamente. Todos los pólipos fueron resecados por vía endoscópica.
+La AP de las biopsias gástricas confirma que se trata de un adenocarcinoma pobremente diferenciado, por tanto, se completa el estudio del paciente con ecoendoscopia y laparoscopia exploradora en la que no se observa carcinomatosis peritoneal.
+Una vez realizado el estudio, se deriva a consulta de Oncología para valorar tratamiento del adenocarcinoma gástrico y a la espera de informe anatomopatológico de los pólipos extirpados mediante colonoscopia.
+
+Exploración física
+Nos encontramos antes un paciente con ECOG 0, bien nutrido y sin ningún signo relevante en la exploración física.
+
+Pruebas complementarias
+Dado que se había realizado el estudio completo, inicialmente no se solicitó ninguna otra prueba diagnóstica.
+
+Diagnóstico
+Adenocarcinoma gástrico cT4acN2 M0 (estadio IIIA) con sospecha de cáncer de colon sincrónico localizado.
+
+Tratamiento
+Se decide tratamiento con poliquimioterapia perioperatoria con epirrubicina, cisplatino y 5-fluorouracilo (ECF), siguiendo el esquema del estudio MAGIC.
+
+Evolución
+El paciente, tras el primer ciclo de ECF, consulta porque comienza con dolor óseo en columna lumbar, intenso y de nueva aparición. Ante esto, se sospecha una más que probable progresión ósea en el intervalo comprendido entre la realización del estudio diagnóstico completo y el inicio del tratamiento. La TC toracoabdominal solicitada confirma nuestras sospechas. Presenta metástasis óseas múltiples por todo el esqueleto axial, sin que se describan metástasis viscerales. Sin embargo, hay un detalle que llama la atención: las metástasis son blásticas, no líticas como cabría esperar en un adenocarcinoma gástrico. Ante este hallazgo tan inusual, se decide biopsiar una de las lesiones óseas.
+Se había recibido el informe de histopatológico de los pólipos extirpados, siendo todos ellos adenomas serrados con ausencia de transformación maligna. Habiendo ya desechado la idea de que el paciente tenía dos tumores sincrónicos, la biopsia ósea informa de que se trata de una metástasis de carcinoma de origen prostático.
+Estos hallazgos suponen de nuevo cambio drástico en el enfoque del paciente, puesto que el tumor primario metastático es un cáncer de próstata, con mayor expectativa de supervivencia a la de un adenocarcinoma gástrico, siendo, este último, por tanto, un tumor localmente avanzado.
+Cuando se dispuso de esta información, contaba ya el paciente con cinco ciclos de ECF recibidos, por lo que se solicitó una nueva reevaluación por PET para programar la intervención quirúrgica. Además, se inició goserelina como tratamiento para el cáncer de próstata metastático. La PET muestra una respuesta metabólica parcial a nivel gástrico y sin captación significativa de las lesiones óseas.
+Se interviene, y el estudio anatomopatológico de las piezas quirúrgicas revela que con el tratamiento sistémico se había conseguido una respuesta patológica completa (pT0pN0/17).
+Actualmente, el paciente se encuentra ingresado por una colección abdominal como complicación posquirúrgica, pero evolucionando favorablemente.

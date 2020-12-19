@@ -1,0 +1,33 @@
+Anamnesis
+Mujer de 58 años con antecedentes de hipoparatiroidismo primario idiopático con control por Endocrinología, en tratamiento crónico con rocaltrol 0,25mg diario y calcium 500 mg cada 8 horas.
+Fue diagnosticada en marzo de 2012 de carcinoma ductal infiltrante de mama (CDI) izquierda con tamaño 2 x 1,5 cm con presencia de carcinoma in situ de alto grado (comedonecrosis) con infiltración vasculolinfática, bordes quirúrgicos afectos. Grado III Scarff (D3 P2 M2) con metástasis en 2 adenopatías, receptores estrógenos +++, progesterona negativa, C erb B2 negativo, Ki 67 25 %. Con todo ello, se diagnosticó de CDI luminal B estadio cT3 N1 M0. Se presentó en Comité de Tumores y se decidió tratamiento neoadyuvante con antraciclina x 4 ciclos junto con taxano-trastuzumab x 4 ciclos que finalizó en agosto de 2013, con toxicidad máxima de astenia grado 4 y vómitos grado 2. Inicia anastrozol en octubre de 2012. En septiembre de 2013, se realizó una mastectomía radical modificada y extirpación de ganglios axilares izquierdos (niveles I, II y III) seguida de RT sobre pared costal (50 Gy; 200 cGy/sesión; 5 sesiones/semana) y sobre fosa supraclavicular (50 Gy; 200 cGy/sesión; 5 sesiones/semana), con toxicidad máxima radiodermitis grado 1, quedando la paciente libre de enfermedad. Desde entonces, sigue controles semestrales con Oncología.
+Es derivada por Endocrinología en abril de 2017 por síndrome constitucional de 3 meses de evolución con hallazgo analítico de anemia y leucopenia con hemoglobina (Hb) de 7,7 g/dl, VCM 99.1 fl, leucocitos (L) 3.400/l y plaquetas (P) 152.000/l. La paciente relata astenia y pérdida de apetito y de 5 kg de peso de 3 meses de evolución, asociando náuseas ocasionales sin vómitos. No refiere alteraciones en el hábito deposicional ni síndrome miccional, sin clínica infecciosa, ni fiebre. No comenta episodios de dolor óseo ni articular. Se transfunde 2 concentrados de hematíes y se decide ingreso de la paciente para estudio.
+
+Exploración física
+Eastern Cooperative Oncology Group Performance Status (ECOG PS) 1 y exploración cardiopulmonar, abdominal y de miembros inferiores anodina. Examen de la piel sin hallazgos.
+
+Pruebas complementarias
+» Bioquímica: glucosa e iones normales. Función hepática normal. Función renal normal. Calcio 9,1 mg/dl. Ácido úrico 7,3 mg/dl, proteínas 8,7 g/dl, lactato deshidrogenasa (LDH) 649 U/l.
+» Estudio anemia: ferritina 1.038 μg/l, hierro 189 μg/dl, IST 66,8 %, capacidad total fijación Fe 94,1 ug/dl. Vitamina B12 313 pg/ml, ácido fólico 7,3 ng/ml.
+» TC torácica y abdominopélvica: destaca infiltrado en lóbulo superior izquierdo (LSI) con múltiples nódulos pulmonares bilaterales (de distribución difusa y predominio en lóbulos superiores) asociados, hallazgos sugestivos de afectación metastásica. No se aprecian lesiones óseas sugestivas de malignidad en tórax. Destaca lesión lítica con masa de partes blandas asociada en vertiente superior de hemisacro izquierdo compatible con metástasis.
+» RM columna lumbar y sacra: afectación difusa de la intensidad de señal medular del raquis lumbar, pelvis y porción visualizada de ambos fémures, con patrón parcheado de restricción de la difusión; hallazgos compatibles con afectación metastásica difusa.
+» PET/TC: estudio gammagráfico óseo sin evidencia de M1 óseas de carácter osteoblástico.
+Ante estos hallazgos, se decide continuar el estudio para filiar el origen de la lesión pulmonar y sacra:
+» Biopsia de cilindro de pulmón: discrasia de células plasmáticas con secreción monoclonal de cadenas ligeras kappa. Técnica rojo Congo negativa. Estudio inmunohistoquímico: CD38 +, CD79a -, vimentina +, ALC - y presenta secreción cadenas ligeras Kappa. Material amorfo amiloide P+ y A-. Celularidad negativa frente a marcadores epiteliales y RE, RP, C erb-B2 negativo.
+» Inmunología: inmunoglobulina IgG 3670 mg/dl, IgA 8 mg/dl, IgM 4 mg/dl.
+» Cadenas libres en suero: Kappa 202 mg/l, lambda 4 mg/l, índice kappa/lambda 50,5.
+» Proteinograma en suero: albumina 39,6 %, α-1 globulina 6-9 %, α-2 globulina 10,8 %, B;-globulina 9,7 %, gammaglobulina 33 %, cociente albúmina/globulina 0,7, cuantificación pico monoclonal 2,84 g/dl.
+» Inmunofijación: banda monoclonal IgG-kappa.
+» ß2 microglobulina: 5.781 ug/l.
+» Biopsia de médula ósea: se observa plasmocitosis de un 58 % a expensas de células plasmáticas atípicas con secreción monoclonal de cadenas Kappa. En el estudio inmunohistoquímico se expresan CD130, CD38, CD70 15%, CD20 5 %. Marcadores epiteliales negativos. Rojo Congo: negativo.
+Ecocardiografía: sin sospecha de hipertrofia del ventrículo izquierdo o miocardiopatía infiltrativa.
+» Troponinas 0,0 y NTpro-BNP 115,2 pg/ml.
+
+Diagnóstico
+Mieloma múltiple (MM) IgG kappa con plasmocitoma pulmonar.
+
+Tratamiento
+Triplete con bortezomib, talidomida y dexametasona (VTD) durante 6 ciclos.
+
+Evolución
+La paciente ha recibido actualmente el segundo ciclo de VTD con buena tolerancia.

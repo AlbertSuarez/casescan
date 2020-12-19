@@ -1,0 +1,29 @@
+Anamnesis
+Mujer de 52 años fumadora de 15 paquetes-años hasta hace 10 años.
+Diagnosticada en mayo de 2011 mediante TC torácica, broncoscopia y PET, a raíz de un cuadro de dolor torácico de características pleuríticas de adenocarcinoma de pulmón derecho estadio IV (pleura y hueso). El estudio de las mutaciones de EGFR resultó ser positivo.
+Inició gefitinb con buena tolerancia, salvo episodios febriles de probable origen paraneoplásico controlados con naproxeno y acné de grado 1. En febrero de 2012 se demuestra una respuesta parcial mantenida.
+Posteriormente presentó sintomatología de pérdida de fuerza en la extremidad superior izquierda.
+
+Examen físico
+Únicamente destacaba a la exploración neurológica una fuerza 4/5 en ESI; resto 5/5.
+
+Pruebas complementarias
+Hemograma y bioquímica normal, salvo dímero-D 20.000.
+Bioquímica LCR: glucosa 9 mg/dl; proteínas totales 30 mg/dl; hematíes 1 mm3, células 5 mm3, ADA 29 U/l, ECA 3 U/l.
+Anticuerpos antineuronales negativos.
+-Microbiología de LCR: PCR de herpes simplex 1 y 2, parvovirus JC y Mycobacterium tuberculosis complex negativos, VDRL Treponema pallidum negativo; Citologías de ambas punciones lumbares negativas
+-AngioTC torácico: TEP bilateral extenso
+-RM cerebral: hiperintensidad de señal en sustancia blanca de polos anteriores de lóbulos temporales de características inespecíficas que podrían estar en relación con afectación toxico-metabólica.
+-EEG : Actividad cerebral difusamente enlentecida en grado leve.
+-RM cerebral 2: Control evolutivo con aumento de tamaño de lesiones cerebrales y focos de captación intraparenquimatosa sugestivos de metástasis y afectación leptomeningea.
+-TC craneal: Discreto borramiento de los surcos de la convexidad cerebral y folias cerebelosas en relación a diseminación leptomeningea.
+-Informe de la necropsia: Adenocarcinoma de pulmón derecho con metástasis en pulmón y pleura, ganglios linfáticos mediastínicos. SNC: Carcinomatosis meníngea generalizada (cerebro, cerebelo, tronco, médula).
+
+Diagnóstico
+Carcinomatosis leptomeníngea.
+
+Tratamiento
+Se inició tratamiento con esteroides, añadiéndose fenitoína y levetirazepam tras constatarse la presencia de crisis, junto con enoxaparina a dosis anticoagulantes para tratamiento del TEP.
+
+Evolución
+Ingresó por presentar episodios de emesis, desconexión y parestesias en la extremidad superior derecha. Evolucionó con deterioro progresivo del nivel de conciencia y crisis parciales, siendo valorada por Neurología y se realizaron dos punciones lumbares con presencia de meningismo en el momento de su realización y presión elevada. Los estudios radiológicos iniciales tampoco orientaron sobre el origen del cuadro, lo que obligó a realizar más pruebas complementarias. A pesar de tratamiento sintomático, el deterioro se hizo notable, se complicó con un tromboembolismo pulmonar y, finalmente, la paciente falleció.

@@ -1,0 +1,23 @@
+Anamnesis
+Mujer de 30 años, sin antecedentes patológicos personales de interés. Sin hábitos tóxicos conocidos. Antecedentes patológicos familiares: abuelo materno con diagnóstico de adenocarcinoma gástrico a los 70 años.
+Acude a consulta en abril de 2014 por un cuadro clínico de 6 meses de evolución caracterizado por astenia, dolor abdominal y pérdida de peso de 6 kg.
+Exploración física
+Eastern Cooperative Oncology Group Performance Status (ECOG PS) 1. Durante la exploración física no presentaba ningún hallazgo reseñable.
+
+Pruebas complementarias
+» Hemograma y bioquímica sanguínea incluyendo ionograma, función renal y hepática, que fueron normales.
+» Ecografía abdominal: puso en evidencia una masa renal derecha de contornos irregulares e hipervascularizada.
+» Tomografía computarizada (TC) toracoabdominopélvica: confirmó la presencia de una tumoración localizada en polo superior de riñón derecho de 5 x 6 x 7 cm, con densidad heterogénea, áreas de necrosis y adenopatías patológicas en hilio renal ipsilateral.
+» De manera programada, se realizó una nefrectomía radical derecha y linfadenectomía paraaórtica y retro-cava.
+
+Diagnóstico
+El resultado de anatomía patológica fue de angiomiolipoma epitelioide renal (AML-ER). Estadio III (pT2a pN1 cM0).
+
+Tratamiento
+Al tratarse de un tumor renal localizado con resección completa, se decidió seguimiento estrecho.
+
+Evolución
+Tras un intervalo libre de enfermedad (ILE) de 16 meses, en la TC de control se objetivó la aparición de metástasis ganglionares a nivel retroperitoneal. Se clasificó como grupo de riesgo bajo según la International Metastatic Renal-Cell Carcinoma Database. Consortium (IMDC).
+Se decidió iniciar tratamiento de primera línea para enfermedad metastásica con sunitinib 50 mg/día en pauta 4/6 semanas. En el primer mes, fue necesario reducir la dosis a 37,5 mg/día y posteriormente, después de 4 meses, suspenderlo definitivamente por el desarrollo de: trombocitopenia grado I, neutropenia grado III, hipotiroidismo grado II, hipertensión grado III no controlada farmacológicamente y descenso asintomático de la fracción de eyección del ventrículo izquierdo (FEVI) > 20 % del basal. Se obtuvo respuesta parcial (RP), pero debido a la toxicidad, se decidió cambiar el sunitinib por pazopanib 800 mg/día.
+Después de 8 meses con enfermedad estable (EE) con pazopanib, en agosto de 2016 presentó progresión a nivel ganglionar retrocrural, retroperitoneal y en fosa supraclavicular izquierda con conglomerados adenopáticos de hasta 8 cm.
+Se decidió iniciar tratamiento con everolimus 10 mg/día de manera continua, con excelente tolerancia salvo el desarrollo de mucositis grado I durante el primer mes. Tres meses después, en la primera reevaluación, se objetivó respuesta completa (RC), que mantiene hasta la actualidad (junio de 2017), con una supervivencia libre de progresión (SLP) de 11 meses.

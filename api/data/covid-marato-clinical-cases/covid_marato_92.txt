@@ -1,0 +1,33 @@
+Anamnesis
+Mujer de 61 años en la actualidad, cuya historia oncológica comienza en agosto de 1998, fecha en la que consulta por la aparición de una zona de retracción en el cuadrante ínfero-externo (CIE) de la mama izquierda.
+
+En aquel momento se trataba de una paciente premenopáusica de 45 años, sin antecedentes patológicos personales ni familiares de interés. Con posterioridad, y durante la evolución de su enfermedad, han sido diagnosticadas de cáncer de mama dos hermanas de la paciente, de 48 y 50 años, motivo por el cual ha sido derivada recientemente a la Unidad de Consejo Genético (pendiente resultado).
+
+Exploración física
+El examen físico puso de manifiesto la presencia de una zona indurada, mal definida, que abarcaba cuadrante súpero-externo (CSE) y CIE de la mama izquierda, asociando retracción de este último. La exploración axilar reveló la existencia de adenopatías ipsilaterales.
+
+Pruebas complementarias
+Tanto la mamografía como la ecografía constataron la presencia de un nódulo de aspecto proliferativo de 1,6 cm de diámetro máximo, con microcalcificaciones asociadas abarcando CIE y CSE de mama izquierda, clasificado como BIRADS 4c. El resultado de la biopsia con aguja gruesa (BAG) fue de carcinoma ductal infiltrante (CDI).
+
+Diagnóstico
+Se realizaron una mastectomía y una linfadenectomía, con el siguiente resultado: CDI, Grado III, Ki-67:10%, tamaño: 1,2 cm, RE+++, RP++, HER2-. En la linfadenectomía se aislaron 18 ganglios, de los cuales 7 resultaron positivos para CDI (pT1cN2aM0, estadio IIA).
+
+Tratamiento
+Tras la cirugía, se administró quimioterapia adyuvante con esquema tipo CAF (ciclofosfamida, doxorrubicina y 5-fluorouracilo) durante seis ciclos. Posteriormente, recibió radioterapia, y comenzó tratamiento con tamoxifeno, iniciando revisiones rutinarias. Tras cinco años de hormonoterapia, en enero de 2004, y habiéndose confirmado previamente la existencia de menopausia establecida, se decide adyuvancia de continuación con un inhibidor de aromatasa no esteroideo (letrozol).
+
+Evolución
+En julio de 2007, estando en tratamiento con letrozol, la paciente es diagnosticada de metástasis ósea única en sacro, confirmada mediante gammagrafía ósea, resonancia magnética (RM) y posterior biopsia de la zona [anatomía patológica (AP): infiltración por adenocarcinoma (ADC), con RE negativos y expresión débil de RP)].
+
+Debido a la localización única metastásica y la baja expresión de receptores hormonales, se administra radioterapia con intención radical y posterior tratamiento con capecitabina en monoterapia. Tras cuatro ciclos, se objetiva por RM una disminución en la hiperintensidad de la lesión. Dada la respuesta parcial (RP) y la buena tolerancia al tratamiento, se mantiene la capecitabina.
+
+En diciembre de 2008, la paciente presenta dolor lumbo-sacro. Se descarta progresión, pero se opta por asociar al tratamiento un bifosfonato (ácido zoledrónico), que mantiene en régimen mensual hasta febrero de 2010, momento en el que se espacian las administraciones.
+
+En junio de 2011, ante la estabilidad de la enfermedad, y tras 45 meses de tratamiento, se decide de manera conjunta con la paciente realizar un "descanso terapéutico" y seguimiento estricto.
+
+En mayo de 2013, tras casi dos años, se objetiva en gammagrafía ósea nueva captación a nivel de la rama mandibular izquierda, confirmada posteriormente en la TC facial. Debido al tratamiento previo prolongado con ácido zoledrónico, se hace una biopsia de dicha lesión para realizar diagnóstico diferencial entre metástasis ósea y osteonecrosis mandibular como efecto adverso por bifosfonatos. La AP es concordante con metástasis de ADC, RE+, RP++. Se solicita PET-TC con el objetivo de optimizar las opciones terapéuticas en función de la localización única o múltiple de la enfermedad. Las imágenes pusieron de manifiesto captaciones patológicas en la rama mandibular izquierda, en la vértebra D8 y en la diáfisis de fémur derecho, todo ello compatible con progresión ósea múltiple. Dada la localización ósea como único órgano afectado, así como la expresión más intensa de receptores hormonales en la biopsia mandibular, se inicia tratamiento con fulvestrant y ácido zoledrónico. Con dicho esquema se obtiene respuesta parcial (RP), con disminución en la intensidad de captación de todas las lesiones óseas.
+
+La paciente mantiene el tratamiento durante 19 meses, hasta noviembre de 2014, momento en el que se objetiva nueva progresión ósea en la PET-TC (aumento en la actividad metabólica de vértebra D8). En la RM realizada posteriormente se describen metástasis vertebrales múltiples a nivel de D7, D8, D9 y L2. Por ello, se decide realizar cambio de línea de tratamiento a exemestano y everolimus en el mes de diciembre de 2014, con buena tolerancia, salvo por la aparición de rash grado 1.
+
+En abril de 2015, tras la primera reevaluación con PET-TC, presenta RP con una clara disminución de la actividad metabólica a nivel de D8.
+
+Actualmente, la paciente mantiene dicho tratamiento a la espera de siguientes revisiones.

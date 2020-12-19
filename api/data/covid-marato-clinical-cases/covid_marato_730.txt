@@ -1,0 +1,25 @@
+Anamnesis
+Mujer de 44 años, sin alergias medicamentosas conocidas ni hábitos tóxicos. Sin antecedentes patológicos de interés. No refería toma de medicación habitual. Acudió a Urgencias en marzo de 2015 por dolor torácico derecho de tipo pleurítico y disnea de esfuerzo progresiva de 3 meses de evolución, sin síndrome constitucional.
+
+Exploración física
+Buen estado general. Hemodinámicamente estable. ECOG-1. Auscultación respiratoria con hipofonesis en hemitórax derecho, sin ruidos sobreañadidos. El resto de la exploración física sin hallazgos patológicos.
+
+Pruebas complementarias
+Se realizó una analítica sanguínea, sin alteraciones relevantes, y una radiografía de tórax que mostró un derrame pleural derecho de nueva aparición. Se llevó a cabo una toracocentesis diagnóstico-terapéutica obteniéndose líquido pleural compatible con un exudado linfocítico. En la tomografía computarizada (TC) torácica se objetivó un nódulo subpleural de 6 mm en lóbulo superior derecho y derrame pleural masivo ipsilateral. Se halló elevación sérica de CEA a 10,98 ng/ml y CA-125 a 44,30 U/ml.
+El estudio anatomopatológico mediante inmunohistoquímica del líquido pleural y la biopsia mostraron positividad para citoqueratina 7, TTF-1, p53 y negatividad para citoqueratina 20, calretinina y WT1, compatible con un adenocarcinoma de origen pulmonar.
+En el estudio de extensión con PET-TC con contraste, se objetivó la masa primaria en lóbulo superior derecho (SUVmax. 8,6) y captaciones pulmonares bilaterales junto con el derrame pleural ya conocido.
+Se realizó estudio molecular mediante secuenciación dirigida del gen EGFR siendo positivo para la deleción del exón 19.
+
+Diagnóstico
+Adenocarcinoma de pulmón cT1NxM1a, estadio IV-A por metástasis pulmonares y pleurales, con deleción del exón 19 de EGFR.
+
+Tratamiento
+Se inició tratamiento con afatinib a dosis de 40 mg al día en mayo de 2015. La paciente presentó tolerancia inicial regular con diarrea y mucositis grado 1 y rash cutáneo grado 2 que se manejó efectivamente con tratamiento tópico. En la primera evaluación radiológica tras tres meses de tratamiento, presentó respuesta parcial.
+
+Evolución
+En junio de 2017 se objetivó aumento del derrame pleural y aparición de derrame pericárdico, con repercusión clínica, requiriendo ingreso hospitalario y talcaje pericárdico con cisplatino que fue efectivo. Se realizó estudio de mutaciones de resistencia en líquido pleural mediante la plataforma COBAS®, resultando positivo para T790M, por lo que se inició tratamiento con osimertinib 80 mg al día, con excelente tolerancia.
+En septiembre de 2017 se objetivó progresión de la enfermedad por PET-TC, por lo que se inició tercera línea de tratamiento con quimioterapia convencional con carboplatino y pemetrexed, mostrando estabilización de la enfermedad tras cuatro ciclos. Siguió con pemetrexed de mantenimiento hasta junio de 2018, cuando presentó progresión de la enfermedad a nivel óseo y hepático.
+Se realizó una biopsia hepática para estudio molecular con secuenciación génica mediante la plataforma nCounter®, que resultó positiva para mutaciones del exón 19 del gen EGFR y del exón 14 del gen MET, verificándose este último por técnica de hibridación in situ fluorescente (FISH) y encontrándose no amplificado.
+Por tanto, se decidió iniciar cuarta línea de tratamiento con carboplatino y paclitaxel, con progresión radiológica a los 2 meses, y luego quinta línea con carboplatino y vinorelbina con mala tolerancia por astenia grado 3, recibiendo sólo 1 ciclo.
+En noviembre de 2018 ingresó con ascitis maligna y deterioro del estado general hasta ECOG-3. Se decidió retratamiento con erlotinib 100 mg al día, con beneficio clínico (ECOG-2) hasta febrero de 2019, cuando se objetiva progresión de enfermedad radiológica (pleural, hepática, ganglionar y ósea) y nuevo deterioro del estado general hasta ECOG-3.
+Se repitió estudio de EGFR en sangre periférica, encontrándose de nuevo mutación de resistencia T790M positiva (negativa en determinaciones repetidas tras el tratamiento previo con el fármaco dirigido) por lo que se decide retratamiento con osimertinib. Tras 1 mes, la paciente ha presentado mejoría clínica significativa, con ECOG-1 y respuesta parcial radiológica importante (mejoría de las lesiones hepáticas y óseas, desaparición de las ganglionares).

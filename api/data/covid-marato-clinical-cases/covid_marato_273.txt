@@ -1,0 +1,20 @@
+Anamnesis
+Mujer de 83 años con antecedentes de hipertensión arterial en tratamiento con Enalapril e Hidroclorotiazida.
+Sometida en julio-2009 a histerectomía, doble anexectomía, omentectomía y exéresis de implantes peritoneales con diagnóstico de carcinoma de ovario pobremente diferenciado etapa IIIC. Recibe 6 ciclos de Carboplatino-Paclitaxel a título adyuvante con negativización de marcadores tumorales y continua con revisiones periódicas. Permanece sin evidencia de enfermedad hasta octubre-2013 cuando en una Tomografía Axial Computerizada (TAC) corporal se pone de manifiesto una masa necrótica de 4 cm de diámetro en el ligamento gastrohepático con escasa elevación serológica por lo que se decide mantener una actitud expectante.
+En abril-2014 presenta un cuadro consistente en mareo, inestabilidad de la marcha y debilidad en miembros inferiores que impiden la bipedestación autónoma. Asocia náuseas y vómitos así como cefalea holocraneal constante. Tras ser valorada por el Servicio de Neurología, se decide su ingreso hospitalario para completar estudio.
+
+Exploración fisica
+Regular estado general, Índice de Karnofsky (IK) 60. En la exploración neurológica destaca desorientación temporal, inatención y bradipsiquia; en las pruebas de función cerebelosa se objetiva descomposición de los movimientos con llamativa dismetría de las extremidades izquierdas, imposibilidad para la bipedestación sin ayuda y marcha atáxica e inestable con aumento de la base de sustentación sin pulsiones preferenciales. El resto de la exploración física es anodina.
+
+Pruebas complementarias
+El hemograma y la bioquímica en la que se incluyen vitamina B12 y ácido fólico resultan normales. Sin embargo, se documenta una elevación de marcadores tumorales con CA125 de 54,3 U/mL, CA 15.3 de 191 U/mL y CA 19.9 de 108 U/mL. Se lleva a cabo un TAC craneal que únicamente documenta signos moderados de atrofia cortical y lesiones isquémicas de pequeño vaso. La Resonancia Magnética Nuclear (RMN) craneal corrobora dichos hallazgos y un video electroencefalograma evidencia una actividad cerebral normal. Se completa el estudio neurológico con una punción lumbar y análisis del líquido cefalorraquídeo (LCR) en el que se pone de manifiesto la presencia de anticuerpos anti-neuronales anti-Tr sin otras alteraciones.
+Una Tomografía por Emisión de Positrones (PET) documenta aumento del metabolismo en una adenopatía supraclavicular izquierda (SUVmax 6,24) así como en la masa del ligamento gastrohepático ya conocida (SUVmax 10,68) que ha aumentado ligeramente de tamaño respecto a la TAC de octubre-2013. Ante dichos hallazgos se decide tomar una biopsia ecoguiada de la lesión localizada en el ligamento gastrohepático y el informe anatomopatológico descarta el origen hematológico de las lesiones describiendo un tejido infiltrado por carcinoma compatible con origen ginecológico.
+
+Diagnóstico
+Se establece el diagnóstico de degeneración cerebelosa subaguda de origen paraneoplásico con anticuerpos anti-Tr positivos en paciente con carcinoma de ovario pobremente diferenciado en progresión ganglionar.
+
+Tratamiento
+La paciente inicia tratamiento con corticoide intravenoso a dosis altas así como una nueva línea de quimioterapia con Carboplatino del que recibe un primer ciclo el día 05-06-2014.
+
+Evolución
+Pese al tratamiento establecido, la evolución de la paciente viene marcada por la ausencia de mejoría de la clínica neurológica y un deterioro clínico progresivo que impide su manejo ambulatorio. Finalmente es trasladada a un centro de crónicos donde permanece hasta su fallecimiento el 23-06-2014.

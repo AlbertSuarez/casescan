@@ -1,0 +1,30 @@
+Anamnesis
+Paciente varón de 63 años, exfumador desde hace 14 años de 60 paquetes/año, hipertenso en tratamiento con hidroclorotiazida/telmisartán una vez al día.
+
+Historia oncológica: intervenido en agosto del 2012 por neoplasia renal izquierda, se le realizó nefrectomía radical, sin complicaciones quirúrgicas. La anatomía patológica (AP) informaba de una lesión nodular de 2,7 cm de diámetro mayor bien delimitada; el estudio inmunohistoquímico (IHQ) mostró fuerte expresión positiva para CK7 y CK Cam 5.2, todo ello compatible con carcinoma papilar de células claras multifocal con extensas áreas de necrosis, grado de Fuhrman 2. Estadio Clínico I (T1N0M0). Al ser un tumor indolente, se decide seguir controles semestrales a cargo de Urología, sin evidencia de recidiva hasta diciembre de 2013 (TC abdominal).
+
+La enfermedad actual comienza en marzo del 2014, momento en el que el paciente acude a Urgencias por tos con expectoración hemoptoica limitada de una semana de evolución y síndrome constitucional de un mes.
+
+Exploración física
+ECOG 1. Buen estado general, palidez mucocutánea, eupneico en reposo. Hemodinámicamente estable.La auscultación pulmonar estaba conservada, sin ruidos sobreañadidos; en el abdomen se observa la cicatriz de lumbotomía izquierda, extremidades sin edemas. Resto normal.
+
+Pruebas complementarias
+El paciente es ingresado en el Servicio de Neumología para completar el estudio:
+» Analítica: hemoglobina 7,7 g/dl, leucocitos 6.300 (linfocitos 1.000), resto sin alteraciones.
+» TC de tórax: masa sólida con contornos lobulados de 70 x 70 mm en el mediastino posterior, centrada en la región subcarinal, que se introduce en el bronquio derecho; además, estenosa y oblitera el bronquio intermediario. Adenomegalias hiliares derechas de hasta 14 mm.
+» PET-TC: masa bilobulada e irregular hipermetabólica de 7 cm a nivel subcarinal e hiliar derecho compatible con masa neoplásica, sin poder discernir si es conglomerado adenopático o lesión primaria bronquial.
+» Se realizan dos broncofibroscopias: las citologías son indicativas de carcinoma, pero las biopsias no son diagnósticas.
+» Se presenta el caso en la sesión del Comité de Manejo Multidisciplinar de Tumores Torácicos y se decide realizar mediastinoscopia diagnóstica, ante la disyuntiva de ser la masa un segundo tumor primario o metástasis metacrónica del anterior. Se realiza la mediastinoscopia con biopsia de adenopatía subcarinal. La AP informa: metástasis de carcinoma, IHQ con positividad para vimentina, CD 10 y PAX 8 que sugiere origen renal.
+
+Diagnóstico
+Metástasis mediastínica de carcinoma renal primario.
+
+Tratamiento
+En junio de 2013 inició quimioterapia dentro de un ensayo clínico, recibiendo pazopanib 800 mg/día, con evaluaciones mensuales.
+
+Evolución
+En agosto de 2013 es hospitalizado por un cuadro de infección respiratoria no condensante, con cultivos de esputo positivos para Stenotrophomonas maltophilia, recibiendo tratamiento antibiótico específico según antibiograma (sensibilidad a amoxicilina/ácido clavulánico y sulfametoxazol/trimetoprima), en seguimiento conjunto con la Unidad de Patología Infecciosa.
+Durante el ingreso se realiza una TC (según protocolo de ensayo clínico) que describe disminución del tamaño de la masa mediastínica infracarinal, con presencia de burbujas en su interior y con aumento de tamaño de la adenopatía ilíaca común e ilíaca externa izquierdas.
+Ante la persistencia de síntomas respiratorios y que el paciente refiere atragantarse cada vez que ingiere alimentos, con crisis de tos posterior, se realiza una radiografía de tórax, observándose condensación basal derecha (no visualizada previamente). Ante la sospecha de fistula esofágica, se solicita una endoscopia digestiva alta, que informa que en el tercio medio del esófago se identifica una compresión extrínseca ulcerada de 5 cm de longitud, por lo que en el mismo acto se coloca una prótesis esofágica. Tras la mejoría progresiva de los síntomas es dado de alta.
+Se reinicia pazopanib y lo recibe durante 2 meses más; sin embargo a pesar de la buena respuesta radiológica, el paciente presenta deterioro del estado general de manera progresiva (ECOG 4), y por este motivo se decide suspender el tratamiento a finales de noviembre de 2014.
+Finalmente, el paciente falleció en diciembre de 2014, a los 7 meses del diagnóstico de la recidiva.

@@ -1,0 +1,26 @@
+Anamnesis
+Paciente de 73 años sin antecedentes personales de interés, salvo hipertensión en tratamiento. Consulta en noviembre de 2009 a su médico de Atención Primaria por autopalpación de lesión en mama derecha de 6 meses de evolución. Se la remite a ginecólogo de referencia.
+
+Exploración física
+Mama derecha (MD): nódulo palpable de bordes mal definidos de 3 cm en cuadrante inferointerno (CII); ausencia de signos cutáneos ni afectación ganglionar locorregional.
+
+Pruebas complementarias
+» Mamografía (7/12/2009): nódulo BIRADS 5 CII MD con calcificaciones en su interior.
+» Ecografía mama y axila derecha (7/12/2009): lesión sólida de 33 mm de diámetro. Adenopatía axilar con cortical engrosada.
+» Biopsia aguja gruesa lesión mamaria (BAG 7/12/2009): CDI GIII (sistema de Nottingham).
+» Receptores hormonales negativos (0 %), c-ERB2 negativo y Ki67 40 %.
+» Punción adenopatía con aguja fina (PAAF 12/12/2009): negativo para malignidad. Compatible con linfadenitis reactiva inespecífica.
+» RM mama (1/1/2010): foco de 40 x 27 mm en CII MD.
+Se realizó estudio de extensión con ecografía abdominal y rastreo óseo (5/1/2010) porque la paciente refiere dolores óseos generalizados y astenia que no mostró alteraciones.
+
+Diagnóstico
+Carcinoma de mama derecha cT2 N0 M0 en paciente posmenopáusica de 73 años.
+
+Tratamiento
+Se presenta en Comité de Tumores de Mama y, dado que la mama era pequeña y se dificultaba la cirugía conservadora, se decide quimioterapia neoadyuvante AC x 4 (doxorrubicina 60 mg/m2 + ciclofosfamida 600 mg/m2/21 días) seguida de TC x 4 (docetaxel 75 mg/m2+ carboplatino AUC 6/21 días). Previamente se realizó biopsia de ganglio centinela (negativa) y marcaje de la lesión. El ecocardiograma basal informó de leve hipertrofia en ventrículo izquierdo con una FEVI 70 %.
+
+Evolución
+Inicia el tratamiento AC el 22/01/2010. La paciente consulta por diarrea grado 2 de 48 horas de evolución y se realiza analítica que muestra una cifra de neutrófilos de 400 (grado 4). El resto de analítica anodina, sin deterioro de función renal ni signos de deshidratación. Se recoge muestra para coprocultivo y se inicia antibioterapia con ciprofloxacino durante 5 días con mejoría clínica. Cumple los 4 ciclos de AC con buena tolerancia y sin necesidad de reducir dosis.
+El 16/04/2010 inicia TC. Sin embargo, en el día + 11 contacta con el centro por mucositis grado 1 y accesos de tos. En la analítica destaca 200 neutrófilos (monocitosis 60 %) sin fiebre, hemodinámicamente estable y buena tolerancia oral. Se inicia tratamiento con ciprofloxacino y se continúa el mismo esquema con reducción de dosis del 20 % y factores estimulantes de colonias (GCSF). Continúa los dos últimos ciclos sin presentar ninguna incidencia.
+Tras finalizar el tratamiento, la RM de mama mostró respuesta radiológica completa de la lesión. El 30/8/2010 se practica una tumorectomía. El informe histológico definitivo fue de CDI GIII con respuesta grado 2 de Miller-Payne y margen libre: ypT2 (tumor residual de 2,1 cm). Posteriormente recibe radioterapia sobre mama con 50 Gy (2 Gy/fracción) entre el 2/11/2010 al 17/12/2010.
+A fecha de la redacción del caso la paciente mantiene un ECOG 0, sigue revisiones con mamografías anuales dado que sería subsidiaria de reintervención en caso de recidiva tumoral. Además, el Servicio de Cardiología le practica ecocardiogramas bianuales ante la aparición de una insuficiencia mitral, ligera a día de hoy, tras la quimioterapia.

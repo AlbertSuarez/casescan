@@ -1,0 +1,35 @@
+Anamnesis
+Varón de 38 años sin antecedentes personales ni familiares de interés. No realiza tratamiento de forma habitual.
+
+En octubre de 2008, tras un cuadro de epigastralgia de 2 meses de evolución, al que se añade aumento del perímetro abdominal, inicia estudio en su hospital de referencia.
+
+Exploración física
+El paciente presenta buen estado general, eupnéico, normotenso y afebril. Auscultación cardiopulmonar sin hallazgos. Solo destaca palpación ligeramente dolorosa de una gran masa abdominal difícil de delimitar, sin datos de irritación peritoneal. Resto negativo.
+
+Pruebas complementarias
+» Se realizan analítica sanguínea con perfiles simple, renal, hepático y lipídico, y hemograma, que resultan dentro de la normalidad.
+» También se solicitan marcadores tumorales (CEA, Ca 19.9, Ca 12.5) que resultan negativos.
+» Estudio de imagen con tomografía computarizada (TC) de tórax y abdomen con contraste en la que se objetiva: gran tumoración bilobulada en el hemiabdomen izquierdo de 24 cm en su diámetro mayor. Resto del estudio sin hallazgos patológicos.
+
+Diagnóstico
+Se decide intervención quirúrgica con intención diagnóstica y terapéutica, la cual se realiza en diciembre de 2008 mediante exéresis incompleta de la masa. El informe anatomopatológico informa de liposarcoma desdiferenciado de 27 cm, grado 2, con márgenes de resección afectados. 
+Postoperatorio sin complicaciones ni incidencias.
+
+
+Tratamiento
+En la reevaluación postquirúrgica, ante la persistencia del tumor, se decide realizaar una nueva intervención con intención radical (febrero de 2009). Se lleva a cabo exéresis tumoral, con necesidad de nefrectomía izquierda. El estudio anatomopatológico informa de liposarcoma retroperitoneal desdiferenciado grado 2 que infiltra el parénquima y alcanza el hilio renal, de 11,5 x 5,5 cm, contactando con el margen de resección en un punto, y dos ganglios linfáticos del hilio renal libres de neoplasia. Como incidencia en esta ocasión, el postoperatorio fue tórpido por infección de la herida quirúrgica y fístula digestiva a la pared abdominal, que finalmente se resuelve de forma conservadora.
+
+Evolución
+Posteriormente, el paciente es derivado a nuestro hospital para su valoración. Planteado en comité multidisplinar de tumores, se desestima tratamiento radioterápico adyuvante dada la dificultad de irradiación del lecho tumoral y el alto riesgo de complicaciones, e inicia seguimiento en Oncología Médica.
+
+En diciembre de 2009 se objetiva recidiva tumoral, por lo que inicia quimioterapia (QT) con adriamicina e ifosfamida (no candidato a nueva intervención). Buena tolerancia al tratamiento, sin efectos secundarios salvo astenia grado 1. Tras tres ciclos de QT, se observa progresión local de la enfermedad, iniciando una nueva línea de tratamiento con trabectidina 1,5 mg/m2 (marzo de 2010).
+
+Primer ciclo con mala tolerancia por vómitos y neutropenia grado 3, por lo que se reduce un 20% la dosis de trabectidina. Posteriormente, sin efectos secundarios, salvo náuseas y astenia grado 1 y manteniendo los controles analíticos dentro de la normalidad. El paciente recibe un total de 25 ciclos, con enfermedad estable como mejor respuesta.
+
+En febrero de 2012 se objetiva progresión local y aparición de lesiones pulmonares bilaterales sugestivas de metástasis, por lo que se inicia una tercera línea de QT según el esquema docetaxel + gemcitabina. Recibe tres ciclos, con diarrea grado 2 como toxicidad más relevante, y retraso del tercer ciclo por infección del portal que obliga al ingreso hospitalario para antibioterapia intravenosa y retirada del dispositivo. Tras la resolución del cuadro, continúa la QT. Tras el tercer ciclo, en la reevaluación (TC de junio de 2012) muestra crecimiento importante del tumor primario (Imágenes 1 y 2) con estabilidad pulmonar.
+
+Se decide el inicio de una cuarta línea de QT con dacarbacina, a la que el paciente progresa rápidamente, por lo que tras la nueva valoración del caso y ante las escasas opciones terapéuticas, en agosto de 2012 se inicia tratamiento dentro del ensayo clínico CBEZ235A2118 fase Ib, recibiendo paclitaxel semanal 80 mg/m2 + BKM 100 mg/día de forma continua (inhibidor selectivo de PI3K).
+
+Muestra muy buena tolerancia, sin toxicidad salvo astenia y mucositis grado 1, y rash maculopapular grado 2 en los brazos. Se alcanza la estabilidad de la enfermedad como mejor respuesta, hasta que en abril de 2013, tras nueve ciclos de tratamiento se objetiva una nueva progresión de la enfermedad.
+
+El paciente es valorado para entrar en el ensayo clínico fase II del GEIS con pazopanib, pero no cumple todos los criterios de inclusión (al haber recibido más de tres líneas de tratamiento). Finalmente, en mayo de 2013 comienza doxorrubicina liposomal (sexta línea de QT) con síndrome mano-pie grado 3 tras el segundo ciclo, por lo que se reduce un 25% la dosis del tratamiento, sin mejoría de la toxicidad y con una nueva progresión objetivada tras tres ciclos, por lo que se suspende la QT. Coincidiendo con esta progresión, el paciente sufre deterioro clínico importante, con dolor abdominal mal controlado que precisa ingreso hospitalario. Finalmente sufre fallo multiorgánico y fallece.

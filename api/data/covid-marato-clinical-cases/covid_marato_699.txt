@@ -1,0 +1,38 @@
+Anamnesis
+La mujer del paciente comenta que se realizó una tomografía computarizada (TC) con contraste el mismo día de la analítica y que lleva 5 días con disminución del apetito y de la ingesta hídrica, asociando los días previos al ingreso disminución de la diuresis. No refieren diarrea, vómitos, tos, expectoración, fiebre o síndrome miccional.
+
+Exploración física
+Las constantes son normales (tensión arterial 126/69 mm Hg, frecuencia cardiaca: 81 lpm, afebril, Sat 94 % con fracción inspirada de oxígeno del 21 %), la auscultación cardiopulmonar no revela ningún dato patológico, y del resto de la exploración física del paciente sólo cabe destacar la sequedad de mucosas y el signo del pliegue que es positivo.
+
+Pruebas complementarias
+En la analítica extraída de forma ordinaria se objetiva una creatinina de 4,42 mg/dl y urea de 199 mg/dl.
+En el Servicio de Urgencias se realiza nueva analítica de sangre, en la que se corrobora el deterioro de la función renal, y se extrae analítica de orina y gasometría.
+Tomografía axial computarizada de tórax, abdomen:
+Informe
+Tórax
+» Aumento de volumen de la masa pulmonar conocida localizada en el segmento I/II izquierdo que se extiende hasta el hilio, presenta unos diámetros aproximados de 6,4 x 5 x 3,2 cm (sagital, cc y transverso).
+» Ocupación del espacio alveolar con broncograma aéreo en el segmento VI derecho sin cambios relevantes.
+» Persiste sin cambios significativos de tamaño la opacidad parenquimatosa pseudonodular en vidrio deslustrado de localización subpleural en segmento posterior de LSD, de 6 mm de diámetro mayor.
+» No se observan nódulos pulmonares de nueva aparición.
+» Adenopatías mediastínicas, así como tejido de densidad partes blandas localizado en la ventana aortopulmonar sin cambios relevantes.
+» Disminución del derrame pericárdico.
+» No hay derrame pleural.
+» Ginecomastia bilateral.
+Abdomen superior
+» Quiste hepáticos ya conocidos en LHD y LHI sin cambios. No se observan lesiones focales hepáticas de nueva aparición. Granuloma calcificado en el segmento VI hepático.
+» Engrosamiento suprarrenal bilateral de morfología pseudonodular en el lado izquierdo de 15mm, sin cambios.
+» Vesícula, vía biliar, páncreas, bazo, riñón izquierdo y suprarrenal derecha sin alteraciones.
+» Cálculos intrarrenales derechos no obstructivos sin cambios. Quiste parapiélico derecho.
+» No hay hidronefrosis. No adenopatías retroperitoneales.
+» Cambios degenerativos del esqueleto axial sin otras alteraciones valorables por TC.
+» Impresión diagnóstica: progresión de enfermedad pulmonar. Discreta mejoría del derrame pericárdico. Resto del estudio sin cambios relevantes respecto al previo con el que se compara.
+
+Diagnóstico
+Nos encontramos ante un paciente con antecedente de cardiopatía isquémica crónica e infarto, en tratamiento con inmunoterapia por progresión de cáncer de pulmón localmente avanzado, que es diagnosticado de insuficiencia renal aguda grado III1, con hiperpotasemia grado III1, aumento de la creatinina grado III1 y acidosis metabólica grado III1.
+Ante un paciente tratado con inmunoterapia (anti-PD-1 en este caso) y una insuficiencia renal aguda, deberíamos sospechar que sea un efecto secundario e iniciar tratamiento con corticoides lo más temprano posible. En nuestro caso, tenemos el antecedente de deshidratación previa, por lo que el diagnóstico diferencial se realizaría entre insuficiencia renal aguda prerrenal evolucionada a necrosis tubular aguda, la nefritis intersticial aguda por pembrolizumab.
+
+Tratamiento
+Se inicia tratamiento con fluidoterapia (3.000 cc de suero salino fisiológico), diuréticos (furosemida 20 mg/8 h intravenoso), insulina, gluconato cálcico, bicarbonato, corticoterapia a dosis de 1 mg/kg/día de metilprednisolona.
+
+Evolución
+La evolución es favorable tras el inicio del tratamiento corticoide (creatinina 1,64 mg/dl el último día de ingreso, 1,21 mg/dl en el último control ambulatorio), por lo que es dado de alta con prednisona oral en pauta descendente durante un mes. Actualmente, está en tratamiento con paclitaxel, pendiente de prueba de imagen para evaluación de enfermedad.

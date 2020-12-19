@@ -1,0 +1,21 @@
+Anamnesis
+Mujer de 63 años, nunca fumadora. Diagnosticada en agosto de 2010 de adenocarcinoma de pulmón estadio IIIA cT3N2M0 y portadora de deleción del exón 19 de EGFR (mutación detectada en membrana citológica y confirmada posteriormente en muestra de biopsia tumoral).
+Inició tratamiento neoadyuvante con cisplatino 75 mg/m2 y gemcitabina 1.250 mg/m2 días 1 y 8 cada 21 días. Recibió dos ciclos, con una respuesta parcial por tomografía por emisión de positrones/tomografía computarizada (PET/TC) y downstaging ganglionar mediastínico confirmado con ecobroncoscopia lineal (EBUS). El 08.11.2010 se practicó toracotomía en la que se evidenció infiltración pleuropericárdica y persistencia de afectación ganglionar mediastínica en nivel 8. Al tratarse de un estadio IV, se decidió iniciar tratamiento con erlotinib a dosis estándar, tratamiento que recibió del 13.12.10 al 02.08.2011. Presentó como mejor respuesta enfermedad estable. En julio de 2011 se evidenció progresión pulmonar de la enfermedad. Inició segunda línea con cisplatino y pemetrexed, obteniendo una respuesta parcial como mejor respuesta tras seis ciclos. En mayo de 2012 presentó nueva progresión pulmonar de la enfermedad.
+Se decidió reinducción con inhibidores tirosinquinasa (ITQ), en este caso con afatinib a dosis de 40 mg/día. La mejor respuesta obtenida fue respuesta parcial pulmonar, pero progresión hepática y cerebral. Se realizó nueva biopsia para estudio del mecanismo de resistencia.
+
+Examen físico
+Exploración física completa sin hallazgos de interés.
+
+Pruebas complementarias
+Ecografía hepática + biopsia (09.10.2012): hígado de tamaño y morfología normal con presencia de múltiples lesiones nodulares sólidas hiperecogénicas, homogéneas y bien delimitadas. Tras la administración de 10 cc de anestésico a nivel local, se procede a realizar biopsia del nódulo de 2 cm en segmento V-VIII, con aguja de 16 G bajo control ecográfico.
+Anatomía patológica de la biopsia hepática (09.10.2012): metástasis de carcinoma de células pequeña (carcinoma neuroendocrino de alto grado).
+Estudio de biología molecular: presencia de del19, ausencia T790M.
+
+Diagnóstico
+Mujer de 63 años, diagnosticada de adenocarcinoma de pulmón estadio IV por afectación pleuropericárdica, pulmonar, portadora de mutación EGFR (del19). Transformación a carcinoma de célula pequeña (persistencia de EGFR del19 y con T790M negativa) con progresión hepática y cerebral.
+
+Tratamiento
+Al objetivarse transformación histológica a oat cell en la biopsia hepática, se decidió realizar tratamiento con carboplatino y etopósido y radioterapia holocraneal.
+
+Evolución
+Inició quimioterapia el día 5.11.12, pero se suspendió el tratamiento por rápido deterioro clínico tras un único ciclo y sin poderse completar el tratamiento radioterápico. La paciente falleció el día 17.11.12.

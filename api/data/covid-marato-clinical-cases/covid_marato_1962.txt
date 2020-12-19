@@ -1,0 +1,28 @@
+Anamnesis
+Varón de 57 años, diagnosticado de diabetes mellitus tipo 2 y a tratamiento con metformina, ningún otro antecedente medicoquirúrgico de interés. No refería alergias medicamentosas ni hábitos tóxicos.
+Fue diagnosticado en 2012 de melanoma cutáneo maligno de tercer dedo de pie derecho tratado mediante amputación transmetatarsiana más linfadenectomía inguinocrural, iliacos externos y fosa obturatriz. Se estadificó como pT4N0M0, BRAF no mutado y CKit positivo. Tras evaluarse en comité multidisciplinar inició seguimiento. Con un intervalo libre de enfermedad de 20 meses, en una TC de control de febrero 2014 se objetivó progresión pulmonar múltiple milimétrica.
+Se solicitó PET-TC con captación patológica a dicho nivel compatible con metástasis; en ese momento se decidió iniciar tratamiento con imatinib 400 mg/ día, con buena tolerancia y con evidencia radiológica de respuesta parcial, mantenida durante más de 24 meses.
+Tras un intervalo libre de progresión de 25 meses, en marzo de 2016, presenta progresión pulmonar, con aumento de tamaño y número de nódulos en ambos pulmones, por lo que inició tratamiento con pembrolizumab 2 mg/kg/3 semanas, con buena tolerancia inicial y respuesta parcial. Tras 12 ciclos de pembrolizumab en enero 2017, a los 3 meses de iniciar el tratamiento, continúa con respuesta parcial mantenida en TC de control, pero en la analítica se evidencia una alteración de las hormonas tiroideas (disminución de los niveles de T4 y de TSH), aunque el paciente estaba asintomático desde el punto de vista clínico. Se completa exploración física y estudio.
+
+Exploración física
+» ECOG 0.
+» TA 130/70 mm Hg; FC 80 lpm, Tª 36,2 ºC; glucemia capilar 132.
+» Normohidratado. Normoperfundido. Sin datos de cianosis distal.
+» Exploración física neurológica sin datos de focalidad.
+» AC: rítmica, sin soplos. AP: ruidos respiratorios conservados. ABD: blando, sin dolor. Sin hepatomegalia. MMII: sin edemas, amputación de tercer dedo de pie derecho.
+
+Pruebas complementarias
+» Hemograma y bioquímica sin alteraciones.
+» Estudio hormonal: T4 0,71 ng/100 ml (0,93-1,71) ; TSH 0,13 uUI/ml (0,3-4,5); cortisol basal 4,2 pg/100 ml (5,3-22,4); ACTH 6,2 pg/100 ml (7,2-63,3); FSH 1,70 mUI/ml (1,4-18); LH 3 mUI/ml (1,5-9,3); testosterona basal 2 ng/ml (1,93-7,4); prolactina 4,2 ng/ml (2-18); IGF-1,75 ng/ml (55-185).
+» RM cerebral: no se objetivan captaciones. Hipófisis de tamaño, morfología y situación normales.
+
+Diagnóstico
+Hipofisitis autoinmune secundaria a tratamiento con pembrolizumab.
+
+Tratamiento
+De acuerdo con el servicio de Endocrinología, se inició tratamiento con hidroaltesona a dosis de 30 mg/día en 2 tomas (20-0-10 mg) y tratamiento sustitutivo con hormona tiroidea a dosis de 50 mg/día.
+
+Evolución
+Como ya se ha comentado, el paciente se encontraba asintomático en el interrogatorio dirigido por lo que se continuó tratamiento con pembrolizumab con la misma dosis de 3 mg/kg cada 3 semanas y tratamiento sustitutivo con hidroaltesona 20-0-10 y hormona tiroidea a dosis de 50-0-0.
+Tras 24 ciclos, en septiembre de 2017, el paciente mantenía respuesta parcial, pero solicita descanso terapéutico, por lo que se suspende el pembrolizumab y, a su vez, se inicia la retirada escalonada de esteroides hasta suspensión definitiva salvo situaciones de estrés (fiebre, infección) en cuyo caso se volverían a indicar, y de manera progresiva posterior, también la suspensión de tratamiento sustitutivo de hormona tiroidea.
+Actualmente, continúa revisiones en consultas sin datos de toxicidad tardía ni evidencia de progresión, siendo valorado por última vez el 11/3/2018.

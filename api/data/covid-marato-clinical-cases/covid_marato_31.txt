@@ -1,0 +1,25 @@
+Anamnesis
+Paciente varón de 72 años con antecedente de cardiopatía isquémica. Intervenido en el 2011 mediante cistoprostatectomía radical por carcinoma de células transicionales de vejiga pT3N1. Realizó posteriormente tratamiento quimioterápico adyuvante con cisplatino-gemcitabina por cuatro ciclos. Siguió controles de forma ambulante, encontrándose el paciente sin evidencia de enfermedad.
+Acude a revisión el día 16/5/2013, refiriendo astenia severa, anorexia y pérdida de peso, así como vómitos alimenticios con escasa tolerancia oral.
+
+Examen físico
+El paciente se encuentra afebril y HD estable, con estado general conservado.
+Auscultación cardiopulmonar: normal.
+Abdomen: blando y depresible, sin signos de irritación peritoneal. Ausencia de ruidos intestinales.
+
+Pruebas complementarias
+- TC body: cambios por cistoprostatectomía radical con derivación ureteral bilateral de tipo Bricker sin evidencia de recidiva tumoral. Raíz del mesenterio con un aspecto "sucio" que asocia retracción mesentérica, compromiso de la vena mesentérica y desarrollo de colaterales, hallazgos en probable relación con trombosis mesentérica de carácter crónico con desarrollo de edema mesentérico o un proceso de mesenteritis retráctil con compromiso venoso. Discreta dilatación pielocalicial y ureteral bilateral con enlentecimiento de la eliminación por parte del riñón izquierdo. Nódulo mediastínico anterior de probable origen tímico, sin cambios. Colelitiasis.
+- Octreoscán: no se detecta tumor neuroendocrino con expresión de receptores de somatostatina.
+- Gastroscopia: esofagitis severa grado C. Biopsias: fragmentos de escara fibrinoleucocitaria. Fragmentos de mucosa esófagica con inflamación focal.
+- TC abdominal: hígado con lesiones hipodensas en ambos lóbulos infracentímetricas, no claramente presentes en la TC previa, salvo algunas de ellas, no podemos descartar metástasis. Pequeña cantidad de líquido libre pleural bilateral.
+Adrenales, páncreas, sin aparente evidencia de patología. Colelitiasis. Vía biliar no dilatada. Cambios por cistoprostatectomía radical con derivación ureteral bilateral de tipo Bricker sin evidencia de recidiva tumoral. Raíz del mesenterio con imágenes de retracción mesentérica, compromiso de la vena mesentérica superior, con estenosis de la misma, y desarrollo de colaterales venosas, ya descrito en la TC previa. Desconocemos si este proceso de fibrosis mesentérica se debe a una carcinomatosis o a una fibrosis mesentérica secundaria a otras etiologías. Discreta dilatación pielocalicial y ureteral bilateral. Presencia de neumoperitoneo, sin objetivarse claramente el origen del mismo, rodeando asas de delgado y colon. Se aprecia algún asa de intestino delgado dilatada, sin clara evidencia de hipoperfusión mural, que sugiera la existencia de asa isquémica. No obstante, y ante la presencia de la estenosis de la vena mesentérica superior secundaria al proceso de fibrosis mesentérica, no podemos descartar que exista una isquemia intestinal asociada con neumoperitoneo.
+
+Diagnóstico
+Se trata de un varón con antecedente de neoplasia vesical intervenida y tratada con quimioterapia, que presenta en la actualidad una mesenteritis retráctil de etiología no filiada y en estudio.
+
+Tratamiento
+A su ingreso se inicia tratamiento anticoagulante por presencia de una trombosis mesentérica crónica en la TC. Se inicia tratamiento sistémico con corticoides, procinéticos y se inicia nutrición parenteral.
+
+Evolución
+Durante el ingreso, el paciente es valorado por Cirugía Vascular, descartándose la trombosis mesentérica como causa de la mesenteritis. Asimismo, es valorado por Cirugía General, decidiéndose tratamiento conservador. Se descarta la posibilidad de realizar una biopsia guiada por TC por su difícil acceso. El día 2/6/2013 presenta vómitos en posos de café, por lo que se realiza una gastroscopia, donde se visualiza una esofagitis severa. El paciente continúa recibiendo tratamiento con corticoides y procinéticos.
+El día 11/6/2013 presenta deterioro clínico con disnea, oliguria, deterioro renal y shock. Se inicia tratamiento con inotropos, con ausencia de mejoría, por lo que se decide su traslado a la Unidad de Cuidados Intensivos. Se solicita una TC urgente, donde se evidencia la presencia de neumoperitoneo, sin objetivarse el origen del mismo, así como una dudosa isquemia intestinal. Valorado por Cirugía General, se decide intervención quirúrgica urgente. En la laparotomía se comprueban múltiples perforaciones intestinales producidas por isquemia severa, peritonitis y gran infiltración tumoral retroperitoneal. Se toman muestras para anatomía patológica y se decide cerrar el abdomen. Se informa a la familia del mal pronóstico y se decide no realizar maniobras invasivas, falleciendo el paciente a las pocas horas. A las 48 horas del fallecimiento el estudio histopatológico demostró fragmentos de tejido conectivo con infiltración por carcinoma poco diferenciado con estudio inmunohistoquímico (CK 5.6+, P63+, CK 7+, CK20 + focal, uroplaquina -) compatible con un origen vesical.

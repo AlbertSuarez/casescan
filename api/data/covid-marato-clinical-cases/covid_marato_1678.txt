@@ -1,0 +1,22 @@
+Anamnesis
+Varón de 52 años, sin alergias medicamentosas conocidas, exfumador de 15 paquetes/año, sin antecedentes de interés. Acudió en junio de 2011 a Urgencias por presentar un dolor abdominal localizado en el epigastrio y en el hipocondrio derecho de 6 días y fiebre de 48 horas de evolución.
+
+Examen físico
+A la exploración física presentaba buen estado general, normohidratado y normocoloreado, auscultación cardíaca y pulmonar normales. Abdomen blando y depresible, doloroso a la palpación en el hipocondrio derecho, sin masas ni megalias ni signos de irritación peritoneal.
+
+Pruebas complementarias
+Ecografía abdominal: hígado con aumento difuso de la ecogenicidad y múltiples lesiones ocupantes de espacio hipodensas en ambos lóbulos hepáticos, la mayor de 4,5 cm.
+TAC toraco-abdominal: hígado con múltiples lesiones nodulares bilobares, heterogéneas, con captación periférica del CIV, sugestivas de metástasis. Engrosamiento irregular de la pared del colon de 4,5 cm a nivel del ángulo esplénico/colon transverso, con extensión a la grasa subyacente. Adenopatías mesentéricas subcentimétricas. 
+CEA al diagnóstico fue de 630,9 ng/ml
+Colonoscopia: lesión estenosante en ángulo esplénico con biopsia positiva para adenocarcinoma.
+KRAS NATIVO
+
+Diagnóstico
+Adenocarcinoma de colon transverso estenosante con metátasis hepáticas múltiples bilobares, cT4N1M1.
+
+Tratamiento
+Inició tratamiento con panitumumab + FOLFOX4 dentro del ensayo clínico PULSE con reducción del tamaño de la M1 hepática en segmento VIII y práctica resolución del engrosamiento parietal a nivel del ángulo esplénico a los 6 ciclos.
+Dada la respuesta el paciente salió del estudio y se intervino el 2/11/2011 realizándose una metastasectomía de los segmentos II-III con una hemicolectomía derecha ampliada. La anatomía patológica del colon correspondía a un adenocarcinoma moderadamente diferenciado de bajo grado con invasión linfovascular y perineural, márgenes libres y afectación de 2 de los 17 ganglios resecados (pT3bN1a). Se reintervino en un segundo tiempo realizándose una lobectomía hepática derecha.El estudio histológico resultó ser compatible con adenocarcinoma intestinal con márgenes libres.
+
+Evolución
+Reinició FOLFOX4 + Panitumumab x 4 ciclos hasta mayo de 2012, con respuesta completa por TAC y continuó con tratamiento de mantenimiento con Panitumumab + 5FU hasta agosto de 2012 Se confirmó la persistencia de una respuesta completa por TAC. En octubre 2012, después de 10 meses libre de enfermedad, presentó nueva recidiva en segmento IV hepático. El 20/11/2012 se practicó nueva segmentectomía hepática del segmento III-IV con resultado anatomopatológico de dos metástasis de adenocarcinoma, de 2,6 y 1,5cm de diámetro compatibles con primario colorrectal. Desde enero de 2013 recibe quimioterapia adyuvante con el esquema FOLFIRI.

@@ -1,0 +1,27 @@
+Anamnesis
+Varón de 52 años, sin antecedentes de interés, diagnosticado en agosto de 2012 de adenocarcinoma del tercio distal esofágico localmente avanzado. Recibe tratamiento neoadyuvante con quimioterapia (QT) 2 ciclos, según esquema cisplatino (80 mg/m²) día 1 y 5-fluorouracilo (1000 mg/m2) días 1-4 en infusión continua, de forma simultánea con radioterapia (RT).
+Tras el 2.º ciclo de QT acude a consultas externas de Oncología Médica por clínica de mareo, diarrea y síncope.
+
+Examen físico
+ECOG 2; TA 95/60 mm Hg; FC 107 lpm; Sat. O2 95 %; T.ª 37,8 ºC.
+Exploración neurológica: sin hallazgos reseñables. Exploración cardíaca: taquicardia sinusal, sin soplos. Auscultación pulmonar: MVC, sin ruidos sobreañadidos. Abdomen: sin datos de peritonismo. EEII: no presentan edemas ni signos de TVP.
+
+Pruebas complementarias
+Al ingreso en analítica leucocitos 1.400/mm3, neutrófilos 800/mm3 y linfocitos 100/mm3. Sedimento urinario y hemocultivos negativos.
+Radiografía de tórax: sin hallazgos patológicos.
+Analítica de control: leucopenia 1000/mm, neutrófilos 500/mm3, linfocitos 100/mm3. Resto, normal.
+Cultivo PICC: negativo.
+Ecocardiograma: negativo para endocarditis.
+Radiografía de tórax: aumento de densidad algodonosa bibasal, compatible con focos de consolidación neumónica.
+TC toracoabdominal: se observa engrosamiento de los septos interlobulillares y aparición de infiltrado en vidrio deslustrado de distribución lobular confluente y de predominio en campos pulmonares superiores. A nivel abdominal, se observa engrosamiento hipodenso de la mucosa de todo el esófago, estómago y duodeno.
+PCR CMV: 63200 copias.
+
+Diagnóstico
+Al ingreso se inicia tratamiento antibiótico de amplio espectro con ceftacidima y amikacina ante la sospecha de infección bacteriana con recuperación de neutropenia. Posteriormente, presenta empeoramiento clínico y aparición de neutropenia febril sin foco, por lo que se inicia antibioterapia con piperacilina-tazobactam, amikacina y vancomicina, añadiéndose después cobertura antifúngica con caspofungina por persistencia del síndrome febril.
+Ante la evolución desfavorable, junto con los hallazgos analíticos (linfopenia persistente) y de la TC se sospecha infección vírica por CMV, por lo que se solicita PCR de CMV que resulta positiva.
+
+Tratamiento
+Ante estos hallazgos se inicia tratamiento con gamciclovir endovenoso con inicio de tolerancia a dieta oral y retirada posterior de nutrición parenteral. Se decide el alta con hospitalización a domicilio para completar tratamiento endovenoso durante 3 semanas.
+
+Evolución
+Tras el inicio del tratamiento, se objetiva una disminución progresiva de la carga viral con negativización en analítica de control tras el fin de tratamiento.

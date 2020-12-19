@@ -1,0 +1,24 @@
+Anamnesis
+Mujer de 52 años, sin alergias conocidas a medicamentos, dislipidemia en tratamiento con estatinas, fumadora. Con antecedentes ginecológicos de menarquia a los 12 años, menopausia a los 51 años, sin gestaciones previas. Consulta por un nódulo en la mama izquierda que se asocia a signos inflamatorios.
+
+Examen físico
+En la mama izquierda presenta un nódulo de 3 cm mal delimitado, fijo e indurado en el cuadrante superior externo de la mama con cambios inflamatorios asociados y adenopatía axilar palpable.
+
+Pruebas complementarias
+- Mamografía bilateral y ecografía mamaria: nódulo en el cuadrante superior externo de la mama izquierda de márgenes parcialmente definidos y engrosamiento cutáneo.
+- En la ecografía se observan cambios inflamatorios en la mama izquierda con quiste complejo de 2,6 cm que se drena.
+- Resonancia magnética mamaria: en la mama izquierda se visualiza un nódulo quístico en el cuadrante superior externo con engrosamiento irregular y realce parietal, con realce nodular asociado. BIRADS 4c, también tres adenopatías axilares izquierdas patológicas BIRADS 6. Cambios inflamatorios en la mama izquierda con engrosamiento cutáneo.
+- Se completa el estudio con una biopsia con aguja gruesa (BAG) del nódulo en la mama izquierda que informa presencia de restos de una neoplasia epitelial maligna pobremente diferenciada.
+- En BAG de ganglio linfático objetivan masiva infiltración por una neoplasia epitelial maligna pobremente diferenciada con inmunohistoquímica positiva para citoqueratina 19, citoqueratina AE1/AE3 y focalmente positiva para GCDFP-15, receptores de estrógenos, progesterona y Her2 neu negativos.
+- PET-TC: lesión nodular en el cuadrante superior externo de la mama izquierda, así como un conglomerado adenopático axilar izquierdo de características metabólicas malignas. Sin evidencia de enfermedad maligna macroscópica en otras localizaciones.
+
+Diagnóstico
+Carcinoma inflamatorio de mama izquierda con afectación axilar inicial. T4N1M0. Estadio III B. Triple negativo.
+
+Tratamiento
+Recibe quimioterapia neoadyuvante con antraciclinas y taxanos según esquema: adriamicina 60 mg/m2 con ciclofosfamida 600 mg/m2 cada 21 días por 4 ciclos seguido de taxol 80 mg/m2 semanal por 12 ciclos.
+
+Evolución
+Completa el tratamiento neoadyuvante con buena tolerancia, presentando como toxicidad más destacable alopecia grado 2, náuseas grado 1. Clínicamente presenta respuesta completa, en el examen físico de la mama izquierda no se palpan masa ni adenopatías axilares. La resonancia magnética de reevaluación informa de respuesta parcial con pequeño nódulo en el cuadrante superior izquierdo de la mama izquierda con desaparición de los signos inflamatorios difusos. Con estos datos se remite a cirugía de mama, donde realizan mastectomía radical modificada tipo Madden con linfadenectomia axilar I-II.
+En el estudio histológico de la pieza quirúrgica se objetivan restos de carcinoma infiltrante de células escamosas moderadamente diferenciado con alteraciones histológicas atribuibles al tratamiento previo con quimioterapia.
+Márgenes quirúrgicos libres de afectación. Axila: 11 ganglios linfáticos de características benignas a nivel óptico, uno de ellos con alteraciones histológicas atribuibles a quimioterapia. ypT1c pN0.

@@ -1,0 +1,30 @@
+Anamnesis
+Mujer de 40 años, ex-fumadora desde hace 7 años (Índice años/paquete: 30) sin otros antecedentes médicos ni familiares de interés.
+Consulta en diciembre de 2003 en Otorrinolaringología, remitida desde Atención Primaria, por obstrucción de fosa nasal izquierda de 4 meses de evolución que no responde a tratamiento médico.
+
+Exploración física
+A la exploración presenta buen estado general. Performance Status 0. Se realiza rinoscopia anterior objetivando tumoración sangrante con superficie blanquecina que ocupa la totalidad de la fosa nasal izquierda por fuera del cornete medio, impidiendo el paso del endoscopio. La fosa nasal derecha no presenta alteraciones y no se palpan adenopatías cervicales homolaterales ni cotralaterales.
+
+Pruebas complementarias
+» TAC de cara y senos:
+Masa nasal izquierda que produce ocupación de fosa nasal izquierda con oclusión de la coana y parcialmente de la luz del cavum. Esta masa está produciendo una remodelación del tabique interno del seno maxilar izquierdo con reabsorción de celdillas etmoidales de ese lado. El seno esfenoidal está libre así como los senos frontales. Oclusión del ostium de drenaje de senos maxilares izquierdo y derecho.
+» Analítica y TAC tórax-abdomen: Sin alteraciones.
+Se realiza biopsia de la tumoración que informa de carcinoma indiferenciado por lo que en enero de 2004 es intervenida mediante rinotomía paralateronasal con exéresis completa de la masa tumoral.
+
+Diagnóstico
+Resultado anatomopatológico tras la cirugía: Islotes y trabéculas de células pequeñas redondas con halo citoplásmico claro y núcleo central, de cromatina laxa, con escaso polimorfismo. La actividad mitótica es moderada (4 mitosis/10HPF), sin observarse necrósis tumoral. Estroma fibroso, con vasos ectásicos. El estudio inmunohistoquímico muestra positividad extensa para citoqueratinas (Cam 5.2, CK 22 y CK 20). La población muestra algunos marcadores de diferenciación neuronal (Cromogranina, Enolasa neuronal específica y Serotonina). Negativa para Vimentina, LCA, Sinaptofisina y Neurofilamentos.
+Conclusión: Estesioneuroblastoma grado III de Hyams.
+
+Tratamiento
+Con el diagnóstico de estesioneuroblastoma grado III de Hyams y grupo B de Kadish es valorada en Comité multidisciplinar de tumores de cabeza y cuello decidiéndose la administración de Radioterapia como tratamiento adyuvante.
+Del 03.03.04 al 22.04.04 recibe irradiación sobre el lecho tumoral hasta una dosis total de 60 Gy (fraccionamiento de 2 Gy/fracción, 5 fracciones/semana) con buena tolerancia global presentando dermitis G1 y mucositis G1 como toxicidades relevantes.
+
+Evolución
+La paciente inicia seguimiento por el Servicio de Otorrinolaringología que cumple con regularidad y sin objetivarse evidencia de enfermedad.
+En mayo de 2015, en curso de seguimiento anual y con un intervalo libre de enfermedad de 11 años, acude a consulta de ORL por notar tumoración cervical izquierda, no dolorosa, de 3 meses de evolución. A la exploración se palpa tumoración mal definida en región yugulodigástrica izquierda.
+Se realiza ecografía cervical evidenciando múltiples adenopatías submandibulares y laterocervicales izquierdas con pérdida de hilio graso y aumento de flujo en su interior. La mayoría son subcentimétricas encontrando la mayor en localización retromandibular, de 34 mm, que corresponde a la tumoración palpable. Estos hallazgos no estaban presentes en estudio previo de Noviembre de 2014.
+Se solicita punción aspiración con aguja fina de la tumoración con resultado compatible con metástasis de tumor poco diferenciado de célula pequeña por lo que, tras descartar enfermedad a otros niveles, el 29.6.15 se realiza cervicotomía izquierda con exéresis de 4 adenopatías para estudio anatomopatológico.
+La anatomía patológica informa de masas sólidas de patrón rosetoide formadas por células redondas de notable pleomorfismo nuclear y elevado índice mitótico con áreas de necrosis en las cuatro adenopatías remitidas. En inmunohistoquímica se observa intensa positividad para citoqueratinas AE1/AE3, 5/6, 9 y 14 con tinciones de marcadores neuroendocrinos (Cromogranina y Enolasa Neuronal Específica) positivas; Sinaptofisina y S-100 negativas. Ki 67 80%
+Con ello se diagnostica de metástasis ganglionares por carcinoma neuroendocrino de alto grado. Ante la dificultad para realizar el diagnóstico diferencial entre estesioneuroblastoma y carcinoma neuroendocrino de alto grado dadas sus similitudes histológicas e inmunohistoquímicas, se remite la muestra actual y la del diagnóstico inicial de 2004 a revisión por un patólogo experto que concluye que ambas podrían ser compatibles con carcinoma neuroendocrino de alto grado .
+Tras ello se evalúa el caso en el Comité multidisciplinar de tumores de cabeza y cuello que decide en base a la histología, tratamiento con QT-RT concomitantes.
+En Julio de 2015 inicia tratamiento con QT esquema Cisplatino-Etopósido del que recibe un total de 4 ciclos en concomitancia con RT a partir del segundo (dosis total de 60 Gy en cadenas ganglionares cervicales izquierdas). Como toxicidad destacable presenta pancitopenia G2 y mucositis G3 tras el 3º ciclo que requieren ingreso hospitalario y se recuperan sin incidencias. La paciente finaliza el tratamiento en Noviembre de 2015 y actualmente sigue controles trimestrales en el Servicio de Oncología sin evidencia de enfermedad.

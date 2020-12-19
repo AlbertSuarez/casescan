@@ -1,0 +1,20 @@
+Anamnesis
+Varón de 67 años, sin antecedentes médico-quirúrgicos de interés, salvo diabetes mellitus tipo II e hipertrigliceridemia.
+Fue diagnosticado en abril de 2004 de un tumor renal izquierdo. Se realizó nefrectomía izquierda con resultado anatomopatológico compatible con carcinoma de células claras renales (hipernefroma), limitado al parénquima. La grasa perirrenal estaba libre, así como los bordes quirúrgicos (estadio I de Robson). El paciente siguió revisiones periódicas por Urología hasta que en julio de 2009, en una tomografía computarizada (TC) toracoabdominopélvica de control se objetivó una imagen nodular de 3,2 x 2,6 cm en la pared del ventrículo izquierdo, que captaba contraste.
+
+Examen físico
+Estado general ECOG 0; tensión arterial (TA) 145/75; temperatura (Tª) 36; frecuencia cardíaca (FC) 90 lpm; frecuencia respiratoria (FR) 15 rpm; Saturación basal de oxígeno 98 %. Auscultación cardíaca (AC): rítmica, sin soplos. No roce pericárdico. Auscultación pulmonar (AP): murmullo vesicular conservado (MVC). Abdomen: blando, depresible, no doloroso; No se palpan masas ni megalias; RHA+: ruidos hidroaéreos presentes y de características normales, puño-percusión renal (PPR) negativa. Extremidades: sin edemas; sin trombosis venosa profunda (TVP). Exploración neurológica normal.
+
+Pruebas complementarias
+Resonancia magnética (RM) cardíaca: masa intramiocárdica de 33 x 28 mm en segmento medio anterior mediobasal, cercana a la arteria coronaria descedente anterior, que infiltraba todo el espesor de la pared. Dados los antecedentes del paciente, la primera posibilidad sería una metástasis, sin poder descartar que se tratara de un tumor primario (sarcoma). Se comentó el caso con el Servicio de Cirugía Cardíaca, considerando la masa irresecable y la biopsia cardíaca por esternotomía presentaba una mortalidad cercana al 50 %, sin contar con las complicaciones postquirúrgicas.
+
+Diagnóstico
+Neoformación cardíaca única irresecable compatible con metástasis de células renales claras.
+
+Tratamiento
+Se propuso iniciar tratamiento activo, pero el paciente lo rechazó al encontrase asintomático. Se realizó seguimiento estrecho hasta noviembre de 2010 cuando el paciente ingresó en Cardiología por una taquicardia ventricular de origen irritativo secundario a la tumoración intraventricular que medía 7 x 6,5 cm. Se controló con cardioversión farmacológica.
+El estudio de extensión mostraba también aparición de múltiples nódulos pulmonares.
+Se inició sunitinib presentando toxicidad de grado IV (GIV) (diarrea severa, pancitopenia, ictericia y signos de retención hídrica), se suspendió y se dejó en manos de la Unidad de Cuidados Paliativos.
+
+Evolución
+El paciente presentó mejoría importante del estado general, por lo que se replanteó el caso y se realizó seguimiento estrecho, manteniéndose la enfermedad estabilizada hasta octubre de 2012 que se inició pazopanib con aceptable tolerancia aguda y respuesta parcial, disminuyendo los nódulos pulmonare,s así como la tumoración intracardíaca.

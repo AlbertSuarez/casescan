@@ -1,0 +1,31 @@
+Anamnesis
+
+ANTECEDENTES PERSONALES:
+
+Paciente de 65 años sin alergias medicamentosas. Hipertensión arterial. Fumador de 20 cigarrillos/día desde los 20 años. Enfermedad pulmonar obstructiva crónica. Fractura de peñasco derecho en 2007 con trauma acústico crónico.
+
+DEBUT CLÍNICO:
+Valorado en la consulta de Diagnóstico rápido de Medicina Interna de nuestro hospital por síndrome general y debilidad en miembro inferior derecho. En la analítica destacó una hipertransaminasemia, Creatina Kinasa de 7371 U/L, PCR 143 mg/L, CA 15,3 44 U/L y Cyfra 21,1 11 U/L. Resto de analítica (hemograma, bioquímica, diversas serologías, Interferón Gamma, enzima convertidor de angiotensina, ANA y ANCA) fueron normales.
+Se realizó una radiografía de tórax y posteriormente una tomografía computarizada (TC) toraco-abdominal donde se objetivó a nivel pulmonar signos de fibrosis pulmonar, múltiples adenopatías hiliares, mediastínicas (prevasculares, en ventana aortopulmonar, paratraqueales y subcarinales) y una imagen cavitada de 3,5 x 3 cm en lóbulo superior del pulmón izquierdo con pared engrosada.
+Diez días después fue ingresado de urgencia por cuadro brusco de afasia motora y hemiparesia braquial derecha, con sospecha de ictus isquémico en el contexto de una posible neoplasia pulmonar sin poder descartar otras patologías.
+
+Exploración física
+A su ingreso, el paciente se encontraba hemodinámicamente estable y con Tª 37,8°C. A la auscultación pulmonar presentaba roncus y sibilantes dispersos acompañado de crepitantes en la base izquierda. Destacaba en la exploración neurológica una afasia motora, leve paresia facial inferior derecha y hemiparesia braquial derecha sin afectación crural. Sensibilidad conservada sin extinción sensitiva y reflejos osteotendinosos conservados. El resto de la exploración resultó normal.
+
+Pruebas complementarias
+En las pruebas de laboratorio al ingreso destacó un aumento de las transaminasas (GOT 350 U/L, GPT 260 U/L, GGT y Bilirrubina normales) y un llamativo aumento de CK 7300 U/L.
+En la radiografía de tórax se observó una lesión cavitada en lóbulo superior izquierdo acompañada de un patrón intersticial bilateral, ya conocidos. Ante la clínica neurológica se realizó un TC cerebral donde se describieron lesiones isquémicas compatibles con infartos isquémicos crónicos. Se hizo también una ecografía doppler de tronco-supraórticos y transcraneal sin hallazgos patológicos ni signos indirectos de vasculitis.
+Dos días después el paciente fue trasladado a la Unidad de Cuidados Intensivos por insuficiencia respiratoria aguda y grave empeoramiento de su clínica neurológica.
+Se realizó una broncoscopia con cepillado positivo para adenocarcinoma de probable origen pulmonar y posteriormente una BAG que confirmó el diagnóstico.
+Ante la falta de mejoría clínica y la sospecha de un síndrome paraneoplásico neurológico, se amplió el estudio con un electromiograma donde se observó una polineuropatía sensitivo-motora leve sin signos de miopatía.
+
+Diagnóstico
+El diagnóstico definitivo fue adenocarcinoma de pulmón estadio IV EGFR no mutado y ALK no traslocado con sospecha de polimiositis paraneoplásica.
+
+Tratamiento
+En nuestro caso, ante el rápido deterioro del paciente y previo al diagnóstico anatomopatológico, se inició tratamiento con inmunoglobulinas intravenosas (25 g iv a pasar en 12h por 5 días) con escasa mejoría. Finalmente, tras la confirmación del diagnóstico y la sospecha del síndrome paraneoplásico, se comenzó con tratamiento citostático según esquema Cisplatino 75 mg/m2 d1 + Premetrexed 500 mg/m2 d1 cada 21 días.
+Tras el primer ciclo, el paciente presentó una clara mejoría funcional pasando del encamamiento continuo a la deambulación progresiva. La mejoría tras el tratamiento antineoplásico apoyó de manera sustancial la sospecha diagnóstica.
+
+Evolución
+Tras el alta, el paciente continuó recibiendo el mismo esquema terapéutico con excelente tolerancia. El TC torácico de evaluación se informó como enfermedad estable con signos de fibrosis pulmonar con "patrón en vidrio deslustrado" sugerente de actividad. Tras 4 ciclos el paciente fue aumentado progresivamente su actividad normal hasta conseguir realizar una vida cotidiana.
+Finalmente, tras 7 meses desde el diagnóstico, el paciente falleció por insuficiencia respiratoria aguda de causa multifactorial (fibrosis pulmonar, infección respiratoria, neoplasia...).

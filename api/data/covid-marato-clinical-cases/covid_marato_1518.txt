@@ -1,0 +1,36 @@
+Anamnesis
+Mujer de 53 años peri menopáusicanatural de Honduras sin alergias medicamentosas ni hábitos tóxicos. En la familia destacaba historia de cáncer de mama en su madre, tía paterna y hermana.
+En septiembre de 2014 se palpa un nódulo en la mama izquierdacon posterior supuración purulenta por lo que consulta en Urgencias.
+
+Exploración física
+ECOG 0. Mama Izquierda (MI): Lesión ulcerada que ocupa la regiónperiareolar. Adenopatía axilar y en fosa supraclavicular palpable.Mama Derecha (MD): tumoración retroareolar de 4cm sin retracción de la piel.
+
+Pruebas complementarias
+1. Mamografía 23.1.15: tumoraciones retroareolares bilaterales de >5cm.
+2. Ecografía 23.1.15: MD masa retroareolar 50x16mm y MI masa retroareolar 40x25mm.
+3. Ecografía axilar bilateral 23.1.15: negativa.
+Se realiza biopsia MD positiva para tumor Phyllodes de bajo grado y en MIcarcinoma infiltrante grado II. En el estudio inmunohistoquímico la tinción p63 fue positiva con áreas de diferenciación escamosa sugiriendo un carcinoma metaplásico. Se trataba de un tumor RE 0 RP 0 Her2 negativo con un Ki 67 del 20%.
+
+Posteriormente se completa estudio:
+1. RMN mama 6.2.15: MD masa retroareolar de 4.8x2.7x3.2cm márgenes bien definidos.
+Adenopatíasinfracentimétricas. MI masa 4.5x4,1x3.3cm de márgenes irregulares que infiltra la piel.
+2. RMN cuerpo entero: alteración de señal en cuerpos vertebrales T6-7. Nódulo hepático s. VII 12mm inespecífico.
+3. TAC tórax 6.2.15: sin alteraciones.
+4. Ecocardiografía 19.2.15: función sistólica conservada FE 54%.
+5. Analítica: sin hallazgos.
+6. RMN columna 10.6.15: focos D5 D6 probablemente angiomatosos.
+
+Diagnóstico
+Se valora como una paciente peri menopáusica con carcinoma metaplásico de mama izquierda localmente avanzado cT4N1M0 y tumor Phyllodes de bajo grado en mama derecha cT2N0M0.
+
+Tratamiento
+Recibe tratamiento neoadyuvante con doxorubicina y ciclofosfamida por 4 ciclos, del 26.3.15 al 7.5.15 requiriendo un ingreso por neutropenia febril grado IV; posteriormente recibe 4 ciclos de docetaxel del 2.6.15 al 14.7.15. La RMN post neoadyuvancia muestra enfermedad estable bilateral.
+El 4.9.15 se practica una tumorectomia derecha y una mastectomía izquierda con vaciamiento ganglionar izquierdo. La anatomía patológica describió en mama derecha un tumor Phyllodes de bajo grado de 3.2cm y en la mama izquierda un carcinoma ecriescamoide ductal 3.5cm con reducción del 50% de la celularidad tumoral post tratamiento y un carcinoma secretor de 2cm, sin invasión vascular ni linfática, RE 10% RP 0 y Her2 negativocon Ki 67 10%; estadio ypT1pN0 (0/11). Grado 3 de Miller Payne.
+Posteriormente recibe radioterapia adyuvante sobre paredy áreas de mama izquierdaa dosis 50 Gy (20.10.15 al 24.11.15).
+Dada la positividad de los receptores de estrógenos inició tratamiento con tamoxifeno.
+Fue valorada en Unidad de Consejo Genético con BRCA 1 i BRCA 2 test que resultó negativo.
+
+Evolución
+En Febrero 2016 acude a la consultarefiriendo astenia grado III. Analíticamente destaca una hemoglobina de 5gr/dL y transaminitis grado II (GOT 102 UI/L y GPT 51 UI/L) con bilirrubina 1.66 mg/mL a expensas de la porción indirecta. Se trasfunde 3 concentrados de hematíes, se suspende el tamoxifeno e inicia dexametasona a dosis de 4mg cada 12 horas.
+Se sospecha una progresióno bien un nuevo primario(dado que se trataba de un tumor grande sin componente in situ, con receptores hormonales negativos y sin afectación ganglionar) pero se practica una gammagrafíaósea y un TAC torácico y abdominal que no muestran alteraciones y por tanto no se corrobora ninguna de las dos hipótesis. Es evaluada por el Servicio de Hematología realizando un test Coombs que resulta negativo descartando una anemia hemolítica,sin embargo se objetivaun déficit de vitamina B12 y un hipotiroidismo subclínico.
+Tras tratamiento sustitutivo presenta mejoría clínica y se reanuda el tamoxifeno el 31.3.16. Actualmente pendiente de una fibrogastroscopia.

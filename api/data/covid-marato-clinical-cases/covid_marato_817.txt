@@ -1,0 +1,21 @@
+Anamnesis
+Mujer de 52 años, no fumadora. Consulta en Medicina Interna en marzo de 2011 por tos irritativa no productiva de tres meses, junto con disnea de moderados esfuerzos. No presenta cuadro constitucional.
+
+Examen físico
+ECOG 0. Consciente y orientada, buen estado general. Eupneica en reposo. No hay adenopatías palpables.
+Auscultación cardiopulmonar sin alteraciones, Abdomen anodino. Extremidades sin alteraciones.
+
+Pruebas complementarias
+Analítica: fosfatasa alcalina 181 UI/l (35-104), LDH 525 UI/l (135-204), CEA 603 ug/l (0-3,4); resto de bioquímica y hemograma normales.
+Tomografía computarizada de tórax-abdomen (TC T-A): masa de 4 cm de diámetro en el lóbulo inferior derecho (LID) con patrón micronodular difuso bilateral. Adenopatías mediastínicas. Lesiones óseas en manubrio esternal y vértebra D2. Imagen paracardíaca compatible con lipoma versus teratoma.
+Gammagrafía ósea: diseminacion metástásica generalizada en múltiples niveles.
+Punción-aspiración con aguja fina: adenocarcinoma (TTF1 positivo). EGFR mutado (delección del exón 19).
+
+Diagnóstico
+Adenocarcinoma de pulmón derecho estadio IV. Metástasis pulmonares bilaterales micronodulares múltiples y óseas generalizadas. EGFR mutado en el exón 19.
+
+Tratamiento
+Se inicia gefitinib 250 mg vía oral cada 24 horas en abril de 2011 y ácido zoledrónico 4 mg IV cada 4 semanas. Se considera la masa paracardíaca compatible con posible teratoma y se decide observación.
+
+Evolución
+Tras 1 mes de tratamiento, hay clara mejoría clínica en cuanto a tos y disnea, buena tolerancia al tratamiento y nula toxicidad. TC T-A a los 3 meses con respuesta parcial: disminución de la masa tumoral del LID, mejoría significativa de los nódulos pulmonares. En los meses siguientes se mantiene buen control sintomático y calidad de vida. En marzo de 2012 (intervalo libre de progresión de 11 meses) presenta inestabilidad para la marcha y conducta apática. Se realiza TC cerebral sin alteraciones relevantes. Dos semanas después ingresa por bradipsiquia, ataxia, apraxia, agnosia, desorientación con inatención y lenguaje fragmentado. Se realiza una punción lumbar con tinción gram, cultivos y citología negativos. Resonancia magnética cerebral: infiltración masiva córtico-subcortical y ganglios basales por micrometástasis miliares múltiples. Se pautan corticoides sin mejoría, y evoluciona tórpidamente hasta el estado de coma. Desestimada la radioterapia por ECOG 4. Se procede a la colocación de sonda nasogástrica (SNG) a petición de los familiares y se añade erlotinib 150 mg por SNG como segunda línea de tratamiento, que recibe aproximadamente 10 días, siendo éxitus a los 24 días desde el ingreso.

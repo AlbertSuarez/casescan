@@ -1,0 +1,27 @@
+Anamnesis
+Varón de 55 años que acudió a consultas externas de Medicina Interna en Mayo 2013 por mal estar general y sensación de opresión torácica. Como antecedentes personales de interés presentaba diabetes mellitus tipo 2 en tratamiento con antidiabéticos orales, hipertensión e hipercolesterolemia, fumador de 80 paquetes/año. Independiente para las actividades de la vida diaria, trabaja en carnicería.
+
+Exploración física
+Presentaba buen estado general con PS-ECOG 1, con exploración física anodina.
+
+Pruebas complementarias
+Se realizó analítica en la que destacaba leucocitosis con desviación a la izquierda, con resto de valores anodinos y marcadores tumorales dentro de la normalidad. En la radiografía de tórax, se objetivó ensanchamiento mediastínico superior con aumento de densidad en localización retrotraqueal, por lo que se realizó TAC observando una masa / adenopatías con captación heterogénea a nivel de paramediastino derecho en lóbulo superior de 6cm de diámetro mayor, contactando con la pared posterolateral derecha de la tráquea y la pared lateral del esófago, con probable infiltración de ambas.
+Adenopatías subcentimétricas paratraqueales derechas altas y retrotraqueales.
+Completando estudio con PET-TAC, se confirmó neoformación pulmonar maligna en lóbulo superior derecho con infiltración mediastínica sin otros signos de extensión.
+La anatomía patológica fue compatible con adenocarcinoma (EGFR -, ALK-).
+
+Diagnóstico
+Se trata de un adenocarcinoma de pulmón T4N1MO, EIIIA, EGFRwt y sin reordenamiento de ALK.
+
+Tratamiento
+Entre Junio y Septiembre de 2013 recibió tratamiento con quimioterapia (CDDP 75 mg/m2 iv d1 + Navelbine oral 60mg/m2 vo d1 y 8 cada 21 días) y radioterapia concomitante, con respuesta parcial radiológica. En Octubre 2014 presentó progresión de enfermedad por aumento de tamaño de masa pulmonar en lóbulo superior derecho (LSD), tratado con quimioterapia con esquema Carboplatino AUC5 iv d1 + Paclitaxel 175mg/m2 iv d1 cada 21 días x 3 ciclos, seguido de reirradiación sobre tumor primario, que finalizó en Enero 2015 con estabilidad de la enfermedad. En Mayo 2015 se objetivó progresión de enfermedad a nivel local y ganglionar medistínica, con aumento de tamaño de las lesiones e hipermetabolismo en PET-TAC. El paciente refería astenia intensa y dolores ostearticulares generalizados que limitaban su actividad diaria. Inició tratamiento de tercera línea con Nivolumab 3mg/kg cada 14 días. Presentó rápida mejoría clínica y estabilidad radiológica de la lesiones tumorales, con respuesta completa metabólica en PET-TAC tras el 5º ciclo de tratamiento.
+
+Evolución
+En Abril de 2016, tras 18 ciclos de Nivolumab, el paciente refiere reaparición de astenia, junto con disnea progresiva de varios días de evolución hasta hacerse de moderados esfuerzos y tos seca no productiva. La exploración física era anodina.
+Se realizó TAC en el que se objetivó persistencia de la masa pulmonar en LSD, con signos de invasión mediastínica y encajamiento de bronquio principal derecho. Asociaba condensaciones periféricas subpleurales y mínimamente peribronquiales limitadas por cisura más la presencia de múltiples imágenes nodulares bilaterales en vidrio deslustrado, con signo del halo inverso en el contexto de neumonía organizativa. Se apreciaba significativo crecimiento adenopático hiliar y mediastínico. Dado el contexto del paciente, esto hallazgos podrían corresponder a presentación atípica de enfermedad mediastínica pulmonar y ganglionar vs cambios secundarios a toxicidad pulmonar por QT. Valorar ambiente infeccioso.
+Además, ante los hallazgos en TAC se decidió realizar fibrobroncoscopia, con árbol derecho con oclusión completa del segmento apical bronquio del lóbulo superior y casi completa del otro segmentario, debido a intenso edema de la mucosa. Se completó estudio con lavado broncoalveolar del bronquio lobar superior, obteniendo resultados de citología negativa para células malignas, PCR M. Tuberculosis y B.A.A.R negativo y sin crecimiento en cultivo bacteriológico y cultivo de hongos.
+Tras los resultados de las pruebas complementarias, sin encontrar proceso infeccioso evidente y con sospecha del anti-PD1 como causante de la patología pulmonar, se decide suspender Nivolumab e iniciar Dexametasona 12mg/día, en pauta descendente.
+Por tanto, clínicamente se trataba de una neumonitis grado 2, estando el paciente sintomático y sin requerimiento de oxigenoterapia.
+El paciente rápidamente presentó mejoría clínica con disminución de la astenia y desaparición de la clínica respiratoria, quedándose asintomático.
+Se realiza TAC de reevaluación un mes después, observando mínimas condensaciones residuales subpleurales y peribronquiales en LSD con significativa reducción respecto al estudio anterior, más desaparición de las lesiones de aspecto nodular en vidrio deslustrado con signo del halo inverso. No se apreciaban cambios significativos en la masa pulmonar. Significativa mejoría radiológica por desaparición completa de las imágenes pseudonodulares bilaterales y subtotal de las condensaciones subpleurales y peribronquiales en LSD.
+Debido a que se trataba de neumonitis grado 2 con resolución completa tras el tratamiento y la buena respuesta de la enfermedad tumoral que se estaba obteniendo con Nivolumab, se decide reintroducir de nuevo, pautando así el 19º ciclo de tratamiento.

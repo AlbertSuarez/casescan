@@ -1,0 +1,23 @@
+Anamnesis
+Antecedentes personales e historia oncológica
+En 1996, a los 25 años de edad, el paciente es estudiado por referir una masa no dolorosa en el testículo derecho, sin ningún otro síntoma acompañante. Se realizó entonces una ecografía testicular en la que se muestra una masa sólida heterogénea, y una tomografía computarizada (TC), en la que no se observaron datos de enfermedad a distancia. Los marcadores tumorales al diagnóstico fueron una alfa-fetoproteína (AFP) de 184,6 ng/ml [0-10ng/ml] y una gonadotropina coriónica humana (HCG) de 182 ng/ml [0-2 ng/ml].
+Ante la sospecha clínica de un tumor testicular, se realizó una orquiectomía radical inguinal del testículo derecho, confirmándose histológicamente en el material obtenido en la cirugía, un tumor mixto de células germinales no seminomatoso (TGNS) con carcinoma embrionario y tumor del seno endodérmico. Tras la cirugía, se observó un descenso incompleto de los marcadores tumorales, presentando una AFP 36,45ng/dl y una HCG de 120 ng/ml. Posteriormente, recibió 4 ciclos según el esquema BEP (bleomicina, etopósido y cisplatino) normalizando los marcadores tumorales. La TC de control posquimioterapia mostraba afectación ganglionar residual por lo que se realizó una linfadenectomía, confirmándose histológicamente la presencia de necrosis a este nivel. El paciente fue dado de alta en 2002 tras controles sucesivos sin evidencia de enfermedad.
+Enfermedad actual
+En agosto de 2015, el paciente acude al hospital refiriendo dolor sordo continuo en hipocondrio derecho, así como astenia y pérdida de 8 kg de peso de aproximadamente 4 meses de evolución.
+
+Exploración física
+Durante la exploración física no se objetivaron hallazgos patológicos destacables, a excepción de cicatriz de orquiectomía previa.
+
+Pruebas complementarias
+Dada la sospecha de una nueva recaída, se realizó una TC, en la que se evidencia la presencia de ganglios retroperitoneales sugestivos de malignidad. Se objetivó además un aumento de la AFP de 156,60 ng/ml, con HCG en rangos de normalidad. El diagnóstico final se hizo a través de biopsia de los ganglios retroperitoneales, en la que se confirmó recidiva de TGNS.
+
+Diagnóstico
+Recidiva tardía de tumor germinal de células testiculares tras 19 años de respuesta completa a tratamiento.
+
+Tratamiento
+En ese momento, el paciente fue sometido un nuevo esquema de quimioterapia, recibiendo tres ciclos de esquema paclitaxel, ifosfamida y cisplatino (TIP) y planificándose una cirugía de rescate, sin embargo, previamente a la realización de la cirugía, se objetivó un nuevo aumento de los marcadores tumores con AFP de 156 ng/ml y HCG de 0,1 ng/ml, sin evidenciarse progresión desde el punto de vista radiológico.
+Dada la progresión bioquímica, se planteó el caso en comité multidisciplinar, decidiéndose finalmente la cancelación de la cirugía e inició de quimioterapia a altas dosis (QAD) con posterior trasplante autólogo de células hematopoyéticas progenitoras (TASPE). Dicha terapia consistió en realizar inicialmente una extracción de células hematopoyéticas progenitoras de sangre periférica del propio paciente, previa estimulación de la médula ósea con factores estimulantes de colonias de granulocitos y movilización celular hacia sangre periférica, siendo posteriormente estas células recolectadas mediante aféresis y purificadas. Tras la extracción de células progenitoras, el paciente fue sometido en julio de 2016 a tratamiento con QAD mediante esquema consistente en dos ciclos de paclitaxel a dosis de 175 mg por m2, más Carboplatino (AUC 20), más etopósido a dosis de 200 mg/m2.
+Cada ciclo de QAD se administró 6 días antes de la realización de trasplante autólogo de células progenitoras hematopoyéticas (TASPE) como terapia de rescate para la toxicidad medular producida por la QAD.
+
+Evolución
+Tras la QAD, el paciente presentó un descenso marcado de la AFP (de 295 ng/ml a 21,14 ng/ml), permaneciendo la HCG en rangos de normalidad. Radiológicamente mostraba estabilidad de la enfermedad localizada a nivel de los ganglios retroperitoneales. Una vez recuperado de la toxicidad y complicaciones producidas, se realizó finalmente cirugía de rescate, con resección de los ganglios retroperitoneales, objetivándose teratoma maduro.

@@ -1,0 +1,37 @@
+Anamnesis
+En la anamnesis por órganos y aparatos, la paciente no refiere otra sintomatología asociada. No ha tenido intolerancia digestiva ni episodios diarreicos. Tampoco sintomatología respiratoria ni síndrome constitucional.
+Antecedentes personales:
+» Sin alergias medicamentosas conocidas.
+» No refiere factores de riesgo vascular (no HTA, DM ni DLP). No sufre obesidad. Vida activa y ejercicio físico regular.
+» Sin antecedentes cardiológicos previos.
+» No refiere antecedentes familiares oncológicos.
+» Hábitos tóxicos: fumadora de 4-5 cigarrillos los fines de semana. No consume alcohol ni otras sustancias.
+
+Exploración física
+La exploración física resulta anodina, salvo por dolor leve en hipocondrio derecho, sin signos de irritación peritoneal.
+
+Pruebas complementarias
+Analítica sanguínea: amilasa 300, resto normal.
+Ecografía abdominal: lesiones ocupantes de espacio en toda la superficie hepática, sugestivas de malignidad. Sin otras alteraciones.
+TC-TAP: masa de 6,7 x 9,11 x 8,9 cm en el LID de contornos polilobulados y densidad heterogénea. Adenopatías mediastínicas (prevasculares, paratraqueales derechas, subcarinales), siendo las mayores una paratraqueal derecha de 16 mm de eje axial menor y una subcarinal de 18 mm. Adenopatía hiliar derecha de 10 mm, adenopatía supraclavicular izquierda de 1,3 cm. Múltiples lesiones hepáticas de 3 cm compatibles con metástasis. Conclusión: los hallazgos son compatibles con una neoplasia de pulmón en estadio IV (T4N3M1b).
+BAG de masa pulmonar y BAG de lesión hepática: ambas compatibles con adenocarcinoma de pulmón, TTF1 positivo.
+
+Diagnóstico
+Tras la realización del estudio diagnóstico completo, broncoscopia y toma de biopsias, además de las pruebas de imagen, la paciente es diagnosticada de un adenocarcinoma de pulmón estadio IV, con afectación hepática grave.
+
+Tratamiento
+Durante su ingreso en Oncología, se solicita estudio mutacional de EGFR y ALK en bloque tumoral, pero, dada la extensa afectación hepática y la alteración de la función hepática progresiva, se decide iniciar tratamiento de quimioterapia de 1ª línea con esquema cisplatino-pemetrexed.
+
+Evolución
+Al cabo de una semana, se reciben los resultados del estudio mutacional, no presentando mutación en el gen EGFR y no siendo posible la realización de ALK por problemas técnicos y falta de muestra anatomo-patológica.
+Ante esta situación, se le plantea a la paciente nueva biopsia para toma de muestra, y poder así analizar el resultado de ALK, que acepta.
+Durante este tiempo, la paciente recibe 3 ciclos de quimioterapia con buena tolerancia y buena respuesta en TC de control, tanto a nivel hepático como pulmonar, diminución del tamaño de la masa pulmonar, así como de las lesiones hepáticas y total normalización de la función hepática.
+Tras el 3er ciclo, la paciente consulta en Oncología por sensación de mareo e inestabilidad de la marcha, con cefalea leve. Se solicita RM cerebral, donde se objetivan 3 lesiones hipodensas compatibles con metástasis, la mayor de 1,5 cm, con edema asociado. Ante esta progresión, se solicita nueva TC-TAP y gammagrafía ósea para completar reevaluación, donde se objetiva la persistencia de la respuesta pulmonar y hepática, pero se observan lesiones óseas metastásicas en prácticamente todo el esqueleto óseo.
+En este momento, se dispone de los resultados del análisis molecular de la nueva biopsia tomada (a nivel de la masa pulmonar), que informa de estatus de EGFR no mutado, pero presenta mutación en ALK.
+Se decide derivar a la paciente a radioterapia tipo SBRT a nivel de las lesiones cerebrales y se inicia, en enero de 2015, tratamiento de 2ª línea con fármaco diana anti-ALK, concretamente crizotinib a dosis de 250 mg/12 horas vía oral.
+La SBRT de las metástasis cerebrales se realiza sin incidencias, siendo bien tolerado por la paciente y la tolerancia al tratamiento antidiana es buena, sin referir la paciente toxicidad secundaria en relación a la nueva línea.
+En la primera reevaluación tras inicio de nuevo tratamiento, la respuesta parcial, según criterios RECIST, se mantiene tanto a nivel pulmonar como hepático, la enfermedad ósea está estable y la RM cerebral muestra respuesta parcial de las lesiones cerebrales.
+La paciente, tras 6 meses de tratamiento antidiana, acude a revisión en Oncología con nuevas pruebas complementarias de reevaluación, con disminución importante del tamaño tanto de la masa pulmonar como de las lesiones hepáticas, mejoría igualmente de la enfermedad a nivel óseo (disminución de algunas lesiones y desaparición de otras) y respuesta completa de la enfermedad a nivel cerebral, sin hallazgos en resonancia cerebral.
+La paciente continúa en tratamiento con crizotinib desde enero de 2015 hasta mayo de 2017, consiguiendo respuesta completa de la enfermedad a nivel cerebral y hepático, y RP mantenida y progresiva a nivel pulmonar y óseo, con excelente tolerancia al tratamiento y sin toxicidad.
+Tras un intervalo libre de progresión de 3,5 años con tratamiento oral, la paciente presenta progresión a nivel ganglionar mediastínico, por lo que se decide cambio de línea de tratamiento. Afortunadamente, en este momento se dispone ya de tratamiento de 2ª línea antidiana para enfermedad ALK mutada, por lo que se ofrece a la paciente tratamiento con alectinib 600 mg/24 horas, que acepta.
+En la 1ª reevaluación, la paciente mantiene la respuesta completa a nivel hepático y cerebral, prácticamente RC a nivel óseo y RP a nivel ganglionar, con excelente tolerancia a la medicación y sin toxicidad, pudiendo continuar con su vida normal.

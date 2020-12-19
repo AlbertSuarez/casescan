@@ -1,0 +1,31 @@
+Anamnesis
+Mujer de 64 años, amigdalectomizada. G1P0C1, sin otros antecedentes personales ni familiares de interés, intervenida en junio de 2003 (54 años) de carcinoma ductal infiltrante de mama derecha multicéntrico asociado a carcinoma intraductal. Estadio pT2pN0M0. IHQ: RE +++, EP ++, cerb 2 -, Ki 67 < 14%. Se realizó mastectomía y linfadenectomía.
+Se administró quimioterapia adyuvante con esquema CAF x 6 ciclos y posterior tratamiento con RT y HT (tamoxifeno).
+En diciembre de 2004, en una revisión rutinaria se detecta en la ecografía una masa pélvica compleja, por lo que se solicita una RM, que confirma la existencia de una masa pélvica de 13 x 8 cm con componente mixto quístico y sólido con atrapamiento ureteral bilateral.
+Es intervenida en febrero de 2005 (56 años) tras la confirmación intraoperatoria de carcinoma seroso de ovario. Se realiza cirugía reglada, aunque sin linfadenectomía paraaórtica. La anatomía patológica confirma un cistoadenocarcinoma seroso papilar de ovario bilateral, con pequeños implantes en la superficie del ovario izquierdo.
+Resto de biopsias intraabdominales (peritoneo parietal, Douglas, peritoneo visceral, adenopatías ilíacas) negativas.
+Estadio pT1c (IC de la FIGO).
+Se administró quimioterapia complementaria con carboplatino-taxol x 6 ciclos (16/3/2005 al 21/7/2005), con buena tolerancia.
+En diciembre de 2006, se evidencia crecimiento en la TC de tres adenopatías retroperitoneales aunque en el tamaño límite para sospechar malignidad, por lo que se decide realizar un nuevo control en 3 meses.
+
+Examen físico
+Performance status ECOG 0-1. Buen estado general. Exploración física sin hallazgos reseñables.
+
+Pruebas complementarias
+- TC (marzo 2007): adenopatías retroperitoneales que han aumentado de tamaño con respecto a la TC previa, siendo la mayor de 2,5 x 2 cm.
+- Marcadores tumorales (marzo 2007): CA 125 45,5 UI/ml, CEA y CA 15.3 en los límites normales.
+- PET (abril 2007): foco de hipermetabolismo patológico de 3 x 2,5 cm a la izquierda de la línea media abdominal, compatible con adenopatías retroperitonales metastásicas.
+
+Diagnóstico
+- Carcinoma de mama estadio T2N0M0 subtipo histológico luminal A.
+- Carcinoma de ovario estadio Ic de inicio. Recidiva retroperitoneal con enfermedad platino sensible.
+
+Tratamiento
+Se desestimó cirugía de rescate en ese momento por la localización. Se inicia quimioterapia para enfermedad platino sensible con esquema carboplatino-gemcitabina.
+Tras 3 ciclos se obtiene una respuesta parcial, que mantiene a los 6 y 8 ciclos, pero persistiendo enfermedad medible, ausencia de respuesta bioquímica completa y con persistencia de captación patológica en la PET, por lo cual, tras comentar el caso en sesión multidisciplinar, se decidió administrar radioterapia sobre la región paraaórtica abdominal, que terminó el 18/4/2008 con DT de 45 Gy. La tolerancia en la fase aguda fue aceptable, con diarrea grado II como toxicidad más relevante.
+Se retomó el tratamiento hormonal adyuvante por su cáncer de mama con exemestano (hasta completar los 5 años).
+
+Evolución
+Se solicitó estudio genético para descartar mutación BRCA. Se detectó en el exón 5 del gen BRCA1 la mutación c330 A > G (p.R71G) en heterocigosis.
+En revisiones trimestrales desde entonces sin evidencia de recidiva.
+Como secuelas del tratamiento presenta osteopenia, flatulencia y dolor abdominal cólico ocasional, que no produce limitaciones en sus actividades cotidianas.

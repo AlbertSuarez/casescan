@@ -1,0 +1,38 @@
+Anamnesis
+Se expone el caso clínico de un varón de 65 años, diagnosticado de adenocarcinoma de próstata estadio IV por afectación ósea y hepática, que desarrolla una probable fibrosis medular en relación a tratamiento con Radium-223.
+Sin datos oncológicos familiares, como antecedentes personales es fumador 20 paquetes-año, bebedor moderado y tuvo un episodio de osteonecrosis mandibular asociada a bifosfonatos. No tiene alergias medicamentosas conocidas.
+Medicación habitual con omeprazol 20 mg cada 24 horas y prednisona 20 mg cada 24 horas.
+Historia oncológica
+En noviembre de 2012, el paciente es diagnosticado de un adenocarcinoma de próstata Gleason 6 (3 + 3), con clínica miccional asociada y antígeno prostático específico (PSA) > 125 ng/ml, observándose en tomografía computarizada (TC) torácica lesiones blásticas en columna. Inició tratamiento con bloqueo androgénico completo con bicalutamida 50 mg al día y análogo de hormona liberadora de la hormona luteinizante (LHRH) semestral durante un mes, persistiendo clínica urinaria y siendo intervenido mediante resección transuretral (RTU) prostática el 15/01/2013, confirmándose la presencia de adenocarcinoma de próstata Gleason 8 (3 + 5). Posteriormente, se inició tratamiento con ácido zoledrónico trimestral para control de sintomatología ósea.
+Valorado en junio de 2013 en Oncología Médica, se reintroduce bloqueo androgénico completo con bicalutamida y análogo de LHRH mensual, presentando PSA de 218 ng/ml en ese momento, y continuando el seguimiento en el Servicio de Urología.
+En diciembre de 2014 se suspende el ácido zoledrónico por osteonecrosis maxilar, sin precisar tratamiento quirúrgico.
+En agosto de 2015, el paciente presenta elevación de PSA (17,32 ng/ml) con testosterona en rango de castración (0,33 ng/ml), sin clara progresión en estudios de imagen. Se inicia en noviembre de 2015 tratamiento con acetato de abiraterona hasta septiembre de 2016.
+Es remitido a consulta de Oncología Médica por elevación de PSA: febrero de 2016 15,32 ng/ml, mayo de 2016 27,39 ng/ml. En TC y gammagrafía ósea de agosto de 2016 se confirma progresión ósea a pesar de bloqueo androgénico completo, por lo que se inicia tratamiento con docetaxel 75 mg/m2 cada 21 días del que recibe un total de 8 ciclos desde septiembre de 2016 hasta febrero de 2017 con estabilización de la enfermedad, pasando entonces a seguimiento.
+En junio de 2017, presenta progresión exclusivamente a nivel óseo documentada mediante estudio gammagráfico, por lo que recibe tratamiento con Radium-223 durante 6 meses, desde julio de 2017 hasta diciembre de 2017.
+Desde enero de 2018, sufre anemia que llega a ser de grado III y trombopenia grado III, con leucocitos y fórmula leucocitaria normal. En ese momento, también se objetiva progresión a nivel hepático mediante TC toracoabdominopélvica.
+Síntomas actuales
+Clínica de astenia, hematomas frecuentes y dolores óseos fundamentalmente en caderas y MMII. No sufre disnea ni dolor torácico. No tiene pérdida de peso ni clínica a otro nivel.
+
+Exploración física
+Karnofsky 90 %, Eastern Cooperative Oncology Group (ECOG) 1. Exploración neurológica normal. Boca sin lesiones, con prótesis dental. Sin adenopatías cervicales, supraclaviculares ni axilares. Tórax sin lesiones palpables. Auscultación cardiaca rítmica sin soplos. Auscultación pulmonar sin ruidos patológicos. Abdomen globuloso, blando, no doloroso, peristalsis positiva, no se palpan masas ni organomegalias. Puñopercusión renal y vertebral negativas. Miembros inferiores sin edemas ni signos de insuficiencia venosa.
+
+Pruebas complementarias
+Presenta en analítica de sangre periférica del 7 de marzo de 2018:
+» Bioquímica: urea, creatinina, sodio, potasio, vitamina B12 y ácido fólico normales, hiperferritinemia de 2.860 y hierro normal. índice de saturación de transferrina (IST) 59 %. PSA: 534,60 ng/ml.
+» Realizó biopsia ósea de cresta iliaca el 23 de febrero de 2018, presentando los siguientes resultados:
+» Hemograma: hemoglobina 8,7 g/dl, 9.430 leucocitos/mm3, 7.670 neutrófilos, 43.000 plaquetas/mm 3.
+» Reticulocitos: 111.000/mm3 (3,79 %).
+» Frotis de sangre periférica: eritroblastos circulantes y desviación izquierda. Punteado basófilo. Reacción leucoeritroblástica.
+» Mielograma: hueso iliaco de consistencia pétrea que dificulta la extracción de cilindro óseo, posiblemente atribuible a fibrosis medular.
+» Biopsia ósea: se reconoce un tejido desvitalizado y sin evidencia de celularidad.
+
+Diagnóstico
+Probable fibrosis medular secundaria a tratamiento con Radium-223.
+
+Tratamiento
+Se decide tratamiento sintomático de la anemia con trasfusiones de hematíes si precisase y/o de plaquetas si tuviese proceso de sangrado activo, ya que el uso de eltrombopag y eritropoyetina en este contexto está fuera de indicación, y los agonistas de los receptores de la trombopoyetina tienen descrito como efecto secundario mielofibrosis.
+Inicialmente, se intentó realizar tratamiento con prednisona a dosis altas sin éxito, por lo que actualmente el paciente se encuentra en pauta de descenso con intención de suspender este tratamiento.
+
+Evolución
+Para valorar adecuadamente la etiología de la bicitopenia (fibrosis vs. infiltración) se precisaría nueva biopsia ósea. Puesto que el paciente ha iniciado un nuevo tratamiento sistémico y de acuerdo con sus preferencias, dado que no va a suscitar cambio en la actitud terapéutica y la probable baja rentabilidad de una nueva biopsia de médula ósea, se descarta realizarla por el momento.
+En enero de 2018, se había confirmado progresión a nivel hepático mediante, precisando retrasar el inicio de nueva línea de tratamiento hasta tener diagnóstico o mejoría de la aplasia, iniciando finalmente tratamiento con enzalutamida en marzo de 2018 que mantiene hasta la actualidad.

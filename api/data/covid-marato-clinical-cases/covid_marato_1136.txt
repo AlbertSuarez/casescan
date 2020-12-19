@@ -1,0 +1,33 @@
+Anamnesis
+Mujer de 68 años derivada por su médico de Atención Primaria por un cuadro de alteraciones del hábito intestinal, con astenia, hiporexia y pérdida de 3 kg en un mes, con elevación de los niveles de antígeno carcinoembrionario (CEA) en la analítica. Tras el estudio por Medicina Interna en abril de 2008 es diagnosticada de adenocarcinoma de sigma, y en el estudio de extensión con tomografía computarizada (TC) tóraco-abdominal se detectan lesiones hepáticas compatibles con metástasis y una lesión en la mama izquierda compatible con neoplasia de mama.
+
+Examen físico
+Aceptable estado general, consciente, orientada y colaboradora. Eupneica en reposo. Estable hemodinámicamente.
+Tiroides normal. Aumento de consistencia en el cuadrante superoexterno de la mama izquierda.
+Auscultación cardiopulmonar sin alteraciones relevantes.
+Abdomen blando y depresible sin masas ni megalias.
+
+Pruebas complementarias
+- Analítica: glucemia, función renal, iones, bioquímica hepática, proteínas totales, Igs, hormonas tiroideas, estudio de coagulación y hemograma normales. CEA 27,4 ng/ml. CA 15,3 normal.
+- Serología virus hepatotropos: hepatitis C IgG ELISA.
+- Mamografía: nódulo en el cuadrante superoexterno de la mama izquierda de características malignas. Biopsia: carcinoma ductal infiltrante G1 RE y RP+ 80% Ki 67: 5% HER2: negativo.
+- TC tóraco-abdominal: lesión en el cuadrante superoexterno de la mama izquierda. Compatible con neoplasia de mama. Neoplasia de colon sigmoides, con crecimiento circunferencial y marcada disminución de la luz. Lesiones focales hepáticas en los segmentos VI y VII de menos de 2 cm, hipodensas.
+- Colonoscopia: lesión estenosante de sigma a 20 cm del margen anal. Biopsia: adenocarcinoma.
+
+Diagnóstico
+Adenocarcinoma estenosante de sigma cT3cN2M1 (M1 hepáticas síncronas).
+Carcinoma de mama ductal infiltrante cT1N0M0 RE+; HER2 – Ki 67: 5%.
+
+Tratamiento
+Se realiza en mayo de 2008 una sigmoidectomía con anastomosis término-terminal con el diagnóstico anatomopatológico (AP): adenocarcinoma de sigma pT3pN2 y de forma secuencial mastectomía + vaciamiento axilar con resultado AP: carcinoma ductal infiltrante de 1,2 cm G1 N0/12.
+Inicia QT con esquema XELOX (oxaliplatino y capecitabina) con intención perioperatoria del que recibe 3 ciclos, con estabilidad de la enfermedad.
+En enero de 2009 se realiza una metastasectomía de las lesiones hepáticas, con anatomía patológica (AP) de hepatocarcinoma multicéntrico, moderadamente diferenciado, sobre cirrosis hepática de nódulo irregular, de tipo posthepático, que contacta con planos de resección.
+La paciente, sin evidencia de enfermedad, continúa las revisiones periodicas en tratamiento con anastrozol con intención adyuvante de su carcinoma de mama.
+
+Evolución
+En enero de 2011 se detecta una lesión hepática compatible con recidiva de hepatocarcinoma, que se trata mediante radiofrecuencia.
+En abril de 2012 se objetiva un nuevo progreso hepático no subsidiario de radiofrecuencia por localización de la lesión, que se trata mediante quimioembolización arterial.
+En marzo de 2013 progreso hepático sin ser candidata a tratamiento local. Inicia sorafenib 400 mg/12 h, que precisa reducción de la dosis por toxicidad dermatológica y digestiva, suspendiéndose en julio de 2013 por ausencia de beneficio clínico.
+En marzo de 2014 aparecen nuevas lesiones focales a nivel del hígado, que en estudios con TC trifásico son compatibles con hepatocarcinoma.
+Se plantea a continuación tratamiento en monoterapia con adriamicina, pero por deterioro clínico se decide derivar a hospitalización domiciliaria para el control de los síntomas.
+En junio de 2014 la paciente ingresa en la Unidad de Cuidados Paliativos en situacíon agónica, siendo exitus por fracaso multiorgánico.

@@ -1,0 +1,35 @@
+Anamnesis
+Varón de 54 años. Fumador de un cigarrillo al día, bebedor ocasional. HTA. Hernia hiatal. Vitíligo. No tiene otros antecedentes personales ni familiares de interés.
+En abril de 2015, tras deterioro cognitivo leve de 20 días de evolución, acude al Servicio de Urgencias, donde se realiza TC craneal que objetiva LOE temporoparietal izquierda, con edema perilesional y efecto masa con colapso del sistema ventricular. Tras estos hallazgos, es valorado por Neurocirugía. Se realiza RM que confirma la sospecha de neoformación primaria (probable glioblastoma multiforme).
+
+Exploración física
+»BEG, consciente y orientado, bien hidratado y perfundido. ECOG 0. EVA 0.
+»ACR: tonos rítmicos, frecuencia normal. Sin soplos, ni extratonos. Buen murmullo vesicular, sinruidos patológicos sobreañadidos. Abdomen blando, depresible, sin masas, ni megalias, ni signosde peritonismo.
+»Exploración neurológica: PINLA. MOEC. Pares craneales normales. Fuerza-sensitivo y motoranormal. Cognitivo-lenguaje normal. Romberg negativo. Reflejos conservados.
+
+Pruebas complementarias
+TC sin contraste de cráneo (07/04/2015): en el hemisferio izquierdo, a nivel supratentorial, temporoparietal, existe una lesión intraparenquimatosa ocupante de espacio de unos 4,5 cm de diámetro, con abundante edema perilesional que ocasiona discreto efecto masa, con colapso parcial del sistema ventricular ipsilateral, leve desviación de las estructuras de línea media hacia el hemisferio contralateral y borramiento de los surcos de la convexidad izquierda, atribuible a cierto grado de hipertensión intracraneal asociada. La lesión es sugestiva de una neoplasia intracerebral primaria supratentorial, temporoparietal izquierda, a considerar como primera posibilidad diagnóstica un astrocitoma, sin poder determinar el grado otipo.
+RM con Contraste I.V. de Cráneo (07/04/2015): lesión intraaxial temporal izquierda sólido-quística y de señal heterogénea que mide 4,8 x 3,2 cm en el plano axial y 3,7 cm en el plano coronal. Dicha lesión muestra realce heterogéneo de predominio periférico, existiendo edema perilesional vasogénico que condiciona borramiento de surcos y de la cisura de Silvio, así como compresión sobre el ventrículo lateral izquierdo, siendo compatible con neoformación primaria (probable glioblastoma multiforme) y menos probable con lesión cerebral metastásica.
+
+Diagnóstico
+AP definitiva: glioma de alto grado compatible con gliosarcoma (GS) grado IV (OMS 2007).
+
+Tratamiento
+El 24/04/2015 se realiza exéresis de la lesión macroscópicamente completa, mediante craneotomía frontotemporal izquierda con apertura de la duramadre y del surco temporal. AP provisional: tumor glial maligno sin poder descartar una metástasis.
+AP definitiva: glioma de alto grado compatible con gliosarcoma (GS) grado IV (OMS 2007).
+Evolución: tras hematoma postquirúrgico, que le ocasionó un discreto descenso del nivel de conciencia y disartria, posteriormente mejora progresivamente quedando prácticamente asintomático y sin focalidad neurológica. Es dado de alta con corticoides en dosis decrecientes y levetiracetam 1 g cada 12 horas.
+Tras comentar caso en comité multidisciplinar, se decide tratar como un glioma de alto grado con quimiorradioterapia adyuvante según esquema Stupp.
+Inicia RT-QT en junio de 2015, con una dosis total de 60 Gy (2 Gy/fracción/L-V/30 sesiones). Posteriormente, recibe 6 ciclos de temozolamida adyuvante, a dosis de 200 mg/m2/24 horas x 5 días. No presento toxicidades grados III-IV.
+
+Evolución
+En septiembre de 2017, tras intervalo libre de enfermedad de 2 años y 5 meses, en RM de control, se objetiva recidiva tumoral en margen posterior de lecho quirúrgico (sin poder descartar taxativamente radionecrosis).
+Tras comentar de nuevo en comité multidisciplinar, se decide realizar intervención quirúrgica. El 20/10/2017, se realiza resección guiada con ECO bajo visión microquirúrgica de la lesión que infiltra duramadre y que está en intimo contacto con vena anastomótica de Labbé, e informe AP de gliosarcoma grado IV. Como secuela postquirúrgica, presentaba alteración del lenguaje y discreta hemiparesia.
+Tras comentar de nuevo con Neurocirugía, y no poder asegurar que se trate de una resección completa por estar íntimamente en contacto con la vena de Labbé, se decide conjuntamente con el paciente, ante la alta sospecha de persistencia de enfermedad y RM compatible con ésta, iniciar nueva línea de quimioterapia.
+En enero de 2018, inicia quimioterapia según el esquema del grupo italiano (Soffietti et al. 2014). Fase de inducción, bevacizumab 10 mg/kg/d día 1 y 15 + fotemustina 75 mg/m2/d día 1 y 8. Tras descanso de 21 días, se inicia fase de mantenimiento con bevacizumab 10 mg/kg/día 1 y fotemustina 75 mg/m2 /día 1 cada 21 días. Recibe 5 ciclos de mantenimiento y, ante astenia grado III tras 4º y 5º ciclo, que no mejora tras reducción de dosis, en junio de 2018, se decide continuar con bevacizumab en monoterapia, con buena tolerancia y sin toxicidades III-IV hasta el momento actual. Desde abril de 2018, no se observan datos de recidiva.
+Actualmente, tras intervalo libre de progresión de 1 año y 6 meses, ha empeorado la hemiparesia levemente, por lo que se decide realizar nueva RM.
+RM 04/06/2019: se compara con RM previas. Cambios postquirúrgicos consistentes en craneotomía temporal izquierda, bajo la que subyace cavidad postquirúrgica, de tamaño similar/mínimamente disminuido al que presentaba en estudio previo (persiste tracción del asta temporal y atrio ipsilateral).
+Existe un leve aumento difuso y global, del realce pericavitario, que en el estudio actual es algo más grueso y presenta más estriaciones hacia el parénquima perilesional. Además, hay una afectación de la región posterior del lóbulo temporal ipsilateral, con áreas de captación irregulares, serpiginosas, como hallazgo de nueva aparición. En el estudio de perfusión muestra valores de VSCr elevados (> 2), por lo que parece tratarse de restos tumorales, con signos de progresión dado el aumento de su tamaño y los focos de realce actuales.
+También existe un leve aumento del tamaño del foco nodular de realce situado en el margen medial de la cavidad, de 23 mm de diámetro (previo de 19 mm), también con valores de VSCr aumentados, siendo sugestivo de resto/recidiva tumoral. Al igual que en estudio previo, dicho foco nodular impronta sobre el sistema ventricular y contacta y tracciona del plexo coroideo izquierdo (no pudiendo excluir la existencia de diseminación ependimaria del tumor).
+Persisten también las proyecciones lineales, gruesas e irregulares, del margen posterosuperior que presentan un aspecto tumefacto y cierta restricción en difusión al igual que en el estudio previo, siendo sugestivos de restos tumorales.
+Área de hiperintensidad T2/FLAIR adyacente con extensión similar a RM previa. Conclusión: probable progresión de la enfermedad, por aumento del grosor del realce pericavitario (máximo 10 mm, previo de aproximadamente 4 mm).
+Tras estos hallazgos, comentamos el caso con Neurocirugía, que está pendiente de nueva valoración.

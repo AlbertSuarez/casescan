@@ -1,0 +1,39 @@
+Anamnesis
+Paciente de 39 años alérgica a amoxicilina-ácido clavulánico y fumadora de 10 cigarrillos/día.
+Diagnosticada en 2012 de artritis reumatoide en tratamiento médico con sulfato de hidroxicloroquina y controles analíticos por Reumatología. A raíz de controles analíticos rutinarios de su artritis reumatoide se detecta la alteración progresiva del perfil hepático, por lo que se deriva a Digestología, donde se realiza su estudio.
+
+Exploración física
+ECOG 0. Sin más hallazgos clínicos patológicos destacables.
+
+Pruebas complementarias
+» Ecografía abdominal (4/7/2013): hepatomegalia. Múltiples lesiones hepáticas de bordes imprecisos e irregulares que afectan a los dos lóbulos hepáticos, de predominio en el lóbulo hepático izquierdo, la más grande de 6 cm. Vesícula biliar normal sin dilatación de la vía biliar intra ni extrahepática. Área pancreática sin evidencia de lesiones.
+» Analítica (9/7/2013): hemoglobina 11,5 g/dl, hematocrito 35%, plaquetes 181.000 K/mcL. Creatinina 0,62 mg/dl, GOT 181 UI/l, GPT 8 UI/l, GGT 111 UI/l, FA 117 UI/l, bilirrubina 0,38 mg/dl, CEA 1,24 ng/mL. CA 19.9 62,14 U/ml.
+» TC toracoabdominal (10/7/2013): nódulo calcificado en el LSE inespecífico. Hígado con múltiples LOE hipodensas con captación en anillo que afecta a ambos lóbulos hepáticos sugestivas de M1 hepáticas.
+» Gastroscopia (11/7/2013): bulbo con compresión extrínseca en la cara anterosuperior que permite el paso del endoscopio. Sin otros hallazgos patológicos.
+» Colonoscopia (11/7/2013): normal.
+
+Diagnóstico
+Se realiza biopsia con aguja gruesa hepática guiada por TC (11/7/2013), siendo el resultado anatomopatológico de adenocarcinoma moderadamente diferenciado de patrón tubular con estroma desmoplásico compatible con colangiocarcinoma.
+
+Tratamiento
+Bajo la orientación diagnóstica de colangiocarcinoma intrahepático multifocal se valora el caso en Comité de Cirugía Hepatobiliar, descartándose, de entrada, la cirugía radical y la opción de trasplante hepático. Se deriva entonces a Oncología Médica para valorar tratamiento sistémico paliativo.
+
+Evolución
+En agosto de 2013 la paciente inicia tratamiento con quimioterapia según esquema cisplatino-gemcitabina (D1, D8 cada 21 días), administrándose tres ciclos hasta octubre de 2013. La valoración por TC es de estabilidad de la enfermedad.
+
+Se presenta de nuevo el caso en Comité de cirugía Hepato-biliar, planteándose la opción de cirugía; dada la no progresión de la enfermedad y el predominio de enfermedad tumoral en lel óbulo hepático izquierdo asociado a una volumetría de hígado sano mayor del 30%.
+
+El 28 de octubre de 2013 se practica una hepatectomía izquierda ampliada (segmentos II, IV, V, VII y Spiegel) con linfadenectomía hiliar hepática, siendo la histología compatible con colangiocarcinoma en estadio pT3a pN0.
+
+Posteriormente a la cirugía presenta peritonitis posthepatectomía que requiere de tratamiento antibiótico, con buena resolución clínica.
+
+Desde enero hasta marzo de 2014 se administran dos ciclos de quimioterapia "adyuvante" con gemcitabina semanal (D1, D8, D15 c/28 días).
+
+En agosto de 2014 en una TC de control se evidencia recidiva de la enfermedad en los segmentos VI y VII, volviéndose a plantear en comité un nuevo rescate quirúrgico.
+
+El 29 septiembre 2014 se realiza metastasectomía hepática del segmento VI + segmentectomía parcial del segmento VII. El resultado anatomopatológico confirma dos nuevos focos de colangiocarcinoma. La paciente completa ocho ciclos de quimioterapia "adyuvante" con capecitabina desde noviembre de
+2014 hasta abril de 2015.
+
+En mayo de 2015 presenta nueva recidiva en el lecho de resección quirúrgica, planteándose nuevamente cirugía mediante segmentectomía limitada del sgemento VI y radiofrecuencia del nódulo del segmento VII.
+
+Actualmente está en curso de postoperatorio con buena evolución clínica pendiente de reiniciar seguimiento.

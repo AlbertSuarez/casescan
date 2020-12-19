@@ -1,0 +1,36 @@
+ANAMNESIS
+Varón de 27 años. Criptorquidia derecha intervenida a los 4 años. Exfumador de 1 paquete diario. En junio de 2012 consulta por un cuadro de molestias en la zona genital (prurito y aumento de tamaño del teste izquierdo). Tras varios ciclos antibióticos por sospecha de orquiepididimitis y no mejoría, es derivado a Urología de su centro de referencia para estudio; se realiza una orquiectomía izquierda, confirmándose el diagnostico de TCG testicular avanzado. Posteriormente se deriva a Oncología Médica para su valoración.
+
+Exploración física
+Inspección general: normal. Exploración neurológica normal. Ruidos cardíacos rítmicos sin soplos, murmullo vesicular conservado. Abdomen: se palpa gran efecto masa que ocupa la práctica totalidad del abdomen. Matidez generalizada. No clara semiología de ascitis.
+
+Pruebas complementarias
+» Ecografía (diciembre 2012): orientativa de tumor testicular izquierdo.
+» Analítica 1ª marcadores tumorales (MT) (diciembre 2012): AFP 1.000; BHGC 704. LDH 721.
+» Tomografía computariza (TC) toracoabdominopélvica precirugia (diciembre 2012): masa pélvica e hipogástrica de 16 x 15,3 x 10,8 cm y múltiples adenopatías retroperitoneales en torno a los grandes vasos, la mayor de ellas de 47 mm, nodulillo pulmonar parahiliar de 5 mm inespecífico.
+» Orquiectomía izquierda (enero 2013). Anatomía patológica: TCG mixto, 70% tumor seno endodérmico y 30% seminoma clásico, afectación cordón (T3).
+» MT postcirugía (enero 2013): LDH 867, AFP 30571, BHGC desconocido.
+» TC postcirugía solicitado por Oncología Médica: descripción.
+
+Diagnóstico
+Tumor de células germinales testicular estadio III por enfermedad retroperitoneal, peritoneal masiva y pulmonar. Enfermedad de pobre pronóstico de acuerdo con IGCCCG.
+
+Tratamiento
+Inicia primera línea el 25 de enero 2013 con BEP5 (bleomicina, etoposido y cisplatino), recibiendo cuatro ciclos.
+
+Evolución
+Descenso de MT inapropiado de acuerdo con las vidas medias (últimos valores tras el cuarto ciclo: LDH 353, AFP 2.326, beta-HGC 2).
+
+En la TC postquimioterapia se objetiva mínima disminución de la masa, de modo que el paciente es derivado a nuestro centro.
+
+Dada la positividad de marcadores y la extensa afectación pélvica se plantea TIP (paclitaxel, ifosfamida y cisplatino) de inducción seguido de quimioterapia a altas dosis (HDCT) con soporte hematopoyético.
+
+El paciente completó cuatro ciclos de TIP sin llegar a movilizar células progenitoras, lo que impidió el tratamiento con HDCT. La reevaluación tras este tratamiento (septiembre 2013) muestra descenso de MT que alcanzan un plateau, pero sin normalizarse, y respuesta radiológica menor.
+
+En marzo de 2014 los MT inician curva ascendente y vuelven a remitirlo a nuestro centro. En abril de 2014 inicia quimioterapia con oxaliplatino-gemcitabina-taxol, del que recibe cuatro ciclos, con respuesta notable por marcadores y discreta por imagen. Se plantea un segundo intento de HDCT, que es exitoso en esta ocasión. El paciente se somete a trasplante autólogo de progenitores hematopoyéticos (TAPH) (los dias 22 y 23/7/2014) tras acondicionamiento según el esquema con carboplatino y etopósido. Tras el TAPH, los marcadores disminuyen de nuevo, pero sin alcanzar la normalización completa, y por imagen se objetiva beneficio radiológico. TC tórax y abdomen (17/9/2014).
+
+Poco tiempo después, los marcadores inician curva ascendente, por lo que se desestima nuevo TAPH y se inicia tratamiento con VP-16 oral (50 mg/día). Por falta de respuesta en los marcadores, se rota a ciclofosfamida oral 50 mg al día.
+
+Se discute un posible rescate quirúrgico conjunto entre Cirugía General y Urología, dada la afectación abdominal de aparente naturaleza quimiorresistente (teratoma +/- tumor viable). Finalmente, se interviene el 19 de enero de 2015 sin complicaciones (anatomía patológica con tumor germinal maligno de tipo tumor de seno endodérmico, que persiste en más del 50% de la localización yuxtarrenal y en menos del 30% del resto de localizaciones).
+
+En la TC postquirúrgica de marzo de 2015 no exitían imágenes concluyentes de recidiva tumoral, pero se objetiva progresión serológica (incremento mantenido de BHGC) y aparición de metástasis pulmonares. Inició quimioterapia según esquema BOP, con fluctuaciones en el marcador y toxicidad hematológica que ha retrasado el tercer ciclo hasta la fecha.

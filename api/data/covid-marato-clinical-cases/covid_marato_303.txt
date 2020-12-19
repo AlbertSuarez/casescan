@@ -1,0 +1,42 @@
+Anamnesis
+Paciente de 23 años diagnosticada a los 10 meses de edad de una leucemia linfoblástica aguda L1 de células B (fenotipo nulo con factores de alto riesgo). Tratada con el protocolo de quimioterapia para leucemia linfobástica aguda-7-91 (rama de alto riesgo), se consiguió remisión completa tras el tratamiento.
+Posteriormente, recibió intensificación y profilaxis del sistema nervioso central con quimioterapia intratecal y posterior RT craneal (diferida por edad). Tras todo ello, se inició tratamiento de mantenimiento, finalizando todo el tratamiento en agosto de 1994.
+Dada de alta en 2008 con estudio con resonancia magnética (RM) cerebral y ecocardiograma normal.
+
+MOTIVO DE CONSULTA
+Remitida el 22.05.2014 con el diagnóstico de rabdomiosarcoma alveolar avanzado. La paciente presentaba desde hacía 2 meses sensación de hinchazón en ojo izquierdo, diplopia y dolor a la movilidad ocular ojo izquierdo. También refería de forma progresiva hiposmia. Tras consultar a finales de abril en urgencias de Oftalmología y otorrinolaringología, se inició estudio. Asociaba también astenia y pérdida de apetito en el último mes. No pérdida de peso. En los últimos 14 días presentaba dolor escapular derecho intermitente.
+
+Exploración física
+
+La paciente presentaba buen estado general. Performance status 0. Normohidratada. Normocoloreada.
+Eupneica en reposo. No adenopatías cervicales, supraclaviculares, axilares ni inguinales. No tumoraciones mamarias.
+Auscultación cardio-pulmonar y abdomen sin hallazgos relevantes.
+En la exploración ORL se apreciaba en la fosa nasal izquierda una masa de aspecto carnoso con vascularización superficial a nivel esfeno etmoidal que desplazaba el cornete medio hacia el meato medio. La masa no llegaba al suelo de la fosa nasal ni se apreciaba extensión a cavum.
+
+Pruebas complementarias
+
+Analítica: sin alteraciones salvo LDH 1582 U/L
+Función ventricular izquierda: >60%.
+RM base de cráneo: Masa de partes blandas en el seno etmoidal izquierdo que asocia destrucción ósea tanto de las celdillas etmoidales como de la pared inferior del seno frontal izquierdo, de la lámina horizontal del etmoides (existiendo comunicación con la fosa craneal anterior, sin identificar colecciones intracraneales), y de pared medial de la órbita izquierda con extensión al espacio extraconal medial.
+Existe infiltración del músculo oblicuo superior y recto interno, sin afectación intraconal. Los diámetros aproximados son de 21 x 40 x 42 mm.
+RMN cerebral: Expansión de la porción superior lámina cribiforme y celdillas etmoidales izquierdos así como techo de órbita con una reacción dural asociada, sin otras alteraciones intracraneales asociadas.
+PET-TAC: Masa tumoral etmoidal izquierda con destrucción de la pared medial de la órbita izquierda con extensión, ocupación y desplazamiento de la órbita y nervio ocular izquierdo, hipermetabólica (SUVmáx- 12.3 gr/ml). Asociaba multitud de focos metastásicos en esqueleto axial y extra-axial.
+Biopsia tumoración fosa nasal derecha: Fragmento de tejido tumoral de alta densidad celular, constituido por células de pequeño tamaño, dispuestas de modo sólido o a veces compartimentalizadas en nidos/grupos por septos de conectivo fibrovascular. Algunas de las células tumorales presentaban escaso citoplasma eosinófilo y ocasionalmente multinucleación. Inmunohistoquímica: las células eran intensamente positivas para marcadores musculares Desmina y Actina Músculo Específica; eran negativas para citoqueratinas, enolasa, neurofilamentos y marcadores de melanoma (HMB45 y MelanA). Todo ello es compatible con rabdomiosarcoma alveolar.
+
+Diagnóstico
+
+Paciente de 23 años diagnosticada, 22 años después del tratamiento de su leucemia, de rabdomiosarcoma alveolar de probable origen radioinducido, localmente avanzado e irresecable a nivel etmoidal izquierdo y con metástasis óseas múltiples.
+
+Tratamiento
+
+Se propuso tratamiento con tres ciclos de quimioterapia (QT) según el esquema IVADo-V-V (ifosfamida, vincristina, actinomicina D y adriamicina) según el protocolo europeo de rabdomiosarcoma de muy alto riesgo EpSSG RMS 2005.
+Se valoró el tratamiento previo observando que la dosis total de antraciclinas fue de 180mg/m2, puesto que la paciente iba a recibir tratamiento con 4 dosis de adriamicina se decidió control estrecho de la función ventricular.
+Además, dado el alto riesgo de toxicidad hematológica (antecedente de QT por leucemia y RT craneal) se dio profilaxis primaria de la fiebre neutropénica con G-CSF pegilado y levofloxacino profiláctico.
+
+Evolución
+Pese a la intensificación del tratamiento de soporte la segunda y tercera fase (vincristina) del primer y segundo ciclo no se pudo administrar por neutropenia afebril grado 4 y trombopenia grado 3. Y tras el segundo ciclo precisó ingreso por fiebre neutropénica en el contexto de una mucositis grado 4 y toxicidad hematológica grado 4.
+Tras la toxicidad presentada previamente, el tercer ciclo se administró con reducción de dosis de vincristina y actinomicina D al 75% para intentar mantener la intensidad de dosis de la adriamicina y de la ifosfamida, sin registrarse toxicidad inmediata significativa.
+En la evaluación tras 3 ciclos de IVADo mostró respuesta parcial local. Tras el cuarto ciclo nuevo ingreso por fiebre neutropénica en el contexto de una toxicidad hematológica grado 4, asociando mucositis grado 4 e infección por Clostridium difficile que condicionaba un cuadro de diarrea.
+La paciente se recuperó finalmente e inició la segunda parte del protocolo con esquema IVA (manteniendo la reducción dosis al 75% de vincristina y actinomicina D y asociando G-CSF pegilado y levofloxacino profiláctico). Se administraron 3 ciclos de esta segunda parte, pero el cuarto ciclo no pudo pautarse por neutropenia persistente.
+En ese momento la paciente ingresó por cuadro de afasia y desorientación secundario a hipertensión intracraneal. Se inició tratamiento con dexametasona y levetiracetam (presentó movimientos involuntarios en miembros inferiores al ingreso que cedieron con el inicio de levetiracetam y Diazepam).
+Se solicitó evaluación observando un aumento de tamaño de la lesión primaria orbitaria izquierda con aparición de metástasis intraparenquimatosas y engrosamiento e hipercaptación de las meninges. Se solicitó evaluación de tratamiento paliativo por radioterapia, pero la paciente empeoró y precisó inicio de tratamiento sintomático exclusivo para control de síntomas.

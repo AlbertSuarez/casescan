@@ -1,0 +1,27 @@
+Anamnesis
+Mujer de 62 años de edad, sin alergias medicamentosas conocidas, con antecedentes personales de dislipemia mixta, síndrome ansioso-depresivo, hipertransaminasemia atribuída a fármacos. Intervenida de meniscectomía, extirpación de quiste epidérmico mandibular, apendicectomía hace 40 años. Fumadora de 40 cigarrillos/día.
+En enero de 2007 es diagnosticada de hipotiroidismo subclínico después de consultar por aumento progresivo de peso, iniciándose tratamiento hormonal sustitutivo.
+Se indica PAAF de nódulo de 3 cm en el lóbulo tiroideo izquierdo, que la paciente no se realiza, y no acude a consultas hasta julio de 2009.
+
+Exploración física
+Peso 120 kg; talla 162 cm; IMC 42,67 kg/m2.
+PS 0, ECOG 0. Consciente, orientada. Buena coloración de piel y mucosas, bien perfundida, tiroides palpable con nódulo de aproximadamente 3 cm en el lóbulo izquierdo. No presenta adenopatías cervicales palpables. Resto sin alteraciones.
+
+Pruebas complementarias
+• Analítica: con hemograma y coagulación normal, bioquímica que muestra TSH 7.530 mUI/L, T4 0,46 ng/dL; resto sin alteraciones.
+• Ecografía de tiroides (julio de 2009): glándula tiroidea globalmente aumentada de tamaño, con morfología polilobulada que en su interior presenta nódulos isoecogénicos con la glándula, de alrededor de 1 cm, en el lado derecho se objetiva alguno mayor de 1,3 cm, todo ello en probable relación con bocio multinodular, acompañado de adenopatías laterocervicales bilaterales, más numerosas en la cadena yugulocarotídea, de aspecto inflamatorio, la mayor de ellas en el lado izquierdo de 1,3 cm. Se realiza PAAF que muestra material insuficiente y la paciente se niega a su repetición hasta febrero de 2010.
+• Ecografía de tiroides (febrero de 2010): bocio multinodular. En el lóbulo tiroideo izquierdo nódulo mayor de aspecto quístico redondeado de 0,9 x 0,8 x 0,8 cm que no se punciona. En el lóbulo derecho, nódulo mayor en el polo inferior de 1,4 x 1,32 x 1,71 cm, hipoecoico, no vascularizado con bordes irregulares que se punciona. Adenopatías laterocervicales bilaterales, más numerosas en cadena yugulocarotídea derecha de aspecto inflamatorio que conservan el hilio, aunque alguna tiene morfología redondeada, la mayor midiendo 0,86 cm.
+• Resultado de la PAAF del nódulo en el lóbulo tiroideo derecho (marzo de 2010): tiroiditis crónica linfocítica tipo Hashimoto con signos proliferativos foliculares a células de Hürthle.
+El 3 de noviembre de 2010 es sometida a una lobectomía tiroidea derecha, enviándose la pieza a anatomía patológica que informa de linfoma de la zona marginal tipo MALT con prominente diferenciación plasmocítica. Tiroiditis de Hashimoto.
+
+Diagnóstico
+Linfoma de la zona marginal tipo MALT y tiroiditis de Hashimoto.
+
+Evolución y tratamiento
+Es remitida por primera vez en el Servicio de Oncología el 21 de enero de 2011, y se realizan los siguientes estudios:
+• Analítica: hemograma y coagulación normal, VSG 30 mm, colesterol total 269 mg/dL, LDL 174 mg/ dL, triglicéridos 250 mg/dL, GGT 69, U/L, TSH 24.800 mUI/L, T4 libre 0,42 ng/dL, CEA 1,1 ng/mL, CA-19.9 15,8 U/mL, resto de la bioquímica negativa, serologías de virus de hepatitis, VIH, CMV, EB negativos.
+• Aspirado y anatomía patológica de médula ósea normal.
+• TC de cuello, tórax y abdomen (9 de febrero de 2011): ausencia de visualización de lóbulo tiroideo derecho e istmo tiroideo. Aumento de diámetro del lóbulo tiroideo izquierdo, de contornos lobulados y homogéneos desde el punto de vista radiológico. Se evidencian adenopatías en la práctica totalidad de compartimentos cervicales todas ellas inferiores a 1 cm con morfología ovoidea y desde el punto de vista radiológico inespecíficas y de probable carácter inflamatorio.
+Comienza con rituximab semanal, cuatro ciclos, desde 28 de febrero 2011 hasta 23 de marzo de 2011 y radioterapia sobre resto de tiroides desde el 26 de mayo de 2011 hasta 23 de junio de 2011, dosis total 36 Gy y fracción de 1,8 Gy.
+Se realiza un escáner evolutivo de cuello-tóraxabdomen el 3 de noviembre de 2011: cambios posquirúrgicos, lóbulo tiroideo izquierdo globalmente aumentado de tamaño sin imágenes de nódulos, adenopatías en espacio submandibular, la mayor de ellas en el lado izquierdo, cuyo diámetro máximo en el eje corto es de 5,7 mm. No se evidencian signos de recidiva de la enfermedad.
+Asintomática hasta la actualidad.

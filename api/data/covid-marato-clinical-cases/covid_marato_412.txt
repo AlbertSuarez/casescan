@@ -1,0 +1,31 @@
+Anamnesis
+Varón de 50 años, exfumador con índice acumulado de 60 paquetes/años. Antecedente de nefrectomía laparoscópica por carcinoma papilar de riñón tipo I en abril de 2013. En la TC de control a los 3 meses de de la intervención, se visualizó un nódulo pulmonar de 2,5 cm en el lóbulo superior derecho, por lo que se derivó al Servicio de Neumología, que completó el estudio con ecobroncoscopia y TC-PET. Con diagnóstico de adenocarcinoma de pulmón estadio IV por afectación ósea al debut, fue derivado al Servicio de Oncología Médica en septiembre de 2013, iniciando tratamiento con gefitinib (mutación del EGFR +) y ácido zoledrónico, con buena respuesta a los mismos.
+En diciembre de 2013 comenzó con sensación de mareo y diplopía, por lo que se realizó estudio con TC y RM cerebral.
+
+Examen físico
+Diciembre de 2013: Eupneico en reposo. Tensión arterial (TA) 127/82 mmHg, frecuencia cardíaca (FC) 75 lpm, saturación de oxígeno (Sat.O2) 98 % aire ambiente. Auscultación cardiopulmonar normal. Exploración neurológica: colaborador y orientado en las tres esferas. Pupilas isocóricas y normorreactivas. Motilidad ocular normal. Diplopía a la mirada hacia la derecha. No nistagmo. Resto de pares craneales, fuerza y sensibilidad sin alteraciones. Inestabilidad en la marcha.
+
+Pruebas complementarias
+Pruebas complementarias realizadas en agosto/septiembre 2013:
+-Tomografía computarizada (TC) tórax-abdomen-pelvis: nódulo pulmonar cavitado de 2,5 cm en el lóbulo superior derecho que contacta y engruesa la pleura.
+- Tomografía por emisión de positrones (TC-PET): captación en el lóbulo superior del pulmón derecho, SUV máximo 10,58 Uci/ml. Captación supraclavicular, paratraqueal, 8.ª costilla derecha, columna vertebral y hemipelvis izquierda.
+- Punción-aspiración con aguja fina (PAAF) adenopatía 7: células malignas compatibles con adenocarcinoma. Citología: EGFR mutado.
+Pruebas complementarias realizadas en diciembre 2013/enero 2014:
+- Resonancia magnética (RM) cerebral (diciembre 2013): múltiples focos milimétricos de restricción de la difusión, sugestivos de lesiones isquémicas agudas. Múltiples realces puntiformes en ambos hemisferios cerebrales y cerebelosos, que sugieren diseminación secundaria (carcinomatosis leptomeníngea).
+- TC craneal (finales de enero 2014): hipodensidades parenquimatosas corticosubcorticales en relación con infartos establecidos, con focos hiperdensos en su interior que sugieren transformación hemorrágica de las lesiones.
+
+Diagnóstico
+- Carcinoma papilar de riñón izquierdo tipo I pT1 tratado en abril de 2013.
+- Adenocarcinoma de pulmón derecho c T2c N3 M1 (estadio IV) diagnosticado en septiembre de 2013.
+- Múltiples infartos cerebrales y carcinomatosis leptomeníngea en diciembre de 2013.
+- Transformación hemorrágica de infartos cerebrales en enero de 2014.
+- Múltiples infartos cerebrales, renales y esplénicos. Endocarditis marántica en la válvula aórtica confirmado en autopsia en febrero de 2014.
+
+Tratamiento
+Con diagnóstico de adenocarcinoma de pulmón estadio IV con EGFR mutado, se inició tratamiento en octubre de 2013 con gefinitib oral (inhibidor de la tirosina-cinasa) y ácido zoledrónico, con muy buena tolerancia y respuesta al mismo.
+
+Evolución
+En diciembre de 2013 comenzó de forma ocasional con clínica de vértigo y diplopía y a encontrarse más bradipsíquico, por lo que se le solicitaron una TC y una RM cerebral, en las que se objetivaron lesiones isquémicas agudas e imágenes compatibles con carcinomatosis meníngea, por lo que se añadió ácido acetilsalicílico y corticoides a su tratamiento.
+Durante el mes de enero, el estado neurológico del paciente fue empeorando, con persistencia de la bradipsiquia y dificultades para la lectura. Presentó a finales de enero de forma súbita hemiparesia izquierda, objetivándose mediante TC cerebral, transformación hemorrágica de los infartos cerebrales.
+En ese momento se inició tratamiento sintomático de confort, con empeoramiento progresivo del estado general y, de acuerdo con la familia, se inició sedación, falleciendo 48 horas después.
+Se solicitó la autopsia, en la que se objetivaron múltiples infartos renales, esplénicos y cerebrales, y se confirmó el diagnóstico de endocarditis marántica sobre la válvula aórtica.

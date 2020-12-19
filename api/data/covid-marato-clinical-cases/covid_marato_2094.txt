@@ -1,0 +1,40 @@
+Anamnesis
+Varón de 66 años con los siguientes antecedentes personales:
+- No reacciones alérgicas medicamentosas conocidas.
+- Fumador de 5 cigarrillos/día desde la adolescencia.
+- Antecedentes Médicos: Diabetes tipo II con buen control glucémico. Cardiopatía isquémica con revascularización percutánea en marzo de 2012 mediante colocación de stent farmacoactivo en arteria descendente anterior y coronaria derecha.
+- No Antecedentes quirúrgicos.
+- Tratamiento habitual: Atorvastatina 80 mg/24 horas; Ácido Acetilsalicílico 100 mg/24 horas; Candesartán 8 mg/24h; Carvedilol 6.25 mg/24h; Ranitidina 300 mg/24 horas; Metformina1g/Sitagliptina 50 mg /24 horas; Prasugrel 10 mg/24 horas
+- Historia oncológica: en agosto de 2012 nota una lesión hiperpigmentada en región deltoidea derecha, por lo que consulta con su Médico de Atención Primaria. Un mes más tarde se lesiona en la zona y se produce un sangrado, consultando a Dermatología, y realizándose biopsia escicional en febrero de 2015, con resultado histopatológico de Melanoma de células epitelioides y fusiformes, pigmentado, ulcerado y con crecimiento radial pagetoide (2.75 mm de espesor, alta actividad mitósica). Se realiza estudio de extensión que muestra afectación axilar, por lo que es sometido a ampliación de márgenes y linfadenectomía axilar derecha, con metástasis en 4 de 23 ganglios sin extensión extracapsular. TAC y RMN sin signos de enfermedad metastásica, por lo que inicia tratamiento adyuvante en base a ensayo clínico con IPILIMUMAB 10 mg/kg el 18/6/2015.
+En julio de 2015 acude a consulta de Oncología Médica con síndrome diarreico de hasta 15 episodios diarios de tres días de evolución, sin productos patológicos. Afebril, no respuesta a Loperamida ni corticoides orales. No se asocia a otra sintomatología.
+
+Exploración física
+Buen estado general, consciente, orientado, colaborador. Eupneico en reposo. Temperatura 36ºC; Tensión arterial 140/85 mmHg; Frecuencia Cardiaca 85lpm. Buena hidratación de piel y mucosas. 
+ECOG 2
+Orofaringe normal, no se palpan adenopatías cervicales, axilares ni supraclaviculres. Auscultación cardiorrespiratoria: corazón rítmico a 85lpm sin soplos audibles; buen murmullo vesicular bilateral sin ruidos sobreañadidos. Abdomen: blando y depresible, no doloroso a la palpación, sin masas ni megalias palpables, ruidos hidroaéreos conservados. Miembros inferiores sin edemas ni signos de trombosis.
+
+Pruebas complementarias
+-Hemograma: Hemoglobina 12.5 mg/dl, leucocitosis de 16.000/mm3 con neutrofilia del 85%, plaquetas 185.000/mm3
+- Bioquímica: glucemia 195 mg/dl, urea 45 mg/dl, creatinina 1.05 mg/dl, sodio 131 mEq/dl, potasio 3.45 mEq/dl, calcio 9.16 mEq/dl, PCR 49 mg/dl.
+- Colonoscopia: mucosa con abundantes exudados y edema que hacen desistir de progresar la exploración dados los riesgos de complicación y la existencia de mala tolerancia. Se toman biopias para estudio anatomopatológico y Citomegalovirus.
+- Intradermorreacción de Mantoux: Negativo
+- TAC de abdomen: colitis inespecífica y abundante contenido fecal en colon derecho sin otros hallazgos.
+- Biopsia: Colitis grado 2
+
+Diagnóstico
+- Melanoma maligno con afectación ganglionar (4/24) pT4N3M0 estadio IIIC.
+- Síndrome diarreico grado II secundario a inmunoterapia.
+- Colitis grado II.
+
+Tratamiento
+- Dieta absoluta, nutrición parenteral total hasta mejoría. Posteriormente progresión a dieta diabética.
+- Dexametasona 8 mg cada 8 horas intravenosa. Posteriormente, corticoterapia con Prednisona oral en pauta descendente duante un mes.
+- Infliximab 5 mg/kg dosis única, y posteriormente cada 2 semanas hasta un total de tres dosis.
+- Enemas de mesalazina diarios hasta el alta hospitalaria.
+
+Evolución
+Durante los primeros días de hospitalización el paciente presentó importantes episodios de diarrea de hasta 20 deposiciones diarias asociadas a dolor cólico intenso, que no cedían a corticoides intravenosos a dosis altas. Además dichos dolores se asociaban a náuseas e hiporexia.
+El paciente presentó un cuadro depresivo, llegando incluso a rechazar las maniobras terapéuticas propuestas por el personal médico, debido a que no notaba una mejoría clara.
+Por este motivo, se decidió instaurar tratamiento con dosis única de INFLIXIMAB 5mg/kg a pasar en dos horas el día 31/7/2015 previo test de Mantoux negativo. De esta manera se pudo conseguir disminuir la frecuencia de las deposiciones, el paciente empezó a tolerar mucho mejor las comidas y su estado de ánimo también fue mejorando progresivamente.
+Una semana después el paciente fue dado de alta tolerando vía oral con normalidad y habiendo remitido completamente el cuadro diarreico. Posteriomente el paciente recibió otras dos dosis de Infliximab separadas por dos semanas.
+Finalmente, dado que el paciente se encontraba libre de enfermedad y había presentado la toxicidad descrita, se decidió suspender el tratamiento adyuvante y actualmente se encuentra en seguimiento sin signos de recaída de la enfermedad.

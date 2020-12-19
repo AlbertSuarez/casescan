@@ -1,0 +1,41 @@
+Anamnesis
+Presentamos el caso de una mujer de 46 años diagnosticada de metástasis ganglionares axilares por carcinoma de mama oculto.
+Se trata de una paciente sin antecedentes médicos de interés, y en seguimiento dentro del Programa de Prevención de Cáncer de Mama. Sus primeras mamografías se las había realizado un año antes, en enero de 2012, con 45 años, y no mostraban alteraciones.
+La historia ginecológica de la paciente refleja que continuaba menstruando con normalidad, y que había tenido 4 gestaciones, con un parto y tres abortos. Estos tres abortos se dieron tras rectificación en 2006 de ligadura de trompas que se practicó en 2003. La edad de su primer embarazo fue a los 36 años. No practicó la lactancia materna. Nunca se había administrado tratamientos hormonales. Su menarquia fue a los 12 años.
+
+La paciente no presentaba antecedentes familiares de cáncer de mama u ovario, ni tampoco de otros tumores.
+
+La historia oncológica de la paciente se inicia con la autopalpación de un nódulo axilar izquierdo, de crecimiento progresivo de semanas de evolución. La paciente es remitida a Cirugía General, y ante la sospecha de malignidad tras la exploración física, es derivada a Radiodiagnóstico para completar estudio.
+
+Exploración física
+A nivel locorregional, presenta mamas de tamaño y consistencia normal, sin asimetrías ni nódulos a la palpación. Se evidencia en región axilar izquierda una adenopatía de unos 5 cm discretamente dolorosa. No se evidencian adenopatías en otros territorios ganglionares.
+
+La exploración física por aparatos no presentó hallazgos patológicos. En definitiva, performance status de 0.
+
+Pruebas complementarias
+- El 20/01/2013 se realiza primera valoración mediante mamografía, ecografía y biopsia mamaria y axilar izquierdas. Se evidenciaron mamas de predominio denso en mamografías. En ecografía, coincidiendo con la tumoración palpada en región axilar izquierda, se identifica una adenopatía con ausencia de hilio graso, de 50 mm, patológica. El resultado de la biopsia de la adenopatía axilar izquierda es de carcinoma metastásico que orienta a posible origen mamario. Se observa nódulo de 8 mm en línea intercuadrántica interna de mama izquierda del que se realiza biopsia con el resultado de fibrosis mamaria.
+- Se completa la valoración loca-regional con RM mamaria bilateral el 03/02/2013, que de nuevo evidencia adenopatías axilares izquierdas, la de mayor tamaño de 52 x 24 x 55 mm.
+Se observa captación glandular bilateral y simétrica. Se observa el nódulo en mama izquierda ya descrito en ecografía previa y de características inespecíficas. Se evidencia otro nódulo ovalado y bien definido en línea intercuadrántica interna de mama derecha, de 10 mm, también inespecífico. Existen quistes simples mamarios bilaterales.
+- Ante la ausencia de tumor mamario primario, se realiza biopsia del nódulo en mama derecha evidenciado en RM, mostrando parénquima mamario sin lesiones microscópicas relevantes.
+- Dada la negatividad de las biopsias mamarias realizadas, y ante la ausencia de otras lesiones sospechosas, se realiza 2ª biopsia del nódulo observado en línea intercuadrántica interna de mama izquierda y esta vez también de la región retroareolar de dicha mama. El resultado anatomo-patológico es de ectasia ductal sin atipias.
+- Agotando las posibilidades diagnósticas, se decide repetir RM mamaria bilateral ajustada al ciclo menstrual el 18/02/2013, sin evidenciarse ningún cambio respecto a la realizada el 03/02/2013.
+- Se completa estudio de extensión mediante TC toracoabdominopélvico el 10/02/2013 que de nuevo muestra varías adenopatías axilares izquierdas, las mayores de 53 (ya descrita), y 16 mm. No se identifican más adenopatías en otros territorios ganglionares ni metástasis en ningún nivel. Asimismo se realiza con gammagrafía ósea de cuerpo entero que no muestra captaciones de ningún tipo.
+- La bioquímica sanguínea, hemograma y coagulación (18/02/2013) no presentan alteraciones.
+Asimismo la paciente muestra unos marcadores tumorales normales (CEA 2 ng/ml; Ca 15.3 9.6 UI/ml).
+
+Diagnóstico
+La biopsia de la adenopatía axilar izquierda muestra células inmunohistoquímicamente positivas a receptores de estrógenos y progesterona y CK19. Son negativas por contra a mamaglobina. También son negativas a GCDP15, TTF1, tiroglobulina, CDX2, CK 7, CK 20, WT1, CA 125, y CD56.
+Aunque el resultado no es concluyente, el perfil inmunohistoquímico orienta hacia carcinoma de origen mamario, con unos receptores de estrógenos con intensidad 2+ y un 80% de células teñidas. Los receptores de progesterona presentan una intensidad 2+ y un 15% de células teñidas. El proto-oncogen HER-2neu es negativo (0-1+) por inmunohistoquimia.
+El diagnóstico definitivo es de carcinoma mamario luminal localmente avanzado cT0cN2aM0.
+
+Tratamiento
+Ante la afectación ganglionar, se propone tratamiento neoadyuvante mediante quimioterapia (QT) secuencial con antraciclinas y taxanos. Posteriormente, el tratamiento se completará con linfadenectomía axilar izquierda. En función de la respuesta clínica a la QT neoadyuvante, se valorará la realización o no de mastectomía ipsilateral. En todo caso, la paciente deberá recibir radioterapia (RT) locorregional posterior ante la afectación axilar y hormonoterapia (HT) adyuvante durante 5-10 años por ser un tumor luminal.
+
+Evolución
+Así pues, entre el 21/02 y el 25/04/2013 se administran cuatro ciclos de FEC (5-fluoracilo, epirrubicina y ciclofosfamida) a dosis estándar. La ventriculografía isotópica al inicio del tratamiento mostraba una FEVI normal.
+Entre el 16/05 y el 18/07/13 se administran cuatro ciclos de docetaxel, también a dosis estándar, y profilaxis primaria de neutropenia con GCS-F.
+Como se observa, la QT se administra sin retrasos ni incidencias de interés. Destaca alopecia G2, y durante la administración del taxano, neuropatía G2 y onicopatía G1-2.
+Ante la excelente respuesta a la neoadyuvancia (respuesta parcial mayor/respuesta completa en RM, y dada la evidencia descrita en la Literatura, se decide linfadenectomía axilar con preservación de las glandular mamaria y RT locorregional adyuvante por cirugía conservadora. El 19/09/2013 se realiza linfadenectomía axilar izquierda, cuyo resultado anatomo-patológico es de linfadenitis reactiva en 13 adenopatías aisladas (cTXpN0(0/13)M0).
+Entre el 05/10 y el 06/11/2013 se administró RT adyuvante sobre glándula mamaria izquierda y áreas ganglionares locorregionales hasta un total de 50 Gy. La paciente presenta radiodermitis G1 aguda.
+Tras finalizar con la RT, la paciente inicia HT adyuvante con tamoxifeno (situación premenopáusica con amenorrea desde el 2º ciclo de QT). Inicialmente presenta regular tolerancia a tamoxifeno por sofocación y astenia moderada. Como secuelas post-quirúrgicas, la paciente presenta limitación funcional del brazo izquierdo por plexopatía braquial, tratándose mediante rehabilitación.
+En la actualidad, la paciente mantiene seguimiento clínico semestral con RM mamaria bilateral anual, tras un intervalo libre de enfermedad de 2 años y 10 meses. La tolerancia a tamoxifeno ha mejorado y solo destaca linfedema G1 en brazo izquierdo. Tras situación de amenorrea mantenida, cuando cumpla tres años de hormonoterapia, se realizará cruzamiento a inhibidores de la aromatasa no esteroideos.

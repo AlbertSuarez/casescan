@@ -1,0 +1,33 @@
+Anamnesis
+Mujer de 73 años que consulta en Oncología Médica en enero de 2015 por clínica de 4 meses de evolución de tos, disnea y pérdida de peso. No hubo expectoración ni episodios de hemoptisis. Sin dolor torácico, ni diaforesis, ni semiología infecciosa asociada.
+Como antecedentes personales, destaca un hipertiroidismo subclínico e insuficiencia venosa periférica. Niega hábitos tóxicos. Sin antecedentes familiares de interés. En seguimiento en Neumología desde 2009 por nódulo pulmonar en lóbulo superior derecho hasta 2011, cuando es dada de alta dada la estabilidad radiológica del mismo.
+
+Exploración física
+Sin hallazgos de significación.
+
+Pruebas complementarias
+» Analítica sanguínea: hemograma, coagulación y bioquímica con iones, función hepática y función renal de la normalidad.
+» TC tórax-abdomen-pelvis: masa LSD de 65 x 41 mm limitada por cisura que engloba vasos segmentarios. Adenopatías en ventana aortopulmonar y subcarinales. Derrame pleural derecho. Diseminación micronodular pulmonar bilateral. Metástasis óseas múltiples: T5-T7-T8-T10, sacro, iliaco izquierdo.
+» Fibrobroncoscopia: abombamiento de pared de bronquio medio derecho.
+» Citología pulmonar: células atípicas sugestivas de malignidad, más probablemente adenocarcinoma. EGFR mutado, ALK y ROS1 negativos.
+» Biopsia líquida: detección de fracción mutante EGFR (Del19).
+
+Diagnóstico
+Adenocarcinoma de pulmón E-IV (cT3cN2cM1) EGFR mutado Del19.
+
+Tratamiento
+Ante el diagnóstico de adenocarcinoma de pulmón avanzado con mutación EGFR (Del19), se inicia en abril de 2015 tratamiento de primera línea con el inhibidor de tirosina quinasa erlotinib 150 mg/día.
+Coincidiendo con el inicio del tratamiento, se inicia monitorización de la fracción mutante de EGFR presente en sangre periférica mediante biopsia líquida.
+
+Evolución
+En junio 2015, tras 3 meses de tratamiento, la paciente presentó una respuesta parcial con reducción de la masa pulmonar y de las adenopatías mediastínicas; objetivándose desaparición del clon tumoral EGFR mutado Del19 en sangre periférica.
+La paciente presentó buena tolerancia al tratamiento con erlotinib desde el inicio; precisando únicamente ajuste de dosis (de 150 mg/24 horas a 100 mg/24 horas) ante diarrea grado 2 a los 10 meses de tratamiento.
+A los 12 meses de tratamiento sin incidencias, en junio 2016, se objetivó progresión de enfermedad pulmonar en TC reevaluación. En sangre periférica, tras un año de negatividad de las clonas EGFR Del19, se detectó la presencia, con crecimiento exponencial, de clonas EGFR T790M. No obstante, dado que la paciente permanecía asintomática y con buena tolerancia a erlotinib, se decidió proseguir el tratamiento hasta progresión de enfermedad franca clínica y radiológica.
+Dicha progresión se objetivó en agosto de 2016 a nivel pulmonar, ganglionar y óseo, con aparición de nueva lesión a nivel de la calota; además de empeoramiento clínico con aumento de la disnea basal y mal control del dolor.
+Dada la progresión clínica y radiológica con fracaso de erlotinib, se decidió biopsiar la lesión de la calota, que confirmó el diagnóstico de inicio de adenocarcinoma de pulmón con presencia de mutación EGFR de resistencia en T790M. Dicha mutación de resistencia se confirmó en sangre periférica con un aumento de las clonas previamente existentes.
+Tras administración de radioterapia antiálgica, se inició en octubre 2016 nueva línea de tratamiento con osimertinib a 80 mg/día.
+Tras 3 meses de tratamiento, en enero de 2017, presentó mejoría clínica y radiológica clara, con respuesta parcial pulmonar y enfermedad estable ósea; así como desaparición de las clonas EGFR T790M en sangre periférica.
+La enfermedad se mantuvo estable en las subsecuentes reevaluaciones en marzo y junio 2017. No obstante, ante deterioro clínico de rápida evolución, se adelantó la reevaluación en agosto 2017, donde la progresión clínica se correlacionó con progresión de enfermedad multinivel y aparición de nuevas lesiones hepáticas.
+En sangre periférica, se objetivó un aumento brusco e importante de nuevo de las clonas EGFR Del19, manteniéndose las clonas EGFR T790M negativas. Estos hallazgos se confirmaron en el informe de secuenciación masiva mediante Guardant360® realizado en septiembre 2017.
+Ante la progresión de enfermedad a dos líneas de tratamiento, mientras estaba pendiente de inclusión en ensayo clínico de 3º línea, la paciente presentó un deterioro clínico grave y de rápida evolución, con un ECOG PS 3; por lo que se inició tratamiento sintomático exclusivo.
+Finalmente, la paciente falleció en noviembre de 2017 tras 2 años y 6 meses de supervivencia global.

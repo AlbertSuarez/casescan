@@ -1,0 +1,25 @@
+Anamnesis
+Mujer de 42 años remitida a Medicina Digestiva en junio de 2016 por sangre oculta en heces positiva. Sin antecedentes personales de interés y sin tratamiento habitual. No tiene hábitos tóxicos. Es independiente para las actividades de la vida diaria, y trabaja en una panadería. Como antecedente familiar, madre fallecida de cáncer de colon a los 54 años. Presentaba buen estado general con performance status 1 y exploración física anodina.
+Historia oncológica
+Desde el servicio de Medicina Digestiva, se realizó analítica mostrando valores anodinos y marcadores tumorales dentro de la normalidad. En la colonoscopia, se objetivó en colon descendente, a 75 cm del margen anal, una neoformación excrecente que abarcaba media circunferencia, ulcerada en su centro.
+En el estudio de extensión se realizó una tomografía computarizada (TC) toracoabdominopélvica que objetivó tumoración de aproximadamente 4 cm, localizada a nivel de colon descendente, por debajo del ángulo esplénico, intraluminal, sin aparente afectación de la grasa adyacente. Además, múltiples adenopatías hiliares, mediastínicas y abdominales de hasta 1,1 cm de diámetro de eje corto.
+Con estos hallazgos se realizó tomografía por emisión de positrones (PET-TC) que también observó actividad en ganglios supra e infradiafragmáticos. Dado que no se podía descartar proceso linfoproliferativo asociado, se estudiaron las adenopatías con ecobroncoscopia y biopsia, siendo negativo para células malignas y con resultado de linfadenitis granulomatosa correspondiente a sarcoidosis.
+Tras comentar el caso en el Comité Multidisciplinar, se realizó hemicolectomía izquierda laparoscópica en septiembre 2016. La Anatomía Patológica reveló un adenocarcinoma de colon en fragmentos de tumor velloso, sin inestabilidad de microsatélites, con estadificación final pT2N0(0/12)M0, estadio I.
+Dado el buen pronóstico, se decidió control evolutivo en consultas externas de Oncología.
+
+Exploración física
+En este momento, la paciente presentaba exploración física anodina, sin palparse adenopatías ni hepatomegalia.
+
+Pruebas complementarias
+En diciembre de 2016, se realizó PET-TC de control con signos sugestivos de progresión de enfermedad, por aparición de nueve focos hipermetabólicos en lóbulo hepático derecho e izquierdo, con SUV de hasta 7,6 y 7,9 respectivamente.
+
+Diagnóstico
+Progresión de enfermedad a nivel hepático con múltiples metástasis bilobares, sin evidencia de enfermedad a otros niveles.
+
+Tratamiento
+Se consultó con Cirugía Hepática de nuestro hospital de referencia, valorando las metástasis hepáticas como potencialmente resecables, y según el perfil molecular tumoral (RAS y BRAF no mutados) se propuso realizar tratamiento quimioterápico con esquema FOLFOX-panitumumab, recibiendo el primer ciclo de tratamiento en febrero de 2017.
+
+Evolución
+En julio de 2017, tras seis ciclos de quimioterapia, la PET-TC informa de persistencia de signos morfometabólicos de viabilidad tumoral en parénquima hepático. El equipo de Cirugía Hepática solicitó resonancia magnética hepática, objetivando nueve metástasis hepáticas bilobares, de entre 10 y 32 mm, quedando los segmentos 1, 6 y 7 libre de enfermedad.
+En este momento, pese al elevado número de lesiones, se evaluó la función hepática remanente con resultado satisfactorio, lo que permitió que fuese intervenida en agosto de 2017. Se realizó hepatectomía izquierda ampliada a segmento 5, resección limitada de segmento 8, colecistectomía y linfadenectomía. La Anatomía Patológica informó de nueve metástasis de adenocarcinoma de morfología colónica, con márgenes quirúrgicos libres micro y macroscópicos en todas las piezas quirúrgicas.
+Tras la cirugía, se propuso tratamiento con esquema FOLFOX, del que completó seis ciclos (doce en total), encontrándose la paciente actualmente en seguimiento, libre de enfermedad.

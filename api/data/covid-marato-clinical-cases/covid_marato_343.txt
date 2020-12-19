@@ -1,0 +1,23 @@
+Anamnesis
+Varón de 64 años de edad, exfumador (índice paquetes-año = 40), hipertenso, sin otros antecedentes personales ni familiares significativos, que acude a Urgencias el 19/04/2016 por disfasia motora, sin otra focalidad neurológica. Refería pérdida de peso de 7 kg en los últimos 6 meses sin otros signos ni síntomas asociados.
+
+Exploración física
+Presentaba buen estado general. La auscultación cardiopulmonar es rítmica, sin soplos, con murmullo vesicular conservado. El abdomen era blando, no doloroso, sin visceromegalias. Se objetivó disfasia motora con el resto de la exploración neurológica normal.
+
+Pruebas complementarias
+En Urgencias se realiza tomografía computarizada (TC) de cráneo que evidencia lesión subcortical frontal izquierda con edema vasogénico. Se completa estudio con resonancia magnética (RM) cerebral donde se confirma la lesión sugerente de metástasis.
+Posteriormente, se realiza estudio con TC toracoabdominal donde se aprecia un nódulo de 15 mm en lóbulo superior derecho y adenopatías hiliares ipsilaterales de tamaño significativo. Se completa estudio con tomográfica con emisión de positrones (PET) con hallazgo de adenopatías paratraqueales derechas sospechosas sobre lo ya descrito en la TC. Se decide estadificación por EBUS de adenopatía paratraqueal derecha que resulta negativa. Considerando la enfermedad oligometastásica con primario tratable, se decide realizar el 05/05/2016 resección de la metástasis única cerebral. Posteriormente, se realizó mediastinoscopia confirmando afectación ganglionar múltiple N2.
+El diagnóstico anatomopatológico fue adenocarcinoma de pulmón, cT1a pN2, pM1b, estadio IVA. EGFR no mutado. ALK no traslocado, ROS-1 no traslocado, PD-L1 negativo.
+
+Diagnóstico
+Adenocarcinoma de pulmón, cT1a pN1, pM1b, estadio IVa. EGFR no mutado. ALK no traslocado, ROS-1 no traslocado. PD-L1 negativo.
+
+Tratamiento
+Tras resección de la metástasis cerebral y estadificación mediastínica, recibió tratamiento con carboplatino y pemetrexed, 4 ciclos entre el 26/07/2016 y el 05/10/2016. Se realizó PET de revaluación donde se evidenció respuesta parcial a nivel ganglionar y en lesión primaria, por lo que completó posteriormente quimiorradioterapia con intención radical entre diciembre 2016 y enero de 2017, lesión primaria e hilio mediastino ipsilateral, dosis total de 66 Gy y 60 Gy respectivamente, con 6 ciclos de paclitaxel semanal.
+El paciente presentó buena tolerancia y buena recuperación, iniciando revisiones.
+
+Evolución
+Cuatro meses después de finalizar radioterapia consulta por cefalea, realizándose RM craneal que evidencia dos lesiones cerebrales, parietal izquierda y cerebelo izquierdo. Con PET que descarta enfermedad en otras localizaciones se decide realizar radioterapia esteroatáxica sobre las dos lesiones, administrándose una dosis de 40 Gy en 10 sesiones en junio de 2017.
+Continúa seguimiento objetivando nueva progresión en SNC, vérnix cerebeloso, en RM realizada en abril de 2018, encontrándose asintomático y con respuesta radiológica de las lesiones previamente tratadas y sin enfermedad activa extracraneal por PET. Se realizó nuevamente radiocirugía, 16 Gy el 10/04/2018.
+En septiembre de 2018 se observa por RM discreto aumento del tamaño de la lesión hemisférica cerebelosa izquierda, realizándose seguimiento al encontrarse asintomático, objetivando lento crecimiento hasta marzo de 2019, cuando presenta leve inestabilidad de la marcha. Finalmente y dado el buen control de la enfermedad sistémica, con 35 meses de evolución desde el diagnóstico, se propone tratamiento quirúrgico sobre la única localización en progresión, realizándose exéresis de la metástasis cerebelosa izquierda el 24/05/2019.
+Tras intervención, inicia revisiones encontrándose asintomático.

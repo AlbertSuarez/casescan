@@ -1,0 +1,25 @@
+Anamnesis
+Mujer de 38 años, nunca fumadora y sin otros hábitos tóxicos ni exposiciones de riesgo. Presenta antecedentes familiares de 1er y 2º grado de cáncer de vejiga, de pulmón, renal y cerebral. No refería antecedentes de tumores compatibles con neoplasia endocrina múltiple (NEM) en la familia. Como antecedentes patológicos de interés sólo destacaban episodios de diarrea desde 2014, con un único episodio de rectorragia con colonoscopia sin hallazgos patológicos.
+En febrero de 2018, se detectaron, de forma incidental, diversas lesiones ocupantes de espacio (LOE) hepáticas en una ecografía abdominal realizada en el estudio por antecedentes familiares de aneurisma aórtico. De forma ambulatoria, se completó estudio con tomografía computarizada (TC) en el que se describieron hallazgos radiológicos, hepáticos y óseos, sospechosos de M1.
+Se decidió ingreso hospitalario para completar estudio.
+
+Exploración física
+En la exploración física, se palpaban múltiples adenopatías supraclaviculares de pequeño tamaño. Nódulo en lóbulo tiroideo izquierdo de consistencia dura, no adherido. En mama izquierda, destacaba un nevus de morfología y pigmentación irregulares. Resto de la exploración física por aparatos sin alteraciones.
+
+Pruebas complementarias
+En la analítica de ingreso, se solicitaron marcadores tumorales, resultando incrementados el CEA 964,9 ng/ml y la cromogranina A 565 ng/Ml.
+Se realizó biopsia con aguja gruesa (BAG) de LOE hepática que se informó de infiltración por carcinoma, que por técnicas de inmunohistoquímica orientaba a un origen pulmonar o mamario, solicitándose TC torácica. Destacó una masa en lóbulo tiroideo izquierdo, planteándose la posibilidad de un tumor primario de tiroides o una M1 a este nivel. Además, también se observaron adenopatías supraclaviculares y mediastínicas, así como lesiones pulmonares sugestivas de linfangitis carcinomatosa.
+Por dichos hallazgos, se amplió estudio inmunohistoquímico de células tumorales hepáticas, que resultaron positivas para sinaptofisina y calcitonina, con negatividad para tiroglobulina. Se observó depósito de material amiloide.
+Paralelamente, se realizó mamografía, donde se objetivaron dos lesiones sospechosas en mama derecha, confirmadas por ecografía. En la BAG de la mama, se informó también de infiltración por carcinoma, con inmunohistoquímica positiva para calcitonina y cromogranina A, descartándose neoplasia primaria de mama. Además, la tinción rojo Congo resultó positiva, remarcando la presencia de depósito de material amiloide. Se determinó la concentración sérica de calcitonina, que se encontró muy elevada (51.300 pg/Ml).
+Ante la sospecha diagnóstica de carcinoma medular de tiroides, se realizó estudio con punción aspiración con aguja fina (PAAF) de tiroides guiada por ecografía, confirmándose el diagnóstico citológico. En la TC de cuello, se objetivó una masa de 30 x 31mm, con importante efecto masa sobre la tráquea, desplazándola a la derecha, sin llegar a colapsarla.
+Se completó estudio de extensión con gammagrafía ósea, con lesiones compatibles con diseminación metastásica ósea difusa de probable predominio lítico.
+
+Diagnóstico
+Diagnóstico de carcinoma medular de tiroides estadio IV C con N1 y M1 mamarias, óseas, hepáticas y posiblemente pulmonares, descubierto a raíz de la detección incidental de LOE hepáticas por ecografía abdominal. Se realizó estudio genético, que resultó negativo para RET, MET y MEN1, descartándose el diagnóstico sindrómico de NEM2.
+
+Tratamiento
+Se inició primera línea de tratamiento con vandetanib (300 mg/día) en agosto de 2018, con buena tolerancia. Como única complicación, presentó toxicidad cutánea G1 a las pocas semanas de iniciar el tratamiento. En comité de tumores endocrinológicos, se decidió derivar a cirugía para realizar tiroidectomía y vaciamiento ganglionar selectivo, con intención de reducir la masa tumoral. Sin embargo, la paciente la rechazó tras recibir segunda opinión en otro centro.
+
+Evolución
+Tras seis meses de tratamiento, paciente estable y con vida activa. Se realizó TC torácica de control en febrero de 2019 donde se objetivó reducción parcial de la masa tiroidea, disminución de los nódulos pulmonares y de las lesiones hepáticas, concluyéndose una mejoría radiológica de la enfermedad oncológica. Los niveles de calcitonina y CEA en el momento de diagnóstico eran, respectivamente, de
+51.300 pg/ml y 858pg/ml. A los 6 meses de tratamiento, habían disminuido hasta 4.420 pg/ml y 337pg/ml.

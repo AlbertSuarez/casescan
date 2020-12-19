@@ -1,0 +1,22 @@
+Anamnesis
+Mujer de 70 años, con antecedente de sarcoidosis (dermatitis granulomatosa) diagnosticada en 2013 en seguimiento por Dermatología y Medicina Interna por nódulos pulmonares subcentimétricos. En tratamiento crónico con esteroides tópicos. Exfumadora desde hace 5 años de 30 paquetes-año sin otros antecedentes médicos de interés. Derivada a consultas de Oncología Médica desde Medicina Interna en julio de 2014 tras hallazgo en TC torácica de control de amputación de la luz del bronquio lobar superior izquierdo por posible masa hiliar izquierda.
+
+Exploración física
+La paciente presenta un Eastern Cooperative Oncology Group (ECOG) de 1, con Karnofsky de 100. Mide 145 cm y pesa 68 kg. Buen estado general, eupneica. Sin hallazgos relevantes durante la exploración física.
+
+Pruebas complementarias
+Tomografía axial computarizada de tórax de alta definición: se aprecia amputación de la luz de bronquio lobar superior izquierdo por posible masa hiliar izquierda, con nódulos milimétricos estables.
+Broncoscopia: se aprecia una masa endobronquial a la entrada del lóbulo superior izquierdo. Se toman muestras para Anatomía Patológica que informa de carcinoma pobremente diferenciado compatible con estirpe epidermoide.
+PET-TC: se aprecia un aumento patológico del metabolismo glucídico en masa hiliar izquierda que provoca obstrucción del bronquio lobar superior izquierdo y mide aproximadamente 3,7 x 2,7 cm (AP por T) con SUVmax de 16, sin datos metabólicos de enfermedad maligna a otros niveles.
+
+Diagnóstico
+Carcinoma epidermoide pulmonar izquierdo T2aT4N0M0 (no se puede desestimar infiltración de grandes vasos).
+
+Tratamiento
+En abril de 2014 se inicia tratamiento quimioterápico con intención neoadyuvante según esquema carboplatino AUC 5 iv en el día 1 + gemcitabina 1.000 mg/m2 iv día 1 y día 8 por 2 ciclos.
+
+Evolución
+Tras completar 2 ciclos de tratamiento quimioterápico de inducción, la paciente es reevaluada para valorar opción quirúrgica de tratamiento. Las pruebas de función respiratoria desestiman la cirugía por lo que la paciente completa 4 ciclos de tratamiento quimioterápico (esquema carboplatino + gemcitabina) y radioterapia secuencial locorregional (dosis total de 66Gy) con intención radical. Finaliza el tratamiento en noviembre de 2014.
+En TC torácica de control en enero de 2015 se aprecia una respuesta parcial de la masa hiliar izquierda según criterios RECIST.
+En PET-TC de control de mayo de 2015, se objetiva progresión de enfermedad a nivel de hilio izquierdo por lo que se inicia tratamiento quimioterápico de segunda línea con vinorelbina. La paciente presenta como efectos adversos al tratamiento toxicidad hematológica con neutropenia grado II y trombocitopenia grado III que precisan de ingreso hospitalario y requerimientos transfusionales, además de conllevar retrasos en la administración de sucesivos ciclos de tratamiento. En TC de junio de 2015 se aprecia un empeoramiento de la masa hiliar izquierda, ante lo cual se solicita tratamiento con nivolumab dentro de acceso expandido.
+La paciente inicia en junio de 2015 tratamiento para un peso de 68 kg, 200 mg de nivolumab cada 15 días. En TC de control de septiembre de 2015 se objetiva respuesta completa según criterios RECIST. La paciente completa 27 dosis de tratamiento con nivolumab, hasta agosto de 2016 cuando se suspende tratamiento por sospecha de reactivación de su enfermedad autoinmune con empeoramiento de la clínica cutánea con lesiones en región facial y en miembros inferiores y empeoramiento de la clínica pulmonar, sin evidenciar en TC datos concluyentes de neumonitis, pero sí lesiones compatibles con BONO que aparecieron 3 meses después de finalizar el tratamiento con nivolumab. En TC de control de diciembre de 2016, se confirma respuesta completa, la cual mantiene en los sucesivos controles realizados hasta día de hoy en abril de 2018.

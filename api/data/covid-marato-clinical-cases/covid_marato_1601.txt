@@ -1,0 +1,41 @@
+Anamnesis
+Mujer de 55 años de edad, con dos hijos sanos. Sin hábitos tóxicos. Alérgica a la sulfamida, sin otros antecedentes personales y familiares de interés.
+Refiere bradipsiquia y cefalea holocraneal de una semana de evolución, que no cede con analgesia y que se ha intensificado en los últimos días.
+
+Exploración física
+ECOG 1. Exploración neurológica: hemianopsia lateral derecha y claudicación distal en la extremidad superior derecha. Resto de exploración física sin alteraciones significativas.
+
+Pruebas complementarias
+» Analítica en urgencias: plaquetopenia (72.000), leve elevación de transaminasas (GOT 84 UI/l, GPT 103 UI/l, GGT 41 UI/l), aumento del dímero D (1.212), resto sin alteraciones.
+» Radiografía de tórax: nódulo de bordes mal definidos en el lóbulo inferior izquierdo.
+» TC cerebral sin contraste: dos imágenes de 1,5 cm en la región parietooccipital derecha y de 2 cm contralateral compatibles con metástasis como primera posibilidad, sin descartar origen isquémico.
+Ante los hallazgos, ingresa en Neumología para su estudio:
+» Marcadores tumorales (CEA 10.6, CA 125, 123), estudio de autoinmunidad (ANA, ANCA, y AC-cardiolipina) y proteinograma en suero sin anomalías.
+» TC toracoabdominopélvica: nódulo pulmonar en el lóbulo inferior izquierdo, de 1,7 cm, espiculado, en contacto con la pleura posterior, adenopatías mediastínicas subcarinal y pretraqueal, de tamaño significativo (2 cm). Lesiones hipodensas a nivel del parénquima esplénico en ambos riñones compatibles con infartos.
+» RM: múltiples lesiones intraaxiales supra e infratentoriales que sugieren origen isquémico, sin poder descartar por completo origen neoplásico/paraneoplásico.
+» Biopsia guiada por TC: adenocarcinoma de pulmón, mutación EGFR y translocación ALK negativas.
+
+Diagnóstico
+Adenocarcinoma de pulmón con múltiples infartos viscerales.
+
+Tratamiento
+Ante la sospecha de causa tromboembólica de las lesiones descritas, se inicia tratamiento con heparina sódica por la posibilidad de revertir el riesgo de hemorragia de las lesiones isquémicas cerebrales; posteriormente se pasa a heparina de bajo peso molecular en dosis profilácticas de mantenimiento. Se suspende la biopsia transesofágica de adenopatía mediastínica por inicio de anticoagulación.
+Comienza tratamiento con cisplatino 75 mg/m2 día 1 + pemetrexed 500 mg/m2 días 1/21 días, pendiente de completar estudio de extensión.
+
+Evolución
+Tras el diagnóstico de adenocarcinoma de pulmón con probable afectación del sistema nervioso central, se decide su traslado a Oncología. La paciente presenta un rápido deterioro neurológico, con aparición de hemianopsia y afasia mixta.
+Se inician pruebas ante la sospecha de endocarditis bacteriana:
+» Ecocardio transtorácico: función ventricular y estructural valvular normales.
+» Ecoendoscopia transesofágica: vegetación en el velo posterior de la válvula mitral de densidad trombo que provoca insuficiencia mitral grado III/IV.
+» Hemocultivos: negativos.
+» PET: imagen nodular especulada (1,47 x 1,23 cm) mal definida en el segmento VI del pulmón izquierdo, con contacto con la pleura con actividad metabólica, adenopatías de 10 mm con discreta actividad metabólica a nivel paratraqueal, subcarinal izquierda. Lesión de 8 mm suprarrenal izquierda, probable adenoma.
+
+A partir de la administración de tratamiento citostático y heparina, presenta estabilización clínica y posterior mejoría. Se decide darle el alta hospitalaria para continuar tratamiento ambulatorio con diagnóstico de adenocarcinoma de pulmón T1bN1M0 estadio IIA con endocarditis no bacteriana e infartos múltiples viscerales y en el SNC.
+
+Completa cuatro ciclos de quimioterapia con buena tolerancia; en la TC-PET se aprecia enfermedad estable con disminución de tamaño, con zonas metabólicas en el cerebro de etiología vascular y normalización de los marcadores.
+
+Se valora por cirugía torácica. Se realiza una lobectomía pulmonar inferior izquierda en marzo de 2015, con muestreo ganglionar mediastínico. Resultado anatomopatológico: adenocarcinoma pulmonar de patrón acinar, de 1,4 cm, con respuesta patológica incompleta IIa (más 10% de tumor viable) con invasión vásculo-linfática y bordes libres ypT1a yPL0 yN0 y Mx.
+
+En el último control de TC abdominopélvica realizada en mayo de 2015 se aprecian secuelas postquirúrgicas. Ecocardiografía transesófagica sin imágenes sugerentes de endocarditis
+
+En la actualidad la paciente está viva, sin evidencia de enfermedad maligna con secuelas neurológicas de afasia expresiva.

@@ -1,0 +1,27 @@
+Anamnesis
+Paciente varón de 53 años de edad, alérgico a la penicilina. Obesidad tipo I (IMC 31). Sin hábitos tóxicos ni otros antecedentes patológicos de interés.
+Historia oncológica:
+Consulta en enero de 2016 por cefalea frontal derecha de características pulsátiles irradiada a nivel occipital de larga evolución refractaria a analgesia convencional. Se realiza tomografía computarizada (TC) de cráneo urgente donde se observa tumoración temporo-parietal derecha sugestiva de neoformación primaria.
+Ingresa en Neurocirugía donde se completa el estudio con resonancia magnética (RMN) orientando la lesión como glioblastoma. Se realiza intervención quirúrgica mediante neuronavegador con resección del 85 % de la lesión. Los resultados anatomopatológicos muestran un glioblastoma de células gigantes, IDH-1 negativa y MGMT no metilado.
+Se remite a Oncología e inicia protocolo Stupp12 (temozolamida concomitante con radioterapia) del día 21/3/16 hasta el 3/5/16. Posteriormente, se administra adyuvancia con temozolamida completando 5 ciclos hasta el 20/9/16.
+Con un intervalo libre de progresión de 6 meses, en octubre de 2016, presenta progresión radiológica (la RMN informa de progresión local sin edema), por lo que inicia tratamiento de segunda línea con fotemustina (según protocolo Addeo11). El 22/11/16, después de haber completado ocho ciclos, consulta por dolor lumbar irradiado a extremidades inferiores; se diagnostica de ciatalgia e inicia tratamiento analgésico.
+Sin embargo, la clínica persiste y a finales de diciembre se añade anestesia en silla de montar, sin mejoría a pesar de opioides; incontinencia urinaria e impotencia funcional de extremidades inferiores. Ingresa a cargo de Oncología Médica el día 9/1/17 para filiar el diagnóstico y controlar el dolor.
+
+Exploración física
+ECOG 3, índice Karnofsky 40 %, escala del dolor Edmonton N1I1P0A0C0.
+Exploración neurológica: dolor en la palpación lumbar baja L4-L5. Paraparesia de ambas extremidades inferiores, con alteración de la fuerza de 3/5 y nivel sensitivo desde L1. Reflejos osteotendinosos conservados.
+
+Pruebas complementarias
+Analítica ingreso: Hb 13 g/dl, Ht 38 %, plaquetas 193.000 K/mcl, leucocitos 6.520 K/mcl, neutrófilos 5.000 K/mcl, linfocitos 500 K/mcl, urea 41 mg/dl, creatinina 0,67mg/dl, PCR 0,21 RMN columna vertebral (5/1/17): se observan dos lesiones en cola de caballo: una en L2-L3 y la segunda en la unión lumbo-sacra con hiperseñal en T1 y hiposeñal en T2 compatibles con metástasis medulares que condicionan estenosis del canal medular.
+RMN craneal al diagnóstico (28/1/16): lesión infiltrante temporo-insular derecha con lesión hiperintensa perilesional. Hallazgos sugestivos de glioblastoma.
+
+Diagnóstico
+1. Compresión medular por metástasis endomedulares.
+2. Glioblastoma de células gigantes.
+
+Tratamiento
+Durante el ingreso, el paciente recibe tratamiento sintomático con dexametasona 4 mg/8 horas.
+
+Evolución
+A lo largo de su estancia hospitalaria, presenta una hiperpotasemia de 8 mEq/l por retención aguda de orina e insuficiencia renal posrenal con creatinina de 6 que requiere sondaje vesical.
+A nivel neurológico, presenta una recuperación parcial con mejora de la fuerza en extremidades inferiores después de recibir tratamiento con corticoides y rehabilitación.

@@ -1,0 +1,37 @@
+Anamnesis
+Varón de 57 años, con antecedentes de hipertensión arterial en tratamiento médico, neumotórax a los 28 años y fumador desde los 18 años.
+En junio de 2013, a raíz de un cuadro de tos y disnea, es diagnosticado de un carcinoma pulmonar derecho tipo oat-cell (CPCP) en estadio IV (masa de 9 cm que engloba la arteria pulmonar derecha y una masa hiliar derecha de 6 cm) con importante afectación ganglionar (fosa supraclavicular derecha, espacio prevascular, paratraqueal derecho de 8 x 6 cm, ligamento gastrohepático), metástasis suprarrenales bilaterales y óseas.
+Tras el estudio diagnóstico, se decidió iniciar tratamiento quimioterápico con cisplatino (CDDP) y etopósido (VP-16) del que recibió 4 ciclos entre junio y agosto de 2013 con buena respuesta, completando posteriormente tratamiento con irradiación craneal profiláctica (PCI) que finalizó el 2/10/2013 (dosis de 24 Gy a 3 Gy/fracción en 8 fracciones).
+En noviembre de 2013 se apreció la posible progresión mediastínica por radiografía de tórax. Estando pendiente de la realización de una TC que confirmara dicha progresión, el paciente ingresó por disminución de fuerza en ambas piernas y parestesias en las plantas de pies de 5 días de evolución.
+
+Examen físico
+A la exploración física destacaba: fuerza conservada, disminución de la sensibilidad en las extremidades inferiores, pero sin claro nivel sensitivo, reflejos osteotendinosos presentes, reflejo plantar flexor y marcha inestable con necesidad de apoyo y aumento de la base de sustentación.
+
+Pruebas complementarias
+Se realizaron las siguientes pruebas complementarias:
+- Analítica y TC craneal: normales.
+- RM craneal (13/11/2013): foco de captación puntiforme en la sustancia blanca profunda adyacente al margen posterior del ventrículo lateral izquierdo, en localización parietal de aproximadamente 4 mm.
+- RM de columna cérvico-dorso-lumbar (13/11/2013):
+- Lesión ósea ya conocida en el arco posterior derecho de L3 compatible con metástasis.
+- Alteración difusa de la señal del cordón dorsal y lumbar. Se identifican dos nódulos captantes intramedulares. Uno de ellos a la altura de T5 de 1,3 cm y otro en el cono medular a la altura de T12 de 3,5 cm.
+- Se completó el estudio con una TC tóraco-abdómino-pélvica (19/11/2013) observándose una mala evolución radiológica con una gran masa mediastínica que infiltraba estructuras adyacentes, aparición de nuevos conglomerados adenopáticos, metástasis suprarrenales bilaterales y lesiones esplénicas a valorar metástasis versus pequeños infartos.
+Progresión de la lesión ósea a nivel de la pala iliaca derecha. A nivel de sigma y marco cólico no se observaban alteraciones de etiología neoplásica (la captación del PET podría explicarse por diverticulitis).
+
+Diagnóstico
+Progresión de enfermedad a múltiples niveles con metástasis intramedulares.
+
+Tratamiento
+Ese mismo día (13/11/2013), de manera urgente, recibió tratamiento con radioterapia paliativa sobre D4-D5-D6 y D11-D12-L1 (30 Gy en ambas localizaciones en 10 fracciones de 3 Gy/día), con mejoría clínica.
+El 20/11/2013 (en curso de radioterapia) inició el primer ciclo de segunda línea de tratamiento sistémico con quimioterapia según el esquema carboplatino (CBDCA) (AUC 4) + taxol (150 mg/m2) + G-CSF, con buena tolerancia y aparente mejoría clínico-radiológica, por lo que se administraron dos ciclos más.
+El día 7/1/2014 el paciente reingresa por una crisis comicial con pérdida de consciencia y rigidez con estupor posterior.
+
+Evolución
+Se practicaron, entre otras, las siguientes exporaciones:
+- TC craneal urgente (8/1/2014): tres pequeñas lesiones focales subependimarias adyacentes a los ventrículos laterales (1 lesión en el lado derecho que mide 10 mm; 2 lesiones en el lado izquierdo que miden 12 y 5 mm respectivamente) sugestivas de metástasis.
+- RM craneal (10/1/2014): múltiples lesiones nodulares intraparenquimatosas con captación de contraste compatibles con afectación metastásica diseminada.
+- Supratentoriales de localización corticosubcortical frontales, parietales, temporales y occipitales y profundas ganglionar basales. La lesión de mayor tamaño supratentorial se localiza en el tálamo y la cola del caudado de 11 mm.
+- Infratentoriales en el bulbo, protuberancia y hemisferios cerebelosos. La lesión de mayor tamaño infratentorial se localiza en la protuberancia lateral derecha y mide 10 mm.
+Valorado por Oncología Radioterápica, se desestimó tratamiento por haber finalizado recientemente PCI. Por parte de Oncología Médica se dieron por finalizados los tratamientos activos ante la clara progresión de la enfermedad.
+Durante el ingreso el paciente fue tratado de manera sintomática mejorando clínicamente, lo que permitió su alta domiciliaria.
+El 14/2/2014 reingresó por crisis epilépticas de repetición. Se realizó una nueva TC craneal, que informó de un discreto aumento de tamaño de una de las lesiones localizada a nivel subependimario derecho, sin signos de sangrado.
+A pesar del tratamiento anticomicial y de otras medidas de sostén, la evolución del paciente fue desfavorable, falleciendo a las pocas horas del ingreso.

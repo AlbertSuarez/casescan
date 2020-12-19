@@ -1,0 +1,34 @@
+Anamnesis
+» Antecedentes personales: hipertensión arterial, hipercolesterolemia, osteoporosis, hemorroides, obesidad, exfumador desde hace 4 años, no es bebedor. Sin alergias medicamentosas conocidas. Intervenido de colecistectomía por laparotomía hace 30 años.
+» Tratamiento habitual: gemfibrozilo.
+» Antecedentes familiares: madre con cáncer de colon.
+» Varón de 68 años que en abril de 2008 consulta por cansancio, febrícula y pérdida de peso. En la anamnesis, refiere dolor en región lumbar derecha con puño percusión renal negativa, sin asociarse a traumatismo.
+
+Exploración física
+» Paciente consciente, orientado, colaborador. Normoperfundido y normohidratado. Refiere pérdida de peso no cuantificada en los últimos meses.
+» Sin alteraciones en región orofaríngea.
+» Tórax: murmullo alveolar conservado, tonos rítmicos sin ruidos sobreañadidos.
+» Abdomen: globuloso, depresible. No se palpan masas ni megalias. Sin signos de peritonismo. Puño percusión renal negativa.
+» No se palpan adenopatías cervicales, ni supraclaviculares ni axilares ni inguinales.
+» Miembros inferiores: sin edemas ni signos de trombosis venosa profunda.
+
+Pruebas complementarias
+Analítica: destaca anemia de 8,3 g/dl de hemoglobina. En radiografía de tórax y abdomen, no se aprecian hallazgos patológicos. Se realiza TC donde se le detecta tumoración de 7,5 cm x 7 cm en riñón derecho, que no sobrepasa la cápsula renal (T2aN0M0, estadio II clasificación TNM).
+
+Diagnóstico
+Se le realiza nefrectomía y trombectomía de vena renal con resultado de carcinoma de células claras de riñón derecho.
+
+Tratamiento
+Posteriormente, se aplica radioterapia sobre el lecho quirúrgico y ganglios de riesgo con una dosis total de 50 Gy.
+
+Evolución
+El paciente se encuentra en revisiones hasta que, en mayo de 2013, en radiografía/tomografía computarizada (TC) de control, se detectan dos lesiones en pulmón izquierdo compatibles con metástasis. El paciente refiere encontrarse muy bien. Se solicita PET-TC (tomografía por emisión de positrones), que confirma captación patológica y sospecha diagnóstica. En julio de 2013, se realizó resección de las lesiones, confirmando la Anatomía Patológica el origen metastásico de cáncer renal.
+El paciente vuelve a revisiones para seguimiento estrecho. En enero de 2015, se visualizan por TA nódulo apical de 17 mm, nódulo junto a hilio derecho de 15 mm, nódulo de 9 mm en língula y en lóbulo superior derecho adyacente a cisura mayor de unos 5 mm, junto con adenopatías calcificadas. Inicia pazopanib 800 mg al día, con la intención de nueva resección tumoral en caso de respuesta favorable.
+En noviembre de 2015, se observa aumento de tamaño de los nódulos. Se solicita PET-TC para valorar cirugía de rescate.
+El paciente continúa con pazopanib 800 mg hasta agosto de 2016, momento en que lo interrumpe por mala tolerancia digestiva, coincidiendo con la intervención quirúrgica. Se interviene en agosto de 2016, realizándose TC en noviembre, que observa: acumulación de tejido blando que tiene un tamaño de 45 mm x 35 mm y adenopatía mediastínica retrocavopretraqueal de 20 mm de eje mayor, de nueva aparición; múltiples nódulos pulmonares bilaterales de nueva aparición y adenopatías paraaórticas adyacentes al hilio renal izquierdo de tamaño significativo, también de nueva aparición. Los hallazgos son compatibles con progresión tumoral.
+Se valora al paciente en consulta, objetivando deterioro físico que impide tratamiento sistémico, por lo que se decide seguimiento. Con el paso de los meses, el paciente mejora clínicamente. Se decide realizar nueva TC de control en julio de 2017 (se compara con el de noviembre de 2016), visualizando:
+» Lesiones pulmonares estables, algunas con mínima disminución de tamaño (gran parte son inferiores a 5 mm).
+» Adenopatía paraaórtica izquierda, con desaparición de las otras dos descritas anteriormente.
+» Metástasis óseas en pala iliaca izquierda y cuello femoral con disminución del componente de partes blandas.
+Hallazgos compatibles con respuesta parcial según criterios RECIST 1.1.
+El paciente experimentó respuesta parcial espontánea que ha mantenido hasta el momento actual, comprobado en marzo de 2018 por TC toracoabdominopélvica y gammagrafía ósea.

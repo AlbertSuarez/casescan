@@ -1,0 +1,44 @@
+Anamnesis
+Paciente de 53 años. Exfumador en la juventud, DTA 10 paquetes/año. Con antecedente de hipertensión arterial grado 1 con buen control ambulatorio y obesidad.
+Historia oncológica:
+Diagnóstico de neoplasia renal izquierda, locorregionalmente avanzada y con metástasis pulmonares bilaterales y múltiples. Grupo pronóstico intermedio: anemia, ECOG 0.
+El 27 de noviembre de 2013 se realizó una nefrectomía citorreductora laparoscópica izquierda, con resultado en anatomía patológica de carcinoma renal de células claras pT3aNxMx. Grado nuclear 3, con margen tumoral infiltrante, necrosis, invasión macroscópica del tumor dentro de la vena renal e invasión venosa (grandes vasos) presente, márgenes quirúrgicos libres.
+Tras la cirugía, y antes del inicio del tratamiento antiangiogénico programado, se diagnostica en enero de 2014 de metástasis cerebral única frontal derecha, en el contexto de pérdida de sensibilidad en la mano izquierda, con desviación de la comisura bucal y disartria. Recibe corticoterapia y radioterapia, y en febrero de 2014 inicia sunitinib, con aceptable tolerancia, excepto astenia grado 2 y toxicidad dérmica grado 1.
+Acude a Urgencias el día 15 de mayo de 2014 por un cuadro brusco de mareo, inestabilidad y visión doble, estando en curso el tercer ciclo de sunitinib, en espera de la TC de valoración de respuesta.
+
+Examen físico
+ECOG 3. Obesidad. Tensión arterial 138/77 mmHg, Frecuencia cardiaca 99 lpm, afebril, eupneico respirando aire ambiente, con saturación de oxígeno de 99%.
+Exploración neurológica: buen nivel de consciencia y de orientación. Lenguaje normal.
+Trastorno de la mirada horizontal y vertical en forma de:
+- En la mirada en reposo tiene exotropía parcial del ojo derecho y visión doble.
+- En la mirada horizontal hacia la derecha aumenta la diplopía y tiene limitación de la abducción del ojo derecho.
+- En la mirada horizontal hacia la izquierda el ojo derecho no sobrepasa la línea media y el ojo izquierdo tiene también limitada la ABD (aunque en esta dirección no tiene diplopía).
+- En la mirada vertical superior tiene limitación de la supraversión del ojo izquierdo.
+Nistagmus de ambos ojos, tanto en la mirada vertical como en las miradas horizontales. Torpeza en las maniobras dedo-nariz y talón-rodilla bilateral. Marcha claramente atáxica.
+A nivel genital, destaca una lesión asintomática pediculada en el surco balano-prepucial (que estaba pendiente de valoración por Urología).
+
+Pruebas complementarias
+- Analítica: hemograma normal. Coagulación: fibrinógeno 1.322 mg/dl; resto normal.
+Bioquímica: destaca hiperglucemia de 161 mg/dl; hiponatremia leve de 133,3 mEq/l y discreta hiperbilirrubinemia total de 1,38 mg/dl.
+- Electrocardiograma: ritmo sinusal a 90 lpm, sin alteraciones destacables.
+- TC craneal con contraste intravenoso: disminución del tamaño del edema vasogénico periférico y de la lesión única frontal derecha edema.
+- Ecografía Doppler de troncos supraaórticos: estudio dentro de los límites de la normalidad.
+- TC torácico: aumento muy significativo del número y tamaño de los nódulos pulmonares bilaterales, incontables, algunos de gran tamaño, llegando a medir en el ángulo cardiofrénico anterior izquierdo hasta 6,4 x 4,5 cm. No derrame pleural. Conclusión: progresión de la enfermedad. Crecimiento del número y tamaño de las metástasis pulmonares.
+- RM cerebral: lesión nodular de aproximadamente 1 cm intraaxial, subcortical, situada en el opérculo frontal derecho, con realce en anillo; se acompaña de cambios en la intensidad de señal de la sustancia blanca adyacente sugerentes de edema vasogénico, sin que condicione un efecto de masa destacable.
+Se identifican tres lesiones milimétricas (una situada anterior al acueducto de Silvio en la unión bulboprotuberancial, paramediana derecha; otras dos en la sustancia blanca del centro semioval izquierdo); se trata de lesiones discretamente hipointensas en secuencias potenciadas en T1, hiperintensas en DP, T2 y difusión, y no presentan realce poscontraste.
+Conclusión diagnóstica: metástasis frontal derecha ya conocida con discreto edema vasogénico asociado. Pequeñas lesiones hiperintensas en difusión (tronco, centro semioval izquierdo), una de ellas sugiere isquemia aguda.
+- Biopsia extirpación de la lesión en el pene: infiltración a nivel del tejido conectivo subepitelial por carcinoma de células claras de alto grado, compatible con metástasis de carcinoma renal convencional (célula clara).
+- IHQ: las células neoplásicas expresan citoqueratina mixta, vimentina y CD10.
+
+Diagnóstico
+- Accidente cerebrovascular troncoencefálico con trastorno complejo de la mirada y ataxia en posible relación con tratamiento con sunitinib.
+- Carcinoma renal izquierdo de células claras, estadio IV (M1 pulmonares y cerebrales) en progresión pulmonar y dérmica a nivel del pene en tratamiento con sunitinib. Se indica el inicio de una nueva línea de tratamiento con everolimus.
+
+Tratamiento
+Iniciamos, por recomendación de Neurología, tratamiento antiagregante, con adecuado control de las glucemias y del perfil lipídico.
+En relación con el tratamiento oncológico, suspendemos el sunitinib e iniciamos segunda línea para enfermedad avanzada con everolimus.
+
+Evolución
+El paciente presentó mejoría inicial en la diplopía y en la marcha. Comentado el caso con Neurología, se valora como accidente cerebrovascular del tronco encefálico. Revisada la TC torácica de control, se objetiva progresión tumoral tras 3 meses de tratamiento con sunitinib. Se extirpa la lesión en el pene y se envía a Anatomía Patológica, con resultado de metástasis de carcinoma renal. Dados los signos de progresión y apoyados por la sospecha de accidente cerebrovascular secundario a sunitinib, decidimos suspenderlo y cambiar a segunda línea para enfermedad avanzada con everolimus.
+Presenta hiperglucemia de origen corticoideo, que tratamos con insulina, y al alta se reduce la dosis de dexametasona (escasa respuesta de la clínica actual).
+En el contexto de este paciente, decidimos su traslado al Hospital sociosanitario para realizar neurorrehabilitación, actualmente en curso de fisioterapia y terapia ocupacional y en tratamiento oncológico con everolimus, con buena tolerancia.

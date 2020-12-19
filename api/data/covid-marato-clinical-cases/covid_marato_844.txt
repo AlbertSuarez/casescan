@@ -1,0 +1,22 @@
+Anamnesis
+Mujer de 58 años, que acudió a Urgencias por dolor abdominal en hipocondrio izquierdo de meses de evolución que empeoraba con las comidas. Es una paciente fumadora de medio paquete diario (20 paquetes-año). Destacan como antecedentes de interés un hipotiroidismo en tratamiento sustitutivo y una histerectomía con doble anexectomía el año anterior por hipermenorreas.
+Como antecedentes familiares oncológicos tiene a ambos padres fallecidos por cáncer de colon a los 60 años, su abuela paterna por cáncer de ovario en la senectud, y su hermano fue diagnosticado de cáncer de próstata a los 60 años.
+
+Exploración física
+Presentaba un buen estado general, con un performance status de 1. Durante la exploración física general destacaba un hirsutismo a nivel facial y de línea alba y, en la exploración abdominal, una masa palpable de unos 10 cm en flanco e hipocondrio izquierdo, móvil, de consistencia pétrea, dolorosa a la palpación. El resto de la exploración por aparatos resultó anodina.
+
+Pruebas complementarias
+Se realizó bioquímica, hemograma y coagulación en Urgencias, encontrando como único hallazgo relevante una LDH de 1141U/l, por lo que se solicitó de forma ordinaria una TC torácica con TC-colonoscopia, que evidenció una masa Bulky sólida hipervascularizada con signos de necrosis de 14 x 13 x 16cm que no permitía visualizar suprarrenal izquierda, desplazando páncreas y bazo, y comprimiendo estómago; además de dos lesiones hepáticas; lo que planteaba radiológicamente el diagnóstico diferencial entre carcinoma adrenal y sarcoma retroperitoneal primario, con metástasis hepáticas.
+El estudio hormonal mostraba una cortisoluria en 24 h elevada (344,4 μg/24 h, valores normales de 12-103 μg/24 horas) con supresión de ACTH y cortisol sérico de 21,7 μg/dl (VN de 8-25 μg/dl) y elevación marcada de la dehidroepiandrosterona-sulfato (DHEA-S; 16.040 ng/ml, VN de 1.500-3.400 ng/ml) y la androstenediona (344 n g/ml, VN de 0,3-3,1 ng/ml), sin elevación de catecolaminas o metanefrinas en orina.
+
+Diagnóstico
+Dada la importante masa sintomática y la ausencia de diagnóstico histológico, se decidió la resección quirúrgica; se realizó una suprarrenalectomía izquierda que obligó a pancreatectomía corporocaudal y esplenectomía en bloque con la pieza; se halló en una de las arterias nutricias que llegaban de la aorta un émbolo de características tumorales.
+La anatomía patológica describía una neoplasia adrenal cortical de rasgos oncocíticos, con necrosis y hemorragia en su interior, crecimiento difuso, de alto grado citológico, bajo índice mitótico (2-3 mitosis en 50 campos de gran aumento, Ki67 5-7 %), y una gruesa cápsula de tejido conectivo con invasión del espesor de la misma, pero sin invasión transcapsular completa; se caracterizó como carcinoma. Los bordes quirúrgicos, los ganglios resecados y el parénquima esplénico y pancreático estaban libres de infiltración tumoral, confirmándose el trombo tumoral resecado.
+
+Tratamiento
+Tras la cirugía, la paciente presentó mejoría del hiperandrogenismo, con disminución progresiva del hirsutismo y las hormonas sexuales. En la actualización de pruebas de imagen tras cirugía se observó crecimiento de la metástasis hepática en caudado con afectación de las venas suprahepáticas y trombosis de vena cava inferior extrahepática.
+Por todo ello, tras comentar el caso en comité, se decidió administrar tratamiento quimioterápico con esquema EDP-M (etopósido, doxorrubicina y cisplatino asociados a mitotano) con intención pseudoneoadyuvante; para plantear posteriormente resección de las metástasis, además de terapia anticoagulante con heparina de bajo peso molecular, profilaxis antiemética y de la fiebre neutropénica y suplementación con hidroaltesona.
+
+Evolución
+La paciente presentó una buena tolerancia al régimen quimioterápico, experimentando como toxicidad relevante diarrea y vómitos que obligó a reducción de dosis al 80 % en el cuarto y último ciclo. Tras esto, la TC de evaluación mostró una respuesta parcial radiológica y completa biológica, por lo que se realizó cirugía de rescate de las metástasis hepáticas.
+Tras ésta, se mantuvo tratamiento con mitotano a largo plazo, requiriendo una reducción de dosis con ajuste de tratamiento corticoide tras un ingreso hospitalario por insuficiencia suprarrenal. Desde entonces y hasta el momento actual (26 meses de seguimiento), la paciente permanece sin signos de recidiva local ni de enfermedad a distancia, tanto biológica como radiológicamente.

@@ -1,0 +1,26 @@
+Anamnesis
+Mujer de 57 años, diagnosticada en noviembre 2010 de ADC endometrioide moderadamente diferenciado, sometiéndose a histerectomía y doble anexectomía con linfadenectomía pélvica (pT1b1N0M0). Posteriormente, la paciente continuó revisiones periódicas en nuestro servicio sin evidencia de progresión tumoral.
+En febrero de 2011, se detecta recidiva en muñón vaginal y comienza tratamiento con QT/RT con carboplatino, finalizando en marzo 2011 y realizando posteriormente controles sin observar signos de enfermedad.
+En la revisión de septiembre 2014, se constata recidiva en partes blandas (implante en pared abdominal anterior de 6 x 5 cm), resecándose dicha lesión y recibiendo posteriormente tratamiento sistémico con QT (paclitaxel más carboplatino). Habiendo previsto 6 ciclos, sólo recibe 5 ya que presentó reacción anafiláctica a carboplatino con prueba intradérmica positiva, finalizando tratamiento en noviembre de 2015.
+En octubre de 2016, presenta nueva recidiva locorregional con afectación recto-sigma y se procede a la resección anterior con resultado en la anatomía patológica de infiltración transmural por adenocarcinoma túbulo-papilar con metaplasia escamosa focal concordante con primario endometrial, presentando infiltración vascular y linfática, así como afectación de margen quirúrgico circunferencial.
+En diciembre de 2017, tras la recuperación de la cirugía, se instaura tratamiento sistémico con paclitaxel más cisplatino, presentando durante la tercera infusión con cisplatino reacción anafiláctica grave que obliga a suspender el tratamiento.
+En ese momento (febrero 2017) se decide realizar una reevaluación de la enfermedad tumoral.
+
+Exploración física
+Paciente con Eastern Cooperative Oncology Group (ECOG) 1, hemodinámicamente estable. En la exploración presenta abdomen blando y depresible, ligeramente doloroso en hipogastrio, ruidos hidroaéreos normales y sin signos de irritación peritoneal. El resto de la exploración física no presentaba alteraciones significativas.
+
+Pruebas complementarias
+» Se realiza reevaluación con PET/TC en marzo 2017, objetivándose foco hipermetabólico retrovesical derecho con SUV de 9,62 de dudosa naturaleza maligna, por lo que recomiendan la realización de una resonancia magnética abdominopélvica (RM).
+» En la RM abdominopélvica se visualiza en relación con el muñón de la histerectomía una lesión de
+» partes blandas de 3 x 2,8 cm de morfología polilobulada, que contacta anteriormente con la pared posterosuperior de la vejiga, mostrándose discretamente engrosada y con la región posterior del muñón rectal.
+Se consensúa en el comité de tumores ginecológicos y en el de coloproctología, llevándose a cabo una cirugía de máximo esfuerzo quirúrgico (laparotomía exploradora más resección de íleon distal más reparación de eventración con malla de polipropileno), con resección incompleta de enfermedad tumoral, siendo la anatomía patológica compatible con adenocarcinoma endometrioide en implantes tumorales intestinales. Se realiza estudio inmunohistoquímico (IHQ) de proteínas reparadoras del ADN, confirmándose la pérdida de expresión de MSH2. Con estos hallazgos, fue derivada a la Unidad de Consejo Genético, realizándose el estudio del exón 14 del gen MSH2 mediante PCR, y posterior secuenciación con Big Dye Terminators en el analizador genético ABI 3100, resultando ser portadora de la mutación MSH2 c.2240_2241delTA/p.Ile747ArgfsX1.
+
+Diagnóstico
+Paciente con antecedentes de anafilaxia a platinos, diagnosticada de recidiva irresecable de carcinoma endometrial (dMMR por pérdida de MSH2) con presencia de implantes tumorales en intestino delgado.
+
+Tratamiento
+Ante esta situación, en junio de 2017, y teniendo en cuenta las características clínicas de la mujer, las líneas de tratamiento previas administradas, la anafilaxia a platinos; y el estado de déficit germinal y somático de MSH2, se decide, una vez informada la paciente y conseguido su consentimiento, optar al tratamiento con inmunoterapia mediante el uso de un anti-PD1.
+
+Evolución
+La paciente comenzó tratamiento con pembrolizumab (2 mg/kg c/21 días) con excelente tolerancia. A las 16 semanas de tratamiento, se procede a reevaluación con TC, que reveló regresión tumoral confirmándose mediante RM pélvica una respuesta clínica completa.
+En la última reevaluación tras 46 semanas de tratamiento con pembrolizumab, sin toxicidades relevantes, y manteniendo ECOG 0, se realiza RM pélvica sin evidencia de enfermedad.

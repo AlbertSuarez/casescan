@@ -1,0 +1,37 @@
+Anamnesis
+Paciente de 55 años que acudió a nuestro centro tras diagnóstico (biopsia escisional) en el 2004 de melanoma nodular en la zona escapular derecha, Breslow 1 mm.
+En nuestro centro se le propuso ampliación quirúrgica de los márgenes y biopsia selectiva de ganglio centinela al presentar Breslow de 1 mm. Dicho tratamiento se llevó a cabo el 14/7/2004, no apreciándose melanoma en la ampliación ni en los dos ganglios centinelas (axilar derecho y cervical izquierdo) extirpados. Clasificado como pT1aN0 (sn) M0 estadio IA, inició seguimiento dermatológico.
+En enero de 2005 consulta por adenopatía supraclavicular derecha, que se confirma como patológica por TC y biopsia, y tras descartar enfermedad a otros niveles, fue sometida a vaciamiento cervical funcional derecho, extirpando 13 ganglios y siendo 2 de ellos positivos para melanoma. Tras ello inició tratamiento con interferón alfa-2b (esquema Kirkwood) el 4/4/2005.
+A los 8 meses del tratamiento con interferon, presentó una recidiva a nivel de la cicatriz del melanoma primario (escapular derecha), que fue extirpada, confirmando diagnóstico de melanoma; tras descartar enfermedad a otros niveles, se propuso seguimiento sin completar interferón.
+En agosto de 2008 se extirpa un nódulo subcutáneo pericicatricial en la región dorsal derecha, que se confirma como metastásico. Al ser el estudio de extensión negativo, se decide su seguimiento.
+En octubre de 2009 se observa una adenopatía axilar derecha única y se realiza una linfadenectomía axilar derecha.
+Posteriormente se propone seguimiento.
+Después de un intervalo libre de enfermedad de 1 año, el 14/10/2010 acude de urgencia a la consulta refiriendo la aparición de 3 nódulos subcutáneos a nivel axilar y en el costado izquierdo. Además, refiere cuadro de febrícula y tos, confirmándose posteriormente un proceso neumónico.
+
+Examen físico
+A la exploración se palpan 3 nódulos subcutáneos sospechosos de malignidad, a nivel axilar y en el hemitórax izquierdo.
+En la auscultación pulmonar destaca la presencia de crepitantes en la base derecha.
+
+Pruebas complementarias
+- PET-TC (15/10/2010):
+Leve aumento del metabolismo por parte de nódulos subcutáneos en las regiones axilar izquierda (SUV máximo: 3,1), región axilar posterior izquierda (SUV máx.: 1,3), región baja del hemitórax izquierdo (paraesplénica) (SUV máxl: 2,3) y región posterosuperior del muslo izquierdo (SUV máx.: 1,3).
+Aumento del metabolismo en la articulación costovertebral izquierda (SUV máximo: 4,2) y región anterior de la escápula izquierda sugestivos de patología ósea/muscular traumática.
+Aumento del metabolismo en la región posterior del pulmón derecho (SUV máx.: 4,6), que se corresponde con infiltrado/condensación en la TC y sugestivo de patología infecciosa pulmonar.
+Nódulo de aproximadamente 1 cm en el LS del pulmón izquierdo de comportamiento ametabólico, a valorar con el Servicio de Radiología.
+Conclusión: focos levemente metabólicos subcutáneos en probable relación con metástasis de su enfermedad de base. Aumento del metabolismo en el pulmón derecho sugestivo de patología infecciosa pulmonar y nódulo en el pulmón izquierdo a valorar con el Servicio de Radiología.
+- TC de tórax (3/11/2010): múltiples metástasis pulmonares. Nódulos subcutáneos en el lado izquierdo. Infiltrado a nivel de la base pulmonar derecha.
+
+Diagnóstico
+Melanoma metastásico M1a.
+
+Tratamiento
+Ante el melanoma metastásico se inició tratamiento con quimioterapia paliativa esquema DTIC 850 mg/m2/21 días el 10/11/2010, con progresión tras diez ciclos, por lo que inició tratamiento con ipilimumab 3 mg/kg/21días x 21días el 27/6/2011, dentro del Programa de acceso expandido. Presentó remisión completa clínica y radiológica, que se mantuvo durante 11 meses (SLP).
+A los 11 meses, en marzo de 2012, comienza con dolor en el hombro izquierdo irradiado por toda la ESI, tipo neuropático, con síndrome de Horner asociado. Se objetiva por TC una masa paravertebral izquierda con actividad hipermetabólica por PET, por lo que se administra una re-inducción de ipilimumab 3 mg/kg/21 días x 4 dosis.
+Al finalizar las 4 dosis, en septiembre de 2012, comienza con disminución de fuerza en las extremidades inferiores y empeoramiento del dolor neuropático a nivel de la ESI. Se objetiva crecimiento de la tumoración a nivel paravertebral izquierdo y se completa el estudio con una RM cervical, que objetiva compresión medular a nivel de D1-D3. Recibe radioterapia paliativa con 30 Gy durante 10 días.
+Tras la radioterapia, presenta estabilización clínica y es enviada a la Unidad de Paliativos para tratamiento sintomático, a pesar de presentar mutación en BRAF. A los 8 meses, la Unidad de Paliativos se pone en contacto con nuestro centro, ya que la paciente ha presentado mejoría significativa del dolor en la ESI y mejoría de la fuerza en las EEII.
+Se reevalúa a la paciente en abril de 2013, objetivando respuesta parcial a nivel de la masa paravertebral izquierda y aparición de un nódulo subcutáneo posterior a la escápula izquierda metastásico de nueva aparición.
+En junio de 2013 se inicia tratamiento con dabrafenib 150 mg/12 h, que ha recibido hasta la actualidad. En la última TC realizada, se observa estabilización de la masa paravertebral izquierda y desaparición del nódulo subcutáneo escapular izquierdo.
+
+Evolución
+La paciente vive tras 21 meses de la reinducción con ipilimumab.
+Presenta una supervivencia libre de progresión de 1 año tras el inicio de tratamiento con dabrafenib.

@@ -1,0 +1,26 @@
+Anamnesis
+Mujer de 47 años, con antecedentes de diabetes corticoidea en tratamiento con antidiabéticos orales e insulina.
+Intervenida en cinco ocasiones de meningioma fronto-temporal orbitario izquierdo recidivante. Primera exéresis en agosto 2001, con diagnóstico de meningioma con afectación ósea y de tejidos blandos, y última en abril del 2012, con afectación ósea, tejidos blandos y piel, así como infiltración tumoral del nervio óptico.
+Inicia estudio en agosto del 2013 por un cuadro de dolor dorso-lumbar de unos 2 meses de evolución, asociado a malestar general y pérdida de unos 5 kg de peso; refiere además molestias en el hipocondrio derecho irradiadas a la espalda en cinturón.
+
+Examen físico
+A la exploración destaca exoftalmo del ojo izquierdo, con edema y limitación de la movilidad del mismo, así como dificultad para cerrarlo. No muestra alteraciones de otros pares craneales. No adenopatias cervicales ni axilares. A la auscultación, rítmica y regular, con murmullo vesicular conservado. Hepatomegalia de unos tres traveses de dedo, dura y dolorosa a la palpación. No signos de peritonismo. Dolor a la palpación de la columna lumbar. No pérdida de fuerza o sensibilidad. Reflejos osteotendinosos normales. Miembros sin alteraciones.
+
+Pruebas complementarias
+- Analítica sanguínea: destaca anemia normocítica-normocrómica, con patrón de colestasis disociada (GGT 215 UI/l, FA 150 UI/l, bilirrubina normal).
+- TC de tórax-abdomen c/c: nódulos hipoatenuados en tiroides. Adenopatías mediastínicas de tamaño no significativo.
+Múltiples nódulos pulmonares, siendo el mayor de 4 cm en el LII. Gran hepatomegalia con múltiples lesiones hipoatenuadas en relación con metástasis, en ambos lóbulos, la mayor de 7 cm, sin dilatación de vía biliar intra-extrahepática. Múltiples lesiones hiperatenuadas en la columna vertebral, en relación con metástasis, en el sacro, las palas iliacas, destacando en T4-T5, afectación del muro posterior con infilltración del canal medular hasta partes blandas.
+- Octreoscán: se observa la existencia de depósitos de captación patológicos de panteotride en la región orbitaria y suborbitaria izquierda, afectando al hueso nasal, malar y esferoides izquierdo, hombro derecho, mediastino e hígado.
+- Biopsia hepática guiada por ecografía: técnicas inmunohistoquímicas: c-kit(-), CD34 (-), actina (-), receptor de somatostatina (-), EMA (+++), receptor de progesterona (+++), Ki 67 1,5%. No se identifican mitosis. Cilindros hepáticos con metástasis de meningioma tipo fibroso.
+
+Diagnóstico
+La biopsia confirma el diagnóstico de meningioma tipo fibroso con metástasis hepáticas, pulmonares y óseas, así como extensión local a partes blandas.
+
+Tratamiento
+En primer lugar, la paciente recibe radioterapia antialgica en la columna dorsal (20 Gy en 5 sesiones).
+Posteriormente, inicia tratamiento con tamoxifeno 20 mg, un comprimido diario durante 4 meses, que es suspendido ante la franca progresión clínica que es confirmada en las pruebas de imagen.
+Ante la positividad de receptores de somatostatina en el octreocán, que no pudo confirmarse en la biopsia, inicia tratamiento con cctreotide LAR 20 mg, en inyección intramuscular cada 4 semanas, con buena tolerancia al tratamiento y sin toxicidades agudas destacables.
+
+Evolución
+En la actualidad, y después de 12 meses de tratamiento con octreotide, la paciente se encuentra paucisintomática, con discretas molestias a nivel epigástrico y dolor lumbar que controla con la analgesia de segundo escalón pautada. En la última reevaluación mediante TC de tórax-abdomen, la enfermedad permanece estable según criterios RECIST.
+Está en espera de ser intervenida por el Servicio de Neurocirugía del tumor primario, con fines paliativos y estéticos que mejoren la calidad de vida de la paciente.

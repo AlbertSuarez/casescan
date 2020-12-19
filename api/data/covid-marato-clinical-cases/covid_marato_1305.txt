@@ -1,0 +1,34 @@
+Anamnesis
+Se trata de una paciente de 60 años de edad, con antecedentes de insuficiencia venosa crónica, fumadora de 6-7 cigarrillos al día desde los 17 años, IPA de 15. Nuligesta y sin antecedentes ginecológicos relevantes hasta la actualidad.
+Independiente para todas las actividades basales e instrumentales de la vida diaria, ECOG: 0.
+
+Exploración física
+CONSTANTES: TA: 110/60 mmHg. FC:72 l.p.m. T: 37ºC. FR: 18r.p.m. SatO2: 98%.
+IMPRESIÓN GENERAL: Conciencia y orientación adecuadas. Buen estado de hidratación y perfusión.
+Hábito delgada. Buena coloración de piel y mucosas.
+CABEZA Y CUELLO: Pupilas isocóricas y normorreactivas. Presión venosa yugular normal. Carótidas rítmicas y simétricas, no soplos. No adenopatías.
+Auscultación pulmonar: Murmullo vesicular conservado, sin ruidos sobreañadidos.
+Auscultación cardíaca: Rítmica, sin soplos.
+ABDOMEN: blando, no doloroso a la palpación. No se palpan visceromegalias. No masas palpables. No signos de irritación peritoneal. Ruidos hidroaéreos normales. Puño percusión renal bilateral negativa.
+No adenopatías inguinales significativas.
+EXTREMIDADES: Pulsos periféricos presentes simétricos, no edemas, no signos de TVP.
+
+Pruebas complementarias
+TC ABOMINO-PELVICO (11/04/10): En pelvis se observa una masa heterogénea que comprime anteriormente vejiga y desplaza posteriormente rectosigma, con áreas sólidas y quísticas, con captación heterogénea del contraste, probablemente dependiente de cuerpo uterino o anejos. No se observa líquido libre.
+Con estos hallazgos la paciente fue valorada por el Servicio de Ginecología, que en la exploración ecográfica transvaginal confirma la presencia de una imagen heterogénea que ocupa toda la pelvis menor (aproximadamente 15cm), con áreas líquidas en su interior, de posible origen uterino.
+Se solicita determinación de marcadores tumorales Ca 125: 39,2 U/ml, decidiéndose llevar a cabo intervención quirúrgica.
+
+Diagnóstico
+Carcinosarcoma de probable origen uterino pT4N0M0. Estadio IVA.
+
+Tratamiento
+El 03/05/2010: Se realiza laparotomía exploradora encontrándose tumoración que parece depender de útero, se encuentra íntimamente adherido a rectosigma y parece infiltrar íleon. Se practica histerectomía abdominal más anexectomía bilateral más hemicolectomía derecha más sigmoidectomía reglada y anastomosis termino terminal de uréter con catéter doble J. No se observa tumor infiltrante macroscópico tras la resección quirúrgica.
+El resultado anatomopatológico de la pieza quirúrgica confirma en útero y ovarios la presencia de una neoplasia maligna pobremente diferenciada de alto grado histológico con infiltración transmural de intestino delgado y sigma. Se aislaron 5 ganglios linfáticos libres de infiltración, no pudiéndose filiar de una forma concluyente el origen primario de la neoplasia, pero considerando el conjunto de los hallazgos histológicos y del estudio inmunohistoquímico, la neoplasia podría corresponder a un carcinosarcoma de probable origen uterino con ambos componentes epitelial y mesenquimal de alto grado histológico.
+CK20 negativo, RREE positivos 60%, RRPP negativos, S100 positivo, Vimentina positivo en áreas de aspecto mesenquimal y negativo en áreas de aspecto epitelial y finalmente Ki 67: 50%. La citología del lavado peritoneal fue negativo para malignidad.
+
+Evolución
+La paciente cursa con un postoperatorio tórpido, complicado con sepsis de origen abdominal por lo que se realiza TAC abdomino-pélvico que muestra la presencia de neumoperitoneo, con sospecha de dehiscencia de sutura anastomótica, que no se confirma en enema con gastrografín realizado posteriormente. Presenta también trombosis parcial de la vena mesentérica y adenopatías paraaórticas izquierdas de nueva aparición.
+Tras el alta, la paciente reingresa por cuadro febril persistente y metrorragia, que mejora con tratamiento antibiótico empírico. No obstante se realiza nuevamente estudio TAC toraco-abdomino-pélvico que pone de manifiesto gran recidiva tumoral a nivel pélvico con infiltración de estructuras regionales y presencia de numerosos implantes peritoneales metastásicos, adenopatías iliacas externa y paraórticas izquierdas, metástasis pulmonares y hepáticas, así mismo se objetiva obstrucción ureteral izquierda en relación con infiltración tumoral e hidronefrosis secundaria con catéter doble J mal posicionado que requiere recambio urgente por parte del Servicio de Urología.
+Con estos hallazgos la paciente inicia tratamiento quimioterápico sistémico desde Junio 2010 con Carboplatino AUC=2 más Paclitaxel a 80mg/m2, en esquema semanal (días 1, 8 y 15 cada 28 días), recibiendo 7 ciclos en total con regular tolerancia por toxicidad hematológica grado 2 que precisa soporte con factores G-CSF y neurotoxicidad sensorial periférica progresiva grado 2-3 que obliga suspender el tratamiento en Diciembre 2010.
+En evaluaciones de respuesta con TAC tras tercer y séptimo ciclo, presenta respuesta parcial mayor con desaparición de las lesiones hepáticas, implantes peritoneales, adenopatías retroperitoneales y metástasis pulmonares, persistiendo únicamente una lesión pélvica de 3 cm en fosa ilíaca izquierda.
+Dada la importante respuesta se decide continuar tratamiento con cambio de esquema a Doxorrubicina liposomal pegilada a 40 mg/m2 cada 28 días, recibiendo un total de 5 ciclos con respuesta radiológica completa de la lesión pélvica residual en fosa ilíaca izquierda, sin otros hallazgos de importancia. En consenso con la paciente se suspende tratamiento en Mayo 2011 por síndrome mano-pie grado 2-3, pasando posteriormente a revisiones con controles TAC periódicos, permaneciendo sin evidencia de recidiva de enfermedad hasta la actualidad (5 años de seguimiento). En último control de Mayo de 2016 la paciente se encuentra asintomática y realiza su vida con normalidad.

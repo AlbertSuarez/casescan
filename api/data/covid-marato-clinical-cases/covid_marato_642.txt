@@ -1,0 +1,24 @@
+Anamnesis
+Paciente 70 años con alergia a la penicilina y antecedentes de hipertensión arterial, dislipemia, hiperuricemia, accidente cerebrovascular hemisférico izquierdo sin secuelas, estenosis carotídea tratada mediante endarterectomía, glaucoma OI, adenocarcinoma de próstata T3b Gleason 5+4 tratado mediante radioterapia de 54 Gy durante 3 meses finalizando con 76 Gy y bloqueo hormonal completo, diagnosticado de adenocarcinoma de pulmón, TTF1 (+), PSA (-), PDL-1 débilmente +, estadio IVa con nódulos pulmonares.
+En tratamiento con ácido acetilsalicílico (AAS), bisoprolol, espironolactona, hidroclorotiazida, telmisartán alopurinol, atorvastatina, brinzolamida, bimatoprost, timolol, omeprazol y paracetamol.
+Acude por dolor dorsal alto irradiado a ambos hipocondrios de dos meses de evolución, junto con disminución de la fuerza del miembro inferior derecho desde hace 2 días.
+
+Exploración física
+El paciente presenta ECOG 1 destacando asimetría de los pulsos carotideos, dolor durante la palpación de la columna dorsal y lumbar, y paresia del miembro inferior derecho 3/5 junto con Babinski derecho.
+
+Pruebas complementarias
+Bioquímica: Iones normales, perfil renal y hepático normales, perfil hormonal con testosterona y PSA normales.
+Hemograma y coagulación normales.
+Radiografía tórax: nódulos en vidrio deslustrado en ambos hemitórax ya conocidos.
+TC cráneo: signos involutivos globales. Leucoencefalopatía hipóxico-isquémico crónico. Lesión isquémica crónica en centro semioval izquierdo.
+RNM dorso-lumbar con contraste: realce intrarraquídeo a nivel T7-T8 de aproximadamente 3 cm de eje craneocaudal que se extiende desde el espacio epidural y sobrepasa la aracnoides ocupando el espacio subaracnoideo; comprimiendo el cordón medular en unas dimensiones de 10 x 12 mm en los ejes AP/l lo que condiciona un edema centromedular en T6/T7 (cordón medular desplazado hacia la izquierda) y extendiéndose al neuroforamen derecho T7-T8.
+PET-TC con 18-FDG: dos nódulos pulmonares paramediastínicos apicales bilaterales, de 8 y 9 mm; el derecho asociado a aumento de densidad en vidrio deslustrado en el parénquima adyacente. Lesión intrarraquídea hipermetabólica a la altura de D7-D8 de unos 27 mm de diámetro en el eje CC. Persiste un foco de hipercaptación patológica en base del lóbulo prostático izquierdo.
+
+Diagnóstico
+Metástasis extramedular intradural probablemente secundaria a adenocarcinoma de pulmón.
+
+Tratamiento
+Se inicia radioterapia de forma urgente sobre la afectación dorsal, abarcando desde D6-D9 a ritmo de 500 cGy/día, durante 4 días, finalizando el último día con 20 Gy.
+
+Evolución
+El paciente evoluciona favorablemente recuperando parcialmente la fuerza en miembro inferior derecho (4+/5); siendo dado de alta para seguimiento en consultas externas del Servicio de Oncología Médica.

@@ -1,0 +1,24 @@
+Anamnesis
+Mujer de 67 años. Antecedentes oncológicos: 1ª neoplasia (en 1990), carcinoma ductal infiltrante de mama izquierda pT2 (2.5 cm) pN0 (0/11) M0, realizándose mastectomía radical modificada con lifadenectomía izquierda (abril-1990) y adyuvancia con quimioterapia y radioterapia externa (50 Gy sobre pared torácica y 48 Gy sobre áreas ganglionares) (inicio: 02-07-90) con posterior reconstrucción con colgajo miocutáneo (octubre-1992). 2ª neoplasia (en 2013), carcinoma ductal infiltrante pobremente diferenciado de mama derecha pT1b (9mm) pN0 (0/10) M0, receptores de estrógenos negativo, receptores progesterona positivo, HER 2 negativo, tratado con tumorectomía y linfadenectomía derecha (sospecha de afectación en biopsia de ganglio centinela no confirmada posteriormente) (22-03-13) con posterior adyuvancia con radioterapia externa sobre volumen mamario en régimen de hipofraccionamiento y sobreimpresión en lecho tumoral (53.3 Gy) (inicio: 26-06-13//fin: 24-07-13) y hormonoterapia con Letrozol (Inicio: Abril-13)
+
+Antecedentes familiares:
+Perteneciente a familia con síndrome de CPRH conocido debido a mutación patogénica en gen MET (c.3906G>A/p.V1238I, en exón 19) y con agregación de cáncer de mama. 
+
+Exploración física
+Cicatriz de reconstrucción de mama izquierda y de tumorectomía en mama derecha. Linfedema bilateral. Resto de exploración normal.
+
+Pruebas complementarias
+Estudio genético en línea germinal:
+- Mutación en gen MET (c.3906G>A/p.V1238I, en exón 19 del gen MET)
+- Mutación deletérea en gen BRCA1 exón 5, c.330A>G (HGVS:c.211A>G) (BIC1944)
+
+Diagnóstico
+Portadora de síndrome de CPRH por mutación en gen MET y de síndrome de cáncer de mama y ovario hereditario (CMOH) por mutación en BRCA1.
+
+Tratamiento
+Medidas de control de riesgo:
+Seguimiento mediante resonancia magnética (RMN) renal bilateral semestral, y en caso de aparición de tumores <3 cm se continuará con observación. Por contra, si fueran >3 cm se recomendaría enucleación, resección, radiofrecuencia o ablación terminal de todos los tumores con técnicas conservadoras de nefrona. Estas mismas recomendaciones son extensibles a los portadores de mutación en gen MET de la familia comenzando al final de la adolescencia o primeros años de la edad adulta (mínimo 10 años antes del diagnóstico en el más joven diagnosticado en la familia).
+Discusión de ventajas e inconvenientes de medidas de profilaxis primaria y secundaria para control de riesgos de tercera neoplasia mamaria y de cáncer de ovario. Opción de la paciente por revisiones con autoexploración mamaria mensual, exploración mamaria por especialista semestral y mamografía con RMN mamaria anual sincrónica. Opción por salpingooforectomia bilateral profiláctica laparoscópica, realizándose en Enero-15.
+
+Evolución
+Seguimiento de la paciente en unidad de consejo genético con medidas de control de riesgo anteriormente descritas.

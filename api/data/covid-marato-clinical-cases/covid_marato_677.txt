@@ -1,0 +1,26 @@
+Anamnesis
+Se trata de una mujer de 85 años, sin antecedentes familiares oncológicos de interés. No presenta alergias medicamentosas, ni hábitos tóxicos. A nivel personal, destaca antecedentes de hipertensión y diabetes de larga evolución, enfermedad renal crónica (FG 45 ml/min), anemia crónica de origen multifactorial, gammapatía monoclonal y osteoartrosis. Es intervenida para colocación de prótesis en rodilla derecha hace 1 año. Su tratamiento habitual consiste en sitagliptina 100 mg cada 24 h insulina glargina 18 Uds. en la noche, carvedilol 25 mg en la mañana, manidipino 10 mg cada 24 h en la tarde y doxazosina 4 mg en la noche.
+Su historia oncológica comienza en abril de 2017, a raíz de la aparición de lesión papulosa de 1-1,5 cm de diámetro de bordes bien definidos con telangiectasias en superficie de antebrazo derecho, siendo valorada por Dermatología.
+Se decide realización de exéresis diagnóstica y terapéutica el 02/05/2017 con ampliación de márgenes el 24/05/2017, siendo la Anatomía Patológica compatible con carcinoma de células de Merkel estadio IIA (pT2N0M0), ulcerado, con bordes quirúrgicos libres de enfermedad.
+Ante el riesgo de recidiva locorregional, se decide en comité de tumores cutáneos, administración de radioterapia (RT) adyuvante planificándose 46 Gy a 2 Gy/sesión, iniciando el 10/07/2017 y finalizando el 09/08/2017.
+Desafortunadamente, en PET de seguimiento (27/11/2017), se objetiva recaída de la enfermedad con hipercaptación sugestiva de malignidad a nivel axilar derecho en forma de conglomerado adenopático de 4 x 5 x 3 cm de diámetro y un SUV máximo de 11,41 sin otras hipercaptaciones significativas salvo las de un bocio multinodular ya conocido y patología osteoarticular en diversas localizaciones.
+Finalmente, se considera el caso irresecable, y es derivada la paciente a Oncología Médica para valoración de tratamiento sistémico, siendo evaluada el 11/01/2018.
+
+Exploración física
+ECOG 2, peso 67 kg, talla 1,50 m, SC 1,62 m2.
+Buen estado general, consciente, orientada, bien hidratada y perfundida, afebril, eupneica en reposo. Palpación de conglomerado adenopático axilar derecho de unos 4-5 cm, indurado y adherido a pared. No hay lesiones cutáneas sugestivas de recidiva a nivel local. Linfedema probablemente secundario a cirugía, en miembro superior derecho grado de gravedad 1. Articulaciones artrósicas. No hay otras alteraciones por aparatos y sistemas.
+
+Pruebas complementarias
+»Analítica (15/01/2018): perfiles básico, renal y hepático sin alteraciones. Hemograma normal.
+» PET de actualización de estudio de extensión (27/02/2018): se visualiza progresión morfológica y metabólica de la afectación linfática axilar/retropectoral derecha con conglomerado de 7,7 x 7,4 x 5,8 cm (previo 4 x 5 x 3 cm) y SUV máximo de 14,73 (SUVmáx. previo 11,41), así como aparición de adenopatía retropectoral de 12 mm sugestiva de malignidad (SUV 10,77). De la misma manera, se detectan 2 metástasis hepáticas de novo en segmento II del LHI y en segmento IVA con diámetros aproximados de 2,5 x 2 y 1 cm, y un SUVmáx. de 14,28 y 6,85 (SUV parénquima hepático: 3,6), sin otros hallazgos sugestivos de malignidad.
+
+Diagnóstico
+Recidiva locorregional y a distancia de carcinoma de células de Merkel con afectación ganglionar axilar derecha, retropectoral ipsilateral y hepática.
+
+Tratamiento
+Se plantea inicialmente tratamiento sistémico basado en avelumab 10 mg/kg cada 2 semanas. Sin embargo, desde comisión de Farmacia Hospitalaria se concede inicio de pembrolizumab 2 mg/kg IV cada 21 días el 23/03/2018.
+Por otro lado, se programa RT concomitante a nivel de conglomerado axilar/retropectoral derecho entre 1er ciclo y 2º ciclo de pembrolizumab, recibiendo una dosis de 30 Gy en 10 sesiones desde el 02/04/2018 al 13/04/2018.
+
+Evolución
+Posteriormente, recibe 3 ciclos más de pembrolizumab a la misma dosis, explorándose disminución progresiva de masa axilar derecha, mejorando estado funcional a ECOG 1 al 4º ciclo de tratamiento. Como toxicidad, destaca tras 4º ciclo, astenia G2, diarrea G2 durante 4-5 días postratamiento con resolución progresiva, y nefrotoxicidad G1 con creatinina de 1,54 mg/dl. Se realiza primer PET de control (12/06/2018) donde se objetiva excelente respuesta metabólica, con reducción de adenopatías axilares/retropectoral a lesiones residuales, con escasa captación metabólica con SUV 2,93 (SUVmáx. previo 14,73) y respuesta casi completa de metástasis hepáticas persistiendo lesión residual hipodensa en segmento II con escasa tasa de proliferación celular.
+Ante la respuesta conseguida, se decide continuación de pembrolizumab, recibiendo, hasta diciembre 2018, 9 ciclos de tratamiento, presentando astenia G1-2, artralgias G2 que provocan retraso de algún ciclo de tratamiento, y diarrea G1-2, requiriendo pauta de dexametasona de hasta 8 mg al día tras 9º ciclo, con mejoría clínica significativa. En segunda PET de control (enero 2019) se mantiene respuesta obtenida sin signos de progresión en ninguna localización, manteniendo beneficio clínico con el tratamiento.

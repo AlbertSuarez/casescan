@@ -1,0 +1,23 @@
+Anamnesis
+Paciente de 31 años, al que, tras una embolia en el miembro superior derecho el 21/9/12, se le realiza embolectomía.
+Se diagnostica de tumoración cardíaca intervenida el 3/10/12 compatible con sarcoma pleomórfico indiferenciado. El 26/10/12, presenta afasia mixta, heminopsia homónima derecha y hemiplejia con déficit sensitivo derecho, siendo diagnosticado de ictus isquémico embólico (material tumoral) con oclusión en tándem izquierda, tratado mediante trombectomía mecánica. Tras presentar el caso en Comité, se desestima trasplante cardíaco. En estudio de extensión se evidencia recidiva locorregional y enfermedad metástasica hepática y probable suprarrenal; recibe el primer ciclo de doxorrubicina el 10/11/12.
+
+Examen físico
+Incapacidad nominativa. Disartria leve. No presenta defectos campimétricos. Paresia facial supranuclear derecha gestual. No claudica en Barré ni Mingazzini, torpeza de movimientos finos de mano derecha. RCP indiferente derecho.
+No hay alteración sensitiva. Marcha cautelosa, torpeza en MID.
+
+Pruebas complementarias
+Angioplastia (26/10/12): oclusión en tándem de ACI y ACM izquierdas. Catéter guía con balón en ACII hasta ACM, con endoprótesis desde ACM a ACI. Tras inflar el balón, se extrae el trombo. Angiografía de control con repermeabilización de ACI, defecto en supraclinoidea con recanalización parcial de ACM y vasoespasmo grave que requiere otra angioplastia con 3 pases, endoprótesis y recanalización completa de la ACI izquierda y ACM.
+Anatomía patológica (AP): tumorectomía de la aurícula izquierda (11/10/12): sarcoma pleomórfico indiferenciado.
+AP émbolo ACM (31/10/12): sarcoma pleomórfico indiferenciado.
+Tomografía computarizada (TC) (9/11/12): émbolos tumorales o recidiva. Progresión a distancia (hepática, adenopática y probable suprarrenal).
+Resonancia magnética (RM) cerebral (15/11/12): infartos subagudos en territorio lenticuloestriadas izquierdas y ACM izquierda con tracción del sistema ventrícular ipsilateral.
+
+Diagnóstico
+Sarcoma pleomórfico indiferenciado cardíaco intervenido con persistencia de enfermedad (local) con ictus isquémico embólico como debut y progresión de enfermedad.
+
+Tratamiento
+Precisó angioplastia con embolectomía en ACM y ACI izquierdas tras ictus embólico (material tumoral). Recibió un ciclo de doxorrubicina en monoterapia con riesgo de rotura cardíaca junto con tratamiento con heparina de bajo peso molecular (HBPM) tras revascularización y tratamiento sintomático.
+
+Evolución
+Durante su ingreso, presenta fiebre persistente sin aislamiento microbiológico ni focalidad y se constata progresión por imagen. Posteriormente, padece neutropenia febril de bajo riesgo con foco faríngeo sin aislamiento y tratada con antibioterapia empírica que requirió ingreso por persistencia de la fiebre y aparición de dolor óseo, constatándose enfermedad ósea tras la gammagrafía. Por la mala evolución y deterioro, se traslada a Paliativos y fallece el 21/12/12.

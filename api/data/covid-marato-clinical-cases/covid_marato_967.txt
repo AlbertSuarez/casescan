@@ -1,0 +1,27 @@
+Anamnesis
+Paciente de 47 años sin antecedentes de interés que es llevado a Urgencias por traumatismo abdominal cerrado tras accidente de tráfico. A su llegada, se evidencia abdomen agudo por lo que somete a laparotomía exploradora que evidencia gran cantidad de sangre libre en cavidad peritoneal secundaria a rotura de la arteria polar inferior esplénica. Durante la cirugía se observa conglomerado adenopático retroperitoneal del que se toman biopsias. La anatomía patológica informa de linfoma folicular grado 1. Se realiza PET-TAC que visualiza focos hipermetabólicos en adenopatías axilares bilaterales, mediastínicas, iliacas y un gran conglomerado retroperitoneal compatibles con afectación por linfoma. Se realiza biopsia de médula ósea que muestra infiltración por linfoma folicular.
+Rehistoriando al paciente, no presencia de síntomas B ni de síndrome constitucional, refiriendo unicamente lumbalgia de poca entidad que la consideraba normal dentro de su trabajo como camionero.
+Inicia quimioterapia con CHOP-Rituximab del que recibe 6 ciclos con buena tolerancia. En PET de reevaluación, respuesta parcial con persistencia de enfermedad a nivel retroperitoneal. Inicia segunda línea con FMD-R (Fludarabina - Mitoxantrona - Dexametasona - Rituximab) con respuesta completa por PET-TAC a los 4 ciclos aunque con gran toxicidad hematológica con varios retrasos por neutropenia y plaquetopenia. Se realiza biopsia de médula ósea que no muestra infiltración por linfoma por lo que inicia Rituximab de mantenimiento. Mejoría clínica desde el fin de la quimioterapia aunque con neutropenia y plaquetopenia grado 1 persistentes. A los 19 meses de tratamiento, el paciente consulta por hematuria indolora.
+
+Exploración física
+Paciente con buen estado general aunque algo pálido. No síntomas B.
+No se palpan adenopatías periféricas
+Auscultación cardiorrespiratoria: normal
+Exploración abdominal: normal. Molestias a nivel lumbar bajo
+No edemas maleolares
+Pruebas complementarias
+Analítica: Perfil hepático y renal normal. Sin alteraciones electrolíticas. Hemoglobina 11.2 g/dL,
+Leucocitos 2650/μL (Neutrófilos 1410/μL), Plaquetas 123000
+TAC Tórax: Calcificaciones en arterias coronarias. Ganglios paratraqueales derechos y paraaórticos izquierdos, de tamaño no significativo. No se observan adenopatías mediastínicas de tamaño significativo. No se observan alteraciones pleuropulmonares de interés.
+TAC Abdomen y pelvis: Hepatomegalia con moderada esteatosis, sin evidencia de lesiones focales.
+Esplenomegalia homogénea. No se aprecia líquido libre ni adenopatías intraabdominales de tamaño significativo. Páncreas, y riñón derecho sin alteraciones de interés. Ocupación de la pelvis renal izquierda por una masa de densidad de partes blandas, de aprox 40x44x51 mm (apxtxl) que presenta captación de contraste, no presente en TAC previos. Provoca dilatación de cálices, sobre todo el del grupo superior, sin dilatación ureteral compatible con tumor urotelial.
+Con los hallazgos se presenta en comité de Urología y se realiza nefrectomía que muestra infiltración de pelvis renal por neoplasia de células pequeñas y morfología regular. La inmunohistoquímica muestra positividad para CD 45, CD 20, CD 10, Bcl 2, Bcl 6 y negatividad para CD 138, CD5 y Ciclina D1. El índice proliferativo mediante Ki 67 es del 10% aproximadamente.
+
+Diagnóstico
+Infiltración de pelvis renal por linfoma folicular como único foco de recaída
+
+Tratamiento
+Ante los resultados, se repite el PET-TAC que confirma la ausencia de otros focos y se realiza nueva biopsia de médula ósea que no observa infilitración por linfoma pero muestra una médula hipocelular con hiperplasia marcada de la serie eritroide con rasgos displásicos marcados (tendencia a agrupación en nidos y presencia de células bi y trinucleadas) y escasa representación del resto de series con predominio de formas inmaduras mieloides con un 3% de formas blásticas y presencia de células plasmásticas politípicas sugerente de síndrome mielodisplásico tipo citopenia refractaria con displasia multilinaje. Ante estos hallazgos se presenta el caso en comité de Hematología, decidiéndose minialotransplante de donante no emparentado al no presentar hermanos compatibles.
+
+Evolución
+Durante el acondicionamiento, el paciente sufre un debút diabético con glucemia en más de 1000 mg/dL. Tras el acondicionamiento, requirió ingreso en UCI por diarrea severa con insuficiencia renal prerrenal y sospecha de microangiopatía trombótica en probable relación con Tacrólimus usado como profilaxis de enfermedad injerto contra huesped. Mala evolución del cuadro con disminución del nivel de conciencia, aparición de flutter auricular de novo con respuesta ventricular rápida a 150 latidos por minuto y cuadro febril con aislamiento en hemocultivo de Escherichia coli multirresistente unido a escasa recuperación de parámetros hematológicos, sobreviniendo fracaso multiorgánico al día + 16 del transplante que conlleva el éxitus del paciente

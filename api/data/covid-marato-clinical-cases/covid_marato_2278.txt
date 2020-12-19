@@ -1,0 +1,29 @@
+Anamnesis
+Mujer de 50 años, profesora. Sin antecedentes familiares oncológicos de interés. No tiene alergias medicamentosas conocidas. Fumadora de 20 paquetes-año. Sin cardiopatía ni broncopatía conocidas. Sin FRCV conocidos. Sin antecedentes quirúrgicos previos. Sin tratamiento domiciliario concomitante.
+Historia oncológica:
+La paciente ingresa el 24/09/2015 por clínica de vómitos de repetición e intolerancia oral a sólidos. Tras valoración clínica y radiológica, se objetivan imágenes compatibles con neoplasia de páncreas sin infiltración vascular decidiéndose intervención quirúrgica urgente mediante pancreatoduodenectomía radical (Whipple) el 25/09/2015. Sin complicaciones. Anatomía Patológica confirma que la paciente presenta un adenocarcinoma ductal de páncreas grado 2 con infiltración de la pared duodenal y tejidos blandos peripancreáticos, invasión linfovascular y perineural positiva, bordes quirúrgicos libres y ausencia de afectación ganglionar (0/6). Estamos por tanto ante un adenocarcinoma ductal pancreático pT3pN0pMx RO (ESTADIO IIA).
+
+Exploración física
+ECOG performance status 1. Peso: 65 kg, talla 162 cm. SC: 1,69. Eupneica, consciente y orientada. Bien hidrata y perfundida. Sin adenopatías periféricas palpables. ACR: ruidos rítmicos sin soplos audibles. MVC sin ruidos añadidos.
+Abdomen blando, depresible y no doloroso, RHA conservados, sin signos de irritación peritoneal, ni masas ni megalias, y cicatriz consolidada y con buen aspecto. EEII sin edemas ni signos de TVP.
+
+Pruebas complementarias
+» Hemograma: leucocitos, hemoglobina y plaquetas en rango normal.
+» Coagulación: TP y TTPa normal
+» Bioquímica: glucosa, función renal e iones normales.
+» CA 19,9: 16 (normal).
+» Perfil tiroideo normal.
+» Endoscopia oral: lesión estenosante en segunda/tercera porción duodenal que sugiere neoplasia duodenal vs. infiltración tumoral.
+» TC toracoabdominopélvica (04/09/2015): engrosamiento mural mamelonado de aspecto neoplásico en segunda/tercera porción duodenal acompañado de estenosis significativa de la luz y distensión secundaria en los segmentos proximales. Además, se observa una lesión hipodensa en el proceso uncinado pancreático que parece infiltrar la pared medial de la segunda porción duodenal. Estos hallazgos son compatibles con neoplasia pancreática del proceso uncinado con extensión al duodeno sin afectación locorregional ni adenopatías de carácter patológico. El resto del estudio, sin hallazgos relevantes.
+
+Diagnóstico
+Adenocarcinoma ductal de páncreas grado 2 con infiltración de la pared duodenal y tejidos blandos peripancreáticos. Estadio II A (pT3pN0cM0). Whipple R0.
+
+Tratamiento
+Se decide tratamiento citostático adyuvante esquema gemcitabina en monoterapia 1 g/m2 iv (DT: 1.700 mg) día 1º, 8º y 15º cada 28 días x 6 ciclos.
+Tolerancia al tratamiento: diarrea grado 2, transaminitis grado 1, mialgias grado 1 y plaquetopenia grado 3.
+Ingresa tras ciclo 5º por anemia microangiopática, plaquetopenia e insuficiencia renal leve, precisando transfusión de hematíes y plaquetas. En el alta se decide no administrar último ciclo adyuvante previsto e inicia seguimiento.
+
+Evolución
+Tras un intervalo libre de enfermedad (ILE) de 7 meses, la paciente manifiesta astenia grado 2 y pérdida de 5 kg. En control radiológico en abril de 2016 mediante TC de tórax, abdomen y pelvis se objetivan dos nuevas lesiones ocupantes de espacio hepáticas compatibles con metástasis y derrame pleural y pericárdico asintomático. Se propone entonces, ante la imposibilidad de administrar de nuevo gemcitabina por toxicidad hematológica grave objetivada durante la adyuvancia, iniciar nab-paclitaxel en monoterapia 125 mg/m2 iv (DT: 200 mg) día 1º, 8º y 15º cada 21 días. Recibió seis ciclos de tratamiento. Tolerancia al tratamiento; astenia grado 1, alopecia, anemia grado 1, insuficiencia renal aguda grado 3 (aclaramiento de creatinina 56 ml/min) sin necesidad de ajuste de dosis.
+Neurotoxicidad grado 2. Tras la aparición de los mencionados efectos adversos, se decide descanso terapéutico y control radiológico. En RMN abdominal de noviembre de 2016 se constata respuesta radiológica completa que se mantiene en nuevo control mediante TC de tórax, abdomen y pelvis realizada en febrero de 2017. Por lo que no precisa de nuevo tratamiento citostático. La paciente presenta neuropatía residual grado 1. Actualmente libre de enfermedad y en seguimiento estrecho.

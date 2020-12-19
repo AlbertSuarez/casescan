@@ -1,0 +1,23 @@
+Anamnesis
+Mujer de 48 años, fumadora de un paquete-día. Sin alergias medicamentosas conocidas. Antecedentes familiares sin interés. Sin antecedentes personales. Un embarazo a término, toma de anticonceptivos hormonales orales durante dos años. No hay otra medicación.
+
+Exploración física
+Tumoración en mama izquierda de unos 3 cm de diámetro en cuadrante superoexterno. El resto de exploración por aparatos sin hallazgos de interés.
+
+Pruebas complementarias
+Mamografía-ecografía de mama izquierda: lesión sospechosa de malignidad en CSE de mama izquierda de 3,4 x 3 cm BIRADS 4C. Se observan dos adenopatías en axila izquierda de aspecto patológico.
+»BAG de nódulo mamario: carcinoma ductal infiltrante grado III con infiltración de la dermis, HER-2 +++, RE+, RP-.
+»PAAF adenopatía axilar: positiva para adenocarcinoma.
+»TC toracoabdominal: sin hallazgos sospechosos de malignidad.
+
+Diagnóstico
+Carcinoma ductal infiltrante grado III con infiltración de la dermis, HER-2 +++, RE+, RP- estadio pT4N2M0(IIIB de acuerdo a la clasificación TNM 7º edición vigente en 2009).
+
+Tratamiento
+Se llevó a cabo mastectomía radical modificada con linfadenectomía axilar en 2009. Posteriormente, recibió adyuvancia con doxorrubicina, ciclofosfamida (AC) cuatro ciclos seguido de docetaxel (T) y radioterapia (RT); posteriormente continúo tratamiento durante un año con trastuzumab. En el año 2010, inició hormonoterapia. En junio de 2013, se realizó estudio de extensión con TC y gammagrafía ósea, tras elevación de marcadores tumorales, siendo diagnosticada finalmente de metástasis óseas múltiples. En septiembre de 2013, entró en ensayo clínico (EC) PERUSE (docetaxel-trastuzumab-pertuzumab) con respuesta ósea. En junio de 2016, comenzó con disminución leve de agudeza visual izquierda, por lo que se realizó TC craneal siendo diagnosticada de metástasis única en hemisferio cerebeloso derecho. Recibió tratamiento con radiocirugía en agosto del 2016. Salió de EC e inició tratamiento con TDM-1.
+
+Evolución
+Durante el tratamiento con TDM1, refiere parálisis facial progresiva que comenzó en junio del 2017 y se acompañó de inestabilidad leve. En estudio de extensión mediante TC y RM, se apreció una nueva metástasis en la unión del pedúnculo cerebeloso medio izquierdo a la protuberancia sin edema perilesional. Recibió de nuevo radiocirugía, y se continuó con T-DM1. Un año después, se objetivan dos nuevas lesiones milimétricas supratentoriales recibiendo nuevamente radiocirugía. Puesto que la enfermedad a nivel sistémico estaba controlada, siguió con T-DM1.
+Tres meses después, se produce un claro empeoramiento neurológico, sin progresión cerebral, observándose únicamente edema perilesional afectado al cuerpo calloso. Realizamos diagnóstico diferencial entre radionecrosis vs. carcinomatosis meníngea vs.toxicidad por T-DM1. Suspendimos el tratamiento en ese momento, y el estudio del LCR salió negativo para metástasis.
+Remitimos a la paciente al Servicio de Neurología. Ante la sospecha de neuronopatía axonal, se solicitó electromiograma realizado en febrero del 2019, donde se confirmó una polineuropatía sensitiva axonal de intensidad grave compatible con neuronopatía axonal; se solicitaron anticuerpos antinucleares, anticitoplasma neutrófilo, anti-ADN nativo, anti-Hu, anti-Yo, antianfifisina, anti-CV2, PNMA2, Ri, SOX-1, titina, recoverina, ZIC4, GAD65, todos ellos negativos. A pesar de que en el seguimiento mediante RM, TC y GGO de marzo del 2019 la enfermedad permaneció estable y, por haber retirado el T-DM1, el deterioro neurológico de la paciente continuó aumentando apareciendo parestesias, inestabilidad, pérdida de funciones superiores. El Servicio de Neurología descartó tratamiento por su parte.
+Actualmente, la paciente continúa seguimiento en Oncología, siendo tratada con el mejor tratamiento de soporte.

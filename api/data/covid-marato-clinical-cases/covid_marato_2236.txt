@@ -1,0 +1,22 @@
+Anamnesis
+Varón 46 años con AP de infección por VIH con CD4 siempre > 300 y carga viral actual indetectable, VHC conocida desde 1994 con ARN negativo en 2009, infección por micobacterias en 2008 correctamente tratada. Fumador de 20 cigarrillos al día y exconsumidor de drogas vía parenteral e inhaladas. Trabaja en tareas de mantenimiento y tiene pareja estable. Actualmente, está en tratamiento con darunavir cobicistat 800 mg más dolutegravir 50 mg.
+Como antecedente reciente destaca que el paciente estaba en estudio por un nódulo coroideo en ojo izquierdo detectado de forma incidental hacía un mes.
+El paciente ingresa por fiebre y dolor en hemitórax derecho de características pleuríticas con la sospecha de neumonía. Además, en la anamnesis el paciente refería un cuadro constitucional con pérdida de peso de 6 kg e hiporexia desde hacía tres meses.
+
+Exploración física
+En la exploración física presentaba una saturación de oxígeno basal 97-98 % y destacaba una tumoración de consistencia elástica occipital y otra a nivel dorsal, que el paciente refiere tenerlo desde hace 1 mes, habiendo consultado y considerándose como lipomas. Además tenía una abolición del murmullo vesicular basal derecho en la exploración cardiopulmonar, siendo el resto de exploración normal.
+
+Pruebas complementarias
+En las pruebas complementarias destacaba una leucocitosis 25.000 con 84 % de neutrófilos, VSG 72 mm/1ª h, cLDH 1.000 UI/l, PCR 150mg/l, siendo el resto de la bioquímica normal. Presentaba unas subpoblaciones linfocitarias con CD 4+ 352 y carga viral VIH indetectable y la serología: IgM e IgG Mycoplasma pneumoniae positiva, Legionella negativo, Chlamydia IgM negativa e IgG positiva, VHC negativo, Ac anti-HBs y Ac antiHBc positivos con AgHBs negativo. Hemocultivos y cultivos de esputos que resultaron negativos y radiografía de tórax con un infiltrado denso en lóbulo inferior derecho.
+
+Diagnóstico
+Juicio clínico: neumonía basal izquierda adquirida en la comunidad.
+
+Tratamiento
+Ceftriaxona 2 g intravenosos cada 24 horas y azitromicina 500mg intravenosos cada 24 h (empírico, previo a resultados de cultivos y serología)
+Dada la rápida evolución del proceso no se pudo comenzar ningún tipo de tratamiento oncológico por el estado general del paciente.
+
+Evolución
+Estando en proceso el estudio, el paciente comenzó de forma brusca con cefalea intensa y pérdida de visión del ojo izquierdo. Se realiza un fondo de ojo donde se aprecia un desprendimiento de retina exudativo total y una TC urgente que evidencia una lesión extradural parietal izquierda que se extiendehasta el tejido celular subcutáneo, infiltrando la calota craneal e invadiendo el seno longitudinal superior, completando el estudio posteriormente con RM donde se encontraron los mismos hallazgos.
+Con todos estos datos y ante la posibilidad de que pudiera existir un origen neoplásico en su proceso pulmonar, se realiza una TC de tórax, apreciándose una masa sólida en el lóbulo inferior derecho con afectación del bronquio principal izquierdo, así como múltiples nódulos parenquimatosos bilaterales y conglomerado adenopático mediastínico. Se completó el estudio con una ecografía abdominal que resultó dentro de la normalidad y una broncoscopia en la que se vio infiltración difusa del árbol bronquial derecho, resultando la citología del broncoaspirado carcinoma no microcítico con inmunohistoquímica CKAE1/3 de carcinoma poro diferenciado. Asimismo, se realizó biopsia de la tumoración de partes blandas occipital con el resultado de metástasis de carcinoma poco diferenciado.
+Dada la rápida progresión del proceso, el paciente fallece por proceso intercurrente antes de poder comenzar cualquier tipo de tratamiento oncológico.

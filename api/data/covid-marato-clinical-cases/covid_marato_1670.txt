@@ -1,0 +1,27 @@
+Anamnesis
+En este caso, nos encontramos con una mujer de 33 años, asintomática, con vida activa normal, natural de Vitoria. No tiene antecedentes familiares ni personales de interés, salvo tabaquismo activo con un índice acumulado de 7 paquetes-año. No toma medicación salvo lorazepam, si precisa por insomnio.
+En enero de 2014, es intervenida de melanoma cutáneo escapular derecho ulcerado, Breslow 2,3 mm, y tras realización de ampliación de márgenes y ganglio centinela, resulta un pT3N0M0 (E-IIB), por lo que se decide seguimiento.
+Casi dos años después, en diciembre de 2015, en uno de los controles se objetiva imagen sospechosa a nivel del músculo recto anterior, por lo que se le realiza resección compartimental de dicho músculo (portadora de malla), siendo la cirugía R0, con hallazgos sugestivos de melanoma metastásico, que infiltra músculo, aponeurosis y tejido adiposo. Se realiza estudio de BRAF resultando negativo.
+Tras ello, y estando la paciente libre de enfermedad, continúa en controles.
+
+Exploración física
+ECOG: 0. Excelente estado general. Durante la exploración física, sin hallazgos reseñables, sin lesiones cutáneas sospechas y cicatrices en buen estado.
+
+Pruebas complementarias
+En febrero de 2016 se le realiza TC toracoabdominopélvica de control, donde se objetiva recidiva tumoral con varios implantes peritoneales en flanco derecho y recaída a nivel adenopático en hilio pulmonar izquierdo. Acto seguido se le realiza PET-TC donde confirman captación patológica de radiofármaco en las lesiones previamente descritas.
+Se completa el estudio con RM cerebral que descarta patología a dicho nivel.
+
+Diagnóstico
+Tras los hallazgos en las pruebas de imagen solicitadas, nos encontramos ante una paciente con diagnóstico de melanoma diseminado, estadio IV.
+
+Tratamiento
+Ante el diagnóstico previamente expuesto, se decide iniciar tratamiento con inmunoterapia, más concretamente con un anti-PD-1, nivolumab (BRAF negativo en histología de la lesión resecada del músculo recto anterior).
+
+Evolución
+En marzo de 2016 se inicia tratamiento sistémico con nivolumab, con muy buena tolerancia, sin apenas efectos secundarios durante los 3 primeros ciclos. Tas administración de 4º ciclo, la paciente comienza con toxicidad gastrointestinal, a modo de diarreas (enterocolitis), que alcanza un grado 2, por lo que se para el tratamiento inmunoterápico y se inicia tratamiento con altas dosis de corticoides. Debido a la clínica de la paciente, se solicita TC toracoabdominopélvica con idea de descartar patología aguda subyacente y valorar respuesta, donde se objetiva gran respuesta, con resolución casi completa de las lesiones descritas en las pruebas solicitadas al inicio del tratamiento.
+Tras la resolución del cuadro de enteritis, se decide continuar con nivolumab. Se administra el 5º ciclo, precisando de ingreso hospitalario posterior por enterocolitis grado 3. Durante el ingreso, también se objetiva tiroiditis asintomática leve, con TSH de 0,29 y transaminitis leve. Se inicia tratamiento con corticoides a dosis de 1 mg/kg de metilprednisolona. Tras ellos mejoría clínica progresiva, con normalización de alteraciones analíticas y resolución paulatina del cuadro de enteritis. Se decide suspender tratamiento con inmunoterapia.
+En agosto de 2016, se realiza TC de valoración, donde se objetiva respuesta completa, que se confirma también es metabólica por PET.
+En septiembre de ese mismo año, se realiza laparoscopia diagnostica y toma de muestras (resección de epiplón y biopsia de adenopatía de meso-colon derecho), todo ello libre de enfermedad.
+Unos meses después, en enero de 2017, estando la paciente asintomática, en RM cerebral de control, se diagnostica de metástasis de melanoma, por lo que se le realiza exéresis por parte de Neurocirugía y posterior radiocirugía estereotáxica (dosis acumulada de 27,5 Gy).
+Continúa en controles y, un año después, en marzo de 2018, por PET describen adenopatía hipermetabólica en cadena ilíaca externa derecha, realizándosele linfadenectomía iliaca derecha, libre de infiltración tumoral.
+Desde entonces, continúa en controles, libre de enfermedad.

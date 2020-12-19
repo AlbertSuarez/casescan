@@ -1,0 +1,64 @@
+Anamnesis
+» Se trata de una paciente mujer de 42 años.
+» Enfermedades previas: esquizofrenia indiferenciada. Hipertiroidismo. Graves Basedow. Síndrome depresivo. Polimialgia reumática.
+» Historia oncológica: tumor neuroendocrino endobronquial en lóbulo inferior derecho funcionante de bajo grado estadio IV a causa de metástasis hepáticas.
+» En noviembre de 2012, se realiza citorreducción mediante hepatectomía izquierda y segmentectomía del segmento VII.
+» En febrero de 2013, se inicia tratamiento con análogo de somatostatina (lanreótido LAR) 120 mg sc.
+» En agosto de 2014 presenta un debut diabético, al parecer diabetes mellitus tipo 2.
+» En TC del 27 de abril del 2015, se aprecia progresión pulmonar, con una atelectasia posobstructiva del lóbulo inferior derecho.
+» En abril de 2015 se inicia tratamiento con octreótido LAR.
+» En TC del 27 de agosto del 2015 se aprecia desaparición de la atelectasia.
+» En enero del 2016, a causa de un incremento del síndrome carcinoide manifestado como diarreas, se pauta el octreótido LAR cada 3 semanas en lugar de cada 4 semanas.
+» En febrero de 2016, progresión tumoral.
+» El 26 de mayo de 2016 se inicia segunda línea con everolimus 10 mg/día.
+» En TC del 8 de agosto del 2016 se aprecia progresión.
+» En TC del 1 de diciembre de 2016, enfermedad estable.
+» En TC del 7 de junio de 2016, se aprecia progresión en las regiones ya conocidas.
+» En Octreoscan® del 11 de julio de 2017 se aprecia ligero incremento en las metástasis hepáticas.
+» El día 20 de septiembre de 2017 inicia tratamiento doble con inmunoterapia en el contexto de un ensayo clínico.
+» Motivo de acudir a Urgencias de su hospital: paciente que acude a Urgencias del Hospital Álvarez-Buylla por cuadro de 6 días de evolución de dolor abdominal difuso, malestar general, astenia y cansancio. Cuenta haber sufrido un vómito puntual el viernes. Apetito conservado con pérdida de unos 4-5 kg en los últimos días.
+» No tiene clínica cardiaca, respiratoria ni urinaria.
+» Se lamenta de molestia a nivel de la zona anterior del cuello.
+No sufre fiebre. Sin disminución del nivel de consciencia.
+
+Exploración física
+» Exploración física: Tª 36,8 ºC, TA 141/78 mm Hg, FC 130 lpm.
+» Consciente, orientada, colaboradora. Eupneica en reposo, ligera palidez cutánea, normohidratada.
+» Auscultación cardiaca: RsCsRs, taquicárdica 130 lpm.
+» Auscultación pulmonar: MVC sin ruidos sobreañadidos.
+» Abdomen: ruidos hidroaéreos presentes normales, blando, depresible, doloroso en epigastrio e hipocondrio derecho, sin defensa ni peritonismo.
+» Extremidades inferiores: sin edemas ni signos de TVP.
+» El día 20 de septiembre de 2017 inicia tratamiento doble con inmunoterapia en el contexto de un ensayo clínico.
+» Motivo de acudir a Urgencias de su hospital: cuadro de 6 días de evolución de dolor abdominal difuso, malestar general, astenia y cansancio. Cuenta haber sufrido un vómito puntual el viernes. Apetito conservado con pérdida de unos 4-5 kg en los últimos días.
+» No tiene clínica cardiaca, respiratoria ni urinaria.
+» Se lamenta de molestia a nivel de la zona anterior del cuello.
+» No sufre fiebre. Sin disminución del nivel de consciencia.
+
+Pruebas complementarias
+Resumen de pruebas complementarias: analítica:
+» Bioquímica: sodio 127, potasio 4,7, glucosa 475, urea 40, creatinina 1,16, Brb total 0,2, AST/GOT 26, ALT/GPT 41, amilasa 21, PCR 3,29. Lactato 1,2. Hemograma: Hb 14,4. Leucocitos 18.200. Granulocitos absolutos 14.900. Coagulación: TP 91 %, INR 1,05, fibrinógeno derivado 718, ratio TTPA 1,25.
+» Gasometría venosa: pH 7.057. Bicarbonato sangre venosa 5,60. Exceso de bases -24,50.
+» Orina: SyS: pH 5,5. Glucosa 1000 mg/dl, cuerpos cetónicos 150 mg/dl.
+ECG: taquicardia sinusal. Intervalo QT prolongado en el límite, anomalías de la onda T en el límite. Radiografía de tórax PA: no se objetiva patología cardiopulmonar aguda. Radiografía de abdomen simple: patrón gaseoso inespecífico. Clips metálicos posquirúrgicos en mesogastrio.
+
+Diagnóstico
+El proceso actual parece indicar una cetoacidosis diabética en el contexto de un tratamiento con inmunoterapia.
+
+Tratamiento
+» Se llevó a cabo un tratamiento con sueroterapia ajustando las necesidades de insulina, bicarbonato y potasio según los resultados de analíticas de control.
+» Posteriormente, se inició una pauta de insulinoterapia subcutánea.
+
+Evolución
+La paciente es trasladada a nuestro hospital, se encuentra consciente, orientada y colaboradora, sin apenas ya dolor abdominal, persistiendo alguna molestia a la palpación. No se encuentra mareada.
+Se repiten gases venosos que muestran ligera mejoría. Se mide cetonemia de 5,6.
+Se administran diversos sueros, ajustando las necesidades de glucosa, insulina, potasio y bicarbonato, a lo largo de la noche con control analítico cada 2 horas, mostrando una mejoría progresiva de los gases venosos.
+De los fármacos que toma la paciente en el domicilio, levomepromazina causa hiperglucemia, así como con menos frecuencia paliperidona. Ya que es medicación para el tratamiento psiquiátrico de la paciente se decide continuarlo.
+Control analítico a las 18:00 horas del día siguiente:
+» PH 7.33. pCO2 41. pO2 31. Bicarbonato 20 (previo 18). EB -4,6 (previo -7).
+Cantidad de insulina intravenosa administrada en las últimas 24 horas 123 unidades, consiguiéndose aceptable control. Se procede a cambio a insulina subcutánea, se elige tratamiento con insulina mezcla ante petición de la paciente de minimizar lo máximo posible el número de pinchazos. Se retirarán los sueros 1-2 horas después de la administración de insulina.
+Urinocultivo positivo para Enterococo faecalis, sensible a ciprofloxacino. Refiere diarrea y vaginitis con amoxicilina y amoxicilina/ácido clavulánico.
+Ecografía tiroidea sugestiva de tiroiditis de Hashimoto, pero se interpreta finalmente como una descompensación del Graves-Basedow de base.
+En la analítica realizada durante el ingreso destacan unos niveles de antiglutámico descarboxilasa > 2.000 U OMS/ml, siendo negativos los anti-IA-2 (tirosina-fosfatasa) y los transportadores 8 zinc. Los antiinsulina fueron indetectables.
+La paciente es dada de alta hospitalaria con tiamazol e insulina mezcla.
+Posteriormente, presentó un hipotiroidismo que requirió tratamiento con levotiroxina y una clínica de diabetes insípida sugestiva de hipofisitis.
+Actualmente la paciente no recibe tratamiento sistémico y se encuentra en seguimiento por parte del Servicio de Endocrinología.

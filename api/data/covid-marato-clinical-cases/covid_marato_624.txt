@@ -1,0 +1,20 @@
+Anamnesis
+Paciente mujer de 56 años de edad, con antecedentes de fumadora de medio paquete al día y linfoma de Hodgkin estadio IIB (afectación medistínica y cérvico-clavicular) tipo esclerosis nodular diagnosticado y tratado con 6 ciclos de MOPP (mostaza nitrogenada, vincristina, procarbazina y prednisina) y telecobaltoterapia supradiafragmática en 1982, en remisión completa desde entonces hasta que en TC de control se objetiva masa pulmonar izquierda.
+
+Examen físico
+A la exploración destacaba paciente en buenas condiciones generales, sin adenopatías palpables ni visceromegalias, cardiopulmonar anodino y el resto normal.
+
+Pruebas complementarias
+La TC de control de linfoma de Hodgkin de noviembre de 2012 objetiva una masa pulmonar de 9 cm de eje máximo en lóbulo inferior izquierdo, de aspecto infiltrante asociada a adenopatía subcarinal que en la PET resultan sospechosas de malignidad, al igual que la captación patológica en el músculo ilíaco izquierdo, que en RM es sugerente de miositis osificante.
+Para el estudio histopatológico se realiza toma de muestras en 2 ocasiones de la lesión principal por broncoscopia y 1 guiada por TC, así como mediastinoscopia diagnóstica con toma de biopsia de adenopatías (niveles 2, 4L y 7) identificándose en todas ellas extensos cambios inflamatorios sin evidencia de malignidad, por lo cual se opta en Comité de Tumores por cirugía abierta con biopsia intraoperatoria cuyos resultados son concordantes con adenocarcinoma infiltrante.
+
+Diagnóstico
+Adenocarcinoma acinar moderadamente diferenciado de pulmón, T3N0M0 (estadio III).
+EGFR no mutado.
+
+Tratamiento
+1. Neumonectomía izquierda más linfadenectomía.
+2. Quimioterapia adyuvante con cisplatino-vinorelbina por 4 ciclos.
+
+Evolución
+Buena tolerancia al tratamiento quimioterápico, sin complicaciones tras el tercer ciclo.

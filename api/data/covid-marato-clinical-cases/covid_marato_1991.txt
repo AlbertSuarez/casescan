@@ -1,0 +1,57 @@
+Anamnesis
+Mujer de 53 años. Sin alergias conocidas, hábitos tóxicos ni patología previa de interés salvo la oncológica. Intervenida de cesárea, hemorroides y apendicectomía.
+
+Situación sociofamiliar: vive con su esposo (que es el cuidador principal y trabaja de celador en un hospital) y tienen dos hijos de 24 y 28 años. Es ama de casa y su situación basal previa a su ingreso es de dependiencia (índice de Barthel 40). Tienen un buen nivel de información sobre el diagnóstico y pronóstico de la enfermedad.
+
+Historia oncológica: desde julio de 2010 comienza con náuseas y vómitos postprandiales, y tras consultar en tres ocasiones al Servicio de Urgencias se realiza ecografía abdominal, objetivando engrosamiento de la pared antral, por lo que ingresa para estudio.
+
+Tras objetivar en al endoscopia hallazgos de linitis plástica y biopsia compatible con adenocarcinoma gástrico, se descarta afectación a distancia, y se programa para laparoscopia exploradora en septiembre de 2010, realizándose gastrectomía subtotal y reconstrucción Billroth II y se diagnostica de adenocarcinoma gástrico con células en anillo de sello, grado 3, pobremente diferenciado con abundante invasión perineural, márgenes quirúrgicos libres de infiltración neoplásica, pT2bN0/15M0 (estadio IB) con factores de mal pronóstico.
+
+Se decide tratamiento adyuvante según esquema Mac Donalds, finalizando tratamiento RT el 3/3/2011 (dosis total de 50,4 Gy: 28 sesiones, 1,8 Gy/sesión).
+
+Se mantiene estable, hasta que en julio de 2013 comienza con pérdida de peso severa y anorexia, realizándose el estudio de extensión que objetiva recidiva local con dudosa afectación peritoneal, por lo que, tras la realización de la PET negativa, es derivada para valoración de cirugía de rescate, que se desestima, por lo que se decide inicio de tratamiento con ECF (tras dos ciclos muestra mala tolerancia por mucositis y diarrea G2-3), por lo que se modifica por Folfox-6 (disminución de dosis tras el tercer ciclo por toxicidad hematológica), retirando el oxaliplatino tras el sexto ciclo por reacción alérgica grave, manteniendo 5-FU + leuco hasta completar siete ciclos más, finalizando en mayo de 2014.
+
+Tras respuesta parcial en las pruebas de imagen, se decide realizar una intervención sobre recidiva a nivel de la anastomosis (14/10/2014), con postoperatorio tórpido por aparición de fístula enteropancreática. AP: pT4bN0 (por infiltración de asa intestinal), estadio IIIb.
+
+Mantuvo revisiones sin evidencia de enfermedad hasta principios de marzo de 2015, cuando ingresa para estudio por un cuadro de varios meses de pérdida de peso cuantificada en 20 kg, con importante afectación del estado general, astenia intensa y náuseas pese al tratamiento con progestágenos, corticoides orales, suplementos proteicos y seguimiento en consultas de Nutrición. Portadora de port-a-cath® desde 2010.
+
+Exploración física
+A su llegada a planta, paciente estable hemodinámicamente. Afebril. Eupneica en reposo. Consciente, orientada y con sensorio plenamente conservado. Caquexia extrema y sarcopenia generalizada. Peso 32 kg. Talla 158 cm. A nivel infraclavicular derecho, reservorio subcutáneo sin datos de infección local. Resto de la exploración anodina.
+
+Pruebas complementarias
+» Analítica a su llegada (13-3-2015). Hemograma: anemia leve normocítica y normocroma. Serie blanca y plaquetaria normal. Bioquímica completa, incluyendo función hepática, CPK, troponinas, amilasa normal, salvo proteínas totales 4,79 mg/dl.
+» TC de tórax y abdomen sin contraste (16-3-2015): sin alteraciones significativas.
+» Estudio gastroduodenal (20-3-2015): sin alteraciones (tránsito rápido por yeyuno).
+» Ecocardiograma transtorácico (30-3-2015): masa móvil de unos 5 cm2 de superficie en la aurícula derecha, probablemente procedente de la vena cava superior que protruye durante la diástole hacia el ventrículo derecho. Derrame pericárdico leve posterior con fracción de eyección conservada y válvulas sin alteraciones.
+» Radiografía de tórax urgente (30-3-2015): aumento de densidad en la parte medial y posterior del lóbulo inferior derecho de nueva aparición.
+» RM craneal con contraste (1-4-2015): imágenes sugerentes de posibles embolismos milimétricos distribuidos por ambos hemisferios.
+» TC de tórax y abdomen con contraste (4-4-2015): tromboembolismo pulmonar con afectación de la arteria del lóbulo inferior derecho y múltiples ramas segmentarias. Condensación pulmonar en el lóbulo inferior derecho con derrame pleural paraneumónico y derrame pleural loculado izquierdo. Pequeñas opacidades pulmonares parenquimatosas periféricas y pequeños infiltrados pulmonares en el hemitórax izquierdo, uno de ellos con cavitación compatible con embolismos sépticos. Derrame pericárdico.
+Hígado de estasis. Ascitis e implantes peritoneales malignos.
+» Radiografía de tórax (7-5-2015): importante derrame pleural derecho con atelectasia compresiva del lóbulo inferior. Discreto derrame pleural izquierdo.
+» Ecocardiograma transtorácico (16-5-2015): masa móvil en el techo de la aurícula derecha de tamaño mucho más reducido que en estudios previos, limitada a la vena cava superior y sin protrusión hacia el ventrículo.
+
+
+Diagnóstico
+» Tromboembolismos sépticos pulmonares diseminados, secundarios a endocarditis aguda y bacteriemia por Staphylococcus capitis/ureoliticus
+» Adenocarcinoma gástrico reintervenido estadio IV (metástasis peritoneales).
+» Derrame pleural derecho paraneumónico recurrente evacuado mediante toracocentesis.
+» Desnutrición calórico-proteica severa que precisa nutrición parenteral.
+» Delirium hipoactivo en el contexto de sepsis y neoplasia.
+
+Tratamiento
+A su llegada iniciamos nutrición parenteral, aumentamos la dosis de corticoide y se pauta cinitaprida como procinético, mejorando la tolerancia a la dieta. Tras descartar datos de progresión de la enfermedad en las pruebas previamente referidas, se inician preparativos para el alta hospitalaria, pero el día previo a la misma la paciente presenta un cuadro séptico con hipotensión, fiebre con tiritona y deterioro del estado general, con agudización de las náuseas y los vómitos.
+
+Se solicitan hemocultivos de sangre periférica, urocultivo, orina, análisis y radiografía de tórax, detectando un cuadro compatible con cuadro séptico grave de origen pulmonar. Se pauta sueroterapia intensa, antieméticos y antibioterapia de amplio espectro por neumonía nosocomial en paciente inmunodeprimida.
+
+Evolución
+A las 48 horas nos informan de crecimiento en hemocultivos de sangre periférica Staphylococcus coagulasa negativo capitis/ureoliticus meticilín sensible, por lo que tras consultar con el Servicio de Infecciones se decide ampliar el espectro antibiótico y añadir linezolid, al tener mayor impregnación a nivel pulmonar. Pese a dichas medidas y los antitérmicos pautados, la paciente persiste con fiebre mantenida de 38 ºC y muy mal estado general (secreciones en la boca de coloración clara, espumosas; la paciente está nauseosa, muy decaída, con cuadro de delirium y disartria asociado). Ante la evolución tórpida se añade tratamiento antifúngico i.v. y se solicita una TC de tórax-abdomen urgente, un ecocardiograma y una RM craneal, que objetivan imagen de una gran masa de 5 cm2 a nivel de la aurícula derecha sugerente de endocarditis aguda con tromboembolismos sépticos pulmonares bilaterales diseminados con derrame pleural derecho en moderada cuantía asociado (probablemente paraneumónico), hígado de estasis y ascitis leve-moderada.
+
+La paciente presentó disnea progresiva en el contexto de derrame pleural y sobrecarga hídrica para tratamiento del shock séptico que precisó de toracocentesis evacuadora en tres ocasiones (débito > 2.750 cc en total), objetivando líquido inflamatorio sin afectación neoplásica.
+
+En reunión multidisciplinar (Cardiología, Infecciones, Radiología, UCI y Oncología) se descarta la opción de cirugía cardíaca dados el mal estado general y la progresión de la enfermedad de base, por lo que se decide tratamiento médico conservador (antibiótico dirigido frente al estafilococo aislado, con cloxacilina y amikacina, manteniendo linezolid); se inicia anticoagulación; se retira el foco de infección (aislándose estafilococo en punta del catéter similar al extraído en los hemocultivos de sangre periférica) y se canaliza una nueva vía central a nivel yugular izquierdo para nutrición parenteral y administración de medicación.
+
+Con dichas medidas, se consigue la desaparición de la fiebre y a las 3 semanas presenta mejoría radiológica, analítica (normalización de leucocitos, plaquetas y coagulación), ecocardiográfica (práctica desaparición de la masa auricular) y mejoría de reactantes inflamatorios (PCR pasa de 30 mg/dl a 4 mg/dl), por lo que se reduce el espectro antibiótico.
+
+Durante la evolución del cuadro se trabaja de forma continua el aspecto psicológico con la paciente y au familia junto a una psicóloga, enfermería y el equipo médico, entendiendo la gravedad del cuadro y aceptando el deterioro progresivo pese a todas las medidas tomadas.
+
+A pesar de ello, la paciente mantiene un deterioro clínico progresivo con persistencia de náuseas y vómitos en relación con secreciones bronquiales paraneumónicas de muy difícil control pese a la asociación de múltiples antieméticos. La paciente presenta un nuevo deterioro clínico, con disminución marcada del nivel de consciencia, agitación y fracaso multiorgánico que no responde a ltratamiento y fallece en paz, sin signos de sufrimiento a las 24 horas del deterioro tras 70 días de ingreso.

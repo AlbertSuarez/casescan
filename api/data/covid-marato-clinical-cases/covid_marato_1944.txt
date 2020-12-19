@@ -1,0 +1,29 @@
+Anamnesis
+Paciente mujer de 48 años sin alergias medicamentosas conocidas ni otros antecedentes personales de interés. Como antecedentes familiares destaca su abuela fallecida de posible neoplasia de ovario a los 35 años.
+
+Historia oncológica: diagnosticada en abril de 2004, a los 37 años de edad, a raíz de la autopalpación de un nódulo mamario, de carcinoma de mama bilateral, siendo tratada mediante mastectomía bilateral con linfadenectomía izquierda y ganglio centinela derecho. Los resultados anatomopatológicos fueron de CDI de mama derecha grado III, pT1aN0 (mama derecha), RE 90%, RP 10%, Her-2 desconocido y CDI de mama izquierda grado III, pT3pN1(2/31) con RE 60%, RP 60% HER2 desconocido.
+
+Exploración física
+Muy buen estado general con un índice de Karnofsky del 100%. Destacan a la exploración cicatrices de mastectomía bilateral en perfecto estado sin otros hallazgos significativos.
+
+Pruebas complementarias
+Se realiza estudio de extensión con TC toracoabdominal, gammagrafia ósea, analítica completa con hemograma, ionograma, función renal y hepática, y ventriculografia sin hallazgos significativos, descartándose evidencia alguna de afectación a distancia.
+
+Diagnóstico
+CDI de mama derecha grado III, pT1aN0 (mama derecha), RE 90%, RP 10% Her-2 desconocido y CDI de mama izquierda grado III, pT3pN1(2/31) con RE 60%, RP 60%, Her-2 desconocido con estudio de extensión negativo, pero con alto riesgo de recidiva (grado III, bilateral, ganglios axilares izquierdos afectados).
+
+Tratamiento
+Dado el alto riesgo de recidiva, realiza tratamiento adyuvante con QT según esquema FEC75 durante seis ciclos con excelente tolerancia, y posterior tratamiento hormonal con tamoxifeno e inhibidores de la LHRH mensual durante 5 años, finalizando en septiembre de 2009.
+
+Evolución
+Tras la visita de asesoramiento genético se objetiva que se cumplen criterios de predisposición hereditaria al cáncer de mama y ovario (cáncer de mama bilateral en paciente menor de 50 años), por lo que se realiza estudio en línea germinal BRCA1, BRCA2, con resultado negativo no informativo.
+
+En octubre de 2006 se diagnostica, a raíz de una tumoración en la extremidad inferior derecha, de leiomiosarcoma de partes blandas en dicha extremidad pT1a grado II, Ki-67 15%, realizándose resección completa sin necesidad de adyuvancia posterior.
+
+En octubre de 2012 se evidencia, en una revisión ginecológica de rutina, la aparición de un quiste ovárico complejo, por lo que se realiza anexectomía bilateral con resultado anatomopatológico de cistoadenocarcinoma seroso papilar de alto grado estadio IA de la FIGO. Realiza posterior adyuvancia con carboplatino y taxol, completando seis ciclos.
+
+A los 4 meses del fin de la adyuvancia del carcinoma de ovario se diagnostica, a raíz de un hallazgo casual en la TC de tórax de control, de adenocarcinoma mixto de pulmón estadio IA, realizándose cirugía reglada sin necesidad de adyuvancia.
+
+Dados los antecedentes de múltiples tumores en un mismo individuo, y cumpliéndose los criterios de Chompret (Tinat, 2009) para estudio en línea germinal del p53, se decide realizarlo tras asesoramiento genético, identificándose la mutación c. 524 G>A de p53.
+
+Actualmente sigue controles con control clínico semestral y analítica general, FCS cada 2 años y RM de cuerpo entero anual, así como control dermatológico, sin evidenciarse signos de recidiva tumoral hasta la fecha.

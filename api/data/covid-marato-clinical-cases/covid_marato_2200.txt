@@ -1,0 +1,22 @@
+Anamnesis
+Mujer de 63 años, no fumadora, con antecedente de carcinoma ductal infiltrante de mama derecha T1N0M0, intervenido en 1996, sin evidencia de recidiva.
+Consulta a su médico de Atención Primaria por tos irritativa en octubre de 2017. Se solicita radiografía simple de tórax que describe atelectasia desde hilio derecho.
+
+Exploración física
+La paciente presenta hipoventilación en hemitórax derecho, con el resto de la exploración física anodina, presentando buen estado general (ECOG 0).
+
+Pruebas complementarias
+Se completa estudio con TC toracoabdominopélvica que describe masa heterogénea en lóbulo medio de 39 mm, que se extiende hacia hilio con infiltración de la arteria lobar superior derecha y de la arteria interlobar, con numerosos nódulos pleurales bilaterales.
+Se realiza fibrobroncoscopia con biopsia bronquial no significativa, y cepillado bronquial con resultado de adenocarcinoma, compatible con origen pulmonar.
+Se lleva a cabo estudio molecular en el bloque celular del cepillado con resultado de mutación de EGFR con deleción del exón 19 y mutación T790M en el exón 20.
+Al considerar en un inicio que la muestra del cepillado podría no ser significativa para el diagnóstico molecular, se realizó biopsia pleural, que es concordante con el de la biopsia bronquial (deleción exón 19, mutación T790M). Se realiza también estudio de mutaciones del gen EGFR en ADN libre circulante con resultado de deleción exón 19.
+Además, en el diagnóstico, antes de recibir estos resultados, se ofrece a la paciente participar en el ensayo BFAST, en el que se realiza NGS en sangre (Foundation medicine®), detectándose alteración en EGFR R574Q, como variante de significación incierta, no cumpliendo criterios de inclusión del ensayo.
+
+Diagnóstico
+Con el juicio clínico de adenocarcinoma de pulmón estadio IVa EGFR mutado deleción exón 19 y mutación T790M exón 20 de debut, se solicita tratamiento de primera línea con osimertinib 80 mg/día.
+
+Tratamiento
+Inicia en diciembre de 2017 tratamiento de primera línea con osimertinib 80 mg/día.
+
+Evolución
+La paciente presenta excelente tolerancia al tratamiento médico. En la TC de reevaluación a los dos meses se describe respuesta parcial. Continúa tratamiento con osimertinib en la actualidad, manteniendo respuesta parcial.

@@ -1,0 +1,55 @@
+Anamnesis
+Mujer de 38 años con los siguientes antecedentes personales:
+ Sin antecedentes familiares oncológicos ni alergias medicamentosas conocidas.
+ Fumadora de 10 cigarrillos-día.
+ Menarquia a los 12 años. G2A1P1. Lactancia materna 11 meses.
+ Intervenida de herniorrafía umbilical.
+ Profesión: técnico de radiología.
+HISTORIA ONCOLÓGICA:
+Septiembre de 2010 (gestante en primer trimestre): se diagnostica de carcinoma de mama lobulillar infiltrante de mama derecha, RE 87 %, RP 69 %, HER-2 +++, Ki 67 62 %. Se interrumpe la gestación, se administra quimioterapia con intención neoadyuvante mediante esquema EC (90) X 4 ciclos seguida de docetaxel + trastuzumab hasta marzo de 2011, siendo intervenida en abril de ese mismo año, con respuesta patológica completa en la mama, afectación de dos ganglios de los 11 extirpados, catalogándose como ypT0N1Mx.
+Junio de 2011: recibe radioterapia adyuvante e inicia hormonoterapia con tamoxifeno 20 mg/24 h, que mantiene durante 5 años.
+HISTORIA ACTUAL
+En diciembre de 2016 acude a Urgencias por cuadro de dolor dorsolumbar intermitente con empeoramiento en las últimas dos semanas, acompañado de parestesias en extremidades, debilidad en miembros interiores y pérdida del control esfinteriano en las últimas 48 horas. Queda ingresada a cargo de Neurología.
+
+Exploración física
+ Buen estado general. Consciente, orientada, colaboradora y eupneica. Pupilas isocóricas y normorreactivas a la luz. Movimientos oculares extrínsecos conservados. No hay afectación de las funciones superiores.
+ Paraparesia con balance 3/5 en MII y 4/5 en MID. Arreflexia rotuliana y aquílea. Reflejo cutáneo-plantar indiferente bilateral. Hipoestesia tacto-algésica con nivel en D8. No hay dismetría ni disdiadococinesia.
+ Auscultación cardiopulmonar normal.
+ Exploración abdominal normal.
+
+Pruebas complementarias
+ Hemograma normal.
+ Hemostasia y coagulación normal.
+ Bioquímica normal.
+ Sedimento de orina normal.
+ TC de cráneo urgente normal.
+ Cultivo y Gram de LCR: sin hallazgos.
+ Primera citología de LCR: sin células neoplásicas.
+ RMN craneal: sin hallazgos patológicos.
+ RMN cervical y dorsal: no se observan signos de mielopatía ni de carcinomatosis meníngea.
+ Protrusión discal C5-C6. Hemangioma D7.
+ Electromiograma: discreto patrón neurógeno crónico en musculatura de MMII, sin signos degenerativos agudos.
+ Potenciales evocados: leve afectación de la vía visual bilateral en fibras de visión central, leve afectación extraaxial de la vía acústica.
+ Ac. anti-NMO, antineuronales y antigangliósidos negativos.
+ Marcadores tumorales: normales salvo Ca 15,3 en 82,7 U/ml.
+ Nueva citología de LCR (27/01/2017): infiltración por carcinoma (PanCK +) con GATA3 +, lo que orienta hacia origen mamario.
+
+Diagnóstico
+Infiltración meníngea por carcinoma de origen mamario en paciente con antecedente de carcinoma lobulillar de mama en 2010.
+
+Tratamiento
+Se asume a la paciente a cargo de Oncología Médica y, tras revisión bibliográfica, se inicia tratamiento intratecal semanal:
+» Primer vial (5 ml): trastuzumab 40 mg.
+» Segundo vial (5 ml): hidrocortisona 20 mg + citarabina 30 mg + metotrexato 12 mg.
+Como tratamiento de soporte la paciente requiere fentanilo transdérmico 75 mcg/72 horas por dorsalgia.
+
+Evolución
+Tras dos semanas se procede a alta hospitalaria el día 01/03/2017.
+ Posteriormente en el seguimiento en CCEE, continúa con la administración semanal intratecal de los fármacos anteriormente descritos, con realización de citología de LCR en cada sesión.
+ El 08/03/2017 inicia tratamiento sistémico con lapatinib 1.250 mg vía oral cada 24 horas.
+ El 30/03/2017 es intervenida mediante salpingooforectomía bilateral laparoscópica, iniciando letrozol 2,5 mg/24 horas vía oral el 05/04/2017.
+ Progresivamente, la paciente experimenta mejoría del dolor y mayor independencia funcional.
+ Evolución del marcador 15,3: 82,7 UI/ml (29/12/2017); 66,7 UI/ml (16/03/2017); 44,7 UI/ml (05/04/2017); 38,5 UI/ml (20/04/2017).
+ Anatomía patológica de salpingooforectomía bilateral: metástasis de carcinoma de mama con el siguiente estudio inmunohistoquímico: RE 100 %, RP 100 %, HER-2 +++, Ki 67 20 %.
+ El 20/04/2017 se objetiva por primera vez citología negativa de LCR, que se mantiene el 04/05/2017.
+ 7/05/2017: la paciente experimenta cuadro de hipotensión licuoral que precisa ingreso en observación de Urgencias, por lo que se modifica pauta a esquema trisemanal.

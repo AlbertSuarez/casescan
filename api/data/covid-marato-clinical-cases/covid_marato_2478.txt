@@ -1,0 +1,26 @@
+Anamnesis
+Mujer de 51 años, sin alergias medicamentosas conocidas. No antecedentes médicos de interés.
+Intervenida de lesión benigna de la mama derecha y quistectomía en la trompa de Falopio. Fumadora de 1 paquete/día. No embarazos. Menarquia a los 10 años y menopausia a los 46 años.
+
+Acude a su médico de cabecera por una lesión eritematosa e inflamatoria en la mama izquierda, orientada como mastitis, para la que se pauta tratamiento antibiótico.
+
+Exploración física
+Estable hemodinámicamente. ECOG 0. ACP: dentro de la normalidad. Tumor inflamatorio que ocupa los cuatro cuadrantes de la mama izquierda, con mayor afectación inflamatoria en ambos cuadrantes inferiores. No adenopatías palpables axilares ni supraclaviculares.
+
+Pruebas complementarias
+Se inicia estudio de manera ambulatoria, con la realización de las siguientes pruebas complementarias:
+» Mamografía (27/6/14): engrosamiento difuso de la piel de la mama izquierda. Marcado aumento de la reticulación del tejido graso subcutáneo. BIRADS 0.
+» Resonancia magnética (RM) (3/7/14): notable asimetría. Mama izquierda con engrosamiento de la piel, el pezón y la areola. Presencia de un ganglio linfático de 14 mm en la axila izquierda.
+» Biopsia ecodirigida con resultado anatomopatológico: carcinoma intraductal de alto grado, con necrosis y microcalcificaciones. Receptores hormonales (RH) negativos, HER2 positivo, Ki-67 27%
+» PAAF axilar: compatible con metástasis de acenocarcinoma
+» Se solicitan una TC toracoabdominal (TC TA) y una gamagrafía ósea (GGO), que descartan metástasis.
+» Se solicita una ventriculografía isotópica para la valoración de la función cardíaca previa al tratamiento con antraciclina (FEV 62%).
+
+Diagnóstico
+Carcinoma intraductal de mama izquierda, cT4dNxM0 (estadio III), RH-, HER2+, Ki-67 27%.
+
+Tratamiento
+Paciente candidata a quimioterapia neoadyuvante; se inicia en agosto de 2014 con esquema antraciclina + taxanos + trastuzumab + pertuzumab.
+
+Evolución
+La paciente realiza cuatro ciclos de quimioterapia con el esquema arriba indicado, presentando como complicación durante este período neutropenia grado 3. El 28 de octubre de 2014 acude a consulta para continuar el tratamiento. Clínicamente, presenta astenia grado 3, con aparición de eritema en el surco intermamario. Se solicita punch de la lesión, con positividad para carcinoma de origen mamario, RH-, HER2+, por lo tanto se trata de una progresión local en el curso de la neoadyuvancia. Valorada por Cirugía, que descarta cirugía de rescate por extensa afectación cutánea, se realiza un nuevo estudio de estadificación con TC TA y GGO, sin lesiones metastásicas. Valorado el caso en comité de mama, se decide cambio a segunda línea con capecitabina + lapatinib. Actualmente, la paciente ha realizado seis ciclos, con total desaparición de la lesión inflamatoria en la mama, y con RM sin captaciones patológicas nodulares focales ni adenopatías de tamaño patológico a nivel axilar, ni en las cadenas mamarias internas. Actualmente está en espera de mastectomía radical y posterior tratamiento con radioterapia local.

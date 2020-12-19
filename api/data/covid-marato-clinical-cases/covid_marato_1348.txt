@@ -1,0 +1,26 @@
+Anamnesis
+Se trata de una mujer nacida en el año 1961, sin alergias ni hábitos tóxicos, ni antecedentes médicos de interés salvo un cáncer de mama en 2005.
+Había tenido su primera menstruación a los 11 años, es madre de 1 hijo al cual dio lactancia durante 6 meses y no ha tomado anticonceptivos.
+Vive con su marido e hijo, y su profesión es abogada.
+Su historia oncológica empieza en abril de 2005, cuando es intervenida mediante tumorectomía y linfadenectomía de mama izquierda con resultado de carcinoma ductal infiltrante mal diferenciado, multifocal con receptores de estrógenos y progesterona positivos, HER-2 negativo y Ki67 del 40-%, márgenes quirúrgicos positivos y afectación de 9 de los 21 ganglios linfáticos aislados.
+Posteriormente es intervenida mediante mastectomía obteniéndose márgenes negativos. Por tanto, ante un estadio pTxN2a, luminal B se completa estudio de extensión con TC toracoabdominopélvica que es negativa y se inicia tratamiento adyuvante con quimioterapia, según esquema FAC x 6 (fluorouracilo 500 mg/m2 D1, adriamicina 50 mg/m2 D1 y ciclofosfamida 500 mg/m2, D1 intravenosos cada 21 días) entre mayo y septiembre de 2005, radioterapia externa adyuvante 45Gy sobre pared torácica-supraclavicular-axilar y hormonoterapia con tamoxifeno 20 mg diario y goserelina trimestral desde octubre de 2005.
+La tolerancia al tratamiento con quimioterapia fue buena, salvo por diarrea grado 1, alopecia g2 y astenia grado 1; en cuanto a la radioterapia, le ocasionó radiodermitis grado 1 y la hormonoterapia sofocos grado 1.
+En abril de 2008, es llevada a Urgencias por cuadro de disartria y desorientación de 30 minutos de duración. Mientras está siendo atendida, presenta convulsión tónico-clónica por lo que precisa ingreso en UCI.
+
+Exploración física
+A la exploración física no destaca nada salvo la disartria y desorientación que mejoran tras la instauración de tratamiento corticoide.
+
+Pruebas complementarias
+En cuanto a la analítica de sangre su resultado es anodino.
+Se realiza TC craneal donde se objetiva lesión parietal corticosubcortical izquierda de 25 x 25 x 13 mm con edema perilesional. Se completa estudio con resonancia encefálica que confirma dicha lesión única sugerente de metástasis como primera opción, se realiza también TC toracoabdominopélvica y gammagrafía ósea, en las que no se visualiza enfermedad a distancia.
+
+Diagnóstico
+Recaída cerebral única de cáncer de mama.
+
+Tratamiento
+Con estos datos es intervenida el 8 de mayo de 2008 mediante craneotomía y exéresis total de lesión parietal izquierda, con resultado anatomopatológico de metástasis de carcinoma mal diferenciado de probable origen mamario con receptores hormonales negativos y HER-2 positivo.
+
+Evolución
+Tras el tratamiento inicial con corticoterapia y la intervención, la paciente se recupera completamente de la afectación neurológica. Se completa tratamiento con radioterapia holocraneal 40Gy en junio 2008, y se inicia quimioterapia con vinorelbina 25 mg/m2 semanales y trastuzumab 6 mg/m2 trisemanales intravenosos que lleva desde julio 2008 hasta enero de 2009, con buena tolerancia salvo por estreñimiento, momento en el que se decide continuar con anastrozol 1 mg/m2, goserelina trimestral y trastuzumab trisemanal.
+Continuó tratamiento con trastuzumab hasta enero de 2010, completando 18 meses y el anastrozol-goserelina hasta enero de 2014, completando 5 años (más los 2 años y medio que había llevado previamente de tamoxifeno-goserelina).
+Actualmente la paciente, 11 años después de la recaída cerebral única, sigue controles anuales sin evidencia de reaparición de la enfermedad.

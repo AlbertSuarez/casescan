@@ -1,0 +1,28 @@
+Anamnesis
+Varón de 77 años con antecedentes personales de dislipemia, hernias discales no intervenidas y sin antecedentes de criptorquidia.
+Acudió a su médico de atención primaria por aumento del tamaño del escroto de 6 meses de evolución.
+El aumento de tamaño fue progresivo y asimétrico. No presentó fiebre ni aumento de la temperatura a nivel escrotal.
+El paciente fue derivado al servicio de Urología para completar el estudio. Se realizó una ecografía escrotal donde se observó una lesión sólida, hipoecoica y bien definida aunque no se delimitó cápsula, siendo estos hallazgos sugestivos de una lesión sólida tumoral maligna. El paciente fue sometido a una orquiectomía inguinal derecha sin incidencias.
+ 
+Exploración física
+ECOG 0. Hemodinamicamente estable y afebril. La exploración física por aparatos fue anodina. No se palparon adenopatías supraclaviculares, axilares o inguinales. No se observó presencia de ginecomastia. La cicatriz de la orquiectomía inguinal derecha se encontraba reciente pero sin signos de complicación.
+
+Pruebas complementarias
+» TC de tórax, abdomen y pelvis de extensión: En mediastino y regiones hiliares se visualizaron varias imágenes nodulares la mayoría subcentimétricas sugestivas de pequeñas adenopatías inespecíficas, existiendo una de tamaño ligeramente superior al centímetro en localización paratraqueal derecha.
+» En abdomen se visualizaron abundantes adenopatías retroperitoneales de tamaño significativo en los grupos inter-aortocava, posteriores a la vena cava inferior, paraaórticos izquierdos, así como en la bifurcación aortoilíaca compatibles con adenopatías metastásicas.
+» PET-TC de extensión realizado para la caracterización de las adenopatías de significado incierto objetivadas en TC: Se observó una lesión intensamente hipermetabólica sugestiva de malignidad en el espacio supraclavicular. En tórax se objetivaron múltiples adenopatías mediastínicas e hiliares discretamente hipermetabólicas no sugestivas de malignidad. En abdomen y pelvis se confirmaron los hallazgos del TC visualizándose múltiples adenopatías hipermetabólicas sugestivas de malignidad a nivel reroperitoneal.
+» Hemograma: sin alteraciones.
+» Bioquímica incluyendo perfil renal, hepático y lipídico sin alteraciones. La LDH, AFP y la beta-HCG realizados previos a la cirugía se encontraban dentro de los límites de la normalidad.
+» Anatomía patológica de la orquiectomía inguinal derecha: tumor de cordones sexuales / estroma gonadal maligno (OMS 2004) con componentes de tumor de células de Sertoli, estroma gonadal pobremente diferenciado y áreas de morfología sugestiva de componente de tumor de células de la granulosa. La malignidad queda acreditada por el tamaño (más de 5 cm), necrosis, su comportamiento infiltrante de albugínea, cubiertas testiculares, epidídimo y cordón espermático, permeación vascular en túnica vasculosa y alto índice proliferativo.
+
+Diagnóstico
+Tumor de cordones sexuales / estroma gonadal maligno (OMS 2004) pT3 cN1 cM1a S0, estadio IIIA.
+
+Tratamiento
+Se presentó el caso en el comité multidisciplinar de tumores genitourinario y se decidió inicar tratamiento poliquimioterápico de 1ª línea según el esquema TIP (paclitaxel, ifosfamida, cisplatino).
+
+Evolución
+Tras haber completado 6 ciclos de tratamiento quimioterápico según el esquema TIP de Octubre de 2014 hasta Febrero de 2015, se observó una respuesta clínica parcial. Como toxicidades se registraron astenia grado 1, vómitos grado 1 y neuropatía grado 1.
+En TC de Julio de 2015 se objetivó un progreso adenopático a nivel retroperitoneal por lo que recibió una segunda línea de tratamiento con 6 ciclos de carboplatino y paclitaxel. Presentó astenia grado 1 y por neuropatía grado 3 se suspendió el paclitaxel tras el tercer ciclo.
+En Febrero de 2016 se realizó nuevo TC de reevaluación y además se solicitó una gammagrafía ósea por molestias lumbares. En el TC se objetivó una nueva progresión ganglionar y, en la gammagrafía ósea se observó de forma indirecta una lesión osteolítica en L5. En Marzo de 2016 se remitió a radioterapia antiálgica, recibiendo una dosis total de 3000cGy fraccionada en 10 sesiones. Tras finalizar el tratamiento radioterápico inició en Abril 2016 tratamiento quimiotrápico de tercera con cisplatino asociado a etopósido durante 5 días cada 21 días.
+Actualmente el paciente ha recibido 3 ciclos del tratamiento con cisplatino y etopósido con aceptable tolerancia y solo presentó astenia grado 1 como única toxicidad. Se solicitó una TC de reevaluación que se encuentra pendiente de realizar.

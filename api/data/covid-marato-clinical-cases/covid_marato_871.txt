@@ -1,0 +1,22 @@
+Anamnesis
+Mujer de 47 años, diagnosticada en marzo de 2015 de carcinoma ductal infiltrante de mama derecha, estadio IIIA, subtipo luminal B2 por el que comenzó tratamiento con QT neoadyuvante siguiendo el esquema docetaxel, carboplatino y trastuzumab (TCH). Tras primer ciclo, se objetiva, además de toxicidad hematológica, cambio en la situación tumoral pasando a estadio IV por aparición de metástasis óseas en el esqueleto axial, por lo que se modifica el esquema retirando carboplatino y añadiendo denosumab. En agosto de 2015 finaliza el tratamiento continuando posteriormente con trastuzumab de mantenimiento y denosumab.
+Con este tratamiento, se consiguió muy buena respuesta, tanto clínica como radiológica, lo que llevó, en marzo de 2016, a realizar mastectomía derecha y linfadenectomía axilar paliativa.
+En el estudio histopatológico de la pieza quirúrgica, se objetiva cambio a subtipo luminal A por negativización del HER-2, y se inicia tratamiento con tamoxifeno, retirando previamente trastuzumab.
+En octubre de 2016, tras palparse la paciente un nódulo en CSE de mama izquierda, se diagnostica tras estudio mediante mamografía y punción aspiración con aguja fina (PAAF), de carcinoma lobulillar infiltrante tipo mixto (ductal y lobulillar) localmente avanzado.
+
+Exploración física
+En ese momento, la paciente presenta deterioro clínico en el último mes, con astenia y anorexia progresivas, discreto recorte de diuresis sin clínica miccional acompañante, así como aumento del perímetro abdominal.
+Durante la exploración, llama la atención el abdomen distendido aunque depresible, doloroso en la palpación en hipogastrio sin signos de irritación peritoneal ni masa palpable.
+Sin otros hallazgos relevantes por aparatos.
+
+Pruebas complementarias
+Se realiza TC de tórax abdomen y pelvis como estudio de extensión en el que se encuentra carcinomatosis peritoneal y dos masas ováricas metastásicas con ureterohidronefrosis bilateral secundaria. En analítica, se objetiva insuficiencia renal aguda grave con niveles de creatinina de 7,16 mg/dl. En este punto del proceso, la paciente presenta oligoanuria de unos días de evolución.
+
+Diagnóstico
+Una vez obtenidos los resultados de inmunohistoquímica para completar el estudio anatomopatológico que confirman positividad para receptores de estrógeno y progesterona, Ki 67 del 20 % y positividad del HER-2, se obtiene el diagnóstico definitivo de carcinoma lobulillar infiltrante tipo mixto (ductal y lobulillar) de mama izquierda, localmente avanzado y subtipo luminal A. Este último corresponde a un tumor metacrónico aparecido en mama contralateral al carcinoma infiltrante de mama derecha antes mencionado.
+
+Tratamiento
+Ante el deterioro clínico y los resultados de las pruebas complementarias, se cursa ingreso en planta de Oncología, durante el cual se lleva a cabo nefrostomía percutánea (NPC) bilateral en dos tiempos con el objetivo de conseguir la normalización de la función renal. Una vez conseguido, se decide comenzar tratamiento según esquema paclitaxel, pertuzumab y trastuzumab (TPH) con buena tolerancia y sin toxicidades agudas.
+
+Evolución
+Actualmente, nuestra paciente ha recibido 6 ciclos de tratamiento y continúa mantenimiento con PH. Presenta en última TC desaparición de la carcinomatosis peritoneal y disminución del tamaño de las masas ováricas con mejoría en la hidronefrosis bilateral. Se ha conseguido diuresis espontánea y cierre de ambas nefrostomías. La paciente se mantiene asintomática, con ECOG 0 y conserva un excelente estado general.

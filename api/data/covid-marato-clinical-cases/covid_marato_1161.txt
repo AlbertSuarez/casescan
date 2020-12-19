@@ -1,0 +1,48 @@
+Anamnesis
+Varón de 71 años, con antecedentes personales de exfumador, HTA, DM tipo 2, dislipemia, EPOC grave con oxigenoterapia domiciliaria en seguimiento por Neumología, diverticulosis colónica con rectorragia, que precisó de ingreso hospitalario en una ocasión.
+
+En septiembre de 2014, el paciente acude a revisión en la consulta externa de Neumología donde refiere pérdida de 6 kg de peso. En la radiografía de tórax presenta aumento de densidad pseudonodular en el lóbulo inferior derecho (LID).
+
+Se solicita una tomografía computarizada (TC) toracoabdominal preferente, que informa de masa de bordes espiculados de 33 x 45 x 45 mm (diámetros AP, T y LG, respectivamente) en la región posterior y periférica del segmento apical del LID, que ocupa el espacio subpleural, sugestiva de carcinoma broncogénico. Nódulos satélite hipodensos anteriores a la masa de 16 x 11 mm y de 11 x 9 mm.
+
+Adenopatías mediastínicas (paratraqueal baja derecha de 39 x 40 mm con centro hipodenso sugestivo de necrosis y morfología redondeada, en relación con adenopatía patológica y subcarinal de 12 mm) e hiliares derechas de aspecto hipodenso de 9 y 11 mm, respectivamente. Severos signos de enfermedad destructiva del parénquima pulmonar, tipo enfisema centroacinar, de predominio en lóbulos superiores.
+
+Se realiza una fibrobroncoscopia donde no se observan anomalías, siendo las cuerdas vocales, tráquea, carina traqueal y ambos sistemas bronquiales normales. Se realiza cepillado bronquial, siendo la citología negativa para células malignas, por lo que se decide ingreso programado para realizar punción aspiración por aguja fina (PAAF) guiada por TC del nódulo pulmonar.
+
+Exploración física
+Al examen físico, el paciente se encuentra consciente, orientado, eupneico en reposo, afebril, hemodinámicamente estable con saturación de O2 al 97% con gafas nasales a 2 litros.
+
+En la inspección de la piel, destaca reacción eritematosa de predominio en ambas áreas escapulares y a la auscultación pulmonar presenta hipoventilación global. El resto de exploración es anodina.
+
+Pruebas complementarias
+» En la analítica no presenta alteraciones bioquímicas ni hematológicas de interés, siendo los marcadores tumorales normales.
+» Se realiza PAAF de la masa del segmento apical del LID sin incidencias y sin observarse neumotórax pospunción. Se envía el material a anatomía patológica, siendo el estudio histológico compatible con carcinoma epidermoide pobremente diferenciado.
+
+Diagnóstico
+Carcinoma epidermoide de pulmón T3N1-2M0, estadio IIIA.
+
+Tratamiento
+Una vez alcanzado el diagnóstico definitivo, se realiza interconsulta (IC) al Servicio de Oncología Médica.
+
+Al momento de la valoración, el paciente presenta astenia intensa con empeoramiento de la erupción cutánea de predominio en ambas áreas escapulares que es pruriginosa y exudativa. Además, presenta debilidad generalizada de predominio proximal de brazos y piernas y refiere disfagia para sólidos.
+
+Se realiza IC a Dermatología donde se describe erupción de 1-2 meses evolución que consiste en eritema pruriginoso ligeramente edematoso en la región facial de predominio periocular y cuero cabelludo, así como placas eritematodescamativas en la región dorsal, los muslos y en las manos. En el dorso de los dedos presenta placas rosadas induradas y en la espalda área erosivocostrosa no infiltrada sobre placa inflamatoria. Asocia gran debilidad de la cintura escapular y pélvica.
+
+La impresión diagnóstica es de dermatomiositis paraneoplásica.
+
+Como tratamiento se indica hidratación, betametasona/gentamicina tópico, antihistamínicos si hay prurito y corticoides sistémicos (prednisona 0,5-1 mg/kg/día hasta control de la miositis y clínica cutánea), presentando mejoría de las lesiones dérmicas.
+
+Además, se amplía el estudio solicitando espirometría, poniendo de manifiesto alteración obstructiva muy grave [FVC 2,41 (81%); FEV1 0,67 (32%); FEV1/FVC 28%). Se realiza una TC de cráneo sin evidencia de afectación tumoral a ese nivel y solicita una nueva TC de tórax, abdomen y pelvis, donde se observa como nuevo hallazgo compresión de VCS por adenopatía patológica mediastínica, por lo que se realiza cavografia superior con estudio del sistema venoso superior derecho e izquierdo, incluyendo tronco innominado-cava, sin observarse estenosis en los ejes ni circulación colateral.
+
+Bajo el juicio diagnóstico de carcinoma epidermoide de pulmón localmente avanzado en paciente no subsidiario de cirugía ni radioterapia por función ventilatoria, se propone tratamiento específico de su enfermedad neoplásica según esquema de gemcitabina-vinorelbina con intención paliativa. El paciente acepta y se administra el primer ciclo con buena tolerancia aguda.
+Posteriormente, el paciente es dado de alta con tratamiento corticoideo (metilprednisolona 16 mg cada 8 horas), antihistamínico y antiemético, además de su tratamiento habitual.
+
+Evolución
+A las dos semanas el paciente acude a la consulta externa de Oncología con aceptable estado general y sin alteraciones analíticas relevantes. Se pauta segundo ciclo de quimioterapia y se indica iniciar pauta descendente del corticoide.
+
+A los cinco días el paciente acude a Urgencias por distermia. En las pruebas complementarias, se objetiva elevación del PCR con leucocitosis y 14% de cayados por lo que, ante sospecha de cuadro neumónico, en el que no se objetiva infiltrado claro, se inicia tratamiento con levofloxacino 500 mg y ceftriaxona 2 g e ingresa a cargo de Oncología Médica.
+
+Refiere odinofagia y empeoramiento de la disfagia, que es progresiva hasta provocar episodios de atragantamiento con alimentos sólidos y líquidos.
+Se solicita esofagograma que resulta no concluyente por aspiración de parte del contraste hidrosoluble, suspendiéndose el estudio.
+
+Tras plantear la situación con el paciente y la familia, en el que se valora la posibilidad de realizar una gastrostomía para alimentación enteral, y discutir nuevamente la naturaleza de su enfermedad neoplásica, se decide, de manera consensuada, realizar IC a la Unidad de Cuidados Paliativos para manejo y seguimiento exclusivamente sintomático.

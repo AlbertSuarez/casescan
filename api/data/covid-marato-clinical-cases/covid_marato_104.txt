@@ -1,0 +1,30 @@
+Anamnesis
+Paciente varón de 64 años con los siguientes antecedentes personales a destacar: fumador de 10 cigarrillos-día, gammapatía monoclonal IgG-lambda y poliartritis seronegativa para la que había realizado tratamiento con metotrexato.
+Se diagnostica en marzo de 2018 durante un estudio de anorexia y dispepsia de años de evolución de linfoma de la zona marginal extranodal tipo MALT estadio IVB mediante una biopsia endoscópica gástrica. Recibió tratamiento con seis ciclos del esquema R-CHOP (incluye rituximab, ciclofosfamida, doxorrubicina, vincristina y prednisona), entrando en respuesta completa.
+En noviembre de 2018, en el estudio de reevaluación de respuesta tras finalizar el tratamiento, es diagnosticado mediante nueva biopsia gástrica endoscópica de transformación a LPB, sin más afectación en el estudio de extensión. Se inició entonces tratamiento con etopósido, metilprednisolona, citarabina y cisplatino (ESHAP), recibiendo un único ciclo en octubre seguido de radioterapia sobre volumen tumoral gástrico con 30 Gy en 15 días en diciembre de 2018.
+En diciembre, acude a consulta por cuadro subagudo de dos semanas de evolución de desorientación, afasia motora y debilidad en miembros inferiores, no asociando fiebre, cefalea, vómitos ni ninguna otra sintomatología, decidiéndose en ese momento ingreso en planta para estudio del cuadro.
+
+Exploración física
+A nivel neurológico, destacaba en el ingreso desorientación temporal, disnomia y pérdida de fuerza de miembro inferior. Sin adenopatías ni masas abdominales palpables, auscultación cardiorrespiratoria normal, así como examen de miembros.
+
+Pruebas complementarias
+- Analítica urgente: sin alteraciones destacables.
+- TC cráneo urgente: no se objetivan lesiones ocupantes de espacio ni lesiones isquémicas agudas/subagudas. Foco hipodenso subcortical frontal izquierdo.
+- PET/TC cuerpo: disminución de captación de córtex cerebral del hemisferio izquierdo, especialmente en zonas frontales, parietales y temporales, así como regiones talámicas y ganglios basales izquierdos y hemisferio cerebeloso derecho. Dichas alteraciones orientan a origen vascular. Además, masa de nueva aparición en contacto con riñón derecho no visualizada en PET previas de seguimiento.
+- Biopsia masa retroperitoneal: infiltración linfoma plasmablástico.
+- RM cerebral: lesión irregular frontal izquierda que no realza con contraste y con aumento de vascularización, impresionando de origen neoplásico, posiblemente astrocitoma difuso. Lesiones hiperintensas puntiformes en FLAIR y T2 en sustancia blanca subcortical compatibles con arteriopatía de pequeño vaso. Lesión cerebelosa derecha de aspecto encefalomalácico.
+Estudio de líquido cefalorraquídeo: bioquímica normal, tinción Gram sin microrganismos, cultivos negativos, citometría con ausencia de datos de infiltración por linfoma, PCR virus herpes y varicela zoster negativas.
+- Electroencefalograma: actividad sin anomalías.
+- Biopsia lesión cerebral: cambios compatibles con Leucoencefalopatía multifocal progresiva (LMP) con positividad para anticuerpo SV-40 (virus JC). Infiltrados inflamatorios perivasculares, macrófagos y células oligodendrogliales con núcleos grandes atípicos con cromatina borrada. Sin evidencia de infiltración por neoplasia glial primaria ni por linfoma. Moderada positividad nuclear para VHS-I con patrón granular.
+- Serología VIH: negativa.
+
+Diagnóstico
+Ante los resultados de las pruebas de imagen cerebrales con hallazgo de una lesión frontal izquierda que no realzaba con el contraste y el aumento de la vascularización, se planteó el diagnóstico diferencial inicial entre una neoplasia primaria del SNC, afectación por linfoma y lesión de origen inflamatorio. Fue valorado por Neurocirugía, quienes descartaron la necesidad de intervención quirúrgica urgente y añadieron al tratamiento corticoides en pauta descendente, con mejoría posterior de la sintomatología. Tras presentar el caso en comité de Neuroncología y el empeoramiento progresivo de la sintomatología a pesar de la corticoterapia a medio plazo, se decidió biopsiar la lesión. El informe preliminar de Anatomía Patológica describía un tumor primario cerebral, siendo en ese momento valorado por Oncología Médica, planteándose la opción de astrocitoma vs. glioma de alto grado.
+Posteriormente y tras analizar exhaustivamente la muestra, se confirma origen infeccioso de la lesión, concretamente cuadro de LMP; además se detectó positividad débil para VHS-1.
+
+Tratamiento
+Dadas las escasas opciones terapéuticas para pacientes no VIH, se decidió iniciar tratamiento con mirtazapina por la LMP y aciclovir por la positividad para VHS-1, con empeoramiento progresivo de la clínica y estado general del paciente, añadiéndose posteriormente maraviroc.
+
+Evolución
+La evolución fue desfavorable, con un empeoramiento progresivo de la clínica neurológica (aparición de hemiplejia, parálisis facial, mutismo), aparición de fiebre en probable relación a neumonía aspirativa con episodios de insuficiencia respiratoria hipoxémica y movimientos incoordinados de miembros paréticos por los que tuvo que añadirse tratamiento anticonvulsivante.
+Finalmente, el paciente fue exitus en febrero de 2019 tras dos meses de ingreso hospitalario.

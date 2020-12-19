@@ -1,0 +1,43 @@
+Anamnesis
+Mujer de 47 años, premenopáusica, fumadora activa (dosis acumulada de 20 paquetes/año) y sordomuda desde la infancia por toxicidad a gentamicina. No otros antecedentes personales de interés.
+
+Entre sus antecedentes familiares destaca madre con un cáncer de mama bilateral metacrónico a los 62 años y 67 años y que finalmente falleció a los 71 por una neoplasia de páncreas; y una tía materna diagnosticada de cáncer de mama bilateral también metacrónico a los 50 y 62 años con receptores hormonales positivos.
+
+La paciente es remitida en Noviembre de 2011 a la Unidad Funcional de Mama de nuestro centro tras autopalpación de nódulo mamario izquierdo y mamografía sugestiva de proceso neoplásico. No otra sintomatología (ECOG PS0). A la exploración destaca nódulo de 35 mm en cuadrante infero externo de mama izquierda y otro de 20 mm en pliegue submamario con afectacción de piel y edema focal, así como dos adenopatías axilares ipsilaterales sospechosas.
+
+Exploración física
+En la primera visita, la paciente presenta un performance status (PS) 1. A la exploración destaca nódulo de 35 mm en cuadrante infero externo de mama izquierda y otro de 20 mm en pliegue submamario con afectacción de piel y edema local. Presenta dos adenopatías axilares ipsilaterales sospechosas a la exploración.
+
+Auscultación cardiorrespiratoria sin hallazgos, así como la palpación abdominal. Exploración neurológica normal.
+
+Pruebas complementarias
+» Ecografía de mama: nódulo hipoecopico, de contornos irregulares, espiculados de 17 mm a las 3 h y en situacion periférica de mama izquierda, adherido a piel. Se realiza punción aspiración con aguja fina (PAAF) de la misma. Yuxta-areolar externo, presenta otro nódulo que tambien es palpable de 19 x 12 mm y contornos espiculados. Se realiza biopsia con aguja gruesa (BAG) de esta segunda lesión.
+» PAAF: carcinoma grado nuclear 2. c
+» BAG: carcinoma ductal infiltrante (CDI). Grado 1. RE positivos en el 90% de núcleos tumorales, receptores de progresterona (RP) positivos en el 15%. Ki-67 del 15%. HER-2/NEU-negativo.
+» Ecografía axliar: adenopatía en cola de mama de 10 mm sospechosa, y adenopatías axilares sospechosas. PAAF axilar: + carcinoma.
+» Como estudio de extensión se realiza: una análitica: destaca Hb 107 y FALC de 2,9; resto sin alt significativas
+» Asimismo, dados antecedentes familiares, se solicita valoración por la Unidad de Consejo Genético, realizándose estudio que demuestra una mutación c6275_6276delTT en el gen BRCA2.
+
+Diagnóstico
+Se valora como una paciente de 47 años, premenopáusica, sordomuda, afecta de CDI grado 1 RE 90%, RP 15%, Ki-67 15%, Her-2 negativo estadío IV de debut, T4bN1M1 con metástasis óseas politópicas y una dudosa única pulmonar de 10 mm con ECOG PS0. Portadora de mutación en el gen BRCA 2.
+
+Tratamiento
+En Noviembre de 2011 inicia primera línea de tratamiento hormonal con tamoxifeno y análogos de LHRH. Además, se inicia tratamiento con ácido zoledrónico. Presentó respuesta parcial (RP) como mejor respuesta, hasta Julio de 2012 cuando se evidencia progresión clínica local y por marcador, con estabilidad radiológica. Se inicia entonces una segunda línea hormonal con letrozol, manteniendo anlálogos y bifosfonato. En octubre de 2012, a solo 3 meses del inicio de la segunda línea, la paciente presenta progresión pleural bilateral sintomática, por lo que se inicia tratamiento con quimioterapia tipo FAC, al no haber ensayos disponibles de 1.ª linia de quimioterapia en ese momento.
+
+Evolución
+En noviembre de 2012, habiendo realizado solo 2 ciclos de QT con FAC, ingresa por clínica de miodesopsias y dos episodios de pérdida de consciencia precedidos de percepción de olores desagradables orientado como probables crisis comiciales uncinadas. La paciente mantiene un buen estado general (PS 1) y a la exploración destaca presencia de edema de papila bilateral, sin otros signos de focalidad neurológica ni meningismo. Se realiza TC craneal urgente que no evidencia lesiones intracraneales ni otras alteraciones y se completa estudio con una resonancia magnética (RM) que objetiva engrosamiento dural y leptomeníngeo patológico, supra e infratentorial, compatible con carcinomatosis meníngea.
+
+La paciente es valorada en la Unidad de Neurooncología de nuestro centro. Se realiza punción lumbar en dos ocasiones, obteniendo liquído cefalorraquídeo (LCR) claro con proteinorraquia, niveles de glucosa y celularidad normal, con citologías que resultan negativas. No obstante, dada la alta sospecha clínica y radiológica, se decide enviar muestra de LCR para realizar inmunofenotipado por citometría de flujo mostrando positividad para EpCAM.
+
+Se realiza nueva TC toraco-abdominal para revalorar la enfermedad sistémica (diciembre 2012) en el que se observa desaparición del derrame pleural con estabilidad del nódulo pulmonar y las lesiones óseas.
+
+Se decide continuar con el esquema de QT tipo FAC e iniciar tratamiento con metotrexato intratecal. La paciente recibe 7 ciclos de FAC con buena tolerancia y un total de 11 administraciones de terapia intratecal (TIT) con metotrexate (último el 24/1/2013) con desaparición de la clínica neurológica y mateniendo respuesta a nivel pleural, con estabilidad pulmonar y ósea, y respuesta parcial a nivel SNC por RMN con disminución de los signos de carcinomatosis meníngea.
+
+En Marzo de 2013, tras finalizar la QT, inicia tratamiento con análogos de LHRH y fulvestrant 500 mg manteniendo respuesta clínica y radiológica con dicho tratamiento durante 9 meses.
+
+En Enero de 2014 se evidencia progresión de la carcinomatosis por RNM, sin clínica neurológica y citología de LCR negativa, así como progresión hepática manteniendo la paciente un PS 1.
+
+Inicia 2.ª línea de QT con paclitaxel-gemcitabina en febrero 2014 obteniendo respuesta completa hepática, y estabilidad ósea, pulmonar y de las lesiones leptomeníngeas con buena tolerancia al tratamiento. Se decide no aplicar más TIT por ausencia de síntomas neurológicos. En diciembre 2014 se suspende QT por neurotoxicidad grado 2 de predominio palmar, manteniendo RC a nivel hepático, iniciando entonces tratamiento con exemestano y zoladex.
+
+En abril 2015 se objetiva nuevamente progresión hepática y de la carcinomatosis por RNM (asintomática) manteniendo excelente estado general (PS1) por lo que inicia capecitabina como 3.ª línea de QT al no ser candidata a ningún ensayo clínico con inhibidores de PARP ni otro agente por carcinomatosis en progresión).
+Actualmente, la paciente ha recibido 3 ciclos de capecitabina con reducción de dosis al 80% desde el segundo ciclo por eritrodisestesia palmoplantar grado 2 prolongada y diarreas grado 2. Presenta respuesta por marcador, pendiente de realización de estudios de imagen.

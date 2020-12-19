@@ -1,0 +1,32 @@
+Anamnesis
+Mujer de 34 años que en diciembre de 2004 se somete a una histerectomía más doble anexectomía por un supuesto leiomioma intraligamentario derecho. Entre sus antecedentes personales destacan dos partos sin incidencias; es fumadora de medio paquete diario en los últimos 10 años.
+
+Examen físico
+PS 0. Exploración física global anodina.
+En la exploración ginecológica destaca un útero duro, fibromatoso, multinodular y aumentado de tamaño.
+
+Pruebas complementarias
+- Ecografía transvaginal: útero de 152 x 66 x 77 mm con presencia de mioma en la cara anterior de 38 x 33 mm y otro en la cara posterior de 55 x 50 mm.
+- Anatomía patológica (AP) intraoperatoria (12/2004): mioma.
+- AP definitiva (2/2005): leiomiosarcoma en mioma intraligamentario con más de 30 mitosis por campo, mínima necrosis, sin invasión linfovascular ni perineural y un Ki 67 del 20%, sin afectar a la superficie serosa pT1. Receptores de estrógenos y progesterona negativos. Cérvix sin alteraciones, ovarios normales.
+- TC-TAP (3/2005): normal.
+- RM abdomen-pelvis (3/2005): normal.
+
+Diagnóstico
+Leiomiosarcoma uterino localizado.
+
+Tratamiento
+Ante este diagnóstico inicia seguimiento desde el Servicio de Ginecología, evidenciando en agosto de 2005 una tumoración sólida de 73 x 68 mm por ecografía en la zona anexial derecha. Se solicita una TC-TAP completa, que revela una masa pélvica de 65 x 60 mm.
+En septiembre se reseca la masa, y se realizan biopsias del epiplón, confirmándose la recidiva del leiomiosarcoma. En ese momento es remitida a Oncología Médica en noviembre, donde, tras descartar enfermedad residual y a distancia mediante RM y TC, se remite a Oncología Radioterápica, aplicándose radioterapia externa sobre volumen pélvico. En el curso de la misma se observa recidiva pélvica de 3 cm, por detrás del músculo recto derecho y anterior a la vejiga, iniciando quimioterapia (QT) según el esquema ifosfamida 1,5 mg/m2 (días 1-4) + doxorrubicina 20 mg/m2 (días 1-3).
+En febrero de 2006 concluye la RT (50 Gy; 2 Gy/día) y en mayo los 6 ciclos de QT.
+
+Evolución
+En Agosto de 2006, en una exploración ginecológica, se palpa un nódulo pélvico duro, doloroso, en la hemipelvis anterior de 4 cm que no se localiza por ecografía y no se puede biopsar. La TC es normal, por ello se solicita una PET para especificar la lesión y descartar enfermedad a otros niveles. Se detecta captación de una adenopatía en la fosa iliaca derecha con un SUV máximo de 19,45.
+Se propone rescate quirúrgico, realizándose metastasectomía del segmento VIII y resección del tejido linfograso de la región periiliaca derecha. Los resultados de la AP coinciden con histología de sarcoma con un Ki 67 del 90%. Los márgenes quirúrgicos están libres salvo infiltración microscópica en el tejido linfograso perihiliar. En ese momento se propone QT adyuvante con doxorrubicina liposomal 50 mg/m2 durante 6 ciclos. Finaliza en septiembre de 2009, sin evidencia de enfermedad hasta que en una PET-TC de febrero de 2011 aparece una nueva captación en el segmento II con un SUV máximo de 7,1.
+Se solicita una RM, que detecta tres LOE hepáticas, dos en el segmento II (5 mm y 10 mm) y otra en el segmento VIII (10 mm). Se presenta en el Comité de Tumores Digestivos para evaluar la indicación de cirugía. Se decide iniciar QT de inducción con ifosfamida 3 mg/m2 y reevaluar tras dos ciclos. Tras ello, se observa progresión por RM con dos nuevas metástasis en los segmentos III y IVa, confirmadas por PET.
+Inicia en mayo de 2011 doxorrubicina liposomal pegilada 50 mg/m2, del que recibe 6 ciclos con respuesta parcial por PET. En diciembre se observa progresión hepática y ósea por PET-TC.
+Se propone docetaxel 100 mg/m2 y gemcitabina 900 mg/m2. Tras 3 ciclos presenta respuesta parcial hepática y tras 5 progresión hepática en agosto de 2012.
+Se inicia trabectidina, y tras 6 ciclos presenta respuesta parcial. Se decide un descanso de 3 meses en decisión conjunta con la paciente, y en la reevaluación de abril de 2013 se evidencia progresión hepática.
+Comienza pazopanib hasta agosto, momento en que progresa de forma masiva a nivel hepático.
+Dado que la paciente presenta un buen PS, se propone tratamiento con temozolomida. Tras 3 ciclos, en noviembre presenta progresión mediastínica, hepática y lesiones líticas lumbares. En ese momento se decide conjuntamente no continuar con más tratamiento QT y comenzar un tratamiento sintomático exclusivo.
+Finalmente, fallece en su domicilio en enero de 2014.

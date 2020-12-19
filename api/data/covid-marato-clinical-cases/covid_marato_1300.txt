@@ -1,0 +1,23 @@
+Anamnesis
+Varón de 67 años, fumador de 70 paquetes-años y bebedor moderado hasta hace 30 años; HTA; hepatopatía de origen alcohólico (2009) con datos de hipertensión portal por ecografía; hemocromatosis (2007) tratada mediante sangrías; teratoma tímico sometido a toracotomía izquierda (1987) que precisó reintervención por neumotórax. Artritis reumatoide con FR y anti-CCP positivos (año 2000) en tratamiento con corticoides y rituximab; en 2012 se documentan nódulos pulmonares reumatoideos (biopsia), además de pleuritis granulomatosa. En julio de 2013 se objetiva derrame pleural derecho con citología del líquido pleural negativa para malignidad.
+En agosto de 2013 comenzó con disnea de moderados esfuerzos y se atribuyó a su enfermedad reumatológica. En octubre de 2013 acudió a Urgencias por disnea de reposo, dolor pleurítico y expectoración amarillenta, sin otra clínica acompañante.
+
+Examen físico
+Peso: 75 kg. Talla: 175 cm. ECOG: 1. Eupneico en reposo. No aumento de presión venosa yugular. Auscultación pulmonar: disminución del murmullo vesicular generalizado. Resto normal.
+
+Pruebas complementarias
+- Se realiza una radiografía de tórax, que objetiva derrame pleural derecho.
+- El 9/10/2013 se completa el estudio con una TC de tórax que, además, objetiva derrame pericárdico moderado, imágenes nodulares en el LSD y el LSI, áreas de condensación en el LSD y el LM y engrosamiento de septos en las bases pulmonares que sugieren fibrosis incipiente.
+- Una citología del líquido pleural sugiere adenocarcinoma (TTF1 positivo, calretinina y CK 20 negativas) de probable origen pulmonar.
+- El 14/10/2013 se realiza una PET que describe nódulos mayores en el hemitórax derecho que confluyen formando una masa hipermetabólica (SUV máx. 15,94) que contacta con la pleura, derrame pleural y pericárdico importantes, engrosamientos pleurales, adenopatías supraclaviculares derechas (SUV máx. 4,51), paratraqueales derechas (SUV máx. 6,59), lesiones metastásicas óseas en la pelvis, nódulos intrapericárdicos y un foco dudoso en la glándula suprarrenal izquierda. Mutación de EGFR y traslocación de ALK negativas.
+
+Diagnóstico
+Probable adenocarcinoma de pulmón, estadio IV (pulmón, pleura, pericardio, hueso), EGFR y ALK negativos.
+
+Tratamiento
+Quimioterapia basada en carboplatino-pemetrexed y suplementos de ácido fólico y vitamina B12.
+
+Evolución
+Ante dicho diagnóstico basado en una citología de líquido pleural, se decide biopsiar la masa pulmonar del lóbulo superior derecho. El 5/11/2013 se realiza una biopsia pulmonar guiada por TC, objetivándose aumento del derrame pleural y taponamiento cardiaco, precisando la realización de toracocentesis y pericardiocentesis.
+El 3/12/2013 acude a la consulta para continuar el tratamiento requiriendo, de nuevo, ingreso por empeoramiento de la disnea. Además, se constata, mediante ecocardiograma, derrame pericárdico moderado con compromiso hemodinámico de las cavidades derechas, y derrame pleural recidivante. En el intervalo de 2 semanas precisa un nuevo ingreso, esta vez llevándose a cabo ventana pericárdica e intento de pleurodesis, sin éxito.
+Se revisa el resultado de la muestra histológica, que es compatible con "blastoma pulmonar con diferenciación rabdomiosarcomatosa" (TTF-1, CK7, myoD1, miogenina positivos; p40, miosina y marcadores de diferenciación neuroendocrina negativos) y se decide, ante la ausencia de mejoría clínico-radiológica, cambio de tratamiento, por lo que inicia adriamicina en monoterapia. El paciente recibió un total de 3 ciclos (el último en marzo de 2014), con buena tolerancia. Acude al Servicio de Urgencias por edemas en las extremidades inferiores, disnea progresiva y palpitaciones, documentándose insuficiencia cardiaca y fibrilación auricular rápida. Se inicia tratamiento con digoxina y diuréticos y, ante la ausencia de mejoría, se añaden betabloqueantes y amiodarona a dosis altas. El paciente sufre un deterioro franco y, ante la refractariedad de los síntomas, se inicia sedoanalgesia. Fallece el 21/3/2014 y la familia no concede autorización para realizar la necropsia.

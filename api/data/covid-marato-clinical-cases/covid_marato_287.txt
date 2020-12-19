@@ -1,0 +1,35 @@
+Mujer de 43 años, fumadora con un hábito tabáquico de 10 años/paquete sin antecedentes personales o familiares de interés, que en septiembre de 2018 ingresó en otro hospital por cuadro de meses de evolución de pérdida de peso y debilidad progresiva con atrofia muscular marcada. En ese ingreso se diagnosticó de adenocarcinoma pulmonar metastásico.
+
+Al alta todavía era incapaz de bipedestación, por lo que tenía apoyo de UHD y estaba en tratamiento con dexametasona a dosis altas (8-4-8 mg) y analgésicos de tercer escalón (parches fentanilo 100 μg/h)
+
+Solicitó segunda opinión en nuestro centro, acudiendo el 22/10/18 antes de la visita por claudicación familiar; con mal control del dolor (cefalea por metástasis cerebrales y dolor ciático derecho por lesión y aplastamiento de L5) pese a aumento de analgesia y corticoterapia, con incontinencia urinaria y fecal de inicio en las últimas 2-3 semanas junto con aumento de la debilidad en MMII. En los últimos días se había añadido también un síndrome confusional con delirios de perjuicio.
+
+La paciente presentaba un PS de 4 y estaba orientada en persona y parcialmente orientada en tiempo y espacio; presentaba al examen físico una caquexia importante, con atrofia asimétrica en cuádriceps, interóseos y eminencia tenar que condicionaban mano en garra izquierda. En el balance motor destacaba la debilidad generalizada, con puntuaciones de 3 sobre 5 en la escala ASIA en extremidades distales y 4 sobre 5 en proximales. La sensibilidad era normal y no había alteración de pares craneales. El resto de la exploración física era anodina.
+
+Dentro de las exploraciones complementarias realizadas en el otro centro destacaban:
+- RMN cerebral y raquis cervical (18/09/2018): Metástasis cerebrales y cerebelosas con componente hemorrágico, efecto masa, compresión del 4º ventrículo, hipertensión intracraneal y herniación de amígdalas cerebelosas con compresión bulbar. Metástasis óseas en los 3 primeros niveles dorsales.
+- TC tóraco-abdómino-pélvico (18/09/2018): Múltiples lesiones de apariencia metastásica en ambos pulmones de predominio en campos superiores, parénquima hepático, suprarrenal derecha, riñón derecho, adenopatías retroperitoneales y a nivel óseo en arcos costales, somas D1-D3 y soma L5 con componente epidural anterior, pala ilíaca derecha y acetábulo izquierdo.
+
+Allí se había realizado el 24/9/18 una biopsia ecodirigida de una de las metástasis hepáticas (24/9/18) cuye estudio morfológico e inmunohistoquímico evidenció una metástasis de adenocarcinoma de pulmón PD-L1 + (baja expresión) 1-49%; ALK y ROS 1 no translocados, estando pendiente de resultado de la mutación de EGFR
+
+Por tanto, ante una mujer joven con muy mal estado general basal y con un Adenocarcinoma de Pulmón muy avanzado, con alta carga de enfermedad por metástasis múltiples y dolor no controlado se decidió ingreso para optimizar el tratamiento sintomático, incluyendo analgesia y medidas antiedema cerebral con aumento de dosis de dexametasona (8mg cada 8h), con mejoría sintomática parcial inicial.
+
+Posteriormente y tras descartar compromiso medular con RMN de raquis se inició RT holocraneal paliativa (10 fracciones x 3 Gy, que finalizó el 05/11/18).
+
+El 31/10/18 se recibió resultado de EGFR, presentando una deleción en el exón 19, por lo que se pautó (previo consentimiento informado) tratamiento con Erlotinib 150mg/24h.
+
+Al mismo tiempo, se inició tratamiento rehabilitador/fisioterapia debido al síndrome de encamamiento prolongado y la atrofia muscular atribuible a la inmovilidad y a la toma de Dexametasona.
+
+Con estas medidas, la paciente inició un proceso de lenta pero evidente mejoría de su estado general y funcional con buen control del dolor y recuperación progresiva de la movilidad y la autonomía personal, que permitió el descenso progresivo de corticoterapia.
+
+El 18/11/18, estando con dosis de 2mg/día de dexametasona la paciente presentó un pico febril sin sintomatología acompañante, destacando a la exploración subcrepitantes bibasales, con exploraciones complementarias (analítica, orina, virus respiratorios y radiografía de tórax) sin hallazgos, por lo que inició antibioterapia empírica con cefditoreno.
+
+Pese a ampliación de espectro antibiótico hasta piperacilina-tazobactam, persistieron los picos febriles; presentando el 22/11/18 un franco deterioro clínico, con escasa reactividad, somnolencia, desaturación hasta el 60% (aire ambiente) y crepitantes dispersos. Se repitió la radiografía de tórax que mostró un patrón reticulonodular extenso en ambos hemitórax de nueva aparición, por lo que ante sospecha de neumonía atípica o vírica se asoció levofloxacino, cotrimoxazol a dosis terapéuticas y ganciclovir. Pese a la administración de oxigenoterapia (Ventimask con FiO2 50%), la paciente persistió con sensación disneica y taquipnea importante; por lo que se comentó con cuidados intensivos para colocación de oxigenoterapia nasal de alto flujo (optiflow) en planta.
+
+Con este soporte máximo en planta, se consiguió estabilizar a la paciente. La comprometida situación respiratoria impidió la realización de broncoscopia para toma de muestra y filiación microbiológica en el momento agudo, pero se realizó TC torácico el	26/11/18 que mostró extensa afectación bilateral parcheada y confluente en vidrio deslustrado, unido a la analítica que mostraba una leve elevación de reactantes de fase aguda pero clara elevación de LDH que planteaba como principal sospecha diagnóstica la neumonía por Pneumocystis jirovecci.
+
+Desde una necesidad inicial de oxigenoterapia con una FiO2 de 80%, se consiguió una lenta pero progresiva mejoría a nivel respiratorio, sin repetir picos febriles, permitiendo el paso a Ventimask el 4/12/18 y a gafas nasales el 13/12/18.
+
+Los análisis microbiológicos tanto de sangre (hemocultivos, carga viral CMV) recogidos en los picos febriles y el esputo (cultivo, ADN Aspergillus, ADN Pneumocystis), recogido cuando la situación clínica de la paciente lo permitió (11/12/18) no mostraron ningún aislamiento; retirando progresivamente la antibioterapia hasta dejar únicamente cotrimoxazol a dosis profilácticas.
+
+Se realizó TC tóraco-abdominal de control el 18/12/18 que mostró resolución de las áreas en vidrio deslustrado y mejoría de los nódulos metastásicos con criterios de respuesta parcial, permitiendo el alta hospitalaria el 21/12/18 sin necesidad de ningún apoyo domiciliario, estando con un PS de 1 asintomática salvo toxicidad cutánea G1 por erlotinib en su visita en consultas externas al mes de recibir el alta.

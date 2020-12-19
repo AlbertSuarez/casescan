@@ -1,0 +1,39 @@
+Anamnesis
+Paciente de 44 años sin antecedentes médicos de interés salvo miomas uterinos en seguimiento por Ginecología.
+Acude a Urgencias en noviembre de 2013 refiriendo molestias orales de una semana de evolución con tumoración en la región madibular izquierda sangrante a la manipulación. Acompañaba acorcharmiento hemimandibular y del labio inferior izquierdo.
+
+Examen físico
+A nivel oral se identificaba una tumoración ovalada de aproximadamente 3 cm diámetro, móvil, firme y no dolorosa, pediculada a la mucosa gingival de la zona molar.
+
+Pruebas complementarias
+- Ortopantografía (5/11/2013). osteólisis mandibular en el cuarto cuadrante con extensión a la rama mandibular izquierda.
+- Biopsia de la lesión oral (5/11/2013): leiomiosarcoma grado 2 (sistema de grado FNCLCC).
+- TC cervicofacial (7/11/2013): lesión osteolítica en la hemimandíbula izquierda que asienta en su región retromolar y ángulo mandibular, con afectación del canal del nervio dentario inferior, que expande y rompe las corticales óseas y asocia realce de partes blandas adyacentes, compatible con neoplasia maligna (diagnóstico anatomopatológico de leiomiosarcoma grado 2). No se aprecian adenopatías radiológicamente significativas. Nódulo hipodenso en LTD a correlacionar con ecografía.
+- TC tóraco-abdominal (20/11/2013): en la exploración torácica se identifica una imagen nodular de pequeño tamaño (entre 5 y 6 mm) en el segmento posterior del lóbulo inferior derecho, sin calcificación evidente, cuya naturaleza no es posible determinar, por lo que no se puede excluir la posibilidad de metástasis. Conclusión: pequeña imagen nodular indeterminada en la base pulmonar derecha, no pudiéndose excluir la posibilidad de metástasis.
+- Intervención quirúrgica (26/11/2013): se realiza resección de la lesión mandibular mediante abordaje intraoral y cervicotomía, respetando los márgenes quirúrgicos. Obtención de colgajo microquirúrgico de peroné de forma reglada.
+
+Diagnóstico
+Leiomiosarcoma ulcerado, de 3,5 cm de diámetro máximo, en la rama horizontal de la mandibula izquierda con rotura de la cortical y afectación de la encía. Bordes quirúrgicos de resección (mucosos, partes blandas y óseos) libres de infiltración tumoral.
+
+Tratamiento
+La paciente recibió radioterapia postoperatoria desde el 27/1/2014 al 24/2/2014, administrándose una dosis total de 42 Gy (2 Gy/día) sobre un volumen blanco clínico que incluyó la mandíbula izquierda y la cicatriz cervical.
+
+Evolución
+Dada la histología se decide, conjuntamente al inicio de RT, comentar el caso con el Servicio de Ginecología.
+En el estudio ginecológico se aprecian dos miomas de mayor tamaño que los conocidos previamente.
+Se decide como tratamiento histerectomía total simple, realizada el 14/1/2014, con resultado anatomopatológico de:
+- Descripción macroscópica: el cuerpo y la cavidad endometrial aparecen deformados debido a la presencia de un nódulo de localización intramural de 11 cm de eje máximo. El nódulo no está bien delimitado, observándose en zonas pequeños nódulos satélite a su alrededor. En las proximidades del cuello la serosa uterina está rota y algunos de los nódulos coinciden con el margen de resección.
+- Descripción microscópica: los cortes correspondientes al cérvix no muestran alteraciones significativas en los componentes exo ni endocervical. La mucosa endometrial presenta un patrón proliferativo. El nódulo miometral está constituido por una proliferación de células muy atípicas y de morfología muy variable. En la periferia la lesión es densamente celular y está compuesta por células predominantemente fusiformes con núcleos grandes y ovalados con moderada variabilidad entre ellos, y frecuentes figuras de mitosis. En el resto del tumor estas células alternan con otras de gran tamaño, con núcleos muy agrandados e hipercromáticos, a veces multinucleados y con numerosas mitosis atípicas. También se observan amplias zonas de necrosis y zonas más edematosas. Numerosas imágenes de permeación vascular. La lesión crece adoptando un patrón multinodular y alguno de estos nódulos coincide con el margen de resección en la zona de ruptura de la pared uterina.
+- Inmunohistoquímica: CD31 positivo, Factor VIII positivo, actina positivo, caldesmón positivo, calponina positivo, CD10 negativo.
+Citoqueratina 19 negativo, desmina positiva, EGFR positivo irregular, Ki 67 positividad variable, zonas de hasta el 40%, p16 débilmente positivo, p53 negativo, vimentina positiva.
+Diagnóstico anatomopatológico histerectomía total simple: leiomiosarcoma con frecuentes imágenes de permeación vascular.
+Tras la intervención quirúrgica la paciente aqueja lumbociatalgia, inicialmente achacada a iatrogenia quirúrgica, pero dada su refractariedad a la analgesia tras 2 semanas se solicitó una RM pélvica, con los siguientes hallazgos.
+- RM lumbosacra (6/2/2014): metástasis ósea que afecta a la totalidad del ala sacra y hemicuerpos derechos de S2 y S3 con rotura de la cortical anterior y masa de partes blandas que rodea a las raíces S2 y S3 derechas. Metástasis ósea en el ala sacra izquierda y en la región posterosuperior y pedículo derecho de L5. Imagen compatible con calcificación o artefacto en el canal raquídeo a la altura de L4-L5.
+Asimismo, se procedió a actualizar el estudio de extensión con TC cérvico-tóraco-abdominal y gammagrafía ósea.
+- TC cérvico-tóraco-abdominal (19/2/2014): metástasis pulmonares y hepáticas. Adenopatía iliaca izquierda sospechosa de malignidad. Metástasis óseas en el ala sacra derecha sin grandes cambios respecto a la RM previa. Lesión lítica en el cuerpo vertebral D10 de nueva aparición, a descartar metástasis. Lesión mixta en la séptima costilla derecha.
+- Gamagrafía ósea (25/2/2014): se objetivan focos de hipercaptación en el maxilar inferior, octava costilla derecha en su arcada lateral, apófisis espinosa de D-11 y ala derecha, compatibles con diseminación metastásica.
+Ante estos hallazgos se inició infusión de ácido zoledrónico mensual, y se procedió a irradiación de un segundo volumen que incluyó el sacro, administrando una dosis total de 30 Gy (3 Gy/día) entre el 11 y el 24 de febrero de 2014.
+Posteriormente, la paciente inició tratamiento con QT según esquema de docetaxel 75 mg/m2 (día 8) + gemcitabina 900 mg/m2 (días 1 y 8), habiendo recibido hasta la fecha un total de 5 ciclos entre el 26/2/2014 y el 28/5/2014.
+En última prueba de imagen realizada, el 19/5/2014, se objetivó leve disminución de tamaño de las lesiones hipervasculares hepáticas metastásicas, con estabilidad del resto de las lesiones quísticas, probablemente benignas. Se objetivó además metástasis renal izquierda y cambios de densidad de la metástasis sacra, sin cambios en las lesiones costales ni en la lesión de D10.
+Metástasis pulmonares con comportamiento variable, algunas de ellas con crecimiento.
+La paciente continúa seguimiento en consultas del Hospital de Día del Hospital Universitario de La Princesa en la actualidad, estando previsto administrar dos ciclos más del tratamiento anteriormente referido.

@@ -1,0 +1,38 @@
+Anamnesis
+Presentamos el caso de un paciente de 82 años, en seguimiento por cáncer de próstata metastásico.
+El paciente no tenía alergias conocidas. Es exfumador desde hace unos 15 años. Como antecedentes personales presentaba diabetes mellitus insulina-dependiente, hipertensión arterial, arritmia completa por fibrilación auricular (ecocardiograma en diciembre 2016 con FEVI 86 %), lipoma cervical, cólico renal único, aneurisma yugular interna derecha. Fue intervenido de menisco en rodilla izquierda. En tratamiento crónico con omeprazol 20 mg, insulina aspart/insulina aspart-protamina 30, sitagliptina/metformina 50/1.000 mg, rivaroxabán, hierro oral, vitamina B12, atorvastatina 10 mg, fentanilo transdérmico 100 + 50, lormetazepam 1 mg, metamizol y paracetamol. Sin antecedentes familiares ni profesionales de interés.
+Historia oncológica: el paciente comienza en julio 2014 con dificultades miccionales, se haya un PSA de 75,9 ng/ml con pelvis pétrea y gammagrafía ósea con múltiples metástasis óseas en esqueleto axial, pelvis, tercio proximal de fémur izquierdo. Comienza tratamiento con bloqueo androgénico completo y ácido zoledrónico durante un año.
+En junio 2016 se observa una lenta elevación de PSA que en octubre de 2016 era de 106,70 ng/ml. En la TC toracoabdominal de diciembre 2016 se aprecian múltiples adenopatías supra e infradiafragmáticas, múltiples metástasis osteoblásticas que afectan a todas las vértebras, ambos fémures, ambos huesos iliacos, sacro y costillas. En la biopsia prostática (28/3/2017) se ve afectación de ambos lóbulos prostáticos por adenocarcinoma de próstata Gleason 8/10. En la TC de mayo de 2017, metástasis óseas blásticas múltiples, conglomerado adenopático retroperitoneal paraaórtico y múltiples adenopatías abdominales. Gammagrafía ósea en mayo de 2017: múltiples lesiones en raquis, pelvis, parrillas costales, esternón, clavícula, húmero proximal derecho, ambos fémures, en mayor extensión y mayor número, con lo que se confirma progresión y es derivado a Oncología Médica, con PSA 128,96 ng/ml.
+Tras valoración del paciente, inicia tratamiento con abiraterona y prednisona. En control de febrero de 2018, se observa disminución de PSA (101,7 ng/ml) y de adenopatías, pero parecía existir progresión de algunas de las lesiones óseas.
+En mayo se observa nueva elevación de PSA (2958 ng/ml). Se solicita estudio de extensión con TC en julio 2018: con aumento de la adenopatía de tronco celiaco de 16 a 19 mm de eje corto, pequeña adenopatía mesorrectal izquierda de 9 mm, ligeramente mayor y sin variación en el resto de adenopatías ni metástasis óseas. Se solicita además gammagrafía ósea donde persisten las múltiples lesiones óseas metastásicas en raquis, pelvis, parrillas costales, esternón, clavículas, húmero proximal derecho y ambos fémures con diferentes grados de captación; y aumento de la extensión de las lesiones pélvicas, sobre todo la situada en acetábulo/isquion izquierdo y aparición de nuevas lesiones en diáfisis femoral derecha y a nivel de trocánter menor derecho.
+Se propuso tratamiento con docetaxel en agosto, pero no se llegó administrar por mal estado general del paciente.
+Ingresó en octubre de 2018 en Oncología Médica por mal control de síntomas con importante aumento del dolor generalizado y más intenso en extremidad inferior izquierda, por lo que se ajustó tratamiento antiálgico y se administró radioterapia 8 Gy en pelvis izquierda el 29/10/2018.
+Historia actual: el 11/12/2018 el paciente acude a Urgencias por mal control del dolor y parálisis del III par craneal.
+
+Exploración física
+Exploración física
+TA: 114/82 mm Hg, FC: 76 lpm, Tª: 36,30 ºC, Sat. de oxígeno: 100 %.
+Consciente, orientado. Normohidratado, normocoloreado. Eupneico en reposo. ACP: hipoventilación generalizada. ABD: blando, depresible, sin defensa. Sin peritonismo. Dolor difuso con focos en rama isquiopubiana derecha; cadera no dolorosa a la exploración. Sin masas ni megalias evidentes durante la exploración. EEII: sin edemas, ni signos de TVP.
+
+Exploración neurológica
+Estrabismo con ptosis notable, sin apreciarse inflamación llamativa de párpados. No hay signos de conjuntivitis activa en el momento actual. El resto de exploración compatible con la normalidad.
+Paciente consciente y orientado en el tiempo y el espacio. Receptivo y perceptivo. Glasgow 4-5-6. Pupilas isocóricas y normorreactivas. No se detectan alteraciones del lenguaje. Exploración de pares craneales normales. Fuerza en EESS 5/5. Fuerza en EEII 5/5. Maniobras de Barré y Mingazzini: no se observan alteraciones. Reflejo cutáneo-plantar: flexor bilateral. No se observan dismetrías (prueba dedo-nariz, dedo-dedo y talón rodilla: normales). Signo de Romberg: negativo. Estabilidad y marcha sin objetivar alteraciones. Marcha en tándem: normal. No hay signos de irritación meníngea (Kerning y Brudzinski negativos).
+
+Pruebas complementarias
+» TC craneal: no se observan lesiones ocupantes de espacio.
+» Analítica sin hallazgos.
+
+Diagnóstico
+Se decide ingreso del paciente para completar estudio con RM.
+Diagnóstico: cáncer de próstata estadio IV (óseas y ganglionares). Parálisis del III par.
+
+Tratamiento
+Inició tratamiento con corticoides en espera de RM.
+
+Evolución
+La RM no mostró alteraciones significativas por lo que la parálisis del III par craneal podía ser debida a diabetes mellitus de larga evolución.
+Durante el ingreso (13/12/2018), el paciente presenta alteración de perfil hepático con elevación de transaminasas: bilirrubina total 0,62 mg/dl, fosfatasa alcalina (FA) 496 U/l, aspartato aminotransferasa (GOT) 340 U/l, alanina aminotransferasa (GPT) 327U/l, lactato deshidrogenasa 366 U/l, el resto de los valores analíticos eran normales. Se plantearon tres entidades diagnósticas: citotoxicidad por fármacos, hepatitis infecciosa o progresión de su enfermedad de base, con menor probabilidad. No se había producido ninguna modificación en su tratamiento farmacológico. La ecografía abdominal fue normal.
+Se solicitaron serologías y consulta con el Servicio de Digestivo.
+Se observó ictericia, coluria, acolia y una elevación progresiva de transaminasas, bilirrubina, trombopenia y coagulopatía. Analítica del 24/12/2018: bilirrubina total 22,49, bilirrubina directa 17,22, FA 4.361, GOT 1.130, GPT 1.158, LDH 2.778, 63.000 plaquetas y actividad de protrombina del 7 %.
+El paciente presentó un fallo hepático con encefalopatía y falleció el 25/12/2018.
+El 27/12/2018 se recibieron las serologías para virus de hepatitis que mostraron HBsAg positivo, HBeAg negativo, anti-HBe positivo, anti-HBc positivo, anti-HBc IgM negativo, anti-HBs positivo 17,71 mUI/ml, carga viral hepatitis B (PCR tiempo real) 46.200.000 (7,7 unidades logarítmicas). Con ello se confirmó una reactivación de hepatitis B aguda fulminante.

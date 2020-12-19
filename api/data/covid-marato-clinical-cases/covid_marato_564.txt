@@ -1,0 +1,30 @@
+ANAMNESIS
+Varón de 70 años de edad, trabajador de la construcción, exfumador, en seguimiento durante 9 años por adenocarcinoma de próstata Gleason 3+5, que recibió durante 7 años tratamiento con bloqueo hormonal completo con leuprorelina trimestral y bicalutamida. No consta estudio de extensión previo.
+Tras progresión ósea y mal control del dolor se inició tratamiento con abiraterona/prednisona, suspendido tras 6 meses ante nueva progresión ósea y ganglionar, por lo que nos es remitido a Oncología para valoración terapéutica. En primera visita, se realiza estudio de extensión, y constatada la resistencia a la castración y al tratamiento previo, se propone esquema con zoledronato y docetaxel 75 mgr/m2. En el momento de inicio de tratamiento el paciente presenta dolor óseo.
+Precisa retraso del segundo ciclo de tratamiento por episodio de SCASEST que requirió ingreso, objetivando a nivel coronario enfermedad difusa de pequeño vaso y oclusión crónica de la arteria circunfleja, con severa disfunción de la función sistólica. Inicia tratamiento con ácido acetilsalicílico, estatinas e IECAs. El paciente completa 6 ciclos del docetaxel a la dosis prevista inicialmente, sin nuevas incidencias, con buena tolerancia y mejoría clínica, serológica y radiológica, cesando consumo de analgésicos.
+Se mantiene posteriormente durante 4 meses en tratamiento con dexametasona 1 mg/24h por elevación de PSA con criterios de progresión serológica asintomática.
+Consulta por cuadro de diplopía binocular de dos días de evolución, asociado a rinorrea acuosa en flexión de cuello, unilateral, de 3 meses de evolución y reaparición del dolor óseo generalizado.
+
+Exploración física
+- Performance status 1. Índice Karnofsky 70%. Buen estado general. Normocoloreado, normohidratado y normonutrido.
+- Auscultación cardiopulmonar: tonos rítmicos, murmullo vesicular conservado.
+- Abdomen blando y depresible, no doloroso, sin masas ni megalias.
+- A la exploración neurológica, el paciente presenta diplopía binocular, dismetría dedo-nariz y clínica secundaria a afectación de V par izquierdo. Se objetiva pérdida líquida de bajo débito por narina derecha.
+
+Pruebas complementarias
+Ante el cuadro sugestivo de progresión de enfermedad y sintomatología neurológica de inicio reciente, compatible con fístula de líquido cefalorraquídeo, se solicita analítica de líquido nasal, sanguínea y estudios de imagen para descartar afectación metastásica a nivel cerebral y/o óseo.
+- Analítica sanguínea: destaca un aumento del valor del PSA con respecto a previas, 16700 ng/mL, además de fostatasa alcalina 1448 UI/L y LDH 3227 UI/L, todo ello en el contexto de la progresión clínico-serológico.
+- La analítica del líquido nasal objetiva valores de proteína b-traza de 26 mg/L que confirman la sospecha de fístula de líquido cefalorraquídeo.
+- La TC craneal y de senos paranasales objetiva lesiones blásticas que afectan a la calota, a todos los huesos de la base craneal, rama mandibular izquierda y vértebras cervicales. Se aprecian además imágenes líticas principalmente en las alas mayores del esfenoides y en ápex petroso derecho, compatibles con granulaciones aracnoideas aberrantes identificándose dehiscencia focal ósea en techo del seno esfenoidal derecho que probablemente sea el origen de la fístula que provoca la clínica de rinolicuorrea. Destaca reacción perióstica con masa de partes blandas intraorbitaria derecha en relación con afectación ósea metastásica de techo orbitario, probablemente responsable de la diplopia del paciente. Se completa así el diagnóstico de progresión de la enfermedad también a nivel radiológico.
+
+Diagnóstico
+Dados los hallazgos radiológicos y serológicos, el paciente es diagnosticado de fístula de líquido cefalorraquídeo secundaria a progresión metastásica ósea en huesos de base craneal, por neoplasia de próstata de 9 años de evolución en progresión.
+
+Tratamiento
+Se solicita valoración por Neurocirugía, decidiendo por su parte actitud expectante ante el bajo débito por fístula de líquido cefalorraquídeo. Dada la progresión de enfermedad clínica, radiológica y serológica, y la contraindicación de RT en este caso por la fístula objetivada, se inicia tratamiento con Cabazitaxel 20 mgr/m2 con intención paliativa, que el paciente inicia hospitalizado sin complicaciones.
+
+Evolución
+El paciente durante su ingreso y tras recibir primer ciclo de tratamiento con Cabazitaxel permanece estable, persistiendo clínica de rinolicuorrea que disminuye progresivamente durante el ingreso. Se inicia antibioterapia profiláctica ante el riesgo de meningitis con ceftriaxona.
+No presenta mejoría de la clínica visual, persistiendo sin empeoramiento diplopia binocular y afectación del V par craneal. Tampoco se objetivan complicaciones derivadas del tratamiento, ni aumento del débito por la fístula o signos de meningitis, por lo que es dado de alta.
+Se propone seguimiento en Consultas Externas por parte de Oncología y Neurocirugía, para valorar respuesta a tratamiento quimioterápico y posibilidad de intervención quirúrgica en caso de complicaciones.
+Reingresa tras diez días de estancia domiciliaria, con clínica respiratoria, hipotensión y taquicardia, produciéndose finalmente el éxitus del paciente secundario a shock cardiogénico, con sospecha de complicación probablemente relacionada con su cardiopatía isquémica de base, sin llegar a recibir segundo ciclo de tratamiento con cabazitaxel.

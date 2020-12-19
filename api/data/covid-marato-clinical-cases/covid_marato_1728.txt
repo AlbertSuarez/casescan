@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 65 años, intervenido en marzo de 2003 mediante prostatectomía radical por un adenocarcinoma de próstata (pT2bN0M0), Gleason 7 (4 + 3). Recaída bioquímica (PSA 5,2 ng/ml) en junio de 2004, tras un intervalo libre de enfermedad de 15 meses, tratada con bloqueo androgénico completo.
+Progresión bioquímica (PSA 13,6 ng/ml) y radiológica en noviembre de 2011 con aparición de metástasis óseas y adenopáticas. Se retira el antiandrógeno, presentando una progresión bioquímica (PSA 22 ng/ml), por lo que en enero de 2012 se inicia docetaxel 75 mg/m2 trisemanal. Recibe 9 ciclos con respuesta bioquímica (PSA 17 ng/ml) y estabilización radiológica. Progresión clínica y bioquímica (PSA 156 ng/ml) en noviembre de 2012, pautándose abiraterona. En enero de 2013, nuevamente progresión clínica y bioquímica (PSA 380,3 ng/ml). La familia refiere episodios de desorientación y mayor postración que relacionan con aumento de analgesia.
+Una semana después es traído al Servicio de Urgencias por episodio brusco de disartria y debilidad del hemicuerpo derecho, seguido de caída al suelo sin recuperación del nivel de conciencia.
+
+Examen físico
+Glasgow 3. Hematoma periorbitario izquierdo. Pupilas mióticas y arreactivas. Ausencia de tono en las cuatro extremidades. Reflejos cutaneoplantares flexores bilaterales. Resto de la exploración neurológica interferida por la falta de colaboración.
+
+Pruebas complementarias
+En Urgencias se realiza una analítica que muestra hiponatremia (Na 132 mmol/l) y anemia (hemoglobina 10,1 g/l). En el electrocardiograma presenta ritmo sinusal a 92 latidos por minuto.
+La TC craneal describe varias lesiones supratentoriales hipodensas, rodeadas de edema, que captan contraste en anillo, compatibles con metástasis. La mayor es de 2 cm y localización parietal derecha, acompañada de signos de sangrado reciente. Ausencia de desplazamiento de la línea media. No se visualizan metástasis óseas a nivel craneal.
+
+Diagnóstico
+Metástasis cerebrales múltiples de adenocarcinoma de próstata resistente a la castración, con sangrado intralesional.
+
+Tratamiento
+Se inicia corticoterapia con dexametasona a dosis altas para disminuir el edema vasogénico y se plantea tratamiento con radioterapia holocraneal paliativa, dado que presenta múltiples lesiones dispersas por el parénquima cerebral.
+
+Evolución
+A pesar del inicio precoz de la corticoterapia, no hay mejoría del nivel de conciencia. Valorado por Neurocirugía, se desestima drenaje de la hemorragia por el elevado riesgo quirúrgico, escaso beneficio debido a su pequeño tamaño, performance status y estadio avanzado de su enfermedad. Se pospone la radioterapia hasta la mejoría del nivel de conciencia, siendo el paciente finalmente éxitus en las 48 horas siguientes al ingreso.
+El cáncer de próstata es el segundo cáncer más frecuente en varones a nivel mundial, con una incidencia de 60 casos por 100.000 habitantes en países desarrollados. Sin embargo, la complicación con metástasis cerebrales es poco habitual. La forma más común en que las células neoplásicas llegarían al sistema nervioso central sería mediante extensión directa desde estructuras óseas adyacentes, alcanzando las leptomeninges. El lugar más afectado sería la médula ósea, pero puede producirse afectación cerebral a través de metástasis craneales.
+En nuestro paciente, las lesiones cerebrales son intraparenquimatosas y sin acompañarse de metástasis en calota craneal, por lo que el mecanismo no puede ser el descrito anteriormente. Una siembra hematógena en el contexto de una enfermedad avanzada podría explicar este caso. En la literatura hay casos descritos de metástasis cerebrales intraparenquimatosas como única manifestación de enfermedad. Se cree que las células neoplásicas llegarían al sistema nervioso central a través del plexo venoso paravertebral, empujadas por las maniobras de Valsalva, evitando así el paso a través de pulmones y hueso.
+El tratamiento no está claramente definido dada la escasa experiencia acumulada en relación con su baja frecuencia.
+Deberían tenerse en consideración las mismas variables que en el caso de otras neoplasias (tamaño y número de lesiones, control de enfermedad, etc.), con la particularidad de la posibilidad de respuesta a maniobras hormonales.

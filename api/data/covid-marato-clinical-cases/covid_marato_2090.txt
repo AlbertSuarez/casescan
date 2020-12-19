@@ -1,0 +1,31 @@
+Anamnesis
+Una mujer de 36 años de origen rumano consulta a su Médico de Atención Primaria por odinofagia de 2 semanas de evolución. Como único antecedente médico de interés, presenta tabaquismo de 10 cigarrillos-día. No toma medicación.
+Exploración física
+La exploración de la cavidad oral revela una lesión ulcerada en glotis. Se palpa una adenopatía paratraqueal izquierda indurada. El resto de la exploración física no revela alteraciones. Es derivada de manera preferente a Otorrinolaringología.
+Pruebas complementarias
+Se realiza una nasofibroscopia donde se aprecia una neoformación ulcerada en la mucosa de la cara laríngea de la epiglotis que desciende hasta la comisura de cuerdas vocales.
+La TC de cuello describe una lesión compatible con carcinoma glótico con adenopatías yugulares necrosadas bilaterales.
+Ante estos hallazgos, el otorrinolaringólogo le realiza microcirugía laríngea con biopsia.
+
+Diagnóstico
+» La histología revela Carcinoma poco diferenciado de tipo neuroendocrino/oat cell de alto grado.
+» El tumor tiene marcadores positivos epiteliales (queratina AE1/AE3) y neuroendocrinos (CD56, sinaptofisina, cromogranina).
+» El estudio de extensión no objetiva enfermedad a distancia.
+» El diagnóstico definitivo es: carcinoma supraglótico tipo microcítico enfermedad localizada.
+
+Tratamiento
+La paciente es derivada a consultas externas de Oncología, decidiéndose tratamiento con cisplatino-etopósido y radioterapia concomitante. Tras el primer ciclo, presenta toxicidad de tipo náuseas y astenia grado 1.
+
+Evolución
+Tras dos ciclos de tratamiento, la paciente presenta cuadro agudo de hemiplejia e hipostesia izquierdas, por lo que acude a Urgencias.
+Se le realiza TC craneal, que objetiva ictus isquémico de arteria cerebral media derecha.
+Se descarta tratamiento con fibrinólisis por tratarse de un tumor maligno en tratamiento activo y trombectomía por infarto ya establecido.
+La paciente ingresa en UVI. Tras 48 horas de estabilidad neurológica pasa a Neurología y 48 horas después a planta de Oncología.
+La paciente tiene un ingreso prolongado con numerosas complicaciones derivadas de su enfermedad de base y del ictus, que requieren un abordaje multidisciplinar y la atención de profesionales de distintos servicios (11): Urgencias, Neurología, UVI, Radiología, Endocrinología, Oncología médica, Oncología Radioterápica, Otorrinolaringología, Rehabilitación, Medicina Preventiva y Trabajo Social.
+Durante el ingreso, realiza terapia rehabilitadora, con mejoría de la movilidad de hemicuerpo izquierdo.
+Es valorada por Endocrinología, realizándose test de disfagia, que revela tolerancia a viscosidad gelatina, pero intolerancia a viscosidad líquida, por lo que precisa gastrostomía percutánea para cubrir las necesidades nutricionales.
+Se reinicia el tratamiento con radioterapia, completando todas las sesiones durante el ingreso. Aparecen mucositis y epitelitis/radiodermitis cervicales grado 1-2.
+Presenta clínica de dolor en hemicuerpo parético, refractario a analgesia convencional, que requiere de valoración por neurología. Es diagnosticada de síndrome talámico, y se le pautan gabapentina y fluoxetina, con mejoría sintomática.
+Otras complicaciones que presenta durante el ingreso son diarrea y náuseas secundarias a nutrición hiperproteica por gastrostomía, diarrea pseudomembranosa por Clostridium difficile, que requiere aislamiento de contacto y metronidazol oral, e infección del tracto urinario por Escherichia coli.
+Al final del ingreso, y habiendo concluido el tratamiento con radioterapia, es reevaluada por Otorrinolaringología con nasofibroscopia. Se aprecia respuesta completa macroscópica, con desaparición del tumor y las adenopatías.
+Tras casi 2 meses de ingreso, la paciente es dada de alta a su domicilio. Presenta hemiplejia, disfagia y disartria residuales en tratamiento rehabilitador, y con gastrostomía permanente.

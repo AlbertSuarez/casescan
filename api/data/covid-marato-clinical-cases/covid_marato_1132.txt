@@ -1,0 +1,29 @@
+Anamnesis
+Mujer de 69 años sin alergias medicamentosas conocidas, exfumadora de 3 paquetes diarios, no bebedora. Antecedentes personales: hipertensión y diabetes tipo 2 de larga evolución; EPOC moderada con disnea basal I/IV, síndrome ansisoso-depresivo e intervenida de prótesis de rodilla izquierda, fístula perianal y bocio intratorácico.
+En Diciembre de 2015 ingresa en Medicina Interna de nuestro centro para estudio de síndrome pseudogripal asociado a náuseas, vómitos, diarrea, cefalea occipital y datos analíticos de hiponatremia severa (Na 110 mEq/L), diagnosticándose mediante TAC cerebral (sin hallazgos significativos), Rx tórax, Ecografía abdomino-pélvica, exploración ginecológica, TAC cervico-torácico abdomino-pélvico y biopsia de adenopatía supraclavicular derecha de tumor neuroendocrino (TNE) indiferenciado tipo "oat cell" (célula pequeña), con síndrome de secreción inadecuada de hormona antidiurética (SIADH) paraneoplásico asociado. Se completa estudio con PET TAC y RM cerebral, confirmando el primero afectación pulmonar y ganglionar (mediastínica en cadenas 1R, 4R, 10R, 5 y 7) y atrofica cortico-subcortical con lesiones gliótico-residuales en sustancia blanca supratentorial la segunda. Con restricción hídrica estricta se consigue normalización completa de la natremia.
+Con diagnóstico de TNE de alto grado, el 8-02-16 se inicia 1º ciclo de quimioterapia con Cisplatino 80 mg/m2 día 1 y Etopósido 100 mg/m2 días 1, 2 y 3, sin presentar toxicidad aguda, y se remite a RT para valoración de tratamiento concomitante.
+La paciente acude a Urgencias a finales de Febrero-2016 por crisis convulsiva tónico-clónica, periodo postcrítico y anmnesia. Se realizan analítica, ECG, Rx tórax y TAC cerebral urgentes, que resultan normales, e ingresa para estudio.
+
+Exploración física
+A la exploración física, la paciente no presenta focalidad neurológica actual (salvo amnesia del episodio), ni destaca otra alteración a nivel cardio-respiratorio-digestivo. No obstante, durante el ingreso, la paciente presenta nuevamente varios episodios de crisis parciales complejas, generalizadas y situación de estatus epiléptico, con varias crisis repetidas sin recuperación de conciencia, y precisando de dosis máximas de tratamiento con Levetiracetam y Lacosamida. Se instaura, de forma progresiva, cuadro de desorientación temporoespacial, amnesia de hechos recientes, bradipsiquia, bradilalia, disforia y ocasional desinhibición.
+
+Pruebas complementarias
+>>Analítica planta 26-02-16: gasometría venosa normal, sodio 136, magnesio 1,47, hemoglobina 12, plaquetas 265000, leucocitos 2600 (neutrófilos 1500), coagulación y hormonas tiroideas normales.
+>>ECG 25-02-16: normal.
+>>EEG 1-03-16: actividad de fondo discretamente lentificada de forma difusa; no se registra actividad epileptiforme ni eventos ictales.
+>>RM cerebral 26-02-16 y 3-03-16 y RM columna: pequeños focos lacunares de aspecto isquémico crónico con algún pequeño foco de microsangrado residual en la sustancia blanca profunda a los ganglios de la base.
+>>TAC CTAP 9-03-16: importante respuesta de la masa hiliar derecha y del conglomerado 4R.
+Disminución del tamaño de la adenopatía prevascular. Ligera disminución de las adenopatías supraclaviculares derechas.
+>>LCR 29-02-16 (y 3-03-16): proteínas 59, glucosa 112, hematíes 0, otras células 65 (96% linfocitos, 4% monocitos). PCR VHS, VVZ y Enterovirus indetectables.
+>>Citología LCR 29-02-16 (3.5 cc) y 3-03-16 (2 cc): no células malignas.
+>>Autoanticuerpos en suero y en LCR 3-03-16: anticuerpos anti-Yo, anti-Hu, anti-Ri (ANNA-2), anti-CV2 (CRMP5), anti-Ma2 (Ta), anti-anfifisina Negativos.
+
+Diagnóstico
+Dada la negatividad de las pruebas complementarias (TAC cerebral, RM cerebral y craneoespinal, EEG, citología y microbiología de LCR), los datos de meningitis linfocitaria en LCR y el cuadro clínico en el contexto de Tumor Neuroendocrino pulmonar de alto grado, se establece el diagnóstico clínico ENCEFALITIS LÍMBICA PARANEOPLÁSICA.
+
+Tratamiento
+El 3-03-16 se inicia tratamiento con metilprednisolona a 1 mg/kg, con clara disminución del número de convulsiones, mejoría conductual y de la orientación. Del 8 al 11-03-16 recibe tratamiento con metilprednisolona 250 mg/24h, y del 11 al 15-03-16 con inmunoglobulinas intravenosas a 0.4 g/kg/24 h. Dada la importante respuesta de la enfermedad neoplásica a nivel pulmonar y mediastínico, se decide adminstrar el 2º ciclo de quimioterapia con CDDP-VP 16 en planta, entre el 16 y 18-03-16, sin toxicidad aguda relevante.
+
+Evolución
+Desde el inicio del tratamiento inmunosupresor, la paciente presenta lenta pero progresiva mejoría clínica, sin nuevas crisis epilépticas desde el 13-03-16, recuperando orientación temporo-espacial y la capacidad del cálculo, si bien persiste ligero estado confusional no limitante y amnesia de hechos recientes.
+Una vez dada de alta, recibe 3º ciclo de quimioterapia el 5-04-16, y se solicita TAC CTAP y RM craneoespinal de control. No se considera concomitancia con tratamiento Radioterápico dada la edad de la paciente y el ECOG secundario al déficit neurológico tras el largo ingreso.

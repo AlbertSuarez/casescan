@@ -1,0 +1,34 @@
+Anamnesis
+Mujer de 65 años diagnosticada en 1993 de carcinoma ductal infiltrante de mama izquierda T2N2M0 y tratada mediante cirugía radical, radioterapia locorregional, quimioterapia (adriamicina cuatro ciclos y ciclofosfamida, metotrexato y fluorouracilo ocho ciclos) y hormonoterapia (tamoxifeno de 1997-1999, toremifeno 1999-2002).
+
+En abril de 2014 se evidencia recidiva pleuropulmonar, ganglionar mediastínica y ósea. Se inicia tratamiento con paclitaxel-bevacizumab más ácido zoledrónico y letrozol. En noviembre de ese año se evidencia progresión radiológica de la enfermedad, con aumento del derrame pleural, y se inicia tratamiento con everolimus-exemestano. Durante el tratamiento se produce una mejoría radiológica y de marcadores tumorales. A los 3 meses comienza con un cuadro leve de disnea subaguda y tos seca y se realiza una TC con respuesta parcial, por lo que se mantiene el tratamiento.
+
+En febrero de 2015, la paciente acude al Servicio de Urgencias, hemodinámicamente estable por fiebre, disnea de moderados esfuerzos y tos. En la radiología simple de tórax se observa un leve derrame pleural izquierdo ya conocido como único hallazgo. Tras sacar cultivos, se sospecha foco infeccioso respiratorio y se ingresa en el Servicio de Oncología con tratamiento con levofloxacino.
+
+A los 3 días de ingreso en Oncología persiste con fiebre elevada y presenta tendencia a la hipotensión y taquipnea, por lo que se amplía la cobertura a oseltamivir, meropenem y vancomicina. A pesar de la antibioterapia, la paciente presenta empeoramiento franco con disnea intensa, hipoxia grave, hipotensión y taquicardia, por lo que se realiza una TC urgente que describe hallazgos sugestivos de neumonía bilateral como primera posibilidad. En situación de insuficiencia respiratoria aguda, ingresa en la Unidad de Cuidados Intensivos (UCI).
+
+Exploración física
+Consciente, orientada. Febril, taquipneica; tensión arterial 85/55 mm Hg; frecuencia cardíaca 130 lpm.
+Saturación del 80% sin oxigenoterapia. Auscultación cardiopulmonar: tonos rítmicos sin soplos. Hipoventilación generalizada. Abdomen y extremidades sin hallazgos de interés.
+
+Pruebas complementarias
+» Hemograma: leucocitosis con neutrofilia.
+» Bioquímica: elevación de reactantes de fase aguda.
+» Gasometría arterial: insuficiencia respiratoria aguda.
+» Radiografía simple de tórax: infiltrados alveolointersticiales bilaterales de etiología no filiada.
+» Hemocultivos, urocultivos, antígeno de neumococo y Legionella en orina, serología en lavado bronquioloalveolar, galactomanano en suero.
+
+Diagnóstico
+Dada la situación clínica de la paciente y la mala evolución en planta a pesar del tratamiento, comienza a tomar forma la posibilidad de que el cuadro sea debido a una neumonitis farmacológica en el contexto del tratamiento con everolimus.
+
+Tratamiento
+Por ese motivo, además de mantener antibioterapia de amplio espectro (oseltamivir, meropenem y cotrimoxazol), se inicia corticoterapia a dosis de 2mg/kg/día.
+
+Evolución
+En las primeras horas de ingreso en la UCI, la paciente permanece consciente, hemodinámicamente estable con tendencia a la hipotensión y necesidad de ventilación mecánica no invasiva (VMNI), con buena adaptación a la misma.
+
+Tras 48 horas presenta mala evolución clínica, con empeoramiento de los parámetros hemodinámicos e inicio de tratamiento vasoactivo con noradrenalina y necesidad de intubación orotaqueal (IOT). Llama la atención la aparición de un rash cutáneo eritematoso en tórax, abdomen y extremidades.
+
+En los siguientes días de su ingreso en la UCI se evidencia una mejoría hemodinámica y clínica, lo que permitió la retirada de la noradrenalina y el avance en el destete hasta extubar a la paciente y permanecer con VMNI progresando en las desconexiones. Analíticamente, se objetivó descenso de reactantes de fase aguda y los resultados de todos los cultivos resultaron negativos.
+
+Dada la estabilidad, se dio el alta de la UCI, con reingreso en planta de Oncología, donde se declaró la toxicidad grado IV a everolimus a la Agencia Española de Medicamentos y se llevó a cabo la reducción progresiva de la corticoterapia y la rehabilitación intensiva por miopatía grave del paciente crítico hasta el alta a su domicilio y seguimiento en consultas externas.

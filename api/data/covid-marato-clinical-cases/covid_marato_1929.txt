@@ -1,0 +1,30 @@
+Anamnesis
+El rabdomiosarcoma es un tumor muy poco frecuente en el adulto, con escasa literatura al respecto. La conclusión mayoritaria es que los datos de los que se dispone sobre la población infantil pueden extrapolarse a los adultos, aunque lo más aconsejable sería disponer de ensayos adecuados para pacientes de edad adulta.
+
+En nuestro caso, se trata de un paciente varón de 35 años, exfumador desde hace un año (consumo acumulado previo 8 años/paquete). Casado y con un hijo de 2 años, trabajador en una empresa de informática. Como antecedente personal destaca un cuadro de pericarditis en octubre de 2014, tratado con ácido acetilsalicílico, sin otras patologías de interés. Entre los antecedentes familiares destaca el fallecimiento del padre a los 63 años por cáncer de pulmón.
+
+Acudió a Urgencias el 14 de diciembre de 2014 por un cuadro de disnea de moderados esfuerzos de unas 2 semanas de evolución, que había empeorado hasta hacerse de mínimos esfuerzos. Catalogado inicialmente como un segundo episodio de pericarditis, se decidió su ingreso para estudio.
+
+Exploración física
+Regular estado general. Consciente y orientado. Taquipneico en reposo. TA: 100/59 mmHg, 110 lpm, Sat. O2: 89%. Auscultación cardíaca: roce pericárdico; soplo en el foco aórtico II/IV. Ausultación pulmonar: hipofonesis generalizada, con crepitantes secos bilaterales. Pulsos periféricos conservados.
+
+Pruebas complementarias
+» Ecocardiograma: FEVI del 45% y derrame pericárdico leve.
+» Analítica: proBNP 2.274 pg/ml (normales <125 pg/ml), resto de valores en rango de normalidad.
+» Angio-TC: trombo en la arteria pulmonar derecha. Masa en el mediastino sugestiva de linfoma, de difícil medición dadas las características.
+» TC cervicotoracoabdominopélvica: gran masa de tejidos de partes blandas que rodea grandes vasos mediastínicos, comprimiéndolos y afilándolos, que se extiende alrededor del corazón. Compatible con linfoma. Adenopatías mediastínicas y paraaórticas izquierdas.
+» Punción de la masa: células inmaduras, que se disponen formando nidos. Reordenamiento RCT y del gen IgH policlonal. No concluyente con linfoma.
+» Ecobroncoscopia: PAAF territorios 7R y 12R. AP PAAF: células sin citoplasma o con citoplasma vacuolado, con núcleos redondeados e incluso múltiples y en menor proporción células de citoplasma lateralizado "en cometa". Vimentina, desmina, actina, miogenina, MyoD1 y CD99 positivos, con resto de marcadores negativos. Imágenes citológicas compatibles con metástasis ganglionar de tumor de células redondas con inmunofenotipo muscular (compatible con rabdomiosarcoma cardíaco).
+
+Diagnóstico
+Ante los resultados anatomopatológicos e inmunohistoquímicos, compatibles con el diagnóstico de rabdomiosarcoma cardíaco, tras haberse descartado otras posibilidades como el mixoma auricular o el linfoma, se derivó al Servicio de Oncología para tratamiento.
+
+Tratamiento
+El 2 de febrero 2015, previa realización de una ecocardiografía con FEVI del 82% y criopreservación de esperma, se consideró subsidiario de tratamiento, iniciándose quimioterapia según esquema IVA (vincristina 1,5 mg/m2, actinomicina D 1,5 mg/m2 e ifosfamida 3 g/m2) cada 21 días. Se plantearon tres ciclos y posterior reevaluación para rescate quirúrgico.
+
+Evolución
+Tras el segundo ciclo se realizó la reevalución precoz de la respuesta, con resonancia magnética cardíaca en la que se apreciaba una masa mediastínica con infiltración epicárdica de las cuatro cámaras, sin masa intracavitaria, compatible con origen cardíaco (aurícula derecha), con criterios de respuesta radiológica. Compresión de la aorta torácica, arterias y venas pulmonares. FEVI 47%. Ante estos hallazgos, se decidió continuar con tratamiento quimioterápico y posterior valoración por Cirugía
+
+Torácica de la resecabilidad tumoral.
+
+Previamente al cuarto ciclo, el paciente ingresa con un cuadro compatible con insuficiencia cardíaca, que a pesar del tratamiento deplectivo no presentaba mejoría, con aparición de un cuadro de hemoptisis, por lo que se solicitó una TC torácica urgente, en la que se objetivaba progresión de la compresión mediastínica, con compromiso de cavidades cardíacas, aorta, venas y arterias pulmonares (derecha con diámetro de 1 mm). Se instauró tratamiento con furosemida, corticoterapia a altas dosis con dexametasona y oxigenoterapia de alto flujo, con lo que se consiguió el control sintomático. Al alcanzar una estabilidad hemodinámica, dada la progresión y de acuerdo con el paciente, se inició una segunda línea de tratamiento quimioterápico con carboplatino-etopósido, hasta la fecha dos ciclos, con beneficio clínico, pendiente de reevaluación radiológica actualmente.

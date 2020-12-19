@@ -1,0 +1,40 @@
+Anamnesis
+Mujer de 43 años de edad alérgica a penicilina, exfumadora desde hace un año con consumo acumulado de 20 años-paquete y consumo enólico social. Como antecedentes quirúrgicos presenta apendicectomía, dos cesáreas y esterilización tubárica. Sin otros antecedentes personales de interés.
+Consulta el 22.08.2015 por aparición de una tumoración inguinal de 3 meses de evolución que en las últimas semanas presenta crecimiento rápido y dolor progresivamente mayor.
+
+Exploración física
+A la exploración física por Cirugía general se evidencia tumoración dura, eritematosa e irreductible sugestiva de hernia inguinal crural derecha incarcelada, por lo que se decide cirugía urgente.
+En la exploración quirúrgica se describe una masa inguinal derecha adherida a planos profundos de 6,5 x 5 x 3,5 cm, no dependiente del defecto crural, que se extirpa en su totalidad.
+
+Pruebas complementarias
+El estudio anatomo-patológico describe una metástasis de carcinoma indiferenciado de alto grado de estirpe epitelial. Se realizan las siguientes técnicas inmunohistoquímicas: Pan-CK, Ca 125 y Vimentina positivas; CDX-2, CK-20, CK-7, S-100, Sinaptofisina, Cromogranina, Receptores hormonales, WT1, Desmina y activa negativas.
+En el postoperatorio se solicita el estudio de extensión en busca de tumor primario:
+-Exploración ginecológica + Ecografía transvaginal: Normal.
+- Tomografía Axial Computarizada de Tórax-Abdomen-Pélvis, 14.9.2015: Nódulo pulmonar milimétrico en LII de características inespecíficas a controlar evolutivamente. Pequeña hernia paraesofágica. Diverticulosis en sigma y colon izquierdo distal. Cambios postquirúrgicos a nivel de la región inguinal derecha, identificiando pequeña colección residual de 25x12mm y ganglios linfáticos inguinales bilaterales, actualmente de tamaño no significativo.
+- Tomografía por Emisión de Positrones - Tomografía Computarizada, 28.09.2015: Captación patológica en región inguinal derecha coincidente con área fibrótica en relación con cambios post-cirugía, SUV máximo 7.87, sobre la que se recomienda seguimiento ecográfico. Pequeño depósito adyacente a tercio medio de esófago, SUV máximo 5.57 sugestivo de actividad inflamatoria sobre un diverticulo.
+- Gastroscopia, 05.10.2015: Zonas de eritema alternando con otras normales a nivel de antro y en canal pilórico. Se toman biopsias compatibles con gastritis crónica.
+
+Diagnóstico
+CARCINOMA INDIFERENCIADO DE ALTO GRADO PÉLVICO
+
+Tratamiento
+Durante el estudio de extensión presenta persistencia de enfermedad local rapidamente progresiva desde el lecho quirúrgico.
+- Exploración física: Indice Karfnosky 60 condicionado por dolor local que le imposibilita la deambulación y el uso de ropa interior. Presenta tumoración pétrea, de coloración negruzca-rojiza, sobreelevada e irregular en región inguinal derecha, con extensión a pubis y labio mayor derecho.
+Recibe tratamiento sintomático con fentanilo transdérmico 50mcg cada 72 horas, desketoprofeno 25 mg cada 8 horas, paracetamol 1g cada 8 horas, y rescates con fentanilo 200mcg sublingual.
+Inicia primera línea de tratamiento quimioterápico el 15.10.2015 con Cisplatino 80 mg/m2 más Adriamicina 60 mg/m2 trisemanal a fin de cubrir probable origen tumoral cutáneo o sarcomatoide.
+Además se asocia profilaxis primaria con filgastrim 300mcg al día durante 7 días, y antibioterapia empírica con ciprofloxacino 500 mg cada 12 horas por el elevado riesgo de sobreinfección.
+- Resonancia Magnética Nuclear pélvica basal, 27.10.2015: Tumoración de características malignas de 15 x 12 x 7 cm en lecho quirúrgico. 
+
+Evolución
+Tras 2 ciclos de Cisplatino-Adriamicina presenta una franca progresión clínica con mal control analgésico que requiere de ingreso para control sintomático.
+» TAC de reevaluación, 24.11.2015: Masa gigante inguinal derecha de contornos lobados, sólida y homogénea, de 140 x 110mm. Contacta ampliamente sin plano graso de separación con grupos musculares peripubianos. Adenopatías inguinales bilaterales y en cadenas ilíacas externas bilaterales, de eje corto entre 10-11mm (TAC previo 5-8mm), predominantes en lado derecho. Nódulo pulmonar en LII sin cambios.
+Inicia 2ª línea de tratamiento quimioterápico el 25.11.2015 con Paclitaxel 150 mg/m2 más Gemcitabina 2500 mg/m2 quincenal.
+Presenta evolución clínica favorable de la lesión y clínica con mejoría del control analgésico, uso de ropa interior e inicio de deambulación tras 6 ciclos de tratamiento, alcanzando un Indice de Karfnosky 80.
+» TAC de reevaluación, 1,2,2016: Sin cambios de significación en lesión tumoral ni adenopatías inguinales e iliacas externas.
+Tras noveno ciclo, el 17.3.2016, se presenta el caso en Comité de Sarcomas y se decide remitir a la paciente a hospital de referencia con Unidad de Cirugía en Sarcomas y Cirugía Plástica.
+Se interviene el 6.4.2016 mediante exéresis amplia con reconstrucción inmediata con colgajo tipo TRAM.
+El estudio histológico describe una masa de 17.5 x 13 x 11.5cm constituida por varias formaciones nodulares separadas por septos fibrosos con más del 60% de hemorragia y necrosis, con área quística de 2.5cm. Márgenes a 4cm del límite superior, 4,5cm del límite inferior, 6cm de la región inguinal, 3cm del límite lateral interno y 1cm del profundo. A nivel microscópico se objetiva necrosis >50%, mitosis 22/10UFC. No invasión linfovascular, ni perineural. Márgenes libres. Hueso pubis drcho. e izq. no infiltrados. Adenopatías obturadoras libres de neoplasia: 0/12. Ganglio safeno no infiltrado 0/1. El estudio inmunohistoquímico fue CK AE1/AE3 +++, CD 8/18 +++, Vimentina +++, EMA ++ focal, Ki67 60%. INI-1 -, CD34 -.
+El reordenamiento del gen EWSR1 negativo.
+El diagnóstico definitivo fue de TUMOR RABDOIDE EXTRARRENAL.
+Se realizó estudio de extensión postquirúrgico que fue negativo para enfermedad residual y a distancia.
+Actualmente continua en curas de herida quirúrgica por complejidad de la misma. Pendiente de evaluar tratamiento adyuvante con radioterapia o quimio-radioterapia concomitantes tras resolución de las heridas.
