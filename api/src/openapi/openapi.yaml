@@ -55,6 +55,23 @@ paths:
           $ref: '#/components/responses/Search'
         default:
           $ref: '#/components/responses/Error'
+  
+  /search/clinical_case:
+    post:
+      tags:
+        - search
+      summary: API endpoint to search similarities given a clinical case identifier
+      description: Endpoint for an end-user to search similarities given a clinical case identifier and some search parameters.
+      operationId: src.api.search.post_clinical_case
+      parameters:
+        - $ref: '#/components/parameters/RequiredCaseId'
+      requestBody:
+        $ref: '#/components/requestBodies/ClinicalCaseSearch'
+      responses:
+        200:
+          $ref: '#/components/responses/Search'
+        default:
+          $ref: '#/components/responses/Error'
 
 components:
 
@@ -66,9 +83,30 @@ components:
         application/json:
           schema:
             $ref: '#/components/schemas/Sections'
+    
+    ClinicalCaseSearch:
+      required: true
+      content:
+        application/json:
+          schema:
+            type: object
+            description: Clinical case type of search content.
+            properties:
+              section_names:
+                type: array
+                description: Array of section to search. Aggregated if empty.
+                items:
+                  $ref: '#/components/schemas/SectionName'
 
   parameters:
 
+    RequiredCaseId:
+      name: case_id
+      in: query
+      required: true
+      schema:
+        $ref: '#/components/schemas/CaseId'
+    
     OptionalCaseId:
       name: case_id
       in: query
@@ -111,7 +149,7 @@ components:
                               $ref: '#/components/schemas/Sections'
 
     Search:
-      description: Successfully condition analysis response.
+      description: Successfully search response.
       content:
         application/json:
           schema:
@@ -181,7 +219,11 @@ components:
       type: string
       description: Error message.
       example: 'Useful information.'
-    SectionObject:
+    SectionName:
+      type: string
+      description: Clinical case section name.
+      example: 'Medical history'
+    SectionContent:
       type: string
       description: Text representing the Clinical case section.
       example: 'Paciente de 31 años...'
@@ -197,4 +239,4 @@ components:
       description: Clinical Case sections.
       properties:
         section_name:
-          $ref: '#/components/schemas/SectionObject'
+          $ref: '#/components/schemas/SectionContent'

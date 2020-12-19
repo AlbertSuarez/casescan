@@ -6,3 +6,10 @@ def post_text(aggregated_search=None):
         medical_history=[dict(case_id=1, sections=dict(medical_history='Lorem ipsum'), percentage=92.5)]
     ))
     return response_builder.make(False, response=response)
+
+
+def post_clinical_case(case_id):
+    response = dict(results=dict(
+        medical_history=[dict(case_id=1, sections=dict(medical_history='Lorem ipsum'), percentage=92.5)]
+    ))
+    return response_builder.make(False, response=response)
