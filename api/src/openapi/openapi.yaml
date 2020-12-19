@@ -1,0 +1,127 @@
+openapi: 3.0.0
+
+info:
+
+  title: Casescan API
+  description: Clinical cases search by similarity specialized in Covid-19
+  version: 1.0.0
+
+externalDocs:
+  description: GitHub repository
+  url: https://github.com/AlbertSuarez/casescan
+
+servers:
+  - url: http://api.casescan.ga
+    description: Production endpoint
+
+tags:
+  - name: clinical_cases
+    x-displayName: Clinical Cases
+  - name: search
+    x-displayName: Similarity search
+  - name: stats
+    x-displayName: Similarity statistics
+
+paths:
+
+  /clinical_cases:
+    get:
+      tags:
+        - clinical_cases
+      summary: API endpoint to retrieve clinical cases from database
+      description: Endpoint for an end-user to get clinical cases
+      operationId: src.api.clinical_cases.get
+      parameters:
+        - $ref: '#/components/parameters/OptionalCaseId'
+      responses:
+        200:
+          $ref: '#/components/responses/ClinicalCases'
+        default:
+          $ref: '#/components/responses/Error'
+
+components:
+
+  parameters:
+
+    OptionalCaseId:
+      name: case_id
+      in: query
+      required: false
+      schema:
+        $ref: '#/components/schemas/CaseId'
+
+  responses:
+
+    ClinicalCases:
+      description: Successfully condition analysis response.
+      content:
+        application/json:
+          schema:
+            allOf:
+              - $ref: '#/components/schemas/BaseResponse'
+              - type: object
+                properties:
+                  response:
+                    type: object
+                    description: Contains the response data.
+                    properties:
+                      results:
+                        type: array
+                        description: Contains the clinical cases based on the query.
+                        items:
+                          type: object
+                          description: Clinical case object representation.
+                          properties:
+                            case_id:
+                              $ref: '#/components/schemas/CaseId'
+                            sections:
+                              $ref: '#/components/schemas/Sections'
+
+    Error:
+      description: Error response with additional information.
+      content:
+        application/json:
+          schema:
+            type: object
+            properties:
+              message:
+                $ref: '#/components/schemas/Message'
+
+  schemas:
+
+    # Abstract Complex Properties
+    BaseResponse:
+      type: object
+      properties:
+        error:
+          $ref: '#/components/schemas/Error'
+        message:
+          $ref: '#/components/schemas/Message'
+
+    # Simple Properties
+    CaseId:
+      type: integer
+      description: Identifier of an item.
+      example: 1
+      minimum: 1
+      maximum: 2500
+    Error:
+      type: boolean
+      description: Whether or not the request was successfully processed or not.
+      example: false
+    Message:
+      type: string
+      description: Error message.
+      example: 'Useful information.'
+    SectionObject:
+      type: string
+      description: Text representing the Clinical case section.
+      example: 'Paciente de 31 años...'
+
+    Sections:
+      type: object
+      description: Clinical Case sections.
+      properties:
+        section_object:
+          $ref: '#/components/schemas/SectionObject'
+
