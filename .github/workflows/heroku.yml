@@ -19,4 +19,5 @@ jobs:
           usedocker: true
           appdir: "api"
           healthcheck: "https://casescan.herokuapp.com"
-          delay: 15
+          delay: 60
+          rollbackonhealthcheckfailed: true

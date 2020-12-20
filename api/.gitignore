@@ -120,3 +120,5 @@ data/
 !data/.gitkeep
 !data/covid-marato-clinical-cases/
 !data/db.pkl
+!data/embeddings_full.h5
+!data/mapping.pkl
