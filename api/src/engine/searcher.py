@@ -12,7 +12,7 @@ def search(embeddings_dict, case_id=None):
         for idx in range(len(closest)):
             if not case_id or closest[idx] != case_id:  # Do not return itself
                 item_dict = dict(
-                    case_id=closest[idx],
+                    case_id=int(closest[idx]),
                     sections=cases_db.get(closest[idx]),
                     percentage=round((1 - float(distances[idx]) / max_distance) * 100.0, 2)
                 )
