@@ -38,5 +38,7 @@ jobs:
         time: '60s'
     - name: Check running containers
       run: docker ps
+    - name: Check containters log
+      run: docker-compose logs
     - name: Test index endpoint
       run: curl -f http://localhost:8080/ | grep "Welcome to Casescan API!" || exit 1
