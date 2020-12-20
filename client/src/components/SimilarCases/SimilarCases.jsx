@@ -37,7 +37,7 @@ function SimilarCases(props) {
 
   function renderSections() {
     let result = sectionsOrder.map((key) => {
-      if(!(key in props.sections)) return
+      if(!(key in props.sections)) return undefined;
       return <Grid container direction="column" >
         <Typography variant="subtitle1" component="h2" className={classes.title}>Section: {transform(key)}</Typography>
         <Divider className={classes.divider}/>
@@ -55,6 +55,9 @@ function SimilarCases(props) {
         }
       </Grid>
     })
+    result = result.filter(function (el) {
+      return el != null;
+    });
     return result;
   }
   return <Grid item>{renderSections()}</Grid>;

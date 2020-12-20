@@ -96,12 +96,15 @@ function SearchById() {
         });
       }
     } else if (Object.keys(data.clinicalCase.sections).length) {
-      let sections = []
-      sectionsOrder.map((element, index) => {
-        if(selected[index]) {
-          sections.push(element)
+      let sections = sectionsOrder.map((element, index) => {
+        if (selected[index]) {
+          return element
         }
+        return undefined;
       })
+      sections = sections.filter(function (el) {
+        return el != null;
+      });
       const results = await getSimilarityById({ case_id: data.clinicalCase.case_id, sections: sections });
       setData({
         results,

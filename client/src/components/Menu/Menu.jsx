@@ -5,7 +5,6 @@ import ListItem from '@material-ui/core/ListItem';
 import ListItemIcon from '@material-ui/core/ListItemIcon';
 import ListItemText from '@material-ui/core/ListItemText';
 import SearchIcon from '@material-ui/icons/Search';
-import EqualizerOutlinedIcon from '@material-ui/icons/EqualizerOutlined';
 import DescriptionOutlinedIcon from '@material-ui/icons/DescriptionOutlined';
 
 import { Link } from "react-router-dom";

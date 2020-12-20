@@ -73,7 +73,7 @@ function ClinicalCard(props) {
                 <Typography variant="body1" className={classes.paragraph}>{props.sections[key]}</Typography>
               </div>
             )
-          }
+          } else return []
         })
       }
     </CardContent>

@@ -1,5 +1,7 @@
 import React from "react";
 import { Button, Grid, InputBase, Paper, Typography } from "@material-ui/core";
+import FormControlLabel from '@material-ui/core/FormControlLabel';
+import Switch from '@material-ui/core/Switch';
 import { makeStyles } from "@material-ui/core/styles";
 import { sectionsOrder } from '../../store/data';
 import { getSimilarityByText } from '../../store/search';
@@ -37,7 +39,7 @@ function SearchByText() {
   })
   const [values, setValues] = React.useState(initValues);
   const [result, setResult] = React.useState([]);
-
+  const [aggregated, setAggregated] = React.useState(false);
   React.useEffect(() => {
     window.scrollTo(0, 0)
   }, [result]);
@@ -53,8 +55,12 @@ function SearchByText() {
     let section_names = sectionsOrder.map((el , index) => {
       if (values[index].length) {
         return values[index]
-      }
+      } 
+      return undefined
     })
+    section_names = section_names.filter(function (el) {
+      return el != null;
+    });
     const res = await getSimilarityByText({ section_names })
     await setResult(res)
   }
@@ -94,6 +100,10 @@ function SearchByText() {
         !showResults() &&
         <Grid item>
           {renderFormSections()}
+          <FormControlLabel
+            control={<Switch checked={aggregated} onChange={() => setAggregated(!aggregated)} name="checkedA" />}
+            label="Search by aggregated"
+          />
         </Grid>
       }
       {

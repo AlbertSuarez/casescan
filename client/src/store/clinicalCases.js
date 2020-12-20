@@ -1,4 +1,4 @@
-import { get, post} from '../utils/requests';
+import { get } from '../utils/requests';
 
 export const getAllCases = async function() {
   const res = await get('/clinical_cases')
