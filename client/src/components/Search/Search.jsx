@@ -6,6 +6,7 @@ import Tabs from '@material-ui/core/Tabs';
 import Tab from '@material-ui/core/Tab';
 import Paper from '@material-ui/core/Paper';
 import SearchById from './SearchById';
+import SearchByText from "./SearchByText";
 const useStyles = makeStyles((theme) => ({
   root: {
     "& .MuiOutlinedInput-root": {
@@ -53,7 +54,7 @@ function Search() {
 
   const renderTabs = () => {
     if (!step) return <SearchById />
-    else return <div>hola</div>
+    else return <SearchByText />
   } 
   return (
     <Grid container direction="column" className={classes.container}>

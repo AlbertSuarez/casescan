@@ -27,22 +27,30 @@ const useStyles = makeStyles((theme) =>  ({
   containerSearch: {
     display: "flex",
     paddingLeft: "1em",
-    width: '100%'
+    marginBottom: '1em',
+    marginTop:'0.5em'
   },
   container: {
-    padding: '2em'
+    padding: '2em',
+    paddingLeft: '3em',
+    paddingRight: '3em'
   },
   itemButton: {
     marginTop: '1em',
     width: '100%',
     display:'flex',
-    justifyContent: 'center'
-  },
-  itemResult: {
-    marginTop: '2em'
+    justifyContent: 'left'
   },
   resultHeader: {
     marginBottom: '2em'
+  },
+  button: {
+    borderRadius: '0',
+    paddingTop: '0.7em',
+    paddingBottom: '0.7em'
+  },
+  subtitle: {
+    marginBottom: '1em'
   }
 }));
 
@@ -81,7 +89,8 @@ function SearchById() {
           sections.push(element)
         }
       })
-      const results = await getSimilarityById({ case_id: data.clinicalCase.case_id, sections });
+      const all = keysOrder.length === sections.length;
+      const results = await getSimilarityById({ case_id: data.clinicalCase.case_id, sections: all ? [] : sections });
       setData({
         results,
         clinicalCase: { ...data.clinicalCase, sections: [] }
@@ -102,6 +111,11 @@ function SearchById() {
   const showResults = () => {
     if (Object.keys(data.results).length) return true
     else return false
+  }
+
+  const showSearch = () => {
+    if (!data.clinicalCase.case_id) return true
+    return false
   }
 
   const renderSearch = function () {
@@ -132,7 +146,7 @@ function SearchById() {
     all = all.map((element) => transform(element));
     all = all.join(", ");
     return (
-      <Grid container direction="column" className={classes.itemResult}>
+      <Grid container direction="column">
         <Grid item className={classes.resultHeader}>
           <Typography variant="subtitle1">Clinics cases similarities with clinical case <b>{data.clinicalCase.case_id}</b>. </Typography>
           <Typography variant="subtitle2">Topic(s): {all}</Typography>
@@ -143,17 +157,33 @@ function SearchById() {
   }
   return (
     <Grid container direction="column" className={classes.container}>
-      <Grid item>{renderSearch()}</Grid>
+      {
+        showSearch() &&
+        <Grid item>
+          <Typography variant="subtitle1"> Search similarities by existing case id: </Typography>
+          {renderSearch()}
+        </Grid>
+      }
       {
         showClinicalCase() &&
         <Grid item>
+          <Typography variant="subtitle1" className={classes.subtitle}>
+            Select the paragraphs that you want to search by:
+          </Typography>
           <ClickableCard sections={data.clinicalCase.sections} onSelect={handleSelect} />
         </Grid>
       }
       {
         showClinicalCase() &&
         <Grid item className={classes.itemButton}>
-          <Button variant="contained" color="secondary" onClick={handleClick}>Search similarity</Button>
+          <Button 
+            variant="contained"
+            color="primary"
+            onClick={handleClick}
+            className={classes.button}
+          >
+            <Typography variant="body">Search similarity</Typography>
+          </Button>
         </Grid>
       }
       {

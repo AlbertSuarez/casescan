@@ -16,12 +16,13 @@ const useStyles = makeStyles((theme) => (
     },
     cardAction: {
       display: 'block',
-      textAlign: 'initial'
+      textAlign: 'justify'
     },
-    cardActionClicked: {
-      display: 'block',
-      textAlign: 'initial',
-      backgroundColor: theme.palette.secondary.main
+    cardClicked: {
+      width: 'inherit',
+      marginTop: '0.5em',
+      marginBottom: '0.5em',
+      backgroundColor: theme.palette.secondary.light
     }
   }
 ))
@@ -51,9 +52,9 @@ function ClickableCard (props) {
     let result = []
     keysOrder.map((key, index) => {
       result.push(
-        <Card square fullWidth className={classes.card} >
+        <Card square fullWidth className={selected[index] ? classes.cardClicked : classes.card} >
           <ButtonBase
-            className={selected[index] ? classes.cardActionClicked : classes.cardAction}
+            className={classes.cardAction}
             onClick={(event) => handleClick(event)}
             id={key}
           >

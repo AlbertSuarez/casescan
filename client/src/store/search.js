@@ -11,3 +11,15 @@ export const getSimilarityById = async function ({ case_id, sections}) {
     return [];
   }
 };
+
+
+export const getSimilarityByText = async function ({ section_names, aggregated_search = true }) {
+  const res = await post("/search/text", {
+    data: { section_names, aggregated_search }
+  });
+  if (res.status === 200) {
+    return res.data.response.results;
+  } else {
+    return [];
+  }
+}
