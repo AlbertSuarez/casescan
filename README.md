@@ -1,10 +1,13 @@
 # Casescan
 
-[![HitCount](http://hits.dwyl.io/AlbertSuarez/casescan.svg)](http://hits.dwyl.io/AlbertSuarez/casescan)
-![Python application](https://github.com/AlbertSuarez/casescan/workflows/Python%20application/badge.svg)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d9fc15de-a4fe-4baf-9b5a-5d62a4cf1352/deploy-status)](https://app.netlify.com/sites/pedantic-khorana-cf5b1a/deploys)
 ![Deploy to Heroku](https://github.com/AlbertSuarez/casescan/workflows/Deploy%20to%20Heroku/badge.svg)
+![Python application](https://github.com/AlbertSuarez/casescan/workflows/Python%20application/badge.svg)
+
+[![HitCount](http://hits.dwyl.io/AlbertSuarez/casescan.svg)](http://hits.dwyl.io/AlbertSuarez/casescan)
 [![GitHub stars](https://img.shields.io/github/stars/AlbertSuarez/casescan.svg)](https://gitHub.com/AlbertSuarez/casescan/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/AlbertSuarez/casescan.svg)](https://gitHub.com/AlbertSuarez/casescan/network/)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/AlbertSuarez/casescan.svg)](https://github.com/AlbertSuarez/casescan)
 [![GitHub contributors](https://img.shields.io/github/contributors/AlbertSuarez/casescan.svg)](https://gitHub.com/AlbertSuarez/casescan/graphs/contributors/)
 [![GitHub license](https://img.shields.io/github/license/AlbertSuarez/casescan.svg)](https://github.com/AlbertSuarez/casescan/blob/master/LICENSE)
 
@@ -64,6 +67,22 @@ This model has an output embeddings size of **300** dimensions. So, given the 6 
 > Dataset physic_exploration: [(1282, 300)]
 > Dataset supplementary_tests: [(1285, 300)]
 > Dataset treatment: [(1255, 300)]
+```
+
+### Build indexes
+
+Given the `embeddings_full.h5` file, the latest step was to create as much as [NMSLIB](https://github.com/nmslib/nmslib) indexes as different sections we had in our data. NMSLIB is a Non-Metric Space Library, used as an efficient similarity search library, and a toolkit for evaluation of k-NN methods for generic non-metric spaces.
+
+Once the indexes created under the `indexes` folder, it's just sending embeddings as input and then getting the closest point in the space with the corresponding distance.
+
+```text
+> Index for evolution.nmslib: [1.67 MB]
+> Index for supplementary_tests.nmslib: [1.66 MB]
+> Index for treatment.nmslib: [1.62 MB]
+> Index for assessment.nmslib: [1.65 MB]
+> Index for physic_exploration.nmslib: [1.66 MB]
+> Index for medical_history.nmslib: [1.67 MB]
+> Index for aggregated.nmslib: [9.16 MB]
 ```
 
 ## Development

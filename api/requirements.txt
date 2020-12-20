@@ -9,3 +9,4 @@ Unidecode
 sentence-transformers
 numpy
 h5py
+nmslib

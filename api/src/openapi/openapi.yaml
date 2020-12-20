@@ -251,7 +251,14 @@ components:
     SectionName:
       type: string
       description: Clinical case section name.
-      example: 'Medical history'
+      example: 'medical_history'
+      enum:
+        - medical_history
+        - physic_exploration
+        - supplementary_tests
+        - assessment
+        - treatment
+        - evolution
     SectionContent:
       type: string
       description: Text representing the Clinical case section.
