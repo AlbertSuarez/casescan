@@ -64,7 +64,29 @@ We only tried one model for extracting the text embeddings, so maybe other one w
 
 ## Images
 
-_Coming soon..._
+<br>
+<p align="center">
+  <img alt="Clinical Cases" src="docs/screenshots/screenshot-1.png" width="100%"/>
+</p>
+<br>
+
+<br>
+<p align="center">
+  <img alt="ID Search" src="docs/screenshots/screenshot-2.png" width="100%"/>
+</p>
+<br>
+
+<br>
+<p align="center">
+  <img alt="Search results" src="docs/screenshots/screenshot-3.png" width="100%"/>
+</p>
+<br>
+
+<br>
+<p align="center">
+  <img alt="Text Search" src="docs/screenshots/screenshot-4.png" width="100%"/>
+</p>
+<br>
 
 ## Similarity analysis procedure
 
