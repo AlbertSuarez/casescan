@@ -54,3 +54,9 @@ SECTION_MAPPING_TO_SKIP = ['ver imagenes', 'ver a continuacion']
 # Transformer
 MODEL_NAME = 'average_word_embeddings_glove.840B.300d'
 MODEL_DIMENSIONS = 300
+
+# Nmslib
+NMSLIB_METRIC = 'l2'
+NMSLIB_METHOD = 'hnsw'
+NMSLIB_EF_CONSTRUCTION = 500
+NMSLIB_EF_SEARCH = 500
