@@ -65,7 +65,11 @@ function SearchByText() {
     section_names = section_names.filter(function (el) {
       return el != null;
     });
-    const res = await getSimilarityByText({ section_names, aggregated_search: aggregated })
+    let input = {}
+    for (let i in section_names) {
+      input[sectionsOrder[i]] = section_names[i];
+    }
+    const res = await getSimilarityByText({ section_names: input, aggregated_search: aggregated })
     await setResult(res)
   }
 
