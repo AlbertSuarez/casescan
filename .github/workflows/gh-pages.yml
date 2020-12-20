@@ -10,7 +10,7 @@ jobs:
     env:
       node-vesion: 10.22.1
       cname: casescan.asuarez.dev
-      base-directory: ./client
+      base-directory: client
 
     steps:
     - name: Checkout
