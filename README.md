@@ -1,4 +1,8 @@
-# Casescan
+<br>
+<p align="center">
+  <img alt="Casescan" src="docs/images/casescan.png" width="50%"/>
+</p>
+<br>
 
 ![Deploy to GitHub pages](https://github.com/AlbertSuarez/casescan/workflows/Deploy%20to%20GitHub%20pages/badge.svg)
 ![Deploy to Heroku](https://github.com/AlbertSuarez/casescan/workflows/Deploy%20to%20Heroku/badge.svg)
