@@ -1,4 +1,8 @@
-# Casescan
+<br>
+<p align="center">
+  <img alt="Casescan" src="docs/images/casescan.png" width="50%"/>
+</p>
+<br>
 
 ![Deploy to GitHub pages](https://github.com/AlbertSuarez/casescan/workflows/Deploy%20to%20GitHub%20pages/badge.svg)
 ![Deploy to Heroku](https://github.com/AlbertSuarez/casescan/workflows/Deploy%20to%20Heroku/badge.svg)
@@ -17,11 +21,72 @@
 
 ## Summary
 
-_Coming soon..._
+### Inspiration
+
+We both are a very big fans of similarities project and when we saw this challenge, we couldn't lose the opportunity to work into.
+
+Also, we can imagine how unstructured is the data from the clinical cases, so we wanted to collaborate with our help in order to improve the daily work from the field in this topic.
+
+### What it does
+
+**Casescan** is a small web application where you can search into a clinical cases' database based on text-semantic similarities.
+
+Searches can be performed in two different ways:
+
+- Given an existing clinical case from the database and a bunch of sections from it (Medical history, assessment...).
+- Given a free-text input split by section.
+
+The output will be a list of the most similar clinical cases based on the query parameters with the corresponding similarity percentage.
+
+### How I built it
+
+From the frontend perspective, Casescan is a React Web application. It's build as a small dashboard designed for professionals in order to be used in a daily basis. The styles from the website are based on the Material UI guidelines.
+
+From the backend perspective, we have a Python API built with Flask/OpenAPI (connected thanks to Connexion library). This API serves all the features that the frontend needs from the clinical cases retrieving to the differnt types of searches.
+
+The procedure of extracting similarities from the given database has been the following: [Similarity analysis procedure](#similarity-analysis-procedure).
+
+### Challenges I ran into
+
+We both kinda had some experience in the NLP world with previous personal and university projects. However, it was a challenge to face again with this topic and understand how we could extract the most value information from the clinical cases texts.
+
+### Accomplishments that I'm proud of
+
+Given the fact that we couldn't work 24/7 in this project during the hackathon time window, we are very proud of the result and how cute/working is the web application.
+
+### What I learned
+
+Similarities is a concept very famous in the industry but still a lot of discover to be found in the future.
+
+### What's next for Casescan
+
+We only tried one model for extracting the text embeddings, so maybe other one work better for this use case. A deep research given this will be the key for improving the solution.
 
 ## Images
 
-_Coming soon..._
+<br>
+<p align="center">
+  <img alt="Clinical Cases" src="docs/screenshots/screenshot-1.png" width="100%"/>
+</p>
+<br>
+
+<br>
+<p align="center">
+  <img alt="ID Search" src="docs/screenshots/screenshot-2.png" width="100%"/>
+</p>
+<br>
+
+<br>
+<p align="center">
+  <img alt="Search results" src="docs/screenshots/screenshot-3.png" width="100%"/>
+</p>
+<br>
+
+<br>
+<p align="center">
+  <img alt="Text Search" src="docs/screenshots/screenshot-4.png" width="100%"/>
+</p>
+<br>
 
 ## Similarity analysis procedure
 
@@ -84,6 +149,12 @@ Once the indexes created under the `indexes` folder, it's just sending embedding
 > Index for medical_history.nmslib: [1.67 MB]
 > Index for aggregated.nmslib: [9.16 MB]
 ```
+
+<p align="center">
+  <img alt="Index Representation" src="./docs/images/index.png" width="80%"/>
+</p>
+
+> Note: Index representation generated with [nmslib-viz](https://github.com/AlbertSuarez/nmslib-viz).
 
 ## Development
 
