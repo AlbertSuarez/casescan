@@ -7,6 +7,7 @@ DATA_CLINICAL_CASES_FOLDER = os.path.join(DATA_FOLDER, 'covid-marato-clinical-ca
 DATA_CLINICAL_CASES_DB = os.path.join(DATA_FOLDER, 'db.pkl')
 DATA_EMBEDDINGS = os.path.join(DATA_FOLDER, 'embeddings_full.h5')
 DATA_MAPPING = os.path.join(DATA_FOLDER, 'mapping.pkl')
+DATA_INDEXES_FOLDER = os.path.join(DATA_FOLDER, 'indexes')
 
 # Sections
 SECTION_MEDICAL_HISTORY = 'medical_history'
@@ -53,3 +54,10 @@ SECTION_MAPPING_TO_SKIP = ['ver imagenes', 'ver a continuacion']
 # Transformer
 MODEL_NAME = 'average_word_embeddings_glove.840B.300d'
 MODEL_DIMENSIONS = 300
+
+# Nmslib
+NMSLIB_METRIC = 'l2'
+NMSLIB_METHOD = 'hnsw'
+NMSLIB_EF_CONSTRUCTION = 1500
+NMSLIB_EF_SEARCH = 1500
+NMSLIB_MATCHES = 3

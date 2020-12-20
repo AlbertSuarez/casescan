@@ -8,7 +8,7 @@ from tqdm import tqdm
 
 from src import DATA_EMBEDDINGS, DATA_MAPPING, SECTION_LIST, SECTION_AGGREGATED, MODEL_DIMENSIONS
 from src.engine import transformer
-from src.engine.db_initializator import cases_db
+from src.engine.initializator import cases_db
 from src.helper import log
 
 
