@@ -1,4 +1,4 @@
-from src.engine.db_initializator import cases_db
+from src.engine.initializator import cases_db
 from src.helper import response_builder
 
 
