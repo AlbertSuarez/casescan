@@ -2,7 +2,10 @@ import React from "react";
 import Grid from '@material-ui/core/Grid';
 import { makeStyles } from "@material-ui/core/styles";
 import Typography from '@material-ui/core/Typography';
-
+import Tabs from '@material-ui/core/Tabs';
+import Tab from '@material-ui/core/Tab';
+import Paper from '@material-ui/core/Paper';
+import SearchById from './SearchById';
 const useStyles = makeStyles((theme) => ({
   root: {
     "& .MuiOutlinedInput-root": {
@@ -18,14 +21,22 @@ const useStyles = makeStyles((theme) => ({
     width: "inherit",
     backgroundColor: theme.palette.grey[100],
   },
-  containerBody: {
+  itemSearch: {
+    backgroundColor: theme.palette.primary.main
+  },
+  paperSearch: {
     padding: '2em',
-    paddingTop: '1em'
+    paddingTop: '1em',
+    paddingBottom: '0.5em',
+    backgroundColor: theme.palette.primary.main 
   },
   itemHeader: {
     backgroundColor: theme.palette.primary.main,
     padding: '2em',
-    paddingTop: '2em'
+    paddingBottom: '0.5em'
+  },
+  indicator: {
+    backgroundColor: theme.palette.primary.dark
   }
 }));
 
@@ -33,16 +44,39 @@ const useStyles = makeStyles((theme) => ({
 function Search() {
 
   const classes = useStyles();
+  const [step, setStep] = React.useState(0);
+
+  const handleChange = (event, newValue) => {
+    setStep(newValue);
+  };
+
+
+  const renderTabs = () => {
+    if (!step) return <SearchById />
+    else return <div>hola</div>
+  } 
   return (
     <Grid container direction="column" className={classes.container}>
       <Grid item className={classes.itemHeader}>
         <Typography variant="h4">Search similarity</Typography>
       </Grid>
+      <Grid item className={classes.itemSearch}>
+        <Paper className={classes.paperSearch} elevation={0} square>
+          <Tabs
+            value={step}
+            onChange={handleChange}
+            className={classes.tab}
+            classes={{
+              indicator: classes.indicator
+            }}
+          >
+            <Tab label="By existing clinical case" />
+            <Tab label="By text" />
+          </Tabs>
+        </Paper>
+      </Grid>
       <Grid item>
-        <Grid container direction="column" className={classes.containerBody}>
-          <Grid item className={classes.itemSearch}>
-          </Grid>
-        </Grid>
+        {renderTabs()}
       </Grid>
     </Grid>
   );

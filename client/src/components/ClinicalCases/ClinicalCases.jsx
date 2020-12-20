@@ -54,17 +54,12 @@ const useStyles = makeStyles((theme) => ({
   },
   input: {
     width: "100%",
-  },
-  inputContent: {
-    margin: "0 !important",
-    padding: "0 !important",
-  },
+  }
 }));
 
 function ClinicalCases() {
   const classes = useStyles();
 
-  const [loading, setLoading] = React.useState(true);
   const [data, setData] = React.useState([]);
   const [input, setInput] = React.useState("");
   const [page, setPage] = React.useState(1);
@@ -87,11 +82,14 @@ function ClinicalCases() {
   const handleMore = () => {
     setPage(page + 1);
   };
+
+  /**COMPUTED */
   const isNextPage = function () {
     if (page * 3 >= data.length) return false;
     return true;
   };
 
+  /** RENDERS */
   const renderSearch = function () {
     return (
       <Paper component="form" className={classes.containerSearch}>

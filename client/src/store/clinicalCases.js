@@ -18,3 +18,12 @@ export const getClinicalCaseById = async function(id) {
       return []
   }
 }
+
+export const keysOrder = [
+  'medical_history',
+  'physic_exploration',
+  'supplementary_tests',
+  'assessment',
+  'treatment',
+  'evolution'
+]
