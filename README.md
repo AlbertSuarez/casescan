@@ -86,7 +86,7 @@ Once the indexes created under the `indexes` folder, it's just sending embedding
 ```
 
 <p align="center">
-  <img alt="Index Representation" src="./docs/images/index.png" width="50%"/>
+  <img alt="Index Representation" src="./docs/images/index.png" width="80%"/>
 </p>
 
 > Note: Index representation generated with [nmslib-viz](https://github.com/AlbertSuarez/nmslib-viz).
