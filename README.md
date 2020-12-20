@@ -85,6 +85,12 @@ Once the indexes created under the `indexes` folder, it's just sending embedding
 > Index for aggregated.nmslib: [9.16 MB]
 ```
 
+<p align="center">
+  <img alt="Index Representation" src="./docs/images/index.png" width="50%"/>
+</p>
+
+> Note: Index representation generated with [nmslib-viz](https://github.com/AlbertSuarez/nmslib-viz).
+
 ## Development
 
 ### Requirements
