@@ -15,9 +15,11 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/AlbertSuarez/casescan.svg)](https://gitHub.com/AlbertSuarez/casescan/graphs/contributors/)
 [![GitHub license](https://img.shields.io/github/license/AlbertSuarez/casescan.svg)](https://github.com/AlbertSuarez/casescan/blob/master/LICENSE)
 
-[Demo](https://casescan.asuarez.dev) | [API Documentation](https://casescan.herokuapp.com/ui/) | [API Endpoint](https://casescan.herokuapp.com/)
+[Demo](https://casescan.asuarez.dev) | [API Documentation](https://casescan.herokuapp.com/ui/) | [API Endpoint](https://casescan.herokuapp.com/) | [Devpost](https://devpost.com/software/casescan)
 
 🔍 Clinical cases search by similarity specialized in Covid-19
+
+> Note: The public backend is usually not working due to the free-tier of Heroku.
 
 ## Summary
 
