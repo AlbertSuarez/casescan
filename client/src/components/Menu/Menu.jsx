@@ -51,24 +51,18 @@ const useStyles = makeStyles((theme) => ({
 
 function Menu() {
   const classes = useStyles();
-  const [value, setValue] = React.useState(0);
 
   const items = [
     {
-      text: 'Casos clínics',
+      text: 'Clinic cases',
       icon: <DescriptionOutlinedIcon />,
       href: '/clinical-cases'
     },
     {
-      text: 'Busquedes',
+      text: 'Search similarities',
       icon: <SearchIcon />,
       href: 'search'
-    },
-    {
-      text: 'Estadístiques',
-      icon: <EqualizerOutlinedIcon />,
-      href: '/stats'
-    },
+    }
   ]
 
   return (

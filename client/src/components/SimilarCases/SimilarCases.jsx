@@ -3,9 +3,14 @@ import { makeStyles } from "@material-ui/core/styles";
 import Typography from "@material-ui/core/Typography";
 import { Divider, Grid } from "@material-ui/core";
 import ClinicalCard from "../ClinicalCard/ClinicalCard";
+import { transform } from '../../utils/data';
+import { sectionsOrder } from '../../store/data';
 
 const useStyles = makeStyles((theme) =>  (
   {
+    container: {
+      marginBottom: '2em'
+    },
     title: {
       textAlign: 'left',
       textTransform: 'uppercase',
@@ -28,22 +33,24 @@ const useStyles = makeStyles((theme) =>  (
   }));
 
 function SimilarCases(props) {
-
   const classes = useStyles();
 
-  function transform(key) {
-    let result = key.replace('_', ' ');
-    return result.charAt(0).toUpperCase() + result.slice(1);
-  }
-
   function renderSections() {
-    let result = Object.keys(props.sections).map((key) => {
+    let result = sectionsOrder.map((key) => {
+      if(!(key in props.sections)) return
       return <Grid container direction="column" >
         <Typography variant="subtitle1" component="h2" className={classes.title}>Section: {transform(key)}</Typography>
         <Divider className={classes.divider}/>
         {
           props.sections[key].map((clinicCase) => {
-            return <ClinicalCard case_id={clinicCase.case_id} sections={clinicCase.sections} percentage={clinicCase.percentage} />
+            return (
+              <div className={classes.container}>
+                <ClinicalCard 
+                  case_id={clinicCase.case_id}
+                  sections={clinicCase.sections}
+                  percentage={clinicCase.percentage} />
+              </div>
+            )
           })
         }
       </Grid>

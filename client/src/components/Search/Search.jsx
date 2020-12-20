@@ -59,7 +59,7 @@ function Search() {
   return (
     <Grid container direction="column" className={classes.container}>
       <Grid item className={classes.itemHeader}>
-        <Typography variant="h4">Search similarity</Typography>
+        <Typography variant="h4">Search similarities</Typography>
       </Grid>
       <Grid item className={classes.itemSearch}>
         <Paper className={classes.paperSearch} elevation={0} square>

@@ -7,11 +7,17 @@ import IconButton from "@material-ui/core/IconButton";
 import SearchIcon from "@material-ui/icons/Search";
 import Button from "@material-ui/core/Button/Button";
 import Typography from '@material-ui/core/Typography';
+import MuiAlert from '@material-ui/lab/Alert';
 import { getClinicalCaseById } from '../../store/clinicalCases';
 import { getSimilarityById } from '../../store/search';
 import ClickableCard from "../ClickableCard/ClickableCard";
-import { keysOrder } from '../../store/clinicalCases';
+import { sectionsOrder } from '../../store/data';
 import SimilarCases from '../SimilarCases/SimilarCases';
+import { transform } from '../../utils/data';
+
+function Alert(props) {
+  return <MuiAlert elevation={6} variant="filled" {...props} />;
+}
 
 const useStyles = makeStyles((theme) =>  ({
   root: {
@@ -32,8 +38,8 @@ const useStyles = makeStyles((theme) =>  ({
   },
   container: {
     padding: '2em',
-    paddingLeft: '3em',
-    paddingRight: '3em'
+    paddingLeft: '5em',
+    paddingRight: '5em'
   },
   itemButton: {
     marginTop: '1em',
@@ -65,11 +71,13 @@ function SearchById() {
     results: {}
   });
   const [selected, setSelected] = React.useState([]);
-
-  function transform(key) {
-    let result = key.replace('_', ' ');
-    return result.charAt(0).toUpperCase() + result.slice(1);
-  }
+  const [error, setError] = React.useState({
+    error: false,
+    message: ''
+  })
+  React.useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [data]);
   /** HANDLERS */
   const handleChange = (event) => {
     setInput(event.target.value);
@@ -78,19 +86,23 @@ function SearchById() {
   const handleClick = async () => {
     if (!Object.keys(data.clinicalCase.sections).length && input) {
       const clinicalCase = await getClinicalCaseById(input);
-      setData({
-        clinicalCase: clinicalCase[0],
-        results: {},
-      });
+      if ('error' in clinicalCase) {
+        setError({ error: true, message: clinicalCase.message });
+      }
+      else {
+        setData({
+          clinicalCase: clinicalCase[0],
+          results: {},
+        });
+      }
     } else if (Object.keys(data.clinicalCase.sections).length) {
       let sections = []
-      keysOrder.map((element, index) => {
+      sectionsOrder.map((element, index) => {
         if(selected[index]) {
           sections.push(element)
         }
       })
-      const all = keysOrder.length === sections.length;
-      const results = await getSimilarityById({ case_id: data.clinicalCase.case_id, sections: all ? [] : sections });
+      const results = await getSimilarityById({ case_id: data.clinicalCase.case_id, sections: sections });
       setData({
         results,
         clinicalCase: { ...data.clinicalCase, sections: [] }
@@ -160,8 +172,13 @@ function SearchById() {
       {
         showSearch() &&
         <Grid item>
-          <Typography variant="subtitle1"> Search similarities by existing case id: </Typography>
           {renderSearch()}
+          {
+            error.error &&
+            <Alert severity="error">
+              {error.message}
+            </Alert>
+          }
         </Grid>
       }
       {

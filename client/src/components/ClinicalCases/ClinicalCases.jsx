@@ -27,7 +27,7 @@ const useStyles = makeStyles((theme) => ({
     backgroundColor: theme.palette.grey[100],
   },
   containerBody: {
-    padding: '2em',
+    padding: '5em',
     paddingTop: '1em'
   },
   itemHeader: {
@@ -40,17 +40,20 @@ const useStyles = makeStyles((theme) => ({
   },
   itemCards: {
     paddingTop: "2em",
-    "& div": {
-      marginBottom: "2em",
-    },
   },
   itemButton: {
     display: "flex",
-    justifyContent: "center",
+    justifyContent: "left",
   },
+  button: {
+    borderRadius: '0'
+  },  
   containerSearch: {
     display: "flex",
     paddingLeft: "1em",
+  },
+  containerCard: {
+    marginBottom: '2em'
   },
   input: {
     width: "100%",
@@ -117,7 +120,9 @@ function ClinicalCases() {
     let result = [];
     while (i < max) {
       const element = data[i];
-      result.push(<ClinicalCard case_id={element.case_id} sections={element.sections} />);
+      result.push(<div className={classes.containerCard}>
+        <ClinicalCard case_id={element.case_id} sections={element.sections} />
+      </div>);
       i += 1;
     }
     return result;
@@ -142,8 +147,9 @@ function ClinicalCases() {
                 variant="contained"
                 color="secondary"
                 onClick={handleMore}
+                className={classes.button}
               >
-                Mostrar més documents
+                Show more documents
               </Button>
             </Grid>
           )}

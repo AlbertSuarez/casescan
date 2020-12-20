@@ -11,19 +11,18 @@ export const getAllCases = async function() {
 
 
 export const getClinicalCaseById = async function(id) {
-  const res = await get('/clinical_cases', { case_id: parseInt(id) })
-  if(res.status === 200) {
+  try {
+    const res = await get('/clinical_cases', { case_id: parseInt(id) })
+    if(res.status === 200) {
+      if(res.data.error){
+        return res.data
+      }
       return res.data.response.results
-  } else {
-      return []
+    }
+  } catch (error) {
+    return {
+      error: true,
+      message: 'Invalid input. The ID is between 1 and 2500'
+    }
   }
 }
-
-export const keysOrder = [
-  'medical_history',
-  'physic_exploration',
-  'supplementary_tests',
-  'assessment',
-  'treatment',
-  'evolution'
-]

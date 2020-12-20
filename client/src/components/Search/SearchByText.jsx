@@ -1,8 +1,10 @@
 import React from "react";
 import { Button, Grid, InputBase, Paper, Typography } from "@material-ui/core";
 import { makeStyles } from "@material-ui/core/styles";
-import { keysOrder } from '../../store/clinicalCases';
+import { sectionsOrder } from '../../store/data';
 import { getSimilarityByText } from '../../store/search';
+import { transform } from '../../utils/data';
+
 import SimilarCases from "../SimilarCases/SimilarCases";
 const useStyles = makeStyles((theme) => ({
   container: {
@@ -30,17 +32,16 @@ const useStyles = makeStyles((theme) => ({
 
 function SearchByText() {
   const classes = useStyles();
-  const initValues = keysOrder.map(() => {
+  const initValues = sectionsOrder.map(() => {
     return ''
   })
   const [values, setValues] = React.useState(initValues);
   const [result, setResult] = React.useState([]);
 
-  function transform(key) {
-    let result = key.replace('_', ' ');
-    return result.charAt(0).toUpperCase() + result.slice(1);
-  }
-
+  React.useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [result]);
+  
   const handleChange = (event) => {
     const id = event.currentTarget.id;
     let newValues = [...values];
@@ -49,7 +50,7 @@ function SearchByText() {
   }
 
   const handleClick = async () => {
-    let section_names = keysOrder.map((el , index) => {
+    let section_names = sectionsOrder.map((el , index) => {
       if (values[index].length) {
         return values[index]
       }
@@ -64,10 +65,10 @@ function SearchByText() {
   }
 
   function renderFormSections() {
-    let inputSections = keysOrder.map((key, index) => {
+    let inputSections = sectionsOrder.map((key, index) => {
       return (
         <Grid item className={classes.paragraph}>
-          <Typography className={classes.paragraphTitle}>{transform(keysOrder[index])}</Typography>
+          <Typography className={classes.paragraphTitle}>{transform(sectionsOrder[index])}</Typography>
           <Paper square>
             <InputBase
               className={classes.input}
