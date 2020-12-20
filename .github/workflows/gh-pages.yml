@@ -8,7 +8,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     env:
-      node-vesion: 10.x
+      node-vesion: 10.22.1
       cname: casescan.asuarez.dev
       base-directory: ./client
 
