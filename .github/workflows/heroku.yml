@@ -18,7 +18,4 @@ jobs:
           heroku_email: "alsumo95@gmail.com"
           usedocker: true
           appdir: "api"
-          healthcheck: "https://casescan.herokuapp.com"
-          delay: 300
-          rollbackonhealthcheckfailed: true
           dontuseforce: true

@@ -52,7 +52,7 @@ SECTION_MAPPING_FILE_TO_NAME = {
 SECTION_MAPPING_TO_SKIP = ['ver imagenes', 'ver a continuacion']
 
 # Transformer
-MODEL_NAME = 'average_word_embeddings_glove.840B.300d'
+MODEL_NAME = 'average_word_embeddings_glove.6B.300d'
 MODEL_DIMENSIONS = 300
 
 # Nmslib
