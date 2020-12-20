@@ -78,7 +78,7 @@ function ClinicalCard(props) {
       }
     </CardContent>
     <CardActionArea className={classes.actionArea}>
-      <Button onClick={() => {setOpened(!opened)}}>
+      <Button fullWidth onClick={() => {setOpened(!opened)}}>
         {
           opened
           ? <ExpandLessIcon /> 

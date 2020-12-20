@@ -61,7 +61,7 @@ function SearchByText() {
     section_names = section_names.filter(function (el) {
       return el != null;
     });
-    const res = await getSimilarityByText({ section_names })
+    const res = await getSimilarityByText({ section_names, aggregated_search: aggregated })
     await setResult(res)
   }
 
