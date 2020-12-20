@@ -21,3 +21,4 @@ jobs:
           healthcheck: "https://casescan.herokuapp.com"
           delay: 60
           rollbackonhealthcheckfailed: true
+          dontuseforce: true
