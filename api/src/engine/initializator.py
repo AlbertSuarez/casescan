@@ -22,10 +22,11 @@ def _init_indexes():
     index_dict = dict()
     for index_name in SECTION_LIST + [SECTION_AGGREGATED]:
         index_object = Nmslib()
-        index_object.load(os.path.join(DATA_INDEXES_FOLDER, index_name))
+        index_object.load(os.path.join(DATA_INDEXES_FOLDER, f'{index_name}.nmslib'))
         index_dict[index_name] = index_object
     log.info(f'Indexes initialized with {len(index_dict)} objects.')
     return index_dict
 
 
 cases_db = _init_db()
+indexes = _init_indexes()
