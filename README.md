@@ -66,6 +66,22 @@ This model has an output embeddings size of **300** dimensions. So, given the 6 
 > Dataset treatment: [(1255, 300)]
 ```
 
+### Build indexes
+
+Given the `embeddings_full.h5` file, the latest step was to create as much as [NMSLIB](https://github.com/nmslib/nmslib) indexes as different sections we had in our data. NMSLIB is a Non-Metric Space Library, used as an efficient similarity search library, and a toolkit for evaluation of k-NN methods for generic non-metric spaces.
+
+Once the indexes created under the `indexes` folder, it's just sending embeddings as input and then getting the closest point in the space with the corresponding distance.
+
+```text
+> Index for evolution.nmslib: [1.67 MB]
+> Index for supplementary_tests.nmslib: [1.66 MB]
+> Index for treatment.nmslib: [1.62 MB]
+> Index for assessment.nmslib: [1.65 MB]
+> Index for physic_exploration.nmslib: [1.66 MB]
+> Index for medical_history.nmslib: [1.67 MB]
+> Index for aggregated.nmslib: [9.16 MB]
+```
+
 ## Development
 
 ### Requirements
