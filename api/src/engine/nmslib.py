@@ -21,7 +21,7 @@ class Nmslib:
         return self._index.knnQuery(v, k=n)
 
     def save(self, fn: str):
-        self._index.saveIndex(fn)
+        self._index.saveIndex(fn, save_data=True)
 
     def load(self, fn: str):
         self._index = nmslib.init(space=self._metric, method=self._method, data_type=self._data_type)

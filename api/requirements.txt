@@ -10,3 +10,4 @@ sentence-transformers
 numpy
 h5py
 nmslib
+nmslib-viz

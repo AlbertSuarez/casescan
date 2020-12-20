@@ -19,8 +19,6 @@ tags:
     x-displayName: Clinical Cases
   - name: search
     x-displayName: Similarity search
-  - name: stats
-    x-displayName: Similarity statistics
 
 paths:
 
@@ -70,19 +68,6 @@ paths:
       responses:
         200:
           $ref: '#/components/responses/Search'
-        default:
-          $ref: '#/components/responses/Error'
-
-  /stats:
-    get:
-      tags:
-        - stats
-      summary: API endpoint to retrieve similarity stats
-      description: Endpoint for an end-user to retrieve similarity stats with detailed information
-      operationId: src.api.stats.get
-      responses:
-        200:
-          $ref: '#/components/responses/Stats'
         default:
           $ref: '#/components/responses/Error'
 
@@ -191,22 +176,6 @@ components:
                                 percentage:
                                   $ref: '#/components/schemas/Percentage'
 
-    Stats:
-      description: Successfully Stats response.
-      content:
-        application/json:
-          schema:
-            allOf:
-              - $ref: '#/components/schemas/BaseResponse'
-              - type: object
-                properties:
-                  response:
-                    type: object
-                    description: Contains the response data.
-                    properties:
-                      total_amount:
-                        $ref: '#/components/schemas/TotalAmount'
-
     Error:
       description: Error response with additional information.
       content:
@@ -276,8 +245,3 @@ components:
       properties:
         section_name:
           $ref: '#/components/schemas/SectionContent'
-    TotalAmount:
-      type: integer
-      description: Amount of clinical cases.
-      example: 2000
-      minimum: 0
