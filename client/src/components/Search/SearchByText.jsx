@@ -82,6 +82,7 @@ function SearchByText() {
               onChange={(event) => handleChange(event)}
               id = {index}
               multiline={true}
+              placeholder="Write your case details here ..."
               rows={4}
             />
           </Paper>

@@ -131,7 +131,7 @@ function ClinicalCases() {
   return (
     <Grid container direction="column" className={classes.container}>
       <Grid item className={classes.itemHeader}>
-        <Typography variant="h4">Casos clinics</Typography>
+        <Typography variant="h4">Clinical Cases</Typography>
       </Grid>
       <Grid item>
         <Grid container direction="column" className={classes.containerBody}>
