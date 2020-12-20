@@ -29,6 +29,10 @@ const useStyles = makeStyles((theme) => ({
     borderRadius: '0',
     paddingTop: '0.7em',
     paddingBottom: '0.7em'
+  },
+  switch: {
+    marginBottom: '1em',
+    marginTop: '1em'
   }
 }));
 
@@ -101,10 +105,12 @@ function SearchByText() {
         !showResults() &&
         <Grid item>
           {renderFormSections()}
-          <FormControlLabel
-            control={<Switch checked={aggregated} onChange={() => setAggregated(!aggregated)} name="checkedA" />}
-            label="Search by aggregated"
-          />
+          <div className={classes.switch}>
+            <FormControlLabel
+              control={<Switch checked={aggregated} onChange={() => setAggregated(!aggregated)} name="checkedA" />}
+              label="Aggregated search"
+            />
+          </div>
         </Grid>
       }
       {
