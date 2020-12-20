@@ -1,7 +1,7 @@
 import os
 import pickle
 
-from src import DATA_CLINICAL_CASES_DB, SECTION_LIST, SECTION_AGGREGATED, DATA_INDEXES_FOLDER
+from src import DATA_CLINICAL_CASES_DB, SECTION_LIST, SECTION_AGGREGATED, DATA_INDEXES_FOLDER, DATA_MAPPING
 from src.engine.nmslib import Nmslib
 from src.helper import log
 
@@ -28,5 +28,14 @@ def _init_indexes():
     return index_dict
 
 
+def _init_mapping():
+    log.info('Initializing mapping.')
+    with open(DATA_MAPPING, 'rb') as f:
+        mapping_dict = pickle.load(f)
+    log.info('Mapping initialized.')
+    return mapping_dict
+
+
 cases_db = _init_db()
 indexes = _init_indexes()
+mapping = _init_mapping()
