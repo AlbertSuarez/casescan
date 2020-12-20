@@ -1,6 +1,5 @@
 # Casescan
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d9fc15de-a4fe-4baf-9b5a-5d62a4cf1352/deploy-status)](https://app.netlify.com/sites/pedantic-khorana-cf5b1a/deploys)
 ![Deploy to Heroku](https://github.com/AlbertSuarez/casescan/workflows/Deploy%20to%20Heroku/badge.svg)
 ![Python application](https://github.com/AlbertSuarez/casescan/workflows/Python%20application/badge.svg)
 
