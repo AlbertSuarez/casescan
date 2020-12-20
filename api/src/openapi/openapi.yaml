@@ -11,7 +11,7 @@ externalDocs:
   url: https://github.com/AlbertSuarez/casescan
 
 servers:
-  - url: http://api.casescan.ga
+  - url: https://casescan.herokuapp.com
     description: Production endpoint
 
 tags:

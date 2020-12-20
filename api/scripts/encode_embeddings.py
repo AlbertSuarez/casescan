@@ -53,13 +53,9 @@ def _encode(output_embeddings_file, output_mapping_file):
                     mapping_dict[section_name][case_id] = section_embeddings_idx
 
             # Save aggregated results
-            m = aggregated_embeddings.shape[0]
-            target_dims = f[SECTION_AGGREGATED].shape[1]
-            if m < target_dims:
-                new_aggregated = np.empty((target_dims, ))
-                new_aggregated[:m] = aggregated_embeddings
-                new_aggregated[m:] = aggregated_embeddings[np.random.choice(range(m), size=target_dims - m)]
-                aggregated_embeddings = new_aggregated
+            aggregated_embeddings = transformer.complete_aggregation(
+                aggregated_embeddings=aggregated_embeddings, target_dims=f[SECTION_AGGREGATED].shape[1]
+            )
 
             aggregated_embeddings_idx = len(mapping_dict[SECTION_AGGREGATED])  # Compute current aggregated index
             f[SECTION_AGGREGATED][aggregated_embeddings_idx] = aggregated_embeddings

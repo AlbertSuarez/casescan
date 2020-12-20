@@ -1,0 +1,45 @@
+name: Deploy to GitHub pages
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      node-vesion: 10.x
+      cname: casescan.asuarez.dev
+      base-directory: ./client
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v1
+
+    - name: Use Node.js ${{ env.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ env.node-version }}
+
+    - name: Create temporary NPM cache
+      working-directory: ${{env.base-directory}}
+      run: npm install --cache /tmp/empty-cache
+
+    - name: Install dependencies
+      working-directory: ${{env.base-directory}}
+      run: npm install
+
+    - name: Build
+      working-directory: ${{env.base-directory}}
+      run: npm run-script build
+
+    - name: Create CNAME
+      working-directory: ${{env.base-directory}}
+      run: echo '${{ env.cname }}' > build/CNAME
+
+    - name: Deploy
+      uses: JamesIves/github-pages-deploy-action@3.6.2
+      with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH: gh-pages
+        FOLDER: ${{env.base-directory}}/build

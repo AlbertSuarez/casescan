@@ -13,7 +13,7 @@ ADD ./uwsgi.ini ${HOME}/uwsgi.ini
 
 # Install dependencies
 RUN pip install --upgrade pip
-RUN pip install -r ${HOME}/requirements.lock
+RUN pip install -r ${HOME}/requirements.lock --no-binary nmslib
 
 # Set up port to listen
 ENV PORT 80

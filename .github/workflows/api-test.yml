@@ -35,8 +35,10 @@ jobs:
     - name: Sleep
       uses: jakejarvis/wait-action@master
       with:
-        time: '10s'
+        time: '300s'
     - name: Check running containers
       run: docker ps
+    - name: Check containters log
+      run: docker-compose logs
     - name: Test index endpoint
       run: curl -f http://localhost:8080/ | grep "Welcome to Casescan API!" || exit 1
