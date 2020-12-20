@@ -1,5 +1,6 @@
 # Casescan
 
+![Deploy to GitHub pages](https://github.com/AlbertSuarez/casescan/workflows/Deploy%20to%20GitHub%20pages/badge.svg)
 ![Deploy to Heroku](https://github.com/AlbertSuarez/casescan/workflows/Deploy%20to%20Heroku/badge.svg)
 ![Python application](https://github.com/AlbertSuarez/casescan/workflows/Python%20application/badge.svg)
 
@@ -10,7 +11,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/AlbertSuarez/casescan.svg)](https://gitHub.com/AlbertSuarez/casescan/graphs/contributors/)
 [![GitHub license](https://img.shields.io/github/license/AlbertSuarez/casescan.svg)](https://github.com/AlbertSuarez/casescan/blob/master/LICENSE)
 
-[API Documentation](https://casescan.herokuapp.com/ui/) | [API Endpoint](https://casescan.herokuapp.com/)
+[Demo](https://casescan.asuarez.dev) | [API Documentation](https://casescan.herokuapp.com/ui/) | [API Endpoint](https://casescan.herokuapp.com/)
 
 🔍 Clinical cases search by similarity specialized in Covid-19
 
