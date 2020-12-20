@@ -122,3 +122,4 @@ data/
 !data/db.pkl
 !data/embeddings_full.h5
 !data/mapping.pkl
+!data/indexes/
