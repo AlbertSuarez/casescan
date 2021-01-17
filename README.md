@@ -15,11 +15,11 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/AlbertSuarez/casescan.svg)](https://gitHub.com/AlbertSuarez/casescan/graphs/contributors/)
 [![GitHub license](https://img.shields.io/github/license/AlbertSuarez/casescan.svg)](https://github.com/AlbertSuarez/casescan/blob/master/LICENSE)
 
-[Demo](https://casescan.asuarez.dev) | [API Documentation](https://casescan.herokuapp.com/ui/) | [API Endpoint](https://casescan.herokuapp.com/) | [Devpost](https://devpost.com/software/casescan)
+[Demo](https://casescan.asuarez.dev) | [API Documentation](https://casescan.herokuapp.com/ui/) | [API Endpoint](https://casescan.herokuapp.com/)
 
 🔍 Clinical cases search by similarity specialized in Covid-19
 
-> Note: The public backend is usually not working due to the free-tier of Heroku.
+> Note: The public backend is not returning the best results due to the free-tier of Heroku. More details below.
 
 ## Summary
 
@@ -123,6 +123,14 @@ Once we have the `db.pkl` file contains the clinical cases' data, the next step 
 Firstly we decided to not train our own model, basically for time concerns given that this project is for a hackathons. So, we ended up in research of which is the model that would work better.
 
 We discovered the [sentence-transformers](https://github.com/UKPLab/sentence-transformers) tool, specialized in embedding retrieving from several sentences, as known as paragraphs; exactly what we wanted. Looking at the available pre-trained models in [their documentation](https://www.sbert.net/docs/pretrained_models.html), we finally decided to go for an **Average Word Embeddings Model**, more specifically, going for the 840B version of the GloVe model, the current State-of-the-Art.
+
+The GloVe model was returning very good results in a crazy time performance, but we finally went using the `average_word_embeddings_levy_dependency` weight model for basically fitting the API using the free-tier Heroku machine. So, the results could not be the best ones. In order to retrieve the embeddings with different models, just tweak the `MODEL_NAME` variable under the `api/src/__init__.py` file.
+
+```python
+# Transformer
+MODEL_NAME = 'average_word_embeddings_levy_dependency'
+MODEL_DIMENSIONS = 300
+```
 
 This model has an output embeddings size of **300** dimensions. So, given the 6 sections described in the previous step, we created 6 different datasets under an H5 file called `embeddings_full.h5` with the clinical cases text features saved. These 6 datasets has an extra 7 one representing the aggregation of every section, being then a dataset with **1800** dimensions.
 
